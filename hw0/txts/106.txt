@@ -1,0 +1,400 @@
+( )
+olu5 $
++
+-
+=
+ 
+• 
+(
+)
+(
+)
+R $
++
+-
+ polinomunun katsayıları toplamı 
+(
+)
+(
+)
+( )
+olu$
+$
++
+-
+=
+-
+ ifadesine f(x) denilirse ( )
+( )
+f ve =
+-
+=
++
+-
+ olur(x)
+fo=
+-
+^
+ olduğundan 
+(
+)
+-
+= -
++
+ polinomunda x  yerine +
+ yazılırs(
+(
+)
+)
+(
+)
+( )
+P olu$
+$
++
+-
+= -
++
++
+= -
+-
++
+= -
+-
+ 
+(
+)
+-
+= -
++
+ olduğuna göre 
+( )
+P x  polinomunu bulunuzP $
+=
+-
+-
+^
+^
+^
+ polinomunun katsayıları toplamını bulunuzP(x) polinomunun katsayıları toplamı 
+( )
+P 1  olduğundan x yerine 1 yazılırsP olu$
+$
+$
+$
+=
+-
+-
+=
+-
+-
+= -
+=
+^
+^
+^
+^
+^
+^
+^
+^
+^
+( )
+P aa$
+$
+= -
++
++
++
++
+ polinomunun katsayıları toplamı +
+ olduğuna göre a gerçek sayısınn değerini bulunuzP(x) polinomunun katsayıları toplamı P(1) dir( )
+olu4 $
+$
+$
+= -
++
++
++
++
+=
++
+-
++
++
++
++
+=
++
++
+=
++
+= -
+(
+)
+P $
+-
+= -
++
+-
+ olduğuna göre 
+(
+)
+-
+ polinomunun katsayıları toplamını bulunuz(
+)
+-
+ polinomunun katsayıları toplamı 
+(
+)
+(
+)
+2 $
+-
+=
+-
+ olur. Buradan P -
+^
+h polinomunda 
+-
+^
+h değerini bulmak için &
+-
+= -
+= -  değeri 
+(
+)
+P $
+-
+= -
++
+-
+ polinomunda x yerine 
+yazılırsa 
+(
+)
+(
+)
+olu&
+$
+$
+- -
+= -
+-
++
+-
+-
+-
+= -
+-
+-
+= -
+]
+]
+   
+(
+)
+P +
+= -
++
+ olduğuna göre (
+)
+(
+)
+$
+-
++
+ polinomunun katsayıları toplamını bulunuz(
+)
+(
+)
+$
+-
++
+ ifadesinde x yerine 1 yazılırsa (
+)
+(
+)
+( )
+$
+$
+$
+-
++
+= -
+]  olur. Buradan 
+P +
+l polinomunda P ^ h değerini bulmak için &
+&
++
+=
++
+=
+=
+ olur. Bu değer, 
+(
+)
+P +
+= -
++
+ polinomunda x yerine yazılırsa 
+(
+)
+( )
+10 &
+$
++
+= -
++
+= -  olur. 
+Buradan 
+( )
+$
+$
+-
+= -
+-
+= -
+]
+ olurP(x) polinomundaki çift dereceli terimler 
+,
+acve e di Buradan çift dereceli terimlerin katsayıları toplam +
++
+ olur. Tek dereceli terimler ise 
+bx ve dx ti Buradan tek dereceli terimlerin katsayıları toplam +
+ olur( )
+(
+)
+=
++
++
++
++
++
+-
+=
+-
++
+-
++
+3  ifadeleri taraf tarafa toplanırs 
+( )
+(
+)
+( )
+(
+)
+( )
+(
+)
+e olu$
++
+-
+=
++
++
++
+-
+=
++
++
++
+-
+=
++
++
+^
+( )
+(
+)
+=
++
++
++
++
+-
+-
+=
+-
++
+-
++
+3  ifadeleri taraf tarafa çıkarılırs 
+( )
+(
+)
+( )
+(
+)
+( )
+(
+)
+d olu$
+-
+-
+=
++
+-
+-
+=
++
+-
+-
++
+=
+^
+( )
+P abcd=
++
++
++
++
+ polinomunun çift dereceli terimlerinin katsayıları toplamının 
+( )
+(
+)
++
+-
+ 
+ve tek dereceli terimlerin katsayıları toplamının 
+( )
+(
+)
+-
+-
+ olduğunu gösterinizİpucBir P(x) polinomunda;
+Çift dereceli terimlerin katsayıları toplamı 
+( )
+(
+)
++
+-
+,
+Tek dereceli terimlerin katsayıları toplamı 
+( )
+(
+)
+olu-
+-
+  
+( )
+(
+)
+(
+)
+P $
+=
+-
++
+ polinomu veriliyor. Buna göra) P ^ h polinomunun çift dereceli terimlerinin katsayıları toplamını bulunuzb) P ^ h polinomunun tek dereceli terimlerinin katsayıları toplamını bulunuz( )
+(
+)
+(
+)
+P $
+=
+-
++
+ ise  
+( )
+(

@@ -1,0 +1,400 @@
+( )
+Q P T R Q T P T R Q $
+$
+$
++
+=
++
+ biçiminde yapılır. 
+b) Çıkarma işlemi 
+( )
+( )
+( )
+( )
+( )
+( )
+( )
+( )
+( )
+( )
+Q P T R Q T P T R Q $
+$
+$
+-
+=
+-
+ biçiminde yapılırİpucba+
+-
++
++
+ ifadesinin en sade hâli +
+-
+ olduğundan payın bir çarpanı -  olup payı tam böler. 
+Buradan &
+-
+=
+=
+ değeri a2 +
++
+ ifadesinde yerine yazılırsa  
+&
+$
++
++
+=
+= -  olurPaydanın bir çarpanı +
+ olup +
+ paydayı tam böler. Buradan &
++
+=
+= -  değeri 
+b2 +
+-
+ ifadesinde yerine yazılırsa 
+&
+&
+$
+-
++
+-
+-
+=
+-
+= -
+=
+]
+]
+ olur. 
+Buradan +
+= - +
+= -  olura-
++
++
++
+ ifadesi sadeleşebilir olduğundan paydanın çarpanlarından en az biri aynı zamanda payın 
+da çarpanı olmak zorundadır. 2 -
++
+ ifadesinin çarpanları $
+-
+-
+]
+]
+g olur. 
+-
+]
+g payın bir çarpanı ise a2 +
++
+ polinomunu tam böler. Burada&
+-
+=
+=
+ olup 
+olu&
+&
+&
++
++
+=
++
++
+=
+= -
+= -
+ 
+-
+]
+g payın bir çarpanı ise a2 +
++
+ polinomunu tam böler. Burada&
+-
+=
+=
+ olup 
+olu&
+&
+&
++
++
+=
++
++
+=
+= -
+= -
+Buradan a nın alabileceği değerler toplamı 
+olu-
++ -
+= -
+^
+^
+a gerçek sayı olmak üzere a-
++
++
++
+ ifadesi sadeleşebilir bir kesir olduğuna göre a nın alabileceği 
+değerler toplamını bulunuzRasyonel İfadelerde Toplama ve Çıkarma İşlemlera, b gerçek sayılar olmak üzere ba+
+-
++
++
+ rasyonel ifadesinin en sade hâli +
+-
+ olduğuna göre +
+ 
+değerini bulunuz,
+,
+( )
+( )
+( )
+Q R T !
+!
+!
+ iken 
+( )
+( )
+( )
+( )
+Q P ve T R x  birer rasyonel ifade olmak üzera) Çarpma işlemi 
+( )
+( )
+( )
+( )
+( )
+( )
+( )
+( )
+Q P T R Q T P R $
+$
+$
+=
+ biçiminde yapılır. 
+b) Bölme işlemi 
+( )
+( )
+( )
+( )
+( )
+( )
+( )
+( )
+( )
+( )
+( )
+( )
+Q P T R Q P R T Q R P T |
+$
+$
+$
+=
+=
+ biçiminde yapılırİpucRasyonel İfadelerde Çarpma ve Bölme İşlemlerolu$
+$
+$
+$
++
+-
++
+-
+-
+-
++
++
+=
++
+-
++
+-
+-
++
++
++
+=
+-
+-
+-
++
+=
+-
+-
+-
+=
+-
+- -
+]
+]
+]
+]
+]
+]
+]
++
+-
++
+-
+-
+-
++
++
+ ifadesinin en sade hâlini bulunuzVerilen eşitliğin sağ tarafında paydalar eşitlenirse 
+(
+) (
+)
+(
+) (
+)
+(
+)
+ABB olu&
+$
+$
+$
+-
++
+-
+=
+-
++
++
+-
++
+-
+=
+-
++
++
++
+-
++
+-
+]
+]
+]
+]
+]
+444 444 Eşitliğin her iki tarafında paydalar eşit olduğundan  paylar da eşit olur(
+)
+B -
+=
++
++
+-
+ yazılır. İki polinomun eşitliğinden v+
+=
+-
+= -
+ olur. 
+Bu iki denklem yok etme yöntemiyle aşağıdaki gibi çözülürs                                
+    
+olu+
+=
+-
++
+=
+=
++
+=
+-
+= -
++
+olu= -
+= -
+(
+) (
+)
+$
+-
++
+-
+=
+-
++
++
+ eşitliğini sağlayan A ve B gerçek sayılarını bulunuz$
+$
+$
+$
+-
+-
+-
+-
+-
+-
+=
+-
++
+-
++
+-
+-
+=
++
++
+]
+]
+^
+^
+^
+^
+^
+^
+h  olur$
+-
+-
+-
+-
+-
+-
+ rasyonel ifadesinin en sade hâlini bulunuzHayırsever iş adamı Kemal Bey, yıllık kazancının x2  Türk 
+lirasını ihtiyacı olan üniversite öğrencilerine burs vermek için 
+ayırıyor. Bu parayı aşağıdaki koşullara uygun olarak dağıtıyor• Öncelikle 1600 Türk lirasını komşusunun kızı Polen’e veriyo• Kalan parasını ise  (x>40 olmak üzere) -
+ kişiye eşit 
+olarak dağıtıyorBuna göre Polen dışındaki öğrencilerin kaçar Türk lirası burs 
+aldığını bulunuzKemal Bey, x2  Türk lirasının 1600 Türk lirasını Polen’e verdiğinden geriye 2 -
+ Türk lirası kalır.  
+Kalan parasını -
+ öğrenciye eşit olarak dağıttığında bu öğrencilerden her biri,
+  
+(
+)
+(
+) (
+)
+$
+-
+-
+=
+-
+-
+=
+-
+-
++
+=
++
+ Türk lirası alır|
+$
+$
+$
+-
+-
+-
++
++
+-
+=
+-
++
+-
+-
+-
++
+=
+]
+]
+]
+]
+]
+]
+ olur|
+-
+-
+-

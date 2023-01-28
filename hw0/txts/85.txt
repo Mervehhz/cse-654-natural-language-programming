@@ -1,0 +1,400 @@
+edilmek isteniyorsa sistemde istenilen dönüşümü (fonksiyonu) 
+gerçekleştirmek için ilgili tuşa basılır. Buğdayın ilgili birimin paketlem bölümünden istendiği şekilde çıkması fabrikanın dönüştürm (fonksiyon) birimlerinin doğru çalıştığını gösterirYukarıda sayılan ve çevrede görülen birçok şey bir fonksiyondur. 
+Matematikte fonksiyon tıpkı günlük hayatta gözlemlenen olay ve 
+sonuçlar gibi bilimsel bir kurala göre girdi ve çıktılardan oluşan 
+bir dönüştürücüdür. 
+Hazırlık Çalışmas1. 1,
+,
+,
+,
+,
+,
+,
+, 2 3 4 ^
+^
+^
+^
+ yandaki sıralı ikililerin birinci ve ikinci bileşenleri arasındaki ilişkiyi 
+bulunuz2.  Bir aracın ortalama hızı 
+/
+km s tir. Buna göre bu aracın hareketinden herhangi bir saat sonra 
+toplam kaç kilometre yol aldığını veren yol-zaman formülü oluşturunuz3.  Bilgi: Birbirini çeviren iki çarkın dönme sayısı diş sayısı ile ters orantılıdırBirbirini çeviren iki çarktan büyük çarkın diş sayısı küçük çarkın diş sayısının 4 katıdır. Buna göre 
+büyük çarkın dönme sayısı x olmak üzere küçük çarkın dönme sayısını veren formülü bulunuz10.2.1. Fonksiyon Kavramı ve Gösterim10.2.1.1. Fonksiyonlarla İlgili ProblemleDoğum için bir hastanenin ameliyathanesine aynı anda alınan 4 anne adayının tamamı sağlıklı birer doğu gerçekleştirmiştir. Anne adaylarından birinin ikiz bebeği, diğer üçünün ise birer bebeği dünyaya gelmişti. Hemşire, bebekleri yeni doğan servisine götürerek kontrollerini yaptırdıktan sonra kıyafetlerini giydiri annelerine teslim etmektedir. Her bebeğin annesine teslim edilmesi ve serviste teslim edilmeyen 
+bebeğin kalmaması gerekmektedir. 
+Bebeklerin oluşturduğu küme A, annelerin oluşturduğu küme B kümesi olmak üzere bebeklerin annelerine 
+teslim edilmesi ile ilgili aşağıda verilen eşleştirmeleri inceleyiniz• Fonksiyonlarla ilgili problemler çözebilmeyi,
+• Fonksiyonların grafiklerini çizebilmeyi,
+• Fonksiyonların grafiklerini yorumlayabilmeyi,
+• Gerçek hayat durumlarından doğrusal fonksiyonlarla ifade edilebilenlerin grafik gösterimlerin yapabilmeyi öğreneceksinizYandaki eşleştirmede bebeklerin her birini hemşirenin kendi 
+annesine teslim ettiği görülmektedir. Annesine teslim edilmeye bebeğin kalmaması ve her bebeğin annesine teslim 
+edilmesi sebebiyle yapılan bu eşleştirme doğru bir eşleştirme 
+örneğidir (Bir annenin ikiz bebeği olduğundan ikiz bebeklerin 
+her ikisinin de  kendi annelerine götürüldüğüne dikkat ediniz.)Yandaki şekilde yapılan eşleştirme, bu bölümde öğrenilecek 
+fonksiyon konusu için bir örnek model oluşturmaktadırYandaki eşleştirmede hemşirenin bebeklerden birini farklı iki  
+anneye teslim etmesinin mümkün olmaması ve bebeklerden 
+birini annesine teslim etmemesi doğru bir eşleştirme örneği 
+değildirYandaki şekilde yapılan eşleştirme bu bölümde öğrenilecek 
+fonksiyon konusu için bir örnek model oluşturmamaktadırSembol ve Gösterimle• 
+"
+f : B , ( )
+f A , 
+( )
+f =
+, 
+ 
++
+, -
+, f $
+, f ,     Terimler ve Kavramla• Fonksiyo• Tanım Kümes• Değer Kümesi 
+• Görüntü Kümes• Fonksiyonun Grafiğ• Sabit Fonksiyon 
+• İçine Fonksiyo• Örten Fonksiyon 
+• Bire Bir Fonksiyo• Eşit Fonksiyo• Birim Fonksiyon 
+• Doğrusal Fonksiyo• Tek Fonksiyo• Çift Fonksiyo• Dikey (Düşey) Doğr     TestBilgA ve B boş kümeden farklı iki küme olmak üzere  A kümesinin her bir elemanını B kümesinin bir ve 
+yalnız bir elemanına eşleyen ilişkiye A dan B ye tanımlı fonksiyon denir. Fonksiyonlar genellikle f, h, g 
+gibi sembollerle gösterilir. 
+Bir A kümesinden B kümesine tanımlı f fonksiyonu 
+"
+:
+B  ile gösterilir. A kümesine tanım kümesi, 
+B kümesine değer kümesi denir. A dan A ya tanımlı bir fonksiyona kısaca A da tanımlı fonksiyon da 
+denilebilir. f fonksiyonu A kümesinden alınan bir x elemanını B kümesindeki bir y elemanı ile eşliyor 
+ise x elemanının  f altındaki görüntüsü y elemanıdır denir. Bu durum 
+( )
+f =
+ biçiminde gösterilir"
+:
+B  olmak üzere tanım kümesindeki elemanların f fonksiyonu altındaki görüntülerinin oluşturduğ kümeye bu fonksiyonun görüntü kümesi denir ve ( )
+f A  ile gösterilir. Görüntü kümesi ortak 
+özellik yöntemi ile  ( )
+{ ( )
+}
+f f !
+=
+ olarak ifade edilirTanım KümesDeğer KümesGörüntü 
+KümesÖrneğin yanda verilen şekilde, 
+• Tanım kümesinde boşta kalan herhangi bir eleman olmadığında ve tanım kümesindeki her eleman değer kümesinde 
+yalnız bir elemanla eşlendiğinden f bir fonksiyondur• f fonksiyonunun tanım kümesi 
+a, b, c, A = "
+, , değer kümes 
+2, 4, 6, B = "
+, ,  görüntü kümesi 
+2, 4, ( )
+f A = "
+,  ve 
+( )
+f  olur• a elemanının f altındaki görüntüsü 2 olup ( )
+f =
+ olarak ifad edilir. Benzer şekilde ( )
+f =
+, ( )
+f =
+ ve ( )
+=
+ olur• f fonksiyonu sıralı ikililer kullanılara   
+a, 2 , b, 4 , c, 6 , ç, f = ^
+^
+^
+^
+"
+,  biçiminde de gösterilebilirAşağıdaki Venn şemaları ile verilen ifadelerden hangilerinin fonksiyon olduğunu bulunuz         
+                                                                                                        
+                                                                                   
+a)
+b)
+c)
+"
+:
+"
+:
+"
+:
+a) g, tanım kümesindeki her elemanı değer kümesinde bir ve yalnız bir elemanla eşleştirdiği için 
+fonksiyondurb) h, tanım kümesindeki c elemanını değer kümesinde herhangi bir elemanla eşleştirmediği için 
+fonksiyon değildirc) k, tanım kümesindeki c elemanını değer kümesinde iki elemanla eşleştirdiği için fonksiyon değildiEsra ve Derya, küçük kardeşleri Uğur’un birden beşe kadar saymayı öğrendiğini gördüklerinde ona yeni 
+sayılar öğretmek amacıyla aşağıdaki kurallara göre bir oyun oynamaya karar veriyorlar• Uğur, ablası Esra’nın kulağına bildiği sayılardan birini söyleyecektir. 
+• Esra, kardeşinin söylediği sayının iki katını ablası Derya’nın kulağına söyleyecektir. 
+• Derya ise Esra’nın söylediği sayının üç fazlasını yüksek sesle duyuracaktır ve böylelikle Uğur’un 
+söylediği sayının dönüşümü tamamlanacaktır• Bu oyun Uğur’un bildiği tüm sayıların dönüşümü tamamlanana kadar sürecektir. 
+Buna göre bu kardeşlerin oynadığı oyunun kuralını bir fonksiyon şeklinde yazarak bu fonksiyonun tanım 
+ve  görüntü kümelerini bulunuz1, 2, 3, 4 ,
+x, y, =
+=
+"
+"
+,
+,  kümeleri veriliyor. Aşağıdaki ifadelerden hangilerinin  A kümesinden B kümesne bir  fonksiyon belirttiğini bulunuz       a) 
+(1, y), (2, x), (3, z), (4, y)
+f = "
+,   b) 
+(1, x), (2, y), (4, z)
+g = "
+,  c) 
+(x, 1), (y, 2), (z, 3)
+h = "
+,
+a) 
+(1, y), (2, x), (3, z), (4, y)
+f = "
+,  ifadesinde tanım kümesindeki tüm elemanlar birer defa eşlendiğ için f bir fonksiyondurb) 
+(1, x), (2, y), (4, z)
+g = "
+,  ifadesinde tanım kümesindeki 3 elemanı değer kümesindeki herhangi 
+bir elemanla eşleşmediği için g bir fonksiyon değildirc) 
+(x, 1), (y, 2), (z, 3)
+h = "
+,  ifadesinde B kümesindeki elemanlar A kümesindeki elemanlar ile eşleştiğ için h, A dan B ye bir fonksiyon değildirUğur’un ablası Esra’ya söylediği sayı x olmak üzere Esra’nın Derya’ya söylediği sayı 2x ve 
+Derya’nın duyurduğu sayı +
+ olur. Böylelikle x sayısına karşılık +
+ sayısı oluşur. Bu 
+oyunun kuralı ( )
+f =
+ olacak şekilde ( )
+f =
++
+ eşleştirme kuralı ile ifade edilebilir ve 
+1, 5 , 2, 7 , 3, 9 , 4, 11 , 5, f = ^
+^
+^
+^
+^
+"
+,  olur. Bu fonksiyondaki sıralı ikililerin birinci bileşenler Uğur’un bildiği sayılar kümesi olan 1, 2, 3, 4, "
+,  olup bu küme fonksiyonun tanım kümesidir. Bu 
+fonksiyondaki sıralı ikililerin ikinci bileşenleri ise Uğur’un bildiği sayılara karşılık oyunun sonunda oluşa yeni sayılardır ve bu sayılar görüntü kümesini oluşturur. Buna göre bu fonksiyonun görüntü kümesi 
+5, 7, 9, 11, "
+,  olurAşağıda tanım ve değer kümeleri verilen ifadelerin fonksiyon belirtip belirtmediğini bulunuz       a) 
+"
+,
+:
+( )
+f =
++
+              b) 
+"
+,
+:
+( )
+g =
+-
++
+-
+a) f fonksiyonunun tanım kümesinden alınan her x gerçek sayısı için $
++
+ ve 
+2 +
+ ifadesi 
+bir gerçek sayıdır. Dolayısıyla 
+"
+,
+:
+( )
+f =
++
+ ifadesi bir fonksiyon belirtirb) g fonksiyonunun tanım kümesindeki bazı değerler için 
+5 -
+ ifadesinin bir gerçek sayı olmadığ görülür. Örneğin =
+  için 
+-
+=
+-
+ sayısı bir gerçek sayı değildir. Buna göre 
+"
+,
+:
+( )
+g =
+-
++
+-  ifadesi bir fonksiyon değildira) Tanım kümesindeki 
+!
+-
+ için (
+)
+$
+-
+=
+- +
+-
++
+= -
+^
+ olduğundan 
+-  elemanı değer 
+kümesindeki herhangi bir elemanla eşleşmediğinden f fonksiyon değildirb) Tanım kümesindeki her eleman, değer kümesinde herhangi bir elemanla eşleşeceğinden ve hiçbi eleman açıkta kalmayacağından g bir fonksiyondurc) Tanım kümesindeki !
+ için 
+( )
+h $
+=
++
++
+=
+^  olduğundan 3  elemanı değer kümesindek herhangi bir elemanla eşleşmediğinden h fonksiyon değildirA kümesinin her elemanının f fonksiyonundaki görüntüsü f(A) yı vereceğinden A kümesinin her elemanı f 
+fonksiyonunda x yerine yazılırsa 
+(
+)
+(
+)
+$
+=
+-
+=
+-
+-
+- ,
+( )
+( )
+f $
+=
+-
+= - ,
+( )
+( )
+f $
+=
+-
+=
+ ,
+( )
+( )
+f $
+=
+-
+=
+ bulunur. Buradan görüntü kümesi, 
+,
+1, 1, ( )
+{
+}
+f = -
+-
+ olurAşağıda tanım ve değer kümeleri verilen ifadelerin fonksiyon belirtip belirtmediğini bulunuza) 
+"
+,
+:
+( )
+f =
++
++
+b) 
+"
+,
+:
+( )
+g =
++
++
+c) 
+"
+,
+:
+( )
+h =
++
++
+, 0, 1, {
+}
+= -
+ olmak üzere 
+"
+,
+:
+f =
+-
+^  şeklinde tanımlanan f fonksiyonunun görüntü kümesni bulunuz( )
+f A  görüntü kümesi tanım kümesindeki her elemanın f fonksiyonu altındaki görüntüsü olduğundan görünt kümesindeki her bir elemanın f foksiyonuna eşitlenmesiyle bulunan x değerleri tanım kümesinin 
+birer elemanı olacaktır. 
+&
+&
++
+= -
+= -
+= - ,
+&
+&
++
+=
+=
+=
+,
+&
+&
++
+=
+=
+=
+ olur. Buradan tanım kümesi,
+, 3, 4}
+{
+= -
+ bulunur"
+,
+:
+( )
+f =
++
+ fonksiyonunda 
+0, 18, 22}
+( )
+{
+f = -
+ olduğuna göre f fonksiyonunun tanım kümesni bulunuz,
+2 ! -
+^
+h olduğundan 
+<
+<
+-
+ olur. Buradan eşitsizliğin her bölgesi 2 ile çarpılırsa 
+<
+<
+-
+ 
+olur. Her bölgeye 
+-  eklenirse  
+<
+<
+-
+-
+-   elde edilir. Buna göre f fonksiyonunun görüntü kümes 
+,
+(
+)
+-
+-
+ olarak bulunur"
+,
+:
+2 -
+^
+ ve ( )
+f =
+-
+ olduğuna göre f fonksiyonunun görüntü kümesini bulunuz"
+,
+,
+:
+( )
+( )
+(
+B f ve f 1 =
+-
+= -
+? olduğuna göre A kümesini bulunuz,
+( )
+f 1 ! -
+^
+@ olduğundan 
+<
+#
+-
+-
+ olur. Buradan eşitsizliğin her bölgesine 3 eklenip her bölges1  ile çarpılırsa  
+<
+#
+  elde edilir. Buna göre f fonksiyonunun tanım kümesi 
+,
+1 = ^
+@ olarak bulunur"
+,
+:
+( )

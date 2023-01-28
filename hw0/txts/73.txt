@@ -1,0 +1,400 @@
+$
+=
+=
+44444444  olurc) 
+!
+!
+!
+!
+10 9 10 $
+$
+$
+=
+=
+=
+ olurç) !
+!
+!
+!
+! (
+)
+!
+7 6 7 $
+$
+$
+$
+$
+-
+=
+-
+=
+-
+=
+ olur!
+!
+!
+!
++
+-
+ işleminin sonucunu bulunuz!
+ olmak üzere (
+)!
+(
+)!
+(
+)!
+(
+)!
++
++
++
++
+-
++
+=
++
+ denklemini sağlayan n değerini bulunuz(
+)!
+(
+)!
+(
+)!
+(
+)!
+(
+) (
+)!
+(
+)!
+(
+) (
+)!
+(
+)!
+(
+)! (
+)
+(
+)! (
+)
+(
+)! (
+)
+(
+) (
+)! (
+)
+(
+)
+(
+)
+olup olu&
+&
+&
+&
+&
+$
+$
+$
+$
+$
+$
+$
++
++
++
++
+-
++
+=
++
++
++
++
++
++
++
+-
++
+=
++
++
++
++
++
++
+-
+=
++
++
++
++
++
++
+=
++
++
++
+=
++
++
+=
++
+=
+=
+!
+8  ve !
+7  sayıları !
+!
+8 7 $
+$
+=
+ ve !
+!
+7 $
+=
+ olarak yazılırs!
+!
+!
+!
+! (
+)
+! (
+)
+7 8 7 7 8 $
+$
+$
+$
+$
+$
+$
++
+-
+=
++
+-
+=
+-
+=
+ olur1. sandalyeye 5 kişiden herhangi biri  5 değişik şekilde,
+2. sandalyeye kalan 4 kişiden biri 4 farklı şekilde,
+3. sandalyeye kalan 3 kişiden biri 3 farklı şekilde,
+4. sandalyeye kalan 2 kişiden biri 2 farklı şekilde,
+5. sandalyeye kalan 1 kişi 1 farklı şekilde oturur5 farklı sandalyeye oturuşlarının sayısı, saymanın temel ilkesi kullanılarak 1 2 3 4 $
+$
+$
+$
+=
+ bulunur1 den 5 e kadar olan ardışık doğal sayıların çarpımının !
+5  olduğuna dikkat ediniz5 kişinin 5 sandalyeye kaç farklı şekilde oturabileceğini bulunuzVeri, Sayma ve OlasılıVeri, Sayma ve OlasılıBirbirinden farklı n tane nesne yan yana 
+(
+) (
+) !
+3 2 $
+$
+$
+$
+$
+$
+-
+-
+=
+ farklı şekildsıralanabilirİpuca) 6 kişilik bu aile herhangi bir koşul olmadan yan yana !
+6  farklı biçimde sıralanabilirb) 
+Anne ve baba birbirinden ayrılmayacağına göre çocuklarl yer değişimi yapılırken anne ve baba 1 kişi gibi düşünülü. Dolayısıyla ailedeki kişi sayısı +
+=
+ olarak alınırs yan yana 
+!
+5  sayıda sıralanırlar. Elde edilecek her 
+sıralamada anne ve baba birbiriyle 
+!
+2  kadar yer değiştirebileceğinde tüm sıralama sayısı  !
+!
+120 $
+$
+=
+=
+ 
+olurAnne, baba ve 4 çocuktan oluşan 6 kişilik bir aile yan yana sıralanarak fotoğraf çektirecektira) Aile bireylerinin kaç farklı biçimde sıralanabileceğini bulunuzb) Anne ve baba bir arada olmak üzere aile bireylerinin kaç farklı biçimde sıralanabileceğini bulunuzBilim İnsanlarSaymanın Tarihsel Gelişimi ve Sâbit İbn Kurr1960’da Afrika’nın Kongo bölgesinde bulunan MÖ 18 000-20 000 yıllarına ait Isango kemiğinde sayıları gösterimi bulunmuştur. Bu bilgiden yola çıkarak saymanın tarihinin insanoğlunun tarihi kadar 
+eskiye dayandığı düşünülebilir. İnsanoğlu saymaya ürününü, hayvanını sayarak başlamış, saymak için 
+de bir süre sonra semboller ve sistemler geliştirmiştir. Başlangıçtaki parmakla sayma daha sonra yerini 
+çakıl taşı ile saymaya bırakmıştır. Yüz adet çakılı saymak otlarken etrafa yayılan yüz koyunu saymakta çok daha kolay olduğundan Mısırlılar, Yunanlılar ve Çinliler günlük hesaplama işlemlerini farklı 
+büyüklükte çakıl taşları kullanarak yapmışlardır. Bu nedenle Latincede “hesaplama” anlamını kazanan, 
+geçmişte ve günümüzde üniversitelerde okutulan bir ders olan kalkülüs adı “çakıl taşı” kelimesinden 
+kaynaklanmaktadır. İlk abaküsler de aslında çakıl taşlarının birler, onlar, yüzler şeklinde yerleştirildiği 
+basit sayma düzenekleriydi. 
+Günümüzden yaklaşık 4000 yıl önce bugünkü Anadolu, Suriye, Ürdün ve Irak bölgesinde önemli 
+medeniyet kurmuş olan Sümerler ile Babil Krallığında günlük hayatta saymak için basamak değerl bir sistem kullanılmıştır. Bu sistem 60 tabanlı bir sistemdir. 60 tabanlı sistemin bir kalıntısı olarak 
+günümüzde saat sisteminde bir saatin 60 dakika bir dakikanın 60 saniye oluşu gösterilebilir. Bir insan 
+için nasıl sayılar diyarında gezme işi küçük yaşlarda başlayıp sonradan gelişiyorsa insanoğlu için de 
+sayma sistemi Hint rakamları, Arap rakamları kullanılarak çok eski dönemlerden günümüze değişerek, 
+gelişerek gelmiştir. Sayılar sisteminin başlangıcının 1 olduğu ve saymaya onunla başlandığı küçük 
+yaşlarda öğrenilir ama bir sepette kaç elma olduğunu saymak sonraki yaşlarda öğrenilirHiçliği gösteren bir simgenin kullanılmaya başlaması binlerce yıl öncesine dayanır. Babillilerden etkilene gökbilimci Klaudios Ptolemaıos (Kladyus Batlamyus), kendi sayı sisteminde modern 0 a (sıfır) 
+benzer bir simgeyi yer belirteci olarak kullanmıştır. Bu sayede 75 ve 705 sayılarını ayırt etmek mümkü olmuştur. 
+Veri, Sayma ve OlasılıVeri, Sayma ve Olasılı    Sâbit İbn Kurrâ’nın temsilî resm7. yy.’da Hintli matematikçi Brahmagupta sıfırı yer belirteci olmanın ötesinde bir sayı olarak kabul etmiş 
+ve sıfırla yapılacak işlemlerle ilgili kuralları belirlemeye çalışmıştır. Sıfıra bu şekilde yaklaşan Hint, Arap 
+sayı sisteminin Batı’ya ulaşması için 1202’de Pisalı Leonardo Fibonacci’nin “Liber Abaci (Sayı Sayma 
+Kitabı)” adlı eserine kadar beklenmesi gerekmiştir. Kuzey Afrika’da büyüyen ve Hint – Arap aritmetiği 
+üzerine eğitim alan Fibonacci sıfır sayısı ile Hint simgeleri olan 1, 2, 3, 4, 5, 6, 7, 8, 9’un birleşiminden 
+oluşan sayı sisteminin gücünü fark etmekte gecikmemiştir. Böylece Fibonacci Hint- Arap sayılarını ve 
+sıfırı yaklaşık 550 yıl sonra Batı’ya taşıyan ve burada ilk kullanan kişi olmuştur. 
+Saymaya başladık ama saymanın bir sonu var mıdır? Kaça kadar sayacaktık? Sonsuzluk ne kadar 
+büyüktür? Bu geleneksel sonsuzluk anlayışına göre sayılar sonsuza dek uzayıp gider. Alman matematikç Georg Cantor (Georg Kantor) (1845-1918) bizi çok daha farklı bir sonsuzlukla tanıştırmıştır. Dahası 
+bunu yaparken matematiğin büyük bir kısmına yön veren bir kuram oluşturmuştur. Cantor’un kuramının 
+dayandığı fikir ilkel bir sayma yönteminden geliyordu. Saymayı bilmeyen bir çiftçi sabah koyunlarını 
+ağıldan çıkarırken saymak için çakıl taşı kullanarak her koyun için torbaya bir çakıl taşı atar. Akşam koyunlar ağıla koyarken her koyun için torbadan bir taş çıkardığında koyunlardan biri kaybolmuş ise son 
+bir taş artacaktır. Çiftçi saymayı bilmese de yöntem tamamen matematikseldir. Böylece çiftçi taşlar ile 
+koyunlar arasında bire bir eşleme yapmıştır. Cantor’un kuramı kümeler üzerine kuruludur. Sonsuz sayıd elemanla uğraşırken eşitlik kavramı belirsizleşir. Bu durumda bire bir eşleme fikrine dönmek gerekir. 
+Saymanın tarihsel gelişiminde rol alan diğer bir kişi de Sâbit İbn Kurrâ 
+dır. Sâbit İbn Kurrâ, 836’da Harran’da doğmuştur. İslam matematiğinin 
+oluşum dönemine katkıda bulunmuş matematikçilerin başında gelir. Sadec matematik, astronomi, tıp ve felsefede değil aynı zamanda Arapça 
+ve Yunancada da kabiliyeti olan bir bilim insanıdır. Bu alanlarda 150’ye 
+yakın eseri bulunmaktadır. Archimedes (Arşimet), Apollonius (Apollon), 
+Euclid (Öklid), Potolemy Theodosius’un (Teodosyus) eserlerini Yunancada Arapçaya kusursuz biçimde aktarmıştır. Öyle ki bu eserleri çevirirken 
+terimlere bulduğu karşılıklar kabul görmüş, sonraki matematikçiler tarafında da kullanılmıştır. Çevirdiği bu eserlerin bir bölümünün asıllarının 
+kayıp oluşu Sâbit İbn Kurrâ’nın çevirilerinin önemini daha da artırmıştır. 
+Matematiğin aritmetik, cebir, geometri, koni kesitleri ve trigonometri 
+alanlarında önemli eserler veren İbn Kurrâ’nın bağdaşık sayılar üzerin yaptığı inceleme Arap topraklarında yazılmış ilk orijinal eser örneği 
+olarak kabul edilmektedir. Bu eserden Kurrâ’nın Pisagor teoremini bildiği 
+anlaşılmaktadır. Bir açıyı üç eşit parçaya bölmüştür. Sâbit İbn Kurrâ 
+bağdaşık sayılar hakkında aşağıdaki formülü bulmuş olmanın yanı sıra 
+sihirli karelerden Çin dışında ilk söz eden bilim adamıdır. İbn Kurrâ’nın özellikle sayı kavramını pozitif 
+gerçek sayıları içerecek biçimde genişletmesi, integral kalkülüs, küresel trigonometrinin bazı teoremleri, 
+analitik geometri ve Öklidci olmayan geometri konularındaki çalışmaları kalıcı izler bırakmış, tercümelerl Avrupa’ya ulaşan görüşleri Fermat (Ferma) ve Descartes (Dekart) üzerinde etkili olmuştur. a ve b 
+iki tam sayı olmak üzere a nın tüm bölenlerinin toplamı b; b nin tüm bölenlerinin toplamı a ise a ve b ye 
+bağdaşık sayılar denir. İbn Kurrâ’nın bağdaşık sayılarla ilgili formülü şu şekildedir:
+n bir tam sayı olmak üzere 
+3 $
+=
+- , 3 $
+=
+-
+-
+ ve 9 $
+=
+-
+-
+ şeklinde p, q, r üç asal sayı olsun. Bu durumda 
+p2=
+  ve 2=
+ iki bağdaşık sayıdır=
+ ise =
+, =
+, =
+ olup =
+ ve =
+ bağdaşık sayılardır=
+ nin bölenleri 1, 2, 4, 5, 10, 11, 20, 22, 44, 55 ve 110 dur=
+ ün bölenleri 1, 2, 4, 71 ve 142 dir. 
+a nın bölenleri toplamı =
+, b nin bölenleri toplamı =
+ olur (Cajori, 2014, s. 126-127; Zeki, 
+2004, s. 74-76; www-history.msc.st-and.ac.uk)DüzenlenmiştirVeri, Sayma ve OlasılıVeri, Sayma ve Olasılı    1. Rakamlarının çarpımı 12 olan üç basamakl, rakamları farklı kaç doğal sayı yazılabileceğin bulunuz. 
+    2. a, b ve c birbirinden farklı birer rakam olmak 
+üzere +
++
+=
+ eşitliğini sağlayan üç 
+basamaklı kaç tane abc sayısı olduğunu 
+bulunuz.  
+ 
+    3.  0, 1, 2, 3, = "
+,  kümesinin elemanlarını 
+kullanarak 200 ile 340 arasında kaç farklı 
+doğal sayı yazılabileceğini bulunuz. 
+ 
+    4. 5 karakterli bir şifrede Türk alfabesindeki 29 
+harf, 10 rakam ve 
+@, %,
+, #,
+, ?
+= "
+,   
+kümesindeki elemanlar kullanılabilmektedir. 
+Ancak bu şifrede art arda gelen iki karakteri birbirinden farklı olma zorunluluğu 
+vardır. Bu şifreyi bilmeyen birisinin deneme 
+yanılma yoluyla şifreyi kesinlikle bulabilmesi 
+için en az kaç deneme yapması gerektiğini 
+bulunuz. 
+       
+    5.  5892 sayısının rakamları yer değiştirilerek 
+yazılabilecek 4 basamaklı doğal sayıların 
+toplamı 
+!
+6666 $^
+h olduğuna göre a doğal 
+sayısını bulunuz. 
+ 
+6.        Venn şeması ile verilen A ve B kümeleri için 
+        x, A kümesindeki herhangi bir elemanı ve 
+y, B kümesindeki herhangi bir elemanı 
+göstermek üzere aşağıdaki koşullara uygun       
+(x, y) şeklinde eşlemeler yapılacaktır• A kümesinde eşlenmeyen eleman 
+kalmamalıdır• A kümesinden alınan her bir eleman B 
+kümesinden yalnız bir elemanla eşlenecekti        Verilen koşullara uygun yapılan eşlemelerin 
+olduğu kümeye F adı verilirse F kümesinin 
+kaç farklı şekilde oluşturulabileceğini bulunu         
+   7. Bir banka bilgisayar programıyla aşağıdaki 
+koşullara uygun 6 haneli farklı şifreler oluşturu şifreleri müşterilerine verecektir•  Şifre 4 farklı rakam ve 2 sesli harften 
+oluşacaktır•  Şifre bir tek rakam ile başlayıp yine bir 
+tek rakam ile bitecektir• Şifrenin 3. ve 5. hanesi aynı sesli harfte oluşacaktır Buna göre kaç farklı şifre oluşturulabileceğin bulunuz.   
+ 
+ALIŞTIRMALAVeri, Sayma ve OlasılıVeri, Sayma ve OlasılıİpucBilg10.1.1.2. Permütasyon (Sıralama)
+A kümesinin elemanlarını ikişerli seçerek yapılabilecek tüm sıralı ikililer; 
+a b , b a , a c , c a , b c , c ,
+,
+,
+,
+,
+,
+^
+^
+^
+^
+^
+^
+h şeklindedir (Üç elemanlı bir kümenin ikili permütasyonlarının 
+sayısı 6 dır.)n ve r birer doğal sayı ve #
+ olmak üzere n elemanlı bir kümenin birbirinden farklı r tane 
+elemanından oluşan dizilişlerin her birine n nin r li bir permütasyonu denir. Permütasyon 
+sayısı ile farklı dizilişlerin sayısı kastedilira, b, = "
+,  kümesinin ikili permütasyonlarını yazınızn elemanlı bir kümenin r li permütasyonlarının sayısı 
+,
+(
+)
+P n r  ile gösterilir ve 
+,
+(
+)
+(
+)!
+!
+P n =
+-
+ 
+ile hesaplanır• 
+,
+(
+)
+(
+)!
+!
+!
+!
+P =
+-
+=
+=
+ olur. 
+• 
+,
+(
+)
+(
+)!
+!
+!
+!
+!
+P n =
+-

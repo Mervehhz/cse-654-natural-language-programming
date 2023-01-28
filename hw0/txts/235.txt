@@ -1,0 +1,400 @@
+,
+1 1 7 $
+,
+TL bulunu$
+^
+^
+ÇÖZÜÖRNEM-
+M+
+C+
+:
+DizileMatematik öğretmeni Sibel Hanım sosyal medya aracılığı ile bazı öğrencilerine çözmeleri için bir 
+soru gönderir. Soruyu gönderdiği her bir öğrencisinden de ertesi gün bu soruyu üç arkadaşına 
+göndermesini ister. Soruyu alan her öğrenci ertesi gün 3 arkadaşına gönderir. Bu şekilde bir hafta 
+boyunca devam edildiğinde tüm öğrenciler bu soruyu yalnız bir kere almış olurBir haftada soruyu alan toplam öğrenci sayısı 6558 kişi olduğuna göre başlangıçta Sibel Öğretme’in bu soruyu kaç öğrencisine gönderdiğini bulunuzBaşlangıçta Sibel Öğretmen bu soruyu x kişiye göndermiş olsun. Bu durumda sor 
+1. Gün    x 
+ 
+2. Gün   
+3 $
+ 
+3. Gün   
+3 $
+$
+ 
+4. Gün   
+3 3 $
+$
+$
+             
+n. Gün   
+3 1 tan$
+$
+$
+$
+-
+44444  kişiye ulaşmış olurn. gün soruyu alan öğrenci sayısı an  olsun. Bu durumda sorunun ulaştığı öğrenci sayısı genel 
+terimi x $
+=
+-  ve ortak çarpanı 3 olan olan bir geometrik dizidir. Bir haftada soruyu alan 
+öğrenci sayısı 6558 olduğundan bu dizinin ilk 7 teriminin toplamı 6558 dir. Buna görBir öğrencinin bankadaki hesabında 2430 TL parası vardır. Bu öğrenci iki günde bir hesabındaki 
+parasının 1  ünü çekecektir. İlk kez 2 gün sonra para çekeceğine göre onuncu günün sonunda 
+öğrencinin hesabında kaç TL parası kalacağını bulunuzÖğrencinin ilk durumdaki parası 2430 TL dir. İki gün sonra parasının 
+1 ü ü çekeceğinden geriye 
+parasının 2 ü  kalır. Dört gün sonra tekrar kalan parasının 
+1 ü ü çekeceğinden geriye başlangıçtak parasının 2 $
+-
+=
+= l  kalır. Bu adımlar matematiksel olarak 
+modellenirse öğrenciniOnuncu günün sonunda geriye kalan parasını bulmak için n yerine 5 yazılmalıdır. Buna göre 10. 
+gün sonunda öğrencinin hesabında 
+T2430 10 $
+$
+$
+=
+=
+=
+ kalır1. çekimde (2 gün sonra)      2430 2 $
+$
+-
+=
+2. çekimde (4 gün sonra)      2430 2430 2 $
+$
+$
+$
+-
+=
+n. çekimde (2n gün sonra)      2 $l   TL parası kalacaktırÇÖZÜÇÖZÜÖRNEÖRNE,
+bulunux ve &
+&
+&
+&
+&
+$
+$
+$
+=
+-
+-
+=
+-
+-
+=
+=
+=
+=
+=
+^
+Matematik Turan Bey ve Simge Hanım, 12 haftalık yaz tatili için çocukları Meltem ve Can’ a aşağıdaki harçlık 
+tekliflerini sunuyorlar. 
+Bankacı olan Simge Hanım birinci hafta 50 TL, ikinci hafta 75 TL ve sonraki her hafta bir önceki 
+haftadan 25 TL fazla olacak şekilde harçlık vereceğini ifade ediyorMatematik öğretmeni olan Turan Bey birinci hafta 1 TL, ikinci hafta 2 TL ve sonraki her hafta bir 
+önceki haftanın 2 katı olacak şekilde harçlık vereceğini ifade ediyor. 
+Eline geçen parayı hemen harcayan Meltem, bankacı olan annesinin teklifini cazip görerek annesini teklifini kabul ediyor. Birikim yapmayı seven Can ise matematik öğretmeni olan babasının 
+teklifinin sonraki haftalarda daha avantajlı olacağını düşünerek babasının teklifini kabul ediyorBuna göra) İlk 5 haftanın sonunda toplam olarak hangi çocuk diğerinden kaç TL fazla harçlık almış olur?
+b) 10. haftada Meltem ve Can’ın aldığı harçlıkların farkı kaç TL dir?
+c) Yaz tatilinin sonunda toplam olarak hangi çocuk diğerinden kaç TL fazla harçlık almış olur?
+TTTT1 1 2 1 2 1 tan$
+$
+$
+$
+$
+$
+$
+=
+=
+=
+-
+-
+44444 TTTTTn 1 tan$
++
+=
++
++
+=
++
++
++
++
+=
++
+-
+=
++
+-
+^
+44444444444 hafthafthaftn haftCan’ın harçlığCan’ın 5 haftalık harçlıklarının toplamı 
+TL olu+
++
++
++
+=
+-
+-
+=
+Meltem’in 5 haftalık harçlıklarının toplamı 
+TL olu5 +
++
++
++
+=
++
+=
+^
+Bu durumda İlk 5 haftanın sonunda Meltem, Can’dan 469 TL fazla harçlık almış olurCan’ın 12 haftalık harçlıklarının toplamı 
+TL olu+
++
++
++
+=
+-
+-
+=
+Meltem’in 12 haftalık harçlıklarının toplamı 
+TL olu12 $
++
++
++
+=
++
+=
++
+^
+^
+Bu durumda 12 haftalık yaz tatili sonunda Can, Meltem’den 1845 TL fazla harçlık almış olurCan’ın 10. haftadaki harçlığı 
+TL olu1 =
+-
+Meltem’in 10. haftadaki harçlığı 
+TL olu$
+=
++
+Bu durumda 10. haftada Can ile Meltem’in harçlıkları farkı 237 TL olurMeltem’in harçlığBu durumda Can’ın n. haftadaki harçlığı, genel terimi n-  olan geometrik dizi oluşturur. 
+Meltem’in n. haftadaki harçlığı ise genel terimi 
++
+ olan aritmetik dizi oluşturur. 
+ÖRNEÇÖZÜa)
+b)
+c)
+Dizileİlk iki terimi 1 ve bundan sonraki her terimi kendinden önceki iki teriminin toplamı olan diziye 
+Fibonacci dizisi denir. 
+Fibonacci dizisi 
+,
+=
+=
+ olmak üzere 
+,
+=
++
+-
+-
+^
+h indirgeme  
+bağıntısı ile tanımlanabilir. Buna göre Fibonacci dizisi                           
+     
+    
+                     
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+1 1 2 3 5 8 13 21 34 55 =
+^
+^
+olurFibonacci dizisinin genel terimi ise =
++
+-
+-
+m <
+ biçimindedirFibonacci DizisBİLGİ NOTG rsel 2 G rsel 2 Leonardo Fibonacci (Leonardo Fibonaçi) ve Tavşan Hikâyesİtalyan matematikçi Leonardo Fibonacc, yazdığı matematik kitaplarından 
+birisinde tavşan çiftliği olan bir arkadaşıyl ilgili olduğu iddia edilen bir proble sunar. Bu probleme göre arkadaşını çiftliğinde tavşanlar doğdukları ilk 
+iki ay yavru yapmazlar. Üçüncü aydan 
+itibaren her çift her ay bir çift yavru yapa. Buna göre Fibonacci’nin arkadaşı 
+üretime bir çift tavşanla başlarsa kaç 
+ay sonra kaç çift tavşanı olur?
+Görsel 2.2 de görüldüğü gibi, çiftçinin 
+ilk ay yeni doğmuş bir çift tavşanı olsu. İkinci ayda bu tavşanlar henüz 
+yavrulamadıkları için hâlâ bir çift tavşan vardır. Üçüncü ay bunlar bir çift 
+yavru verecek ve iki çift tavşanı olacatır. Yeni doğan çift dördüncü ay 
+yavrulamayacak, oysa ana babaları 
+yeniden bir çift yavru yapacak ve topla üç çift tavşan olacaktırBirinci ve ikinci aylarda birer çift tavşan vardı. Demek ki üçüncü ay iki 
+çift tavşanı olacaktır. İkinci aydaki bir 
+çift ile üçüncü aydaki iki çift toplanırs dördüncü aydaki üç çift bulunur. 
+Böylece her ay daha önceki iki aydaki 
+tavşan çiftlerinin sayısı toplanırsa o ay 
+kaç çift tavşan olacağı bulunur(Sertöz, 2017)
+Matematik Fibonacci dizisinin üç basamaklı en küçük teriminin kaçıncı terim olacağını bulunuz,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,1 1 8 21 n =
+^
+^
+h olduğundan dizinin üç basamaklı 
+en küçük teriminin 144 olduğu görülür. Bu terim dizinin 12. terimidirFibonacci dizisinin asal sayı olan ilk 6 teriminin toplamını bulunuz,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,1 1 8 21 n =
+^
+^
+h dizisinde asal olan ilk 6 terim 
+2, 3, 5, 13, 89 ve 233 tür. Bu terimlerin toplamı: +
++
++
++
++
+=
+ bulunurF^
+h Fibonacci dizisidir. ve =
+=
+ olduğuna göre Fibonacci dizisinin 16. terimini 
+bulunuz=
++
+-
+-  indirgeme bağıntısınd&
+i in =
+=
++
+=
++
+&
+olu14 =
+&
+i in =
+=
++
++
+=
+&
+bulunu16 =
+ÇÖZÜÇÖZÜÇÖZÜÖRNEÖRNEÖRNEFibonacci dizisinin ardışık iki teriminin oranı olan +  değerleri incelendiğindn büyüdükçe +  oranının 1,618 sayısına yaklaştığı görülür. Bu orana altın oran denir ve 
+f{^ h harfi ile ifade edilir. 
+,
+di1 ,
+{ =
++
+Fibonacci Dizisinin Terimleri ve Altın Ora2 =
+=
+3 =
+=
+,
+1 4 =
+=
+,
+1 ,
+=
+,
+1 6 =
+=
+,
+1 7 =
+=
+,
+1 ,
+=
+,
+1 ,
+=
+,
+1 ,
+=
+,
+1 ,
+=
+DizileFibonacci Dizisi ve Altın Oranın Görüldüğü YerleGörsel 2.Görsel 2.Görsel 2.Görsel 2.Ayçiçek taneleri, iki yönde spiral biçiminde 
+dizilmişlerdir. Yukarıdaki ayçiçeğinde mavi 
+yönlü spirallerin sayısı 55 ve beyaz yönlü 
+spirallerin sayısı ise 34 tür. Bu sayılar Fibonacc dizisinin ardışık terimleridirYukarıda kenar uzunluğu 1 birim olan kareye sırasıyla kenar uzunlukları 1, 2, 3, 5 ve 8 birim olan 
+kareler şekildeki gibi birleştiriliyor. Her yeni karenin köşelerini merkez kabul eden çeyrek çemberler 
+çizilerek son şekildeki spiral elde edilmiştir. Tüm karelerin kenar uzunlukları Fibonacci dizisinin terimlerdir. Şekilde oluşan spirale de Fibonacci spirali denir. Bu işlemlere devam edildiğinde oluşan 
+dikdörtgenlerin uzun kenarının kısa kenarına oranı, altın orana (1,618) yaklaşırMimar Sinan’ın birçok eserinde olduğu 
+gibi Süleymaniye ve Selimiye Camilerinin 
+minarelerinde altın oran görülmektedirÇam kozalağın taneleri, iki yönde spiral biçimind dizilmişlerdir. Yukarıdaki kozalakta 
+mavi yönlü spirallerin sayısı 21 ve beyaz 
+yönlü spirallerin sayısı ise 13 tür. Bu sayılar 
+Fibonacci dizisinin ardışık terimleridirEski Mısırlıların inşa ettikleri piramitlerde 
+de altın oran olduğu saptanmıştır. 
+Matematik 20 yıl önce yıllık 2000 TL ile işe başlayan 
+bir kişinin maaşı her yıl %8 artmıştır. Buna 
+göre bu kişinin 20 yıl boyunca almış olduğu 
+toplam maaşın yaklaşık olarak kaç TL 
+olacağını bulunuzDevlet desteği ile faizsiz kredi çeken bir 
+çiftçinin ödeme planı şu şekilde belirlenmişti: Çiftçi ilk ay 750 TL ödeme yapacak ve 
+sonraki her ayda ödeyeceği miktar 150 TL 
+artacaktır. Çiftçi tüm borcunu 16 ayda bitirdiğin göre çiftçinin bankadan kaç TL kredi 
+çektiğini bulunuzBir apartmanın çatısı kiremitle döşenirken 
+ilk sıraya 100 adet, ikinci sıraya 96 adet 
+kiremit konulacaktır. Bu şekilde devam edilere her sıraya bir önceki sıradaki kiremit 
+sayısından 4 adet eksik kiremit konulacaktı. Buna göre 20. sıraya kiremitler yerleştirildikte sonra toplam kaç adet kiremit kullanıldığın bulunuzBir okulun konferans salonunun ilk sırasınd 8, ikinci sırasında 12 ve üçüncü sırasınd 16 koltuk vardır. Bu şekilde devam 
+edilerek her sıra bir önceki sıranın koltuk 
+sayısından 4 koltuk fazla olacak şekilde 
+düzenlenmiştir. Konferans salonunda topla 476 koltuk olduğuna göre en son sırad kaç adet koltuk olduğunu bulunuzBir bakteri kültüründe uygun şartlarda bakterileri sayısı her dakikanın sonunda  üçe 
+katlanmaktadır. İlk durumda bakteri kültüründ 10 adet bakteri olduğuna göre 1 saat 
+sonra bu kültürde kaç tane bakteri olacağın bulunuzOkulun açılmasından 4 hafta sonra okulda 
+tasarruf ile ilgili bir video seyreden Emre 5. 
+haftadan itibaren harçlığının küçük bir kısmın biriktirmeye karar verir. 5. hafta 3 TL, 
+6. hafta 4 TL ve bu şekilde her hafta 1 TL 
+arttırarak tasarruf etmeye başlar. Haftalık 
+harçlığı 50 TL olan Emre’nin tasarruf için 
+para biriktirdiğini öğrenen babası 10. haftada itibaren haftalığını 60 TL yapmıştır. 
+Buna göre;
+a) I. dönem 16 hafta olduğuna göre Emr’nin toplam kaç lira tasarruf ettiğini bulunub) Emre’nin son hafta harçlığının kaç lirasın harcadığını bulunuzBir sınıftaki öğrenci velileri sınıfta maddi durum iyi olmayan iki öğrencinin ihtiyaçlarını 
+karşılamak için kendi maddi durumlarıyla 
+orantılı olarak aralarında para toplamışlardı. En az para veren iki öğrenci velisi 20 TL 
+ve 25 TL vermiştir. 17 öğrenci velisinin verdiğ para miktarı bir aritmetik dizi oluşturmaktadı. Buna göre;
+a)
+b) 
+En fazla yardımda bulunan öğrenci velisini verdiği para miktarını bulunuzToplanan para iki öğrenciye eşit olarak 
+paylaştırılırsa her bir öğrenciye verilen 
+para miktarını bulunuz AlıştırmalaM-
+M+
+C+
+:
+DizileA) 1-5. sorularda boş bırakılan yerlere  
+     uygun ifadeleri yazınızC) 7-13. açık uçlu soruları cevaplandırınızB) 6. soruda numaralar ile verilen ifadeleri        
+     harf ile verilen ifadelerle eşleştirinizxn =
++
+-
+^
+l dizisi sabit dizi olduğuna 
+göre x değeri ................. olurn =
++
+^
+l aritmetik dizisinin ortak 
+farkı ................. olurArdışık terimleri arasındaki oranı sabit olan 
+dizilere.................... dizi denirBütün terimleri birbirine eşit olan dizilere 
+.................... dizi denirİlk terimi 1 ve ortak çarpanı =
+ olan bir 
+geometrik dizinin ilk 5 teriminin toplamı 
+...... olur=
+sisicotacoIIII=
+=
++
+=
+-
+=
++
++
+^

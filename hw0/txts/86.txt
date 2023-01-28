@@ -1,0 +1,400 @@
+h =
++
+  fonksiyonu veriliyor. Buna göre 
+( )
+h 5  değerini bulunuz( )
+h 5 , 5 in h fonksiyonundaki görüntüsü olduğundan h fonksiyonunda x yerine 5  yazılırs( )
+h 3 3 $
+$
+=
++
+=
++
+=
+ olur"
+:
+, (
+)
+f +
+=
+-
+  fonksiyonu veriliyor. Buna göre ( )
+f 4  değerini bulunuz4 ün f fonksiyonu altındaki görüntüsü sorulduğundan &
++
+=
+=
+ olurBu değer f fonksiyonunda x yerine yazılırs(
+)
+f 2 $
++
+=
+-
+ ise ( )
+f = -  olur"
+:
+, ( )
+f =
++
+ fonksiyonu için (
+)
+f +
+ ifadesinin eşitini bulunuz.   
++  in f fonksiyonundaki görüntüsü için f fonksiyonunda x yerine +  yazılırsa 
+(
+)
+(
+)
+(
+)
+f f &
+$
++
+=
++
++
+=
++
++
++
+=
++
+ olurA ve B boş kümeden farklı birer küme olmak üzere 
+( )
+s =
+ ve 
+( )
+s =
+ ise A kümesinden 
+B kümesine tanımlı fonksiyon sayısı nm  dirİpuc"
+:
+, (
+)
+f -
+=
++
+ fonksiyonu için 
+a)  ( )
+f x  fonksiyonunun eşleştirme kuralını bulunuz. 
+ 
+b)  (
+)
+f +
+ fonksiyonunun eşleştirme kuralını bulunuz(
+)
+( )
+f f -
+=
+  olsun. Bu ifadede  &
+-
+=
+=
++
+ olur. 
+Bu değer (
+)
+f -
+ fonksiyonunda her x  yerine yazılırs((
+)
+)
+(
+)
+$
++
+-
+=
++
++
+( )
+( )
+f f &
+=
++
++
+=
++
+ olura) Yukarıda bulunan ( )
+f A  fonksiyonunda A yerine x yazılırsa ( )
+f =
++
+ olur b) Yukarıda bulunan ( )
+f A  fonksiyonunda A yerine +
+ yazılırs      (
+)
+(
+)
+(
+)
+f f &
++
+=
++
++
++
+=
++
+ bulunur"
+,
+:
+( )
+f =
++
+ ise (
+)
+f +
+ fonksiyonunun ( )
+f x  fonksiyonu cinsinden yazılışını bulunuz(
+)
+(
+)
+f $
++
+=
++
++
+=
++
+ ve ( )
+( )
+f f &
+=
++
+=
+-
+ olur. (
+)
+f +
+ fonksiyonunda 2  yerine  
+( )
+f -
+ değeri yazılırsa (
+)
+(
+)
+( )
+(
+)
+( )
+f f f f f ubulu&
+&
++
+=
++
++
+=
+-
++
++
+=
++
+  
+a, b, A = "
+,  ve 
+1, 2, 3, B = "
+,  kümeleri veriliyor. Buna göre A kümesinden B kümesine tanımlı kaç 
+farklı fonksiyon yazılabileceğini bulunuzFonksiyon; A kümesinden B kümesine tanımlandığından A tanım kümesini, B ise değer kümesini oluşturu. Bu durumda 
+!
+ için B kümesindeki 4 farklı elemandan biri ile 4 farklı şekilde, 
+b !
+ için B kümesindeki 4 farklı elemandan biri ile 4 farklı şekilde, 
+c !
+ için B kümesindeki 4 farklı elemandan biri ile 4 farklı şekilde eşlenebileceği görülür. 
+Buradan saymanın temel ilkesi gereği 4 4 $
+$
+=
+ tane A kümesinden B kümesine tanımlı fonksiyon yazılabili2, 4, 8, A = "
+,  ve 
+x, y, B = "
+,  kümeleri için 
+"
+:
+B  olmak üzere ( )
+( )
+=
+=
+ koşuluna uygun 
+kaç tane f fonksiyonu yazılabileceğini bulunuz1. yoTanım kümesindeki 2 ve 8 elemanlarının görüntüleri z dir. Tanım kümesinde geriye kalan 2 eleman değer 
+kümesindeki 3 eleman ile  2 =
+ farklı fonksiyon oluşturabilir. Buradan cevap 9 bulunur2. yo2 sayısının eşlenebileceği eleman sayısı 1 tanedir (z)4 sayısının eşlenebileceği eleman sayısı 3 tanedir (x, y, z)8 sayısının eşlenebileceği eleman sayısı 1 tanedir (z)10 sayısının eşlenebileceği eleman sayısı 3 tanedir (x, y, z) Buradan çarpma yoluyla sayma ilkesi kullanılarak A dan B ye yazılabilecek fonksiyon sayısı, 
+1 3 1 $
+$
+$
+=
+ olur"
+,
+:
+( )
+f =
++
+-
+ ise (
+)
+f +
+ fonksiyonunun ( )
+f x  fonksiyonu cinsinden eşitini bulunuz(
+)
+f +
+=
++
+=
++
++
+-
+ olur. Bu eşitlikte 5x  teriminin ( )
+f x  cinsinden değeri, 
+( )
+( )
+( )
+( )
+f f f f olu$
+=
++
+-
+=
+-
+=
+=
+-
+-
+-
+ 
+Bu değer (
+)
+f +
+ fonksiyonunda 5x  yerine yazılırsa 
+(
+)
+( )
+( )
+f f f $
+$
++
+=
++
+=
+-
++
+=
+-
+ olur"
+:
+R  olmak üzere (
+)
+( )
+f f +
+=
++
+ eşitliğinde  ( )
+f =
+ ise ( )
+f 4  değerini hesaplayınız(
+)
+( )
+(
+)
+( )
+f f f f &
++
+=
++
++
+-
+=
+ olur. 
+Elde edilen bu eşitlikte x  yerine 1, 2 ve 3 değerleri ayrı ayrı yazılırs( )
+( )
+( )
+i in &
+=
+-
+=
+=
++
+=
+,
+( )
+( )
+( )
+i in &
+=
+-
+=
+=
++
+=
+,
+( )
+( )
+( )
+i in &
+=
+-
+=
+=
++
+=
+ olur. 
+"
+:
+R   olmak üzere (
+)
+( )
+f x f $
++
+-
+=
+ eşitliğinde ( )
+f =
+ ise (
+)
+f 20  değerini hesaplayınız(
+)
+( )
+( )
+(
+)
+f x f f f &
+$
++
+=
++
+=
+ olur. Elde edilen bu eşitlikte x  yerine 2, 3, ..., 19 değerleri yazılırs=
+ için ( )
+( )
+=
+=
+ için ( )
+( )
+=
+                            
+=
+ için ( )
+( )
+=
+                  
+.                   .                   .                          
+.                   =
+ için (
+)
+(
+)
+=
+ olurYukarıdaki ifadeler taraf tarafa çarpılırs 
+( )
+( )
+( )
+( )
+( )
+( )
+(
+)
+(
+)
+2 3 $
+$
+$
+$
+$
+$
+$
+$

@@ -1,0 +1,313 @@
+14 13 =
+olur13. Örnek 
+Art arda 2 kez atılan bir madenî paranın ikinci atışta tura gelme olasılığını bulunuzÇözüSorunun çözümü için ağaç diyagramı (şema) 
+kullanılabilirAğaç diyagramına göre ikinci atışta tura gelme 
+olasılığ+
+=
++
+=
+ olur. 
+yazyazturturturyazpar14. Örnek 
+Bir zar ile bir madenî para birlikte atılıyor. Paranın yazı veya zarın asal sayı gelme olasılığını 
+bulunuzÇözüParanın yazı gelme olayı A olsun. O hâlde P(A) = 1  olurZarın asal sayı gelme olayı B olsun. O hâlde P(B) = 1  olur. 
+Paranın yazı gelme olayı ile zarın asal sayı gelme olayı birbirini etkilemediğinden bu olaylar 
+bağımsız olaylardır. Buradan P(A∩B) = P(A).P(B) = 
+=
+ olurParanın yazı veya zarın asal sayı gelme olasılığP(A veya B) = P(A∪B) = P(A) + P(B) - P(A∩B) 
+                                        = +
+-
+=
+ olur15. Örnek 
+Bir sınıftaki 12 erkek öğrencinin 4 ü gözlüklü, 18 kız öğrencinin 7 si gözlüksüzdür. Sınıftan 
+seçilen herhangi bir öğrencinin kız veya gözlüklü olma olasılığını bulunuzÇözüVerilen bilgiler yardımıyla aşağıdaki tablo oluşturulurGözlüklGözlüksüKıErkeKız veya gözlüklü öğrenciler 11 + 7 + 4 = 22 kişidir. BuradaP(K∪G) = =
+olur16. Örnek 
+Bir deneyin tüm çıktılarına olay, sadece bir çıktısından oluşan kümeye basit olay, birden çok çıktısında oluşan kümeye bileşik olay denirBir zar atma deneyinde zarın üst yüzeyinin 6 olması basit olay, asal sayı olması bileşik olaydır7.1.3. Bileşik OlaylaV e r i ,  S a y m a  v e  O l a s ı l ı Şekildeki labirentte A noktasından 
+yürümeye başlayan bir kişi yol ayrımlarını tümünde rastgele bir yol seçmiş 
+ve seçtiği hiçbir yoldan dönmemiştir. 
+Buna göre bu kişinin G veya D noktasında çıkmış olma olasılığını bulunuz. 
+ÇözüŞekildeki labirente göre bu kişinin D 
+noktasından çıkmak için yeşil yolu, 
+G noktasından çıkmak için mavi yolu 
+takip etmesi gerekir. Bu durumda bu 
+kişinin 
+D noktasından çıkma olasılığı 
+=
+ 
+olurG noktasından çıkma olasılığı 
+=
+ 
+olur. 
+Kişinin aynı anda hem G den hem de D den çıkması imkânsız olduğundan P(D∩G) = 0 olurBuradan D veya G noktasından çıkma olasılığı +
+=
+ olur17. Örnek 
+İçerisinde turuncu, mavi ve kırmızı özdeş bilyelerin bulunduğu torbadan çekilen bilyenin 
+mavi olma olasılığının 1  ve turuncu olma olasılığının 1  olduğu biliniyor. Torbada 6 kırmızı 
+bilye bulunduğuna göre toplam bilye sayısını bulunuzÇözüTorbada 6 kırmızı, a tane mavi, b tane turuncu bilye olsun. Bu durumda 
+s(E) = 6 + a + b olurBilyenin mavi olma olasılığı P(M) = 
++
++
+=
+ 
+ 
+ 
+                  ⇒ 5a - b = 6 olur.       (1)
+Bilyenin turuncu olma olasılığı P(T) = 
++
++
+=
+ 
+ 
+ 
+                     ⇒ 2b - a = 6 olur.    (2)
+1 ve 2. denklem ortak çözüldüğünd        2/   5a - b = 6 
+ 10a - 2b =  
+2b - a = 6    ⇒   2b - a    =    
+ 
+ 
+               9a = 18 ⇒ a = 2 olur. 
+Bulunan a değeri denklemlerin birinde yerine yazıldığında b = 4 olurO hâlde torbada 6 + 2 + 4 = 12 bilye bulunur18. Örnek 
+Sekizinci sınıf öğrencilerinden rastgele seçilen 3 öğrenciye liseye geçiş sınavlarıyla ilgili fikirler sorulmuştur. Öğrencilerin bir kısmı sınavların gerekliliğini savunmuş, diğer kısmı sınavlar karşı çıkmıştırBir ağaç diyagramı çizerek 
+a) En az ikisinin sınavı savunma olayını,
+b) Üçünün de sınava karşı çıkma olayını,
+c) Yalnız birinin sınavı savunma olayını bulunuzÇözüD = Sınavı savunuyorK = Sınava karşı çıkıyorYandaki ağaç diyagramına göra) A = {KDD, DKD, DDK, DDD}
+b) B = {KKK}
+c) C = {KKD, KDK, DKK}
+19. Örnek 
+Bir deneyde ortaya çıkabilecek tüm sonuçlar göz önünde bulundurularak yapılan matematiksel 
+hesaplamaya teorik olasılık denirAşağıda bir zar atma olayında zarın üst yüzeyine 3 gelme olasılığı hesaplanmıştırZarın birbirine eşit 6 yüzeyi vardır ve bu yüzeylerden bir tanesi 3 ile gösterilirO hâlde P(3) = 1  olurBir olayın olma olasılığını yapılan denemelerin sonuçlarına göre bulmaya deneysel olasılık denir.  
+Olayın gerçekleşme sayısının deney sayısına oranına olayın deneysel olasılığı denirBir örnek uzayda deneysel olasılık değeri, deneme sayısı arttıkça teorik olasılık değerine 
+yaklaşırNo7.2. Deneysel ve Teorik Olasılı7.2.1. Deneysel Olasılık ile Teorik Olasılığın İlişkilendirilmes1. öğrenc2. öğrenc3. öğrencTüm Durumla(örnek uzay)
+DDDDDKDKKDKDKKKKBir kutuda üzerlerinde 2, 4, 6 rakamlarının yazılı olduğu 3 kart vardır. Kutudan bir kart 
+çekilip zar atılıyor. Çekilen kartın 2 ve atılan zarın çift sayı gelme olasılığını bulunuzSıra SizdV e r i ,  S a y m a  v e  O l a s ı l ı Bir n sürgüsü oluşturunuz. Sürgünün minimum değerini 1, maksimum değerini 1000, artış 
+değerini 1 yapınız. n sürgüsü, para atma denemelerinin sayısını gösterirGirişe  dizi yazınız. Oluşan satırda ifade, değişken, başlangıç, bitiş yerlerine sırasıyla rastgel(0,1), i, 1, n yazınızRastgele(0,1) ifadesinde paranın tura gelmesi 0, yazı gelmesi 1 ile gösterilirSürgüyü sağa sola hareket ettirdiğinizde  elemanları 0 ve 1 olan l1 oluşacaktır. Yazı ve  turanın 
+kaçar kez geldiğini gösteren l1 kümesi aynı zamanda örnek uzaydırGirişe eğer yazınız. Oluşan satırdaki şart kısmına x==1, liste kısmına l1 yazdığınızda örnek 
+uzay kümesinde kaç adet 1 (yazı) olduğunu görebilirsiniz. 
+Girişe eğer yazınız. Oluşan satırdaki şart kısmına x==0, liste kısmına l1 yazdığınızda örnek 
+uzay kümesinde kaç adet 0 (tura) olduğunu görebilirsiniz. 
+Girişe yazıolasılığı=a/n yazdığınızda yazı gelme olasılığını, turaolasılığı=b/n yazdığınızda 
+tura gelme olasılığını görebilirsinizGirişe  dizi yazınız. Oluşan satırda ifade, değişken, başlangıç, bitiş yerlerine sırasıyla 1, i, 1, a 
+yazdığınızda kaç kez yazı geldiğini gösteren l2 yi elde edebilirsinizGirişe  dizi yazınız. Oluşan satırda ifade, değişken, başlangıç, bitiş yerlerine sırasıyla 0, i, 1, b 
+yazdığınızda kaç kez tura geldiğini gösteren l3 ü elde edebilirsinizGiriş penceresinde bulunan l1, l2 ve l3 ü imleç ile tutarak grafik penceresine yerleştirinizMetin ikonuna tıklayınız. Açılan penceredeki metin kutusuna Yazı olasılığı = yazınız. Pencereni alt kısmındaki Gelişmiş butonuna tıklayınız. Açılan bölümdeki GeoGebra ikonunu 
+tıklayınız. Ardından yazıolasılığı kısmına tıklayarak tamama basınız. Yazı gelme olasılığı grafi ekranında ondalık olarak görülecektir. Tura gelme olasılığını görmek için metin kutusuna 
+Tura olasılığı =  yazarak aynı işlemi tekrarlayınızn sürgüsünü  n=1 konumu ile n=1000 konumu arasında hareket ettiriniz. n değeri arttıkça 
+yazı gelme olasılığı ile tura gelme olasılığı arasındaki farkın azaldığı görülür, her birinin teorik 
+olasılığı olan 1  değerine yaklaşılırSürgünün maksimum değerini n=2000 yaparak para atma deneyini sürgünün bu değeri için 
+gerçekleştiriniz. Bulduğunuz sonucu yorumlayınız. 
+1. Uygulama: Deneysel OlasılıA) Aşağıda verilen cümlelerde boş bırakılan yerleri uygun ifadelerle doldurunuz1. Bir deneyde elde edilen tüm çıktıların kümesine ................................... denir2. Bir deneyin sadece bir çıktısından oluşan kümeye ................................... denir3. A ve B olayları  ................................... ise P(A∩B), A ile B olaylarının olma olasılıklarının çarpımına eşittir. 
+4. E örnek uzayının herhangi iki olayı A ve B olsun. B olayının gerçekleşmesi hâlinde A olayının gerçekleşmesi 
+olasılığına A olayının B ye bağlı ................................... denirB) Aşağıda verilen numaralandırılmış ifadeleri harf ile verilen ifadelerle eşleştiriniz5. Bir madenî para ile bir zarın birlikte atılma deneyinde paranın tura, 
+   zarın asal sayı gelme olasılığı (    ) olur. 
+6. Bağımsız A ve B olaylarının olasılıkları arasındaki ilişki (    ) olur. 
+7. A olayının B olayına bağlı koşullu olasılığı (    ) formülü ile bulunur. 
+8. Bir deneyin birden çok çıktısından oluşan kümeye (    ) denir. 
+9. Atılan bir zarın üst yüzüne gelen sayının 5 ten küçük olduğu bilindiğine göre 
+bu sayının çift olma olasılığı (    ) olur. 
+a) b) c) P(A∩B) = P(A).P(B)
+ç) P(A|B) = P(A∩B)
+P(B)
+d) Bileşik olae) Basit olaf) C) Aşağıdaki soruların çözümlerini altlarındaki 
+boşluklara yazınız10. E örnek uzayında A ve B olayları veriliyor. 
+P(A) = 1 , P(B') = 1  ve P(A∪B) = 7  olduğuna 
+göre P(A|B) değerini bulunuz11. 2 zar atıldığında gelen sayıların toplamının 6 
+olduğu bilindiğine göre sayılardan birinin 2 olma 
+olasılığını bulunuz. 
+12. 24 kişilik bir sınıfta 10 kız öğrenci vardır. Erkekleri 4 ü, kızların 8 i gözlüklüdür. Sınıftan seçilen 
+herhangi bir öğrencinin gözlüklü kız veya gözlüksü erkek olma olasılığını bulunuz13. İki torbada özdeş bilyeler vardır. Birinci torbada 
+4 sarı, 3 mavi bilye; ikinci torbada 5 sarı, 2 mavi 
+bilye bulunmaktadır. Birinci torbadan 1 bilye çekili ikinci torbaya atılıyor. İkinci torbadan alınan 
+1 bilyenin sarı olma olasılığını ağaç diyagramı  
+yöntemi ile bulunuz14. %60 ı İngiliz diğerleri Alman turistlerden oluşan 
+bir kafilede Almanların %80 i ve İngilizleri%70 i erkektir. Kafileden seçilen herhangi bir turisti İngiliz veya erkek olma olasılığını bulunuzÖLÇME VE DEĞERLENDİRMV e r i ,  S a y m a  v e  O l a s ı l ı D) Aşağıdaki çoktan seçmeli soruları okuyunuz ve 
+doğru seçeneği işaretleyiniz15. Bir zar atıldığında tek sayı geldiği bilindiğine 
+göre gelen sayının 2 den büyük olma olasılığı 
+kaçtır?
+A) 1  
+B) 1  
+C) 2  
+D) 2  
+E) 16. E örnek uzayında A ve B iki olay olsun.         
+P(A∩B) = 2 , P(B) = 1  ve P(A') = 3  olduğuna 
+göre P(A∪B) değeri kaçtır?
+A) 1  
+B) 1  
+C) 1  
+D) 3  
+E) 17. İki ayrı turist kafilesinin birincisinde 5 Alman, 
+4 İngiliz; ikincisinde 6 Alman, 3 İngiliz turist vardı. Rastgele seçilen kafilenin birinden rastgele 
+seçilen bir turistin Alman turist olduğu bilindiğin göre bu turistin birinci kafileden seçilmiş olma 
+olasılığı kaçtır? 
+A) 11  
+B) 10  
+C) 5  
+D) 7  
+E) 18. Bir torbada özdeş 3 mavi, 3 yeşil ve 4 sarı top 
+vardır. Çekilen top geri konulmak şartıyla art 
+arda 2 top çekiliyor. İki topun da sarı olma olasılığ kaçtır?
+A) 2  
+B) 1  
+C) 4  
+D) 3  
+E) 19. İki torbanın her birinde özdeş 4 kırmızı, 5 siyah 
+top vardır. Birinci torbadan 1 top çekilip ikinci 
+torbaya atılıyor. Ardından ikinci torbadan 1 top 
+çekilip birinci torbaya atılıyor. Buna göre renk 
+bakımından ilk durumun elde edilme olasılığı 
+kaçtır? 
+A) 9  
+B) 4  
+C) 5  
+D) 3  
+E) 20. İçerisinde özdeş 8 mor, 4 beyaz top bulunan 
+torbadan art arda 3 top çekildiğinde birincinin 
+beyaz, diğerlerinin birbirinden farklı renkte olma 
+olasılığı kaçtır? 
+A) 8  
+B) 7  
+C) 3  
+D) 7  
+E) 21. Daire şeklinde olan ve 
+tahtadan imal edilen 
+bir cismin görseli yanda 
+verilmiştir. Cisim, metal 
+teller ile dört farklı 
+bölgeye ayrılarak bu 
+bölgeler mavi, pembe, 
+turuncu ve kırmızıya 
+boyanmıştırAtılan bir okun cisme isabet etmiş olduğu bilindiğin göre bu okun kırmızı bölgeye isabet etmiş 
+olma olasılığı kaçtır?
+A) 1  
+B) 2  
+C) 2  
+D) 5  
+E) MavKırmızPembTurunc120°
+60° 80°
+100°
+22. 2 zar atıldığında gelen sayıların toplamı 7 den 
+küçük olduğuna göre bu sayıların toplamının 5 e 
+bölünebilme olasılığı kaçtır? 
+A) 2  
+B) 4  
+C) 4  
+D) 5  
+E) 23. Ömer’in bir soruyu çözme olasılığı 3  ve 
+Özlem’in aynı soruyu çözme olasılığı 2  
+olduğuna göre Ömer’in veya Özlem’in bu soruyu 
+çözme olasılığı kaçtır? 
+A) 10  
+B) 11  
+C) 1  
+D) 5  
+E) 24. Bir zar ve bir madenî para birlikte atılıyor. Paranı tura ve zarın üçten büyük gelme olasılığı 
+kaçtır?
+A) 2  
+B) 1  
+C) 1  
+D) 3  
+E) 25. Atılan 2 zarın üst yüzeylerine gelen sayıların 
+toplamının 7 olduğu bilindiğine göre bu sayıların 
+ikisinin de asal olma olasılığı kaçtır?
+A) 1  
+B) 2  
+C) 2  
+D) 5  
+E) 26. İki torbada özdeş bilyeler vardır. Birinci torbada 
+5 sarı, 2 beyaz; ikinci torbada 3 sarı, 4 beyaz 
+bilye bulunmaktadır. Birinci torbadan bir bilye 
+alınıp ikinci torbaya atılıyor. Ardından ikinci 
+torbadan bir bilye alınıyor. İkinci torbadan alına bilyenin sarı olduğu bilindiğine göre birinci 
+torbadan alınan bilyenin de sarı olma olasılığı 
+kaçtır? 
+A) 11  
+B) 10  
+C) 5  
+D) 5  
+E) 27. 
+Şekildeki labirentte A noktasından yürümeye 
+başlayan bir kişi yol ayrımlarının tümünde rastgel bir yol seçmiştir. Seçtiği hiçbir yoldan dönüş 
+yapmadığı bilindiğine göre bu kişinin E veya L 
+noktasından çıkmış olma olasılığı kaçtır? 
+A) 11  
+B) 5  
+C) 1  
+D) 7  
+E) Sıra SizdSayfa 
+NoCeva16a) 7b) 
+5-
+c) 330°
+ç) -120°
+18a) 190°
+b)300°
+18a) b) 22-26cot27cos231sinx + cos35-2cos43x < y < 5257a) b) 64a) b) c)
+-
+66a) b) c) 568a) b) 
+-
+Alıştırmalar (19. sayfa)
+12° 17' 10"
+2a) 120° b) 150° c) 990°
+3a) 70° b) 40° c) 80°
+463°
+547° 21' 35"
+628° 35' 6"
+7a) 4�� b) 
+13��
+��
+9C ile Alıştırmalar (44. sayfa)
+-
+3|cosx|
+4sin25a) + 
+b) + 
+c) -
+6b < a < 7sec8-cot9-
+10-11cot2122x2-152sec2CEVAP ANAHTAR1. TRİGONOMETR16,
+,
+-
+-
+Alıştırmalar (49. sayfa)
+260°
+3 Ölçme ve Değerlendirm22 2  
+345[0, π]
+6(cosα)
+78910. 11. 12. -
+15. -sin16. -
+18. 19-
++
+-
+22. 2sec-
+27. 672 28. a) b) 29. a) 0°0'21"
+b) 10° 42' 37"
+30. 12,31. 3240 33. b) 0,25 - 0,34a) 0,b)
+Mogadişt = 4, t = Baydabt = 3, t = 35. 36. 37. 38. 39. 40. 41. 42. 43. 44. 45. 46. 47. 48. 49. 50. 51. 52. 53. 54. 55. 56. CEVAP ANAHTAR1. TRİGONOMETRAlıştırmalar (92. sayfa)
+120, -1, -2, -3, -3-43. bölg55 6(-7, 10)
+7(-1, 6)
+8a) 16          b) (-1, 0)
+103 12(3, 2)
+13(4, 0), (-2, 0)
+16(6, -5)
+Alıştırmalar (103. sayfa)
+1a) 1 
+b) 
+-
+ 
+c) -1     ç) yoktur 
+d) 2a) 1  
+b) 1 
+c)  
+ç) -
+3a) y = 3x - 1 
+b) y = -x + 1 
+c) y = 2x -2         
+ç) 3y - x + 12 = 4a) y = 
+-
+x+2 
+b) y = 3 
+c) x - y + 5 = 0 
+5=
++
+6a) 4y - x - 17 = 0 
+b) 3y + x - 10 = c) y - x + 2 = 0  
+d) 3x + 2y - 5 = Alıştırmalar (114. sayfa)
+2 y = 4-2. ANALİTİK GEOMETRÖlçme ve Değerlendirm1. x ekseni 
+2. eğim açıs3. parale4. eşi5. 36. 7. 8. 9. 10. 11. 12. 13.  -9 ve 14. 15.  -16. 17. 18. 19. 20.  a) 4        b) 3,6x - 1746 
+        c) 21. Ulaşır22. 23. 24. 25. 26. 27. 28. 29. 30. 31. Sıra SizdSayfa 
+NoCeva86--
+106-113-115k = -k = -

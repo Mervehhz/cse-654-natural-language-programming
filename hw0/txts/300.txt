@@ -1,0 +1,400 @@
+alabileceği en büyük negatif tam sayı değerini bulunuz+
+-
++
++
+=
+ çemberinin merkez        
+,
+,
+- -
+-
+=
+-
+]
+^
+h 
+yarıçap uzunluğ        
+birim olu=
++
+-
+=
+Doğru çemberi kesmediğine göre çemberin merkezinin +
++
+=
+ doğrusuna olan 
+uzaklığı yarıçaptan büyük olmalıdır. 
+Merkezin doğruya uzaklığı d birim ise  olmalıdırveya veya olu5 &
+&
+&
+&
+$
+$
++
++
+-
++
+-
+-
+-
+-
+-
+-
+&
+]
+O hâlde m nin alabileceği en büyük negatif tam sayı değeri 
+-  olur. 
++
+=
+ çemberi ile 
+$
+-
+-
+=
+ doğrusunun ortak noktası olmadığına göre çemberin 
+yarıçap uzunluğunun alabileceği en büyük tam sayı değerinin kaç birim olacağını bulunuz+
+=
+ çemberinin merkezi 
+,
+M 0 ^
+h ve yarıçap uzunluğu r birimdir. 
+Çember merkezinin 
+$
+-
+-
+=
+ doğrusuna olan uzaklığı d birim ise  olmalıdır. 
+&
+&
+&
+r olu3 $
++ -
+-
+-
+-
+^
+]
+ 
+ 
+ 
+ 
+ 
+Bu durumda r nin alabileceği en büyük tam sayı değeri 3 birim olurÇÖZÜÇÖZÜAnalitik GeometrÖRNE+
++
+=
+ doğrusu ve  +
+-
+-
++
+=
+ çemberi veriliyor. Buna göra) Çemberin merkezinin doğruya olan uzaklığının kaç birim olduğunu bulunuzb) Çemberin doğruya en yakın noktasının doğruya olan uzaklığının kaç birim olduğunu bulunuzc) Çemberin doğruya en uzak noktasının doğruya olan uzaklığının kaç birim olduğunu bulunuz+
+-
+-
++
+=
+ çemberinin merkezi 
+       
+,
+,
+3 - -
+- -
+=
+]
+]
+^
+g yarıçap uzunluğ       
+birim olu=
++
+-
+=
+b) Şekilde görüldüğü gibi çemberin doğruya olan uzaklığının en küçük değeri HB  dur,
+HHMbirim bulunu=
+-
+=
+-
+=
+birim bulunu=
++
+=
+HHM=
++
+a) Çemberin merkezinin doğruya olan uzaklığı HM  dur.          
+Hbirim olu3 4 $
+$
+=
++
++
++
+=
+=
+c) Şekilde görüldüğü gibi çemberin doğruya olan uzaklığının en büyük değeri HC  durÇÖZÜMatematik ÖRNE+
+-
+-
+-
+=
+ çemberinin, 
+,
+ve -
+-
+=
++
+-
+=
+=
+ doğrularının grafiklerin Dinamik Geometri ve Matematik Yazılımı programında çiziniz ve doğrular ile çemberin birbirlerin göre durumlarını inceleyiniz, varsa kesim noktalarını bulunuz1. Adım: Giriş kısmına alttaki ekran klavyesini kullanarak verilen 4 denklemi de sırasıyla yazınız 
+ve her seferinde enter tuşuna basınız. Grafikler ekrana gelecektir. Program, çembere 
+c harfini, 1. doğruya f harfini, 2. doğruya g harfini ve 3. doğruya da h harfini otomatik 
+olarak atar. 
+2. Adım: Ekrana gelen grafikler incelendiğinde 1. doğrunun çemberi kesmediği, 2. doğrunun 
+çemberi 2 noktada kestiği ve 3. doğrunun ise çembere teğet olduğu görülür3. Adım: Doğrularla çemberin kesim noktalarını bulmak için giriş çubuğuna kesiştir yazıldığında 
+açılan pencerede Kesiştir( < nesne > , < nesne > ) seçilir. 
+Kesiştir(c , f) yazarsanız cebir penceresinde A tanımsız yazacaktır. 
+Buna göre 1. doğru ile çemberin kesim noktası yokturKesiştir(c , g) yazarsanız 
+,
+,
+ve 2 -
+-
+^
+^
+h yazacaktır. 
+Buna göre 2. doğru çemberi bu noktalarda kesmektedirKesiştir(c , h) yazarsanız 
+,
+D 6 ^
+h yazacaktırBuna göre 3. doğru çembere bu noktada teğettirDinamik Geometri ve Matematik Yazılımı programını açınızÇÖZÜAnalitik GeometrÖRNEMurat Bey öğrencilerinden yandaki gibi bir motif oluşturmalarını istiyor. Bu motift: İç bölgesi sarıya boyanarak gösterilen merkezi orijinde ve yarıçap uzunluğu 2 cm olan bir çember 
+kullanılacaktırMor yaprakları oluşturan ve yarıçapları 13 cm olan 8 adet eş çember kullanılacaktır. Bu çemberlerden 
+yayı kırmızı ile gösterilen çember x eksenini =
+ ve =
+ da kesecektir:
+Matematik öğretmeni Murat Bey, Yaşlılar Haftası’nd öğrencileri için düzenlediği huzurevi gezisinde 
+huzurevi sakinlerinin kendilerine çiçek satın alınmas yerine, öğrencilerin el emekleriyle hazırladığ çiçek resimlerini hediye etmelerinin onları daha 
+çok mutlu ettiğini gözlemlemiştir. Bunun üzerine 
+Murat Bey, öğrencilerinde hem manevi değerleri 
+yaşatmak hem de derse olan ilgilerini artırmak adın tekrar bir ziyaret planlayarak okul öncesi öğretmen Neslihan Hanım’a birlikte bir proje hazırlamay teklif ediyor. Murat Bey, projesinde öğrencilerine çemberler kullandırarak koordinat sisteminde 
+bir  çiçek motifi oluşturacaktır. Öğrenciler oluşturdukları çiçek motifini beyaz kâğıtlara çıktı alıp 
+Neslihan Hanım’a ileteceklerdir. Neslihan Hanım ise motifleri kendi öğrencilerine kestirip boyattıracaktı. Daha sonra Murat Bey ve Neslihan  Hanım öğrencileri ile  birlikte Yaşlılar Haftası’nda 
+huzurevini ziyaret ederek büyüklerine saygı ve sevgilerini göstermek için kendi emekleriyle hazırladıklar çiçek motiflerini sunacaklardır18-24 Mart Yaşlılara Saygı HaftasG rsel 7 Matematik :
+:
+Murat Bey öğrencilerden aşağıdaki adımları sırasıyla uygulamalarını istiyorMerkezdeki çemberin denklemi bulunurKırmızı yaylı çemberin denklemi bulunurBulunan son çemberin merkezinin x eksenine göre simetriğini merkez kabul eden ikinci 
+çember denklemi bulunurBulunan iki çemberin de merkezlerinin y eksenine göre simetriğini merkez kabul eden iki 
+çember denklemi daha elde edilirElde edilen dört çemberin her birinin merkezinin orijin etrafında pozitif yönde 90c döndürülmesyle elde edilen 4 noktayı merkez kabul eden dört çember denklemi daha elde edilir:
+:
+:
+Murat Bey öğrencilerinden bu adımları uyguladıktan sonra buldukları tüm çember denklemlerini 
+Dinamik Geometri ve Matematik Yazılımı programını kullanarak çizmelerini söylüyor. Buna göre 
+elde edilen çember denklemlerini bulunuz. Dinamik Geometri ve Matematik Yazılımı programındki görüntüsünü oluşturunuz:
+:
+Çiçeğin merkezindeki çemberin merkezi orijin ve yarıçap uzunluğu 2 cm olduğundan denklemi 
++
+=
+ olurKırmızı çember yayının üzerinde bulunduğu çemberin merkezi A noktası ise Oc=
+ ve 
+Oc=
+ olur. ABO dik üçgeninde Pisagor teoreminden Ac=
+ bulunurO hâlde bu çemberin merkezi 
+,
+A -
+^
+h ve yarıçap uzunluğu 13 cm olacağından çemberin 
+denklemi 
+      
+olu-
++
++
+=
+]
+^
+ÇÖZÜAnalitik GeometrDinamik Geometri ve Matematik Yazılımı programını açınız. Elde edilen 9 tane çember denklemi 
+giriş bölümüne tek tek yazılarak enter tuşuna basılırsa çemberler çizilir. Böylece aşağıdaki görünt ekrana gelir:
+:
+Bir 
+,
+x ^
+h noktasının x eksenine göre simetriği 
+,
+-
+^
+h olduğundan 
+,
+-
+^
+h noktasının x eksenne göre simetriği 
+,
+5 ^
+h olur. O hâlde 
+,
+5 ^
+h merkezli ikinci çemberin denklemi 
+olu-
++
+-
+=
+]
+^
+Bir 
+,
+x ^
+h noktasının y eksenine göre simetriği 
+,
+x -
+^
+h olduğundan 
+,
+-
+^
+h ve 
+,
+5 ^
+h noktlarının y eksenine göre simetriği 
+,
+-
+-
+^
+h ve 
+,
+5 -
+^
+h olur. O hâlde 
+,
+-
+-
+^
+h ve 
+,
+5 -
+^
+h 
+merkezli çemberlerin denklemi 
+volu+
++
++
+=
++
++
+-
+=
+]
+^
+]
+^
+:
+Bir 
+,
+x ^
+h noktasının orijin etrafında pozitif yönde 90c döndürülmesiyle elde edilen nokta 
+,
+y -
+^
+h 
+olduğundan 
+,
+-
+^
+h, 
+,
+5 ^
+h, 
+,
+-
+-
+^
+h ve 
+,
+5 -
+^
+h noktalarının pozitif yönde 90c döndürülmesyle elde edilen noktalar 
+,
+12 ^
+h, 
+,
+12 -
+^
+h, 
+,
+-
+^
+h ve 
+,
+-
+-
+^
+h olur. O hâlde 
+,
+12 ^
+h, 
+,
+12 -
+^
+h, 
+,
+-
+^
+h ve 
+,
+-
+-
+^
+h merkezli son 4 çemberin denklem-
++
+-
+=
++
++
+-
+=
+]
+]
+^
+^
+olu-
++
++
+=
++
++
++
+=
+]
+]
+^
+^
+Matematik =
+ doğrusunun +
+-
+-
+=
+çemberini kestiği noktaların ordinatlarını bulunu+
++
+-
+-
+=
+ çemberi il-
+-
+=
+ doğrusunun varsa kesim noktlarını bulunuz+
++
+-
++
+=
+ çemberi il-
++
+=
+ doğrusunun varsa kesim 
+noktalarını bulunuz+
++
+=
+ doğrus+
++
+-
++
+=
+ çemberine teğet 
+olduğuna göre k pozitif tam sayısını bulunuz=
++  doğrusu 
++
++
++
+=
+çemberine teğet olduğuna göre teğetin çembee değme noktasını bulunuzAnalitik düzlemde 2 $
+=
++
+ doğrusu 
++

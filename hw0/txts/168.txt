@@ -1,0 +1,400 @@
+ekseni arasındaki açı nasıl bulunabilir?
+Güneş ışınlarının bir cisme vurduğu açı bilindiğinde 
+cismin gölge boyu nasıl hesaplanabilir?
+Bir duvar saati beşi gösterdiğinde saatin akrebi ile 
+yelkovanı arasındaki açı nasıl bulunabilir?
+Gök biliminde eksen eğikliği bir gök cisminin 
+Ekvator düzlemi ile yörünge düzlemi arasındaki 
+açısı olarak tanımlanırGüneş ışınlarının belirli açılarla cisimlere vurması 
+sonucunda gölgeler oluşur. Bu açılara bağlı olarak 
+cisimlerin gölge boyları değişiklik gösterir. 21 
+Mart'ta öğle vakti Ekvator üzerinde bulunan bir 
+yere Güneş ışınları dik açıyla vuracağından bu 
+tarihte buradaki bir cismin gölgesi oluşmazGünlük hayatta rastlanan birçok varlık belirli bir 
+merkez etrafında döner. Güneş sistemindeki 
+gezegenler, makine dişlileri, çarklar, saatlerde yer 
+alan akrep, yelkovan vb. bunlara örnek verilebilir. 
+⟔
+Yer eksenYörünge 
+düzlemEkvator 
+düzlemYönlü Açı, Derece, Dakika, Saniye, Radyan, Esas Ölçü, 
+Trigonometrik Fonksiyon, Periyot, Periyodik FonksiyoK A V R A M L A T Düzlemde başlangıç noktaları aynı olan iki ışının birleşimine açı denir. 
+Bu iki ışın, açının kenarları; ışınların başlangıç noktası açının köşesi olarak adlandırılırYandaki şekilde [OA ve [OB ışınları BOA açısının kenarları, 
+O noktası açının köşesidirHatırlatmKenarlarından biri başlangıç, diğeri bitiş kenarı olarak kabul 
+edilen açıya yönlü açı denir. 
+Yönlü açılarda başlangıç kenarı sabit, bitiş kenarı hareketlidirBitiş kenarı saatin dönme yönünün ters yönünde hareket 
+eden açılara pozitif yönlü açı denir. 
+Yandaki AOB açısı pozitif yönlü açıdırBitiş kenarı saatin dönme yönüyle aynı yönde hareket eden 
+açılara negatif yönlü açı denir. 
+Yandaki şekilde AOB açısı negatif yönlü açıdır.  
+Doğrusal hareket eden cisimlerin hareket yönü yukarı-aşağı, sağa-sola gibi kavramlarla ifade edilebili. Bununla birlikte gezegen, yel değirmeni, dönme dolap gibi belirli bir merkez etrafında 
+dairesel hareket eden cisimler de vardır. Bu cisimlerin hareket yönü pozitif yön ve negatif yön 
+kavramları kullanılarak ifade edilir1.1. Yönlü Açıla1.1.1. Yönlü AçBir açının ölçülmesi açının kolları arasındaki açıklığın belirlenmesi ile yapılır. Açının ölçüsünü ifade 
+etmek için derece veya radyan birimleri kullanılırDerecenin 1  ine 1 dakika denir. Bu ölçü 1' biçiminde gösterilirDakikanın 1  ine 1 saniye denir. Bu ölçü 1"biçiminde gösterilir. 
+1° = 60' = 3600" olur 1°
+1.1.2. Açı Ölçü BirimlerDerecBir tam çember yayının 360 eş parçaya bölünmesiyle elde edilen 
+her bir yayı gören merkez açının ölçüsüne 1 derece denir. Bu ölçü 1° 
+biçiminde gösterilir. Bir çemberin yay ölçüsü 360° olur(-) yöbaşlangıç kenarbitiş kenarBir açının ölçüsü a derece b dakika c saniye ise bu a° + b' + c" veya a° b' c" biçiminde gösterilir(+) yöbaşlangıç kenarbitiş kenar1° = 3600" olduğundan ölçüsü saniye cinsinden verilen açı 3600 e bölünür. Elde edilen  
+bölüm, açının derecesini; kalan, açının saniyesini gösterir. Kalan saniye değerinin kaç dakik olduğunu bulmak için (1' = 60") 60 ile bölme işlemi yapılır. Bölüm, açının kaç dakika 
+olduğunu; kalan, kaç saniye olduğunu gösterirNoÖlçüsü 5° 20' 10" olan açıyı saniye cinsinden bulunuzÇözü1° = 3600" olduğuna göre 5° = 5.3600 = 18 000"
+1' = 60" olduğuna göre 20' = 20.60 = 1200" olurO hâlde 5° 20' 10"= 18 000" + 1200" + 10" = 19 210" olur. 
+1. Örnek 
+22 000 saniyelik açı ölçüsünü derece, dakika ve saniye cinsinden bulunuzÇözü1. Yol  
+ 
+ 
+ 
+ 
+ 
+Buna göre 22 000"  = 6° 6' 40"  olur2. Örnek 
+m( AW ) = 17° 12' 08" ve m( BW ) = 24° 10' 57" açı ölçülerine göre aşağıdaki işlemleri yapınıza)  m( AW ) + m( BW ) 
+b) m BW  - m( AW )  
+c)  
+( )
+m  
+ç) 
+( )
+m Çözüa) 
++
+17° 12' 08" 
+24° 10' 57" 
+41° 22' 65"
+ 
+ 
+       
+ 
+ 
+ 
+ 
+ 
+   60" = 1' 
+ (65" den 1'(60") sola aktarıldı.)
+ 
+ 
+ 
+m( AW ) + m( BW ) = 41° 23' 05''   olurb) 
+1°
+-
+24° 10' 57" 
+17° 12' 08" 
+ 
+ 
+   
+ 
+ 
+ 
+  (24° den 1° (60') sağa aktarıldı.) 
+     -
+23° 70' 57" 
+17° 12' 08" 
+ 6° 58' 49"
+ 
+ 
+ 
+m( BW ) - m( AW ) = 6° 58' 49''  olur3. Örnek 
+6°
+-
+ 22  21 00400"
+-
+ 22  21        40"
+-
+6'
+40" 
+-
+6°
+6'
+2. YoT c)
+1°
+'
+''
+'
+''
+( )
+'
+''
+m 17 12 36 °
+°
+°
+=
+=
+   (17° 2 ye tam bölünmediğinden 1° (60') sağa aktarıldı.)
+ 
+ 
+ 
+        
+ 
+    
+ç)
+'
+''
+°
+'
+''
+( )
+'
+''
+m 10 8 3 °
+°
+=
+=
+    (10' 3 e bölünmediğinden 1' (60") sağa aktarıldı.) 
+1 radyaBir açının derece cinsinden ölçüsü D, radyan cinsinden ölçüsü R olmak üzere 
+360° 
+ 
+2π 
+  D 
+ 
+ R 
+D . 2π = R . 360°
+° =
+ ⇒ 
+180° =
+ elde edilir.  
+Bu orantı, derece ile radyanı birbirine dönüştürmek için kullanılır 
+r birim yay uzunluğu                           1 radyan 
+2πr birim yay uzunluğu                       x radyar . x = 2πr ⇒ x = 2Bir çember yayının ölçüsü 2π radyandırBuna göre 360° =  2π  radyandırAşağıda verilen açı ölçülerinin radyan cinsinden eşitlerini bulunuza) 45°  
+b) -120° 
+ 
+c) 330°  
+Çözüa) 180° 
+ 
+45° 
+ 
+180° . x =  45°. π 
+        =
+ radyan olur b) 
+180° =
+formülünden 
+°
+°
+-
+=
+ 
+ 
+ 
+2R = -
+ radyan olur 
+ 
+c) 
+180° =
+formülünden 
+°
+°
+=
+  
+11��
+=
+ radyan olur4. Örnek 
+RadyaBir çemberde yarıçap uzunluğuna eşit uzunluktaki yayı gören merkez açının ölçüsüne 1 radyan 
+denir ve bu ölçü  1R, 1R veya 1rad  ile gösterilirBu kitapta bir açının ölçüsü π cinsinden yazıldığında ölçünün birimi radyan olarak kabul edilecektirAşağıda derece cinsinden verilen açı ölçülerini radyana, radyan cinsinden verilen açı 
+ölçülerini dereceye dönüştürünüza) 210° 
+b) -150° 
+c) 1   
+ç) 
+2-
+  
+Sıra SizdAşağıda verilen açı ölçülerinin derece cinsinden eşitlerini bulunuza) 6   
+b)   
+c) 
+-
+ 
+Çözüm 
+1. Yoa)  
+    
+ π 
+ 
+180° 
+6  
+ 
+x 
+π.x = 180°. 6  
+olu°
+°
+=
+=
+b) 
+&
+&
+°
+olu°
+°
+°
+=
+=
+=
+=
+c) 
+&
+&
+olu7 °
+°
+°
+°
+=
+=
+-
+= -
+= -
+2. Yoπ = 180° olduğundaa) °
+°
+=
+=
+ olur. 
+ 
+b) 
+3 =
+=
+° olur. 
+c) 
+7 °
+°
+-
+= -
+= -
+ olur6. Örnek 
+2 radyanlık bir açının ölçüsünün kaç derece olduğunu bulunuzÇözüm    
+1. Yol  
+ 
+ 
+ 
+2. Yo 
+ 
+ 
+ 
+ 
+&
+olu°
+°
+=
+=
+ 
+5. Örnek 
+2π 
+ 
+360°
+2R 
+ 
+x 
+2π.x = 360°.2 
+olu360°
+=
+ 
+T Şekilde görüldüğü gibi A noktasından harekete başlayan kişi 3 turun ardından B noktasına varmış 
+ve çember üzerinde α açısı kadar yer değişikliği yapmıştırBu α açısı, β açısının esas ölçüsüdür. 
+β = α + 3.360° açısında α, β nın 360° ile bölümünden elde edilen kalandırBu kitapta açı ölçüsü ifadesi yerine açı ifadesi kullanılacaktırYandaki O merkezli çember üzerinde A ve B noktalarını birleştiren 
+yayı gören merkez açının ölçüsü α olmak üzerçember üzerinde A noktasından pozitif yönde ilerleyen bir kişi, 3 
+turun ardından B noktasında durduğunda bu kişinin kaç derece 
+yer değiştirdiğβ = α + 3.360° şeklinde yazılabilirtur sayısEsas Ölçk ∈ ℤ içi•  α ∈ [0°, 360°) olmak üzere β = α + k.360° ise α açısına β açısının esas ölçüsü denir. 
+•  θ ∈ [0, 2π) olmak üzere ölçüsü θ + k.2π olan açının esas ölçüsü θ radyandır•  Açıların esas ölçüleri negatif olamazTanıEsas ölçüsü 47° olan pozitif en küçük üç açıyı bulunuzÇözüBu açıların genel ifadesi 47° + k.360° (k ∈ ℤ) biçimindedir. 
+k = 0 için 47° + 0.360° = 47°
+k = 1 için 47° + 1.360° = 407°  
+k = 2 için 47° + 2.360° = 767° olur7. Örnek 
+Aşağıda verilen açıların esas ölçülerini derece cinsinden bulunuza) 1480° 
+   b) -1250°
+ÇözüDerece cinsinden verilen açının esas ölçüsü,
+aynı açının 360° ye bölümünden elde edilen kalandıra) 1480° lik açının esas ölçüsü 1480° nin 360° ye bölünmesiyle bulunur. 
+-
+40°
+    1480° = 40° + 4.360° olduğundan esas ölçüsü 40° olur                            
+b)
+---1440   
+190°
+-
+ 
+ 
+-1250° = 190° + (-4).360° olduğundan -1250° lik açının esas ölçüsü 
+190° olurEsas ölçünün [0°, 360°) nda olduğuna dikkat ediniz8. Örnek 
+40° 
+190° 
+Aşağıda verilen açıların esas ölçülerini derece cinsinden bulunuza) 1270° 
+   b) -780°
+Sıra SizdAşağıda ölçüleri verilen açıların esas ölçülerini radyan cinsinden bulunuza)  
+ 
+   b) 
+3 -
+         
+Sıra SizdEsas ölçüsü  olan ve 2  ten farklı pozitif en küçük iki açıyı radyan cinsinden bulunuzÇözüBu açıların genel ifadesi 
+ + k.2π (k ∈ ℤ) biçimindedirk = 1 için 
+ + 1.2π = 
+ olur. 
+ 
+k = 2 için 
+ + 2.2π = 
+ olur9. Örnek 
+Aşağıda verilen açıların esas ölçülerini radyan cinsinden bulunuza) 
+35  
+   b) 
+-
+ 
+c) 
+  
+ç)
+-
+ 
+ÇözüÖlçüsü radyan olarak verilen açının esas ölçüsü bu açının  2π ye bölümünden kalandıra) 35π nin 2π ye bölümünden kalan π olduğundan bu açının esas ölçüsü π radyan olurb) -26π nin 2π ye bölümünden kalan 0 olduğundan bu açının esas ölçüsü 0 radyan olurc) 
+=
++
+=
++
+=
++
+ olduğundan esas ölçü 
+ radyan olurç) 
+-
+=
+-
+=
+-
+=
+-
+ olduğundan esas ölçü 
+ radyan olur10. Örnek 
+tur sayıstur sayısı (ters yönde)
+T 1. 8230  saniyelik açıyı derece, dakika ve saniye 
+cinsinden yazınız2. Aşağıda verilen açıların esas ölçülerini derece 
+cinsinden yazınıza)  
+            b) 
+             c) 
+3. Aşağıda verilen açıların esas ölçülerini derece 
+cinsinden bulunuza) 790° 
+   b) -1040° 
+c) -280°
+4. Bir AB&  nde 
+( )
+,
+m radya=
+ 
+( )
+m 37°
+=
+ 
+olduğuna göre C açısının derece cinsinden 
+ölçüsünü bulunuz5. Ölçüsü 42° 38' 25'' olan açının tümlerinin 
+ölçüsünü derece, dakika ve saniye cinsinden 
+bulunuz. 
+6. Ölçüsü  42°  52'  39''  olan açı veriliyor. Bu açını2  sine eşit olan açının ölçüsünü derece, 
+dakika ve saniye cinsinden bulunuz7. Aşağıda verilen açıların esas ölçülerini radyan 
+cinsinden bulunuz. 
+a) 
+   
+b) 
+-
+ 
+8. 45° lik açının ölçüsünü radyan cinsinden 
+bulunuz. 
+9. Daire şeklindeki bir pistin A noktasından ok 
+yönünde harekete başlayan 
+bir motosikletli 2760° lik 
+açı yaparak duruyor. Bu 
+motosikletlinin, hareketini 
+hangi ardışık iki nokta 
+arasında tamamladığını 
+bulunuzAlıştırmala    Sinüs ve Kosinüs FonksiyonlarBirim çember üzerinde P(x, y) noktası verilsin ve bu noktayı orijinle birleştiren [OP nın x ekseni ile 
+yaptığı pozitif yönlü açının ölçüsü α olsunP noktasının apsisine α açısının kosinüsü denir ve bu ifade cosα ile gösterilir. x = cosα 
+α olurP noktasının ordinatına α açısının sinüsü denir ve bu ifade sinα ile gösterilir. y = sinα olurBuna göre x eksenine kosinüs ekseni, y eksenine sinüs ekseni denirP noktası birim çember üzerinde bulunduğundan apsis ve ordinat değerleri -1 den küçük, 1 den 
+büyük olamaz.  Buna göre -1 ≤ sinα ≤ 1 ,  -1 ≤ cosα ≤ 1 olurYukarıdaki birim çemberde P noktasından indirilen dikmenin ayağı H olmak üzere POH dik 
+üçgeninde Pisagor teoremi uygulandığında cos2α + sin2α = 1 özdeşliği elde edilir    --cossinP(x, y) = P(cosα, sinα)
+1.2. Trigonometrik Fonksiyonla1.2.1. Trigonometrik Fonksiyonların Birim Çember Yardımıyla Açıklanmas1 - sin2α = cos2α        1 - sin2α = (1 - sinα)(1 + sinα)
+1 - cos2α = sin2α       1 - cos2α = (1 - cosα)(1 + cosα)
+Sonuç                   
+0 ≤ α < 2π olmak üzere si��=
+ olduğuna göre cosα değerlerini bulunuzÇözüsicoco+

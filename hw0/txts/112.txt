@@ -1,0 +1,400 @@
+= -
+                                                                            
+( )
+(
+) (
+) (
+)
+P $
+$
+$
+= -
+-
++
++
+ olur        b)  
+(
+)
+P 2 +
+ polinomunun sabit terimi 
+(
+)
+( )
+2 +
+=
+ olur. Burada            
+( )
+(
+) (
+) (
+)
+( )
+olu&
+$
+$
+$
+= -
+-
++
++
+= -
+&
+-
+=
+=
+ değeri 
+(
+)
+P +
+ polinomunda x yerine yazılırs(
+)
+( )
+( )
+olu6 &
+&
+$
++
+= -
++
++
+= -
++
++
+=
+Bir 
+( )
+P x  polinomu için aşağıdaki bilgiler verilmektedir• 
+( )
+P x  polinomu 3. dereceden bir polinomdur• 
+P ^ h polinomunun sıfırları (kökleri) ,
+vdi-
+-
+• 
+( )
+P x  polinomunun katsayılar toplamı 12 dirVerilen bu bilgilere gör          a)   
+( )
+P x  polinomunu yazınız          b)   
+(
+)
+P 2 +
+ polinomunun sabit terimini bulunuz(
+)
+P +
+= -
++
++
+ polinomunun -
+ ile bölümünden kalanı bulunuz&
++
+=
+= -  değeri, P ^ hpolinomunda yerine yazılırs(
+)
+(
+)
+(
+)
+(
+)
+(
+)
+(
+)
+olu$
+$
+$
+-
+=
+-
++
+-
++
+-
++
+-
+= - +
+-
++
+-
+=
+( )
+P x  polinomu +  ile tam bölündüğünden = -  sayısının 
+( )
+P =
+ denkleminin sıfırı olduğuna ve 
+( )
+(
+)
+( )
+P Q 1 $
+=
++
+ şeklinde yazılabileceğine dikkat ediniz( )
+P =
++
++
++
+ polinomunun +  ile bölümünden kalanı bulunuz(
+)
+P -
+=
++
+-
++
+ polinomu veriliyor. Buna göre 
+(
+)
++
+ polinomunun +
+ ile bölümünde kalanı bulunuz&
++
+=
+= -  olur. 
+= -  değeri 
+(
+)
++
+ polinomunda x yerine yazılarak kalan bulunur. 
+Kalan 
+(
+(
+)
+)
+(
+)
+$ -
++
+=
+-
+ olur. 
+-
+= -  için = -  değeri 
+(
+)
+P -
+ polinomunda yerine yazılırs(
+)
+(
+)
+(
+)
+(
+)
+(
+)
+(
+)
+olu&
+$
+$
+$
+- -
+=
+-
++
+-
+-
+-
++
+-
+= -
++
++
++
+-
+=
+1.  
+( )
+P = -
++
+-
++
+ ve 
+( )
+Q =
+-
++
+-
+ polinomları veriliyor. 
+Buna göre 
+a) 
+( )
+( )
+x P Q $
+$
++
+ işleminin sonucunu bulunu. 
+        b) 
+( )
+( )
+P Q $
+$
+-
++
+ işleminin sonucunu     
+            bulunuz.  
+2. ve !
+!
+ olmak üzere 
+(
+) (
+)
+a$
+-
++
+-
++
+-
++
+ çarpımında elde edilen ifadede x5 li terimin katsayısı 
+-  olduğuna göre a sayısının değerini bulunu. 
+ 
+3. 
+( )
+P = -
++
+-
+-
++
+ polinomunun 
+( )
+Q =
+-
++
+ polinomu ile bölümünden 
+elde edilen bölüm polinomu ve kalan polinomnun toplamını bulunuz. 
+ 
+4.     
+( )
+P ( )
+Q ( )
+B -
++
+        
+                             
+         
+Yukarıdaki bölme işleminde 
+( )
+Q x  ve 
+( )
+B x  
+polinomlarının derecesi eşit olduğuna göre 
+( )
+( )
+der Q $
+Ain alabileceği en küçük 
+değeri bulunuz.  
+5. 
+( )
+P =
+-
++
+ polinomu veriliyor. Buna 
+göra) 
+( )
+P x  polinomunun +
+ ile bölümünden 
+kalanı bulunuz. 
+b) 
+(
+)
+P -
+ polinomunun -
+ ile bölümünde kalanı bulunuz. 
+c) 
+(
+)
+$
+-
+ polinomunun -  ile bölümünde kalanı bulunuz. 
+ 
+6.  !
+ olmak üzere 
+(
+)
+(
+)
+P m$
+-
++
+=
+-
++
+-
+ eşitliğini 
+sağlayan 
+(
+)
+P +
+ polinomunun -
+ ile 
+bölümünden kalanı bulunuz.  
+ALIŞTIRMALA7.   3. dereceden bir 
+( )
+P x  polinomu ile ilgili        
+aşağıdaki bilgiler verilmektedir• 
+( )
+P x  polinomu 2 +  ile tam bölünen 
+bir polinomdur• 
+( )
+P x  polinomunun baş katsayısı 
+-  
+dir• 
+( )
+P x  polinomunun sabit terimi 
+-
+ dir      Bu bilgiler yardımıyla 
+a) 
+( )
+P x  polinomunun katsayılar toplamını 
+bulunuz.   
+b) (
+)
+P +
+ polinomunun +
+ ile bölümünde kalanı bulunuz. 
+8. 
+( )
+P =
++
+ polinomu veriliyor.  
+( )
+( )
+( ) (
+)
+$
+$
+$
+$
+$
+ çarpımının 
+sonucunu bulunuz. 
+ 
+9. 
+( )
+P =
++
++
++
++
+ polinomunu kareköklerinden biri m2 +
++
+ olduğun göre +
+ nin alabileceği değeri bulunuz. 
+10. 
+( )
+P !
+ ve 
+( )
+der P @
+ olmak üzere  
+( )
+(
+)
+( )
+Q P $
+=
++
++
++
+-
+    

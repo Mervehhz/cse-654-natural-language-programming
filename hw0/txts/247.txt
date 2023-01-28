@@ -1,0 +1,400 @@
+=
+-
+=
++
+^
+^
+  
+,
+A x ^
+h noktası f ] g parabolünün üzerinde olduğundan 
+=
++
++
+ denklemini sağlar. Bu 
+denklemde x yerine 1 -
+ ve y yerine 1 +  yazılırsolu+
+=
+-
++
+-
++
++
+=
++
++
+-
+-
++
+-
+=
++
+^
+^
+O hâlde f =
++
++
+]  parabolünün ötelenmesiyle g =
+-
++
+]  parabolü bulunmuş olurÇÖZÜÖRNE=
++
++
+ parabolünün tepe noktası 
+,
+,
+,
+T r f olu1 =
+-
+=
+-
+^
+^
+^
+h 
+Parabolün üzerindeki 
+,
+C 0 ^
+h ve 
+,
+1 -
+^
+h tepe noktasının x ekseni boyunca pozitif yönde 3 birim 
+ve y ekseni boyunca negatif yönde 1 birim ötelenmesi ile 
+,
+C 3 l^
+h ve 
+,
+T 2 l^
+h noktaları elde edilir. 
+Tepe noktası 
+,
+T 2 l^
+h olan parabolün denklemi a =
+-
++
+^
+ biçimindedir. 
+,
+C 3 l^
+h noktas bu parabol üzerinde olduğundan parabolün denklemini sağlar. 
+&
+a olu&
+&
+&
+&
+=
+-
++
+=
++
+=
+=
+-
++
+^
+^
+Buna göre =
++
++
+ parabolünün x ekseni boyunca pozitif yönde 3 birim ve y ekseni boyunc negatif yönde 1 birim ötelenmesi ile =
+-
++
+=
++
+-
+^
+ parabolü elde edilir1. YO2. YODönüşümleYandaki şekilde birim karelere ayrılmış olarak verilen analiti düzlemdeki ABCD dörtgeninin x ekseni boyunca negatif 
+yönde 6 birim ve y ekseni boyunca negatif yönde 7 birim 
+ötelenmesi ile oluşan dörtgeni bularak analitik düzlemde 
+gösteriniz,
+,
+,
+,
+,
+,
+v1 5 5 2 ^
+^
+^
+^
+h noktaları x ekseni boyunc negatif yönde 6 birim, y ekseni boyunca negatif yönd 7 birim  ötelenirs,
+P x ^
+,
+P x ^
+,
+l l ^
+yxACDüzlemde bir P noktasının koordinatları 
+,
+,
+x ^
+O@ nın x ekseni ile pozitif yönde yaptığı açı 
+vO=
+ olmak üzere P noktasının koordinatları 
+cosiolu$
+$
+=
+=
+ 
+P noktasının, O (orijin) etrafında pozitif yönde a  açısı 
+kadar döndürülmesi ile elde edilen noktanın koordinatlarcosiolur Buna g r$
+$
+=
++
+=
++
+]
+]
+g cocosisicocosisicosisicocosisicocosicosiolarelde edilir B ylec$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+=
+-
+=
+-
+=
+-
+=
++
+=
++
+=
++
+]
+]
+4444 1 2 444 4444 1 2 444   
+P noktasının orijin etrafında pozitif yönde a  açısı 
+kadar döndürülmesi ile elde edilen Pl noktas,
+,
+cosisico$
+$
+$
+$
+=
+=
+-
++
+]
+^
+olur. Burada a  açısına dönme açısı denir. a  açısı kadar 
+dönme dönüşümü Ra  ile gösterilir. 
+Dönme Dönüşüm&
+&
+&
+&
+,
+,
+,
+,
+,
+,
+,
+,
+6 6 6 6 -
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+^
+^
+^
+^
+^
+^
+^
+^
+noktalarına dönüşürler. Bu noktalar ile A B C l l l l dörtgeni 
+analitik düzlemde yandaki şekildeki gibi elde edilirÇÖZÜÖRNEMatematik SONUAnalitik düzlemde 
+,
+P 2 ^
+h noktasının orijin etrafında pozitif yönde 60c döndürülmesi ile elde edile Pl noktasının koordinatlarını bulunuz,
+P 2 ^
+h noktasının orijin etrafında pozitif yönde 60c döndürülmesi ile elde edilen Pl noktas,
+,
+,
+cosisico2 4 2 $
+$
+$
+$
+$
+$
+$
+$
+=
+=
+-
++
+-
++
+-
++
+bulunu=
+=
+c]
+^
+^
+Analitik düzlemde 
+,
+A 4 ^
+h noktasının orijin etrafında pozitif yönde 90c döndürülmesi ile elde edile Al noktasının koordinatlarını bulunuz ve analitik düzlemde gösterinizBu durumda A noktasının orijin etrafında pozitif yönde 90c döndürülmes ile elde edilen Al noktası yandaki gibidir,
+A 4 ^
+h noktasının orijin etrafında pozitif yönde 90c döndürülmesi ile elde edilen Al noktasAnalitik düzlemde 
+,
+5 -
+^
+h noktasının orijin etrafında negatif yönde 9 c döndürülmesi ile elde 
+edilen Pl noktasının koordinatlarını bulunuz,
+5 -
+^
+h noktasının orijin etrafında pozitif yönde 270c döndürülmesi ile elde edilen Pl noktas,
+,
+,
+cosisico7 7 $
+$
+$
+$
+$
+$
+$
+$
+=
+=
+-
+-
+-
++
+-
+-
+-
+-
+-
++
+bulunu=
+=
+c]
+^
+^
+^
+]
+]
+]
+]
+]
+]
+Herhangi bir 
+,
+x ^
+h noktası orijin etrafında pozitif yönde  
+,
+,
+c ve 360c 
+döndürüldüğünde aşağıdaki noktalar elde edilirÇÖZÜÇÖZÜÇÖZÜÖRNEÖRNEÖRNE,
+,
+,
+,
+x y x = -
+= -
+-
+^
+^
+^
+^
+,
+,
+,
+,
+x x x =
+-
+=
+^
+^
+^
+^
+bulunu=
+=
+,
+,
+,
+cosisico4 3 4 3 3 $
+$
+$
+$
+$
+$
+$
+$
+=
+=
+-
++
+-
++
+-
+c]
+^
+^
+^
+Orijin etrafında negatif yönde 9 c döndürülme, pozitif yönde 270c döndürülme demektirA-
+DönüşümleŞekilde 
+,
+,
+,
+,
+ve di1 4 1 -
+-
+-
+^
+^
+^
+Bu noktaların orijin etrafında pozitif yönde 90c 
+döndürülmesi ile oluşan noktala,
+,
+,
+,
+,
+,
+olu1 4 1 =
+-
+= -
+-
+=
+-
+= -
+-
+=
+-
+= -
+-
+^
+^
+^
+^
+^
+^
+                                                       
+Böylece A B l l l üçgeni yandaki şekildeki gibi elde edilirYandaki ABC dik üçgeninin orijin etrafında pozitif yönde 

@@ -1,0 +1,400 @@
++
+=
++
+=
+=
+=
+=
+=
++
+=
+=
+=-
++
+=
+=
+]
+]
+]
+,
+,
+,
+Bu durumdz m k mesolarak bulunu90 120 240 çö Ç =
+"
+,
+cosi$
+-
+=
+ denkleminin çözüm kümesini bulunuzBu durumda çözüm kümesi 
+,
+x olarak bulunu$
+;
+!
+=
+=
++
+&
+(Eşitliğin her iki tarafı cosx  ile bölünür.)
+ÇÖZÜÇÖZÜÖRNEcosicococositatata&
+&
+$
+$
+-
+=
+-
+=
+=
+=
+tataolu&
+&
+&
+$
+$
+$ -
+=
+=
+=
++
+&
+Trigonometrsico$
+$
++
+=
+ denkleminin çözüm kümesi 
+,
+x $
+;
+!
+=
+=
++
+&
+0 olduğuna göra  oranını bulunuzÇağının en büyük müslüman astronomi âlimlerinden biri olarak kabul 
+edilen El Battani, trigonometriye cebir ilmini ilk uygulayan kişi olarak insanlığı yıldızlara açılan gözü oldu. İlk eğitimini babasından alan bilgin, 
+ilk ciddi çalışmalarına Rakka’da kurduğu bir rasathanede başladı. Vaktini büyük çoğunluğunu rasathanede araştırmalarına harcayan büyük 
+kâşif, çalışmaları sonucunda “Sabi Cetvelleri” adıyla bilinen yıldız kataloğun hazırladı ve tam 489 yıldızı sınıflandırdıAstronomi ile ilgili çalışmaları sırasında matematik ve geometriden de 
+faydalalanan El Battani, bugün trigonometriyi sistemli hâle getiren ilk 
+bilim insanı olarak nitelendirilir. Küre ve düzlem geometrisi üzerine araştırmala yapan El Battani, Batı’ya trigonometriyi öğreten isim oldu. Matematik ve astronomi ilmine oldukça 
+katkı sağlayan El Battani sinüs, kosinüs ve kotanjant kavramlarını geliştirerek dereceli bir tablo oluşturdu. 
+Bu tabirleri güneş saati hesaplamalarında da kullandı ve uzayıp giden gölge adını verdiği doğruya günümüzd tanjant denildi. Astronomi ve trigonometri üzerine sayısız kitap yazan Battani’nin eserleri Avrupa’da 
+birçok akademide başucu kitabı oldu. Batı dünyası, Orta Çağ’da eserleri Latinceye çevrilen ilk müslüman 
+bilim adamı olan Battani’nin değerini ortaya koymak için Ay’daki bir bölgeye onun ismini verdi. 
+ (El Battani, www.eba.gov.tr)
+El BattanG rsel 3 ÇÖZÜÖRNEsico$
+-
+=
+ denkleminin çözüm kümesini bulunuz,
+Bu durumdz m k mesx olarak bulunuçö $
+;
+!
+=
+=
++
+&
+sicocosicoco&
+$
+$
+-
+=
+-
+=
+tataolu&
+&
+&
+$
+$
+-
+=
+=
+=
++
+ÇÖZÜÖRNEsico$
+$
++
+=
+ denkleminin çözüm kümesi 
+,
+x $
+;
+!
+=
+=
++
+&
+0 olduğundan 
+denklemin köklerinden biri r  olur ve bu kök verilen denklemi sağlar&
+&
+&
+&
+sicosisisicococobulunu&
+&
+&
+$
+$
+$
+$
+$
+$
++
+=
++
+=
+=-
+=-
+=
+(Eşitliğin her iki tarafı 
+si$
+ ile bölünür.)
+Matematik Aşağıdaki denklemlerin çözüm kümelerini 
+bulunuzAşağıdaki denklemlerin çözüm kümelerini 
+bulunuz) sin =-
+)
+)
+ç)
+)
+)
+cocosicota=
+=-
+=
+=
+=-
+)
+)
+)
+)
+cocosisisicotata=
++
++
+=
+-
++
+=
+=
+denklemini,
+taco0 2=
+^
+? ndaki 
+köklerini bulunuzdenklemini,
+cos 0 2=
+^
+? nda 
+çözüm kümesini bulunuzdenklemini,
+sin 0 2=
+^
+g nda çözüm 
+kümesini bulunuz,
+sicodenklemini$
+=
+^
+h nda 
+çözüm kümesini bulunuz,
+sico0 denklemini=
+^
+h nda 
+çözüm kümesini bulunuzcocosisi-
+=
+ denkleminin 
+,
+^
+h nda çözüm kümesini bulunuzsicoco$
+=
+c denkleminin 
+,
+@ ndaki köklerini bulunuzta+
+=
+ denklemini 
+,
+3l ndaki köklerini bulunuztata-
+=
+ denkleminin çözüm 
+kümesini bulunuz. 
+cota$
+r -
+=
+ denkleminin çözüm 
+kümesini bulunuz. 
+denklemini,
+sin0 +
+=
+^
+h nda 
+çözüm kümesini bulunuzsico3 denklemini$
++
+=
+ 
+,
+180 ^
+h nda çözüm kümesini bulunuz,
+180 !
+^
+h olduğuna göre 
+cosi+
+=
+ denkleminin çözüm 
+kümesini bulunuzcos =-  denkleminin çözüm kümesini 
+bulunuzsicocosico$
+$
++
+=
+ 
+denkleminin çözüm kümesini bulunuzBir futbol maçının oynanacağı gün bölgedek ölçülecek hava sıcaklığı tahmini, santigra derece (
+)
+ türünde     ( )
+sif =
+-
++
+fonksiyonu ile modellenebilmektedir. Bu 
+futbol karşılaşmasının başlayacağı saatt sıcaklık 
+17 olarak tahmin edildiğine 
+göre maçın başlama saatinin kaç olabileceğin bulunuz(x, saatleri ifade etmektedir. Örneğin saat 
+14.00 ise =
+ alınır.)
+ AlıştırmalaTrigonometrA) 1-6. sorularda boş bırakılan yerlere  
+     uygun ifadeleri yazınızB) 7. soruda numaralar ile verilen ifadeleri        
+     harf ile verilen ifadelerle eşleştirinizsicocosisicocoIIII$
++
+-
+)
+)
+)
+)
+)
+)
+)
+cocota-
++
+I. 
+IIIII. 
+IV. 
+cocosisi$
+$
++
+c 
+ifadesinin değeri ............... dirtan =
+ denkleminin 
+,
+^
+h ndaki 
+kökü .............. derecedirsisi$c ifadesinin eşiti ..............dirtatatata$
++
++
+=
+ olduğuna 
+göre tan +
+^
+h değeri ............... dircosi-
+=
+ denkleminin çözüm 
+kümesi ................. dirsicosi$
+$
+=
+c olduğuna 
+göre a nın eşiti ................. dir,
+siv0 !
+=
+ 
+olduğuna göre tar +
+l değeri kaçtır?
+C) 8-11. açık uçlu soruları cevaplandırınızABCD ikizkenar yamuk, 
+,
+,
+DABAve m DCccc=
+=
+=
+=
+=
+^
+%
+olduğuna göre cos 2a  değeri kaçtır?
+,
+siv0 !
+=
+`
+olduğuna göre sico+
+ ifadesinim türünden eşiti nedir?
+,
+sicocois$
+=
+ 
+olduğuna göre x açısının radyan türünden 
+eşiti nedir?
+Numaralar ile verilen ifadelerin sonuçlarını 
+bularak harf ile verilen ifadelerle eşleştirinizÖlçme ve Değerlendirme Matematik D) 12-21. çoktan seçmeli soruları çözünüz  
+     ve doğru seçeneği işaretleyiniz12 ABC bir üçgen olmak üzere 
+cocosisico$
+$
+-
++
+ifadesinin değeri aşağıdakilerden hangisidi?
+-
+sicosico$
+$
+=
++
+=
+-
++
+]
+]
+]
+^
+olduğuna göre +
+ toplamının sonucu 
+aşağıdakilerden hangisidir?
+sin795ifadesinin değeri aşağıdakilerden hangisidi?
+,
+,
+ABC bir digeABCbiriABx biriü$
+=
+=
+=
+=
+?
+?
+olduğuna göre tan CA%
+ nın x türünde eşiti aşağıdakilerden hangisidir?
+ABCD dikdörtgeni 12 eş birim kareden 
+oluşmaktadır. 
+Buna göre cos EC^
+%  değeri aşağıdakilerde hangisidir? 
+   
+si=
+-
+ 
+olduğuna göre sin50c nin m türünden 
+eşiti aşağıdakilerden hangisidir?
+)
+)
+)
+)
+)
+-
+-
+)
+)
++
+-
++
++
++
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+-
+-
+)
+)
+)
+)
++
++

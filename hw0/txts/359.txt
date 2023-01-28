@@ -1,0 +1,400 @@
+bağlı olduğu dev ağ örgüler meydana gelir. Kovalent katıda atomların her biri fazla sayıda 
+kovalent bağ yapma özelliğine sahiptir, bu nedenle her bir atom diğer atomlara bağlı olacak 
+şekilde bir dizilim meydana gelir. Elmas, grafit, silisyum vb. maddeler kovalent katılara 
+örnektir. Elmas, karbon atomlarından oluşmaktadır ve elmasta her bir karbon atomu komşu 
+4 karbon atomuyla kovalent bağ yapacak şekilde dizilidir (Görsel 2.15). 
+Grafit de elmas gibi karbon atomlarından oluşmaktadır. Grafit her bir karbon atomu 3 
+komşu karbon atomuyla kovalent bağ yapan, birbirine bağlı altıgen halkalardan oluşur. 
+Halkadaki karbon atomları arasındaki kovalent bağ güçlü bir etkileşimken, halkalar arasında 
+zayıf etkileşim bulunmaktadır.  
+Görsel 2.14  Moleküler katı tanecik modelİyot katısTanecik modelİyot molekülGörsel 2.15 Kovalent katı tanecik modelElmaTanecik modelÖzetle, iyonik katıda iyonlar belirli bir düzene göre dizilidirler. Moleküler katıda düzenli 
+bir şekilde tekrar eden birimler moleküllerdir. Metalik katıda metal atomları düzgün bir 
+geometrik şekli oluşturacak şekilde diziliyken, kovalent katıda ametal atomları büyük bir ağ 
+örgü meydana getirirKatı hâlde bulunan maddeler sıcaklık değişiminden etkilenerek, ısıtıldıklarında genleşir, 
+soğutulduklarında büzüşürler. Eğer ısı alma olayı yeterince olursa katı madde hâl değiştirerek 
+sıvı hâle geçer2.Ünite Maddenin Hâller2.3.  SIVILAKatı hâldeki madde ısı aldığında taneciklerinin hareketi ve tanecikler arasındaki 
+etkileşimin gücü değişir.  Taneciklerin hareketinin ve aralarındaki etkileşimin gücünün 
+değişmesi katı hâlde gözlemlenen özelliklerin değişmesine sebep olur. Yeterince ısınan katı 
+madde sıvı hâle geçtiğinde ise;
+• Belirli bir hacmi olması,
+• Bulunduğu kabın şeklini alması,
+• Çok az sıkıştırılabilme,
+• Akışkanlık, gibi gözlemlenebilen özelliklere sahip olurSıvıların sahip olduğu bu özellikler sıvı tanecikleri arasındaki etkileşimlerle ilişkilidir. 
+Bu etkileşimler aynı zamanda sıvılarda viskozite, buhar basıncı, kaynama sıcaklığı gibi 
+özellikleri de belirlerVİSKOZİTBazı sıvılar diğer sıvılara göre daha kolay akar. Örneğin su kolayca dökülürken, balın 
+dökülmesi daha zordur (Görsel 2.16). Bu durum sıvı tanecikleri arasındaki etkileşimin 
+gücüyle ilgilidir. Tanecikler arasındaki çekim gücü arttıkça sıvı daha zor akar. Tanecikler 
+arasındaki etkileşimin artması sıvının akmaya karşı gösterdiği direnci de artırır. Sıvıların 
+akmaya karşı gösterdikleri bu dirence viskozite denir. 
+Görsel 2.16 Su ve balın akışkanlığSıvı tanecikleri arasındaki etkileşim ne kadar büyükse viskozite de o kadar büyüktür. 
+Diğer bir ifadeyle akışkanlığı fazla olan sıvıların viskozitesi düşüktür. Buna göre aynı 
+şartlarda balın viskozitesi suyun viskozitesinden fazladır. Farklı sıvıların viskoziteleri aynı 
+sürede akan miktarlara bakılarak karşılaştırılabilirSıcaklık, tanecikler arasındaki etkileşimin gücünü etkileyeceğinden viskoziteyi de etkiler. 
+Bir sonraki sayfada yer alan deneyle sıcaklığın viskoziteyi nasıl etkilediğini irdeleyelim:
+Kimya Deneyin Adı: Sıcaklığın viskoziteye etkisDeneyin Amacı: Sıvıların akışkanlığının sıcaklıkla 
+     değiştiğine dikkat çekmekKullanılan Kimyasal Maddeler: 
+• S• Zeytin yağ• GliseriDeneyin Aşamaları:
+IAşam• 3 adet büret 10 0C, 40 0C ve 90 0C sıcaklıklarında suyla doldurulur• Büretler aynı miktarda açılarak, içindeki sular 5 sn boyuncakıtılır• Süre sonunda biriken su miktarları karşılaştırılır• Aynı işlemler zeytinyağı ve gliserin için de tekrarlanırIIAşam• Aynı miktarda ve aynı sıcaklıklarda su, zeytinyağı ve gliserin ayrkaplara konulur• Bu sıvılar kaplardan 5 sn boyunca akıtılarak akma miktarlarkarşılaştırılırSonuI.Aşam• Farklı sıcaklıklarda akıtılan su miktarları karşılaştırıldığınden sıcak olan suyun daha fazla miktarda döküldüğü, en soğuolanın ise en az miktarda döküldüğü gözlemlenir1. Dene2.Ünite Maddenin Hâller• Zeytinyağı ve gliserinin de yüksek sıcaklıklarda daha çok aktığı,
+düşük sıcaklıklarda ise az aktığı gözlemlenir• Sıvıların akışkanlığı sıcaklık arttıkça artar. Viskozite, yani akmaykarşı gösterilen direnç ise sıcaklık arttıkça azalır. Buna göre suyun,
+zeytinyağının ve gliserinin viskozitesi 10 0C sıcaklıkta en fazla,
+900C’ta en azdırIIAşam• Aynı sıcaklıkta suyun en fazla aktığı, gliserinin ise en az aktığgözlemlenir.Buna göre suyun viskozitesi zeytinyağı ve gliserine gördaha düşüktür.  Gliserin ise aynı sıcaklıkta en az miktarda aktığından 
+viskozitesi en fazladırDeneyde sıcaklık artışının viskoziteyi azalttığı sonucuna varılmıştır çünkü sıcaklık 
+artışı sıvı taneciklerinin hareketinin hızlanmasına dolayısıyla tanecikler arasındaki 
+çekim gücünün azalmasına yol açar. Bu nedenle sıvı daha kolay akar. Örneğin kızartma 
+yağı tavada ısıtılırken daha akışkan hâle gelir. Sıvının akışkanlığının artması da akmaya 
+karşı gösterilen direncin yani viskozitenin azalması anlamına gelirZeytinyağının 
+akışkanlığının 
+sıcaklık ile değişim10 040 090 04 adet cam tüp ağzına kadar X,Y, Z ve T sıvıları ile ayrı ayrı 
+doldurulur. Sıvıların her birine aynı anda yavaşça bilye bırakılır. 
+En önce Z sıvısındaki bilye, ardından X, en son da Y sıvısındaki 
+bilye cam tüpün dibine ulaştığına göre bu sıvıların viskozitelerini 
+karşılaştırınızSıvının viskozitesi ne kadar fazlaysa içindeki bilyenin dibe ulaşma 
+süresi o kadar fazladır. Bu nedenle Z sıvısının viskozitesi en az, Y 
+sıvısınınki ise en fazladır. Benzer şekilde X’in viskozitesi de T’nin 
+viskozitesinden azdır. Buna göre viskozite sıralaması küçükten 
+büyüğe Z<X<T<Y şeklindedir11. UygulamÇözüKimya BUHARLAŞMA-YOĞUŞMSıvı maddeler etraflarından ısı aldıkça, taneciklerinin hareketi hızlanır ve 
+tanecikler birbirleri etrafında daha hızlı hareket etmeye başlar. Bu esnada 
+yüzeyde bulunan bazı sıvı tanecikleri komşu taneciklerin çekim etkisinden 
+kurtularak sıvıdan ayrılır. Sıvıdan kaçıp gaz hâle geçen tanecikler buhar fazını 
+oluşturur. Sıvıyı oluşturan taneciklerin ısı alarak sıvı fazdan gaz faza geçmesi 
+olayına buharlaşma denir. Buharlaşma olayı sadece sıvının yüzeyinde olur 
+ve düşük sıcaklıklarda bile buharlaşma olayı gerçekleşir. Çamaşırların soğuk 
+havalarda bile kuruması, kolonya döktüğümüzde elimizin kısa bir süre sonra 
+kuruması sıvının düşük sıcaklıklarda da buharlaşması olayına dayanmaktadırBuhar fazındaki taneciklerin enerjilerinin azalması sonucu, sıvı 
+taneciklerinin çekim etkisine girerek sıvıya dönmelerine ise yoğuşma denirSıvıların kapalı kaplarda buharlaşması ve yoğuşmasında bir denge söz 
+konusudur. Belirli bir sıcaklıkta kapalı kapta bulunan sıvı buharlaşmaya başlar. 
+Buhar fazına geçen tanecikler sıvının üstündeki boşlukta serbestçe hareket 
+eder. Bu esnada bu tanecikler birbirlerine ve sıvının yüzeyindeki taneciklere 
+çarpar. 
+Görsel 2.17 Suyun buharlaşmasının tanecik modeli 
+Görsel 2.18 Suyun yoğuşmasının tanecik modeli 
+2.Ünite Maddenin HâllerSıvının yüzeyindeki taneciklere çarpan buhar fazındaki taneciklerin bir 
+kısmı sıvı taneciklerinin çekim etkisinden kurtulamayarak tekrar sıvıya döner 
+yani yoğuşur. Ancak bu esnada yüzeydeki sıvı taneciklerinin buhar fazına 
+geçmesi de devam eder. Yani aynı anda yüzeydeki bazı tanecikler buharlaşırken, 
+buhar fazındaki bazı tanecikler de yoğuşur. Buharlaşan taneciklerin sayısı 
+arttıkça yoğuşan taneciklerin sayısı da artar. Bir süre sonra buharlaşma hızıyla 
+yoğuşma hızı eşit olur. Kapalı kaplarda belirli sıcaklıklarda, buharlaşma hızıyla 
+yoğuşma hızının eşit olduğu durumda, sıvının üstündeki gaz taneciklerinin 
+sıvıya çarpması sonucu uyguladığı basınca buhar basıncı denir. 
+Görsel 2.19 Buharlaşma ve Yoğuşma)
+b)
+Sıvıların denge buhar basıncı kapalı kaplarda söz konusudur. Ayrıca kapta 
+sıvı üzerinde belirli bir boşluk bulunması gerekmektedir çünkü buhar faz 
+bu boşluğu doldururBilgi NotAğzı açık kaplarda denge buhar basıncından bahsedilemez çünkü buhar 
+fazına geçen tanecikler havaya karışır. Bu olay sıvının tamamı tükeninceye 
+kadar devam ederBir sıvının buhar basıncı her sıcaklıkta farklıdır. Sıcaklık artıkça buhar 
+basıncı da artar. Aynı sıcaklıkta farklı sıvıların farklı buhar basınçları vardır. 
+Çünkü her sıvının tanecikleri arasındaki etkileşimin gücü farklıdır dolayısıyla 
+buhar basıncı da farklıdır. Sıvı tanecikleri arasındaki etkileşim fazlaysa sıvının 
+buharlaşması daha zor olur, bu nedenle buhar basıncı da düşük olur. Örneğin su 
+molekülleri arasındaki etkileşim, alkol molekülleri arasındaki etkileşime göre 
+daha fazladır. Bu nedenle aynı sıcaklıkta alkol suya göre daha fazla buharlaşırPeki, sıvıların buharlaşması ile kaynama olayı arasında nasıl bir ilişki olabilir?
+BuharlaşmBuharlaşma-yoğuşmKimya KAYNAMSıvı maddenin sıcaklığı arttıkça buharlaşma hızı, dolayısıyla buhar basıncı 
+artar. Eğer sıvı madde ağzı açık bir kapta bulunuyorsa sıcaklık artışına bağlı 
+olarak bir süre sonra sıvının uyguladığı buhar basıncı ile sıvıya uygulanan 
+atmosfer basıncı eşit olur. Buhar basıncı atmosfer basıncına eşit olduğu anda 
+sıvının her yerinde hızlı buharlaşma gerçekleşir yani sıvı kaynamaya başlar. Bu 
+olayın gerçekleştiği sıcaklığa da kaynama sıcaklığı (kaynama noktası) denir. 
+Sıvıya uygulanan atmosfer basıncı değiştiğinde sıvının kaynama sıcaklığı da 
+değişir. Yükseklere çıkıldıkça açık hava basıncı azalacağından sıvıların kaynama 
+sıcaklığı düşer. Örneğin su deniz seviyesinde 100 0C' ta kaynamaya başlarken, 
+daha yüksek yerlerde daha düşük sıcaklıklarda kaynamaya başlar. 
+Suyun miktarı ne olursa olsun kaynama noktası (1 atm basınçta) 100 0C’ 
+tur. Bu değer saf suya özgüdür. Çünkü her sıvının tanecikleri arasındaki çekim 
+kuvveti farklı olduğundan, aynı atmosfer basıncında kaynama sıcaklığı da 
+birbirinden farklıdır. Bu nedenle kaynama sıcaklığı sıvılar için ayırt edici 
+bir özelliktir. Benzer şekilde buhar basıncı da sıvılar için ayırt edici bir 
+özelliktir. Buhar basıncı düşük olan sıvıların kaynama sıcaklığı yüksekti. 
+Sonuç olarak, kaynama belirli bir sıcaklıkta ve sıvının her yerinde 
+gerçekleşirken, buharlaşma sadece sıvının yüzeyinde ve her sıcaklıkta olur. 
+Suyun buharlaşarak havaya karışması ardından yoğuşması sayesinde 
+yağmur, kar gibi birçok doğa olayı gerçekleşir. Denizlerden, göllerden veya her 
+türlü su birikintilerinden buharlaşan su; bulutları, sisi vb. oluşturmak üzere 
+atmosferdeki yerini alır. Atmosferdeki su buharı nem olarak adlandırılır. Belirli 
+miktar havada o an ne kadar nem bulunduğu mutlak nem ile ifade edilir. 
+Yeryüzünün sıcaklığı arttıkça göllerdeki, denizlerdeki, topraktaki su daha 
+fazla buharlaşacağından mutlak nem artar. Buna göre ekvatordan kutuplara 
+gidildikçe ve deniz kıyısından iç kesimlere doğru gidildikçe mutlak nem azalırGörsel 2.20 Kaynama olayının şematik gösterimSıvı faBuhar faAçık hava basınc2.Ünite Maddenin HâllerBelirli miktar havanın belirli sıcaklıkta taşıyabileceği en yüksek nem miktarı 
+da maksimum nem olarak adlandırılır. Belirli miktar havada, sıcaklık ve basınca 
+bağlı olarak bulunabilecek maksimum nemin o an yüzde kaçı bulunduğu bağıl 
+nem ile ifade edilir. Diğer bir ifadeyle belirli miktar havada bulunan mutlak 
+nemin maksimum neme oranı bağıl nemi verirHavanın her sıcaklıkta taşıyabileceği nem miktarı (maksimum nem) 
+farklıdır. Havadaki nem miktarı maksimum nem miktarına ulaşınca hava 
+neme doymuş olur ve bağıl nem oranı yüzde yüz olur. Bağıl nem oranı yüzde 
+yüze ulaştığında hava artık nemi taşıyamaz ve nem yağmur olarak yeryüzüne 
+düşer (Görsel 2.21)Havanın sıcaklığı arttıkça hava genişler ve taşıyacağı maksimum nem 
+miktarı artar. Ancak havanın sahip olduğu nem miktarı (mutlak nem) sabitken, 
+taşıyabileceği nem miktarının artması bağıl nem oranının düşmesine sebep 
+olur. Bağıl nem oranının düşmesi de yağmurun yağma oranını düşürür. 
+10 0SBuhar100 %
+Bağıl ne50 %
+Bağıl ne30 %
+Bağıl neMaksimum neMaksimum neMaksimum neMutlak neMutlak neMutlak neSBuharSBuhar20 030 0Görsel 2.21 Maksimum nem, mutlak nem ve bağıl neGörsel 2.22 Sıcaklığa bağlı bağıl nem oranlar%90 bağıl ne%10 bağıl neKimya Sıcaklığın azalması ise havayı büzüştürür. Dolayısıyla havanın nem kapasitesi 
+azalır ve bağıl nem oranı artar. Örneğin kışın, sabahın erken saatlerinde 
+havanın aşırı soğuması sonucu nem kapasitesi azalır, hava nemi taşıyamaz ve 
+nem kırağı olarak yeryüzüne düşer. 
+Sonuç olarak, bağıl nem yağmur, kar gibi hava olaylarının belirleyicisidir. 
+Bunun yanı sıra bağıl neme bağlı olarak havanın sıcaklığını gerçek değerinde 
+değil, farklı sıcaklıklarda hissederiz. Televizyonda hava durumu sunumunda 
+“gerçek sıcaklık” ve “hissedilen sıcaklık” kavramlarını duymuşuzdurHavanın gerçek sıcaklığı gölgede termometre ile okunan değerdir. 
+Hissedilen sıcaklık ise hava sıcaklığına, bağıl neme ve rüzgar hızına bağlı 
+olarak insanlar tarafından algılanan sıcaklık değeridir. 
+Havanın nemi fazla olduğunda hissedilen sıcaklık gerçek sıcaklıktan 
+daha fazla olur çünkü yüksek nemde vücudun terlemesi buna bağlı olarak 
+serinlemesi az olur. Vücut serinleyemediği için de havanın sıcaklığını gerçek 
+değerinden daha fazla hissederiz. Kış aylarında soğuk ve rüzgârlı havalarda ise 
+rüzgâr, vücuttan çevreye ısı akışını hızlandırır. Bu durumda havanın sıcaklığını 
+gerçek sıcaklıktan daha düşük bir değerde hissederizAraştırmalara göre kendimizi en rahat hissettiğimiz bağıl nem oranı % 45 
+civarıdır. Bağıl nem oranını istenen seviyede tutmak için buhar makinaları 
+kullanılmaktadırBilgi NotGörsel 2.23 Hissedilen sıcaklıDüşük neYüksek neTerlemTerlem2.Ünite Maddenin Hâller2.4.   GAZLAGAZLARIN GENEL ÖZELLİKLERSıvı hâldeki madde yeterince ısı aldığında taneciklerin hareketi oldukça 
+artar ve tanecikler birbirlerinin çekim etkisinden kurtularak bağımsız 
+hareket etmeye başlar. Taneciklerin her yöne serbestçe hareket ettiği ve 
+aralarındaki etkileşimin yok denecek kadar az olduğu bu fiziksel hâl gaz 
+olarak adlandırılırMadde gaz hâldeyken tanecikler birbirinden 
+bağımsız hareket ettiğinden aralarındaki boşluk 
+oldukça fazladır. Bu nedenle gaz maddeler sıkıştırılabili. Gaz madde sıkıştırıldığında tanecikler arasındak boşluk azalmış olur. Eğer gaz madde yeterinc sıkıştırılırsa tanecikler birbirine çok yaklaşır 
+ve madde sıvı hâle geçerGaz hâldeki maddelerin tanecikleri her yöne serbestçe hareket 
+edebildiklerinden bulundukları kabın her yerine gidebilirler. Bu nedenle 
+gazlar bulundukları kabın hacmini doldururlar, belirli bir hacimleri yoktur. 
+Benzer şekilde gazlar bulundukları kabın şeklini alırlar, belirli bir şekilleri 
+de yoktur. Kabın hacmi veya şekli değiştirilirse gazın hacmi veya şekli de 
+değişirGörsel 2.24 Gaz maddenin tanecik 
+      modelYemeklerin, kolonyanın, çiçeğin vb. kokusunu gaz 
+taneciklerinin serbestçe hareket etmelerinden dolayı 
+burnumuza kadar ulaşmaları sayesinde algılarızBilgi NotGaz taneciklerinin serbestçe her yöne hareket etmelerinden dolayı gazlar 
+bulundukları kabın her yerine eşit olarak dağılırlar. Ayrıca hava örneğinde 
+olduğu gibi farklı gazlar birbiriyle homojen olarak karışırlarGAZLARI NİTELEYEN ÖZELLİKLEGazların çoğu renksiz ve kokusuz olduğu için gazların davranışları dolaylı 
+olarak ölçülmektedir. Örneğin, gazın sıcaklığını artırdığımızda hacmindeki 
+değişiklik gözlemlenerek gazların davranışlarıyla ilgili bilgi edinilmiştir. 
+Gazların davranışlarından yola çıkarak da gazların sahip olduğu özellikler 
+belirlenmiştir. 
+Gazlar basınç, sıcaklık, hacim ve miktara göre tanımlanır. 
+Kimya BasınGaz tanecikleri sürekli hareket hâlinde olduklarından ve her 
+yöne hareket ettiklerinden birbirlerine ve bulundukları kabın 
+iç yüzeyine çarparlar. Gaz taneciklerinin bir yüzeye çarpması 
+sonucu oluşturdukları kuvvete gaz basıncı denir. Gaz basıncı 
+“P” harfi ile gösterilir. Basınç birimi olarak daha çok atmosfer 
+(atm) ve milimetre cıva (mmHg) kullanılmaktadırGaz basıncının büyüklüğü taneciklerin kabın yüzeyine ne 
+kadar sık ve şiddetli çarptığı ile ilgilidir. Eğer tanecikler yüzeye 
+çok sık çarpıyorsa uygulanan gaz basıncı fazladır. Benzer 
+şekilde tanecikler yüzeye hızlı çarptıklarında da gaz basıncı 
+yüksek olur. Taneciklerin yüzeye ne kadar sıklıkla ve şiddetle 
+çarpacağını taneciklerin büyüklüğü ile sahip olduğu kinetik 
+enerjileri yani gazın sıcaklığı belirlerSıcaklıSıcaklık, maddeyi oluşturan taneciklerin ortalama kinetik 
+enerjilerinin ölçüsüdür. Diğer bir ifadeyle taneciklerin ortalama 
+kinetik enerjileri ne kadar fazlaysa gazın sıcaklığı da o kadar 
+fazla demektir. Gaz madde ısı aldıkça taneciklerin kinetik 
+enerjileri dolayısıyla hızları artar. Taneciklerin hızının artması 
+gaz maddenin sıcaklığının artması anlamına gelmektedir. Gaz 
+madde ısı verdiğinde ise taneciklerin hızı yavaşlayacağından 
+sıcaklığı da azalırSıcaklık “T” harfi ile gösterilir. Sıcaklığı ölçmek için 
+çoğunlukla Celcius (selsiyus)  ve Kelvin ölçekleri kullanılır. 
+Sıcaklık birimi olan Celcius “ 0C ” sembolü ile, Kelvin “K” 
+sembolü ile gösterilir. Örneğin su  Celcius ölçeğine göre 100 
+0C’ ta, Kelvin ölçeğine göre 373 K sıcaklığında kaynar HaciGaz maddenin kapladığı alan o maddenin hacmi olarak 
+adlandırılır. Gaz maddenin tanecikleri arasında oldukça fazla 
+boşluk bulunduğundan, gazın hacmi taneciklerin kapladığı 
+alan ve tanecikler arasındaki boşluğun toplamıdır. Buna göre 
+kapalı kaptaki gazın hacmi kabın hacmi kadardır. Örneğin 
+yandaki görselde balonun içindeki gazın hacmi balonun 
+kapladığı hacim kadardırGörsel 2.27 Gaz 
+maddenin hacmGörsel 2.25 Gaz basıncGörsel 2.26 Celcius ve Kelvin 
+      termometreler-273 00 0100 00  273 373 2.Ünite Maddenin HâllerHacim “V” harfi ile gösterilir ve hacim birimi olarak da genellikle litre (L) 
+kullanılırMiktaBilindiği gibi miktar bir şeyin sayıca veya bir ölçüye göre ifade edilmesidir. 
+Maddelerin miktarlarını bazen kütleyle, bazen hacimle, bazen de sayarak ifade 
+ederiz. Örneğin 1 kilo üzüm, 2 litre meyve suyu veya 10 tane yumurta gibi.          
+Maddeleri oluşturan taneciklerin miktarını belirtmek için ise “mol” kavramı 
+kullanılmaktadır. Mol, belirli bir sayıyı temsil eden miktar birimidir. Maddeyi 
+oluşturan tanecikler mikroskopla dahi görülemeyecek kadar küçük olduğundan 
+ancak çok fazla sayıda tanecik bir araya geldiğinde gözle görülebilir veya miktarı 
+tartılarla ölçülebilir boyuta gelmektedir. Bu nedenle ancak 1 mol kadar tanecik 
+bir araya geldiğinde anlamlı bir büyüklük olmakta ve 1 gram ve daha büyük 
+kütleler elde edilebilmektedir. Nasıl ki herhangi bir maddeden 2 tane olduğunda 
+1 çift veya 12 tane olduğunda 1 düzine olarak ifade ediliyorsa, maddenin türü 
+ne olursa olsun 1 mol herhangi bir şey de 6,02x10 23  taneden oluşur. Yani 1 mol, 
+6,02x10 23 sayısını temsil etmektedir. 1 mol silgi ile 1 mol kalemin sayısı aynıdır. 1 
+mol birimde bulunan 6,02x10 23 sayısına Avogadro sayısı denir. Gazların miktarı 
+da mol birimiyle ifade edilmektedir. Örneğin, 1 mol hidrojen gazı 2 gram, 1 mol 
+karbon dioksit gazı 44 gramdır. Aşağıdaki görselde farklı miktarlarda su 
+molekülü yer almaktadır. 
+1 tane H23 tane H220 tane H2100 tane H21 mol H2(6,02x10 23 tane H2O)
+Görsel 2.28 H2O molekülü tanecik sayısÇevremizdeki maddelerin katı, sıvı ve gaz olmak üzere farklı hâllerde 
+bulunduğundan ve bu hâllerin özelliklerinden bahsedildi. Ayrıca sıcaklık ve 
+basınç 
+gibi 
+koşullara 
+bağlı 
+olarak 
+da 
+maddelerin 
+bulunduğu 
+hâli 
+değiştirebileceği açıklandı. Sıradaki konuda hal değişim olayları ve bu süreçteki 
+sıcaklık değişimi grafik üzerinde irdelenecektirKimya Saf maddelerin geçirdiği hâl değişim olayları sıcaklığa bağlı olarak grafik 
+üzerinde yandaki gibi gösterilmektedir.  Hâl değişim grafiklerinde saf bir 
+maddenin aldığı ısı miktarına karşılık sıcaklığının nasıl değişim gösterdiği 
+veya belirli bir zaman diliminde sıcaklığının nasıl değiştiği yer alır.        
+HAL DEĞİŞİM GRAFİKLERÖnceki konularda da belirtildiği gibi katı madde ısı aldıkça erir, sıvı hâle 
+geçer. Madde ısı almaya devam ederse buharlaşarak gaz hâle geçer. Çevremize 
+baktığımızda gözlemleyebileceğimiz gibi suyun katı hâli olan dolu, kar, hava 
+ısındıkça erir ve ısınma devam ettikçe buharlaşarak bulutları oluşturur. 
+Bazı iyot, naftalin, katı karbon dioksit gibi katı maddeler ise ısı aldıklarında 
+sıvı hâli yaşamadan doğrudan gaz hâle geçer. Bu tür hâl değişimi 
+süblimleşme olarak adlandırılır. Gaz hâldeki madde ısı almaya devam 
+ederse plazma hâle geçer. 
+Gaz hâldeki maddeler ısı verdiklerinde ise yoğuşarak sıvı hâle, sıvı 
+hâldeki maddeler soğumaya devam ederlerse de donarak katı hâle geçer. 
+Eğer gaz hâldeki bir madde soğuduğunda sıvı hâli yaşamadan doğrudan 
+katı hâle geçerse bu olay kırağılaşma (geri süblimleşme) olarak 
+adlandırılır.    
+Aşağıdaki çizelgede sıcaklık değişimine bağlı olarak maddelerin 
+geçirdiği hâl değişim olayları yer almaktadır:
+KatSıvGaPlazmErimBuharlaşmDonmYoğuşmKırağılaşma (geri süblimleşme)
+SüblimleşmMadde ısı aldıkçMadde ısı verdikç2.Ünite Maddenin Hâller       Görsel 2.29 Erime olayının tanecik modeli  
+I. Bölge:
+Belirli sıcaklıktaki saf katı madde ısı aldıkça taneciklerin  kinetik enerjisi 
+artar dolayısıyla titreşim hareketi  hızlanır. Böylece katı maddenin sıcaklığı 
+artar. Taneciklerin titreşim hareketinin artmasından dolayı birbirlerine 
+uyguladıkları çekim kuvveti azalır ve tanecikler birbirinden uzaklaşmaya 
+başlar. Yani katı madde genleşir ancak tanecikler arasındaki boşluk hâlâ çok az 
+olduğundan taneciklerin katı düzendeki dizilişinde değişiklik olmaz. Isı alma 
+olayı devam ettikçe katı maddenin sıcaklığı erime sıcaklığına kadar artar. 
+Katı madde etrafına ısı verdiğinde ise taneciklerin kinetik enerjisi 
+azalacağından titreşim hareketi de iyice yavaşlar. Bu durumda tanecikler 
+birbirine daha da yaklaşır, yani katı madde büzüşür. Elektrik tellerinin yazın 
+sarkıp, kışın gerginleşmesi gibiII. Bölge:
+Katı maddenin sıcaklığı erime sıcaklığına ulaştığında madde etrafından 
+ısı almaya devam ederse taneciklerin hareketi daha da artar. Bu durumda 
+taneciklerin dizilişinde küme küme parçalanmalar olur. Bu olaya erime denir. 
+SıcaklıZamaKATErimBuharlaşmYoğuşmDonmIsı alıncIsı verincIIIIGASIVGrafik 2.1  Hâl değişim grafiğErimKimya Erime sırasında madde aldığı ısı enerjisini taneciklerin düzenli dizilişinde 
+meydana gelen parçalanmalar için harcar. Bu esnada taneciklerin ortalama 
+kinetik enerjisi yani maddenin sıcaklığı değişmez, sabit kalır. Erime süresince 
+hem katı hem de sıvı hâl birlikte görülür. Erime olayı tamamlandığında artık 
+taneciklerin tamamı kendi etraflarında ve birbirlerinin etrafında hareket 
+etmeye başlar yani madde sıvı hâle geçerErime olayının tersi ise donmadır. Saf sıvıların katı hâle geçtiği sıcaklığa 
+donma sıcaklığı denir. Bir maddenin erime sıcaklığı ile donma sıcaklığı bir 
+birine eşittir. Donma süresince sıvı madde etrafına ısı verir. Bu esnada sıvı 
+tanecikleri arasındaki çekim kuvveti artar ve tanecikler birbirine yaklaşır. 
+Erime olayında olduğu gibi donma olayında da maddenin sıcaklığı değişmez. 
+Donma olayı tamamlandığında artık taneciklerin belirli bir konumu vardır 
+yani madde katı hâle geçmiştirIII. Bölge:
+Grafiğin bu bölgesinde madde sıvı hâldedir. Saf sıvı madde ısı almaya 
+devam ettikçe, taneciklerin hareketi, dolayısıyla maddenin sıcaklığı kaynama 
+sıcaklığına kadar artar. Bu esnada sıvının yüzeyinde buharlaşma gerçekleşir 
+yani yüzeydeki bazı tanecikler gaz hâle geçerSıvı madde ısı verdiğinde de taneciklerin hareketi yavaşlar, maddenin 
+sıcaklığı da donma sıcaklığına kadar düşer.    
+IV. Bölge:
+Kaynama sıcaklığındaki saf sıvı ısı almaya devam ederse sıvının her yerinde 
+buharlaşma gözlemlenir ve sıvı kaynamaya başlar. Kaynama başladığı andan 
+itibaren sıvı ne kadar ısıtılırsa ısıtılsın tamamı gaz hâle geçinceye kadar sıcaklığı 
+değişmez. Çünkü sıvı verilen ısı enerjisini buharlaşma için kullanır, sıcaklık 
+artışı gerçekleşmezKaynama sıcaklığındaki gaz madde etrafına ısı verdiğinde ise gaz tanecikleri 
+bir araya toplanmaya başlar. Bu olaya yoğuşma denir. Kaynamada olduğu gibi 
+yoğuşma sırasında da maddenin sıcaklığı değişmez. Gaz maddenin tamamı 
+yoğuştuğunda madde sıvı hâle geçmiş olur. Bir maddenin kaynamaya başlama 
+sıcaklığı yoğuşma sıcaklığına eşittirV. Bölge:
+Bu bölgede madde gaz hâldedir. Gaz madde ısı alırsa sıcaklığı artar, ısı 
+verirse yoğuşma sıcaklığına kadar sıcaklığı düşer2.Ünite Maddenin HâllerSıvıya uygulanan atmosfer basıncı değiştiğinde sıvının kaynama 
+sıcaklığı da değişir. Yükseklere çıkıldığında açık hava basıncı azaldığından 
+sıvıların kaynama sıcaklığı da düşer. Örneğin, su deniz seviyesinde 100 oC’ 
+ta kaynamaya başlarken, daha yüksek yerlerde, daha düşük sıcaklıklarda 
+kaynamaya başlarDeneyin Adı: Suyun hâl değişim grafiğDeneyin Amacı: Suyun hâl değişim grafiğini çizmek ve   
+ 
+                 yorumlamaKullanılan Kimyasal Maddeler: 
+• BuDeneyin Aşamaları:
+• Orta büyüklükteki bir beherin tamamına yakını buparçaları ile doldurulup ilk sıcaklığı ölçülür. Sıcaklıdeğeri aşağıdaki çizelgeye kaydedilir• Buz ispirto ocağı ile ısıtılır. Buzun erimeye başladığı vtamamının eridiği sıcaklık çizelgeye kaydedilir• Buzun tamamı eridikten sonra ısıtma işlemine devaedilir• Suyun kaynamaya başladığı sıcaklık not edilir• Çizelgeye kaydedilen sıcaklık değerlerine göre suyun hâdeğişim grafiği çizilirSonuç:
+• Deney sonucunda aşağıdaki ölçüm sonuçları elde edilir2. DeneÖlçümleİlk 
+sıcaklıErimeye 
+başladığı 
+sıcaklıErimenin 
+tamamlandığı 
+sıcaklıKaynamaya 
+başladığı sıcaklıSıcaklıDeğerleri (0C)
+Ölçümleİlk 
+sıcaklıErimeye 
+başladığı 
+sıcaklıErimenin 
+tamamlandığı 
+sıcaklıKaynamaya 
+başladığı sıcaklıSıcaklıDeğerleri (0C)
+-Kimya Sıvıya uygulanan atmosfer basıncı değiştiğinde sıvının kaynama sıcaklığı 
+da değişir. Yükseklere çıkıldığında açık hava basıncı azaldığından sıvıların 
+kaynama sıcaklığı da düşer. Örneğin, su deniz seviyesinde 100 oC’ tkaynamaya başlarken, daha yüksek yerlerde, daha düşük sıcaklıklarda 
+kaynamaya başlar• Suyun donma sıcaklığı 0 oC olduğundan,  0 oC’ualtındaki sıcaklık değerlerinde su maddesi katı hâldedirIsı aldıkça sıcaklığı 0 oC’a kadar yükselir ancak fiziksehâli değişmez. Buna göre grafik aşağıdaki gibi çizilir(A- B noktaları arası)
+• Çizelgeye göre saf suyun donma noktası 0 0C  , kaynama 
+noktası 100 0C’tur. Önce bu değerler grafiğe şekildeki 
+gibi yerleştirilir• Suyun sıcaklığı 0 0C’a ulaştığında erime olayı başlarErime tamamlanıncaya kadar sıcaklık değişmediğinden,
+sıcaklık grafikte sabit gösterilir(B-C noktaları arası)
+Sıcaklık (0C)
+Zaman (t)
+100 00 0KatSıcaklık (0C)
+Zaman (t)
+100 00 0KatKatı+SıvSıcaklık (0C)
+Zaman (t)
+100 00 02.Ünite Maddenin HâllerSıcaklık (0C)
+Zaman (t)
+100 00 0KatKatı+SıvSıv• Maddenin tamamı eriyincmadde sıvı hâle geçer ve alınaısı, sıcaklık artışına sebep olurMaddenin sıcaklığı kaynamsıcaklığına kadar artar(C-D noktaları arası)
+• 100 
+0C sıcaklığında maddenin tamamı gaz hâlgeçmeye başlar. Maddenin tamamı gaz hâle geçinceykadar sıcaklık değişmez. (D-E noktaları arası)
+Sıcaklık (0C)
+Zaman (t)
+100 00 0KatKatı+SıvSıvSıvı+Ga•
+100 o C’ ta gaz hâldeki maddenin aldığı ısı sıcaklık artışına 
+sebep olur. (E-F noktaları arası)
+Gaz madde ısı aldıkça taneciklerin kinetik enerjisinin arttığı dolayısıyla sıcaklığının 
+da arttığı belirtildi. Peki, gaz madde çok yüksek sıcaklıklara kadar ısıtılmaya devam 
+edilirse gaz hâlde kalmaya devam eder mi? Hangi sıcaklıklara kadar gaz hâlin özellikleri 
+korunur?
+Sıcaklık (0C)
+Zaman (t)
+100 00 0KatKatı+SıvSıvSıvı+GaGaKimya 2.5. PLAZMMaddenin 4. fiziksel hâli de plazmadır. Gaz hâldeki maddeler çok yüksek 
+sıcaklıklara kadar ısındıklarında plazma hâl oluşur. Her maddenin plazma 
+hâline geçme sıcaklığı farklıdırBilindiği gibi madde gaz hâlindeyken tanecikleri çok hızlı hareket eder. 
+Tanecikler çok hızlı hareket ettiği için, bu taneciklerin yapısında bulunan 
+elektronlar da çok hızlı hareket eder. Gaz hâldeki madde ısı almaya devam 
+ederse elektronların enerjisi çok fazla artar ve elektronlar çekirdeğin çekim 
+etkisinden kurtularak serbest hâlde dolaşmaya başlar. Gaz tanecikleri (atom 
+veya moleküller) elektronlarını kaybettiklerinden pozitif yüklü iyon hâline gelir. 
+Alınan ısı enerjisinin miktarına göre taneciklerin tamamı iyonlaşmayabilir, 
+bazıları nötr kalabilir. Elektron, pozitif yüklü iyon ve nötr yapıya sahip olan 
+atom veya moleküllerden oluşan karışım plazma olarak adlandırılır (Görsel 
+2.30). Örneğin neon gaz hâldeyken elektronlar çekirdeklerin çekim etkisi 
+altındadır. Neonun plazma hâli olan neon aydınlatmalarında ise elektronlar 
+çekirdeğin çekim etkisinden kurtulmuş olarak, serbestçe hareket ederlerGörsel 2.30 Gaz ve plazma hâl tanecik modelGaz hâl tanecik modelPlazma hâl tanecik modelGaz hâlde olduğu gibi plazma hâlinde de tanecikler serbestçe hareket eder. Bu 
+nedenle plazma hâlindeki maddelerin de belirli bir hacimleri ve şekilleri yoktur. 
+Ancak plazma hâlin özellikleri gaz hâlin özelliklerinden oldukça farklıdır. Gaz 
+hâldeki maddenin tanecikleri nötrken, plazma hâlde pozitif yüklü iyonlar ve 
+negatif yüklü elektronlar bulunmaktadır. Plazma hâlinde elektronlar serbest 
+hareket edebildiklerinden yani elektrik yükünü serbestçe taşıyabildiklerinden 
+dolayı elektrik iletkenlikleri gazların aksine oldukça fazladırGüneş ve diğer yıldızlar, dünyanın merkezi, plazma hâlindedir ve sıcaklıkları 
+milyon kelvin sıcaklığında olabilmektedir. Mum veya kibrit alevi, plazma hâlde 
+bulunan maddelere bir diğer örnektir. Yıldırım da plazma hâlindedir. Plazma 
+televizyonlar, floresan ve neon lambalarda da maddenin plazma hâlinden 
+yararlanılır2.Ünite Maddenin HâllerGörsel 2.31 Plazma hâlde bulunan maddeleYıldırıGüneEvrende, en bol bulunan fiziksel hâl plazma hâldirBilgi Not•
+Maddeler katı, sıvı, gaz ve plazma olmak üzere dört hâlde bulunur•
+Katı maddenin tanecikleri arasındaki etkileşim diğer hâllere göre en fazladır•
+Katı maddeler taneciklerinin dizilişine göre amorf ve kristal katı olmak üzere ikiyayrılır•
+Kristal katılar da tanecikler arasındaki etkileşimin türüne göre moleküler, metalik,
+iyonik ve kovalent katı olmak üzere dört sınıfa ayrılır•
+Katı madde ısı aldığında sıvı hâle geçer. Viskozite, buharlaşma, buhar basıncı,
+kaynama sıcaklığı gibi özellikler sıvı hâlin özellikleridir•
+Sıvı hâldeki madde ısı aldığında gaz hâle geçer. Sıcaklık, basınç, hacim ve miktagazları niteleyen özelliklerdir•
+Gaz hâldeki madde ısı aldığında ise plazma hâle geçer•
+Maddeler hâl değiştirirken erime, donma, buharlaşma, yoğuşma gibi olaylagerçekleşirÖZEKimya A. Aşağıda verilen soruları cevaplandırınız1. Maddenin fiziksel hâllerini yazınız 
+2. Tuz, iyot, elmas ve çinkonun hangi tür katı olduklarını yazınız 
+ 
+3. Viskozitenin sıcaklıkla nasıl değiştiğini belirtiniz 
+ 
+4. Denge buhar basıncı nedir? Tanımlayınız 
+ 
+5. Gazları niteleyen özelliklerden sıcaklık ve basıncın birimlerini yazınız 
+ 
+B. Aşağıdaki ifadelerden doğru olduğunu düşündüklerinizin başına “D”, yanlıolduğunu düşündüklerinizin başına “Y” harfi koyunuz(   ) 1. Saf katı maddenin sıcaklığı erime sırasında artar(   ) 2. Gaz hâlden doğrudan katı hâle geçme olayına yoğuşma denir(   ) 3. Tanecikler arasındaki çekim kuvveti en fazla katı hâldedir(   ) 4. Reçelin sıcaklığı artırıldığında viskozitesi azalır(   ) 5. Bakır metali kristal katıya örnektirC. Aşağıda verilen çoktan seçmeli soruları cevaplayınız1. Aşağıdakilerden hangisi günlük hayatta hâl değiştirme özelliğindeyararlanılan maddelerden değildir?
+A) LPB) LNC) İtici gazlaD) Benzi2. Aşağıdakilerden hangisi kristal katı türlerinden değildir?
+A) Amorf katB) Moleküler katı 
+C) İyonik katD) Metalik kat3. Katıların taneciklerini bir arada tutan kuvvetlerle ilgili aşağıdaki ifadelerdehangisi doğrudur?
+A) Tuz katısını bir arada tutan kuvvet metalik bağdırB) İyot katısını bir arada tutan kuvvet güçlü etkileşimdirC) Elmas katısında tanecikler arasında kovalent bağ vardırD) Çinko metalinde tanecikler arasında zayıf etkileşim bulunur2. ÜNİTE ÖLÇME VE DEĞERLENDİRME SORULAR2.Ünite Maddenin Hâller4. Viskozite ile ilgili verilen bilgilerden hangisi doğrudur?
+A) Akışkanlığı fazla olan sıvının viskozitesi de fazladırB) Sıcaklık arttıkça sıvıların akışkanlığı azalırC) Suyun viskozitesi zeytinyağının viskozitesinden daha fazladırD) Aynı sıcaklıkta balın tanecikleri arasındaki çekim kuvveti suyun taneciklerarasındaki çekim kuvvetinden fazladır5. Sıvılarda buharlaşma-yoğuşma olaylarıyla ilgili aşağıdakilerden hangisyanlıştır?
+A) Su sıvısı her sıcaklıkta buharlaşırB) Sıvılar sadece kaynama sırasında buharlaşırC) Sıvıların denge – buhar basıncında hem buharlaşma hem yoğuşma olaygerçekleşirD) Kaynama sırasında açık hava basıncı sıvının buhar basıncına eşittir6. Aşağıda verilen özelliklerden hangileri gaz hâle aittir?
+IBulunduğu kabın şeklini alırIIBelirli bir hacmi vardırIIITanecikler arasındaki etkileşim yok denecek kadar azdırA) Yalnız B) I ve IC) I ve IID) I, II, II7Yandaki grafik saf bir maddenin hâl değişigrafiğidir. Buna göre aşağıdakilerden hangisdoğrudur?

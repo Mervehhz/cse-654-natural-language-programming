@@ -1,0 +1,400 @@
+= -
+=
+=
+=
++
+-
+-
+]
+]
+]
+]
+]
+]
+]
+ÇÖZÜÇÖZÜÇÖZÜÖRNEÖRNEÖRNEf =
++
+=
+-
+:
+] bulunu-
+=
++
+=
++
+=
+- -
+:
+]
+& &
+-
+&
+&
+!
+!
+!
+!
+-
+Matematik f =
+^  fonksiyonunda x e bazı değerler verilerek bir tablo oluşturulurnoktalarından geçmektedir. Bu noktalar koordinat 
+sisteminde işaretlenerek birleştirildiğinde grafik 
+şekildeki gibi elde edilir"
+:
+,
+fonksiyonunuf =
++
+^  grafiğini çizinizf 0 1 2 =
+-
+-
+1 2 4 ^ O hâldfonksiyonu,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+f 1 0 1 2 3 =
+-
+-
+^
+^
+^
+^
+^
+"
+:
+,
+f =
++
+^
+k  fonksiyonunun grafiğini çiziniz ve bu fonksiyonun bire bir ve örten olma 
+durumunu inceleyinizi in f =
+=
++
+^
+k  eşitliğini 
+sağlayan en az bir tane !
+ değeri 
+bulunduğundan f 3 =
+^
+k  fonksiyonu 
+örtendirx , ve x içi!
+!
+ise f f 1 !
+!
+^
+^
+h olduğundan 
+f fonksiyonu bire birdir=
+^
+f 3 =
+^
+-
+-
+f 3 =
+^
+ÇÖZÜÇÖZÜÖRNEÖRNEi in i in i ii ii ii i=-
+-
+=
+=
+=-
+-
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+-
+-
+^
+^
+^
+^
+^
+^
+:
+:
+Üstel ve Logaritmik 
+Fonksiyonla1. Yol:
+,
+ve i i!
+!
+!
+ olup !
+^
+^
+h dirO hâlde f fonksiyonunun tanım kümesindeki farklı x değerlerinin görüntüleri de farklı olduğunda f fonksiyonu bire birdiri in f !
+=
+=
++
+]
+l  eşitliğini sağlayan en az bir tane !
+ değeri vardırO hâlde f fonksiyonu örtendir2. Yol:
+:
+f fonksiyonun grafiğine yatay doğru 
+testi uygulandığında doğruların her 
+birinin grafiği bir noktada kestiği görülmektedi. Buna göre f fonksiyonu 
+bire birdirGrafikte f fonksiyonunun görüntü 
+kümesinin pozitif gerçek sayılar kümes olduğu görülmektedir.  Görüntü 
+kümesi değer kümesine eşit olduğunda f fonksiyonu örten bir fonksiyondu"
+:
+,
+f =
++
+^
+k   fonksiyonunun grafiğini çiziniz ve bu fonksiyonun bire bir ve örten olma 
+durumunu inceleyiniz-
+-
+0 f 1 =
+^
+f 1 =
+^
+k  fonksiyonunun grafiği çizilerek incelendiğind:
+:
+:
+ÇÖZÜÖRNEMatematik "
+f :
+, f =
++
+^  fonksiyonunun grafiğini, Dinamik Geometri ve Matematik Yazılımı programında yararlanarak çiziniz ve a nın değişimine göre grafiği yorumlayınızDinamik Geometri ve Matematik Yazılımı programını açınız1. Adım: Üstteki araç çubuğunda 
+ butonuna tıklayınız. Sağdaki koordinat sistemi üzerinde 
+herhangi bir noktaya sol tıklayınız. Açılan sürgü butonunda, minimum çubuğuna 0, maksimu çubuğuna 10 ve artış çubuğuna 0.1 yazarak Tamam butonuna tıklayınız. a sürgü 
+çubuğu elde edilecektirÜstel fonksiyonun tanımı gereği a, 1 den farklı pozitif bir gerçek sayı olmalıdır. Sürgüde =
+ 
+ve =
+ için grafik aşağıdaki gibi görünecek ve bir üstel fonksiyon grafiği olmayacaktır2. Adım: Giriş çubuğuna alttaki ekran klavyesini kullanarak f =
+^  yazınız ve enter tuşuna 
+basınız. Fonksiyonun grafiği çizilecektirÇÖZÜÖRNEÜstel ve Logaritmik 
+Fonksiyonlaf =
+^  üstel fonksiyonunun grafiği 
+ için incelendiğinde fonksiyonun azalan olduğu ve 
+a değerlerinin 1 e yaklaştıkça grafiğin y ekseninden uzaklaştığı görülüra sürgüsü 0.1 e getirilerek bir üstel fonksiyon grafiği elde edilir. Grafiğin üzerine sağ tıklanarak izi 
+göster butonuna tıklanır. Daha sonra a sürgüsü 0,1 ile 1 arasında artırıldığında grafikteki değişim 
+ekranda gözlenira sürgüsü 1.1 e getirilerek bir üstel fonksiyon grafiği elde edilir. Grafiğin üzerine sağ tıklanarak izi 
+göster butonuna tıklanır. Daha sonra a sürgüsü artırıldığında grafikteki değişim ekranda gözlenirf =
+^  üstel fonksiyonunun  grafiği  için incelendiğinde fonksiyonun artan olduğu ve a 
+değerlerinin büyüdükçe grafiğin y eksenine yaklaştığı görülürMatematik Aşağıdaki üstel fonksiyonların grafiklerini 
+çizinizf f f a)
+b)
+c)
+=
+=
+=
+ç)
+=
+^
+^
+^
+^
+"
+:
+,
+f =
+-
++
+^
+^
+h  fonksiyonu 
+üstel bir fonksiyon olduğuna göre m nin alabileceğ en geniş değer aralığını bulunuz"
+f :
+, f =
+-
++
++
+^  olduğungöre 
+f^ h ve -
+^
+h değerlerini bulunuz=
++  olduğuna göre 4  ifadesinin 
+değerini bulunuzdesiniegerinolduguna g rifbulunu=
+-
+{
+{
+-
++
+ işleminin sonucunu bulunuzf f f a)
+b)
+c)
+= -
+=
+=
++
+^
+^
+^
+^
+`
+0,f ç)
+= -
++
+-
+d)
+=
+e)
+=
+^
+^
+^
+`
+^
+"
+f :+  olmak üzere aşağıda verilen 
+fonksiyonlardan hangisi veya hangilerinin 
+üstel fonksiyon olduğunu bulunuzg =
+^ f =
+^ h =
+^ Yukarıda f, g ve h üstel fonksiyonlarının 
+grafikleri verilmiştir. Buna göre a, b ve c arasındak sıralamayı bulunuz AlıştırmalaÜstel ve Logaritmik 
+Fonksiyonla"
+vf :
+, olaca!
++
+ şekilde f =
+^  üstel fonksiyonunun tersi olan - ^ h 
+fonksiyonuna, a tabanına göre logaritma fonksiyonu denir. Logaritma fonksiyonu, 
+"
+:
+, log =
++
+-
+-
+^  şeklinde gösterilirolurlog i i+
+!
+-
+=
+=
++
+" ,
+Aşağıda verilen eşitliklerdeki x değerlerini logaritmik olarak ifade ediniz. 
+&
+loy olu=-
++
+&
+&
+&
+)
+)
+)
+lololo=
+=
+=
+=
+=
++
+=
++
+"
+:
+, f log f =
+=
++
+^  fonksiyonundx sayısı pozitif gerçek sayıdıra sayısı 1 den farklı pozitif gerçek sayıdır. 
+y sayısı bir gerçek sayıdır1.2. LOGARİTMA FONKSİYON1.2.1. Logaritma Fonksiyonu ve GrafiğÇÖZÜÖRNE)
+)
+)
+=
+=
+=
++
+Uyarlog +
+=
+=
+  olduğundaMatematik Aşağıda verilen eşitliklerdeki x değerlerini logaritma kullanarak bulunuza)
+b)
+c)
+ç)
+d)
+=
+=
+=
+=
+=
++
+-
+Aşağıda verilen eşitliklerdeki x değerlerini bulunuza)
+lo=
+c) log =
+ç) log =
+b)
+lo=
+d) lo+
+=
+^
+log e)
+=
+&
+lod)
++
+=
++
+=
+^
+&
+&
+&
++
+=
+=
+=
+&
+e) lo=
+=
+&
+32 bulunur1 =
+=
+&
+`
+&
+ç) log =
+=
+2 &
+&
+=
+=
+&
+log ç)
+=
+-
+=
+-
+log &
+=
++
+&
+a)
+lo=
+=
+& =
+&
+loc)
+=
+=
+&
+&
+=
+=
+&
+log a) =
+=
+b)
+lo&
+=
+=
+& =
+(  olduğundan 
+)
+!-

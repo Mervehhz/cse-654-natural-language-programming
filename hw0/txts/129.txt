@@ -1,0 +1,400 @@
+!
+ olmak üzere düzlemde herhangi üçü doğrusal olmayan 
+,
+,
+,
+,
+n  
+noktalarından geçen 
+,
+,
+,
+,
+A A A -
+@
+@
+@
+@ nın birleşimine çokgen denir. Bu doğru 
+parçalarına çokgenin kenarları; 
+,
+,
+,
+,
+n  noktalarına çokgenin köşeleri denir. Çokgenin 
+komşu olmayan herhangi iki köşesini birleştiren doğru parçasına köşegen denir. Bir çokgenin köşe 
+sayısı ile kenar sayısı eşittir. Çokgenler köşe sayılarına veya kenar sayılarına göre adlandırılır 
+(üçgen, dörtgen, beşgen, altıgen gibi)Dörtgenler ve ÇokgenleDörtgenler ve Çokgenle,
+$
+!
+ olmak üzere n kenarlı olan bir çokgenin iç açılarının ölçüleri toplamını bulunuzn kenarlı olan bir çokgenin bir köşesinden diğer köşelerine -
+]
+g tane 
+köşegen çizilir. Örneğin yanda verilen şekildeki çokgenin A1  köşesinden 
+,
+v köşelerine köşegen çizilemez, diğer köşelerine köşegen 
+çizilebilirŞekilde görüldüğü gibi 
+,
+,
+,
+,
+(
+) (
+) ... (
+)
+A A A A A -
+&
+&
+&
+olmak üzere 
+toplam -
+]
+g tane üçgen elde edilir. Bu üçgenlerin iç açılarının ölçüleri 
+toplamı çokgenin iç açılarının ölçüleri toplamını vereceğinden -
+]
+g tane 
+üçgenin iç açılarının ölçüleri toplamı $
+-
+]
+ dir. Buradan n kenarlı bir 
+çokgenin iç açılarının ölçüleri toplamı $
+-
+]
+ olarak bulunurİç açılarının ölçüleri toplamı 1260c olan bir çokgenin kenar sayısını bulunuzÇokgenin kenar sayısına n denilirse bu çokgenin iç açılarının ölçüleri toplamı $
+-
+=
+]
+ olur. 
+Buradan eşitliğin her iki tarafı 180c ye bölünürse 
+olu&
+&
+$
+-
+=
+-
+=
+=
+]
+ 
+Dolayısıyla çokgenin kenar sayısı 9 durYandaki şekilde verilen beşgende C, D, F ve B, A, G noktaları doğrusaldır. 
+(
+)
+m AB=
+%
+, 
+(
+)
+m BC=
+%
+, 
+(
+)
+m ED=
+%
+, 
+(
+)
+m EA=
+%
+ ve 
+(
+)
+m AE=
+%
+ olduğuna göre x değerinin kaç derece olduğunu bulunuzÇokgen 5 kenarlı olduğundan çokgenin iç açılarının ölçüleri toplamı,
+olu3 $
+$
+-
+=
+=
+]
+ 
+Çokgenin A ve D köşelerine ait iç açılarının ölçüleri bulunup çokgenin 
+iç açıları toplanırsa 
++
++
++
++
+=
+cbulunur. Bu 
+denklemden 
+olu&
++
+=
+=
+Dörtgenler ve ÇokgenleDörtgenler ve Çokgenleİpuc,
+$
+!
+ olmak üzere n kenarlı bir çokgenin dış açılarının ölçüleri toplamı 360c dirn kenarlı bir çokgenin iç açılarının ölçüleri 
+,
+,
+,
+,
+n  ve dış açılarının ölçüleri 
+,
+,
+,
+,
+n  olsun. Buna göre çokgenin köşelerindeki iç ve dış açılarının ölçüleri toplamı 
+180c olduğundan bu toplamlar yazılıp taraf tarafa toplanırsa                                                   
+İç açılarının ölçüleri toplamı dış açılarının ölçüleri toplamının 5 katı olan bir çokgenin kenar sayısını bulunuzÇokgenin kenar sayısına n denilir ve çokgenin iç açılarının ölçüleri toplamı olan (
+)
+$
+-
+c, dış açılarını ölçüleri toplamı olan 360cnin 5 katına eşitlenirs(
+)
+olu5 $
+$
+$
+-
+=
+-
+=
+-
+=
+=
+]
+Dolayısıyla çokgenin kenar sayısı 12 dirn $
++
+=
++
++
+=
+‹ç aç›lar›n ölçüleri toplam›
+D›ﬂ aç›lar›n ölçüleri toplam›
++
+=
++
+=
++
+=
++
++
++
++
++
++
++
++
+444444444444 444444444444 (
+)
+(
+)
+bulunu$
+$
+$
+$
+-
++
++
++
++
++
+=
++
++
++
++
+=
+-
+-
++
++
++
++
+=
+Bu özelliğin doğruluğu aşağıdaki gibi gösterilebilirİç açılarının ölçüleri toplamı dış açılarının ölçüleri toplamına eşit olan çokgenin kenar sayısını bulunuzÇokgenin kenar sayısı n olsun. Çokgenin iç açılarının ölçüleri toplamı (
+)
+$
+-
+c ve dış açılarının ölçüler toplamı 360c olduğundan ve &
+$
+-
+=
+-
+=
+=
+^
+ bulunur. Dolayısıyla çokgenin 
+kenar sayısı 4 türDörtgenler ve ÇokgenleDörtgenler ve ÇokgenleBilgBütün kenar uzunlukları eşit ve iç veya dış  açılarının ölçüleri eşit olan çokgenlere düzgün 
+çokgen denir. 
+,
+$
+!
+ olmak üzere n kenarlı bir düzgün çokgenin dış açılarının ölçüler de eşit olduğundan bir dış açının ölçüsü 
+360c  dir. n kenarlı bir düzgün çokgenin bir iç 
+açısının ölçüsü 
+(
+)
+$
+$
+-
+=
+-
+=
+-
+c  olur. Eşkenar üçgen ve kare 
+dışındaki düzgün çokgenler adlandırılırken başına ''düzgün'' kelimesi getirilir               Düzgün üçgen                                                             Düzgün dörtge              (Eşkenar üçgen)                                                                 (Kare)
+                                                                                
+               Düzgün beşgen                                                         Düzgün altıgeİki iç açısının ölçüleri vc olan bir çokgenin diğer iç açıları eşit ve 150c dir. Buna göre bu çokgeni kenar sayısını bulunuzİç açısının ölçüsü 110c olan köşeye ait dış açının ölçüsü -
+=
+c ve iç açısının ölçüsü 160c 
+olan köşeye ait dış açının ölçüsü -
+=
+c olur. Çokgenin kenar sayısı n olursa çokgenin n sayıd köşesi ve n sayıda dış açısı olur. Bulunan iki açı dışındaki -
+^
+h tane açının iç açılarının ölçüsü 150c 
+ise bu köşelere ait dış açılarının ölçüleri de -
+=
+c olur. Dış açıların ölçüleri toplamı 360c ye 
+eşitlenirstan(
+)
+(
+)
+(
+)
+olu$
+$
++
++
++
++
++
+=
++
+-
+=
+-
+=
+-
+=
+=
+-
+4444444444 Düzgün ÇokgenleDolayısıyla çokgenin kenar sayısı 11 dirDörtgenler ve ÇokgenleDörtgenler ve ÇokgenleBir düzgün beşgenin bir dış açısının ölçüsü 
+=
+=
+c olur. 
+Bir iç açısının ölçüsü ise 
+180 -
+=
+c olur. Bu düzgün çokgen 
+yandaki gibi gösterilebilirYandaki şekilde ABCDE... düzgün dokuzgeninin ardışık AB, BC, CD ve DE 
+kenarları çizilmiştir. K, D, E noktaları ve K, B, A noktaları doğrusaldır. Buna 
+göre AKE açısının ölçüsünün kaç derece olduğunu bulunuzAyrıca B, C, F noktaları doğrusal olacak şekilde C? çizilirse CFD üçgeni 
+elde edilir. Üçgende bir dış açının ölçüsü, kendisine komşu olmayan iki iç 
+açının ölçüleri toplamına eşit olduğundan 
+(
+)
+m CF=
+%
+ olur. BKF üçgenini iç açılarının ölçüleri toplamı 180c ye eşitlenirs=
+=
+=
++
++
++
+ 
+                                 olarak bulunurBir düzgün dokuzgenin bir dış açısının ölçüsü 
+=
+=
+c olur. Bir iç açısının ölçüsü ise 
+180 -
+=
+c olur. Bu açılar aşağıdaki gibi yerleştirilsin ve AKE açısının ölçüsüne x denilsinBir düzgün beşgenin iç ve dış açılarının ölçülerini bulunuzBir iç açısının ölçüsü, bir dış açısının ölçüsünün 5 katı olan düzgün çokgenin kaç kenarlı olduğunu bulunuz. 
+Bir düzgün çokgenin herhangi bir dış açısının ölçüsü x olsun. Bu durumda bir  iç açısının ölçüsü 5x olur. 
+Aynı köşeye ait bir iç açı ölçüsüyle bir dış açı ölçüsü toplamı 180c olacağından +
+=
+c ve =
+c 
+bulunur. Bir dış açısının ölçüsü 30c olan düzgün çokgenin kenar sayısı 
+=
+c denklemiyle bulunur. 
+Buradan =
+ olup çokgen 12 kenarlıdırDörtgenler ve ÇokgenleDörtgenler ve ÇokgenleYandaki şekilde ABCDEFGHKLMN  düzgün onikigen olduğuna göre 
+ACE açısının ölçüsünün kaç derece olduğunu bulunuzDüzgün onikigenin bir dış açısının ölçüsü 
+=
+=
+c 
+olur. Bir iç açısının ölçüsü -
+=
+c olur. ABC üçgenind AB=
+ olduğundan 
+(
+)
+(
+)
+m BAm BC=
+=
+%
+%
+ olur. 
+Aynı şekilde CDE üçgeninde de 
+(
+)
+(
+)
+m DEm DC=
+=
+%
+%
+ 
+olur. Düzgün onikigende ABC ve EDC üçgenlerinin açıları yerleştirilirs 
+(
+)
+(
+)
+(
+)
+(
+)
+(
+)
+(
+)
+(
+)
+m BCm BCm ACm DCm ACm ACm ACE olu=
++
++
+=
++
++
+=
++
+=
+%
+%
+%
+%
+%
+%
+%
+Yandaki şekilde ABCDE düzgün beşgen ve CFD eşkenar üçgendir. 
+Buna göre AEF açısının ölçüsü x olduğuna göre  x değerinin kaç derece 
+olduğunu bulunuzDüzgün beşgenin bir dış açısının ölçüsü 
+=
+=
+c olur. Bir iç açısının ölçüsü ise 
+=
+-
+c olur. Bu açılar ve eşkenar üçgenin açıları aşağıdaki şekilde olduğu gibi yerleştirilirBuradan CFD=
+=
+ olup FDE ikizkenar üçgendir. 
+FDE açısının ölçüsü 
+108 -
+=
+c olur. FED ikizkenar üçgen olduğunda tepe açısı 180c den çıkarılırs180 -
+=
+c olur. Üçgenin 
+taban açılarının ölçüleri eşit olacağında=
+c bulunurBurada(
+)
+(
+)
+m AEm FEolu=
++
+=
++
+=
+%
+%
+Dörtgenler ve ÇokgenleDörtgenler ve ÇokgenleYandaki şekilde ABCDEF düzgün altıgen ve CDML karedir. B, L, K noktalar ve K, M, E noktaları doğrusal olduğuna göre LKM açısının ölçüsünü kaç derece olduğunu bulunuzBCDDC=

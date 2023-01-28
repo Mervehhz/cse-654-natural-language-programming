@@ -1,0 +1,400 @@
+^
+^
+h  ifadelerinin özdeşini binom açılımı yardımıyla bulunuzx xolu1 $
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
++
+=
++
++
+=
++
++
+=
++
++
+-
+-
+-
+^
+^
+^
+^
+^
+^
+^
+x xolu1 $
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+-
+=
+-
++
+-
++
+-
++
+-
+=
++
+-
++
+-
++
+-
+=
+-
++
+-
+-
+-
+-
+-
+^
+^
+^
+^
+^
+^
+^
+^
+^
+^
+^
+^
+10.1.1.6. Binom AçılımVeri, Sayma ve OlasılıVeri, Sayma ve Olasılı2 +
+]
+g  ifadesinin açılımını bulunuz2 +
+]
+g  açılımınıa) Kaç terimi olduğunu bulunuzb) Katsayılarının toplamını bulunuz. 
+c) Sabit terimini bulunuzy +
+^
+                                 Pascal üçgen                                                           
+                                 1                                                           
+                          1        2                            1 x3 +  3 x +  3 xy2 + 1 y             1 x4 +  4 x +  6 x 2 +  4 xy3 + 1 y              
+                  Binom açılımının katsayılar                                                            l                                                 l      l                                                  
+                                       l     l       l                                        l      l      l      l       y +
+^
+y +
+^
+y +
+^
+h  açılımının katsayıları olan  
+,
+,
+,...,
+`
+j  ifadelerinin Pascal üçgenindeki 
+karşılığı aşağıdaki gibidir(
+)
+(
+)
+(
+)
+(
+)
+(
+)
+1 4 6 4 1 1 $
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
++
+=
++
++
++
++
+=
++
++
++
++
+=
++
++
++
++
+-
+-
+-
+-
+-
+]
+1$
+x$ +
+x2 +
+yxy +
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
++
+=
++
++
++
++
++
++
++
++
++
++
++
++
+=
+=
+]
+a) Yukarıda görüldüğü gibi terim sayısı kuvvetin bir fazlası olan +
+=
+ olurb)  Katsayılar toplamı, +
++
++
++
+=
+ olur. Bu sonuç x yerine 1 yazılarak da bulunabilir. 
+c) Yukarıdaki açılımda sabit terim 16 dır. Bu sonuç x yerine 0 yazılarak da bulunabiliry$
+y +
+^
+y +
+^
+Veri, Sayma ve OlasılıVeri, Sayma ve Olasılıİpuc!
+ olmak üzere y +
+^
+h  ifadesinin açılımınd• 
+(
+)
++
+ tane terim vardır 
+• 
+Her bir terimdeki x ve y değişkenlerinin üsleri toplamı n dir 
+• 
+Katsayılar toplamını bulmak için değişkenler yerine 1 sayısı yazılır• 
+Sabit terimi bulmak için değişkenler yerine 0 sayısı yazılır4 -
+]
+g  açılımınıa) Kaç terimi olduğunu bulunuzb) Katsayılarının toplamını bulunuz. 
+c) Sabit terimini bulunuz-
+^
+h  açılımındaki terimlerden birisi !
+- " , olmak üzere a 2$
+$
+-
++  olduğuna göre n değerin bulunuz-
+^
+h  ifadesinin açılımında x ve y değişkenlerinin üsleri toplamı 9 durve lu2 -
++
++
+=
++
+=
+=
+a) Kuvvet 5 olduğundan açılımın terim sayısı +
+=
+ olurb)  Katsayılar toplamı, x yerine 1 yazılırsa 3 $
+-
+= -
+= -
+]
+^
+ olarak bulunurc) Sabit terim, x yerine 0 yazılırsa 3 $
+-
+= -
+= -
+]
+^
+ olarak bulunur3 -
+i  ifadesinin açılımındaki $
+ li terimdeki n değerini bulunuz3 -
+i  ifadesinin açılımında baştan 
+(
+)
++
+ terim $
+ li terim olsun.  
+2 $
+$ -
+-
+^
+i  
+ifadesinden x ve y bulunduran terimler alınırsa 
+x23$
+-
+ elde edilir. Bu durumda 
+ve -
+=
+=
+ 
+olur. Buradan =
+ ve 3 $
+=
+=
+=
+ olurVeri, Sayma ve OlasılıVeri, Sayma ve Olasılı(
+)
+-
+ ifadesinin açılımındaki terimler x in azalan kuvvetlerine göre sıralandığında baştan 7 nci terimi 
+bulunuz-
+l  ifadesinin açılımında a6  lı terimin katsayısını bulunuzİpuc!
+ olmak üzere y +
+^
+h  ifadesinin x in azalan kuvvetlerine göre açılımındak• 
+Baştan +
+^
+h inci terim 
+( )
+( )
+$
+-
+ dir 
+• 
+Sondan +
+^
+h inci terim 
+( )
+( )
+$
+-
+ dir 
+• 
+n çift sayı ise  y +
+^
+h  açılımında, ortadaki terim bulunurken  =
+ alınır. n, tek sayı ise  
+terim sayısı +  tane, yani çift sayıda olacağından ortadaki terim olmayacaktır. 
+(
+)
+-
+ ifadesinin açılımındaki  baştan +
+^
+h inci teri(
+)
+(
+)
+$ -
+-
+ dir. 
+&
++
+=
+=
+ olup baştan 7 nci teri(
+)
+(
+)
+x 28 $
+$
+$
+-
+=
+=
+-
+ olur-
+l  ifadesinin açılımındaki baştan (
+)+
+ terimi A a$
+ olsun. Burada(
+)
+(
+)
+(
+)
+(
+)
+(
+)
+A A A A olu3 $
+$
+$
+$
+$
+$
+$
+$
+$
+=
+-
+=
+-
+=
+-
+=
+-
+-
+-
+-
+-
+-
+-
+ 
+Buradan a nın üsleri eşitlenerek 
+&
+-
+=
+=
+ bulunur. (
+)+
+ terim,
+20 20(
+)
+(
+)
+(
+)
+3 $
+$
+$
+$
+$
+=
+-
+=
+-

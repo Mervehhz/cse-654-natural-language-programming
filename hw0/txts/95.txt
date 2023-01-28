@@ -1,0 +1,400 @@
+ olurAynı anda dikilen A ve B fidanlarının boylarındaki artış yandak grafikte gösterilmiştir. Bu fidanların zamana (ay) bağlı boyun veren birer fonksiyon yazıp fidanların dikildikten kaç ay 
+sonra boylarının farkının 60 cm olacağını bulunuz 20 cm olarak dikilen A fidanının boyu, 2. ayın sonunda 60 cm ye ulaştığından fidan 2 ayda 40 cm 
+uzamıştır. Buna göre fidan 1 ayda 
+c=
+ uzar. A fidanının boyunu gösteren grafik doğrusal 
+olduğundan A fidanı, her ay 20 cm uzayacaktır. 
+Bu fidanın dikildiği aydaki boyu 40 cm, 2 ay sonraki boyu 60 cm ye ulaştığından fidan 2 ayda 20 cm uzamıştı. Buna göre fidan 1 ayda 
+c=
+ uzar. B fidanının boyunu gösteren grafik de doğrusal olduğunda B fidanı her ay 10 cm uzayacaktırA fidanının x zamanına bağlı boyunu veren fonksiyon ( )
+f =
++
+ , 
+B fidanının x zamanına bağlı boyunu veren fonksiyon 
+( )
+g =
++
+ ,
+x ay sonra boylarının farkı 60 cm olacağından 
+( )
+( )
+f g olu&
+&
+&
+-
+=
++
+-
++
+=
+-
+=
+=
+^
+^
+Sabit hızlarla hareket eden A ve B marka araçların yol-zama grafiği yanda verilmiştir. Aynı anda ve aynı yönde hareket başlayan bu iki aracın zamana (saat) bağlı hızlarını vere birer fonksiyon yazıp bu araçların aralarındaki mesafenin 
+kaç saat sonra 25 km olacağını bulunuzA aracı, 6 saatte 15 kilometre yol aldığından 1 saatte 
+kilometr=
+ yol alır. x saat cinsinden zaman  
+olmak üzere alınan yolu gösteren fonksiyon ( )
+f =
+ olurB aracı, 4 saatte 30 kilometre yol aldığından 1 saatte 
+kilometr=
+ yol alır. x saat cinsinden zaman 
+olmak üzere alınan yolu gösteren fonksiyon 
+( )
+=
+ olurt saat sonra aralarındaki mesafe 25 km olsun( )
+( )
+h f olu&
+&
+&
+-
+=
+-
+=
+=
+=
+ 
+Buna göre 5 saat sonra bu iki araç arasındaki mesafe 25 kilometre olurALIŞTIRMALA1. Gerçek sayılar kümesinde tanımlı f ve g 
+fonksiyonları için ( )
+(
+)
+f =
++
++
+-
+,
+( )
+g =
+-
+-
+ ve ( )
+( )
+f g =
+ olduğuna 
+göre a $
+ işleminin sonucunu bulunuz2. 
+"
+:
+R  olmak üzere g fonksiyonu birim 
+fonksiyondur    
+(
+)
+(
+)
+(
+)
++
+=
++
++
+-
++
++
+ olduğun göre a b $
+$
+ işleminin sonucunu bulunuz  3.  
+"
+,
+:
+( )
+f a =
++
+-
++
+-
+-
+^
+^
+ 
+fonksiyonu çift fonksiyon olduğuna göre -
+ 
+ifadesinin değerini bulunuz4. 
+"
+:
+R  olmak üzer    
+,
+,
+,
+(
+)
+f isx isis3 #
+#
+-
+=
+-
++
++
+[
+\
+]]]]]]
+]]]]]]
+   olduğuna göre (
+)
+( )
+( )
+-
++
++
+ değerini 
+bulunuz5. 
+"
+"
+,
+:
+:
+R  olmak üzer    
+,
+( )
+( )
+f g =
+-
+=
++   fonksiyonları 
+veriliyor. Buna göre 
+       a) (
+)( )
++
+ ifadesinin değerini bulunuz.              
+   b) (
+)( )
+f $
+ ifadesinin değerini bulunuz   c) 
+( )
+ ifadesinin değerini bulunuz6. 
+, 0), (0, 2), (1, 3), (2, (
+)
+=
+-
+"
+,
+    
+, 1), (2, 1), (3, 5), (4,
+(
+)
+= "
+,  fonksiyonları 
+veriliyor. Buna göre  
+       a) (
+)( )
+-
+ ifadesinin değerini bulunuz   b) (
+)( )
++
+ ifadesinin değerini bulunuz7. 48 litrelik benzin deposu bulunan A aracı saatt 6 litre, 30 litrelik benzin deposu bulunan B 
+aracı saatte 3 litre benzin tüketmektedir. A ve 
+B araçlarının benzin deposu tam dolu iken bu 
+araçlar kesintisiz yol alıyor. Aynı anda hareket başlayan bu iki aracın deposunda kalan 
+benzin miktarını gösteren bir yakıt-zaman grafiğ çizip harekete başladıktan kaç saat sonra 
+depolarında eşit miktarda benzin kalacağını 
+bulunuz 8. 
+A okulB okulA ve B okullarının bazı yıllara ait öğrenci 
+sayıları yukarıdaki tabloda verilmiştir. A okulunu öğrenci sayısının bir önceki yıla göre 
+aynı miktarda artmakta,  B okulunun öğrenci 
+sayısının ise bir önceki yıla göre aynı miktard azalmakta olduğu bilindiğine göre bu 
+iki okulun hangi yılda öğrenci sayılarının eşit 
+olacağını bulunuz9. 
+"
+:
+R  doğrusal fonksiyon olmak üzere 
+(
+)
+(
+)
+f f +
+=
+-
++
+-
+ fonksiyonu 
+veriliyor. Buna göre (
+)
+-
+ değerini bulunuz10"
+:
+R  birim fonksiyon, 
+    
+"
+:
+R  fonksiyonu sabit fonksiyon olmak 
+    üzere (
+)
+( )
+g +
++
+-
+=
+ fonksiyonu 
+    veriliyor. 
+    Buna göre 
+(
+)
+g 2018  ifadesinin değerini bulunuz11. 
+"
+:
+R  ve ( )
+f =
+-
+ içi(
+)
+(
+)
+f $
+-
+=
+-
+ olduğuna göre 
+m değerini bulunuz10.2.1.2. Fonksiyonların Grafikleri 
+Doğrusal Fonksiyonların Grafikler1. yo( )
+f =
+ fonksiyonunun geçtiği herhangi üç noktayı belirleme için x  yerine tanım kümesinden, farklı üç eleman seçilere y değerleri bulunur 
+-
+( )
+f =
+                                
+Buradan 
+, 1), (0, 2) ve (1,
+(
+)
+-
+ noktaları elde edilir. Fonksiyo doğrusal olduğundan fonksiyonu sağlayan diğer noktala  da bu doğru üzerindedir. Bulunan noktalar dik koordinat 
+sisteminde işaretlenerek  bu noktalardan geçen doğru çizilir. 
+Çizilen bu doğru f fonksiyonunun grafiğidir2. yo=
++
+ denkleminde x yerine 0 yazılarak fonksiyonun grafiğnin y eksenini kestiği nokta bulunur. Daha sonra y yerine 
+0 yazılarak fonksiyonun grafiğinin x eksenini kestiği nokta 
+bulunur. Bulunan bu iki noktadan geçen doğru çizilir. Çizilen 
+bu doğru f fonksiyonunun grafiğidir=
+ için =
+ olur. Grafik y eksenini ( ,
+)
+0 2  noktasında 
+keser. 
+=
+ için = -  olur. Grafik x eksenini (
+,
+)
+2 -
+ noktasında 
+keserBilg"
+:
+R  olmak üzere ( )
+f =
++
+ fonksiyonunun grafiğini çiziniz,
+a !
+  ve 
+"
+:
+R  olmak üzere ( )
+f a=
++
+ fonksiyonunun grafiği dik koordinat 
+sisteminde a=
++
+ doğrusunun grafiğini belirtir. Bir doğrunun grafiğini dik koordinat 
+sisteminde çizmek için bu doğrunun geçtiği en az 2  noktaya ihtiyaç vardır. Dolayısıyla 
+a=
++
+ denklemini sağlayan en az 2  tane 
+,
+(
+)
+x y  sıralı ikilisi seçilip bu sıralı ikililer dik 
+koordinat sisteminde işaretlenir ve işaretlenen noktalar bir doğru parçası oluşturacak şekilde 
+birleştirilip doğru çizilir( )
+f =
+ fonksiyonunda x  yerine 
+, 0,
+-
+ değerleri yazılara y değerleri bulunur           Buradan 
+,
+, (0,
+,
+(
+)
+)
+(
+)
+v-
+-
+-
+-
+ noktaları elde edilir. 
+Bulunan noktalar dik koordinat sisteminde işaretlenerek bu 
+noktalardan geçen doğru çizilir. Çizilen bu doğru f fonksiyonunu grafiğidir( )
+f =
+-
+-
+-
+-
+=
+ doğrusunun grafiği ( , )
+0 4  noktasından geçen ve x eksenine paralel bir doğru grafiğidir. Bu grafik 
+aşağıdaki gibi çizilebilir$
+"
+:
+R  olmak üzere ( )
+f =
+ fonksiyonunun grafiğini çiziniz 
+"
+:
+R  olmak üzere ( )
+f =
+-
+ fonksiyonunun grafiğini çiziniz"
+:
+R  olmak üzere ( )
+f =
+ fonksiyonunun grafiğini çizinizÖnce f fonksiyonu 
+( )
+g =
+-
+ ve ( )
+h = -
+-
+ 
+olmak üzere iki ayrı fonksiyona ayrılarak bu fonksiyoların grafikleri aşağıdaki gibi çizilirParçalı Fonksiyonların Grafikler( )
+f =
+ fonksiyonunda x yerine 
+1, 0, -
+ değerleri yazılarak y değerleri bulunur-
+( )
+f =
+-
+Buradan 
+,
+), (0,
+1,
+(
+)
+(
+)
+v-
+-
+ noktaları elde edilir. Bulunan noktalar dik koordinat sisteminde işaretlenere bu noktalardan geçen doğru çizilir. Çizilen bu doğru f fonksiyonunun grafiğidir( )
+f a=
+ biçimindeki doğrusal fonksiyon grafiklerinin orijinde geçtiğine dikkat edinizg fonksiyonunun 
+3,
+(
+]
+-
+ aralığındaki 
+parçası ve h fonksiyonunun 
+,
+(
+)
+0 3  aralığındak parçası alınarak f fonksiyonunun 
+grafiği aşağıdaki gibi çizilir"
+:
+R  olmak üzer,
+,
+( )
+f isis#
+=
+-
+-
+-
+'
+   fonksiyonunun grafiğini çizinizGeoGebra programını açınız. Giriş ekranına a=

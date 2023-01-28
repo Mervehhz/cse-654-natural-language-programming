@@ -1,0 +1,400 @@
+5. 
+Yukarıdaki şekilde verilen ABCD dörtgenind B? ABC açısının, C? DCF açısının 
+açıortayıdır. 
+,
+(
+)
+m BA=
+%
+ 
+(
+)
+m AD=
+%
+ 
+olduğuna göre BEC açısının ölçüsünün kaç 
+derece olduğunu bulunuz. 
+6. 
+Yukarıdaki şekilde verilen ABCD dörtgeninde 
+E, F, G ve H noktaları bulundukları kenarların 
+orta noktalarıdır. ABc+
+=
+ olduğun göre EFGH dörtgeninin çevresinin kaç cm 
+olduğunu bulunuzALIŞTIRMALADörtgenler ve ÇokgenleDörtgenler ve Çokgenle• Paralelkenar aynı zamanda yamuktu• Dikdörtgen aynı zamanda paralelkenardı. 
+• Eşkenar dörtgen aynı zamanda paralelkena ve deltoittir. 
+• Kare aynı zamanda eşkenar dörtge ve deltoittirTerimler ve Kavramla• Yamuk 
+• İkizkenar Yamu• Dik Yamuk 
+• Paralelkenar 
+• Eşkenar Dörtge• Dikdörtge• Kar• Deltoi10.5.3. Özel Dörtgenle10.5.3.1. Özel Dörtgenlerin Açı, Kenar, Köşegen ve Alan ÖzelliklerÖzel dörtgenler olan yamuk, paralelkenar, eşkenar dörtgen, dikdörtgen, kare, deltoid denilen çokgenlerin 
+birbirlerine benzer olan birçok özelliği vardır. Bu sebeple bu dörtgenler incelenirken aralarındaki hiyerarşik 
+ilişki dikkate alınmalıdırAşağıda verilen görselde dörtgenler arasındaki hiyerarşik ilişki genelden özele doğru verilmiştirÖzel dörtgenlerin açı, kenar, köşegen ve alan özelliklerini açıklayarak problemler çözmeyi 
+öğreneceksinizDörtgenler ve ÇokgenleDörtgenler ve ÇokgenleBilgEn az iki kenarı paralel olan dörtgene yamuk denir                                                Yandaki ABCD yamuğunda 
+                                               ∙ AD'
+?
+? olur                                               ∙ A? alt taban ve D? üst taban olarak isimlendirilir.    
+                                               ∙ +
+=
+c ve 
++
+=
+c olur Yandaki ABCD yamuğunda DA'
+?
+? ve 
+(
+)
+m DA=
+%
+, 
+(
+)
+m DC=
+%
+, 
+(
+)
+m AB=
+%
+ ve 
+(
+)
+m AD=
+-
+%
+ olduğuna göre y 
+değerinin kaç derece olduğunu bulunuz( )
+( )
+m m olu&
+&
++
+=
++
+=
+=
+ Burada( )
+(
+)
+m m bulunu&
+&
+&
++
+=
++
+-
+=
++
+-
+=
+=
+Bu eşitliğin doğruluğu aşağıdaki gibi gösterilebilirİpucŞekildeki ABCD yamuğunda AD'
+?
+? olsunA? ile B? nın orta noktaları olan E ile F 
+noktalarını birleştiren doğru parçasına orta taban 
+denirE? orta taban olmak üzere EAD'
+'
+?
+?
+? ve 
+EAD=
++
+=
++
+ olurYandaki şekilde DC'
+?
+? olacak şekilde D? 
+çizilir. Bu durumda DLBC, DKFC ve KLBF dörtgenleri 
+paralelkenar olur. Paralelkenarın karşılıklı kenar uzunlukları 
+eşit olduğundan LKD=
+=
+=
+ ve DK=
+ 
+olur. Buradan A=
+-
+ ve ADL üçgeninde E? orta 
+taban olduğundan E=
+-
+ olurSonuç olarak EE&
+=
+-
++
+=
++
+ olmaktadırYamuk ve ÖzelliklerDörtgenler ve ÇokgenleDörtgenler ve ÇokgenleOrta taban uzunluğu, alt taban uzunluğu ile üst taban uzunluğunun toplamının yarısı olduğundaEADc=
++
+=
++
+=
+ olurYandaki şekilde verilen ABCD yamuğunda DA'
+?
+?, 
+Dc=
+ ve Ac=
+ olduğuna göre ABCD yamuğunun 
+orta taban uzunluğu olan EF  nun kaç cm olduğunu bulunuzYandaki şekilde verilen ABCD yamuğunda 
+DA'
+?
+?, 
+D? ADC açısının 
+açıortayı ve A? DAB açısının açıortayı olmak üzere A=
+ cm olduğuna göre 
+AD+
+ değerinin kaç cm olduğunu bulunuzŞekildeki E noktasından EAD'
+'
+?
+?
+? olacak şekilde E? çizilirİç ters açılardan 
+(
+)
+(
+)
+m CDm DE=
+=
+%
+%
+ ve 
+(
+)
+(
+)
+m EAm FE=
+=
+%
+%
+ denilsinAED üçgeninin iç açıları toplamından +
+=
+c ise +
+=
+c olur. Bu durumda AED dik üçgen ve 
+DFF=
+=
+ olurDFAc=
+=
+=
+ olacağından F=
+ cm olurEDA'
+'
+?
+?
+? ve DF=
+ olduğundan E? orta taban olur. 
+Bu durumda EADADAD&
+&
+=
++
+=
++
++
+=
+ cm bulunurDörtgenler ve ÇokgenleDörtgenler ve ÇokgenleBu ifadelerin doğruluğu aşağıdaki gibi gösterilebilirİpucYandaki şekilde C! ?, AD+
+=
+@
+@
+"
+, , 
+DOA'
+'
+?
+?
+?, D=
+ cm ve A=
+ cm ise OT  nun 
+kaç cm olduğunu bulunuzİç ters açılardan 
+(
+)
+(
+)
+m CDm DB=
+=
+%
+%
+ ve 
+(
+)
+(
+)
+m DCm CA=
+=
+%
+%
+ denilsin. Bu durumda A.A. benzerliği ile 
+ODOB+
+&
+&  olurk,
+,
+,
+OOOOBDOOOOOOOO2 yaz›labilir&
+&
+=
+=
+=
+=
+=
+=
+=
+=
+=
+ 
+       
+A.A. benzerliği ile COCA+
+&
+&  olduğundan 
+         
+                                                              
+CCAOOOcm olu&
+&
+=
+=
+=
+  
+ 
+ 
+Şekildeki ABCD yamuğunda DA'
+?
+? olmak üzere 
+D? ile A? na yamuğun köşegenleri denirKöşegenlerin orta taban üzerinde ayırdığı doğru parçaları 
+için EL=
+=
+ ve K=
+-
+ olur∙ BD&  nin orta tabanı L? olduğundan L=
+ olur∙ AD&  nin orta tabanı E? olduğundan E=
+ olur∙ DA&  nin orta tabanı E? olduğundan E=
+ olurBu durumdEEKKKolu&
+&
+=
++
+=
++
+=
+-
+ 
+                                                  
+44444444444 Dörtgenler ve ÇokgenleDörtgenler ve ÇokgenleİpucA=
+ cm denilirse 
+KAD&
+&
+&
+=
+-
+=
+-
+=
+-
+=
+ olurBu durumda Ac=
+ olarak bulunurABCD 
+yamuğunda 
+,
+AB!
+!
+?
+?, 
+DA'
+@
+@, 
+DC+
+=
+@
+@
+"
+, olmak üzere köşegenlerin kesim noktasında geçen ve alt taban ile üst tabana paralel  olan K? içiKTa $
+=
+=
++
+ olurYandaki şekilde verilen ABCD yamuğunda Ave B@
+@ köşegenlerdi. E? orta taban ve 
+,
+AEEB+
++
+=
+=
+@
+?
+@
+?
+"
+"
+,
+, , 
+DA'
+?
+?, K=
+ cm ve D=
+ cm olduğuna göre AB  
+nun kaç cm olduğunu bulunuzYandaki şekilde verilen ABCD yamuğunda 
+CF ! ?,
+,
+DEA'
+'
+@
+@
+@
+DC+
+=
+@
+@
+"
+,  olmak üzere 
+Ecm ve Dc=
+=
+ olduğuna göre AB  nun kaç cm 
+olduğunu bulunuzEDDAAAAAAAcm olu&
+&
+&
+$
+$
+$
+$
+=
++
++
+=
++
+=
+=
+Dörtgenler ve ÇokgenleDörtgenler ve ÇokgenleBu eşitliğin doğruluğu aşağıdaki gibi gösterilebilir Yandaki şekilde DA'
+?
+?; 
+(
+)
+m DC=
+%
+; 
+,
+DcCc=
+=
+ ve Ac=
+ olduğuna göre 
+(
+)
+A ABCD  değerinin kaç cm2  olduğunu bulunuzBir yamuğun alanının, orta taban uzunluğu ile yüksekliğinin çarpımına eşit olduğunu gösteriniz 
+(
+)
+(
+)
+(
+)
+(
+)
+m DCm CBm CBm CBolu+
+=
++
+=
+=
+%
+%
+%
+%
+ CA=
+?
+? olacak şekilde C? çizilir Oluşan CEB  -
+-
+c dik üçgeni olduğunda Cc=
+ olur. Bu durumda    
+(
+)
+A ABCADCc6 $
+$
+=
++
+=

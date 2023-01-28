@@ -1,0 +1,400 @@
+tam sayı değerini bulunuzf =
+-
++
+-
+-
+]  
+fonksiyonunun sürekli olduğu en geniş küme 
+R - " , olduğuna göre k  oranını bulunuz. 
+,
+,
+,
+f isbis#
+#
+=
++
+-
++
+is] [
+\
+]]]]
+]]]]
+biçiminde tanımlı f ] g fonksiyonu =
+ 
+noktasında sürekli iken =
+ noktasında 
+sürekli değildir. Buna göre b nin alamayacağ değeri bulunuzf ais#
+=
+-
++
+,
+,
+is] *
+biçiminde tanımlı f ] g fonksiyonu her x gerçe sayısı için sürekli olduğuna göre a değerin bulunuzis,
+,
+f aisb#
+=
+-
+-
+-
+,
+3 #
+is] [
+\
+]]]]
+]]]]
+ 
+biçiminde tanımlı f ] g fonksiyonu her x gerçe sayısı için sürekli olduğuna göre a $
+ 
+çarpımını bulunuz AlıştırmalaMatematik 5.2. ANLIK DEĞİŞİM ORANI VE TÜRE5.2.1. Türev KavramDeğişim OranYanda doğrusal olarak hareket eden bir hareketliy ait konum-zaman grafiği verilmiştir. 
+Bu hareketlinin 
+ve  saniyeler arasında 
+ortalama hızı; bu hareketlinin konumundaki 
+değişiminin, zamandaki değişime oranı ile 
+hesaplanır,
+bu hareketlinin ve t saniyeleor{
+ arasındaki ortalama hız{ D  , konumdaki değişimi 
+{ D  , zamandaki değişimi olmak üzere ortalama hı            x or=
+=
+-
+-
+]
+^
+h  olur. 
+     Burada 
+,
+ bağımlı ( t  ye bağlı) değişkenin değişimidir                  
+, bağımsız değişkenin değişimidir. 
+     Buna göre or=
+ ifadesine değişim oranı denirx ^ x ^ x t^
+tx konum (metre)
+t zaman (saniye)
+Doğrusal olarak hareket eden bir hareketlinin zamana (saniye) bağlı konumu (metre)  
+x =
++
+]   fonksiyonu ile verildiğine göre ilk 3 saniyedeki ortalama hızını bulunuzBu hareketlinin ilk 3 saniyede konumundaki değişim    
+2 2 $
+$
++
++
+D =
+-
+metre olu=
+-
+=
+]
+]
+Bu hareketlinin ilk 3 saniyede zamandaki değişim    
+D =
+-
+saniye olu=
+Bu durumda ilk 3 saniyedeki ortalama hız    
+/
+m sor=
+=
+=
+  bulunurÖRNEÇÖZÜTüre    Bu hareketlinin ilk 4 saatte konumundaki değişim    
++
++
+km oluD =
+-
+=
+=
+-
+]
+]
+    Bu hareketlinin ilk 4 saatte zamandaki değişim    
+D =
+-
+saat olu=
+    Bu durumda hareketlinin ilk 4 saatteki ortalama hız    
+/
+km sor=
+=
+=
+  bulunurx konum (km)
+t zaman (saat)
+t zaman (saat)
+x =
++
+] `
+bbbbbbbb`
+bbbbbb444444 =
+Bu hareketlinin ilk 4 saatteki ortalama hızı aynı zamanda bu fonksiyonun ilk 4 satteki değişim 
+oranıdır. Ayrıca bu fonksiyonun 0. ve 4. saatler arasındaki değişim oranı 
+,
+,
+v^
+^
+h 
+noktalarından geçen doğrunun eğimine eşittirx =
++
+] Yanda doğrusal olarak hareket eden bir hareketliye ait 
+konum-zaman grafiği verilmiştir. Bu hareketlinin zaman bağlı konumu x =
++
+]   fonksiyonu ile verildiğin göra)  Bu hareketlinin ilk 4 saatteki ortalama hızını bulunuzb)  Bu hareketlinin 1. ve 4. saatler arasındaki ortalama  
+     hızını bulunuzx konum (km)
+t zaman (saat)
+x =
++
+] b)
+x konum (km)
+x =
+^ x =
+^ x =
+^ x =
+^ a)
+or=
+=
+-
+-
+-
+/
+km sa bulunu=
+=
+]
+]
+Bu hareketlinin 1. ve 4. saatler arasındaki ortalama hızı aynı zamanda bu fonksiyonun 1. ve 4. 
+saatler arasındaki değişim oranıdır. Ayrıca bu fonksiyonun 1. ve 4. saatler arasındaki değişim 
+oranı 
+,
+,
+v^
+^
+h noktalarından geçen doğrunun eğimine eşittirÖRNEÇÖZÜMatematik Yanda doğrusal olarak hareket eden bir hareketliy ait konum-zaman grafiği gösterilmiştir. Bu hareketlini 
+ve  saniyeleri arasındaki ortalama 
+hızının 
+            x x or=
+=
+-
+-
+]
+^
+olduğu bilinmektedir. 
+x konut zamax t] tBu hareketlinin t0  anındaki anlık hızı bulunmak istenirse t nin t0  a yaklaşırken fonksiyonun 
+değişim oranı hesaplanmalıdır. Bu ora 
+ 
+ 
+lix -
+-
+"
+]
+^
+limiti ile hesaplanır. Bu limit değeri hareketlinin t0  anındaki anlık hızı olup bu değer fonksiyonu t0  anındaki anlık değişim oranıdır. Bir fonksiyonun t0  anındaki anlık değişim oranına 
+ise fonksiyonun t0  noktasındaki türevi denir ve l^
+h ile gösterilir. O hâld                                    
+lix =
+-
+-
+"
+l^
+]
+^
+h   olurx ^ x t^
+Anlık Değişim Oranı ve Türex t] g fonksiyonunun 
+ve  zamanlar arasındaki değişim oranının 
+,
+0ii ve 
+,t x ^
+] gh 
+noktalarından geçen doğrunun eğimi olduğu belirtilmişti. Yukarıdaki grafik incelendiğinde t , 
+t0  a yaklaşırke 
+limitinin değerinin eğrinin t0  noktasındaki teğeti olan d doğrusunun eğimine eşit olduğu görülü. O hâlde bir fonksiyonun herhangi bir noktasındaki türevi, fonksiyonun o noktadaki teğetini eğimine eşittirlix -
+-
+"
+]
+x konut zamax ^ 0t^
+tx ^ Türex konum (metre)
+t zaman (saniye)
+x =
++ +
+^ `
+bbbbbbbbbbBir hareketlinin t0  anındaki anlık hızı t0  noktasındaki 
+türevi olan 
+li a eşittir. Bir fonksiyonun bir t0  noktasndaki türevi ise fonksiyona o noktada çizilen teğetin 
+eğimine eşit olduğundan fonksiyonun 3. saniyedeki anlı hızı d doğrusunun eğimi olan 
+tam=
+ değerine 
+eşittir. d =
+=
+ olur. O hâlde bu hareketlinin 3. saniyedek anlık hızı 
+/
+m s dir[Yanda doğrusal olarak hareket eden bir hareketliye ait 
+konum-zaman grafiği ve grafiğe =
+ noktasında çizile teğeti verilmiştirBu hareketlinin zamana bağlı konumu x =
++ +
+]  
+fonksiyonu ile tanımlandığına göre bu hareketlinin 3. saniyedek anlık hızının (anlık değişim oranı) kaç 
+/
+m sn  
+olduğunu bulunuzx konum (metre)
+t zaman (saniye)
+x =
++ +
+^ &
+/
+lililililif f m sn bulunubelirsizlig=
+-
+-
+=
+-
+-
+=
+-
++ +
+-
+=
+-
++ -
+=
+-
+-
++
+=
+"
+"
+"
+"
+"
+{
+^
+]
+^
+]
+]
+]
+]
+1. Yol:
+2. Yol:
+Doğrusal olarak hareket eden bir hareketlinin saat olarak zamana bağlı yer değişimi km olarak 
+f =
+-
+]  fonksiyonu ile tanımlandığına göre bu hareketlinin 3. saatteki anlık hızını (anlık değişi oranını) bulunuzlililif belirsizlig-
+-
+=
+-
+-
+-
+=
+-
+-
+"
+"
+"
+{
+]
+]
+ÖRNEÖRNEÇÖZÜÇÖZÜMatematik lili-
+-
+-
+-
++
+"
+"
+/
+km sbulunu=
+=
+]
+]
+=
+-
+=
+:
+:
+]
+]
+olduğuna göre  lif -
+-
+"
+]   ifadesinin değerini bulunuzİstenen limit ifadesinde 5 yerine f ] g yazılırsa bu limit değerinin l] g e eşit olduğu görülür    
+lilif f bulunu3 -
+-
+=
+-
+-
+=
+=
+-
+=
+"
+"
+]
+]
+]
+]
+lilif f f f {
+{
+-
+-
+-
+-
+"
+"
+-
++
+]
+]
+]
+]
+limiti varsa bu limit değerine f fonksiyonunun =
+ 
+noktasındaki sağdan türevi denir ve 
++
+l^
+h ile gösterilirlimiti varsa bu limit değerine f fonksiyonunun =
+ 
+noktasındaki soldan türevi denir ve 
+-
+l^
+h ile gösterilir,
+:
+f ve A i i"
+!
+Soldan ve Sağdan Türe,
+:
+f vA i in f s rekli olmak zer"
+!
+&
+lililif f f f f f -
+-
+=
+-
+-
+-
+-
+"
+"
+"
+-
++
+]
+]
+]
+]
+]
+]
+g  limitine f fonksiyonunun =
+ 
+noktasındaki türevi denir ve l] g ile gösterilir. 
+Böylece f fonksiyonun =
+ noktasındaki türevTürev Tanım 
+ 
+biçiminde tanımlanırlif f =
+-
+-
+"
+l^
+]
+]
+ÖRNEÇÖZÜTüref fonksiyonunun =
+ noktasındaki türevi olan 
+lif -
+-
+=
+"
+l]
+]
+]
+g  ifadesinde 
+-
+=

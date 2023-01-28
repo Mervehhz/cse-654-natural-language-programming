@@ -1,0 +1,400 @@
+=
+^
+^
+&
+&
+3528A ABA ADbulunu=
+=
+&
+&
+I. YOII. YOMatematik I2. BölüÜçgenleBİLGİ KUTUSKenarortay ile alan arasındaki ilişki aşağıda gösterildiği gibidir1. 
+[AD], ABC üçgeninin kenarortayıdır. ABD ve 
+ADC üçgenleri aynı yüksekliğe sahip olduğunda alanları taban uzunlukları ile doğru 
+orantılıdırA ABA AD=
+&
+&
+2. 
+~
+~
+ABC üçgeninde G ağırlık merkezidir. G noktas ABC üçgenini 6 eş alana böler3~
+~
+      4. 
+ABC üçgeninin kenar orta noktalarını birleşmesiyle oluşan 
+üçgenlerin alanları eşittir        
+G ağırlık merkezi ve üçgenin köşelerini birleşmesi ile oluşan üçgenlein alanları eşittir3. 
+~
+~
+ABC üçgenindAFAEBD=
+=
+=
+A A&
+BCi = 32    
+     dirYukarıda verilenlere göre taralı alan kaç cm2 dir? BulalımcmMatematik I2. BölüÇözü~
+~
+Kenarortay alan ilişkisindeki 3. özellikten dolayA FEA AB=
+=
+= 8  b2  dir&
+&
+4~
+~
+ABC üçgenindAD , BE , CkenarortaA AB72 b=
+^
+@
+@
+@
+&
+olduğuna göre  A AF^
+^
+A BD+
++
+^
+A EGCh kaç cm2 dir?
+&
+&
+&
+ BulalımÇözü~
+~
+Kenarortay alan ilişkisindeki 2. özellikten dolay6S =S =12 cmA AF^
+^
+A BD+
++
+^
+A EGCh 
+3=
+=
+$
+3 1  =
+3 c&
+&
+&
+5ABC üçgeninde G ağırlık merkezBGBG4 c8 c=
+=
+=
+@
+@
+olduğuna göre A A&
+B^
+h kaç c2 dir? Bulalımcmcm3    36 cmÜçgenleMatematik I2. BölüÜçgenleÇözüG ağırlık merkezi, ABC üçgenini 3 eşit alana bölerBuna görA ABA BGA AG=
+=
+A ABGi 
+$
+4 =
+= 32 c2 bulunur&
+&
+&
+&
+BİLGİ KUTUSKöşeleri paralel iki doğru üzerinde alınarak çizilen tüm üçgenleri yüksekliği parelel iki doğru arasındaki uzaklıktır. Bu durumda 
+BBve tabanl AB@
+&
+&
+ üçgenlerinin tepe noktaları nereye taşınırsa taşınsı yükseklik hep aynı olduğundan alanları eşittirddd1//dABC ve BDC üçgenlerinin taban uzunluklar ve yükseklikleri eşit olduğundan 
+A ABBdi=
+&
+&
+Örne1. //
+ABCD d rtgenindABAEAcEcBc=
+=
+=
+=
+@
+@
+@
+@
+olduğuna göre boyalı alanların toplamı kaç cm2 dir. BulalımMatematik I2. BölüÜçgenleÇözüAE'
+@
+@ olduğu için alan taşıma özelliğinden dolayı 
+A AEA DEC dirBoyalı alanlar toplamA DEA EBA AEA EBA AB9 54 cm dir$
+=
+=
++
+=
++
+=
+=
+&
+&
+&
+&
+&
+&
+&
+Benzer  Üçgenlerin AlanlarBenzer üçgenlerin alanlar oranı benzerlik oranının karesine eşittirABADE olmak üzerA ABA ADAAAABD+
+=
+=
+=
+&
+&
+&
+&
+ÖRNEKLE1. 
+ABC dik üçgeninde, 
+AAC , EDBEC , A DE8 c=
+=
+=
+=
+@
+@
+@
+@
+&
+olduğuna göre A A&
+Bi kaç c2 dir? BulalımÇözüABDE+
+&
+&   (A. A teoremi)
+A ABA DECCA AB2A ABC 
+32c 
+m bulunur&
+=
+=
+=
+=
+&
+&
+&
+&
+Matematik I2. BölüÜçgenle2. 
+ABC üçgenindA5 cA3 cD4 cE12 c,
+,
+=
+=
+=
+=
+A A&
+BCi = 27 colduğuna göre A(AD∆E) kaç cm2 dir? BulalımÇözüAAAA=
+ olduğundaADACB (K A.K teoremi)
+A A ADAAA ADA AD3cm bulunurB2 &
++
+=
+=
+=
+&
+&
+&
+&
+&
+&
+3ABC üçgeninde,
+[AB] ve [AC] kenarları 4 er eş parçaya bölünmüştür.   
+ A A&
+BCi = 64 colduğuna göre  A (ADE) kaç cm2 dir? BulalımÇözüADAFK (A.A. teoremi)
+A AFA ADAAADALM (A.A. teoremi)
+A ALA ADAA+
++
+=
+=
+=
+=
+=
+=
+&
+&
+&
+&
+&
+&
+&
+&
+&
+Matematik I2. BölüÜçgenleADABC (A.A. teoremi)
+A ABA ADAA+
+=
+=
+=
+&
+&
+&
+&
+357A AB=
+=
+=
+=
+=
+&
+&
+BİLGİ KUTUS3957Kenarları eşit aralıklı paralellerle bölünmüş olan üçgenlein alanları ardışık tek sayılarla orantılı olarak 
+artar5ABC üçgeninde G ağırlık merkezidir.                
+A (ABC)= 48 colduğuna göre A A&
+Bi kaç c2 dir? BulalımÇözüG ağırlık merkezi ABC üçgenini 3 eşit alana böler. 
+Buna göre,
+A ABA BGA AGA AB16 br bulunur=
+=
+=
+=
+&
+&
+&
+&
+_AE 
+c2 di16 c2 bulunur&
+Matematik I2. BölüÜçgenleALIŞTIRMALA1ABC üçgenind,
+,
+ABBAAcm BcA ABc=
+=
+=
+=
+=
+@
+@
+@
+@
+&
+olduğuna göre |AD| + |BE| toplamı kaç cm dir?
+A) B) C) D) 2ABC üçgeninde,
+,
+,
+AAABAcm Ac=
+=
+=
+=
+@
+@
+@
+@
+olduğuna göre |AH| = h uzunluğu kaç cm dir?
+A) B) 4,C) D) 5,3K ABC ikiz kenar üçgen,
+,
+,
+AAcm Hcm Hc=
+=
+=
+=
+olduğuna göre 
+?
+A ABC ka cm di&
+A) B) C) D)
+4. 
+ABC dik üçgeninde,
+,
+,
+ABAcm BcEcm Cc=
+=
+=
+=
+=
+@
+@
+olduğuna göre A CE&
+ikaç c2 dir?
+A) B) C) D) ABC ikizkenar üçgen,
+Matematik I2. BölüÜçgenle5ABC dik üçgenindABcAB  
+Dc=
+= 
+= 
+@
+@
+olduğuna göre A(ABC) kaç cm2 dir? 
+A) B) C) D) 6ABC dik üçgenindAD a ortaAcAcA ABcç=
+=
+=
+@
+&
+olduğuna göre 
+?
+ka cm diAD&
+A) B) C) D) 7. 
+ABC üçgenind|AF | | FB |
+2 E3 A3 B4 D=
+=
+=
+A A&
+BCi = 35 colduğuna göre A A&
+a cm2 dir?
+A) B) C) D) 8ABC eşkenar üçgenindKcKcKc=
+=
+=
+olduğuna göre 
+?
+A ABC ka cm di&
+A)
+81 B) 20 C)
+49 D)
+9 &
+Matematik I2. BölüÜçgenle9. 
+ABC üçgenind,
+,
+,
+KAAKKBKK=
+=
+=
+=
+@
+@
+@
+@
+@
+@
+&
+olduğuna göre |KM| = x uzunluğu kaç cm dir?
+A) B)
+C) D) 10ABC üçgeninin kenarları eşit aralıklı paraleller ile 
+6 parçaya bölünmüştür. A(KLMN) = 25 cm2 
+olduğuna göre A A&
+Bi kaç c2 dir?
+A) B) C) D) 11ABC dik üçgenindBDAE=
+=
+olduğuna göre A A&
+Bi kaç c2 dir?
+A) B) C) D) 12. 
+~
+~
+ABC üçgenindF, E, D bulundukları kenarların orta noktaları 
+A A&
+BCi = 72 colduğuna göre A AFA &
+&
+B+
++ A_ &
+EDCi kaç c2 dir?
+A) B) C) D) A A&
+BEi = 
+c= 3 cm, A(ABC) = 36   3 cm2 
+4 cMatematik I2. BölüÜçgenle2. BÖLÜMÜN ÖZET• Düzlemde doğrusal olmayan herhangi  üç noktayı birleştiren üç doğru parçasını birleşimine üçgen denir• Açı Çeşitler°
+°
+1. Dar Aç90°
+=
+2. Dik Aç°
+180°
+3. Geniş Aç180°
+=
+4. Doğru Aç36 °
+=
+5. Tam Aç• Tümler Açı: Ölçüleri toplamı 90° olan iki açıya denir• Bütünler Açı: Ölçüleri toplamı 180° olan iki açıya denir• Açılarına Göre Üçgenle,
+,
+°
+m A ^
+^
+^
+1. Dar Açılı Üçgem 90°
+=
+^
+2. Dik Üçgem 90°
+^
+3. Geniş AçılıÜçge• Kenarlarına Göre Üçgenle!
+!
+1. Çeşitkenar Üçge=
+m m =
+^
+^
+2. İkizkenar Üçge3. Eşkenar Üçge=
+=
+m m m 60°
+=
+=
+=
+^
+^
+^
+• İkizkenar üçgende açıortay hem kenarortaydır, hem de yüksekliktirB444444444 6AH@ =
+=
+A = hÜçgenleMatematik I2. BölüÜçgenle• Dik ÜçgeDik üçgende kenarlar arası Pisagor bağıntısı sağlanır=
++
+30° –60° – 90° Dik Üçgen30°
+60°
+İkizkenar Üçgena 45°
+45°
+• Bir üçgende büyük açının karşısında büyük kenar bulunurm ^
+^
+^
+• Bir üçgende bir kenar uzunluğu diğer kenar uzunlukları toplamından küçük, farkını mutlak değerinden büyüktür. Bu eşitsizliğe üçgen eşitsizliği denir–
+–
+–
++

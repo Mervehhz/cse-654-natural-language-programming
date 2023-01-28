@@ -1,0 +1,400 @@
+(
+)
+°
+m ABm A+
+=
+$
+\
+ olurSonuç                   
+40°
+58°
+ 
+ 
+Yandaki şekilde |BC| = |CD| ve 
+(
+)
+m BC\  = 80°  olduğuna 
+göre 
+(
+)
+m BA\  = x değerinin kaç derece olduğunu 
+bulunuzÇözüYandaki şekilde 
+BC&   ikizkenar üçgen olduğundan 
+(
+)
+(
+)
+m CBm CD=
+\
+\  = 50° olurCD\  çevre açı olduğundan 
+(
+)
+m B#  = 100° olur. 
+A açısı, kolları çembere teğet bir dış açı olduğu için 
+x + 100° = 180° olur. Burada(
+)
+°
+m BA=
+=
+\
+ olur23. Örnek 
+Yandaki O merkezli yarım çemberd[BA]∩[EA] = {A}, |AD| = |OE| ve 
+(
+)
+m EA\  = 25° 
+olduğuna göre 
+(
+)
+m B#  nün kaç derece olduğunu 
+bulunuzSıra Sizd80°
+50°
+100°
+50°
+80°
+25°
+Yandaki O merkezli yarım çemberde 
+[BA çembere A noktasında teğet; B, C, D noktaları 
+ve A, E, D noktaları doğrusal olarak veriliyor 
+(
+)
+(
+)
+m ABm EB=
+\
+\  olduğuna göre 
+(
+)
+m AE\  nün 
+kaç derece olduğunu bulunuzÇözüYandaki şekilde O merkezli çemberd(
+)
+(
+)
+m ABm A+
+$
+\
+= 90° olur(
+)
+m AB\  = 2x olduğunda   
+(
+)
+m A$
+= 90° - 2x olur ve 
+( )
+m DV = 45° - x olurEBD üçgeninden 
+(
+)
+m AE\  = x + 45° - x = 45° 
+olur24. Örnek 
+45° - xYandaki şekilde ABC üçgeninin kenarları çembere F, E, D 
+noktalarında teğettir. 
+(
+)
+m FD\  = 50° ve 
+(
+)
+m AC\  = 70° olduğuna göre 
+(
+)
+m AB\  = x değerinin kaç 
+derece olduğunu bulunuzÇözü(
+)
+m F#
+= 100° ve 
+( )
+m AW = 180°- 
+(
+)
+m F#  = 180°- 100° = 80° olurABC üçgeninin iç açıları toplamı 
+x + 70° + 80° = 180° olduğundan x = 30° olur25. Örnek 
+50°
+70°
+Çevrel Çember ve Sinüs TeoremÇokgen ikonuna tıklayarak köşeleri A, B ve C noktaları olan üçgeni çizinizGirişe çevrel çember yazdığınızda oluşan satırda nokta yerlerine A,B,C yazınız. Üçgenin 
+çevrel çemberi ekranda görülecektirGirişe merkez yazdığınızda oluşan satırda konik yerine çemberin adı olan d yazınız. 
+Çemberin merkezi D olarak görülecektirOrta dikme ikonuna, ardından üçgenin AB, AC ve BC kenarlarına tıklayarak bu kenarlara ait 
+orta dikme doğrularını çiziniz. Orta dikme doğrularının çemberin merkezinden geçtiğine 
+dikkat edinizBir üçgenin kenarlarının orta dikmesi üçgenin çevrel çemberinin merkezinden geçer5. Uygulama: Üçgenin Çevrel Çemberini Çizm 
+ 
+Bir üçgenin köşelerinden geçen çembere üçgenin çevrel çemberi denir. 
+Yanda verilen ABC üçgeninin kenar orta dikmelerinin kesim noktası O 
+olsun. Bu durumda |AO| = |BO| = |CO| olduğundan O, çevrel çemberin 
+merkezidir. 
+Bir üçgenin kenar orta dikmeleri çevrel çemberin merkezinden geçerYandaki şekilde O merkezli ve R yarıçaplı çember, ABC üçgeninin çevrel 
+çemberidir. Çevrel çemberin yarıçapı R ile gösterilsin. Üçgenin kenarları, 
+iç açıları ve çevrel çemberinin yarıçapı (R) arasındaki ilişki (sinüs teoremi) 
+aşağıdaki gibi olur. 
+��
+( )
+,
+( )
+,
+( )
+m m m �
+�
+=
+=
+=
+; |BC| = a, |AC| = b, |AB| = c olsun.  
+Çember üzerinde bir P noktası alındığında [BP] kenarı merkezden geçen 
+PCB üçgeni yandaki gibi çizilir. [BP] çap olduğundan 
+(
+)
+m PC\ = 90° olurA ile P açıları aynı yayı gördüğünden 
+��
+( )
+( )
+m m =
+=
+ olurPCB dik üçgenindsisiolu&
+=
+=
+ 
+Benzer şekildsisiv�
+�
+=
+=
+ eşitlikleri yazılır. Buradan 
+sisisi�
+�
+�
+=
+=
+=
+ veya sisisi=
+=
+=
+ elde edilirKöşeleri çember üzerinde bulunan yandaki ABC üçgeninde  
+[BD]⊥[AC], |BD| = 4 cm, |AD| = 3 cm ve |BC| = 7 cm olduğun göre çemberin yarıçap uzunluğunun kaç cm olduğunu 
+bulunuzÇözüABD dik üçgeni 3-4-5 özel üçgeni olduğundan 
+|AB| = 5 cm olurABC üçgeninde sinüs teoremi uygulandığınd( )
+sin =
+ ⇒  
+( )
+sin =
+ olurABD üçgeninde 
+( )
+sin =
+ olduğunda=
+⇒=
+ cm olur26. Örnek 
+A 40°
+60°
+40°
+30°
+65°
+74°
+72°
+40°
+30°
+ 1 2 3 4 5 6 7 8Yandaki ABC üçgeninde 
+(
+)
+°
+m DA=
+\
+,
+[AD]⊥[BC] ve 
+[EC]⊥[AB]  olduğuna 
+göre 
+(
+)
+m CE\  nün 
+kaç derece olduğunu 
+bulunuzYandaki O merkezli 
+çemberd(
+)
+m BA\  = 40° olduğuna 
+göre 
+( )
+m CV  nün kaç 
+derece olduğunu 
+bulunuzYandaki O merkezli 
+yarım çemberd|BO| = |EC|  ve 
+(
+)
+m AB\  = 72° 
+olduğuna göre  
+(
+)
+m BA\  nün kaç 
+derece olduğunu 
+bulunuzYandaki O merkezli 
+çemberd(
+)
+m AB\  = 40° ve 
+(
+)
+m AC\  = 30° olduğuna 
+göre 
+( )
+m AW  nün kaç 
+derece olduğunu 
+bulunuzYandaki O merkezli 
+çemberde A, O, C 
+noktaları doğrusal 
+ve [AD çembere B 
+noktasında teğettir. 
+(
+)
+°
+m CB=
+\
+ 
+olduğuna göre 
+(
+)
+m CA\  nün kaç 
+derece olduğunu 
+bulunuzYandaki O merkezli 
+çemberde d doğrusu 
+çembere C noktasında 
+teğettir. 
+(
+)
+°
+m AB=
+\
+ 
+olduğuna gör(
+)
+m BC\  nün kaç 
+derece olduğunu 
+bulunuzYandaki O merkezli 
+yarım çemberd(
+)
+m CB\  = 20° 
+olduğuna göre  
+(
+)
+m BA\  nün kaç 
+derece olduğunu 
+bulunuzYandaki şekilde AH 
+ve EF, O merkezli 
+çembere sırasıyla  
+B ve E noktalarında 
+teğettir(
+)
+m HB\  = 60° v(
+)
+m CE\  = 40° 
+olduğuna göre 
+(
+)
+m BA\  nün kaç 
+derece olduğunu 
+bulunuz20°
+Alıştırmala 
+ 
+1. Çemberin merkezi ile teğetin değme noktasını 
+birleştiren doğru, teğete diktir. 
+Teğete değme noktasından çizilen dikme çemberin 
+merkezinden geçer2. Bir çembere çemberin dışındaki bir noktadan çizilen 
+teğet parçalarının uzunlukları eşittirYandaki şekilde çemberin dışındaki bir P noktasından 
+O merkezli çembere A ve B noktalarında teğet olan [PA 
+ve [PB çizilir. [PA] ve [PB] birer teğet parçasıdır. 
+Buradan A, B, P noktaları O merkezi ile birleştirilerek 
+AO& ve BP&  elde edilir. Teğet, değme noktasında 
+yarıçapa diktir ve bu dik üçgenlerin hipotenüsleri 
+ortaktır. Her iki üçgende Pisagor teoremi 
+uygulandığınd|AP|2 + r2 = |OP||BP|2 + r2 = |OP|2 ⇒ |AP| = |BP| olur. 
+O hâlde bir çembere çemberin dışındaki bir noktadan 
+çizilen teğet parçalarının uzunlukları eşittirYandaki çemberde A, B, F teğetlerin değme noktalarıdı. P, D, A noktaları ve P, E, B noktaları doğrusaldır|PD| = 5 cm, |DA| = 2 cm ve |PE| = 4 cm olduğuna 
+göre DE uzunluğunun kaç cm olduğunu bulunuzÇözüYandaki şekilde teğet parçalarının uzunlukları eşit 
+olduğunda|PA| = |PB| = 7 cm ⇒ |EB| = 3 cm olur|EB| = |EF| = 3 cm ve 
+|DA| = |DF| = 2 cm olur|DE| = |DF| + |FE| = 3 + 2 = 5 cm olur27. Örnek 
+D D 5.3. Çemberde Teğe5.3.1. Çemberde Teğetin ÖzelliklerUzaklık/UzunluÇember ikonuna tıklayarak A merkezli 
+çemberi ve çemberin üzerinde B noktasını 
+oluşturunuz. 
+Nokta ikonuna tıklayarak çemberin dışında 
+bir C noktası oluşturunuz. 
+Teğet ikonuna, ardından C noktasına ve 
+çembere tıklayınız. C noktasından geçen, 
+değme noktaları D ve E olan iki teğet 
+çizinizDoğru parçası ikonuna tıklayarak A noktasını 
+teğetlerin değme noktasına birleştiren AD 
+ve AE yarıçaplarını çizinizAçı ikonuna, ardından sırasıyla A, D, C ve C, 
+E, A noktalarına tıklayarak değme noktalarındki açıları belirginleştiriniz. 
+Açı ikonuna, ardından sırasıyla D, C, E ve 
+E, A, D noktalarına tıklayarak değme noktalarındak açıları belirginleştiriniz. 
+Merkez noktası ile teğetin değme noktasını 
+birleştiren AD ve AE yarıçaplarının teğete 
+dik olduğuna, 
+merkez açı ile DCE dış açısının ölçüleri 
+toplamının 180° olduğuna, 
+DE yayının ölçüsü ile DCE dış açısının 
+ölçüleri toplamının 180° olduğuna dikkat 
+ediniz. 
+Uzaklık/Uzunluk ikonuna, ardından D ve C 
+noktalarına tıklayarak DC teğet parçasının 
+uzunluğunu; E ve C noktalarına tıklayarak 
+EC teğet parçasının uzunluğunu belirleyiniz. 
+DC ile EC teğet parçasının uzunluklarının 
+birbirine eşit olduğuna dikkat edinizC noktasına tıklayarak imleci 
+sürüklediğinizde  yukarıda bahsedilen 
+özelliklerin korunduğuna dikkat ediniz6. Uygulama: Dışındaki Bir Noktadan Çembere Teğet Çizm 
+ 
+Yandaki |AO|= r yarıçaplı, O merkezli yarım çemberde 
+A, E, B noktaları teğetlerin değme noktalarıdır. 
+|BC| = 12 cm ve |DA| = 3 cm olduğuna göre çemberin 
+yarıçap uzunluğunun kaç cm olduğunu bulunuzÇözüYandaki şekilde [AB] çapı teğete değme noktasında dik 
+olduğundan [OA]⊥[DA] ve [OB]⊥[CB] olur. 
+Çembere C ve D noktalarında çizilen teğet parçalarının 
+uzunlukları eşit olduğundan |CB| = |CE|= 12 cm ve 
+|DA| = |DE|= 3 cm olur[DF]⊥[CB] çizildiğinde DFC üçgeni 9-12-15 özel üçgeni 
+olur. ABFD dikdörtgen olup |DF| = |AB| = 2r olur|DF| = 2r = 12 cm ⇒ r = 6 cm olarak bulunur28. Örnek 
+Yandaki şekilde D, E ve F noktaları ABC 
+üçgeninin iç teğet çemberinin değme 
+noktalarıdır|AD| = (x - 1) birim, |BD| = 5 birim, 
+|BF| = (2x - 1) birim  ve |CE| = (x + 1) birim olduğun göre ABC üçgeninin çevre uzunluğunun 
+kaç birim olduğunu bulunuzÇözüYukarıdaki şekilde 
+|BD| = |BF| ⇒ 2x - 1 = 5 ⇒ 2x = 6 ⇒ x = 3 birim,
+|AD| = |AE| = x - 1 ⇒ |AD| = 3 - 1 = 2 birim,
+|EC| = |FC| = x + 1  ⇒ |CE| = 3 + 1 = 4 birim olur.  BuradaÇ(ABC) = |AD| + |DB| + |BF| + |FC| + |CE| + |AE|
+             = 2 + 5+ 5 + 4 + 4 + 2 = 22 birim olur29. Örnek 
+x + x - 2x - Şekildeki ABC üçgeninin iç teğet çemberinin yarıçap 
+uzunluğu 2 2  cm olarak verilmiştir. |AB| = 10 cm, 
+|BC| = 9 cm  ve |AC| = 11 cm olduğuna göre ABC 
+üçgeninin alanının kaç cm2 olduğunu bulunuzÇözüİç açıortayların kesim noktası iç teğet çemberinin 
+merkezidir. Çemberin merkezi olan O noktası ile 
+AB, AC, BC kenarlarının değme noktaları 
+birleştirildiğinde yarıçap elde edilir. Burada(
+)
+(
+)
+(
+)
+(
+)
+A ABA AOA BOA AO=
++
++
+&
+&
+&
+&
+              
+. colu2 2 2 2 2 2 15 =
++
++
+=
+=
+                 
+30. Örnek 
+Üçgenin İç Teğet ÇemberYandaki şekilde çizilen açıortaylar O noktasında 
+kesişir. Açıortay üzerinden kenarlara indirilen dikme 
+uzunlukları birbirine eşit olduğunda|OD| = |OE| = |OF| = r olur. 
+İç teğet çemberinin merkezi  üçgenin iç açıortaylarının 
+kesim noktasıdır|AD| = |AF|, |BD| = |BE|, |CE| = |CF| olurYandaki şekilde yer alan çember ABC üçgenine 
+D, E, F noktalarında teğettir. 
+Bir üçgenin üç kenarına da teğet olan çemberüçgenin iç teğet çemberi denir. 
+ 
+ 
+Yandaki şekilde O, ABC üçgeninin iç teğet 
+çemberinin merkezidir[DE] // [AB], |AC| = 10 birim, |AD| = 4 birim ve 
+|BE| = 5 birim  olduğuna göre |AB| = x değerinin 
+kaç birim olduğunu bulunuzÇözüİç teğet çemberi özelliğinden [OA] ve [OB] 
+açıortaydır. 
+[DE] // [AB] olduğu için BAO ve AOD iç ters açıları 
+ile ABO ve BOE iç ters açıları oluşur. BEO ve ADO 
+ikizkenar üçgenlerinden |AD| = |OD| = 4 birim ve 
+|OE| = |BE|= 5 birim olurDCE ve ACB benzer üçgenlerinden 
+ADAD=

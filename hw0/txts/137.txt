@@ -1,0 +1,400 @@
+$
+$
+$
+=
+=
+=
+=
+(
+)
+(
+)
+(
+)
+(
+)
+(
+)
+(
+)
+(
+)
+(
+)
+(
+)
+(
+)
+(
+)
+(
+)
+(
+)
+A APA DPA BKA CRA ABA DKA ABRA DPRA ADA BKA ABA DKA ABCD olu+
++
++
+=
++
+=
++
++
+=
++
+=
+&
+&
+&
+&
+&
+&
+&
+&
+&
+&
+(l) ve (ll) numaralı eşitlikler taraf tarafa toplanırs... (l)
+... (ll)
+Dörtgenler ve ÇokgenleDörtgenler ve ÇokgenleYandaki şekilde ABCD paralelkenar olmak üzere 
+,
+NDKA3 $
+=
+=
+ ve 
+(
+)
+A ABCc=
+ olduğuna göre 
+KLMN yamuğunun alanının kaç cm2  olduğunu bulunuzND=
+ ise D=
+ ve N=
+,
+                                  
+KA3 $
+=
+ ise A=
+ ve K=
+ olarak alınırsa 
+ABCD paralelkenarında 
+,
+ACx &
+&
+=
+=
+=
+=
+ yazılabili. Bu durumda 
+,
+ACN=
+=
+=
+ ve K=
+ 
+olur. P=
+ ise hem ABCD paralelkenarının hem de KLMN yamuğunu yüksekliğidir(
+)
+A ABCx x &
+&
+$
+$
+=
+=
+=
+ olur(
+)
+A KLMx x c17 $
+$
+$
+=
++
+=
+=
+=
+ bulunur444444444444 444444444444 ABCD paralelkenarına A? köşegeni çizilir. C?  ile A?, AD&  nin 
+kenarortayları olur. Paralelkenarın köşegenleri birbirini ortaladığından 
+AO=
+ olup P noktası ADC üçgeninin ağırlık merkezidir. Burada D? köşegeni P noktasından geçer. ABC üçgeninde AO=
+ 
+olduğundan 
+(
+)
+(
+)
+A ABA BO=
+&
+&  olur. AD&  nin  tüm köşelerinden  
+kenarortaylar çizildiğinden bu üçgenin alanı 6 eş parçaya ayrılmıştırA? köşegeni paralelkenarı eş alanlı iki parçaya ayırdığından 
+(
+)
+(
+)
+A ADA AB=
+&
+&  ve bu durumda alanla şekildeki gibi olur(
+)
+A ABCc&
+&
+=
+=
+=
+ ve buradan 
+(
+)
+A DKPc2 $
+=
+=
+=
+ bulunurYandaki şekilde verilen ABCD paralelkenarının alanı 
+c2  dir. K ve 
+L noktaları paralelkenar üzerinde olup A, P, L ve K, P, C noktaları doğrsaldır. AK=
+ ve DL=
+ olduğuna göre DKPL dörtgeninin 
+alanının kaç cm2  olduğunu bulunuzDörtgenler ve ÇokgenleDörtgenler ve ÇokgenleİpucBu eşitliğin doğruluğu aşağıdaki gibi gösterilebilirABCD paralelkenarında A? köşegen ve 
+NMA+
++
+=
+@
+@
+@
+"
+,  olmak üzere 
+ND'
+?
+? ve MD'
+?
+? ise 
+(
+)
+(
+)
+A DNOA KBL=
+ 
+olurYanda verilenlere göre MOLC dörtgeni paralelkenardır ve O? 
+köşegen olduğundan 
+(
+)
+(
+)
+A MOA LC=
+=
+&
+&
+ denilebilir. Benzer şekild AKON dörtgeni paralelkenardır ve A? köşegen olduğundan 
+(
+)
+(
+)
+A AOA OA=
+=
+&
+&
+ denilebilir. A? köşegeni ABCD paralelkenarın eş alanlı iki bölgeye ayırdığından 
+(
+)
+(
+)
+A DNOA KBL=
+ olurD? na paralel ve R noktasından geçecek şekilde T? çizilir. Bu durumd ASRT paralelkenarında 
+(
+)
+(
+)
+A ASA RTc=
+=
+&
+&
+ ve PRNC 
+paralelkenarında  
+(
+)
+(
+)
+A PRA NCc=
+=
+&
+&
+ olur. A.A. benzerliği ile 
+ASCP+
+&
+&  dir. Benzer üçgenlerin alanları oranı benzerlik oranının karesin eşit olduğundan 
+(
+)
+(
+)
+A CPA AS1 =
+=
+= &
+&
+ yazılabilir. Bu durumda benzerlik oranı 1  
+dir. O hâlde 
+,
+AP=
+=
+ yazılabilir. Buradan TD=
+=
+ olurAD&  yandaki gibi çizilirse TD'
+?
+? olduğundan ATAD+
+&
+&  dir 
+ve benzerlik oranı DT=
+=
+ olur. 
+Alanları oranı ise =
+ olduğundan 
+(
+)
+A ADc9 $
+=
+=
+&
+ olurSonuç olarak 
+(
+)
+(
+)
+A ABCA ADc2 $
+$
+=
+=
+=
+&
+ bulunurYandaki şekilde ABCD paralelkenar olmak üzere A? köşegendir. 
+,
+AS+
+=
+?
+?
+"
+,  
+,
+,
+DA!
+!
+?
+?
+,
+(
+)
+ASA ASc'
+=
+?
+?
+&
+ ve 
+(
+)
+A PRc=
+&
+ olduğuna göre 
+ABCD dörtgeninin alanının kaç cm2  olduğunu bulunuzDörtgenler ve ÇokgenleDörtgenler ve Çokgenle1. 
+ 
+Yukarıdaki şekilde verilen ABCD paralelkenarınd DA+
+=
+?
+?
+"
+,  olup A, K, L, P  ve B, 
+C, P noktaları doğrusal ve B@ köşegendir. 
+Ac=
+ ve Kc=
+ olduğuna göre 
+LP  nun kaç cm olduğunu bulunuz2.  
+Yukarıdaki şekilde verilen ABCD paralelkenarınd E noktası paralelkenar üzerindedi. 
+,
+Ac=
+  
+,
+(
+)
+(
+)
+m DAm BA=
+%
+%
+ 
+(
+)
+(
+)
+m CBm AB=
+%
+%  olduğuna göre ABCD 
+paralelkenarının çevresinin kaç cm olduğunu 
+bulunuz3. 
+ 
+  
+Yukarıdaki şekilde verilen ABCD paralelkenarınd E noktası B? köşegeni üzerindedir. 
+,
+Ec2 =
+ 
+;
+Ac=
+ BE=
+?
+? 
+ve 
+(
+)
+m DA=
+%
+ olduğuna göre 
+(
+)
+m ED% nün 
+kaç derece olduğunu bulunuz4. 
+ 
+Yukarıdaki şekilde verilen K, L, P, R, S, 
+T, N ve E noktaları ABCD paralelkenar üzerindedir,
+DKLP=
+=
+=
+ 
+ARSTNE=
+=
+=
+=
+=
+      
+ve 
+(
+)
+A SNPc=
+ olduğuna göre ABCD 
+paralelkenarının alanının kaç cm2  olduğunu 
+bulunuz 5. 
+Yukarıdaki şekilde verilen ABCD paralelkenarınd 
+(
+)
+m AD=
+%
+ ve paralelkenarın 
+alanı 
+c2  olduğuna göre AA$
+ nun 
+değerini bulunuz 6. 
+Yukarıdaki şekilde verilen F, M, E noktalar ABCD paralelkenarı üzerinde olup N, K 
+noktaları M? , L noktası B?,  N noktası 
+B? ve K, L noktaları F? üzerindedir. 
+BE=
+; 
+(
+)
+A ABc=
+&
+, 
+(
+)
+A LBc=
+&
+, 
+(
+)
+A FNc=
+&
+ ve 
+(
+)
+A ABCc=
+ olduğuna göre KLM üçgenini alanının kaç cm2  olduğunu bulunuz2 ALIŞTIRMALADörtgenler ve ÇokgenleDörtgenler ve ÇokgenleİpucEşkenar Dörtgen ve ÖzelliklerYandaki şekilde K noktası ABCD eşkenar dörtgeninin üzerinde ve K! @ dır. 
+ALB=
+=

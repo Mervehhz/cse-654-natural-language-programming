@@ -1,0 +1,400 @@
+)
+)
+)
+)
+)
+x d3 2 $
+=
+-
+=
+:
+:
+]
+]
+#
+olduğuna göre +
+]
+]
+g toplamı kaçtır?
+)
+)
+)
+)
+)
+-
+-
+-
+-
+-
+Yukarıda f = ] g fonksiyonunun grafiği 
+verilmiştirBuna göre 
+x d-
+l]
+#
+ ifadesinin değer kaçtır?
+)
+)
+)
+)
+)
+-
+-
+-
+-
+-
+ddd=
+=
+=
+-
+:
+:
+:
+#
+#
+#
+olduğuna göre 
+-
+d-
+#
+ ifadesini a, b ve c türünden eşiti aşağıdakilerde hangisidir?
+)
+)
+)
+)
+A B E +
+-
+-
+-
+-
++
++
+-
++
+)
+-
+-
++
+İntegra,
+f is=
+-
+, is$
+] )
+biçiminde tanımlı f ] g fonksiyonu veriliyorBuna göre 
+f x d] #
+ ifadesinin değeri 
+kaçtır?
+)
+)
+)
+)
+)
+d-
+#
+ifadesinin değeri kaçtır?
+)
+)
+)
+)
+)
++
+f =
+]  fonksiyonun grafiği,
+=
+ doğrusu ve eksenler arasında 
+kalan sınırlı bölgenin alanı kaç birimkaredi?
+)
+)
+)
+)
+)
+-
++
+dd=
+=
+:
+:
+#
+#
+olduğuna göre -
+ farkı kaçtır?
+)
+)
+)
+)
+)
+-
+-
+Yukarıdaki f = ] g fonksiyonunun grafiği 
+verilmiştir    
+f x df d=-
+=
+:
+:
+]
+]
+#
+#
+ 
+ve 2  bulundukları bölgelerin alanlar olduğuna göre A1  kaç birimkaredir?
+)
+)
+)
+)
+)
+f =
+-
++
+]  fonksiyonunun grafiğ, ve =
+=
+ doğruları ile x eksen arasında kalan sınırlı bölgenin alanı 
+kaç birimkaredir?
+)
+)
+)
+)
+)
+Yukarıdaki f ve g ]
+]
+g fonksiyonlarının 
+grafikleri verilmiştir,
+ve 3  alanları sırasıyla 3, 2 ve 
+4 birimkare olduğuna göre aşağıdakilerde hangisi yanlıştır?
+)
+)
+)
+)
+)
+f g x dg f x df g x df g x df g x d-
+=
+-
+=-
+-
+=
+-
+=
+-
+=
+]
+]
+]
+]
+]
+]
+]
+]
+]
+]
+@
+@
+@
+@
+@
+#
+#
+#
+#
+#
+Matematik 49. ve 50. üst düzey beceri sorularını şekle 
+ve metne göre cevaplayınızE) 46-48. üst düzey beceri sorularını şekle 
+ve metne göre cevaplayınızBir mühendis şekildeki gibi alt ve üst sınırları paraboli olacak şekilde betondan bir köprü planı 
+çizmiştir. Mühendis koordinat sisteminde 1 birimi 
+1 metre kabul ederek ölçeklendirip aşağıdaki çizim yapmıştır. 
+Bu köprü plana uygun olarak yapıldığına 
+göre;
+Köprünün yan yüzeylerinin metrekare fiyatı 
+10 TL olan kaplama malzemesi ile kaplanmas durumunda kaplama maliyeti kaç TL 
+olur?
+Yol 8 metre genişliğinde yapılacaktır. Bu 
+köprü için metreküp fiyatı 150 TL olan beto kullanılması durumunda beton maliyeti 
+kaç TL olur?
+f = -
++
+^ = -
++
+^ "
+Bu yeşil alan, Riemann alt toplamı mantığıyl hesaplanırsa yaklaşık olarak kaç metrkare bulunur?
+Bu yeşil alan, Riemann üst toplamı mantığıyl hesaplanırsa yaklaşık olarak kaç metrkare bulunur?
+Bu alanı yeşillendirmek için metrekaresi 8 TL 
+olan hazır çim kullanılacağına göre bu alanın 
+yeşillendirme maliyeti hangi fiyatlar arasında 
+olur?
+Bir parkta düz bir zemine  şekildeki gibi bir yeşil 
+alan yapılacaktır. Yeşil alanın en geniş yeri 40 
+metre ve en dar yeri 24 metre olacaktır. Şekilde 
+gösterilen tüm aralıklar eşit ve ikişer metre olduğna göre;
+30 34 38 40 38 34 30 26 24 26 30 İntegraBir eğrinin altında kalan alan ..................... 
+toplamı yardımıyla yaklaşık olarak hesaplanabili. 
+Bir f fonksiyonunun a ve =
+=
+]  
+doğruları ile x ekseni arasında kalan ala.................................... integrali ile hesaplanıİki fonksiyonun toplamının integrali 
+........................... toplamına eşittirYukarıdaki boyalı bölgenin alanı 
+...................... integrali ile hesaplanıra-
++
+dIx dIIdIdadd$
+-
++
++
++
+-
+]
+]
+#
+#
+#
+#
+#
+#
+)
+)
+)
+)
+)
+)
+)
+)
+-
+-
+IIIIIIIVVA) 1-4. cümlelerde boş bırakılan yerlere  
+     uygun ifadeleri yazınız 
+B) 5. soruda numaralar ile verilen ifadeleri        
+     harf ile verilen ifadelerle eşleştirinizx d$
+$
+l#
+ ifadesinin eşiti nedir?
+-
+d-
+#
+ ifadesinin eşiti nedir?
+d$
+l#
+ ifadesinin eşiti nedir?
+x dl^
+#
+ ifadesinin eşiti nedir?
+Yukarıda f = ] g fonksiyonunun grafiği 
+verilmiştir. Buna göre boyalı bölgenin alannı veren integral ifadesi nedir?
+C) 6-11. açık uçlu soruları cevaplandırınızAşağıda numaralarla verilen belirli integralleri değerlerini bularak harf ile verilen sonuçlarl eşleştirinizYukarıda f =
++
++
+]  fonksiyonunu grafiği verilmiştir. Buna göre 
+,
+0 @ aralığ 4 eşit alt aralığa bölünerek hesaplanan 
+Riemann alt toplamı kaçtır?
+Ölçme ve Değerlendirme Matematik 12 Aşağıdaki eşitliklerden hangisi yanlıştır?
+-
+-
+)
+dx f f x d f x dx t dx $
+$
+$
+$
++
+=
++
+=
++
+)
+A =
+)
+B d=
+)
+=
++
+)
+^
+^ ]
+]
+^
+]
+]
+]
+g#
+#
+#
+f x d-
++
+-
+=
+] #
+ 
+olduğuna göre f ] g fonksiyonunun ekstremu noktasının ordinatı kaçtır?
+)
+)
+)
+)
+)
+-
+-
+af x d-
++
++
+=
+] #
+ 
+eşitliğini sağlayan f  fonksiyonunun 
+=-  apsisli noktasında bir yerel 
+maksimumu olduğuna göre yerel minimu noktasının ordinatı kaçtır?
+)
+)
+)
+)
+)
+-
+-
+-
+ifadesinin eşiti aşağıdakilerden hangisidi?
+)
+)
+)
+)
++
++
++
++
+)
++
+x x d#
+D) 12-36. çoktan seçmeli soruları çözünüz  
+     ve doğru seçeneği işaretleyinizifadesinin eşiti aşağıdakilerden hangisidi?
+)
+)
+)
+)
+)
+A B C +
++
+-
++
+-
++
+-
++
+)
++
+)
+)
+)
+g f g g f +
+-
+-
+-
+-
++
+-
++
+)
++
+]
+]
+]
+]
+]
+]
+]
+]
+]
+]
+g g x d$
+$
+-

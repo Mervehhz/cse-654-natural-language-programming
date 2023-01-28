@@ -1,0 +1,400 @@
+-
+=
+=
+(
+)
+(
+)
+(
+)
+(
+)
+-
+-
+-
+-
+-
+- - -
++
+=
++
+ 
+= 3 − 5 + 2 + 6 
+= −2 + = 6 olur. 
+Matematik 3. BölüÜslü İfadeler ve Denklemle2- Aşağıdaki eşitliklerden hangileri doğrudur?
+I=
+II+
+=
++
+III=
+IV . 
+ = 
+2 ÇözüI. 
+n 
+m = nr 
+m.r 
+sayının üssü aynı sayı ile çarpılırsa köklü ifadenin değeri değişmez. 
+olu2 =
+=
+ Bu durumda I. ifade doğrudur. 
+IIvn=
+=
+n  özelliği gereğince kök içindeki sayı rasyonel üs ile ifade 
+edilir. 
++
+=
++
+ ifadesi doğrudur. 
+IIIa =
+ kök dereceleri aynı olan ifadeler çarpılırken kök içleri çarpılır,
+ortak kök altında yazılır. 
+3 =
+=
+ olmalıdır. Bu durumda 
+=
+ifadesi yanlıştır. 
+IV . 
+ = ifadesinde kök dereceleri eşitlenirs3  . 
+ = 
+2   olur. O hâlde ifade doğrudur3-
+ifadesinin eşitini bulalım. 
+ÇözüKök derecesi eşit olan köklü ifadelerde kök içindeki sayılar çarpılıp ortak kök altınd yazılır9 =
+=
+=
+         (Kök derecesi eşit olan ifadeler ortak kök altında bölünür.)
+olu=
+=
+=
+özelliği gereğince köklü ifadenin kök derecesi ve kök içindekMatematik 3. BölüÜslü İfadeler ve Denklemle4-
++
++
+ işleminin sonucunu bulalımÇözü(
+)
+bulunu27 125 8 +
++
+=
++
++
+=
++
++
+=
++
++
+=
++
++
+ALIŞTIRMALA1-
+(
+)
+(
+)  
+(- )-
+-
+-
++
+ işleminin sonucu kaçtır?
+2-
+4 2 27  işleminin sonucu kaçtır?
+3- 
+–
++
++
++
+işleminin sonucu kaçtır?
+4- Aşağıda verilen sayılardan hangileri gerçek sayıdır?
+I5 -
+II-
+III-
+IV3 -
+-
++
+.(             )
+Matematik 3. BölüÜslü İfadeler ve DenklemlePaydayı Rasyonel YapmÇarpımları rasyonel olan iki köklü ifadenin her biri diğerinin eşleniği ile 
+çarpılarak kökten kurtarılır. 
+a ŒR+, m, nŒZ+,n > m ve n ≥ 2 olmak üzere,   n am ifadesinin eşleniği    n a –
+n m  dir. 
+ ifadesinin paydasını rasyonel yapmak için pay ve payda 
+an –  ile çarpılır. 
+Örneğin;
+=
+=
+ ,
+olu=
+=
+=
+=
+-
+-
+ 
+BİLGİ KUTUSa, b ŒR+ olmak üzere, 
++
+ ifadesinin eşleniği 
+-
+ olup 
+(
+).(
+)
+(
+)
+(
+)
+b di-
+-
+-
++
+=
+=
+ÖRNEKLE1- 2 –
+ifadesinin paydasını rasyonel yapalım. 
+Çözü2 –
+ ifadesinin paydasını kökten kurtarmak için 2 –
+ in eşleniği ile 
+pay ve paydayı çarpalım. 
+((
+).(
+)
+(
+)
+(
+)
+(
+)
+(
+)
+(
+)
+(
+)
+(
+)
+di2 2 2 10 2 2 10 2 4 10 2 10 2 2 2 -
+-
+-
+-
+=
++
++
+=
++
+=
++
+=
++
+=
++
+)
++
+Matematik 3. BölüÜslü İfadeler ve Denklemle2- 
+-
+-
++
++
+ işleminin sonucunu bulalımÇözü-
+-
+-
+-
+-
+-
+( )
+.(
+)
+( )
+.(
+.(
+)
+.(
+.(
+)
+.(
+26 13 26 13 2 2 2 -
+-
+-
+-
+-
+-
+-
+-
+-
++
++
+=
++
+=
++
+=
++
+=
++
++
+=
++
+=
+(
+)
+(
+)
+(
+)
+-4+
+^
+^
+^
+BİLGİ KUTUS!
+ ifadesinde a = x + y, b = x . y olmak üzere,  
+!
+=
++
+|
+|
+-
+-
+=
+  dir. 
+3-    10 -2 -
++
+1 +
+2 21 işleminin sonucunu bulalımÇözü21 = 3 . 7 ⇒ x + y = 10 
+x = 7,   y=3 tür
+x . y = O hâlde 
+|
+|
+10 2 2 –
+–
++
++
+=
++
++
+di=
++
++
+=
+–
+4 + 13 )
+)
++ 4 + 13 )
+Matematik 3. BölüÜslü İfadeler ve DenklemleKöklü İfadelerle SıralamKök derecesi eşit olan köklü ifadelerde, kökün içi büyük olan köklü sayı diğerlerinde daha büyüktürÖrneğin; 
+,
+,
+,
+-
+-
+ 
+sayılarının 
+büyükten 
+küçüğe 
+doğru 
+sıralanışı 
+,
+,
+,
+-
+-
+ şeklindedirÖrne,
+,
+ sayılarını küçükten büyüğe doğru sıralayalım. 
+ÇözüVerilen köklü sayıları sıralamak için önce kök derecelerini eşitlemeliyiz. Kök derecelerin 8 de eşitleyelim. 
+olu1 2 1 4 =
+=
+=
+=
+=
+=
+ALIŞTIRMALA1- 
+2- 
+-
++
+ işleminin sonucu kaçtır?
+3- 
++
+10  +
+ işleminin sonucu kaçtır? 
+7 + 2  6  +    7   2   6   i şleminin sonucu kaçtır? 
+5 ,  b=
+a=
+4-
+3 9 ,  z =
+6 42  sayılarını küçükten büyüğe sıralayınız<
+8 <
+8 <
+8 <
+4 3  tür-
+-
+Matematik 3. BölüÜslü İfadeler ve DenklemleKöklü DenklemleKöklü ifade içeren denklemlerin çözümünde şu yöntemler uygulanabilir:
+•
+Köklü ifade yalnız bırakılıp, eşitliğin her iki yanının kök derecesi kadar üss 
+alınır•
+Köklü ifadeye başka bir değişken verilerek denklem yeni değişkenle tekrar yazılırÇözüm yapılırÖrneğin;
++ = dekleminde  
+x  yalnız bırakılır. 
+x = 5 − 2 ⇒
+x  = 3 olur. Köklü ifadeni derecesi 2 olduğu için eşitliğin her iki yanının 2. kuvveti alınır(
+x  )2 = 32    ⇒   x = 3 bulunurÖRNEKLE1-
+=
+eşitliğini sağlayan x i bulalımÇözü2 =
+=
+=
+ 
+    (Her iki tarafın 6. kuvvetini alıp x i kökten kurtaralım. )
+&
+=
+=
+=
+^
+^
+ 
+         (Köklü sayının üslü sayıya dönüşebilme özelliği)
+ x = 22   ⇒  x = 4 bulunur2- -
+=
+-
+ denklemini sağlayan x i bulalımÇözü–
+=
+-
+ denkleminde 
+=  dönüşümü uygulayalımolu–
+–
+ 
+ 
+ 
+ 
+ 
+ 
+)
+ 
+ 
+ 
+ 
+=
+(
+2 2 =
+=
+-
+-
+-
+^
+(Üslü denklemlerde tabanlar eşit ise üsler de eşittir.)
+  2 (6 - t) = 12 -  2t    = 12 = 3t ⇒    t = 4 tür.(   x =t)
+bulunu&
+&
+=
+=
+=
+^
+ 
+= 
+Matematik 3. BölüÜslü İfadeler ve Denklemle3-
+=
+-
+ denklemini sağlayan x i bulalım. 
+Çözü=
+-
+  (Her iki tarafın 3. kuvvetini alalım)
+5 3 &
+-
+=
+- =
+^
+^
+bulunu&
+= +

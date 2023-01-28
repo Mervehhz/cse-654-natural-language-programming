@@ -1,0 +1,400 @@
+taolu=
+=-
+l] f fonksiyonunun =
+ apsisli noktasında bir ekstremum noktası olduğundan =
+l]  olur&
+f aba=
+-
++
+-
+=
+-
++
+]
+]
+taolu&
+&
+=
+-
++
+=-
+-
+=
+l]
+]
+(1) ve (2) denklemleri ortak çözülürs                                                    
+Bu durumda +
+=
+ bulunur-
+=
+-
++
+-
+=
+&
+olu=
+=
+&
+olu2 $
+=
+-
+=
+=
+&
+=
+-
++
+=
+olu&
+-
+=
+l]
+]
+Yanda f = ] g fonksiyonunun türevinin grafiğ verilmiştir. Buna göre f  fonksiyonunun 
+yerel maksimum ve yerel minimum noktalarını apsislerini bulunuzf fonksiyonunun türevinin işaret tablosu incelenirse 
+Yerel maksimum noktasının apsisi 2 oluryerel minimum noktalarının apsisleri 
+v-
+ olur:
+:
+-
+ÖRNEÖRNEÇÖZÜÇÖZÜMatematik Yanda f = ] g fonksiyonunun türevinin grafiğ verilmiştirBu grafiğe görI.   f fonksiyonu 
+,
+1 ^
+h nda azalandırII. 
+di-
+-
+-
+III. f fonksiyonunun 
+,
+ve =-
+=
+=
+ noktalarında yerel minimumu vardırIV. f fonksiyonunun 3 tane ekstremum noktası vardırifadelerinden hangilerinin doğru olduğunu bulunuzf fonksiyonunun türevinin işaret tablosu 
+incelenirse fonksiyonu3 ,
+,
+v0 -
+-
+]
+?
+@ nda azala,
+,
+v4 4 -
+@
+ nda artan 
+olduğu görülürI. 
+,
+1 ^
+h aralığı f fonksiyonunun azalan olduğu 
+,
+0 @ nın alt kümesi olduğundan f fonksiyonu 
+,
+1 ^
+h nda azalandırII. 
+,
+v-
+-
+-
+ noktaları f fonksiyonunun artan olduğu  
+,
+4 -
+@ alt aralığında bulundukla-  
+    rından 
+olu-
+-
+-
+III. f fonksiyonunun türevinin işaret tablosu incelendiğinde ve =-
+=
+ apsisli noktalarında 
+yerel minimum noktası vardırIV. f fonksiyonunun türevinin işaret tablosu incelendiğinde 
+,
+ve =-
+=
+=
+ apsisli 
+noktalarında olmak üzere 3 tane ekstremum noktası vardırBu durumda  I , II ve IV doğrudur-
+ÖRNEÇÖZÜTüre1. Adım:
+2. Adım:
+3. Adım:
+4. Adım:
+5. Adım:
+f =
+-
+-
++
++
+]  
+fonksiyonunun grafiğini Dinamik Geometri ve Matematik Yazılımı programında çizerek fonksiyonu ekstremum noktalarını ve değerlerini araştırınızEkrana gelen görüntüdeki giriş kısmına -
+-
++
++
+ yazıldığında grafik 
+çizilirGiriş kısmına f’ yazılır ve enter tuşuna basılırsa türev fonksiyonu ve grafiği görüntülenirGiriş kısmına kök yazılır ekranda görünen kök ( < polinom > ) seçilir ve kök ( f’ ) biçiminde 
+yazılarak enter tuşuna basılırsa f fonksiyonunun türevinin kökleri cebir penceresinde ve 
+grafikte görünürTürevin grafiğinin ve köklerinin grafikte görünmemesi için giriş kısmında yanlarındaki : 
+simgelerine tıklayarak görünmez yapınız ve sol üstteki ok simgesine tıklayınızTürevin kökleri olan 
+,
+ve =-
+=
+=
+ fonksiyonun ekstremum noktalarının apsisler olacağından giriş bölümüne tek tek  
+,
+,
+,
+,
+v-
+-
+^
+]
+^
+]
+^
+]
+gggh yazılarak 
+fonksiyonun ekstremum noktaları cebir penceresi ve grafik üzerinde görüntülenirGrafik incelenirs 
+,
+1 -
+^
+h noktasınının mutlak minimum noktası ve mutlak minimum değerinin 5,
+ 
+,
+1 ^
+h noktasınının yerel maksimum noktası ve yerel maksimum değerinin 37 v 
+,
+2 ^
+h noktasınının yerel minimum noktası ve yerel minimum değerinin 32 olduğu görülürAyrıca 
+,
+ve =
+=
+=
+ doğruları giriş kısmına tek tek yazılır ve grafikleri çizilirse bu 
+doğruların fonksiyonun grafiğine ekstremum noktalarında teğet olduğu görülür. 
+Dinamik Geometri ve Matematik Yazılımı programını açınızÖRNEÇÖZÜMatematik Yukarıda 
+,
+4 -
+@ nda tanımlı f = ] g 
+fonksiyonunun grafiği verilmiştir. Buna 
+göra) f fonksiyonunun yerel minimum noktala- 
+    rının apsislerini bulunuzb) f fonksiyonunun yerel maksimum nokta- 
+    larının apsislerini bulunuzc) f fonksiyonunun mutlak maksimum ve  
+    mutlak minimum noktalarının apsislerinin 
+    toplamını bulunuzç) f fonksiyonunun mutlak maksimum      
+    değeri ile mutlak minimum değerinin    
+    farkını bulunuz"
+,
+f |
+=
+-
++
+-
+]  
+fonksiyonunun ekstremum noktalarını bulunu"
+,
+f mn|
+=
+-
++
+-
+]  
+fonksiyonunun ekstremum noktalarından 
+biri 
+,
+1 -
+^
+h olduğuna göre diğer ekstremu noktasını bulunuz"
+,
+f ab|
+=
++
+-
+-
+]  
+fonksiyonunun grafiğine =-  apsisli 
+noktasından çizilen teğeti, x ekseni ile 
+pozitif yönde 45c lik açı yapmaktadır. 
+f fonksiyonunun =
+ apsisli noktasında 
+bir ekstremumu olduğuna göre b  oranını 
+bulunuzYukarıda f = ] g fonksiyonunun türevinin 
+grafiği verilmiştir. Buna göra) f fonksiyonunun yerel minimum noktala- 
+    rının apsislerini bulunuzb) f fonksiyonunun yerel maksimum nokta-  
+    sının apsisini bulunuz"
+,
+f |
+=
+-
++
++
+]  
+fonksiyonunun yerel minimum değeri 22  
+olduğuna göre k değerini bulunuz AlıştırmalaTüre5.3.3.  Türev Yardımıyla Bir Fonksiyonun Grafiğinin ÇizimBir fonksiyonun grafiği çizilirken tanım kümesine dikkat edilmelidir. Bu bölümde yalnızca 
+polinom fonksiyonlarının grafikleri çizileceğinden polinom fonksiyonlarının en geniş tanı kümesi olan gerçek sayılar kümesinde grafik çizimi yapılacaktırFonksiyonun eksenleri kestiği noktalara bakılmalıdır. f =
+]  denkleminin tek katlı köklerind grafik x eksenini keserken çift katlı köklerinde x eksenine teğet olacaktırFonksiyonun türevi yardımıyla varsa ekstremum noktaları bulunmalı ve artan ile azalanlı durumları incelenmelidirf =
+-
+]   fonksiyonunun grafiğini çizinizÖncelikle fonksiyonun eksenleri kestiği noktalar araştırılır&
+&
+&
+veya veya ift kat k &
+&
+$
+=
+=
+=
+-
+=
+-
+=
+=
+-
+=
+=
+=
+]
+]
+<
+(y eksenini 
+,^
+h noktasında keser.)
+(x eksenini 
+,
+3 ^
+h noktasında keser.)
+(x eksenine 
+,^
+h noktasında teğettir.)
+f fonksiyonunun artan ve azalan olduğu aralıklar ile ekstremum noktaları incelenirse                  
+&
+veya olu=
+=
+& $
+=
+&
+&
+f =
+-
+=
+-
+=
+-
+=
+-
+]
+]
+]
+]
+f ] g fonksiyonunun türevinin işaret tablosuna gör,
+,
+f fonksiyonv-
+:
+^
+?
+ nda artandır,
+f fonksiyonu 0 :
+@ nda azalandırf fonksiyonunun =
+: ]  da bir maksimumu vardır 
+    ve maksimum değeri f =
+]  olurf fonksiyonunun =
+: ]  de bir minimumu vardır 
+    ve minimum değeri f =-
+]  olur  
+Bu bilgilere göre   f =
+-
+]  fonksiyonunun 
+grafiği yandaki gibi çizilir-
+ÇÖZÜÖRNE{
+{
+{
+Matematik f fonksiyonunun artan ve azalan olduğu aralıklar ile ekstremum noktaları incelenirse 
+&
+olu=
+-
++
++
+&
+f f =
+-
+=
+-
+-
+]
+]
+]
+]
+&
+&
+&
+veya olu=
+-
+=
+=
+=-
+=
+l] f ] g fonksiyonunun türevinin işaret tablosuna gör,
+,
+f fonksiyonv-
+-
+:
+^
+?
+  nda artandır,
+f fonksiyon1 -
+:
+@ nda azalandırf fonksiyonunun =-
+: ]  de bir maksimumu vardır ve maksimum değeri -
+=
+]
+ olurf fonksiyonunun =
+: ]  de bir minimumu vardır ve minimum değeri f =-
+]  olur  
+Bu bilgilere göre  
++
++
+f =
+-
+]
+]
+i  fonksiyonunun grafiği aşağıdaki gibi çizilir+
++
+f =
+-
+]
+]
+i fonksiyonunun grafiğini çizinizÖncelikle fonksiyonun eksenleri kestiği noktalar araştırılır+
++
+&
+&
+&
+&
+&
+veya veya ift kat k =
+=-
+=
+-
+=
+-
++
+=
+-
+=
++
+=
+=
+=-
+]
+]
+]
+]
+]
+1 2 444 (y eksenini 
+,
+0 -
+^
+h noktasında keser.)
+(x eksenini 
+,
+2 ^
+h noktasında keser.)
+(x eksenine 
+,
+1 -
+^
+h noktasında teğettir.)

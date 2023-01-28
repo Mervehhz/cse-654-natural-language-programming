@@ -1,0 +1,400 @@
+=
++
+=
++
+=
+-
++
+=
+-
++
+=
+Dörtgenler ve ÇokgenleDörtgenler ve ÇokgenleİpucBu eşitliğin doğruluğu aşağıdaki gibi gösterilebilirYandaki şekilde verilen ABCD ve EFGH birer karedir. Ac=
+ ve 
+Ec=
+ olduğuna göre boyalı bölgenin alanının kaç cm2  olduğunu bulunuzABCD karesinin alanı 
+(
+)
+A ABCcolu=
+=
+ EFGH karesinin alanı ise 
+(
+)
+A EFGcolu=
+=
+ Boyalı bölgenin alanını bulmak için ABCD karesinin alanından EFGH 
+karesinin alanı çıkarılırsa 
+c-
+=
+ bulunur Yandaki şekilde verilen bir kenarı a birim olan ABCD karesinin 
+alanı 
+(
+)
+A ABCa=
+ birimkaredirKare aynı zamanda bir dikdörtgen olduğunda(
+)
+A ABCABa a$
+$
+=
+=
+=
+ birimkare bulunurYandaki şekilde verilen ABCD bir dikdörtgen ve içinde kenar 
+uzunlukları 3 cm, 5 cm ve 7 cm olan kareler verilmiştir. 
+Buna göre boyalı bölgenin alanının kaç cm2  olduğunu 
+bulunuzDcm ve Bc=
+=
+ olduğundan 
+(
+)
+A ABCc7 $
+=
+=
+olur. Dikdörtgen içindek karelerin alanları sırasıyla 
+c2 , 
+c2  ve 
+c2  olur. Buradan boyalı bölgenin alanı 
+(
+)
+c-
++
++
+=
+ olurDörtgenler ve ÇokgenleDörtgenler ve ÇokgenleYandaki şekilde verilen ABCD karesinde Kc=
+ ve Kc=
+ dir. 
+A, K ve C noktaları doğrusal olduğuna göre ABCD karesinin alanının kaç cm2  
+olduğunu bulunuzYandaki şekilde ABCD kare ve ABK eşkenar üçgendir. 
+(
+)
+A DAc=
+&
+ 
+olduğuna göre ABCD karesinin alanının kaç cm2  olduğunu bulunuz5 B? çizilir ve L=
+ denilirse köşegenler birbirini dik ortaladığından  
+LLLL=
+=
+=
+=
++
+ olur. 
+ LBK dik üçgeninde Pisagor teoremi ile 
+-
+(
+)
+(
+)
+(
+) (
+)
+KKLveya olu&
+&
+&
+&
+&
+&
+$
+=
++
+=
++
++
+=
++
++
++
+=
++
++
++
+-
+=
++
+-
+=
+=
+=
+                           
+Uzunluk negatif olamayacağı için c=
+ olarak alınır. 
+Bu durumda LLc=
+=
+ olur. LAB ikizkenar dik üçgen olduğunda ALc5 $
+=
+=
+ olur. Buradan karenin alanı 
+(
+)
+A ABCc5 =
+=
+^
+ bulunurAçılar ve uzunluklar şekildeki gibi yerleştirildikten sonra KA=
+?
+? olacak 
+şekilde bir A! ? seçilir-
+-
+ üçgeni yardımıyla LA=
+=
+ olurBu durumda 
+(
+)
+A DADLa c&
+&
+&
+&
+$
+$
+=
+=
+=
+=
+=
+&
+ elde 
+edilirSonuç olarak 
+(
+)
+A ABCc=
+=
+ bulunurDörtgenler ve ÇokgenleDörtgenler ve Çokgenle1. 
+Yukarıdaki şekilde verilen ABCD karesinde 
+(
+)
+m CBve DE=
+=
+%
+ 
+olduğuna göre 
+(
+)
+m ED%  nün kaç derece olduğun bulunuz2. 
+Yukarıdaki şekilde verilen ABCD karesind E noktası D? köşegeni üzerindedir. 
+Dcm ve Ec=
+=
+ olduğuna göre 
+BE  nun kaç cm olduğunu bulunuz3. 
+Yukarıdaki şekilde verilen ABCD karesinde 
+D! @, EC+
+=
+@
+@
+"
+,  , AE=
+@
+@ 
+ve DEc$
+=
+=
+ olduğuna göre 
+ nun kaç cm olduğunu bulunuz4. 
+   
+Yukarıdaki şekilde verilen ABCD karesinde 
+D, R, S ve P, R, B noktaları doğrusal olup P 
+ve S noktaları bulundukları kenarların orta 
+noktalarıdır. Buna göre 
+(
+)
+(
+)
+(
+)
+A ABCA PDA RS+
+&
+&
+ 
+oranını bulunuz5. 
+ 
+Yukarıdaki şekilde verilen ABCD karesind C! @, 
+,
+Cc=
+ 
+;
+Lc=
+ 
+AD=
+?
+? ve A=
+ olduğuna göre x 
+değerinin kaç cm olduğunu bulunuz. 
+6.  
+Yukarıdaki şekilde bir kenarı 6 cm olan ABCD 
+karesinde E, F, K ve L noktaları kare üzerindedi. Ave B@
+@ üç eşit parçaya ayrılmıştı. EAve MD'
+'
+@
+@
+@
+@ olduğun göre taralı bölgenin alanının kaç cm2  
+olduğunu bulunuzALIŞTIRMALADörtgenler ve ÇokgenleDörtgenler ve ÇokgenleBilg   
+                                              
+Bir ABCD dörtgeninde DB=
+ ve DB=
+ ise bu  dörtgendeltoid denir. Şekildeki ABCD dörtgeni deltoid olmak üzere 
+• 
+AD=
+?
+? 
+• 
+DK=
+ olur• 
+A? köşegeni aynı zamanda açıortaydır• 
+(
+)
+(
+)
+m CDm CB=
+%
+%  olurDeltoid ve ÖzelliklerDeltoidin köşegenlerinden biri diğerini eş uzunlukta iki parçaya ayırmaktadır. Bu durumd DKc=
+=
+ olurDeltoidde köşegenler dik kesiştiğinden CKD ve DKA dik üçgenlerinde Pisagor teorem ile 
+(
+)
+DDKDcm olu5 =
++
+=
++
+=
++
+=
+=
+Benzer şekildDcm olu=
++
+=
++
+=
++
+=
+=
+DBc=
+=
+ ve DBc=
+=
+ olarak bulunur. 
+Buradan 
+(
+)
+ABCDBBDc=
++
++
++
+=
++
++
++
+=
+ olurYandaki şekilde ABCD dörtgeni deltoid, DC=
+, 
+AD+
+=
+@
+@
+"
+, ,
+Ave B@
+@ deltoidin köşegenleri, 
+,
+DcKc5 =
+=
+ ve 
+Kc=
+ olduğuna göre ABCD deltoidinin çevresinin uzunluğunun kaç cm 
+olduğunu bulunuzDörtgenler ve ÇokgenleDörtgenler ve ÇokgenleYandaki şekilde ABCD dörtgeni deltoid olmak üzere DBc=
+=
+ , 
+(
+)
+m DA=
+%
+ ve 
+(
+)
+m DC=
+%
+  olduğuna göre ABCD deltoidinin çevresini uzunluğunun kaç cm olduğunu bulunuzYandaki şekilde verilen ABC üçgeninde B! @, A! @, 
+A! @, DE=
+, 
+,
+AAc=
+=
+ 
+,
+Dc=
+ 
+Fcm ve Bc=
+=
+ olduğuna göre EC  nun kaç cm olduğunu 
+bulunuzADEF dörtgeninde ikişer kenar uzunluğu eşit fakat karşılıklı kenar uzunluklar eşit olmadığından bu dörtgen bir deltoiddir. Bu durumda A? açıortaydıABC üçgeninde A? iç açıortay olduğundan iç açıortay teoremi ilBAEAEEc&
+&
+=
+=
+=
+ bulunurB? çizilirse ABD eşkenar üçgen ve Bc=
+ olur. ABCD dörtgeni 
+deltoid olduğundan 
+DC=
+ ve 
+(
+)
+(
+)
+m CDm CB=
+=
+%
+%
+ olur-
+-
+c üçgeninde 30c lik açının karşısındaki kenar uzunluklarına 
+x cm denilirse 120c lik açının karşısındaki kenar uzunluğu c$
+ olur. 
+Buradac4 &
+&
+$
+=
+=
+=
+ elde edilirSonuç olarak 
+(
+)
+ABCCCBAcm bulunu4 4 8 =
++
++
++
+=
++
++
++
+=
++
+Dörtgenler ve ÇokgenleDörtgenler ve ÇokgenleKöşegenlerinden birinin uzunluğu diğerinin uzunluğunun 3 katı olan bir deltoidin alanı 
+c2  olduğuna 
+göre uzun köşegenin uzunluğunun kaç cm olduğunu bulunuzKısa köşegenin uzunluğu k cm olsun. Buradan uzun köşegenin uzunluğu 3k cm olur. Deltoidin alanı 
+köşegen uzunlukları çarpımının yarısı olduğundan 
+cm olu$
+=
+=
+=
+=
+Buradan uzun köşegenin uzunluğu 
+c3 $
+=
+ olarak bulunurİpucA? ve B? ABCD deltoidinin köşegenleri olmak üzere deltoidin alanı,
+ 
+(
+)
+A ABCAB$
+=
+ olurYandaki ABCD deltoidinde DA=
+@
+@, DC+
+=
+@
+@
+"
+, , CK3 $
+=
+ 
+,
+DCAc=
+=
+ olduğuna göre ABCD deltoidinin alanının kaç cm2  
+olduğunu bulunuzABCD deltoidinde 
+DK=

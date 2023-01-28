@@ -1,0 +1,400 @@
+$
+$
+=
+=
+=
++
++
+=
++
++
+=
++
++
+=
++
++
+=
+]
+]
+lox is=
+ taban değiştirme özelliği gereği 
+lox olu=
+log log v=
+=
+ olduğuna göre log15 ifadesinin x ve y  türünden eşitini bulunuzÇÖZÜÖRNElolo+
+3 ifadesinin değerini bulunuzlolololo1 log 1 log 5 bulunur+
+=
++
+=
++
+=
++
+=
+lololn0,+
++
+ ifadesinin değerini bulunuzlololnlolog ln0 bulunur0,+
+=
++
++
++
+=-
+-
++
+=
+-
+-
+log =
+ olduğuna göre lolo-
+ ifadesinin değerini bulunuzÇÖZÜÇÖZÜÖRNEÖRNEÖRNE,
+,
+,
+olmak üzerolurlom log ve =
+!
+!
+!
+!
+-
++
++
+" ,
+lom log lolololo$
+$
+=
+=
+=
+Matematik ÖZELLİK +
+loglnlog i ifadesinin değerini bulunuzve a,olmak üzere olulog log =
+!
+!
+-
++
++
+" ,
+ 
+loglolog loln ln=
+=
+=
+=
+=
+=
+:
+:
+:
+olulog log lnln2lolololo3 3 $
+$
+:
+:
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
++
+:
+bulunurlololololollollo+
+=
++
+=
++
+=
+=
+=
+ÇÖZÜÖRNEolololo2 6 $
+$
+-
+=
+-
+=
+-
+log log 32 bulunur$
+$
+=
+=-
+-
+ÇÖZÜ&
+0 islolovlog log !
+=
+=
+:
+&
+&
+lolololololololololololololo&
+&
+&
+$
+$
+=
+=
+=
+=
+=
+(Her iki tarafın c tabanında 
+logaritması alınır.)
+SONUvolmak üzer!
+!
+-
++
++
+" ,
+olulolog =
+=
+=
+Aşağıdaki eşitlikleri inceleyiniz1 ise log log =
+=
+=
+:
+Üstel ve Logaritmik 
+FonksiyonlaSONUlog 23 sayısının hangi iki ardışık tam sayı arasında olduğunu bulunuzloglogloglog2 bulunurBuna göre log 23 sayısı 1 ile 2 ardışık tam sayıları arasındadırLogaritmanın tabanı 10 olduğundan 23 sayısının 10 un hangi kuvvetleri arasında olduğu yazıldıkta sonra eşitsizliğin her tarafının 10 tabanında logaritması alınır10 un kuvveti olmayan bir gerçek sayının 10 tabanına göre logaritması ardışık 
+iki tam sayı arasındadırlolog =
+ olduğuna göre m ile n arasındaki ilişkiyi bulunuz,
+lololove =
+=
+=
+ sayılarını küçükten büyüğe doğru sıralayınızlolololoolu&
+&
+&
+Bu durumda küçükten büyüğe sıralama 
+olu&
+&
+lolololo&
+&
+&
+lolololo&
+&
+lolog loglogloglog=
+=
+loglogloglog2log3lologlogbulunur&
+&
+&
+&
+=
+=
+=
+=
+ÇÖZÜÇÖZÜÇÖZÜÖRNEÖRNEÖRNE:
+:
+:
+Matematik f lo=
++
+-
+^
+^
+^
+ fonksiyonunun en 
+geniş tanım kümesindeki tam sayıların toplamın bulunuzlololog ^
+A ifadesinin değerini 
+bulunuzolduğuna göre x in y türünden eşitini bulunulog =
+ olduğuna göre log  ifadesini x türünden eşitini bulunuzlog=
+ olduğuna göre log 250 nin x türünde eşitini bulunuzlog log +
+ toplamının sonucunu bulunulog 7, log log v=
+=
+=
+ 
+sayılarını küçükten büyüğe doğru sıralayınız1 olmak üzer!
+log log log =
++
++
+^
+f lo=
+-
+^
+^
+h olduğuna göre 
+- ^ h 
+fonksiyonunu bulunuzf log (914) fonksiyonunu=
+-
++
+^  
+en geniş tanım kümesini bulunuzlogloglogloglnln25 ifadesini-
++
+ değerin bulunuz.    
+Yukarıda 
+lof =
+^  fonksiyonunun grafiğ verilmiştir. Buna göre +
+^
+k toplamın bulunuz AlıştırmalaÜstel ve Logaritmik 
+Fonksiyonlalog log ifadesini+
+ değerini bulunulog =
+ olduğuna göre ll25   ifadesini a türünden eşitini bulunuzlo49!
+=
+^
+ olduğuna göre 
+!
+lo7^
+h 
+ifadesinin x türünden eşitini bulunuzlog =
+ olduğuna göre 
+,
+lo4 3^
+h ifadesini a türünden eşitini bulunuzf lofonksiyonun=
+-
+-
+^ tanımsız yapan x doğal sayılarını bulunuzlo24lolog +
++
+ 
+ifadesinin değerini bulunuzlog=
+ olduğuna göre ln100 ifadesinin 
+x türünden eşitini bulunuzYukarıda f log =
+^  fonksiyonunun grafiğ verilmiştir. Buna göre a değerini bulunuzf ln 3ve =
+-
+=
+-
+^
+^
+^
+olduğuna göre a değerini bulunuz.                                                        
+olduğuna göre +
+ toplamını bulunuz,
+x !
++  ve !
+ olmak üzere 
+a ve b ardışık iki tam sayı olmak üzere 
+lo olduğuna göre a $
+ 
+çarpımını bulunuzlog (lne )
+ln(log 4)
++
+ işleminin sonucunu 
+bulunuza log $
+=
+=
+=
+:
+:
+:
+Matematik Tabanı 1 den farklı pozitif gerçek sayı olan ve bilinmeyenin üs olarak bulunduğu denklemler üstel denklemler denir. Bu tür denklemlerin çözüm kümelerinin bulunmasında üslü 
+sayıların veya logaritmik fonksiyonların özellikleri kullanılır1.3. ÜSTEL, LOGARİTMİK DENKLEMLER VE EŞİTSİZLİKLE1.3.1. Üstel, Logaritmik Denklemlerin ve Eşitsizliklerin Çözüm KümelerÜstel Denklemle21 =
++
+ denkleminin çözüm kümesini bulunuz=
++
+k  denkleminin çözüm kümesini bulunuz24 =
+-
+ denkleminin çözüm kümesini bulunuz2log 2&
+=
+-
+=
+-
+2log 2log log 2lolololoolur Budurumdbulunu&
+&
+&
+&
+&
+=
+=
+=
+=
++
+=
++
+=
+"
+,
+222 olur. Bu durumda bulunur&
+&
+&
++
+=-
+=-
+=-
+= -
+"
+,
+22&
+=
+=
++
++
+-
+431 olur. Bu durumda bulunur&
+&
+&
++
+=
+=
+=
+= &
+=
++
+ÇÖZÜÇÖZÜÇÖZÜÖRNEÖRNEÖRNEÜstel ve Logaritmik 
+Fonksiyonla7 $
+-
++
+=
+ denkleminin çözüm kümesini bulunuz7 0 denkleminin çözüm kümesini bulunuz$
++
+-
+=
+-
+( x =  dönüşümü yapılır ve 1 olurx =
+-
+)
+887 7 veya 7 vey7 veylolu&
+&
+&
+&
+&
+&
++
+=
+-
+=
+-
++
+=
+-
+-
+=
+=
+=
+=
+=
+=
+]
+]&
+7 $
+$
++
+-
+=
++
+-
+=
+-
+Bu durumda 1,log bulunur= #
+-
+Bu durumda 0,lnbulunur= "
+,
+ÇÖZÜÇÖZÜÖRNEÖRNE=
+-
++  denkleminin çözüm kümesini bulunuzÇÖZÜÖRNE&
+x $
+=
+=
+-
++
+&
+&
+&
+log 12 olur$
+=
+=
+=
+Bu durumda log bulunur= "
+,
+&
+loveya veyveya olu7 7 &
+&
+&
+&
+&
+&
+&
+&

@@ -1,0 +1,400 @@
+)
+)
+)
+-
++
+-
++
+-
+-
+-
+f a=
+-
++
+-
+-
+]  
+fonksiyonu her x gerçek sayısı için sürekl olduğuna göre a aşağıdakilerden 
+hangisi olabilir?
+)
+)
+)
+)
+)
+-
+-
+Yukarıda f = ] g fonksiyonunun grafiği 
+verilmiştirBuna göre f ] g fonksiyonu kaç farklı x 
+değeri için limiti olmasına rağmen sürekl değildir?
+)
+)
+)
+)
+)
+is,
+,
+f aisba=
+-
+=
+-
+, is] [
+\
+]]]]]
+]]]]]
+ 
+biçiminde tanımlı f ] g fonksiyonu her x 
+gerçek sayısı için sürekli olduğuna göre 
+a $
+ çarpımı kaçtır?
+)
+)
+)
+)
+)
++
+-
+f =
+]
+i  
+olduğuna göre l] g değeri kaçtır?
+)
+)
+)
+)
+)
+Yukarıda f = ] g fonksiyonunun grafiği 
+verilmiştir:
+Bu eğriye =-  apsisli noktasındaki         
+      d teğet doğrusu x ekseni ile pozitif yönde    
+     
+li45 açı yapmaktadır:
+Bu eğriye =
+ apsisli noktasındaki k     
+      teğet doğrusu d doğrusuna diktirBuna göre -
+-
+]
+]
+g değeri kaçtır?
+)
+)
+)
+)
+)
+-
+-
+f =
++
+]
+^
+olduğuna göre l] g değeri kaçtır?
+)
+)
+)
+)
+)
+45Türef g =
+-
+=
++
+:
+:
+]
+]
+olduğuna göre f o ^
+]
+g değeri kaçtır?
+)
+)
+)
+)
+)
+-
+-
+-
+=
++
+=
+-
+:
+:
+olduğuna göre ddy  ifadesinin =
+ için 
+değeri kaçtır? 
+)
+)
+)
+)
+)
+-
+f aa=
+-
++
+-
+] fonksiyonunun ekstremum noktası yokturBuna göre a aşağıdakilerden hangisi 
+olamaz?
+)
+)
+)
+)
+)
+Yukarıda f = ] g fonksiyonunun grafiği verilmiştiBuna göre f ] g fonksiyonu aşağıdakilerde hangisi olabilir?
+)
+)
+)
+)
+)
+C D E -
+-
++
+-
+-
++
+-
++
+-
+-
+-
+-
++
+-
+-
+E) 32-34. üst düzey beceri sorularını şekle      
+     ve metne göre cevaplayınızYukarıda doğrusal olarak hareket eden iki hareketliy ait konum-zaman grafikleri verilmiştir. 
+Buna göre;
+32 Bu iki hareketlinin anlık hızları kaçıncı saniyelerd eşit olur?
+33 Anlık hızları ilk kez eşit olduğu ana kadar 
+geçen sürede bu iki hareketlinin ortalama 
+hızları kaç m/sn. dir?
+Bu iki hareketlinin anlık hızlarının eşit olduğ anlar arasında aldıkları yolların oranı 
+kaçtır?
+(
+)
+x metr(
+)
+t saniyg =
++
++
++
+] f =
++
++
+] Matematik Bir fonksiyonun bir noktadaki limiti fonksiyoun o noktadaki görüntüsüne eşit değils fonksiyon o noktada ................değildirBir fonksiyon bir noktada sürekli değilse bu 
+noktada ................... yoktur. 
+                                          
+Bir fonksiyonun sürekli olup türevli olmadığı 
+noktalara  ......................... noktaları denir.           
+Türevlenebilir bir fonksiyonun azalanlıktan 
+artanlığa geçtiği noktalarına fonksiyonunun 
+................  ......................... noktaları denirTürevlenebilir bir fonksiyona bir noktasında 
+çizilen teğetinin eğimi, fonksiyonun o noktdaki .....................değerine eşittirA) 1-5. cümlelerde boş bırakılan yerlere  
+     uygun ifadeleri yazınız. 
+B) 6. soruda numaralar ile verilen ifadeleri  
+     harf ile verilen ifadelerle eşleştirinizYukarıda f = ] g fonksiyonunun grafiği verilmişti. Buna göre aşağıdaki limitleri karşılarındak değerler ile eşleştirinizlililililililif If IIf f f Vf VIf "
+"
+"
+"
+"
+"
+"
+-
+-
+-
+-
+-
++
+-
++
++
+I]
+]
+]
+]
+]
+]
+]
+)
+)
+)
+)
+)
+)
+)
+)
+)
+yoktuç -
+-
+C) 7-17. açık uçlu soruları cevaplandırınızliliaa-
++
+=
++
+-
+=
+"
+"-
+:
+:
+]
+]
+ 
+olduğuna göre a $
+ çarpımı kaçtır?                
+f aa$
+=
+-
++
+-
+,
+,
+isis] *
+biçiminde tanımlı f ] g fonksiyonu veriliyor. 
+lim f =
+"
+]  olduğuna göre a $
+ çarpımı 
+kaçtır?              
+li-
+-
++
+"
+ ifadesinin değeri kaçtır?                     
+,
+f a is=
+-
+-
+-
+, $
+is] *
+ 
+biçiminde tanımlı f ] g fonksiyonu =
+noktasında sürekli değildir. Buna göre a nın 
+alamayacağı değerler toplamı kaçtır?
+,
+,
+,
+f aisis#
+$
+=
+-
+-
+-
+-
++
+is] [
+\
+]]]]]
+]]]]]
+ 
+biçiminde tanımlı f ] g fonksiyonu yalnızca 
+=-
+ için süreksiz olduğuna göre b kaç 
+olamaz?
+f isa=
+-
+-
+-
++
+,
+,
+$-
+is] *
+ 
+biçiminde tanımlı f ] g fonksiyonu her x 
+gerçek sayısı için sürekli olduğuna göre a 
+kaçtır?    
+IIIIIIIVVVIVIIÖlçme ve Değerlendirme Türe=
+-
+=
++
+:
+:
+olduğuna göre ddy  ifadesinin =
+ için değer kaçtır?    
+,
+f aisa=
++
+-
+,
+x $
+is] *
+ 
+biçiminde tanımlı f ] g fonksiyonu =
+ 
+için sürekli olmasına rağmen türevli değildir. 
+Buna göre b kaç olamaz?
+Yukarıda f = ] g fonksiyonunun grafiği 
+verilmiştir. Buna göre f ] g fonksiyonunun 
+sürekli olduğu hâlde türevsiz olduğu noktların apsisleri toplamı kaçtır?
+f a=
+-
++
+]  fonksiyonu veriliyor. 
+lilif +
+- -
+=
++
+-
+"
+"
+-
+]
+]
+]
+]
+g  
+olduğuna göre a kaçtır?
+f g =
+-
++
+=
+-
+]
+]
+ 
+fonksiyonları veriliyor. f o g ^
+]g fonksiyonunu grafiğine =
+ apsisli noktasından 
+çizilen teğeti x eksenine paralel olduğuna 
+göre a kaçtır?
+D) 18-32. çoktan seçmeli soruları çözünüz          
+     ve doğru seçeneği işaretleyinizifadesinin değeri kaçtır?
+,
+,
+f aisisis=
+-
+-
+=
++
+,
+] [
+\
+]]]]]]
+]]]]]]
+biçiminde tanımlı f ] g fonksiyonu için 
+lilif f -
+=
+"
+"
+-
++
+]
+]
+ 
+olduğuna göre f ] g kaçtır?
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+-
+,
+lia a-
++
+-
+=
+"-
+:

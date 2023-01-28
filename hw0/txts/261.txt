@@ -1,0 +1,400 @@
++
+"
+"
+-
+-
+:
+]
+]
+a olu=
+-
+:
+] -
++
+lilif a olu=
+=
+-
+"
+"
++
++
+:
+]
++
++
+lilif olu=
+=
+"
+"
+-
+-
+:
+]
+lilif f bulunu=
+=
+=
+"
+"
+-
++
+]
+]
+]
+ÇÖZÜÇÖZÜÇÖZÜÖRNEÖRNEÖRNETürelilif f f =
+=
+"
+"
+-
++
+]
+]
+]
+g olması için 
++
+=
+-
+  olmalıdır&
++
+=
+-
+=
+bulunu&
+=
+,
+,
+f ais$
+=
+-
++
+is] *
+biçiminde tanımlı f ] g fonksiyonu =
+ noktasında sürekli değildir. Buna göre a nın alamayacağı 
+değeri bulunuz=
++
+:
+] Bu durumda f fonksiyonu =
+ noktasında sürekli değilse !
+-
++
+ olmalıdırlilif a olu=
++
+=
++
+"
+"
++
++
+:
+]
+lilif aolu=
+-
+=
+-
+"
+"
+-
+-
+:
+]
+]
+&
+!
+!
+-
++
+is,
+f abisa#
+#
+=
++
+-
++
+-
+-
+,
+,
+is] [
+\
+]]]]
+]]]]
+ 
+biçiminde tanımlı f ] g fonksiyonu ve =-
+=
+ noktalarında sürekli olduğuna göre a ve b 
+değerlerini bulunuzolu-
+=
++
+=
+-
+b+
+lilililif f a&
+=
+=
+=
+-
+"
+"
+"
+"
+-
++
+-
++
+]
+]
+]
+]
+]
+-
+=-
+-
++
+=
+-
+b+
+lilililif f aolu&
+=
+=
+-
++
+=
+"
+"
+"
+"
+-
+-
+-
+-
+-
++
+-
++
+]
+]
+]
+]
+]
+lilililif f vf f =
+=
+-
+=
+=
+"
+"
+"
+"
+-
+-
+-
++
+-
++
+]
+]
+]
+]
+]
+]
+g olmalıdır(1) ve (2) denklemleri ortak çözülürs-
+=-
++
+-
+=
+bulunu=
+=
+&
+&
+&
+bulunu=
+-
+=-
+-
+-
+=
+f ] g fonksiyonu, ve =-
+=
+ noktalarında sürekli olduğunda&
+!
+O hâlde a sayısı 9 değerini alamazÇÖZÜÇÖZÜÖRNEÖRNEMatematik Yanda f = ] g fonksiyonunun grafiği verilmiştir. g +
+^
+]g 
+fonksiyonu =
+ noktasında sürekli olduğuna göre 
+lilig g -
+"
+"
++
+-
+]
+]
+g farkını bulunuzg +
+^
+]g fonksiyonu =
+ noktasında sürekli olduğundalilig g +
++
+"
+"
++
+-
+=
+^
+]
+^
+]
+g olmalıdır. O hâld=
+=
+lilililililililililig g f g f g g g g g bulunu&
+&
+&
++
++
++
+=
++
++
++
+-
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
++
+-
++
++
+-
+-
++
+-
++
+-
+=
+^
+]
+^
+]
+]
+]
+]
+]
+]
+]
+]
+]
+İlk kez 14. yüzyılda kullanılan “limit” kelimesi Latin kökenlidir ve Latincede “sınır veya sınırlılık” anlamına 
+gelmektedir. Matematikte süreklilik, türev ve integral kavramlarının temelinde yer alan matematikteki ana 
+kavramlardan biridir. Ayrıca fonksiyonların bir nokta civarındaki davranışlarını incelerken en kullanışlı araçtır. 
+Jean le Rond d’Alembert (Jon lö Run Dölamber) (1717-1783) limit kavramını ilk defa matematiksel temellere 
+dayandırmıştır. Ancak limit kavramının ilk sağlam tanımı Augustin Louis Cauchy (Ogüstin Luis Koşi) tarafında yapılmıştır. Limitin günümüzde kullanılan matematiksel tanımı ise Karl Weierstrass (Karl Vayırştras)
+(1815-1897) tarafından oluşturulmuştur                                                        (Argün, Arıkan, Bulut ve Hacıoğlu, 2014)
+1864’te İstanbul’da dünyaya gelen Salih Zeki, lise yıllarında bir diferansiyel ifadeni integralini çözerek sınıf arkadaşlarının takdirini kazanmıştır. Arkadaşları 
+tarafından kendisine “Zeki” unvanı verilerek Salih Zeki adıyla anılmaya başlanmıştı. 1921 yılında hayatını kaybeden Salih Zeki, hayatı boyunca matematik 
+alanında birçok çalışma yapmıştır. Asâr-ı Bâkiye (Yüzyıllardan Geriye Kalan) ve 
+Kamus-u Riyaziyat (Matematik Ansiklopedisi) eserlerinde limit ve süreklilik ile 
+ilgili yapılan çalışmalara yer verilmiştir. 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+       (Oral, 2003-I)
+Limitin Tarihsel GelişimSalih Zeki (1864-1921)
+G rsel 5 ÇÖZÜÖRNETüre 
+ 
+fonksiyonunun grafiğini  Dinamik Geometri ve Matematik Yazılımı programında çiziniz ve fonksiyoun sürekliliğini inceleyinizDinamik Geometri ve Matematik Yazılımı programını açınızis,
+,
+f is3 <
+#
+#
+=
+-
++
+-
+,
+is2 ] [
+\
+]]]]]
+]]]]]
+ÇÖZÜÖRNE 1. Adım: 
+2. Adım:
+3. Adım: 
+4. Adım: 
+5. Adım:
+6. Adım:
+7. Adım: 
+8. Adım: 
+Giriş çubuğuna Eğer yazınız açılacak penceredEğer (<şart>,<Doğruysa>,<Doğru Değilse>) ifadesini tıklayınız vEğer (
+<
+1=
+, +
+, 2 -
+) biçiminde yazarak enter tuşuna basınız. 
+Grafik ekranda belirecektir. 
+Giriş çubuğunda, 
+, ^
+] gh yazarak enter tuşuna basınız. 
+Giriş çubuğunda, 
+, ^
+] gh yazarak enter tuşuna basınız. 
+Giriş çubuğunda, 
+,
+2 ^
+h yazarak enter tuşuna basınız. 
+Giriş çubuğunda, 
+,
+3 ^
+h yazarak enter tuşuna basınızBu işlemler yapıldığında fonksiyonun kritik noktaları ekranda belirecektir,
+2 ^
+h noktası dâhil olmadığından grafikte bu noktanın üzerine sağ tıklayarak ayarlar 
+butonunu  ve açılan pencerede sitil butonunu seçip içi boş olarak belirleyiniz. Aynı 
+işlemi 
+,
+3 ^
+h noktası için de yapınız butonuna tıklayarak x ekseni üzerinde bir nokta belirleyiniz butonuna tıklayarak x ekseni üzerinde seçilen noktaya ve x eksenine tıklayınız.  
+Böylece x eksenine dik bir doğru çizilmiş olur. 
+ butonuna tıklayarak çizilen dik doğrunu fonksiyonu kestiği noktayı işaretleyiniz. 
+Benzer şekilde 
+ butonuna tıklayarak bir önceki adımda çizilen doğruya fonksiyonu 
+kestiği noktada dik olan başka bir doğru çiziniz butonuna tıklayarak son çizilen doğrunun y eksenini kestiği noktayı işaretleyiniz. 
+ butonuna tıklayarak fonksiyon üzerindeki noktadan eksen üzerindeki noktalara iki 
+tane doğru parçası çiziniz. Doğruları, sol tarafında bulunan : simgelerine tıklayarak 
+görünmez yapınız ve sol üstteki ok simgesine tıklayınızMatematik Elde edilen grafikte,
+x ekseni üzerindeki nokta 2 ye sağdan ve soldan yaklaştırıldığında f ] g in farklı değerlere yaklaştığ gözlenir. Bu durumda fonksiyonun =
+ noktasında limiti yoktur. Buna göre fonksiyon 
+bu noktada sürekli değildir:
+x ekseni üzerindeki nokta 3 e sağdan ve soldan yaklaştırıldığında f ] g in farklı değerlere yaklaştığ gözlenir. Bu durumda fonksiyonun =
+ noktasında limiti yoktur. Buna göre fonksiyon 
+bu noktada da sürekli değildir:
+TüreYukarıda f = ] g fonksiyonunun grafiği 
+verilmiştir. Buna göre 
+a) f ] g fonksiyonunun hangi x değerleri  
+    için sürekli olmadığını bulunuzb) f ] g fonksiyonunun limitinin olduğu  
+    fakat sürekli olmadığı x değerlerini  
+    bulunuz.  
+    
+-
+-
+f =
+-
+-
+]
+]
+ 
+fonksiyonu veriliyor. Buna göre f ] g fonksiyonnun sürekli olduğu en geniş kümede 
+hangi x değerleri bulunmaz?
+f a=
+-
++
++
+]  
+fonksiyonu her x gerçek sayısı için sürekli 
+olduğuna göre a nın alabileceği en küçük 

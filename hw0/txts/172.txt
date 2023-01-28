@@ -1,0 +1,400 @@
+tanjant eksenx = sin275°, y = cos146°, z = tan(-28°) değerlerini küçükten büyüğe doğru sıralayınızSıra Sizd x = cos140°, y = sin165°, z = cot170°, t = tan310° değerlerini sıralayınızÇözüVerilen açılar 1. bölgeye taşınarak 
+açıların trigonometrik değerlerinin sıralaması 
+yapılırx = cos140° = cos(90° + 50°) = -sin50°
+y = sin165° = sin(180° - 15°) = sin15°
+z = cot170° = cot(90° + 80°) = -tan80°
+t = tan310° = tan(360° - 50°) = -tan50°
+1. bölgede açıların ölçüleri arttıkça bu açılarıtanjant değerleri de artar. 
+Dolayısıyla tan50°< tan80° olur. Burada - tan50° > -tan80° olurYukarıdaki şekilde tan50° > sin50° olduğunda - tan50°< - sin50° olurSıralama sin15° > -sin50° > -tan50° > -tan80°, y > x > t > z biçiminde  yapılır54. Örnek 
+sin50°
+tan50°
+  ta50°
+sin50°
+--1. sicov-
+=
+ 
+olduğuna göre   cos2x - sin2x değerini 
+bulunuz2. 
+sicosicov+
++
+=
+ 
+olduğuna göre tanx değerini bulunuz3. 
+sisi-
++
+ ifadesinin en sade 
+hâlini bulunuz4. (tan2x).(1 - sin2x) ifadesinin en sade hâlini 
+bulunuz5. Aşağıda verilen trigonometrik değerlerin 
+işaretini belirleyiniza) cos50°        b) sin(-200°)        c) cot300°
+6. Aşağıda verilen trigonometrik değerleri 
+küçükten büyüğe doğru sıralayınıza) sin150°        b) cos250°           c) tan30° 
+             
+7. Tanımlı olduğu aralıkta tasico+
++
+ 
+ifadesinin en sade hâlini bulunuz8.  
+sicota+
++
+-
+-
+-
+]
+işleminin sonucunu bulunuzAlıştırmalaT 9. tan40° = x olmak üzertatata°
+°
+°
++
+- .tan130°   ifadesinin x cinsindedeğerini bulunuz.  
+10. Tanımlı olduğu aralıkta 
+(
+)
+(
+)
+(
+)
+sicosi+
+-
++
++
+  ifadesinin 
+değerini bulunuz11. 
+taco+
++
+ ifadesinin en sade hâlini bulunuz.     
+12. sin25° = x olmak üzere 
+cocosico°
+°
+°
+°
++
+ ifadesinin x  
+cinsinden değerini bulunuz13. Bir ABC üçgeninde 
+( )
+m α 
+=
+, 
+( )
+m β 
+=
+ ve 
+( )
+m θ 
+=
+ olmak üzere  cosi+
+-
+ifadesinin eşitini bulunuz 
+14.  cos21° + cos22° + cos23° + ... + cos289°  
+ifadesinin değerini bulunuz15. 
+sisi-
++
++
+  ifadesinin en sade hâlini 
+bulunuz16. α ∈ , l ve 
+ta=
+ olduğuna göre 
+sinα, cosα ve cotα  değerlerini bulunuz     
+Yandaki ABC üçgeninde kenar uzunlukları |BC| = a, |AC| = b, 
+|AB| = c; iç açı ölçüleri 
+( ),
+( ),
+( )
+m m m V  olmak üzer[AH]⊥[BC] olsun. 
+|HC| = x olduğunda |BH| = a - x olurAHC dik üçgeninde Pisagor teoremi uygulandığında 
+|AC|2 =  |AH|2 + |HC|2 
+b2 = h2 + x2 ⇒ h2 = b2 - x2 olur. (1)
+AHB dik üçgeninde  Pisagor teoremi uygulandığında 
+|AB|2 =  |AH|2 + |BH|2 
+c2 = h2 + (a - x)2 olduğuna göre  
+h2 = c2 -  (a - x)2  olur.  
+(2)
+(1) ve (2) denklemleri birlikte çözüldüğündb2 - x2 = c2 -  (a - x)2  elde edilir. Buradan 
+b2 - x2 = c2 -  a2 + 2ax - xb2 = c2 -  a2 + 2ax   olur.  
+(3)
+AHC dik üçgeninde 
+( )
+cos =
+ ⇒
+( )
+co=
+V  olur. Bu değer (3) denkleminde yerine yazıldığında  
+c2 = a2 + b2 - 2ab( )
+cos CU   elde edilir. Benzer şekilda2 = b2 + c2 - 2bc( )
+cos AW  
+b2 = a2 + c2 - 2ac( )
+cos BU   yazılabilir. 
+a - 1.2.2. Kosinüs TeoremKayra, okulda bulunduğu sırada 5 km uzaklıktaki 
+kardeşi Cenk'e akıllı telefonu ile bir konum 
+gönderiyor. Kayra, bir süre sonra Cenk'e 3 km 
+uzaklıktaki tiyatro salonundan bir konum daha 
+gönderiyor. 
+Cenk, okul ve tiyatronun bulunduğu noktalar bir 
+üçgenin köşeleri olacak şekilde modelleniyor. 
+Cenk'in bulunduğu köşedeki iç açının ölçüsü 60° 
+olduğuna ve Cenk yer değiştirmediğine göre okul 
+ile tiyatro arasındaki mesafenin kaç km olduğunu 
+bulunuzÇözüOkul ile tiyatro arasındaki mesafe x olsun.  Bu 
+durumda Cenk'in bulunduğu köşeye göre kosinüs 
+teoremi uygulandığındx2 = 52 + 32 - 2.5.3.cos60°
+x2 = 25 + 9 - 2.5.3. x2 = x = 19  km olur55. Örnek 
+CenOku5 k3 k60°
+TiyatrCenOkuTiyatr5 k3 k60°
+T Yandaki ABC üçgeninde |CB| = 3 3 cm, |AC| = 6 cm ve 
+( )
+m 60°
+=
+ olduğuna göre |AB| = x uzunluğunun 
+kaç cm olduğunu bulunuzÇözüABC üçgeninde kosinüs teoremi uygulandığınd&
+& (
+)
+olur Buradan cm olu3 =
++
+-
+=
++
+-
+-
++
+=
+-
+=
+=
+xco60°
+^
+56. Örnek 
+Yandaki ABC üçgeninde |AB| = 4 cm, |AC| = 5 cm,         
+|BC| = 6 cm, 
+( )
+,
+( )
+,
+( )
+m m m �
+�
+�
+=
+=
+=
+  
+olduğuna göre 
+(
+)
+co+
+ değerini bulunuzÇözüABC üçgeninde kosinüs teoremi uygulandığınd. . &
+&
+(
+)
+(
+)
+cococococococooluABgenindolur Buradaolu2 5 ü°
+°
+�
+�
+�
+�
+�
+�
+�
+�
+�
+�
+�
+�
+�
+�
+=
++
+-
+=
++
+-
+-
+= -
+=
++
++
+=
++
+=
+-
++
+=
+-
+= -
+= -
+57. Örnek 
+Yandaki ABCD paralelkenarında 
+|AD| = 10 birim, |ED| = 3 birim, 
+|EC| = 5 birim, |FB| = 2 birim ve 
+( )
+m 60°
+=
+olarak veriliyor. |EF| = x uzunluğunun kaç birim 
+olduğunu bulunuzÇözüŞekildeki AD kenarına paralel olacak şekilde 
+EK doğru parçası çizilir. |AD| = |BC| = 10 birim 
+olduğundan |EK| = 10 birim olur. |DE| = 3 birim 
+olduğundan |AK| = |KF| = 3 birim olur. 
+( )
+m 60°
+=
+ 
+olduğundan 
+( )
+m m EK60°
+=
+=
+^
+%
+ olurEKF üçgeninde kosinüs teoremi uygulandığınd|EF|2 = x2 = 32 + 102 - 2.3.10.cos60°
+             = 9 + 100 - 2.3.10.              = 109 - 30 = 79 ⇒ x = 
+79  birim olur58. Örnek 
+60°
+3 60°
+60°
+60°
+60°
+1.2.3.  Sinüs TeoremŞekildeki ABC üçgeninde |AB| = 8 birim, 
+|AC| = 4 2  birim ve 
+( )
+°
+m =
+ olduğuna göre 
+B açısının ölçüsünün kaç derece olduğunu bulunuzÇözü Yukarıdaki ABC üçgeninde sinüs teoremi uygulandığında 
+( )
+sisin 4 ° =
+U  olur. Buradan 
+( )
+sin 4 =
+U  ⇒
+( )
+sin =
+ ⇒
+( )
+sin olu=
+ 
+ 
+ 
+( )
+( )
+m veya m olu°
+°
+=
+=
+ 
+Üçgenin iç açılarının ölçüleri toplamı 180° olduğundaB açısının ölçüsü 150° olamaz.  Bu durumda B açısının ölçüsü 30° olur59. Örnek 
+45°
+4 hBenzer şekild(
+)
+( )
+(
+)
+( )
+sisiA ABa ve A ABb $
+$
+$
+$
+=
+=
+&
+&
+ eşitlikleri yazılır. Bu durumd(
+)
+( )
+( )
+( )
+sisisiA ABa a b $
+$
+$
+$
+$
+$
+=
+=
+=
+&
+ olurBu eşitlikler 2 ile çarpılıp a.b.c çarpımına bölündüğünd( )
+( )
+( )
+sisisia b a a b a a b b $
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+=
+=
+ ⇒ 
+( )
+( )
+( )
+sisisi=
+=
+ olur. Buradan  
+( )
+( )
+( )
+sisisi=
+=
+V  olarak bulunur. 
+Yandaki ABC üçgeninin kenar uzunlukları  |BC| = a, 
+|AC| = b, |AB| = c olsun. [AH]⊥[BC] olduğunda  
+AHB dik üçgeninde 
+( )
+sin h=
+ ⇒ 
+( )
+sia = U  olurBuradan 
+(
+)
+( )
+siA ABa a $
+$
+$
+=
+=
+&
+ elde edilirT 4. 
+Yukarıdaki şekilde |AE| = |EC| = 2 birim, 
+|ED| = 10 birim, |EB| = 5 birim ve 
+|AB| = 4 birim  olduğuna göre  |DC| = x 
+uzunluğunun kaç birim olduğunu bulunuz5. Kenar uzunlukları  |BC| = a, |AC| = b, |AB| = c 
+olan bir ABC üçgeninin kenarları arasında2 + c2 - b2 = 10.cot( )
+BU  bağıntısı ve a.c = 6 
+olduğuna göre sin( )
+BU  değerini bulunuz6. 
+Yukarıdaki ABC üçgeninde |AC| = 5 birim,     
+|BC| = 7 birim, 
+( )
+m AW  = β, 
+( )
+m BU  = α ve 
+β - α = 90° olduğuna göre cotα nın değerinbulunuz1.   
+2. Bir ABC üçgeninin kenarları arasında 
+c2 - b2 = a.c - a2  bağıntısı olduğuna göre 
+B açısının ölçüsünün kaç derece olduğunu 
+bulunuz3. 
+Şekildeki ABC üçgeninde 
+|AE| = |BD| = 2 birim, |AD| = 4 birim,
+|ED| = 3 birim ve |EC| = 6 birim olduğuna 
+göre |BC| = x uzunluğunun kaç birim 
+olduğunu bulunuzŞekildeki ABC üçgeninde |BD| =  4|DC|,
+|AB| = 6 birim, |AC| = 4 birim ve 
+(
+)
+m DAC =
+\
+olduğuna göre sinα nın değerin bulunuzAlıştırmala60° Belirli zaman aralıklarında aynı hareketin tekrarlandığı durumlar vardır. Bu tür hareketler 
+tanımlanırken "periyodik" ifadesine başvurulur. Dünya'nın Güneş etrafında dönmesi periyodik 
+harekete örnek olarak verilebilirPeriyot ve Periyodik Fonksiyof(x) fonksiyonunun tanım kümesindeki her x elemanı için f(x) = f(x + T) eşitliğini sağlayan T ∈ ℝ+ 
+varsa f fonksiyonuna periyodik fonksiyon, en küçük T sayısına bu fonksiyonun esas periyodu denirPeriyot (T) aynı değerlerin tekrar ettiği en küçük aralıktır1.2.4. Trigonometrik Fonksiyonların Grafiklerf fonksiyonunun periyodu 2 olduğuna göre g(x) = f(3x + 5) + 6  fonksiyonunun 
+periyodunu bulunuz. 
+Sıra Sizdf(x) fonksiyonunun periyodu T olduğuna göre f(ax + b) + c fonksiyonunun periyodunu 
+T cinsinden bulunuzÇözüf(ax + b) + c fonksiyonunun periyodu T1 olsunO hâlde f(ax + b) + c = f(a.(x + T1) + b) + c = f(a.x + b + a. T1) + c olurf(x) fonksiyonunun periyodu T olduğundan f(ax + b) + c  = f(a.x + b + T) + c  olur. Buradaf(a.x + b + T) + c = f(a.x + b + a. T1) + c ⇒ T = a. T1  olmalıdır. 
+Periyot pozitif olduğundan f(ax + b) + c fonksiyonunun periyodu 1 =
+ olur. 
+62. Örnek 
+x ∈ ℤ olmak üzere f(x) = "x in 2 ile bölümünden kalan" şeklinde tanımlanan fonksiyonun 

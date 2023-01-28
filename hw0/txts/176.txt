@@ -1,0 +1,400 @@
+-
+=
++
+=
+ birim olur. 
+12. Örnek 
+Analitik düzlemde A(x, -4), B(15, 1) noktaları arasındaki uzaklık 13 birim olduğuna göre 
+x in en küçük pozitif değerini bulunuzÇözü(
+)
+(
+(
+))
+A=
+=
+-
++
+- -
+ ⇒ (15 - x)2 + 52 = 132  
+ 
+ 
+ 
+ 
+ 
+⇒  (15 - x)2 = 132 -52 =  
+ 
+ 
+ 
+                    ⇒ 15 - x = 12 veya 15 - x = - 
+ 
+ 
+ 
+                     ⇒ x = 3 veya x = 27 olur 
+ 
+ 
+ 
+ 
+x in en küçük pozitif değeri 3 olur. 
+13. Örnek 
+Analitik düzlemde A(x1, y1) ve B(x2, y2) noktaları verilsin. 
+yy|y2 - y1|
+|x2 - x1|
+xx[AB] hipotenüs ve dik kenarları x ile y eksenine paralel olacak şekilde ABC üçgeni çizildiğind|BC| = |y2 - y1| ve 
+|AC| = |x2 - x1| olurABC üçgeninde Pisagor teoremi uygulandığında A ile B noktaları arasındaki uzaklık 
+A=
+-
++
+-
+  
+ 
+|a - b|2 = (a - b)2 = (b - a)2 olduğunda(
+)
+(
+)
+A=
+-
++
+-
+ şeklinde elde edilirAnalitik düzlemde ABC ikizkenar üçgeni veriliyor. |AC| = |BC|, A(-1, 4), B(3, 1) ve C(x, y) 
+olduğuna göra) Üçgenin AB kenar uzunluğunun kaç birim olduğunu,
+b) C(x, y) noktasının koordinatları arasındaki bağıntıyı bulunuzÇözüa) 
+(
+(
+))
+(
+)
+Abirim olu=
+- -
++
+-
+=
++
+=
+  
+b) |AC| = |BC| olduğuna gör(
+(
+))
+(
+)
+(
+)
+(
+)
+- -
++
+-
+=
+-
++
+-
+  
+x2 + 2x + 1 + y2 - 8y + 16 = x2 - 6x + 9 + y2 - 2y + 1 olur. 
+Buradan 8x - 6y + 7 = 0 bağıntısı elde edilir15. Örnek 
+B(3, 1)
+C(x, y)
+A(-1, 4)
+Dik koordinat sisteminde A(a + 2, b - 5), B(0, b + 3) noktaları arasındaki uzaklık 10 birim 
+olduğuna göre a nın alabileceği değerler toplamını bulunuzSıra SizdAnalitik düzlemde köşe koordinatları A(0, 10), B(-6, 2) ve C(x, 2) olan ABC ikizkenar 
+üçgeninde |AB| = |AC| olarak veriliyor. Buna göre BC uzunluğunun kaç birim olduğunu 
+bulunuzÇözü|AB| = |AC| ⇒ |AB|2 = |AC|2  olurBuradan 
+(0- (-6))2 + (10 - 2)2 = (0 - x)2 + (10 - 2)62 + 82 = (-x)2 + 82 ⇒ x2 = 62  
+ 
+ 
+           ⇒ x = 6 veya x = -6 olurx = -6 için B ve C noktaları çakışık olacağından ABC üçgen olmaz. Buradan 
+yalnızca x = 6 olma durumu ABC üçgenini oluştururB(-6, 2) ve C(6, 2) noktaları arasındaki uzaklı(
+)
+(
+)
+B=
+-
+-
++
+-
+=
++
+=
+=
+ birim olur14. Örnek 
+ A(-1, 5) ve B(4, 10) noktaları için AB doğru parçasını BA=
+ oranında içten bölen 
+C noktasının koordinatlarını bulunuzÇözüm 
+1. YoA ve B noktalarını BA=
+ oranında içten bölen nokta 
+C (x, y) ve |AC| = 2k olsun. Bu durumda |BC| = 3k olur. 
+Buna göre 
+AA=
+ ⇒ 
+(
+)
+(
+)
+- -
+- -
+=
+ ⇒ 10 = 5x + 5 ⇒ x = 1 ve 
+ 
+ 
+ 
+ 
+ 
+AA=
+ ⇒ -
+-
+=
+ ⇒ 10 = 5y - 25 ⇒ y = 7 olur 
+ 
+ 
+ 
+ 
+ 
+O hâlde C noktasının koordinatları (1, 7) olarak bulunur2. YoVerilen noktalar bir doğru üzerinde gösterilerek x ve y değerleri arasında değişi(artış veya azalış) miktarları aşağıdaki gibi bulunury değeri A dan B ye 
+ 
+ 
+x değeri A dan B y5k mesafede 5 arttığından 
+ 
+5k mesafede 5 arttığındaA dan C ye  
+ 
+ 
+ 
+A dan C ye 
+2k mesafede 2 artar  
+ 
+2k mesafede 2 artay = 5 + 2 = 7 olur. 
+ 
+ 
+x = -1 + 2 = 1 olurO hâlde C noktasının koordinatları (1, 7) olarak bulunur16. Örnek 
+1. A(x1, y1) ve B(x2, y2) noktaları verilsin. C ∈ [AB] ve 
+CAC =
+ ise "C noktası [AB] nı k oranında 
+içten böler." denirYukarıdaki şekilde CAD ile BCE dik üçgenleri benzerdir (A.A. benzerliği). 
+BA=
+ olduğundan 1 =
+-
+-
+ ve 1 =
+-
+-
+ olur. Buradan dıştan bölen noktanıkoordinatları 
+,
+,
+C x k k $
+$
+=
++
++
++
++
+^
+m olarak bulunur2.1.2. Doğru Parçasını Belli Bir Oranda Bölen Noktanın KoordinatlarB(4, 10)
+C(x, y)
+352A(-1, 5)
+4 - (-1)
+x - (-1)
+⟔
+⟔
+B(4, 10)
+A(-1, 5)
+C(x, y)
+2310 - y - k.x - xx2 - y - yy2 - ⟔
+⟔
+B(x2, y2)
+A(x1, y1)
+C(x, y)
+k.x - xx - xy - yy - y⟔
+⟔
+B(x2, y2)
+A(x1, y1)
+C(x, y)
+Yandaki şekilde CAD ile CBE dik üçgenleri 
+benzerdir (A.A. benzerliği). 
+BA=
+ olduğundak ve -
+-
+=
+-
+-
+=
+ olur. Buradan 
+dıştan bölen noktanın koordinatlar,
+,
+C x k k $
+$
+=
+-
+-
+-
+-
+^
+m olarak 
+bulunur2. A(x1, y1) ve B(x2, y2) noktaları verilsin. C ∉ [AB] ve 
+CAC =
+ ise "C noktası [AB] nı k oranında  
+dıştan böler." denirA(-3, 5), B(2, 7) noktaları veriliyor. AB=
+ oranında [AB] nın uzantısında yer alan 
+C(x, y) noktasının koordinatlarını bulunuzÇözü1. YoAnalitik düzlemde A(x1, y1), B(x2, y2) noktaları ve [AB] uzantısında 
+AB=
+=
+ oranında 
+bulunan C(x, y) noktası içi&
+=
+(
+)
+olu&
+- -
+-
+=
+=
++
+-
+=
+ 
+olu&
+=
+-
+-
+=
+=
+O hâlde C noktasının koordinatlar,
+9 lolarak bulunur2. Yol 
+Verilen orandan anlaşılacağı üzerC noktası B ye A dan daha yakındır. O hâlde C noktasının 
+AB doğru parçası üzerindeki konumu yandaki gibi 
+olmalıdırx in değişim miktarı  
+ 
+ 
+y nin değişim miktarı 
+A dan B ye  2a mesafede 
+5  artarsa  
+A dan B ye  2a mesafede 
+2 artarsB den C ye  a mesafede 
+5  artar. 
+B den C ye  a mesafede      
+1 artar         
+Buradan =
++
+=
+olur.  
+ 
+  Buradan y = 7 + 1 = 8 olurO hâlde C noktasının koordinatları 
+,
+9 l olarak bulunur17. Örnek 
+23C(x, y)
+A(-3 , 5)
+B(2, 7)
+2x - (-3)
+x - y - y - ⟔
+⟔
+B(2, 7)
+A(-3, 5)
+C(x, y)
+2 - (-3)
+7 -  A(-6, 9), B(10, 5) noktaları için AB doğru parçasının orta noktasının koordinatlarınbulunuzÇözüm 
+ 
+ 
+Yandaki şekilde orta nokta C(x, y) olsun 
+olu= -
++
+=
+=
+=
++
+=
+=
+ 
+ 
+18. Örnek 
+Bir Doğru Parçasının Orta NoktasA(x1, y1) ve B(x2, y2) noktaları verildiğinde oluşacak AB doğru parçasının orta noktası C(x, y) olsunBu durumda AC=
+ olur. C(x, y) noktasının koordinatları aşağıdaki gibi bulunur.                              
+B(10, 5)
+A(-6, 9)
+C(x, y)
+x - xx2 - y - yy2 - ⟔
+⟔
+B(x2, y2)
+A(x1, y1)
+C(x, y)
+CAD ile BCE dik üçgenleri A.K.A. eşlik bağıntısına göre eştir. Buna göry olu&
+&
+=
+=
++
+=
+=
++
+-
+-
+-
+-
+Buradan orta noktanın koordinatları C(x, y) = 
+,
+C +
++
+l  olarak bulunurA(-2, 2a + 3), B(7, 5 - 4a) noktaları verilsin. [AB] nın orta noktası x ekseni üzerinde 
+olduğuna göre a değerini bulunuzÇözüC(x, y) orta noktası x ekseni üzerinde olduğuna göre y = 0 olmalıdır. O hâld&
+olu=
++
++
+-
+=
+-
+=
+=
+19. Örnek 
+Üçgenin Ağırlık Merkezinin KoordinatlarKöşe koordinatları A(x1, y1), B(x2, y2) ve C(x3, y3) olan 
+ABC üçgeninin ağırlık merkezinin koordinatları G(x, y) 
+olsun. 
+BC doğru parçasının orta noktasının koordinatlar,
+D +
++
+m olurG noktası [AD] nı GA=
+ olacak şekilde böler. 
+A ile G ve G ile D koordinatları arasındaki farkın oranı 2 ye eşitlenerek G noktasının koordinatlar&
+&
+&
+(
+)
+x v-
++
+-
+=
+-
+=
+-
++
+=
++
++
+=
++
++
+(
+)
+olarak bulunu&
+&
+&
+-
++
+-
+=
+-
+=
+-
++
+=
++
++
+=
++
++
+Köşeleri  A(x1, y1), B(x2, y2) ve C(x3, y3) olan ABC üçgeninin ağırlık merkez,
+( , )
+G x =
++
++
++
++
+l olurA(x1, y1)
+G(x, y)
+B(x2, y2)
+C(x3, y3)
+2Analitik düzlemde A(3, 1), B(7, -5) noktaları veriliyor. [AB] nın orta noktasının D(7, 5) 
+noktasına olan uzaklığını bulunuzÇözüA(3, 1) ve B(7, -5) noktalarının orta noktası  C(a, b) olsunC(a, b) orta noktasının apsis değeri a = 

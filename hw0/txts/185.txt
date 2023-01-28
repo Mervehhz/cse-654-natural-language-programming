@@ -1,0 +1,400 @@
+b ç) [-5, -3]
+d) [3, 5]
+e) 
+,
+b -
+C) Aşağıdaki soruların çözümlerini altlarındaki 
+boşluklara yazınız8. x2 - 4 < 0 eşitsizliğinin çözüm kümesini 
+bulunuz. 
+9. 1 den n ye kadar olan doğal sayıların toplamı 
+28 den küçük olduğuna göre n nin alabileceği 
+değerlerin toplamını bulunuz. 
+10. 2x2 < 3 - x  eşitsizliğininin çözüm kümesini 
+bulunuz. 
+11. +
++
+=
+-
+=
+4 
+                                       
+denklem sisteminin çözüm kümesini 
+bulunuz. 
+12. 2 -
+-
+≤ 0  eşitsizliğinin çözüm 
+kümesini bulunuz. 
+13. 
+.(
+)
+x 2 -
+-
+-
+≥ 0  eşitsizliğinin çözüm 
+kümesini bulunuzÖLÇME VE DEĞERLENDİRMD e n k l e m  v e  E ş i t s i z l i k  S i s t e m l e r 14. Bir avcı bir hedefe art arda iki atış yapıyor. 
+Avcının hedefi vurma olasılığı t olsunAvcının iki atışta hedefi vuramama olasılığı, 
+iki atışta da  hedefi vurma olasılığını1  inden azdıra) Bu durumu ifade eden eşitsizlik sistemini 
+yazınız. 
+b) t nin çözüm aralığını bulunuz. 
+15. Dünyada her yıl meydana gelen trafik 
+kazalarının ortalama %13 ü özellikle 
+aşırı hızdan ve hız kurallarını ihlalden 
+kaynaklanmaktadır. Hız arttıkça durma 
+mesafesi uzamakta, direksiyon hâkimiyeti 
+azalmaktadır. Buna bağlı olarak sollama 
+hataları ve çarpışma şiddetleri artmaktadırV (m/sn.) hızıyla hareket eden bir aracın 
+durma mesafesi (m) ( )
+X =
++
+ denklemi 
+ile ifade edilmektedirBuna göre yaya geçidine yaklaşan bir aracın 
+60 metreden kısa mesafede durabilmesi 
+için hızının hangi aralıkta olması gerektiğini  
+bulunuz16. Bir kontrol noktasından saatte 1800 den fazla 
+araç geçtiğinde trafiğin bu noktada yoğun 
+olduğu kabul edilirBir trafik  polisi 13.00 ile 18.00  saatleri 
+arasında kontrol noktasından geçen araç 
+sayısını zamana (sa.) bağlı olarak 
+y = f(x) = -2x2 + 17x + 1765  fonksiyonu 
+ile modellemiştir. Buna göre hangi saatler 
+arasında trafik yoğun olmaktadır? 
+D) Aşağıdaki çoktan seçmeli soruları okuyunuz 
+ve doğru seçeneği işaretleyiniz17. 2x2 - x - 6 > 0 eşitsizliğinin çözüm kümesi 
+aşağıdakilerden hangisidir?
+A) 
+,
+-
+l 
+B) 
+, -
+C) [2, ∞) 
+D) 
+3,
+-
+-
+l ∪ (2, ∞)
+ 
+E) (-∞, 2)
+18. f(x) = -2x2 + x + m - 1 fonksiyonu her x ∈ ℝ 
+için f(x) < 0 olduğuna göre m nin alabileceği 
+en büyük tam sayı değeri kaçtır?
+A) -2 
+B) -1 
+C) 0 
+D) 1 
+E) 19.  
+x+
+=
+-
+=
+2  
+denklem sisteminin çözüm kümesi 
+aşağıdakilerden hangisidir?
+A) 
+,
+,
+,
+-
+-
+^
+&
+0 B) 
+,-
+^
+"
+,
+C) 
+,
+,( ,
+)
+-
+-
+-
+^
+&
+0 D) 
+,
+,(
+,
+)
+2 ^
+&
+0 
+ 
+E) 
+,
+,( ,
+)
+-
+-
+^
+"
+,
+20. 
+#
++
+-
+-
+`
+bbbbbb  
+ 
+ 
+ 
+ 
+ 
+       
+eşitsizlik sistemini sağlayan kaç tam sayı 
+değeri vardır?
+A) 0 
+B) 1 
+C) 2 
+ D) 3 
+E)  
+21. 
+#
+-
++
+-
++
+-
+-
+-
+ 
+ 
+ 
+     
+eşitsizlik sisteminin çözüm kümesi 
+aşağıdakilerden hangisidir?
+A) (-1, 2] 
+ B) (-4, 1) 
+C) (-4, 2]
+ 
+D) [-1, 2] 
+E) (-2, 3)
+22. (2x - 3)2.(-x + 2) ≥ 0 eşitsizliğinin çözüm                
+kümesi aşağıdakilerden hangisidir?
+A)
+,
+-
+=
+ 
+B)
+,
+3 -
+-
+D 
+C) [2, ∞)
+ 
+D)(-∞, 2] 
+E)
+,
+3 -
+S a y ı l a r  v e  C e b i 23. 
+$
++
+-
++
+-
+ eşitsizliğinin çözüm 
+kümesi aşağıdakilerden hangisidir?
+A) (3, 8)  
+B) (3, 2]  
+C) [3, 6]
+ 
+D) [2, 9]  
+E) [-2, 9]
+24. x2 + (m + 1)x + 1 = 0 denkleminin  reel kökü 
+olmadığına göre m nin alabileceği tam sayı 
+değerleri toplamı kaçtır?
+A) 16 
+B) 11 
+C) -2 
+D) 0 
+E) -25. Ahmet Bey işe gitmek için farklı iki yol 
+kullanmaktadır1. yolun uzunluğu (x2 + 4x + 10) metre, 
+2. yolun uzunluğu (3x + 166) metredirBirinci yol ikinci yoldan kısa olduğuna göre 
+x in alabileceği en küçük tam sayı değeri 
+kaçtır?
+A) -20 B) -16 C) -13 D) -12 E) -26.  +
+ ≥ 12  eşitsizliğinin çözüm kümesi 
+aşağıdakilerden hangisidir?
+A) (-4, 3) 
+B) [-4, 1) ∪ [3, ∞)
+C) (12, ∞) 
+D) (-∞, -4) ∪ (0, 3]
+E) [-4, 0) ∪ [3, ∞)
+27. Yanda verilen y = f(x) 
+fonksiyonunun grafiğine 
+göre (2 - x).f(x) < 0  
+eşitsizliğinin çözüm 
+kümesi aşağıdakilerden 
+hangisidir?
+A) (-1, 1) 
+B) (-1, 2)                   C) (-2, -1)
+ 
+D) (1, ∞)  
+E) (1, 2)
+28. 
+Yukarıdaki şekilde f ve g fonksiyonlarının 
+grafikleri verilmiştirf fonksiyonunun grafiği x eksenini (-2, 0) ve 
+(2, 0) noktalarında, g fonksiyonunun grafiği x 
+eksenini (1, 0) noktasında kesmektedir( )
+( )
+g f x  ≤ 0 eşitsizliğinin çözüm kümesi 
+aşağıdakilerden hangisidir?
+A) [-2, 1) ∪ [2, ∞)     
+B) (-∞, 1) ∪ [2, ∞)    
+C) (-2, 2)    
+D) [-2, 2]  
+ 
+ 
+E) (-∞, -2] ∪ (1, 2]
+f(x)
+-g(x)
+f(x)
+- 
+ 
+5. ÇEMBER VE DAİRGEOMETR5.1. Çemberin Temel Elemanlar5.2. Çemberde Açıla5.3. Çemberde Teğe5.4. Dairenin Çevresi ve AlanBu bölümd• Çemberde teğet, kiriş, çap, yay ve kesen kavramlarını açıklamayı, 
+• Çemberde kirişin özelliklerini göstererek işlemler yapmayı,
+• Bir çemberde merkez, çevre, iç, dış ve teğet-kiriş açıların özelliklerini 
+kullanarak işlemler yapmayı,
+• Çemberde teğetin özelliklerini göstererek işlemler yapmayı,
+• Dairenin çevre ve alan bağıntılarını oluşturmayöğreneceksinizBir futbol sahasında başlama vuruşunun yapıldığı noktanın orta 
+yuvarlağa olan uzaklığı hangi kavramla ifade edilebilir?
+Ceza yayı hangi geometrik şeklin bir parçasıdır ve futbol sahasına ne 
+amaçla çizilmiş olabilir?
+Orta yuvarlak (daire) hariç tüm çizgileri silinmiş bir futbol sahasında  
+başlama noktası (merkez) nasıl bulunur?
+Spor dallarının pek çoğunda oyun sahasının sınırlarını belirleyen ve oyun kurallarını 
+uygulamaya yönelik çizgiler bulunur. 
+Bir futbol sahasında "orta yuvarlak" adı verilen bölge, dairesel bir alandır. Başlama noktas bu dairenin merkezidirKale önündeki büyük dikdörtgene "ceza alanı", bu alanın dışındaki çizgiye "ceza yayı" 
+denir. Aşağıdaki şekilde topun bulunduğu yer penaltı atışının yapıldığı noktadırÇember, Merkez, Yarıçap, Çap, Kiriş, Kesen, Yay, Merkez Açı, Çevre Açı, 
+Teğet-Kiriş Açı, İç Açı, Dış Açı, Teğet, Teğet Parçası, Yay Uzunluğu, Daire, 
+Daire DilimK A V R A M L A H A Z I R L I K  Ç A L I Ş M A S  
+ 
+Düzlemdeki sabit bir noktadan eşit uzaklıkta bulunan noktaların kümesine çember denir. 
+Sabit olan noktaya çemberin merkezi (O), çemberin üzerindeki herhangi bir noktayı merkeze 
+birleştiren doğru parçasına çemberin yarıçapı denir. Merkez ve yarıçap çemberin temel 
+elemanlarıdırddO merkezli çemberin üzerinde alınacak tüm A noktaları için 
+[OA] çemberin yarıçapı olur. Bir çemberin çizilebilmesi için 
+merkezinin ve yarıçapının bilinmesi yeterlidir. O merkezli ve 
+yarıçap uzunluğu r olan çember Ç(O, r) şeklinde gösterilir. 
+Çemberin farklı iki noktasını birleştiren doğru parçasına 
+çemberin bir kirişi, merkezden geçen kirişe çemberin bir çapı 
+denir. Yandaki şekilde [CD] ve [EF] çemberin birer kirişidir. 
+[AB] çemberin merkezinden geçtiği için çemberin bir çapıdır, 
+aynı zamanda bu çemberin en uzun kirişidir ve çemberi iki eş 
+parçaya ayırırÇemberi farklı iki noktada kesen doğruya çemberin keseni 
+denir. Yandaki şekilde d1 ve d2 doğruları çemberi iki farklı 
+noktada kestiğinden bu doğrular çemberin kesenleridir. 
+Çemberde farklı iki nokta arasında kalan parçaya çemberin 
+bir yayı denir. Bir yay, iki uç noktası ile bunların arasındaki 
+üçüncü bir nokta ile belirlenir. Şekildeki iki yay AX&  ve AY&  
+biçiminde gösterilir. Bununla beraber, küçük olan yay AX&  
+için A$  gösterimi kullanılabilir. 
+5.1. Çemberin Temel Elemanlar5.1.1. Çemberde Teğet, Kiriş, Çap, Yay ve KeseBir Çember ile Bir Doğrunun Birbirlerine Göre DurumlarBir düzlemde çember ve doğrunun birbirlerine göre üç farklı durumu vardır. 
+O merkezli çemberin yarıçap uzunluğu r ve merkezinin d doğrusuna olan uzaklığı |OH| = h  olması 
+durumunda:
+Çember ile yalnız bir ortak noktası bulunan doğruya 
+çemberin bir teğeti denir. 
+Şekildeki çember ile d doğrusunun ortak noktası (A), teğetin 
+değme noktasıdır. 
+Çemberin merkezi ile teğetin değme noktasını birleştiren 
+doğru, teğete diktir. 
+1. h < r ise doğru çemberi iki noktada keser2. h = r ise doğru çembere teğettir3. h > r ise doğru çemberi kesmezBir çemberde x pozitif bir tam sayı olmak üzere yarıçap uzunluğu (3x + 2) cm, merkezin 
+bir d doğrusuna uzaklığı (5x - 4) cm  olarak veriliyor. d doğrusu ile çemberin ortak noktası 
+olmadığına göre çemberin yarıçap uzunluğunun en küçük değerinin kaç cm olduğunu 
+bulunuz. 
+ÇözüÇemberin yarıçap uzunluğu r, merkezinin d doğrusuna olan uzaklığı h olsun. Çemberin d 
+doğrusu ile bir ortak noktası olmadığına göre h > r olmalıdır5x - 4 > 3x + 2 ⇒ 2x > 6 ⇒ x > 3 
+Yarıçap uzunluğunun değeri 3x + 2 nin en küçük olması için x en küçük olmalıdır. 
+x tam sayı olduğuna göre x = 4 olur. O hâlde çemberin yarıçap uzunluğunun en küçük 
+değeri r = 3x + 2 = 3.4 + 2 = 14 cm olur1. Örnek 
+ 
+ 
+Orta dikm5.1.2. Çemberde Kirişin ÖzelliklerÇember ikonuna tıklayarak A merkezli çemberi oluşturunuzDoğru parçası ikonuna tıkladıktan sonra çemberin üzerindeki farklı iki noktayı birleştirerek 
+CD kirişini çizinizDik doğru ikonuna, ardından çemberin merkezine ve kirişe tıklayınız. Merkezden geçen ve 
+kirişe dik olan doğru, otomatik olarak çizilirKesiştir ikonuna, ardından kirişe ve doğruya tıklayarak doğru ile kirişin kesiştiği noktayı (E) 
+belirleyinizAçı ölçme ikonuna, ardından sırasıyla D, E, A noktalarına tıklayarak doğru ile kirişin 
+arasındaki açının 90° olduğunu belirleyinizUzaklık/uzunluk ikonuna, ardından C ve E noktalarına tıklayarak CE doğru parçasının 
+uzunluğunu belirleyiniz. 
+E ve D noktalarına tıklayarak ED doğru parçasının uzunluğunu belirleyiniz. 
+CE ve ED doğru parçalarının uzunluklarının birbirine eşit olduğuna dikkat edinizÇemberde merkezden kirişe indirilen dikme, kirişi ortalar. 
+Çember ikonuna tıklayarak A merkezli çemberi oluşturunuz. 
+Doğru parçası ikonuna tıklayınız. Çemberin üzerindeki farklı iki noktayı birleştirerek CD 
+kirişini çizinizOrta dikme ikonuna, ardından CD kirişine tıkladığınızda kirişin orta noktasından ve 
+çemberin merkezinden geçen doğru ekranda görülecektirÇemberde kirişin orta dikmesi çemberin merkezinden geçer1. Uygulama: Çemberin Merkezinden Kirişe Dikme ÇizmYandaki O merkezli çemberde [AB] kiriş, |AO| = 10 cm, 
+|AC| = 5 cm ve |CB| = 11 cm olduğuna göre OC 
+uzunluğunun kaç cm olduğunu bulunuzÇözüYandaki şekilde çemberin merkezinden [AB] kirişinyükseklik çizildiğinde |AH| = |HB| = 8 cm olur. 
+AOH üçgeninde Pisagor teoremi uygulandığınd|OH|2 + |AH|2 = |AO||OH|2 + 82 = 102 ⇒|OH| = 6 cm olurCOH üçgeninde Pisagor teoremi uygulandığınd|OH|2 + |CH|2 = |OC|62 + 32 = |OC|2 ⇒  |OC|2 = 45 ⇒ |OC| = 3 5  cm olur3. Örnek 
+Bir çemberde 24 cm uzunluğundaki kirişin merkeze olan uzaklığı 5 cm olduğuna göre bu 
+çemberin yarıçap uzunluğunun kaç cm olduğunu bulunuzÇözüYandaki O merkezli çemberde |AB|= 24 cm olacak şekilde 
+bir [AB] kirişi çizilir. Çemberin merkezinden kirişe indirilen 
+dikmenin ayağı H olmak üzere 
+|AH| = |HB| = 12 cm olur. 
+A noktası ile merkez birleştirilerek yarıçap elde edilir. 
+|OH| = 5 cm olduğuna göre oluşan AOH üçgeninde Pisagor 
+teoremi uygulandığında  
+r2 = 52 + 122 ⇒ r2 =   
+       ⇒ r = 13 cm olur2. Örnek 
+Çemberde kirişin özellikleri dört adımda incelenecektir1. Bir çemberin merkezinden kirişe indirilen dikme, kirişi ortalarYandaki şekilde |AO| = |OB| olduğundan AOB ikizkenar üçgendir.  
+İkizkenar üçgenin tepe noktasından indirilen dikme aynı zamanda 
+kenarortay olduğundan |AH| = |HB| olurBir çemberde kirişin orta dikmesi çemberin merkezindegeçer. Bir kirişin orta noktasını çemberin merkezine 
+birleştiren doğru, kirişe dik olurC 3  
+ 
+Yandaki O merkezli çemberin yarıçap uzunluğu 6 cm v|OA| = 2 cm olduğuna göre A noktasından geçen en kısa 
+kirişin uzunluğunu bulunuzÇözüYandaki çemberde OA doğru parçası A noktasından geçen 
+en kısa kirişe diktir. A noktasından geçen en kısa kiriş [BC] 
+olur. 
+[OA]⊥[BC] ⇒ |BA| = |AC| olur|AC| = x olmak üzere OAC üçgeninde Pisagor teoremi 
+uygulandığında x2 + 22 = 62 ⇒ x = 4 2  cm olur. Buradan 
+|BC| = 2x = 2. 4 2  = 8 2  cm olur4. Örnek 
+Yandaki O merkezli çemberde A noktasından geçeen kısa kirişin uzunluğu 12 cm olarak veriliyor. Çemberin 
+yarıçap uzunluğu 8 cm olduğuna göre  |OA| = x değerinin 
+kaç cm olduğunu bulunuzSıra Sizd2 2 2. Bir çemberin içindeki herhangi bir noktadan geçen en 
+kısa kiriş, o noktadan ve merkezden geçen doğruya 
+dik olan kiriştirYandaki O merkezli çemberde A noktasından geçen en 
+kısa kiriş [BC] olurA noktasından geçen en uzun kiriş [DE] çapıdırYandaki O merkezli çemberde [OA]⊥[BC], |BD| = 4 cm  ve 
+|AD| = 2 cm olduğuna göre |OD| = x değerinin kaç cm 
+olduğunu bulunuzSıra SizdYandaki O merkezli çemberde [OE]⊥[AB], [OF]⊥[CD],
+|AB| = |CD| = 12 cm, |OE| = (3x - 1) cm ve 
+|OF| = (2x + 2) cm olduğuna göre çemberin yarıçapının 
+uzunluğunu bulunuzÇözü[AB] ve [CD] kirişlerine merkezden inilen dikmeler bu 
+kirişleri ortaladığından v|AE| = |EB| = 6 c|CF| = |FD| = 6 c|OE| = |OF| olduğundan 3x - 1 = 2x + 2 ⇒ x = 3 cm olur|OE| = 3x - 1 = 3.3 - 1 = 8 cm olurOEB dik üçgeninde Pisagor teoremi uygulandığında yarıçap  
+uzunluğu r2 = 62 + 82 ⇒ r = 10 cm olur6. Örnek 
+Yandaki O merkezli çemberde |AB| = (3x + 3) cm, 
+|CD| = (4x - 4) cm ve |OE| = |OF| = 5 cm olduğuna göre 
+çemberin yarıçap uzunluğunun kaç cm olduğunu bulunuzÇözüYandaki çemberde [AB] ile [CD] kirişlerinin merkeze 
+uzaklıkları |OF| ile |OE| eşit olduğundan |AB| = |CD| olur. 
+Buradan 3x + 3 = 4x - 4 ⇒ x = 7 cm olur. 
+Bu değer |AB| = (3x + 3) cm eşitliğinde yerine yazıldığında 
+|AB| = 3.7 + 3 = 24 cm ve |AF| = |FB| = 12 cm olurOFB dik üçgeninde Pisagor teoremi uygulandığında 
+r2 = 52 + 122 ⇒ r = 13 cm olur5. Örnek 
+3. Bir çemberde eş kirişlerin merkeze uzaklıkları eşittirYandaki O merkezli çemberde |AB| = |CD| olsun. 
+Çemberin merkezinden kirişlere indirilen dikme ayakları E ile F 
+olmak üzere |AF| = |FB|= |CE| = |ED| olurAFO ile DEO üçgenlerinin birer dik kenarları ve hipotenüsleri 
+eşit olduğundan bu üçgenler birbirine eştir. 
+O hâlde |OF| = |OE| olurBir çemberde merkeze eşit uzaklıkta bulunan kirişlerin uzunlukları 
+birbirine eşittir 
+ 
+Yandaki O merkezli çemberde |AB| = 6 cm ve 
+|CD| = 8 cm olarak veriliyor. [AB] // [CD] ve r = 5 cm 
+olduğuna göre [AB] ile [CD] kirişleri arasındaki uzaklığı 
+bulunuzÇözüYandaki şekilde merkezden [AB] kirişine indirilen dikmenin 
+uzunluğu a, [CD] kirişine indirilen dikmenin uzunluğu olsunEOB ve COF üçgenleri özel üçgenler olduğundan 
+a = 4 cm ve b = 3 cm olurİki kiriş arasındaki uzaklık 
+|EF| = a + b = 4 + 3 = 7 cm olur8. Örnek 
+Yarıçap uzunluğu 7 cm olan yandaki çemberde [AB] kirişi 
+[CD] kirişine göre merkeze daha uzaktır. |AB| = (x + 5) cm, 
+|CD| = (2x + 2) cm olduğuna göre x in değer aralığını 
+bulunuzÇözüÇemberin yarıçap uzunluğu 7 cm olduğu için en uzun kiriş (çap) 14 cm olur|AB| < |CD|  olduğundan  x + 5 < 2x + 2 < 14  olur. Buradax + 5 < 2x + 2        ve       2x + 2 <        3 < x 
+ 
+           2x < 12 
+       
+ 
+ 
+             x < 6 olurO hâlde x in değer aralığı (3, 6) olur7. Örnek 
+x + 2x + Yandaki şekilde |OF| = a ve |OE| = b olsun|AB| > |CD| ⇒ |AF| > |ED|                    (1)
+|AF|2 + a2 = r2   ve   |ED|2 + b2 = r2 
+|AF|2 = r2 - a2   ve   |ED|2 = r2 - b2     (2)
+(1)  ve  (2) der2 - a2 > r2 - b2 

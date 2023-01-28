@@ -1,0 +1,400 @@
+periyodunu bulunuz. 
+Çözüx in alabileceği tam sayı değerleri için f(x) görüntü kümesinin tablosu aşağıdaki gibi olacaktır... 
+- y = f(x)
+... 
+ Tabloda görüldüğü gibi tam sayıların 2 ile bölümünden kalan 0 ile 1 olduğundan bu 
+değerler belli aralıklarla tekrar etmektedir. O hâlde f(x) fonksiyonu periyodiktir. Tekrar 
+edilen aralığın en küçük genişliği 2 olduğundan f(x) fonksiyonunun periyodu 2 olur60. Örnek 
+f:ℝ → ℝ olmak üzere f(x) = 3x - 2 fonksiyonunun periyodik olup olmadığını bulunuzÇözüTanım gereği f(x) = f(x + T) olmalıdır. 
+f(x + T) = 3(x + T) - 2 = 3x + 3T - 2 olur. 
+3x - 2 = 3x + 3T - 2 eşitliğinden 3T = 0 ⇒ T = 0 olur. 
+T ∉ ℝ+  olduğundan f(x) fonksiyonu periyodik değildir. 
+61. Örnek 
+T Sinüs ve Kosinüs Fonksiyonlarının Periyotlar325374sin--Yukarıdaki tabloda sinüs fonksiyonu için [0, 2π], [2π, 4π], ... aralıklarında 0, 1, 0, -1, 0 değerleri 
+tekrar etmektedirBenzer şekilde devam edildiğinde [4π, 6π], [6π, 8π] aralıkları için aynı durum tekrarlanır. 
+Buradan sinx = sin(x + 2π) = sin(x + 2.2π) = ... = sin(x + k.2π) olduğu görülür∀ x ∈ ℝ, k∈ ℤ+  olmak üzere sin(x + 2kπ) = sinx olduğundan sinüs fonksiyonunun periyodu en 
+küçük k ∈ ℤ+ için T = 2π olur325374cos--Yukarıdaki tabloda kosinüs fonksiyonu için [0, 2π], [2π, 4π], ... aralıklarında  
+1, 0, -1, 0, 1 değerlerinin tekrarlandığı görülmektedir. Buradan 
+cosx = cos(x + 2π) = cos(x + 2.2π) = ... = cos(x + k.2π) olduğu görülür∀ x ∈ ℝ, k ∈ ℤ+ için cos(x + 2kπ) = cosx olduğundan kosinüs fonksiyonunun periyodu en küçük  
+k∈ ℤ+ için T = 2π olur--f(x) = sin(3x - 1)  fonksiyonunun periyodunu bulunuzÇözüf(x) = f(x + T) olduğundasin(3x - 1) = sin(3(x + T) - 1) = sin(3x + 3T -1) olurSinx in periyodu 2π olduğundan 
+sin(3x - 1) = sin(3x -1 + 2π) olur. Buradasin(3x - 1 + 2π) = sin(3x - 1 + 3T) ⇒ 3T = 2π ⇒ T = 23  olur63. Örnek 
+Yandaki birim çemberde görüldüğü gibi α açısına 2π ve                     
+2π nin katları eklendiğinde sinüs ve kosinüs değerleri  
+değişmezsinα = sin(α + 2kπ)
+cosα = cos(α + 2kπ) 
+2π + Sinüs Fonksiyonunun Grafiğ∀ x ∈ ℝ, sin(x + 2kπ) = sinx olduğundan sinx fonksiyonunun periyodu  2π dir. Bu fonksiyonun grafiğ [0, 2π] nda çizilir. Grafik ... [-4π, -2π], [-2π, 0], [0, 2π], [2π, 4π] ...aralıklarında tekrar eder. 
+[0, 2π] nda birkaç değer seçildiğinde aşağıdaki tablo oluşur   - 2- 3- - 32sin--Tabloda oluşturulan (x, sinx) noktaları analitik düzlemde işaretlenerek ardışık noktalar uygun bir 
+şekilde birleştirildiğinde sinx  fonksiyonunun grafiği aşağıdaki gibi çizilir. 
+Yukarıdaki grafiğin orijine göre simetrik olduğu görülmektedir. Orijine göre simetrik fonksiyonlar 
+tek fonksiyondur. 
+f fonksiyonunun tanım kümesindeki her x değeri içi f(-x) = -f(x) ise f tektir, f(-x) = f(x) ise f çifttir. 
+Burada tanım gereği sin(-x) = -sinx olduğundan sinx fonksiyonu tek fonksiyondura ≠ 0 ve a, b, c ∈ ℝ olmak üzere 
+sin(ax + b) + c   ve  cos(ax + b) + c  fonksiyonlarının periyodu 
+ olurSonuç                   
+g( )
+co=
++
++
+l  fonksiyonunun  periyodunu bulunuzSıra Sizdg(x) = cos(4x) fonksiyonlarının periyodunu bulunuz. 
+ 
+Çözücos(4x) = cos(4(x + T)) = cos(4x + 4T), cos(4x) = cos(4x + 2π) olduğundacos(4x + 2π) = cos(4x + 4T) ⇒ 4T = 2π ⇒ T = 2  olur64. Örnek 
+-32-2-π 
+-
+π 
+T a sürgüsünü oluşturunuz. Sürgünün minimum değerini 0.01, maksimum değerini 2, artış 
+değerini 0.01 yapınızGirişe dizi yazınız. Açılan satırda ifade, değişken, başlangıç, bitiş, artış yerlerine sırasıyl(i,sin(i)+1), i, -3pi, 3pi, a yazınız. Enter tuşuna basınızSürgüyü a = 1.73 konumuna getirdiğinizde ekranda birkaç noktadan oluşan sinx + 1 
+fonksiyonunun grafiği belirmeye başlayacaktır. 
+Cebir penceresindeki liste1 kümesinde bu noktaların koordinatları görülecektira = 1.73 sayısı ardışık noktaların apsisleri arasındaki mesafeyi gösterirNoktalar arasındaki mesafeyi azaltmak için sürgüyü a = 0.15 konumuna getiriniz. 
+Ardışık noktalar birbirine yaklaşacak ve sinx + 1 fonksiyonunun grafiği ortaya çıkacaktır1. Uygulama: f(x) = sinx + 1 Fonksiyonunun GrafiğBu kitaptaki uygulamalarda GeoGebra programı kullanılacaktır. 
+Uygulamalarda yorum içeren ifadeler renkli verilmiştira sürgüsünü oluşturunuz. Sürgünün minimum değerini 0.01, maksimum değerini 2, artış 
+değerini 0.01 yapınızGirişe dizi yazınız. Açılan satırda ifade, değişken, başlangıç, bitiş, artış yerlerine sırasıyla 
+(i,2sin(3i+pi/2)), i, -3pi, 3pi, a yazınız. Enter tuşuna basınızSürgüyü a = 1.86 konumuna getirdiğinizde ekranda birkaç noktadan oluşan 
+si+
+l 
+fonksiyonunun grafiği belirmeye başlayacaktırSürgüyü a = 0.03 konumuna getirinizArdışık noktalar birbirine yaklaşacak ve 
+si+
+l fonksiyonunun grafiği ortaya çıkacaktırDoğru ve eğriler sonsuz noktaların birleşiminden oluşur. Bu tür grafikleri el ile çizerken 
+yukarıda yapıldığı gibi sonsuz noktalar bir araya getirilemeyeceğinden fonksiyonu sağlayan 
+bazı (x, y) noktaları bulunur. Bu noktalar uygun şekilde ardışık olarak birleştirilir ve grafikler 
+çizilir2. Uygulama: ( )
+sif =
++
+l Fonksiyonunun GrafiğT a sürgüsünü oluşturunuz. Sürgünün minimum değerini 0.01, maksimum değerini 2, artış 
+değerini 0.01 yapınızGirişe dizi yazınız. Açılan satırda ifade, değişken, başlangıç, bitiş, artış yerlerine sırasıyla 
+(i,3cos(2i)), i, -3pi, 3pi, a yazınız. Enter tuşuna basınızSürgüyü a = 1.23 konumuna getirdiğinizde ekranda birkaç noktadan oluşan 3cos(2x) 
+fonksiyonunun grafiği belirmeye başlayacaktır. 
+Cebir penceresinde liste1 kümesinde bu noktaların koordinatları görülecektir3. Uygulama: f(x) = 3cos(2x) Fonksiyonunun Grafiği 
+Kosinüs Fonksiyonunun Grafiğ∀ x ∈ ℝ, cos(x + 2kπ) = cosx olduğundan cosx fonksiyonunun  periyodu  2π olur. Bu fonksiyonun 
+grafiği [0, 2π] nda çizilir. Grafik ... [-4π, -2π], [-2π, 0], [0, 2π], [2π, 4π] ... aralıklarında tekrar 
+eder. [0, 2π] nda birkaç değer seçildiğinde aşağıdaki tablo oluşur-2- 3-- 32cos--Tabloda oluşturulan (x, cosx) noktaları analitik düzlemde işaretlenerek ardışık noktalar uygun bir 
+şekilde birleştirildiğinde cosx  fonksiyonunun grafiği aşağıdaki gibi çizilir. 
+Yukarıdaki grafiğin y eksenine göre simetrik olduğu görülmektedir. 
+Kosinüs fonksiyonunun grafiği y eksenine göre simetrik olduğundan kosinüs fonksiyonu 
+çift fonksiyondur. Dolayısıyla cos(-x) = cosx olur-32-2-π 
+-
+3π 
+-
+π 
+a sürgüsünü oluşturunuz. Sürgünün minimum değerini 0.01, maksimum değerini 2, artış 
+değerini 0.01 yapınız. 
+Girişe dizi yazınız. Açılan satırda ifade, değişken, başlangıç, bitiş, artış yerlerine sırasıyla 
+(i,2-sin(i+2)), i, -3pi, 3pi, a yazınız. Enter tuşuna basınız.          
+Girişe dizi yazınız. Açılan satırda ifade, değişken, başlangıç, bitiş, artış yerlerine sırasıyla 
+(i,3+cos(π+2i)), i, -3pi, 3pi, a yazınız. Enter tuşuna basınızSürgüyü a = 1.26 konumuna getirdiğinizde noktalardan oluşan fonksiyonların grafiği 
+belirmeye başlayacaktırSürgüyü a = 0.03 konumuna getirinizArdışık noktalar birbirine yaklaşacak ve fonksiyonların grafiği ortaya çıkacaktır4. Uygulama: f(x) = 2 - sin(x + 2) ve g(x) = 3 + cos(π + 2x)
+                           Fonksiyonlarının Grafiği 
+Sürgüyü a = 0.03 konumuna getirinizBu durumda ardışık noktalar birbirine yaklaşacak ve 3cos(2x) fonksiyonunun grafiği ortaya 
+çıkacaktırT Yandaki birim çemberde görüldüğü gibi α açısına π ve π nin 
+katları eklendiğinde tanjant ve kotanjant değerleri değişmeztanα = tan(α + kπ)
+cotα = cot(α + kπ) 
+P'
+π + a, b, c ∈ ℝ olmak üzere tan(ax + b) + c  ve  cot(ax + b) + c fonksiyonlarının periyodu a  
+olurSonuç                   
+Aşağıda verilen fonksiyonların periyotlarını bulunuza) f(x) = tan(-2x + 3) 
+b) g(x) = 3cot(1 - 3x) + 4 
+Sıra SizdTanjant ve Kotanjant Fonksiyonlarının Periyotlar325374tanTanımsıTanımsıTanımsıTanımsıYukarıdaki tabloda tanjant fonksiyonu için [0, π], [π, 2π], [2π, 3π], ... aralıklarınd0, tanımsız, 0 şeklinde tekrar eden sonuçlar elde edilir. Buradatanx = tan(x + π) = tan(x + 2π) = ... = tan(x + kπ) olduğu görülür∀ x ∈ ℝ, k∈ ℤ+ için tan(x + kπ) = tanx olduğundan tanjant fonksiyonunun periyodu en küçük  
+k ∈ ℤ+ için T = π olur325374cotTanımsıTanımsıTanımsıTanımsıTanımsıYukarıdaki tabloda kotanjant fonksiyonu için [0, π], [π, 2π], [2π, 3π], ... aralıklarındtanımsız, 0, tanımsız şeklinde tekrar eden sonuçlar elde edilir. Buradan 
+cotx = cot(x + π) = cot(x + 2π) = ... = cot(x + kπ) olur∀ x ∈ ℝ, k ∈ ℤ+ olmak üzere cot(x + kπ) = cotx olduğundan kotanjant fonksiyonunun periyodu 
+en küçük  k ∈ ℤ+ için T = π olura sürgüsünü oluşturunuz. Sürgünün minimum değerini 0.01, maksimum değerini 2, artış 
+değerini 0.01 yapınız. 
+Girişe dizi yazınız. Açılan satırda ifade, değişken, başlangıç, bitiş, artış yerlerine sırasıyla 
+ (i,tan(i)), i, -3pi, 3pi, a yazınız. Enter tuşuna basınızSürgüyü  a = 0.96 konumuna getirdiğinizde noktalardan oluşan fonksiyonun grafiği 
+belirmeye başlayacaktırSürgüyü a = 0.04 konumuna getirinizArdışık noktalar birbirine yaklaşacak ve tanx fonksiyonunun grafiği ortaya çıkacaktırGrafikte tanx fonksiyonunun 
+(
+) +
+ (k ∈ ℤ) açı ölçüleri için 
+tanımsız olduğuna dikkat ediniztanx fonksiyonu orijine göre simetrik olduğundan tek fonksiyondurtanx fonksiyonunun periyodu π dir. Bu periyoda karşılık gelen aralık  
+,
+r 2 -
+ldır5. Uygulama: f(x) = tanx Fonksiyonunun GrafiğT a sürgüsünü oluşturunuz. Sürgünün minimum değerini 0.01, maksimum değerini 2, artış 
+değerini 0.01 yapınız. 
+Girişe dizi yazınız. Açılan satırda ifade, değişken, başlangıç, bitiş, artış yerlerine sırasıyla 
+ (i,cot(i)), i, -3pi, 3pi, a yazınız. Enter tuşuna basınızSürgüyü a = 0.78 konumuna getirdiğinizde ekranda birkaç noktadan oluşan cotx fonksiyonunun 
+grafiği belirmeye başlayacaktırSürgüyü a = 0.03 konumuna getirinizArdışık noktalar birbirine yaklaşacak ve cotx fonksiyonunun grafiği ortaya çıkacaktırGrafikte k.π (k ∈ ℤ) açı ölçüleri için cotx fonksiyonunun tanımsız olduğuna dikkat edinizcotx fonksiyonu orijine göre simetrik olduğundan tek fonksiyondurcotx fonksiyonunun periyodu π dir. Bu periyoda karşılık gelen aralık (0,π) dır6. Uygulama: f(x) = cotx Fonksiyonunun Grafiğa sürgüsünü oluşturunuz. Sürgünün minimum değerini 0.01, maksimum değerini 2, artış 
+değerini 0.01 yapınız. 
+Girişe dizi yazınız. Açılan satırda ifade, değişken, başlangıç, bitiş, artış yerlerine sırasıyla 
+(i,1+cot(2i)), i, -3pi, 3pi, a yazınız. Enter tuşuna basınızGirişe dizi yazınız. Açılan satırda ifade, değişken, başlangıç, bitiş, artış yerlerine sırasıyla 
+(i,-2tan(i+pi)),  i, -3pi, 3pi, a yazınız. Enter tuşuna basınızSürgüyü a = 1.39 konumuna getirdiğinizde noktalardan oluşan 1 + cot(2x) ve -2tan(x + π) 
+fonksiyonlarının grafiği belirmeye başlayacaktırSürgüyü a = 0.04 konumuna getirinizArdışık noktalar birbirine yaklaşacak ve fonksiyonların grafiği ortaya çıkacaktır7. Uygulama: f(x) = 1 + c ot(2x) ve g(x) = -2tan(x + π) Fonksiyonlarının GrafiğT a = 1, b = 1, c = 0, k = 0 olmak üzere y = sinx in grafiğini çizmek için Girişe  sinx yazarak 
+Enter tuşuna basınız. Grafikte sinx in periyodu farklı renkte gösterilmiştira = 1, b = 2, c = 0, k = 0 için y = sin2x grafiğini oluşturunuz. 
+sin2x fonksiyonunun periyodunun =
+ olduğu görülür. 
+Periyodun fonksiyondaki x in katsayısına bağlı olduğuna, sinx e göre sin2x dalgalarının 
+daraldığına dikkat ediniza = 1, b = 1, c = 2, k = 0 için y = sin(x + 2) grafiğini oluşturunuz.  
+|BA| = 2 birim olduğundan grafikte sinx fonksiyonunun 2 birim sola ötelendiği görülür. 
+y = a.sin(bx + c) fonksiyonunun grafiğinde c > 0 olduğunda sinbx grafiği c  birim sola,
+c < 0 olduğunda sinbx grafiği c   birim sağa ötelenir8. Uygulama: y = a.sin(bx + c) + k  Fonksiyonlarının Grafiğy = sin(x + 1) - 2 fonksiyonunun grafiğini oluşturunuzGirişe y=sin(x+1) yazınız. Enter tuşuna basarak grafiği oluşturunuz. Grafik, sinx grafiğine 
+göre 1 birim sola ötelenir. 
+Girişe  sin(x+1)-2 yazarak grafiği oluşturunuzGrafik, sin(x + 1) fonksiyonunun grafiğine göre 2 birim aşağı ötelenir. 
+y = a.sin(bx + c) + k fonksiyonunda k > 0 olduğunda grafik k birim yukarı, k < 0 olduğunda 
+grafik |k| birim aşağı ötelenirGirişe sinx ve 3sinx yazarak fonksiyonların grafiklerini ayrı ayrı oluşturunuzy = sinx grafiğinde tepe noktasının grafiğin ortasından geçen yatay doğruya uzaklığı 1 birimdi. y = 3sinx grafiğinde tepe noktasının grafiğin ortasından geçen yatay doğruya uzaklığı 
+3 birimdiry = a.sin(bx + c) fonksiyonunun grafiğinde tepe noktasının grafiğin ortasından geçen yatay 
+doğruya uzaklığı |a| birimdir|a|değeri arttıkça dalganın yüksekliği artmakta, |a| değeri azaldıkça dalganın yüksekliği 
+azalmaktadır. 
+T Girişe cosx yazıp Enter tuşuna basarak fonksiyonun grafiğini oluşturunuzGirişe cos(1/2x) yazıp Enter tuşuna basarak fonksiyonun grafiğini oluşturunuzGirişe -2cos(2x)+1 yazıp Enter tuşuna basarak fonksiyonun grafiğini oluşturunuz9. Uygulama: y = a.cos(bx + c) + k Fonksiyonlarının GrafiğAşağıdaki fonksiyonların grafiğini GeoGebra programında  çizerek grafiği cosx 
+fonksiyonunun grafiğine göre yorumlayınıza)  y = 2cos(3x - π) 
+b)  
+co-
+=
+c)  
+(
+)
+coπ 
+=
++
++
+Sıra SizdAşağıdaki fonksiyonların grafiğini GeoGebra programında çizerek grafiği sinx 
+fonksiyonunun grafiğine göre yorumlayınıza) 
+siπ 
++
+-
+=
+b) 
+(
+)
+si-
+=
+Sıra Sizd1.2.5.  Ters Trigonometrik FonksiyonlaAşağıdaki ifadelerin değerlerini bulunuz)
+)
+arcsiarcsi-
+Çözüarcsin(y) = x fonksiyonunun görüntü kümesi 
+,
+r 2 -
+:
+D olduğundan 
+,
+r 2 d -
+:
+olmalıdır. 
+)
+,
+)
+,
+r r arcsisiarcsisi2 2 &
+&
+&
+&
+!
+!
+=
+=
+=
+-
+-
+=
+=-
+=-
+-
+:
+:
+65. Örnek 
+Aşağıdaki ifadelerin değerlerini bulunuza) arcsin1   
+b) arcsin 2   
+ 
+c) arcsi-
+Sıra Sizdf: A → B tanımlı bir f fonksiyonun tersinin fonksiyon olabilmesi için bu fonksiyonun bire bir ve 
+örten olması gerekir. 
+sinx, cosx  ve  tanx fonksiyonlarının grafikleri yatay doğru testine tabi tutulduğunda bu fonksiyonları bire bir olmadıkları görülür. Dolayısıyla mevcut tanım kümelerinde bu fonksiyonların ters 
+fonksiyonları yokturBu fonksiyonların tanım kümelerinin bire bir ve örten olan alt kümelerinden biri tanım kümesi 
+olarak seçildiğinde fonksiyonların bu kümede ters fonksiyonları vardır. 
+1.  f(x) = sinx Fonksiyonunun Terssinx fonksiyonunun tanım kümesi 
+,
+r 2 -
+:
+D olarak alındığında bu aralıkta fonksiyon bire bir ve 
+örten olurŞekilde verilen sinx grafiğinde görüldüğü gibi 
+fonksiyon 
+,
+r 2 -
+:
+D nda bire bir ve örtendirsinx fonksiyonu f:
+,
+r 2 -
+:
+D→[-1, 1], f(x) = sinx olarak tanımlandığındf-1: [-1, 1]→
+,
+r 2 -
+:
+D, f-1(x) = arcsinx fonksiyonuna sinüs fonksiyonunun ters fonksiyonu deniry = arcsinx ⇔ x = siny olursin--π 
+-
+π 
+T  sin(arcsinx) = x,  x ∈ [-1,1]  
+ arcsin(siny) = y,  y ∈ 
+,
+r 2 -
+:
+Nocos arcsin l değerini bulunuzÇözüarcsisix olsun Bu durumdolu=
+=
+Buna göre yandaki ABC dik üçgeni çizildiğinde 
+|AB| = 5k, |AC| = 13k  olur. Pisagor teoreminden 
+|BC| = 12k olur. Buradan 
+cos arcsicos=
+=
+ olur66. Örnek 
+13125arcsin sin l değerini bulunuzÇözü-
+sisisi=-
+=-
+=
+    
+&
+arcsisiolu-
+=
+= -
+ t ∈ 
+,
+r 2 -
+:
+D olduğundan 
+arcsin siv=-
+=-
+ olur. 
+67. Örnek 
+2. g(x) = cosx Fonksiyonunun Terscosx fonksiyonunun tanım kümesi [0, π] olarak alındığında bu aralıkta fonksiyon bire bir ve 
+örtendir. 
+Şekilde verilen cosx grafiğinde görüldüğü 
+gibi fonksiyon [0, π] nda bire bir ve örtendircosx fonksiyonu g: [0, π] → [-1, 1], g(x) = cosx olarak tanımlandığındg-1: [-1, 1] → [0, π], g-1(x) = arccosx fonksiyonuna cosx fonksiyonunun ters fonksiyonu deniry = arccosx ⇔ x = cosy olur-cosπ 
+π 
+-
+Aşağıdaki ifadelerin değerlerini bulunuz)
+)
+arccoarcco-
+Çözü&
+&
+&
+&
+)
+,
+)
+,
+arccococooluolu!
+!
+-
+=
+=-
+=
+=
+=
+arcco=
+@
+@
+68. Örnek 
+ cos(arccosx) = x, x ∈ [-1, 1]
+ arccos(cosy) = y, y ∈ [0, π]
+NoAşağıdaki ifadelerin değerlerini bulunuza) arccos0  
+ 
+b) arccos1 
+ 
+c) arcco-
+Sıra Sizdtan arccos l ifadesinin değerini bulunuzÇözüarccocox olsun Bu durumdolu=
+=
+ABC dik üçgeni çizildiğinde |BC| = 2k ve |AC| = 3k olur. 
+Pisagor teoreminden |AB| = 
+5  olur. Buradatan arccos l = tanBA=
+=
+ olur69. Örnek 
+32T tan(arctanx) = x, x ∈ arctan(tany) = y, y ∈ 
+,
+r 2 -
+Nota5arctanll değerini hesaplayınızÇözütatatan =
++
+=
+=
+                                                            
+arctan1 = t ⇒ tant = 1, t = r  olur.  
+ta5arcta=
+l  olur70. Örnek 
+3. h(x) = tanx Fonksiyonunun Terstanx fonksiyonu 
+,
+r 2 -
+l aralığında bire bir ve örtendir. 
+Yanda verilen tanx grafiğinde görüldüğü 
+gibi fonksiyon 
+,
+r 2 -
+l aralığında bire bir 
+ve örtendirπ 
+-
+π 
+Bu aralıkta tanx fonksiyonunun ters fonksiyonu vardırtanx fonksiyonu h: 
+,
+r 2 -
+l →ℝ , h(x) = tanx  olarak tanımlandığında 
+h-1: ℝ→ 
+,
+r 2 -
+l, h-1(x) = arctanx  fonksiyonuna tanx fonksiyonunun ters fonksiyonu deniry = arctanx ⇔ x = tany olurAşağıdaki ifadelerin değerlerini bulunuz)
+)
+(
+)
+)
+arctaarctaarcta-
+Çözü,
+&
+&
+&
+&
+&
+&
+)
+)
+(
+)
+)
+r arctaarctaarcta2 ! -
+-
+-
+tatata=
+=
+=
+=
+=
+=-
+=
+=
+=
+71. Örnek 
+Aşağıdaki ifadelerin değerlerini bulunuza) cos arcta-
+ll  
+b) 
+tan arcsin +
+Sıra Sizdsin arcta-
+ll ifadesinin değerini bulunuzÇözüarctana = b ifadesinde a < 0  ⇒  b ∈ 
+,
+2 -
+l  olurarcta-
+l negatif yönlü bir açıdır. Buna göre 
+arcta-
+=-
+ olsun. Burada(
+)
+tata&
+-
+= -
+=
+ olurYukarıdaki gibi bu oranda bir dik üçgen çizildiğinde Pisagor teoreminden |AC| = 17k  olur. 
+ 
+(
+)
+sin arctasisin-
+=
+-
+= -
+= -
+l olur. 
+72. Örnek 
+17158⟓
+arcsiarcco2 =
+ olduğuna göre x değerini bulunuzÇözüarcsin 2 = , y ∈ 
+,
+r 2 -
+:
+sin=
+  
+ 
+ 
+ 
+,
+,
+,
+r 2 0 +
+-

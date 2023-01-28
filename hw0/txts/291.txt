@@ -1,0 +1,400 @@
+$ $
+$
+$
+$
+2 3 3 3 $
+-
++
+-
++
+-
++
+-
++
+-
++
+-
++
+-
++
+$
+$
+-
++
+dd+
+=
+-
+=
+-
+-
+-
+=
+-
+-
+-
+birimkare bulunu=
+-
+=
+=
+=
+#
+#
+A1  alanı x ekseninin üzerinde ve A2  alanı x ekseninin 
+altında olduğundan A1  ve A2  alanlarının toplamÖRNEÖRNEÇÖZÜÇÖZÜMatematik Yanda 
++
+f =
+]
+ fonksiyonunun grafiği 
+verilmiştir. Buna göre grafikte gösterilen boyalı 
+bölgelerin alanlarının toplamını bulunuzdddd+
+=-
++
+-
+-
+=
++
+-
+-
+=
+-
+$
+=
+-
+birimkare bulunu=
+=
++
+=-
+#
+#
+#
+#
+-
+dd=
++
+=-
++
++
++
+#
+#
+&
+&
+x ddx ddolu2 +
+=
+=
+=
+integralinde 2 +
+=
+ dönüşümü yapılırsYapılan dönüşüm ve yeni sınırlar verilen belirli integrale uygulanırs&
+&
+&
+olu=-
+=
+=
+=
+=
+=
+İntegrallerin sınırları değiştirilirsA1  alanı x ekseninin alt kısmında vA2  alanı x ekseninin üst kısmında olduğundaÖRNEÇÖZÜİntegraYanda f = ] g fonksiyonunun grafiği ve eksenler arasınd kalan sınırlı bölgelerinin alanları ve 2  olmak 
+üzerf x d] #
+ ifadesinin değer 
+f x d=-
++
+] #
+ 
+     olur,
+a Y @ nda f ] g fonksiyonunun grafiği ile x  
+          
+     ekseni arasında kalan sınırlı bölgenin alan 
+f d=
++
+] #
+ 
+     olurYanda f = ] g fonksiyonunun 
+,
+2 -
+@ nda  
+x ekseni ile arasında kalan 
+,
+ve 3  sınırl bölgelerinin alanları gösterilmiştir 
+    
+birimkarbirimkarbirimkar=
+=
+=
+olduğuna göre aşağıdaki integrallerin değerlerin bulunuz         a) 
+-
+f x d] #
+                         b) 
+-
+f x d] #
+                   c) 
+-
+f x d] #
+         ç)  
+-
+f d] #
+                     d) 
+-
+f d] #
+                 e) 
+-
+f d] #
+ÖRNEUyarMatematik -
+f x d=-
++
+=-
++
+=-
+] #
+-
+f d=
++
+=
++
+=
+] #
+-
+f d=
++
++
+=
++
++
+=
+] #
+-
+f d=
++
+=
++
+=
+] #
+-
+f x d=
++
+=
++ -
+=-
+-
+]
+]
+^
+#
+-
+f x d=
++
++
+=
++ -
++
+=-
+-
+]
+]
+#
+a)
+b)
+c)
+ç)
+d)
+e)
+&
+&
+f x dg x df x dg x doluf g d=
++
+=
+=
+-
+=
+-
+]
+]
+]
+]
+^ ]
+]
+g`
+bbbbbbbbbbbbbb#
+#
+#
+#
+#
+İki Fonksiyonun Grafiği Arasında Kalan Sınırlı Bölgenin AlanYanda gösterilen  f ve g ]
+]
+g fonksiyolarının grafikleri ile a ve =
+=
+ 
+doğruları arasında kalan sınırlı bölgenin 
+alanı A1 ; g ^ h fonksiyonunun grafiği, 
+a ve =
+=
+ doğruları ile x ekseni 
+arasında kalan sınırlı bölgenin alanı A2  
+olmak üzerSonuç olarak 
+,
+a @ nda iki fonksiyonun grafiği arasında kalan alanı bulmak için üstteki 
+fonksiyondan alttaki fonksiyon çıkarılarak integral alınırÇÖZÜİntegraYanda f =
+-
++
+]   ve g =-
++
++
+]  fonksiyonlarını grafikleri verilmiştir. 
+Buna göre f ve g ]
+]
+g eğrileri arasında kalan A sınırlı bölgesini alanını bulunuz=
+-
++
+=-
++
++
+4 eğrilerinin kesim noktalarını bulmak için ortak çözüm yapılırsBu durumda 
+,
+0 @ nda üstteki g ^ h fonksiyonundan alttaki f ^ h fonksiyonu çıkarılarak integral 
+alınırs$
+-
++
+-
+3 3 $
+-
++
+-
++
+-
++
+-
++
++
++
+g f dd2 2 $
+$
+=
+-
+=
+-
++
+-
++
+=
+=
+-
+=
+-
+=
+-
+birimkare bulunu=
+d=
+^ ]
+]
+]
+]
+g#
+#
+#
+ÖRNEÇÖZÜ&
+&
+&
+veya olu$
+-
++
+=-
++
++
+-
+=
+-
+=
+=
+=
+]
+Matematik f ve g =-
++
++
+=
+-
++
+]
+^
+ fonksiyonlarının grafikleri arasında kalan sınırlı 
+bölgenin alanını Dinamik Geometri ve Matematik Yazılımı programını kullanarak hesaplayınızDinamik Geometri ve Matematik Yazılımı programını açınız1. Adım:  
+2. Adım:  
+3. Adım:  
+Giriş çubuğuna alttaki ekran klavyesini kullanarak 
+-
++
++
+ yazarak enter tuşun basınız. Ardından 2 -
++
+ yazarak enter tuşuna basınız. Her iki fonksiyonun 
+grafiği çizilecektirÖRNEÇÖZÜGiriş çubuğuna kesiştir yazıldığında açılan pencerede 2. sıradaki 
+Kesiştir( <Nesne>, <Nesne> ) sekmesini tıklayınız. Bu sekmede Kesiştir( f, g ) 
+yazıldığında fonksiyonların kesim noktaları olan A(1,5) ve B(4,2) noktaları görünür. Bu 
+durumda f ve g fonksiyonlarının kesim noktalarının apsisleri 1 ve 4 olurGiriş çubuğuna Alan=İntegral yazınız. Açılan pencerede 5. sıradaki 
+Alan=İntegralArasında(<fonksiyon>,<fonksiyon>,<başlangıç x-değeri>,<bitiş x-değeri>) 
+sekmesini tıklayınız. Bu sekmede Alan=İntegralArasınd,
+, ,
+f g 1 ^
+h yazarak boyalı 
+alan elde edilir. Enter tuşuna bastığınızda hesaplanan alan hem koordinat sistemi 
+üzerinde hem de cebir penceresinde 9 birimkare olarak görülecektirİntegraEğer f ve g ]
+]
+g fonksiyonlarının grafikleri 
+yandaki gibi verilirse boyalı bölgelerin toplam 
+alanı, ve 2  alanlarının ayrı ayrı hesaplanara toplanması ile bulunuroluf g dg f d=
++
+=
+-
++
+-
+^ ]
+]
+^ ]
+]
+gg#
+#
+Yanda f ve g ]
+]
+g fonksiyonlarının grafikleri verilmiştirve :
+ bulundukları sınırlı bölgelerin alanlarf g df g d-
+=
+-
+=-
+:
+:
+^
+^
+]
+]
+]
+]
+#
+#
+olduğuna göre ve 2  alanlarının kaç birimkare 
+olduğunu bulunuzf g dg f dx olu=
+-
+=
+-
+^
+^
+]
+]
+]
+]
+#
+#
+&
+f g dbirimkare oluf g df g df g dbirimkare bulunu-
+=-
+=
+-
+=
+-
++
+-
+=
+-
+=
+-
+^
+^
+]
+]

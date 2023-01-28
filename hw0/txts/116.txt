@@ -1,0 +1,400 @@
+h ifadesini değeri 192 metrekaredirb) ABCD dikdörtgeninin çevresi 
+CCBB&
+$
++
+=
++
+=
+ bulunur. Toplamları 
+verilen iki sayının çarpımlarının en büyük olabilmesi için birbirlerine en yakın değerleri alması 
+gerekir. Buradan 
+ve CB=
+=
+ seçilirse bu koşullarda verilen arsanın alanı en çok 
+CB$
+=
+ metrekare olurLise öğrencisiyken matematik dersini çok seven Ayşe Hanım, 10. sınıfta okuyan oğlu Eren’in okulda matemati dersinde çarpanlara ayırma konusunu işlediklerini öğrenince bu konuyla ilgili Eren’in bilgisini ölçmek 
+amacıyla bir arsaya ait aşağıdaki bilgileri veriyor• Arsa dikdörtgen şeklindedir• Arsanın köşegen uzunluğu 20 metredir• Arsanın çevre uzunluğu 56 metredirBu bilgiler doğrultusunda Ayşe Hanım, Eren’dea) Arsanın alanının kaç metrekare olduğunu bulmasını istiyorb) Arsanın sadece çevre uzunluğu verilseydi alanının en çok kaç metrekare olabileceğini bulmasını 
+istiyorSoruları doğru cevaplayan Eren’in bu sorulara verdiği cevapları bulunuzBir polinomda benzer terimlerin yeni bir değişkenle adlandırılıp daha sade bir hâle getirildikte sonra çarpanlara ayrılması işlemine değişken değiştirme yöntemi ile çarpanlara 
+ayırma yöntemi denirİpuc2 +
+-
+=
++
+-
+^
+ şeklinde düzenlenip 2 +
+-
+^
+  ifadesinde x2  yerine a değişkeni yazılırs 2 +
+-
+ elde edilir.  
+Elde edilen bu ifade çarpanlarına ayrılırsa $
++
+-
+]
+]
+g olur. 
+a yerine tekrar x2  yazılırsa $
+$
+$
++
+-
++
+-
+=
++
+^
+^
+^
+]
+]
+@ olur$
+$
++
+-
+=
++
+-
++
+^
+]
+]
+@ olduğu görülür(
+)
+(
+)
+-
+-
+-
+-
+ ifadesinde 2 -
+^
+h yerine a değişkeni yazılırsa 2 -
+-
+ olur. 
+Elde edilen bu ifade çarpanlarına ayrılırsa (
+) (
+)
+olu$
+-
++
+ 
+a yerine tekrar 2 -
+^
+h yazılırsa (
+) (
+)
+$
+-
+-
+-
++
+ olur. 
+Buradan (
+) (
+)
+(
+) (
+)
+$
+$
+$
+-
++
+-
+-
+@
+@ elde edilir(
+)
+(
+)
+(
+) (
+) (
+) (
+)
+$
+$
+$
+-
+-
+-
+-
+=
+-
++
+-
+-
+ olduğu görülürDeğişken Değiştirme Yöntemi ile Çarpanlara Ayırm+
+-
+ ifadesini çarpanlarına ayırınız(
+)
+(
+)
+-
+-
+-
+-
+ ifadesini çarpanlarına ayırınız96  sayısı x ile gösterilirse 
+=
++
+ olur. Bu değerler 
+96 $
++
+ ifadesinde yerine yazılırsa 
+(
+)
+(
+)
+$
++
++
+=
++
++
+=
++
+=
++
+ olur. 
+Bu ifadede x yerine 96  yazılırsa +
+=
+ olur96 $
++
+ ifadesinin değerini bulunuzVerilen ifadede 18 yerine x yazılırsa 
+,
+volu2 =
++
+=
++
+=
++
+ Böylec$
+$
+$
++
++
++
++
+]
+]
+]
+ ifadesi elde edilir. Bu ifadeden ortak terim elde etmek için  x ile (
+)
++
+ 
+ve (
+)
+(
+)
+ile +
++
+terimleri çarpılır. Burada$
+$
++
++
+=
++
++
+=
++
++
+=
++
+=
++
+=
++
++
++
++
+^
+]
+]
+^
+444 444  
+bulunur. 2 +
++
+ ifadesinde x yerine 18 yazılırsa 6 $
++
++
+=
+=
+ olur18 20 22 $
+$
+$
++
+ işleminin sonucunu bulunuz1. m gerçek sayı olmak üzer$
+$
+-
+-
+-
+-
+-
+]
+]
+]
+]
+g ifadesini 
+çarpanlarına ayırınız. 
+2. 
+85 $
++
+ ifadesinin değerini bulunuz                                                               
+3. 999 $
+ çarpımını iki kare özdeşliği kullanara yazınız.  
+4. +
+-
+-
+^
+^
+h   ifadesini çarpanlarına 
+ayırınız.  
+5. 2 -
+-
+  ifadesini çarpanlarına ayırınız                                              
+6. +
++
+-
+  ifadesini çarpanlarına ayırınız.   
+7. -
+-
+-
+-
+^
+^
+ ifadesini çarpanların ayırınız.   
+ALIŞTIRMALA( )
+( )
+P ve Q x  birer polinom ve 
+( )
+Q !
+ olmak üzere 
+( )
+( )
+Q P  şeklindeki ifadelere rasyonel 
+ifadeler denirRasyonel ifadelerde toplama, çıkarma, çarpma ve bölme işlemleri rasyonel sayılarda olduğu 
+gibi yapılırRasyonel ifadelerde  önce pay ve paydadaki ifadeler çarpanlarına ayrılır varsa ortak olan 
+çarpanlar sadeleştirilir. 
+10.3.2.2. Rasyonel İfadelerin Sadeleştirilmes+
+-
+-
++
+ rasyonel ifadesinin en sade hâlini bulunuz-
++
+ rasyonel ifadesinin en sade hâlini bulunuzBilg$
+$
+$
+$
+$
+$
+-
+-
++
+=
+-
+-
+-
+-
+=
+-
+-
+-
+=
+-
+-
+-
++
+=
++
+-
++
+-
+-
+-
+]
+]
+]
+]
+]
+]
+^
+]
+]
+]
+]
+]
+]
+ olur-
++
+-
+-
++
+ ifadesinin en sade hâlini bulunuz+
+-
+-
++
+ rasyonel ifadesinde pay ve paydalar çarpanlarına ayrılırsa (
+) (
+)
+(
+) (
+)
+$
+$
+-
++
+-
+-
+ olur. 
+Pay ve paydadaki ortak çarpanlar sadeleştirilirse verilen rasyonel ifadenin en sade hâli,
+(
+) (
+)
+(
+) (
+)
+$
+$
+-
++
+-
+-
+=
++
+-
+ olur(
+) (
+)
+(
+)
+$
+$
+-
++
+=
+-
++
++
+=
+-
+ olur,
+( )
+( )
+Q T !
+!
+ iken 
+( )
+( )
+( )
+( )
+Q P ve T R x  birer rasyonel ifade olmak üzera) Toplama işlemi 
+( )
+( )
+( )
+( )
+( )
+( )
+( )
+( )
+( )

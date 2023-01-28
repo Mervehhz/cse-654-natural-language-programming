@@ -1,0 +1,400 @@
+-
++
+-
+]
+]
+]
+]
+]
+#
+ifadesinin eşiti aşağıdakilerden hangisidi?
+dd+
+-
++
+#
+#
+eşitliğini sağlayan f ] g fonksiyonu doğrusa bir fonksiyondurf ] g fonksiyonunun grafiğinin x eksen ile yaptığı açı, dar açı olduğuna göre 
+f ] g kaçtır?
+)
+)
+)
+)
+)
+-
+-
+-
+-
+-
+)
+)
+)
+)
+)
+C +
++
++
++
+dd+
+]
+#
+ifadesinin eşiti aşağıdakilerden hangisidi?
+f x d$
+$
+=
+-
++
+]
+]
+#
+İntegra)
+)
+)
+)
+)
+-
+-
+f g =
+-
+-
+=
+-
+-
+:
+:
+]
+]
+olduğuna göre 
+fox d^
+]#
+  ifadesini değeri kaçtır?
+)
+)
+)
+)
+)
+-
+-
+g =
++
+=
+-
+=
+:
+:
+:
+]
+]
+]
+]
+olduğuna göre  f ] g ve g ] g fonksiyonlarnın kesim noktalarının apsisleri toplaı kaçtır?
+,
+,
+f g g is$
+=
++
+-
+is]
+]
+]
+*
+biçiminde tanımlı f ] g fonksiyonu veriliyorf x d=
+-
+] #
+ 
+olduğuna göre 3 -
+-
+]
+]
+g farkı 
+kaçtır?
+)
+)
+)
+)
+)
+x d2 =
+-
+-
+=
+-
+:
+:
+]
+]
+]
+#
+olduğuna göre f ] g kaçtır?
+)
+)
+)
+)
+)
+-
+-
+-
+Yukarıda f = ] g doğrusal fonksiyonunun 
+grafiği verilmiştirx d=
+-
+l] #
+ olduğuna göre a kaçtır?
+)
+)
+)
+)
+)
+-
+-
+-
+-
+-
+Yukarıda f = ] g fonksiyonunun grafiği 
+verilmiştir. f fonksiyonuna =
+ apsisli 
+noktasından çizilen teğet x ekseni ile pozitif 
+yönde 120c açı yapmaktadırBuna göre 
+d$
++
+-
+l]
+]
+]
+g#
+ 
+ifadesinin değeri kaçtır?
+)
+)
+)
+)
+)
+-
+-
+120Matematik Yukarıda f = ] g fonksiyonunun grafiği 
+verilmiştirolduğuna göre a kaçtır?
+)
+)
+)
+)
+)
+-
+-
+-
+-
+-
+f =
+-
+]  eğrisi ile 
+=
+ doğrus arasında kalan sınırlı bölgenin alanı 
+kaç birimkaredir?
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+-
+#
+ifadesinin değeri aşağıdakilerden hangisidi?
+ olduğuna göre a kaçtır?
+)
+)
+)
+)
+)
+-
+-
+d+
+=
+-
++
+]
+#
+Yukarıda f = ] g parabolünün grafiği verilmişti. Grafikte f ] g fonksiyonunun 
+,
+0 @ 
+nda Riemann toplamı gösterilmiştir. 
+:
+Grafikte gösterilen Riemann toplamı f x d=
+:
+] #
+olduğuna göre -
+ değeri kaçtır?
+)
+)
+)
+)
+)
+ ifadesinin değeri kaçtır?
+A) B) C) D) E)  ifadesinin değeri kaçtır?
+)
+)
+)
+)
+)
+-
+-
+-
+-
+d$
++
+#
+f x df d-
++
++
+^ ]
+^ ]
+#
+#
+f =
++
+-
+]  eğrisi ile =
+ 
+doğrusu arasında kalan sınırlı bölgenin 
+alanı kaç birimkaredir?
+)
+)
+)
+)
+)
+df =
+:
+] #
+-
+:
+İntegraifadesinin değeri kaçtır?
+)
+)
+)
+)
+)
+-
+d#
+ 
+Yukarıda f = ] g fonksiyonunun grafiği 
+verilmiştir. 
+,
+a @ nda f fonksiyonu ile x 
+ekseni arasında kalan bölgelerin alanlarbirimkarbirimkarbirimkar=
+=
+=
+:
+:
+:
+ 
+olduğuna göre aşağıdaki ifadelerden 
+hangisi yanlıştır?
+)
+)
+)
+)
+)
+f df x df df df x d=
+=
+=
+=
+=
+]
+]
+]
+]
+]
+#
+#
+#
+#
+#
+olduğuna göre 
+f x df x d-
+]
+]
+#
+#
+ 
+integrallerinin farkı kaçtır?
+)
+)
+)
+)
+)
+-
+-
+-
+f x df x d=
+=
+:
+:
+]
+]
+#
+#
+E) 37-38. üst düzey beceri sorularını şekle      
+     ve metne göre cevaplayınızMatematik öğretmeni Özge Hanım derste Rieman toplamlarını anlattıktan sonra 1 metrekarey ortalama 4 kişinin sığabileceğini belirtiyorÖzge Öğretmen 
+öğrencilerine 
+bahçedeki ağacı 
+göstererek bu 
+ağacın gölgesine 
+şu an yaklaşık 
+olarak kaç kişinin 
+sığabileceğini 
+soruyorÖğrenciler, 
+ağacın gölgesinin 
+sınırlarını tebeşirle 
+belirledikten 
+sonra şekildeki 
+gibi birbirine 
+paralel çizgiler 
+çizerek 1 metre 
+genişliğinde şeritler 
+oluşturuyorlarÖğrenciler, daha 
+sonra her iki çizgi 
+arasına şekildeki 
+gibi birbirine 
+paralel kırmızı 
+çizgiler çiziyorlar. 
+Sonrasında beyaz 
+çizgiler arasındaki 
+uzaklığı en, 
+kırmızı çizgilerin 
+uzunluğunu ise boy 
+kabul eden dikdörtgenler oluşturarak Riemann 
+toplamı mantığıyla ağacın gölgesinin alanını 
+yaklaşık olarak hesaplamak istiyorlarKırmızı çizgilerin boyları soldan sağa sırasıyla 
+3, 5, 6, 7, 6, 5, 4, 3 ve 2 metre olduğuna göre; 
+Öğrenciler ağacın gölgesini yaklaşık olarak 
+kaç metrekare olarak hesaplarlar?
+Öğrenciler ağacın gölgesine yaklaşık olara kaç kişinin sığacağını bulur?
+Matematik ANALİTİK GEOMETR7.1. ÇEMBERİN ANALİTİK 
+İNCELENMESHAZIRLIK ÇALIŞMALARÇember nedir?
+Analitik düzlemde merkezi orijinde olan bir çemberin yarıçap uzunluğu 5 birim 
+ise çember üzerindeki bir A(x,y) noktası için x ile y arasındaki ilişki nedir?
+Çemberin merkezi, 2 birim sağa ve 3 birim yukarı ötelenirse x ile y arasındaki 
+ilişki ne olur?
+Analitik GeometrHATIRLATMYanda verilen çemberde sabit M noktası çemberin 
+merkezi; 
+,
+MMB ve M@
+@
+@ çemberin yarıçapıdı. MMM=
+=
+=
+ çemberin yarıçap 
+uzunluğudurAnalitik düzlemde bir çemberin belirli olabilmesi 
+için merkezi ve yarıçap uzunluğu ya da üç noktası 
+bilinmelidirDik koordinat sisteminde ,
+^
+h ve ,
+^
+h 
+noktaları arasındaki uzaklık ACB dik üçgeninde 
+Pisagor teoremi uygulanarak hesaplanabilirAbirBbirioldugundam v=
+-
+=
+-
+{
+^
+^

@@ -1,0 +1,400 @@
+-a2 > - b2 
+a2 < b2 olur. Buradan a < b  olur4. Bir çemberde iki kiriş merkezden eşit uzaklıkta değilse uzun olan kiriş merkeze daha 
+yakındır. 
+Yandaki şekilde O merkezli 
+çeyrek çember ve OABC 
+dikdörtgeni verilmiştir|DC| = 4 cm ve 
+|OC| = 2 cm olduğuna 
+göre |EB| = x in kaç cm 
+olduğunu bulunuzYandaki O merkezli 
+çemberde C, D, B 
+noktaları doğrusal ve 
+[AB] çaptır. 
+|AO| = 5 cm,
+|CD| = 1 cm ve 
+|DB| = 7 cm olduğuna 
+göre |OD| = x değerinin 
+kaç cm olduğunu 
+bulunuzYandaki O merkezli 
+çeyrek çemberde 
+CODE bir dikdörtgendir. 
+|DC| = 5 cm v|AD| = 2 cm olduğuna 
+göre |BC| = x değerinin 
+kaç cm olduğunu 
+bulunuzYandaki O merkezli 
+çemberde [CD]⊥[AB],  
+|AK| = 4 cm, 
+|KB| = 8 cm ve   
+|DK| = 2 cm olduğuna 
+göre çemberin yarıçap 
+uzunluğunun kaç cm 
+olduğunu bulunuzYandaki O merkezli iki 
+çemberde |OC| = 24 cm,
+|AC| = 1 cm verilmiştir. 
+[AB] içteki çembere T 
+noktasında teğettir. Buna 
+göre |AB| = x değerinin 
+kaç cm olduğunu bulunuzYanda yarıçap uzunluğu 
+5 cm olan O merkezli 
+çemberde [AB] kirişinin 
+merkeze olan uzaklığı        
+3 cm olduğuna göre 
+|AB| değerinin kaç cm 
+olduğunu  bulunuzYandaki O merkezli 
+çemberde [AB] // [CD], 
+[AO]⊥[OC] ve 
+|AB| + |CD| = 18 cm 
+olduğuna göre [AB] ile 
+[CD] kirişleri arasındaki 
+uzaklığın kaç cm olduğunu 
+bulunuzYandaki O merkezli 
+çemberde [OD]⊥[AB], 
+[OE]⊥[AC],
+|OD| = |EC| = 2 cm ve 
+|DB| = 3 cm verildiğine 
+göre |OE| = x değerinin 
+kaç cm olduğunu bulunuz 12 3 45678Alıştırmala 
+ 
+5.2. Çemberde Açıla5.2.1. Bir Çemberde Merkez Açı, Çevre Açı, İç Açı, Dış Açı ve Teğet-Kiriş AçÇembeDoğru parçası AçMetiÇember ikonuna tıklandıktan sonra 
+açılan seçeneklerde merkez ve bir 
+noktadan geçen çember seçilir. 
+İmleç, grafik penceresinde tıklanıp 
+sürüklendiğinde A merkezli bir çember 
+elde edilir. İmlecin bırakıldığı yerde, 
+çemberin üzerinde bir B noktası oluşur. 
+Cebir penceresinde çemberin denklem ile A ve B noktalarının koordinatları 
+görülecektirDoğru parçası ikonuna, ardından A 
+ve B noktalarına tıklayarak AB doğru 
+parçasını çiziniz. Yine A noktasına, 
+ardından çember üzerinde herhangi 
+bir yere tıklayarak AC doğru parçasını 
+çiziniz.  
+Açı ikonuna tıkladıktan sonra çember 
+üzerinde sırasıyla C, A, B noktalarını 
+seçerek pozitif yönlü CAB merkez 
+açısının ölçüsünü belirleyinizGirişe  yay yazdıktan sonra oluşan 
+satırda çember bölümüne çemberin 
+adı olan c, nokta bölümlerine C ve B 
+yazınız. CB yayının rengi değişecektir. 
+İmleci yayın üzerine getirip sağ tıklayınız. 
+Özellikler sekmesinden yayın rengini 
+seçebilirsiniz. Çemberin ismi cebir 
+penceresinde konik başlığı altındadırB noktasını hareket ettirerek merkez 
+açının değişik durumlarını görebilirsiniz. 
+Merkez açının ölçüsü ile bu açının 
+gördüğü yayın ölçüsünün her durumda 
+birbirine eşit olduğuna dikkat edinizBir çemberde merkez açının ölçüsü, bu açının gördüğü yayın ölçüsüne eşittir2. Uygulama: Çemberde Merkez AçYandaki O merkezli çemberde 
+(
+)
+m AO\  = 3x + 5° ve 
+(
+)
+m A$  = 4x - 10° olduğuna göre ACB yayının ölçüsünün 
+kaç derece olduğunu bulunuz. 
+ÇözüAO\  merkez açı olduğu için ölçüsü A$ nın ölçüsüne eşittir4x - 10° = 3x + 5° ⇒ 4x - 3x = 5° + 10°
+ 
+                       ⇒ x = 15° olur. 
+Bu değer 
+(
+)
+m A$  = 4x - 10° eşitliğinde yerine yazıldığınd(
+)
+m A$
+= 4.15° - 10° = 50° olur. Burada(
+)
+m AC'  = 360° - 50° = 310° olur9. Örnek 
+Merkezleri O olan üç çemberin merkez açılarının ölçüsü α olsun. 
+α, görmüş olduğu yay ölçülerine eşittir. Buna gördıştaki çember için α = 
+(
+)
+m A$
+ortadaki çember için α = 
+(
+)
+m C$
+içteki çember için α = 
+(
+)
+m E#  olur2. Çemberde eş kirişlerin belirlediği yaylar eştir. 
+Yandaki çemberde |AB| = |CD| olsun.  
+Çizilen yarıçaplarla oluşturulan AO&  ve CO& eş üçgenlerdir (K.K.K.)Dolayısıyla iki üçgenin tepe açıları eşittir. 
+Bir çemberde merkez açının ölçüsü, bu merkez açının gördüğü yayın 
+ölçüsüne eşit olduğundan 
+(
+)
+m A$  = 
+(
+)
+m C$ olurO hâlde çemberde eş kirişlerin belirlediği yaylar eştirYandaki şekilde ölçüsü α olan AOB açısı bir merkez açıdırAB yayı, AOB açısının gördüğü yaydırMerkez AçKöşesi çemberin merkezinde olan açıya çemberin bir merkez açısı denir. Merkez açının özellikleri 
+üç adımda incelenecektir1. Bir çemberde bir merkez açının ölçüsü bu merkez açının gördüğü yayın ölçüsüne eşittir. 
+3x + 5°
+4x - 10°
+ 
+ 
+Yandaki O merkezli çemberde [OD]⊥[AC] ve [AB] çaptır. 
+(
+)
+m AO\  = 30° olduğuna gör(
+)
+m C#  nün kaç derece olduğunu bulunuzÇözüYandaki çemberde AOD merkez açısı AD yayını 
+gördüğünden 
+(
+)
+m A$  = 30° olur. 
+OD dikmesi AC yayını ortalar(
+)
+m A$  = 
+(
+)
+m D$  = 30° olur(
+)
+m AC'  = 180° olduğundan  
+(
+)
+m B#  = 180° - (30° + 30°) = 120° olur11. Örnek 
+Yandaki şekilde köşeleri O merkezli çember üzerinde olan 
+ABC ikizkenar üçgeninde |AB| = |AC| olarak veriliyor. 
+(
+)
+m B#
+= 100° ve 
+(
+)
+m BO\  = 3x + 10° olduğuna göre 
+x değerinin kaç derece olduğunu bulunuzÇözüYukarıdaki şekild(
+)
+m B#  = 100° ⇒ 
+(
+)
+m BA&
+= 360° - 100° = 260° olur. 
+|AB| = |AC| olduğundan 
+(
+)
+m A$  = 
+(
+)
+m A$  = 
+260°  = 130° olurBO\  merkez açı olduğundan bu açının gördüğü yayın ölçüsüne eşittir3x + 10° = 130° ⇒ 3x = 120°
+ 
+ 
+    ⇒ x = 40° olur10. Örnek 
+3. Bir çemberin merkezinden kirişe indirilen dikme bu kirişin gördüğü yayı ortalarYandaki O merkezli çemberde AO&  ikizkenar üçgen olduğundamerkezden AB kirişine indirilen dikme aynı zamanda üçgeniaçıortayıdır. 
+AOC ve COB merkez açılarının ölçüleri eşit olduğunda(
+)
+m A$  = 
+(
+)
+m C#  olurO hâlde bir çemberin merkezinden kirişe indirilen dikme bu kirişin 
+gördüğü yayı ortalar30°
+30°
+30°
+30°
+Bir önceki uygulamada elde ettiğiniz son görüntüden hareketle BD ve CD doğru parçalarını 
+çizerek CDB çevre açısını oluşturunuz. 
+Açı ikonuna, ardından sırasıyla çember üzerindeki C, D, B noktalarına tıklayarak çevre açının 
+ölçüsünü belirleyiniz. 
+Çevre açının, merkez açının ve CB yayının ölçüsü arasındaki ilişkiyi görmeye çalışınızB noktasını hareket ettirerek çevre açının, merkez açının ve BC yayının ölçüsü arasındaki 
+ilişkinin  bir önceki adımda olduğu gibi devam edip etmediğini tespit edinizÇevre açının ölçüsü, bu açının gördüğü yayın ölçüsünün yarısına eşittir3. Uygulama: Çevre Aç 
+ 
+Yandaki çemberde |AB| = |BC|, 
+(
+)
+m A$
+= 45° ve 
+(
+)
+m AB\  = 3x + 15° olduğuna göre x değerinin kaç 
+derece olduğunu bulunuzÇözüYandaki şekilde |AB| = |AC| olduğundan 
+(
+)
+m A$  = 
+(
+)
+m B#
+= 45° olur(
+)
+m A$  = 360° - (45° + 45°) = 360° - 90° = 270° v(
+)
+(
+)
+m ABm A270°
+=
+=
+$
+\
+= 135° olur. Burada(
+)
+m AB\  = 3x + 15° = 135° ⇒ 3x = 120° ⇒ x = 40° olur12. Örnek 
+Yandaki O merkezli çemberde 
+(
+)
+m AO\  = 100° ve  
+(
+)
+m AB\  = 2x + 40° olduğuna göre x in kaç derece 
+olduğunu bulunuzÇözüYandaki şekilde 
+(
+)
+m A$  = 100° olur. Burada(
+)
+°
+m AB100°
+=
++
+=
+\
+ = 50° olur2x + 40° = 50° ⇒ 2x = 10° ⇒ x = 5° olur13. Örnek 
+Çevre AçKöşesi çemberin üzerinde olan ve kenarları çemberi kesen açıya 
+çemberin bir çevre açısı denir. Çevre açının özellikleri dört adımda 
+incelenecektirYandaki şekilde ölçüsü α olan BAC açısı çevre açıdırB#, BAC  açısının gördüğü yaydır1. Bir çemberde çevre açının ölçüsü, bu açının gördüğü yayın 
+ölçüsünün yarısına eşittirYandaki şekilde O merkezli çemberde [AD] çap olmak üzere 
+ 
+(
+)
+m B$  = a ve 
+(
+)
+m D$  = b olsun. Buradan     
+ 
+ 
+(
+)
+m BO\  = a ve (
+)
+DO\  = b olurOAB ve OAC ikizkenar üçgen olduğunda(
+)
+(
+)
+m OAm OB=
+=
+\
+\
+ ve 
+(
+)
+(
+)
+m OAm OC=
+=
+\
+\
+ olurBuradan A çevre açısının ölçüsü 
+( )
+(
+)
+m m B=
++
+=
+#
+ olurO 2. Bir çemberde çevre açının ölçüsü aynı yayı gören merkez açının ölçüsünün yarısına eşittirYukarıdaki şekilde 
+(
+)
+(
+)
+m BAm BO=
++
+=
+\
+\
+ olur3x+15°
+3x+15°
+O 100°
+2x + 40°
+Yandaki çemberde 
+(
+)
+m BA\  = 30° ve  
+(
+)
+m AC\  = 50° 
+olduğuna göre x değerini bulunuzÇözüYandaki çemberde BAC ve BDC çevre açıları aynı yayı görür  
+ve bu açıların ölçüleri B$  nın ölçüsünün yarısına eşit olurABD ve ACD çevre açıları aynı yayı görür ve bu açıların 
+ölçüleri A$  nın ölçüsünün yarısına eşit olur. 
+(
+)
+m AB\  = 50° ve  
+(
+)
+m BD\  = 30° olduğundax = 50° + 30° = 80°  olur15. Örnek 
+Yandaki çemberde 
+(
+)
+m AB\  = 70° v(
+)
+m AC\  = 2x + 10° olduğuna göre x in kaç derece 
+olduğunu bulunuzÇözü ABD ile ACD çevre açıları aynı yayı gördüğünden 
+(
+)
+(
+)
+m ABm AC=
+\
+\  olur. Buna gör 2x + 10° = 70° ⇒ 2x = 60° ⇒ x  = 30° olur14. Örnek 
+30°
+50°
+50°
+100°
+60°
+30°
+70°
+2x + 10°
+30°
+50°
+Sonuç                   
+Aynı yayı gören çevre açıların ölçüleri eşittirYandaki şekilde 
+(
+)
+(
+)
+m DAm DC=
+\
+\  olur 
+ 
+Yandaki O merkezli çemberde 
+(
+)
+m AO\  = 110° ve 
+(
+)
+m ED\  = 10° olduğuna göre 
+(
+)
+m AB\  nün kaç derece 
+olduğunu bulunuzÇözüYandaki şekildEDC çevre açısının gördüğü yay EC yayıdır v(
+)
+m ED\  = 10° olduğundan  
+(
+)
+m E#  = 2.10° = 20° olurABC çevre açısının gördüğü yay AEC yayıdır ve bu yayın 
+ölçüsü 110° + 20° = 130° olur. 
+Buradan 
+(
+)
+m AB\  =  
+130°  = 65° olur17. Örnek 
+Yandaki O merkezli çemberde 
+(
+)
+m A$  = 70° ve 
+(
+)
+m OC\  = 10° olduğuna göre 
+(
+)
+m BA\  nün kaç derece 
+olduğunu bulunuzÇözüYandaki çemberde 
+(
+)
+m AO\  = 70° olur. 
+Çevre açının ölçüsü, bu çevre açının gördüğü yayın 
+ölçüsünün yarısına eşit olduğundan 
+(
+)
+m AB\  = 35° olarak elde edilirx + 35° + 10° = 70° ⇒ x + 45° = 70° ⇒ x = 25° olur16. Örnek 
+Yandaki çemberde 
+(
+)
+m BA\  = 60°, 
+(
+)

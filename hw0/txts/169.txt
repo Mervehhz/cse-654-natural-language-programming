@@ -1,0 +1,400 @@
+=
++
+=
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+co2��
++
+=
+ ⇒
+co=
+ olur. Burada 
+vey= -
+coco=
+ olur11. Örnek 
+,
+,
+-
+180°-T Birim çemberde 270° ve 360° lik açıların sinüs ve kosinüs değerlerini bulunuz 
+ÇözüP, birim çember üzerinde herhangi bir nokta v��
+(
+)
+m AOP =
+\
+ olsun. Bu durumda 
+α = 270° ya da α =  32  radyan olduğunda 
+P noktasının koordinatları 
+P(cos270°, sin270°) = P(0, -1) olur. 
+Buna göre 
+cos270° = cos  = 0, sin270° = si = -1 olurα = 360° ya da α = 2π olduğunda 
+P noktasının koordinatlarP(cos360°, sin360°) = P(1, 0) olur. Buna göre 
+cos360° = 1, sin360° = 0  olur12. Örnek 
+360° 
+A(1, 0)
+sin360° 
+cos360° 
+--α 
+(
+)
+m AO360°
+=
+=
+\
+P(0, -1)
+sin270° 
+cos270° 
+270° 
+-α 
+(
+)
+°
+m AO=
+=
+\
+x ∈ ℝ olmak üzere 
+cosi-
++
+-
+ ifadesinin en sade hâlini bulunuzÇözüVerilen ifadede sin2x yerine 1 - cos2x  yazıldığında ifadenin en sade hâl(
+)
+(
+) (
+)
+cococococococococox olu$
++
+-
+=
+-
+=
++
+-
++
+-
+-
+-
+-
+-
+-
+-
+=
+=
+13. Örnek 
+cosx ≠ -1 olmak üzere 
+cocosi+
+-
+-
+-
+  ifadesinin en sade hâlini bulunuzÇözüVerilen ifadede sin2x yerine 1 - cos2x  yazıldığında ifadenin en sade hâlcosx olu(
+)
+(
+)
+(
+)
+(
+)
+cococococococococo-
+-
++
+-
+-
+=
+-
++
++
+-
++
+=
+-
++
++
+= -
+  
+14. Örnek 
+30°-60°-90° dik üçgeninde 30° lik açının karşısındaki 
+kenarın uzunluğu hipotenüs uzunluğunun yarısına 
+eşittir. 60° lik açının karşısındaki kenarın uzunluğu 
+hipotenüs uzunluğunun yarısının 
+3 katına eşittir. 
+Hatırlatmx ve y birbirinden bağımsız reel sayılar olmak üzere A = 3sinx - 4cosy ifadesinin 
+en küçük tam sayı değerini bulunuzSıra Sizdcos4x + sin2x.cos2x - cos2x ifadesinin en sade hâlini bulunuzSıra Sizdx ∈ ℝ için 2 + 3cosx ifadesinin en büyük değeri ile en küçük değerini bulunuzÇözüHer x ∈ ℝ için -1 ≤ cosx ≤ 1 olduğunda 
+             -3 ≤ 3cosx ≤  
+      -3 + 2 ≤ 2 + 3cosx ≤ 3 +  
+             -1 ≤ 2 + 3cosx ≤ 5 olurBu durumda 2 + 3cosx için en küçük değer -1, en büyük değer 5 olur15. Örnek 
+30°
+60°
+2T Ölçüsü 240° olan açının sinüs ve kosinüs değerlerini  bulunuzÇözü240° lik  açının bitiş kenarının birim çemberi kestiği 
+nokta A olsun. Bu durumda ABO  özel dik üçgenind|OB| = 1   
+|AB| = 3  olur. 
+A noktasının koordinatları 
+,
+-
+-
+m olur,
+cos240°
+sin240°
+=-
+=-
+ olarak bulunur16. Örnek 
+f: ℝ → [-1, 1], f(x) = cosx biçiminde tanımlanan fonksiyona kosinüs fonksiyonu,
+g: ℝ → [-1, 1], g(x) = sinx biçiminde tanımlanan fonksiyona sinüs fonksiyonu denirTanı-
+--30°
+60°
+-
+240°
+A(cos240°, sin240°)
+Yandaki şekilde x = 1 doğrusu birim çembere A noktasınd teğettir. 
+(
+)
+m AOB =
+\
+ olduğuna göre AB uzunluğunu 
+α cinsinden bulunuzÇözüAOB açısının OB kenarının birim çemberi kestiği nokta K, 
+K dan x eksenine indirilen dikmenin ayağı H olsun. 
+Birim çemberde |OH| = cosα ve |KH| = sinα olurKHBA+
+&
+&  (A.A. benzerliği) olduğundan OOBK=
+ 
+olur. Buradan 
+&
+cosicosiAAolarak bulunu=
+=
+17. Örnek 
+x = 1 
+B 
+x = 1 
+cossinÖlçüleri toplamı 90° olan açılardan birinin sinüsü diğerinin kosinüsüne eşittir. 
+a ve b iki açının ölçüleri olmak üzera + b = 90°  veya a + b = r   olduğunda sina = cosb olurHatırlatmx = 1 doğrusu merkezil çembere B noktasında 
+teğettir. [AC] x eksenine paralel, 
+(
+)
+°
+m BO=
+\
+ 
+olduğuna göre AC uzunluğunu sinüs cinsinden 
+bulunuzÇözüYandaki şekilde A noktasından x eksenine indirilen 
+dikmenin ayağı H olsun. Buna göre 
+|OH| = cos50° olurx = 1 doğrusu çembere B noktasında teğet olduğun göre O merkezli çember birim çemberdir. Bu 
+durumda 
+|AC| = |HB| = 1 - cos50°  (cos50° = sin40°)
+|AC| =  1 - sin40° olur18. Örnek 
+Tanjant ve Kotanjant Fonksiyonlar50°
+x = 1 - cos50°
+cos50°
+50°
+Birim çember üzerinde P noktası verilsin ve bu noktayı orijinle birleştiren [OP nın x ekseni ile 
+yaptığı pozitif yönlü açının ölçüsü α olsunA(1, 0)  noktasında  birim çembere teğet olan x = 1 doğrusuna tanjant ekseni denirAOP açısının bitiş kenarının tanjant eksenini kestiği T noktasının ordinatına α açısının tanjantı 
+denir ve bu ifade tanα ile gösterilir. |TA| = tanα olur. 
+Yukarıdaki şekilde OPH ve OTA benzer üçgenlerdir. Benzerlik bağıntıları yazıldığında 
+TPOO=
+ olur. Buradatasico&
+=
+tacosi=
+ elde edilir. 
+tanjant eksen cossintan--x = 1 
+T (1, tanα)
+T k ∈ ℤ ve α ≠ π .k  olmak üzere tanα.cotα = 1 olur. 
+Sonuç                   
+Ölçüleri 270° ve 360° olan açıların tanjant ve 
+kotanjant değerlerini bulunuzÇözüα = 270° ya da α = 3r  radyan olduğunda AOP 
+açısının bitiş kenarı tanjant eksenini kesmez. 
+tan270° tanımsız olur. 
+α = 270° ya da α = 3r  radyan olduğunda AOP 
+açısının bitiş kenarının üzerinde bulunduğu doğru 
+kotanjant eksenini (0, 1) noktasında keser. 
+cot270° = 0 olur. 
+Yandaki birim çemberde AOP açısının ölçüsα olsun. α = 360° ya da α = 2π olduğunda AOP 
+açısının bitiş kenarı tanjant eksenini P(1, 0) 
+noktasında keser. O hâlde tan360° = 0 olurα = 360° ya da α = 2π olduğunda AOP açısının bitiş 
+kenarı kotanjant eksenini kesmez. O hâldcot360° tanımsız olur19. Örnek 
+P(1, 0)
+tan360° 
+--tanjant eksenkotanjant eksenα 
+(
+)
+°
+m AO=
+=
+\
+(0, 1)
+cot270° 
+-α 
+(
+)
+°
+m AO=
+=
+\
+tanjant eksenkotanjant eksenBirim çember üzerinde P noktası verilsin ve bu noktayı orijinle birleştiren [OP nın x ekseni ile 
+yaptığı pozitif yönlü açının ölçüsü α olsunB(0, 1) noktasında birim çembere teğet olan y = 1 doğrusuna kotanjant ekseni denirAOP açısının bitiş kenarının kotanjant eksenini kestiği K noktasının apsisine α açısının kotanjantı 
+denir ve bu ifade cotα ile gösterilir. |BK| = cotα olur Yukarıdaki şekilde OPH ve OKB benzer üçgenlerdir. Benzerlik bağıntıları yazıldığında 
+KPOO=
+ olur. Buradan cocosi&
+=
+cosico=
+ elde edilir. 
+- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+kotanjant eksencossincot1 - y = 1 
+K(cotα, 1)
+Birim çemberden faydalanarak tan225° değerini bulunuzÇözü225° lik açının bitiş kenarının üzerinde bulunduğu 
+doğru tanjant eksenini P(1, 1) noktasında keserO hâlde tan225° = tan45° = 1  olur20. Örnek 
+f: ℝ - { 2  + kπ, k ∈ ℤ} → ℝ, f(x) = tanx biçiminde tanımlanan fonksiyona tanjant fonksiyonu,
+g: ℝ - { kπ, k ∈ ℤ} → ℝ,  g(x) = cotx biçiminde tanımlanan fonksiyona kotanjant fonksiyonu 
+denirTanıTanımlı olduğu aralıkta 
+sicocosi-
+-
+ ifadesinin en sade hâlini bulunuzSıra Sizd225°
+45°
+45°
+P(1, 1)
+--Tanımlı olduğu aralıkta  
+cosicosi+
+-
+-
+  ifadesinin en sade hâlini bulunuzÇözü(1 + cosα)
+(1 - cosα)
+co=
+=
+= -
+cosicosicosisicosisicosisicosicoolu+
+-
+-
+=
+-
+-
+-
+-
+-
+-
+21. Örnek 
+T Tanımlı olduğu aralıkta 
+sicosico-
++
+=
+ olduğuna göre cotx değerini bulunuzÇözüsicosico+
+=
+-
+sico= -
+⇒ sico= -
+⇒
+cotolu= -
+22. Örnek 
+tan2x + cot2x = 3 olduğuna göre tanx + cotx ifadesinin pozitif değerini bulunuzÇözütanx + cotx = A olsun. Bu durumda eşitlikte her iki tarafın karesi alındığındA2 = (tanx + cotx)2 = tan2x + cot2x + 2tanx.cotx  olur  
+ 
+         = 3 + 2 =  
+ 
+    A2 = 5 ⇒ 
+veya olu=
+=-
+ 
+Pozitif değer istendiği için sonuç 
+5  olur23. Örnek 
+Tanımlı olduğu aralıkta coco-
+ ifadesinin en sade hâlini bulunuzÇözücosicococosicosicoco-
+=
+-
+-
+=
+=
+24. Örnek 
+Tanımlı olduğu aralıkta  
+tasisico-
++
+:
+ ifadesinin en sade hâlini bulunuzSıra SizdSekant ve Kosekant Fonksiyonlarm HO^
+\ =  α olmak üzere  birim çember üzerindeki K noktasından çizilen teğetin x eksenini kestiğ L noktasının apsisine α açısının sekantı denir ve bu ifade secα 
+α  ile gösterilir. |OL| = secα olurK noktasından çizilen teğetin y eksenini kestiği M noktasının ordinatına α açısının kosekantı 
+denir ve bu ifade cosecα 
+α  ile gösterilir. |OM| = cosecα olurYukarıdaki birim çemberde KOH ile LOK üçgenlerinde HKOL=
+^
+^
+\
+\  olur. Buna görKOH  ile LOK üçgenleri benzer üçgenler olur. Benzerlik oranı yazıldığındOOOO=
+ ⇒ 
+cose=
+ ⇒
+seco=
+ olurAynı şekilde KON ile MOK üçgenlerinin benzerliğinden 
+cosesi=
+ elde edilir-- seccosecsinsincosYandaki şekilde O merkezli birim çember verilmiştir. 
+[AB]⊥[OC], [DC]⊥[OC], 
+(
+)
+m BO\  = α olduğuna göre 
+ABCD yamuğunun alanının α dar açısı cinsinden kaç 
+birimkare olduğunu bulunuzÇözü|OB| = cosα, |AB| = sinα  ve |DC| = tanα  olduğundan 
+|BC| = 1 - cosα olur. Buradan 
+ABCD yamuğunun alanı (alt taban ile üst taban toplamını yükseklik ile çarpımının yarısı)
+(
+)
+(
+) (
+)
+sitacosicosicococosisicocosicococosisicosiA ABCbirimkare olu=
++
+-
+=
++
+-
+=
++
+-
+=
++
+-
+=
+=
+]
+]
+]
+25. Örnek 
+cossintanT Yandaki ABC ikizkenar üçgeninde lABl = lACl = 10 birim,
+lBCl = 18 birim ve ABC =
+^
+\
+olduğuna görsecx değerini bulunuzÇözüDik üçgen oluşturmak için A noktasından tabana bir dikme 
+indirilir. ABC üçgeni ikizkenar olduğundan dikmenin ayağolan H noktası [BC] kenarını ortalar&
+secose=
+=
+=
+ olur26. Örnek 
+f: ℝ - { 2  + kπ, k ∈ ℤ} → ℝ - (-1, 1), f(x) = secx şeklinde tanımlanan fonksiyona sekant 
+fonksiyonu,
+g: ℝ - { kπ, k ∈ ℤ} → ℝ - (-1, 1), g(x) = cosecx şeklinde tanımlanan fonksiyona kosekant 
+fonksiyonu  denirTanıTanımlı olduğu aralıkta 1 + tan2x ifadesinin eşitini bulunuzÇözüsec cosicocosicocoolu+
+=
++
+=
+=
+=
+27. Örnek 
+Tanımlı olduğu aralıkta 1 + cot2x  ifadesinin eşitini bulunuzÇözücosec x olusicosisicosisi+
+=
++
+=
+=
+=
+  
+28. Örnek 
+Tanımlı olduğu aralıkt 1 + tan2x = sec2 1 + cot2x = cosec2x olurSonuç                   
+Tanımlı olduğu aralıkta 
+sicocosi-
++
+-
+ ifadesinin en sade hâlini bulunuzÇözü(sinx)
+(1 - cosx)

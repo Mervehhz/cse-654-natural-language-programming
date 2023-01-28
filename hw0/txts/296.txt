@@ -1,0 +1,400 @@
+                                    
+AA=
+-
++
+-
+=
+-
+-
+olu+
+^
+^
+^
+^
+Düzlemde sabit bir noktadan eşit uzaklıkta bulunan noktaların kümesine çember denir. 
+Sabit noktaya çemberin merkezi, çember üzerindeki herhangi bir noktanın çemberin 
+merkezine olan uzaklığına ise çemberin yarıçapı denirMerkezi ve Yarıçapı Verilen Çemberin DenklemAnalitik düzlemde 
+,
+M a ^
+h merkezli ve r yarıçaplı çember 
+üzerinde bir 
+,
+P x ^
+h noktası alınırsa 
+,
+M a ^
+h ile 
+,
+P x ^
+h 
+noktaları arasındaki uzaklıM=
+-
++
+-
+]
+^
+h  olur. M=
+ olduğundan    
+=
+-
++
+-
+]
+^
+h  bulunur. 
+Bu eşitliğin her iki tarafının karesi alınarak 
+=
+-
++
+-
+]
+^
+ denklemi elde edilir-
++
+-
+=
+]
+^
+ denklemine merkezi 
+,
+M a ^
+h ve yarıçap uzunluğu r birim olan çemberi standart denklemi denir. Çember üzerindeki bir 
+,
+P x ^
+h noktası çemberin denklemini 
+sağlar7.1. ÇEMBERİN ANALİTİK İNCELENMES7.1.1. Çember Denklem-
+44444 `
+bbbbbbbb-
+Matematik Merkezi 
+,
+M 2 ^
+h ve yarıçap uzunluğu =
+ birim olan çemberin standart denklemini bulunuzMerkezi M(a,b) ve yarıçap uzunluğu r birim olan çemberin standart denklemi 
+-
++
+-
+=
+]
+^
+ olduğundan merkezi 
+,
+M 2 ^
+h ve yarıçap uzunluğu =
+ birim olan çemberi standart denklem&
+olarak bulunu-
++
+-
+=
+-
++
+-
+=
+]
+^
+]
+^
+Merkezi 
+,
+3 -
+^
+h ve yarıçap uzunluğu =
+ birim olan bir çember veriliyor. Buna göra) Çemberin standart denklemini bulunuzb) 
+,
+^
+h noktası çember üzerinde ise k değerini bulunuzc) Çemberin y eksenini kestiği noktaları bulunuza)  Çemberin standart denklem     
+&
+olu- -
++
+-
+=
++
++
+-
+=
+^
+]
+^
+]
+^
+gb)  
+,
+^
+h noktası çember üzerinde olduğundan çemberin denklemini sağlar. 
+     Denklemde x yerine 2 ve y yerine k yazılırs 
+     
++
+=
++
++
+-
+=
+-
+-
+=
+bulunu=
+]
+]
+]
+]
+c)  Çemberin y eksenini kestiği noktalar A ve B olsun. Bu noktaları bulabilmek için çember denk- 
+     leminde x yerine 0 yazılırs 
+                                                              
+                        
+     Böylece çemberin y eksenini kestiği noktalar 
+,
+A 0 ^
+h ve 
+,
+B -
+^
+h olarak elde edilir+
+=
+=
+&
+veya veya bulunu&
+&
+&
+&
+=
++
++
+-
+=
+-
+-
+-
+=
+-
+=-
+=
+=-
+^
+]
+^
+^
+ÖRNEÖRNEÇÖZÜÇÖZÜAnalitik GeometrMerkezi 
+,
+M -
+^
+h olan ve 
+,
+P -
+^
+h noktasından geçen çemberin standart denklemini bulunuzBöylece merkezi 
+,
+M -
+^
+h ve yarıçap uzunluğu =
+ birim olan çemberin standart denklemi 
+&
+olarak elde edili-
++
+- -
+=
+-
++
++
+=
+]
+^
+]
+^
+]
+^
+gÇemberin merkezi ile çember üzerindeki herhangi bir nokta 
+arasındaki uzaklık, çemberin yarıçap uzunluğunu verir,
+A -
+^
+h ve 
+,
+-
+-
+^
+h olmak üzere A? çaplı çemberin standart denklemini bulunuzA? çap olduğundan A? nın orta noktası çemberin merkezidirÇemberin merkezi 
+,
+M a ^
+h isolu=
++ -
+= -
++ -
+=-
+=-
+]
+]
+ 
+Buna göre çemberin merkezi 
+,
+-
+-
+^
+h bulunurMMr oluMbirim bulunu=
+=
+=
+- -
++
+-
+- -
+=
++
+=
++
+=
+^
+]
+^]
+]
+gg,-
+,
+Bu durumda merkezi 
+,
+-
+-
+^
+h ve yarıçap uzunluğu =
+ birim olan çemberin standart 
+denklem&
+- -
++
+- -
+=
++
++
++
+=
+^
+]
+^
+]
+^
+]
+^
+gg olarak elde edilirÖRNEÖRNEÇÖZÜÇÖZÜ, -
+, -
+Mbirim bulunu=
+=
+-
++ -
+- -
+=
++
+=
+]
+^
+]
+gMatematik Bazı Özel Çemberlerin Denklemler1. Merkezi Orijinde Olan Çemberin DenklemMerkezi orijinde ve yarıçap uzunluğu r birim olan çemberi standart denklem&
+olu+
+=
+&
+-
++
+-
+=
+-
++
+-
+=
+]
+^
+]
+^
+2. Merkezi x Ekseni Üzerinde Olan Çemberin DenklemMerkezi x ekseni üzerinde bulunan bir çemberde 
+merkezin koordinatları 
+,
+M a ^
+h olacaktır. Çemberin 
+yarıçap uzunluğu r birim ise bu çemberin standart 
+denklemolu-
++
+=
+]
+-
+,
+,
+3. Merkezi y Ekseni Üzerinde Olan Çemberin DenklemMerkezi y ekseni üzerinde bulunan bir çemberde 
+merkezin koordinatları 
+,
+^
+h olacaktır. Çemberin 
+yarıçap uzunluğu r birim ise bu çemberin standart 
+denklemolu+
+-
+=
+^
+4. y Eksenine Teğet Olan Çemberin DenklemMerkezi M(a,b) ve yarıçap uzunluğu r birim olan bir 
+çember, y eksenine teğet ise =
+ olur. Bu durumda 
+çemberin standart denklemi  
+         
+                        
+olu-
++
+-
+=
+]
+^
+-
+Analitik Geometr5. x Eksenine Teğet Olan Çemberin DenklemMerkezi M(a,b) ve yarıçap uzunluğu r birim olan bir 
+çember, x eksenine teğet ise 
+olu=
+ Bu durumda 
+çemberin standart denklemolu-
++
+-
+=
+]
+^
+6. Her İki Eksene de Teğet Olan Çemberin DenklemMerkezi M(a,b) ve yarıçap uzunluğu r birim olan bir 
+çember  her iki eksene de teğet ise =
+=
+ olur. 
+Bu durumda eksenlere teğet olan çemberlerin merkezler x veya =
+=-  doğruları üzerinde olacaktır. Eğer 
+çemberin merkezi 
+I. bölgede ise merkezi  
+,
+r 1^
+h ve denklemi   
+ 
+   
+II. bölgede ise merkezi 
+,
+r 2 -
+^
+h ve denklemi   
+III. bölgede ise merkezi 
+,
+3 -
+-
+^
+h ve denklemi    
+IV. bölgede ise merkezi 
+,
+-
+^
+h ve denklem     
+olu-
++
+-
+=
+]
+^
+olu+
++
+-
+=
+]
+^
+olu+
++
++
+=
+]
+^
+olu-
++
++
+=
+]
+^
+,
+Merkezi 

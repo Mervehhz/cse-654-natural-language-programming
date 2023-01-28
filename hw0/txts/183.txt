@@ -1,0 +1,400 @@
+Sıcaklık gün içinde genellikle öğleden 
+sonra düşüşe geçmeye başlar. Düşüş 
+gece yarısından itibaren kritik seviyenin 
+(-2 °C) altına iner. Gün doğumuna 
+kadar devam eden sıcaklık düşüşünde 
+gökyüzünün açık veya kapalı olması, 
+rüzgârın şiddeti, havadaki nem 
+miktarı gibi değişkenler etkili olur. Bu 
+değişkenlere bağlı olarak sıcaklık düşüşü 
+hızlı ya da yavaş olabilir-Riskli PeriyoSaaSıcaklıSıcaklık sıfır derecenin altına düştüğünde yollarda buzlanma meydana gelir. 
+Buzlanmanın meydana geldiği zaman aralığı (riskli periyot)  hakkında ne 
+söylenebilir?
+D e n k l e m  v e  E ş i t s i z l i k  S i s t e m l e r a, b, c, d, e, f ∈ ℝ ve a, b, c reel sayılarından en az ikisi sıfırdan farklı olmak üzere 
+ax2 + bxy + cy2 + dx + ey + f = 0 şeklindeki ifadelere ikinci dereceden iki bilinmeyenli bir 
+denklem denir. 
+İki bilinmeyenli en az iki denklemden oluşan sistemin denklemlerinden en az biri ikinci 
+dereceden denklem ise bu sisteme ikinci dereceden iki bilinmeyenli denklem sistemi denirDenklemlerin ortak çözüm kümesi denklem sisteminin çözüm kümesidirBu kitapta çözüm kümesi ÇK  ile gösterilecektir. 
+4.1. İkinci Dereceden İki Bilinmeyenli Denklem Sistemler4.1.1. İkinci Dereceden İki Bilinmeyenli Denklem Sistemlerinin Çözüm Kümesx2 +
+=
++
+=
+2  
+ 
+ 
+    denklem sisteminin çözüm kümesini bulunuzÇözüx + y = 3 denklemi y = 3 - x şeklinde bulunup diğer denklemde yerine yazıldığında 
+x2 + 2x( 3 - x ) = 8 ⇒ x2 + 6x -2x2  = 8  
+ 
+ 
+   ⇒ x2 - 6x  + 8 = 0 olur. Bu denklem ikinci dereceden bir bilinmeyenli 
+denklemdir. Denklem, çarpanlarına ayrıldığında 
+(x - 4)(x - 2) = 0 olur. Buradax1 = 4 veya x2 = 2 olur. 
+x1 ve x2 değerleri y = 3 - x denkleminde yerine yazıldığındx1 = 4 için y1 = 3 - 4 = -1  vx2 = 2 için y2 = 3 - 2 = 1 olur. Buradadenklem sisteminin çözüm kümesi ÇK = {(4, -1), (2, 1)} olur. 
+1. Örnek 
+Birinci dereceden iki bilinmeyenli denklem sistema, b, c ∈ ℝ; a ve b sıfırdan farklı, x ve y değişkenler olmak üzere  ax + by + c = 0 denklemi 
+birinci dereceden iki bilinmeyenli denklemdir. 
+Birinci dereceden iki bilinmeyenli en az iki denklemin oluşturduğu sistembirinci dereceden iki bilinmeyenli denklem sistemi denir. Örneği  -
+=
++
+=
+2 denklemlerinin oluşturduğu sistem birinci dereceden iki bilinmeyenli 
+denklem sistemidirHatırlatmS a y ı l a r  v e  C e b i KesiştiGirişe x+y=3 yazarak grafiği oluşturunuzGirişe x2+2xy=8 yazarak grafiği oluşturunuz. 
+Kesiştire, ardından grafiklerin her birine tıkladığınızda grafiklerin kesim noktaları grafik 
+ekranında görülecektir. 
+Bu iki grafik iki noktada kesiştiğinden denklem sisteminin çözüm kümesi 
+ÇK = {(4, -1), (2, 1)} olur. 
+1. Uygulama: x + y =                                  x2 + 2xy = 8  Denklem Sisteminin Çözüm Kümes+
+=
++
+=
+2  
+ 
+ 
+      denklem sisteminin çözüm kümesini bulunuzÇözü2x + y = 7 denklemi y = 7 - 2x şeklinde bulunup diğer denklemde yerine yazıldığında  
+x2 + ( 7 - 2x )2 = 13 ⇒x2 + 49 -28x + 4x2  =  
+ 
+           ⇒ 5x2 -28x + 36  = 0 olur. Denklem, çarpanlarına ayrıldığınd(5x - 18)(x - 2) = 0 olur. Buradax1 = 18   veya x2 = 2 olur.  
+x1 ve x2 değerleri y = 7 - 2x denkleminde yerine yazıldığındx1 = 18  için 
+2 1 =
+-
+=-
+ vx2 = 2 için y2 = 7 - 2.2 = 3 olur. Buradadenklem sisteminin çözüm kümesi ÇK = 
+,
+,
+,
+2 -
+^
+&
+0 olur. 
+2. Örnek 
+D e n k l e m  v e  E ş i t s i z l i k  S i s t e m l e r +
+-
+=
++
+=
+2  
+ 
+ 
+ 
+denklem sisteminin çözüm kümesini bulunuzSıra Sizda, b, c ∈ ℝ ve a ≠ 0 için ax2 + bx + c = 0 ikinci derece denklemi verilsin. Bu durumda 
+∆ = b2 - 4ac olmak üzer• ∆ > 0 ise denklemin iki farklı reel kökü vardır• ∆ = 0 ise denklemin çakışık iki reel kökü vardır• ∆ < 0 ise denklemin reel kökü yokturHatırlatm-
+=
+-
+-
+=
+1  
+ 
+ 
+                denklem sisteminin çözüm kümesini bulunuzÇözü4x - y = 13 denklemi y = 4x - 13 şeklinde bulunup diğer denklemde yerine yazıldığındx2  - 2x - (4x - 13) = 4  ⇒ x2  - 2x - 4x +  13 = 4  
+ 
+ 
+ 
+    ⇒  x2 - 6x + 9 = 0 ⇒ (x - 3)2 = 0 ⇒ x  = 3 olur. Buradax = 3 değeri y = 4x - 13 denkleminde yerine yazıldığındy = 4.3 - 13 = -1 olur. 
+Denklem sisteminin çözüm kümesi ÇK = {(3, -1)} olur3. Örnek 
+Girişe 4x-y=13 yazarak grafiği oluşturunuzGirişe x2-2x-y=4 yazarak grafiği oluşturunuz. 
+Kesiştire, ardından grafiklerin her birine tıklayarak kesişme noktasını bulunuz. 
+İki grafiğin birbirine teğet olduğu durumlarda çözüm kümesi tek noktadan oluşurDenklem sisteminin çözüm kümesi ÇK = {(3, -1)} olur. 
+2. Uygulama: 4x - y =  
+ 
+         x2 - 2x - y = 4  Denklem Sisteminin Çözüm KümesS a y ı l a r  v e  C e b i İki sayının toplamı 6, kareleri farkı 24 olduğuna göre büyük olan sayıyı bulunuzÇözüBüyük sayı x, küçük sayı y olsunx + y = x2 - y2 = 24 olur. 
+El edilen denklem sistemi çözülürse istenen sayı bulunurx2 - y2 = 24 denklemi (x - y)(x + y) = 24 şeklinde yazılır. Bu durumdx + y = 6 olduğu için  x - y = 4 olur x + y = 6 ve x - y = 4 denklemleri ortak çözüldüğünde 2x  = 10 ⇒ x = 5 olur. 
+5. Örnek 
++
+=
++
+=
+  
+ 
+ 
+denklem sisteminin çözüm kümesini bulunuzÇözüx + y = 4 denklemi y = 4 - x şeklinde bulunup diğer denklemde yerine yazıldığındx2 + (4 - x)2 = 5  ⇒ x2 + 16 - 8 x + x2 = 5  
+ 
+ 
+     ⇒  2x2 - 8 x + 11 = 0 olur.  
+2x2 - 8 x + 11  = 0 denkleminin çözümü için ∆ = b2 - 4ac incelendiğinda = 2, b = -8 ve c = 11 için 
+∆ = (-8)2 - 4.2.11 = 64 - 88 = -24 olur. 
+∆ < 0 olduğundan 2x2 - 8x + 11 = 0 denkleminin çözüm kümesi yoktur. Buradadenklem sisteminin çözüm kümesi ÇK = {  } olur4. Örnek 
+Girişe x+y =4 yazarak grafiği oluşturunuzGirişe x2+y2 =5 yazarak grafiği oluşturunuz. 
+İki grafiğin birbiri ile kesişmediği durumlarda denklem sisteminin çözüm kümesi yoktur.  
+Denklem sisteminin çözüm kümesi ÇK = {  } olur.  
+3. Uygulama: x + y =                                   x2 +  y2 = 5 Denklem Sisteminin Çözüm KümesD e n k l e m  v e  E ş i t s i z l i k  S i s t e m l e r +
+=
++
+=
+2  
+ 
+ 
+         denklem sisteminin çözüm kümesini bulunuz. 
+Sıra Sizdx=
++
+=
+  
+ 
+ 
+ denklem sisteminin çözüm kümesini bulunuzÇözüx + y = 3 denklemi y = 3 - x şeklinde bulunup diğer denklemde yerine yazıldığındx(3 - x) = 2  ⇒ 3x - x2  = 2  ⇒  x2 - 3x  + 2 = 0 olur. Denklem, çarpanlarına ayrıldığınd(x - 1) (x - 2) = 0 olur. Buradax1 = 1 veya x2 = 2 olur. 
+x1 ve x2  değerleri y = 3 - x denkleminde yerine yazıldığında 
+x1 = 1 için y1 = 3 - 1 = 2 vx2 = 2 için y2 = 3 - 2 = 1 olur. Buradadenklem sisteminin çözüm kümesi ÇK = {(1, 2), (2, 1)} olur6. Örnek 
+-
+=-
++
+=
+2  
+ 
+ 
+        denklem sisteminin çözüm kümesini bulunuzÇözüx2 + y2 = 8 denklemi 3 ile çarpıldığında 3x2 + 3y2 = 24 olur. Bu durumda denklem sistem-
+=-
++
+=
+  
+ 
+ 
+       şekline dönüşür. Yok etme yöntemi uygulandığında 
+5x2 = 20 ⇒ x2 = 4  ⇒ x1 = -2 veya  x2 = 2 olur. 
+x1 ve x2 değerleri x2 + y2 = 8 denkleminde yerine yazıldığındx1 = -2 için (-2)2 + y2 = 8 ⇒ 4 + y2 = 8 
+ 
+ 
+ 
+         ⇒ y2 = 4 ⇒ y1 = -2 veya y2 = 2 vx2 = 2 için 22 + y2 = 8 ⇒ 4 + y2 = 8 
+                                      ⇒  y2 = 4 ⇒ y3 = - 2 veya y4 = 2 olur. Buradadenklem sisteminin çözüm kümesi ÇK = {(-2, -2), (-2, 2), (2, -2), (2, 2)} olur7. Örnek 
+S a y ı l a r  v e  C e b i +
+=
++
+-
+=
+2  
+ 
+ 
+         denklem sisteminin çözüm kümesini bulunuzSıra Sizd-
+=-
+- +
+=
+2  
+ 
+ 
+            denklem sisteminin çözüm kümesini bulunuzÇözü- x + y = 7 denklemi y = x + 7 şeklinde bulunup diğer denklemde yerine yazıldığınd x - (x + 7)2 = -19 ⇒ x - (x2 +14x + 49) = -19 
+ 
+               ⇒ x - x2 -14x - 49 = - 
+ 
+   ⇒ x2 +13x + 30 = 0 olur. 
+Denklem, çarpanlarına ayrıldığında ( x + 10)( x + 3) = 0 olur. Buradax1 = -3 veya x2 = -10 olurx1 ve x2 değerleri y = x + 7 denkleminde yerine yazıldığında   
+x1 = -3 için y1 = -3 + 7 = 4 ve 
+x2 = -10 için y2 = -10 + 7 = -3 olur. Buradadenklem sisteminin çözüm kümesi ÇK = {(-10, -3), (-3, 4)} olur9. Örnek 
+x-
+-
+=-
+-
+=
+2  
+ 
+ 
+                denklem sisteminin çözüm kümesini bulunuzÇözü2x - y = 1 denklemi y = 2x - 1 şeklinde bulunup diğer denklemde yerine yazıldığınd2x2 - (2x - 1)2 -2x(2x - 1) = -1  olur2x2 - (4x2 - 4x + 1 ) - 4x2 + 2x = -1   
+2x2 - 4x2 + 4x -1 - 4x2 + 2x = -1 ⇒ -6x2 + 6x  = 0  
+ 
+ 
+ 
+ 
+        ⇒ x2 - x  = 0 olur. 
+Denklem, çarpanlarına ayrıldığında x(x- 1) = 0 olur. Buradan 
+x1 = 0 veya x2 = 1 olur. 
+x1 ve x2 değerleri y = 2x - 1 denkleminde yerine yazıldığındx1 = 0 için y1 = 2. 0 - 1 = -1 vx2 = 1 için y2 = 2. 1 - 1 =  1 olur. Buradadenklem sisteminin çözüm kümesi ÇK = {(0, -1), (1, 1)} olur8. Örnek 
+D e n k l e m  v e  E ş i t s i z l i k  S i s t e m l e r 1.  İki sayının farkı -4, kareleri farkı -8 olduğuna 
+göre bu sayıların çarpımını bulunuz2. 
+x-
+=
+-
+-
+=-
+1  
+ 
+ 
+               
+denklem sisteminin çözüm kümesini bulunuz.  
+3. 
++
+-
+=
+-
+-
++
+=
+  
+ 
+ 
+                      
+denklem sisteminin çözüm kümesini bulunuz4. 
++
+=
++
+=
+2  
+                         
+           
+denklem sisteminin çözüm kümesini bulunuz5. 
++
+=
+-
+=
+2  
+ 
+ 
+        
+denklem sisteminin çözüm kümesini bulunuz. 
+6. 
++
+=
++
+-
+-
+=
+  
+ 
+ 
+                    
+denklem sisteminin çözüm kümesini bulunuz. 
+AlıştırmalaS a y ı l a r  v e  C e b i x ∈ ℤ+ olmak üzere bir malın maliyeti x, satış fiyatı x2 - x + 11 olsunMalın satışından kâr elde edilme durumu  x2 - x + 11 - x > 0 şeklinde ifade edilir. 
+4.2. İkinci Dereceden Bir Bilinmeyenli Eşitsizlikler ve Eşitsizlik Sistemler4.2.1. İkinci Dereceden Bir Bilinmeyenli Eşitsizliklerin Çözüm Kümesa ≠ 0 ve a, b, c ∈ ℝ olmak üzere  ax2 + bx + c ≥ 0, ax2 + bx + c ≤ 0, ax2 + bx + c < 0, 
+ax2 + bx + c > 0 ifadelerinin her birine ikinci dereceden bir bilinmeyenli eşitsizlik ve 
+eşitsizliği sağlayan x değerlerinin kümesine eşitsizliğin çözüm kümesi denir. 
+ax2 + bx + c  ikinci dereceden üç terimlisinin hangi aralıkta pozitif, hangi aralıkta negatif değer 
+alacağı, ax2 + bx + c = 0 denkleminde ∆ > 0, ∆ = 0,  ∆ < 0 olmak üzere üç durumda incelenir1. ∆ = b2 - 4ac > 0 olmak üzere ax2 + bx + c = 0 denkleminin birbirinden farklı iki kökü vardır. 
+Bu kökler x1 < x2 olmak üzere x1 ve x2 olsun. Bu durumda ax2 + bx + c ifadesinin işaret tablosu 
+aşağıdaki gibi incelenir-∞       
+x1       
+x+∞
+ax2 + bx + a nın işaretiyle 
+ayna nın işaretinin 
+tersa nın işaretiyle 
+aynİşaret tablosunun en sağındaki aralık a nın işaretiyle aynıdır. Sağdan sola doğru her aralıkta 
+işaretler değişir. 
+2. ∆ = b2 - 4ac = 0 olmak üzere ax2 + bx + c = 0 denkleminin x1 = x2 olacak şekilde birbirine eşit 
+(çakışık, çift katlı) iki kökü vardır. 
+Bu durumda ax2 + bx + c ifadesinin işaret tablosu aşağıdaki gibi incelenir-∞       
+           =
+= -
+     
++∞
+ax2 + bx + a nın işaretiyle ayna nın işaretiyle aynı 
+ax2 + bx + c = 0 denkleminin birbirine eşit iki kökü varsa işaret tablosundaki kökün sağ ve sol 
+tarafındaki aralıkların işareti a nın işaretiyle aynı olur3. ∆ = b2 - 4ac < 0 olmak üzere ax2 + bx + c = 0 denkleminin kökü yokturBu durumda ax2 + bx + c ifadesinin işaret tablosu aşağıdaki gibi incelenir       -∞       
+reel kök yo+∞
+ax2 + bx + a nın işaretiyle aynax2 + bx + c = 0 denkleminin kökü yoksa işaret tablosunda (-∞, ∞) nda ax2 + bx + c ifadesinin 
+işareti a nın işaretiyle aynıdırİşaret tablosu oluşturulurken kullanılacak gösterimler:
+Payın kökPaydanın kökTek katlÇift katlEşitliEşit olmamEşitlik ve eşit olmamNoD e n k l e m  v e  E ş i t s i z l i k  S i s t e m l e r f(x) = x2 - 5x + 4 fonksiyonunun işaretini inceleyinizÇözüx2 - 5x + 4 = 0 denkleminin katsayıları a = 1, b = -5 ve c = 4 olur∆ = b2 - 4ac 
+   = (-5)2 - 4.1.4 = 9 > 0 olduğundan f(x) fonksiyonunun farklı iki sıfırı vardır ve bunlar 
+x2 - 5x + 4 = (x - 4).(x - 1) = 0  denkleminin kökleri 
+x1 = 4 veya x2 = 1 olarak bulunur. 
+a = 1 > 0 olduğundan fonksiyonun işaret tablosu aşağıdaki gibidir-∞       
+1       
++∞
+x2 - 5x + +
+-
++
+           f(1) =   f(4) = Yandaki şekilde görüldüğü gibf(x) = x2 - 5x + 4 fonksiyonunun grafiği (-∞, 1), 
+(4, +∞) nda x ekseninin üst kısmındadırBu aralıklarda f(x) > 0 olurf(x) fonksiyonunun grafiği (1, 4) nda x ekseninin alt 
+kısmındadır. Bu aralıkta f(x) < 0 olur10. Örnek 
+f(x)
+a ≠ 0 ve a, b, c ∈ ℝ olmak üzere f(x) = ax2 + bx + c fonksiyonunun işareti incelenirken 
+işaret tablosunda en sağ aralığa a nın işareti yazılır. İşaret, tek katlı köklerde değişirken çift 
+katlı köklerde değişmezNoa ≠ 0 ve a, b, c ∈ ℝ olmak üzere f(x) = ax2 + bx + c fonksiyonunda her x ∈ ℝ için 
+f(x) > 0 ise ∆ < 0 ve a > 0  
+f(x) < 0 ise ∆ < 0 ve a < 0  olmalıdırSonuç                   
+S a y ı l a r  v e  C e b i f(x) = x2 + 3x + 3  fonksiyonunun işaretini inceleyinizÇözüx2 + 3x + 3 = 0 denkleminde 
+∆ = 32 - 4.1.3 = -3 < 0 olduğundan f(x) = 0 denkleminin kökü yoktur. 
+a = 1 > 0 olduğundan fonksiyonun işaret tablosu aşağıdaki gibidir 
+ 
+ 
+ 
+ 
+ 
+   -∞       
+reel kök yo+∞
+f(x)
++
+11. Örnek 
+f(x) = -x2 + 2x - 2  fonksiyonunun işaretini inceleyinizÇözü  -x2 + 2x - 2 = 0 denkleminde 
+∆ = 22 - 4.(-1).(-2) = 4 - 8 = -4 < 0 olduğundan f(x) = 0 denkleminin kökü yoktur. 
+a = -1 < 0 olduğundan fonksiyonun işaret tablosu aşağıdaki gibidir 
+ 
+ 
+ 
+ 
+ 
+   -∞       
+reel kök yo+∞
+f(x)
+-
+12. Örnek 
+f(x) = x2 - 4x + 4  fonksiyonunun işaretini inceleyinizÇözüx2 - 4x + 4 = 0 denklemind∆ = (-4)2 - 4.1.4 = 0 olduğundan denklemin çift katlı kökü vardır ve bu köx1 = x2 = 
+2=
+=
+-
+=
+-
+-
+ olarak bulunura = 1 > 0 olduğundan fonksiyonun işaret tablosunun en sağ aralığı (+) ile başlar. İşaret 
+tablosu çift katlı köklerde sola doğru işaret değiştirmezx2 - 4x + 4 = 0 denkleminin çift katlı kökü vardır. İşaret tablosu aşağıdaki gibi elde edilir.  
+   -∞       
++∞
+ x2 - 4x + +
++
+13. Örnek 
+D e n k l e m  v e  E ş i t s i z l i k  S i s t e m l e r 2x2 + 3x  - 5 > 0 eşitsizliğinin çözüm kümesini bulunuzSıra Sizd3x2 - 5x - 2 > 0 eşitsizliğinin çözüm kümesini bulunuzÇözü3x2 - 5x - 2 = 0 denkleminde ∆ = b2 - 4ac = (-5)2 - 4.3.(-2) = 49 > 0 olduğundan 
+denklemin farklı iki reel kökü vardır. Denklemin kökleri çarpanlara ayırma yöntemiyl(3x + 1).(x - 2) = x1 =
+-
+ veya x2 = 2 olarak bulunur. 
+a = 3 > 0 olduğundan işaret tablosunun en sağ aralığı (+) ile başlayıp sola doğru tek katlı 
+köklerde işaret değiştirerek en soldaki aralığa kadar devam eder  -∞       
+-
++∞
+ 3x2 - 5x - +
+-
++
+3x2 - 5x - 2 > 0 eşitsizliğinde istenen aralıklar (+) olan aralıklardır. Bu aralıklar işaret 
+tablosunda taralı olarak gösterilmiştirBöylece 3x2 - 5x - 2 > 0 eşitsizliğinin çözüm kümesi ÇK = (-∞, 
+-
+) ∪ (2, ∞)  olur14. Örnek 
+x2 - 2x + 3 < 0 eşitsizliğinin çözüm kümesini bulunuzÇözüx2 - 2x + 3 = 0 denkleminde ∆ = b2 - 4ac = (-2)2 - 4.1.3= -8 < 0 olduğundan 
+denklemin reel kökü yoktur. 
+a = 1 > 0  olduğundan her x ∊ ℝ için f(x) > 0 olur       -∞       
+reel kök yo+∞
+x2 - 2x + +
+Tabloda görüldüğü gibi x2 - 2x + 3 < 0 eşitsizliğinin çözüm kümesi ÇK = { } olur15. Örnek 
+S a y ı l a r  v e  C e b i 1. Yol: x2 < 3 - 2x ⇒ x2 + 2x - 3 < Girişe x2+2x-3 yazarak grafiği çizinizCebir penceresinde fonksiyon  
+f(x) =  x2 + 2x - 3  olarak gözükürGirişe eğer yazınız. Çıkan satırda şart, doğruysa 
+bölümlerine sırasıyla f<0 ve 0 yazınızGrafik ekranında x2 + 2x - 3 < 0 eşitsizliğinin 
+çözüm kümesi farklı bir renkte x ekseni üzerinde 
+görülür. Bu eşitsizliğin çözüm kümesi (-3, 1) olurGrafikte görüldüğü gibi (-3, 1) nda her x değeri 
+için f(x) değerleri daima sıfırdan küçüktür2. Yol: x2 < 3 - 2Girişe x2 yazarak parabolün grafiğini çiziniz. 
+Grafik ekranında fonksiyon  f(x) = x2  olarak 
+görülürGirişe 3-2x yazarak doğrunun grafiğini çiziniz. 
+Fonksiyon grafik ekranında g(x) = 3 - 2x olarak 
+görülürf(x) < g(x) eşitsizliğinin çözüm kümesini 
+görüntülemek için Girişe eğer yazılır. Oluşan 
+satırda şart, doğruysa yerine sırasıyla f<g, 0 
+yazınız. Grafikte bu eşitsizliğin çözüm kümesi x ekseni üzerinde farklı bir renkte görülürf(x) < g(x) eşitsizliğinin çözüm kümesi (-3, 1) olurGrafikte görüldüğü gibi (-3, 1) nda her x değeri için f(x) < g(x) olur4. Uygulama: x2 < 3 - 2x Eşitsizliğinin Çözüm Kümesx2 < 3 - 2x eşitsizliğinin çözüm kümesini bulunuzÇözüx2 < 3 - 2x ⇒ x2 + 2x - 3 < x2 + 2x - 3 = 0 denkleminin kökler(x + 3).(x - 1) = 0 ⇒ x1 = -3 veya x2 = 1 olarak bulunurx2 + 2x - 3 ifadesinde a = 1 > 0 olduğundan işaret tablosunun en sağ aralığı (+) ile başlayıp 
+sola doğru tek katlı köklerde işaret değiştirerek en soldaki aralığa kadar devam eder. 
+Eşitsizliğin işaret tablosu aşağıdaki gibi elde edilir-∞       
+-3       
++∞
+x2 + 2x - +
+-
++
+Böylece x2 + 2x - 3 < 0 eşitsizliğinin çözüm kümesi ÇK = (-3, 1) olur16. Örnek 
+D e n k l e m  v e  E ş i t s i z l i k  S i s t e m l e r Yanda verilen f ve g fonksiyonlarının grafikleri içia) f(x) < g(x) eşitsizliğini,
+b) f(x) > g(x) eşitsizliğini,
+c) f(x) = g(x) eşitsizliğini sağlayan x değerlerinin 
+kümesini bulunuzÇözüGrafikte görüldüğü üzere 
+a) (-∞, -2) ve (2, ∞) nda x < -2 ve x > 2 için f(x) 
+    değerleri g(x) değerlerinden küçük olduğunda    ÇK = (-∞, -2) ∪ (2, ∞) olurb) (-2, 2) nda her x ∈ ℝ için f(x) > g(x)
+    olduğundan  ÇK =  (-2, 2) olur. 
+c) x = 2 ve x = -2 için f(x) = g(x) olduğundan                        
+    ÇK = {-2, 2} olur17. Örnek 
+y = f(x)
+y = g(x)
+---y = f(x)
+y = g(x)
+---(x2 - 4x + 4).(x - 5) ≥ 0 eşitsizliğinin çözüm kümesini bulunuzÇözü(x2 - 4x + 4).(x - 5) = (x - 2)2.(x - 5) = 0  denkleminin kökler(x - 2)2 = 0 veya x - 5 = 0  eşitliklerinden 
+ x1 = x2 = 2 (çift katlı kök) veya x3 = 5 olarak bulunur. 
+Burada bulunan 2 ve 5 değerleri, ≥ sembolü kullanıldığı için çözüm kümesine dâhildir. Bu 
+durumda işaret tablosu aşağıdaki gibi olur-∞ 
++∞
+x2 - 4x + +

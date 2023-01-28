@@ -1,0 +1,400 @@
++
+-
++
+-
+-
+-
++
+-
+-
++
+-
+-
+ 
+( )
+der P =
+@
+ ve 
+( )
+der Q =
+@
+ olsun(
+)
+( )
+( )
+(
+)
+( )
+( )
+.............( )
+deP deder P der ise olu$
+$
++
+=
++
++
++
+=
++
++
+=
++
+=
+@
+( )
+( )
+( )
+( )
+..................( )
+der Q P der P der Q oluI=
+-
+=
+-
+=
+<
+@
+@
+(I) ve (II) numaralı denklemler yok etme yöntemi ile çözülürs/
+/
+(
+)
+(
+)
+olu+
+=
++
+-
+=
++
+=
++
+-
++
+= -
+=
+=
+-
+-
+-
+=
+ ifadesinde =
+ için &
+-
+=
+=
+ olur. Buradan 
+( )
+( )
+der P Q olu-
+=
+@
+    
+ 
+                       
+( )
+P -
+( )
+K ( )
+B   
+( )
+(
+)
+( )
+( )
+P B K x olu&
+$
+=
+-
++
+( )
+( )
+der K der Q @
+@ olacağından 
+( )
+K !
+=
+]
+g olur( )
+(
+)
+( )
+P B 2 $
+=
+-
++
+ eşitliğinde x yerine 2 yazılarak 
+( )
+(
+)
+( )
+( )
+c bulunu$
+=
+-
++
+=
+Buradan 
+( )
+( )
+( )
+olu2 6 5 $
+$
+$
+=
+-
+-
++
+=
+-
+-
++
+=
+( )
+P x  polinomunun -
+ ile bölümünden kalan 
+( )
+olu=
+=
+( )
+P x ,  
+( )
+Q x  ve 
+( )
+( )
+Q P ( )
+Q !
+^
+hbirer polinomdur. 
+(
+)
+( )
+( )
+deP $
+$
++
+=
+ ve 
+( )
+( )
+der Q P =
+<
+ 
+olduğuna göre 
+( )
+( )
+der P Q -
+@ in kaç olduğunu bulunuz( )
+P =
+-
+-
++
+ polinomunun 
+( )
+Q =
+-
+ polinomu ile bölümünden elde edilecek kalanı bölü polinomunu bulmadan ( bölme işlemi yapmadan) bulunuz( )
+P =
+-
++
+-
+ polinomunun bir çarpanının -
+^
+h olduğu aşağıdaki gibi gösterilebilir“
+( )
+,
+( )
+P +
+=
+-
+^
+polinomunun bir çarpanıdır.” bileşik önermesinin denk olduğu önerme, 
+“
+( )
+,
+( )
+isP =
+-
+^
+ polinomunun bir çarpanıdır 
+,
+( )
+P v-
+^
+ polinomunun bir çarpanı ise 
+( )
+P =
+ dır.”
+ise olu-
+=
+=
+( )
+( )
+( )
+..........( )
+bulunu2 6 $
+$
+=
+-
++
+-
+=
+-
++
+-
+=
+`
+bbbbbbbbBu durum bölme işlemi kullanılarak aşağıdaki gibi ifade edilir       
+P(x)
+-
++
+-
+444444444 -
+- -
+2 -
++
+-
++
+-
+-
++
+-
+-
+-
+-
+Buradan 
+( )
+(
+) (
+)
+P $
+=
+-
+-
++
+ olur. .........( )
+I              
+(I) ve (II) numaralı denklemlerden 
+( )
+,
+( )
+isP =
+-
+^
+ polinomunun bir çarpanı olup 
+,
+( )
+P -
+^
+polinomunu tam böler. Buradan 
+( )
+P =
+ olur( )
+P =
+-
++
+-
+ polinomunun bir çarpanının -
+^
+h olduğunu gösteriniz ve 
+( )
+P x  polinomunun 
+-
+^
+h ile bölümünden kalanı bulunuzBilg• Bir 
+( )
+P x  polinomunun -
+ ile bölümünden kalan 
+( )
+P a  dır• 
+( )
+,
+( )
+P P 0 +
+=
+-
+^
+polinomunun bir çarpanıdır• 
+=
+için 
+( )
+P =
+ ise =
+ sayısına, P ^ h polinomunun sıfırı (bir kökü) denira) 
+( )
+P x  polinomunun sıfırları ,
+v-
+-  olduğundan bu polinom (
+),(
+)
+(
+)
+ve -
++
++
+ 
+ifadelerinin her birine tam bölünür. Dolayısıyla bu üç ifade 
+( )
+P x  polinomunun çarpanlarıdır.  
+Buradan 
+( )
+( ) (
+) (
+) (
+)
+P Q $
+$
+$
+=
+-
++
++
+ olarak ifade edilebilir   (
+) (
+) (
+)
+$
+$
+-
++
++
+ çarpımı 3. dereceden olduğundan 
+( )
+Q x  polinomu bir sabit polinomdur.   
+   Buradan 
+( )
+Q =
+ yazılabilir. Bu durumda 
+( )
+(
+) (
+) (
+)
+P $
+$
+$
+=
+-
++
++
+ olur   
+( )
+P x  polinomunun katsayıları toplamı 12 olduğundan 
+( )
+P =
+ olur        
+( )
+(
+) (
+) (
+)
+i i2 $
+$
+$
+$
+=
+-
++
++
+=
+-
+=

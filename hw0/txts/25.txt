@@ -1,0 +1,400 @@
+%
+%
+x = 35° + 70° + 25°
+x = 130° bulunur2. 
+70ABC bir üçgen,
+%
+%
+Buna göre m(BEC) kaç derecedir? Bulalıma + b + 3525m (ABE) = 35m (ACE) = 25m (BAC) = 70m (BEC) = x dir%
+%
+%
+tirMatematik I2. BölüÜçgenle3100°
+ABC bir üçge|AB| = |AC|
+°
+m AB=
+%
+m(BA∑C) = x 
+olduğuna göre m BA%  kaç derecedir? BulalımÇözüABC üçgeni, |AB| = |AC| olduğundan ikizkenar üçgendir. İkizkenar üçgende, aynı 
+uzunluktaki kenarların karşısındaki açıların ölçüleri de birbirine eşittir. Buna görm ABm AC=
+%
+%  olur°
+m ABm AB+
+=
+%
+%
+°
+°
+m AB+
+=
+%
+°
+°
+m AB–
+=
+%
+°
+m AB=
+%
+Matematik I2. BölüÜçgenle80°
+80°
+100°
+ABC ikizkenar üçgen olduğundam ABm AC=
+%
+%
+°
+m AC=
+%
+ olurABC üçgeninin iç açılarının ölçüleri toplamı 180° olduğunda°
+m ABm ACm BA+
++
+=
+%
+%
+%
+80° + 80° + m BA%  = 180°
+160° + m BA%  = 180°
+m BA%  = 180° – 160°
+m BA%  = 20° bulunur480°
+ABC bir üçgeLMC eşkenar üçgeKBM ikizkenar üçgen v°
+m BA=
+%
+olduğuna göre m KM=
+%
+ kaç derecedir? BulalımÇözü80°
+60°
+60°
+60°
+LMC eşkenar üçgen olduğu için iç açılarının ölçüleri 60° dir. 
+Üçgenin iç açıları ölçüleri toplamı 180° olduğundan,
+°
+m ACm BAm AB+
++
+=
+%
+%
+%
+60° + 80° +m AB% = 180°
+140° + m AB%  = 180°
+m AB%  = 180° – 140°
+m AB%  = 40° bulunurMatematik I2. BölüÜçgenle80°
+60°
+60°
+40°
+60°
+KBM üçgeni, ikizkenar üçgen olduğundaKMMK=
+%
+%
+ dir°
+m KBm MKm KM+
++
+=
+%
+%
+%
+°
+m MKm KM180°
++
++
+=
+%
+%
+°
+°
+m MKm KM–
++
+=
+%
+%
+°
+m MKm KM+
+=
+%
+%
+°
+m MKm KM=
+=
+=
+%
+%
+ bulunur80°
+60°
+60°
+40° 70°
+70°
+60°
+°
+m KMm LMm KM+
++
+=
+%
+%
+%
+x + 60° + 70° = 180°
+x + 130° = 180°
+x = 180° – 130°
+x = 50° bulunurALIŞTIRMALA155°
+35°
+75°
+ABC ve ECD birer üçge°
+m BA=
+%
+°
+m AB=
+%
+°
+m ED=
+%
+CED =
+%
+ dirYukarıda verilenlere göre m DE%  kaç derecedir?
+A) B) C) D) 2. 
+2x + 40°
+3x + 20°
+ABC bir üçge°
+m DA=
++
+%
+°
+m CB=
++
+%
+MC=
+%
+ dirYukarıda verilenlere göre m DA%
+ kaç derecedir?
+A) B) C) D) Matematik I2. BölüÜçgenle342°
+ABC bir üçge|AD| =|DB| ve |AE| =|EC|
+°
+m DA=
+%
+olduğuna göre m BA%  kaç derecedir?
+A) B) C) D) 4. 
+3x – 6°
+x – 5°
+x – 9°
+olduğuna göre m BA%  kaç derecedir?
+A) B) C) D) 5x + 15°
+4x – 100°
+x + 5°
+ABC bir üçgeB, C ve D noktaları doğrusa°
+m BA=
++
+%
+°
+m AB=
++
+%
+ ve 
+°
+m AC–
+=
+%
+olduğuna göre m AC%  kaç derecedir?
+A) B) C) D) 672°
+ABC bir üçgeLMC bir eşkenar üçgeKMB bir ikizkenar üçgen v°
+m BA=
+%
+olduğuna göre m KM=
+%
+ kaç derecedir?
+A) B) C) D) ABC bir üçge 
+m B%
+ACi = 
+– 
+°
+m A%
+BCi = 
+–
+5°
+m A%
+CBi = 
+–
+9°
+Matematik I2. BölüÜçgenle760°
+65°
+ABC bir üçgen, DEC ikizkenar üçgeEKC ikizkenar dik üçgeB, C ve K noktaları doğrusa°
+m BA=
+%
+ ve 
+°
+m CB=
+%
+dirolduğuna göre m CD=
+%
+ kaç derecedir?
+A) B) C) D) Üçgende Açı ve Kenar BağıntılarBir üçgende büyük açı karşısında uzun kenar, küçük açı karşısında kısa kenar bulunu70°
+50°
+60°
+m ^
+W  > m ^
+W  > m ^
+    70°   >      60°   >    50°
+      a     >      b      >     ÖRNEKLE1. 
+45°
+75°
+ABC üçgeninde en uzun kenar hangisidir? BulalımÇözü°
+m m m +
++
+=
+^
+^
+^
+ (Üçgenin iç açılar toplamı 180° dir.)
+45° + 75° + m ^
+W  = 180°
+120° + m ^
+W  = 180°
+m ^
+W  = 180° – 120°
+m ^
+W  = 60° dirBüyük açı karşısında uzun kenar bulunacağından,
+m ^
+^
+^
+|AC| > |AB| > |BC| olurMatematik I2. BölüÜçgenle2. Verilen şekilde en uzun kenar hangisidir? Bulalım70°
+35°
+50°
+Çözü50°
+30°
+80°
+95°
+35° + 50° + m(AC∑B) = 180°
+   m(AC∑B) = 180° – 85° = 95° 
+ADC üçgeninde;
+B                                                           70° + 30° + m(ADC )= 180° 
+m(ADC) = 180° –100° = 80°
+Şimdi de ayrı ayrı iki üçgende kenar uzunluklarını sıralayalımABC üçgeninde;   
+|AB| > |AC| > |BC|----ADC üçgeninde; 
+|AC| > |CD| > |AD|----② dir①�ve ② no’lu sıralamalarda ortak kenar |AC| dir. ②  de en uzun kenar olan |AC|,
+①�de ortadaki kenar olduğundan;
+|AB| > |AC| > |BC|------------|AC| > |CD| > |AD|----3. 
+80°
+60°
+85°
+64°
+66°
+Yandaki şekilde en kısa kenar hangisidir? BulalıÖnce şekilde verilmeyen açı ölçülerini bulalımABC üçgeninde;
+70°
+35°
+① ve ② yi birleştirirsek en uzun kenar |AB| olur30°
+[AC]
+[AC]
+[AB]
+vdMatematik I2. BölüÜçgenleÇözü80° 45°
+60°
+40°
+50°
+50°
+85°
+64°
+66°
+Şekilde verilmeyen açı ölçülerini bulalımABC üçgenind80° + 60° + m(AB∑C) = 180° 
+         m(AB∑C) = 180° – 140° = 40°
+ECD üçgenind64° + 66° + m(EC∑D) = 180° 
+         m(EC∑D) = 180° – 130° = 50°
+ACE üçgenindm ACEC=
+%
+%  olduğunda85° + 50° + m(EA∑C) = 180° 
+          m(EA∑C) = 180° – 135° = 45°
+ABC üçgeninde kenar uzunluklarını sıralayalım|AC| < |AB| < |BC| ----ACE üçgeninde kenar uzunluklarını sıralayalım|EC| < |AE| < |AC| ----EDC üçgeninde kenar uzunluklarını sıralayalım|ED| < |CD| < |EC| ----Bu üç kenar uzunluğu sıralamasını ortak kenarları baz alarak sıralayalım. 1 ile 
+2 de [AC] ortaktır. 1 de en kısa olan [AC] 2 de en uzundur. 2 de [AC] dan daha kısa 
+olan [EC] vardır. Şimdi de 2 ve 3 no.lu sıralamada ortak olan [EC] nı inceleyelim. 
+2 no.lu sıralamada en kısa olan [EC] 3 no.lu sıralamada en uzundur. [EC]dan daha 
+kısa olan [ED] bu üç sıralamada en kısa kenar olurMatematik I2. BölüÜçgenleALIŞTIRMALA1. 
+52°
+67°
+ABC bir üçge°
+m BA=
+%
+°
+m AC=
+%
+olduğuna göre üçgenin kenarları arasındaki sıralama aşağıdakilerden hangisidir?
+A) c > b > B) a > c > C) b > c > D) c > a > 2. 
+ABC bir üçge|AB| = 4 c|AC| = 6 c|BC| = 9 colduğuna göre üçgenin açıları arasındaki sıralama aşağıdakilerden hangisidir?
+A) m ^
+^
+^
+B) ^
+^
+^
+C) m ^
+^
+^
+D) ^
+^
+^
+3. 
+52°
+50°
+57°
+70°
+ABC bir üçge°
+m AB=
+%
+°
+m AC=
+%
+°
+m CA=
+%
+°
+m DC=
+%
+Yukarıda verilenlere göre en uzun kenar aşağıdakilerden hangisidir?
+A) [AD]
+B) [AB]
+C) [AC]
+D) [BC]
+Matematik I2. BölüÜçgenle4. 
+53°
+50°
+47°
+75°
+78°
+ABCDE bir beşge°
+m BC=
+%
+°
+m CA=
+%
+°
+m DC=
+%
+°
+m AD=
+%
+°
+m ED=
+%
+°
+m EA=
+%
+Yukarıda verilenlere göre en kısa kenar aşağıdakilerden hangisidir?
+A) [DC]
+B) [ED]
+C) [AC]
+D) [AE]
+Üçgen Eşitsizliği 
+Üç doğru parçasını uç uca ekleyerek üçgen elde etmek için bu doğru parçalarından 
+herhangi birinin uzunluğu, diğer ikisinin uzunluğunun toplamından kısa, farkından 
+uzun olmalıdır4 c4 c2 c5 c5 c3 c6 c6 c>
+<
+<
+>
+Üçgen oluştururÜçgen oluşturmazBir üçgende bir kenar uzunluğu diğer kenar uzunlukları toplamından küçük, farkını mutlak değerinden büyüktür. Bu eşitsizliğe üçgen eşitsizliği denir|b – c| < a < b + |a – c| < b < a + |a – b| < c < a + 60°
+Matematik I2. BölüÜçgenleÖRNEKLE1ABC bir üçgen 
+|BC| = 8 cm      
+|AB| = 4 cm       
+|AC| = x colduğuna göre x in alabileceği tam sayı değerlerini bulalımÇözüBir üçgende; bir kenar uzunluğu diğer iki kenarın uzunlukları toplamından küçük, 
+farkının mutlak değerinden büyüktür|b – c| < a < b + Buna gör|8 – 4| < x < 4 + 4 < x <        
+↵
+ 5, 6, 7, 8, 9, 10, 11 olur2. 
+x + ABC bir üçgen           
+|AC| = 6 cm 
+|AB| = 3 cm               
+|BC| = (x + 3) cm 
+olduğuna göre x in alabileceği tam sayı değerlerini bulalımÇözüÜçgen eşitsizliğinden,          |6 – 3| < x + 3 < 6 + 3 < x + 3 < 3 < x + 3 
+x + 3 < 3 – 3 < x 
+x < 9 – 0 < x 
+x < 0 < x < ↵

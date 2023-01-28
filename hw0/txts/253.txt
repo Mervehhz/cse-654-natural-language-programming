@@ -1,0 +1,400 @@
+doğrudur?
+Yanda verilen daire biçimindek şekil merkezi etrafında 
+ok yönünde 630c döndürüldüğünd şeklin görünüm aşağıdakilerde hangisi 
+olur?
+A)
+B)
+C)
+D)
+E)
+B üçgeni, A üçgeninin orijin etrafında negati yönde 270c döndürüldükten sonra y 
+ekseni boyunca pozitif yönde 1 birim ötelenmi halidirC üçgeni, A üçgeninin orijin etrafında poziti yönde 9 c döndürülmüş halidirB üçgeni, C üçgeninin orijin etrafında 
+pozitif yönde 180c döndürülmüş halidirD üçgeni, A üçgeninin y ekseni boyunca 
+negatif yönde 1 birim ötelendikten sonra 
+orijin etrafında pozitif yönde 180c döndürülmü halidirA üçgeni, D üçgeninin orijin etrafında poziti yönde 90c döndürüldükten sonra x 
+ekseni boyunca pozitif yönde 1 birim ötelenmi halidirDönüşümle    26-28. üst düzey beceri sorularını şekle      
+    ve metne göre cevaplayınızE) 24-25. üst düzey beceri sorularını şekle      
+     ve metne göre cevaplayınızŞekilde eşit aralıklarla yerleştirilmiş 12 adet 
+kabin ve her kabinde 4 koltuk bulunan bir dönm dolap verilmiştir. Dönme dolaba her seferind 1 numaralı kabinin bulunduğu konumdan 
+müşteriler binebilmektedirDönme dolabın 1 numaralı kabinine 4 müşter bindikten sonra dönme dolap saat yönünd döndürülerek 2 numaralı kabine müşteri 
+alınacaktır. Bu işleme tüm kabinlere müşteri 
+alınıncaya kadar devam edilecektirDönme dolabın tek numaralı kabinlerine çift 
+sayıda müşteri binecektirDönme dolabın çift numaralı kabinlerine tek 
+sayıda müşteri binecektirDönme dolabın asal sayı numaralı kabinlerin asal sayıda müşteri binecektirDönme dolabın görevlisi dalgınlıkla 2 numaral kabine müşteri almayı unutarak 3 numaral kabinden devam etmiştir. 
+Dönme dolap başlangıç konumundan 240c 
+döndürüldüğünde dönme dolaba binen yeni 
+müşterilerle birlikte dönme dolapta en fazla 
+kaç müşteri olur?
+Dönme dolap ilk konumundan itibaren 1500c 
+döndürüldüğünde 4 numaralı kabin başlangıçtak kaç numaralı kabinin konumuna gelir?
+Dönme dolabın 6 numaralı kabinine müşter alındıktan sonra dönme dolabın 150c 
+dönmesinin ardından dönme dolap arıza 
+yapıyor. Buna göre dönme dolabın arıza 
+yaptığı anda yerden en yüksekte bulunan 
+kabini hangisidir?
+Yukarıda verilen eş büyüklükte kare biçimindeki 
+motiflerler verilmiştir. Bu motiflerden sadece biri 
+veya her ikisi kullanılarak çeşitli desenler oluşturuluyo. Buna göre;
+1. motif              2. motif       
+Bu motiflerle aşağıdaki desenlerden hangis elde edilemez? 
+Yukarıdaki desende kullanılan 1. ve 2. 
+motif sayısı aşağıdakilerden hangisidir?
+)
+)
+)
+)
+)
+8 6 4 -
+-
+-
+-
+-
+:
+:
+:
+:
+:
+A)
+B)
+C)
+D)
+E)
+Buna göre;
+Matematik TÜRE5.1. LİMİT VE SÜREKLİLİ5.2. ANLIK DEĞİŞİM ORANI VE TÜRE5.3. TÜREVİN UYGULAMALARHAZIRLIK ÇALIŞMALARBir hareketlinin ortalama hızı nasıl bulunur?
+Bir hareketlinin anlık hızı bulunabilir mi?
+Bir parabolün tepe noktası farklı bir yoldan bulunabilir mi?
+Üretilecek bir ürünün maliyetinin minimum olması nasıl hesaplanabilir?
+İkinci dereceden fonksiyonların grafikleri çizilirken nelere dikkat edilmelidir?
+Türe5.1. LİMİT VE SÜREKLİLİ5.1.1. Bir Fonksiyonun Bir Noktadaki Limiti ile Soldan ve Sağdan 
+ Limit KavramlarYaklaşım Kavramx bağımsız değişkeni bir a gerçek sayısına a dan küçük değerler ile artarak yaklaşıyorsa 
+bu yaklaşım durumuna x in a ya soldan yaklaşımı denir ve "
+-  biçiminde gösterilirYukarıdaki sayı doğrusunda 2 ye sağdan yaklaşım gösterilmiştir. "
++  gösterimi, x in 
+2 değerini almadığını ancak 2 den büyük 2,5; 2,4; 2,3; 2,2; 2,1; 2,01; 2,001; ...  değerler 
+alarak 2 ye yaklaştığını ifade ederYukarıdaki sayı doğrusunda 2 ye soldan yaklaşım gösterilmiştir. "
+-  gösterimi, x in 
+2 değerini almadığını ancak 2 den küçük 1,5; 1,6; 1,7; 1,8; 1,9; 1,99; 1,999; ...  değerler 
+alarak 2 ye yaklaştığını ifade ederx bağımsız değişkeni bir a gerçek sayısına a dan büyük değerler ile azalarak yaklaşıyorsa 
+bu yaklaşım durumuna x in a ya sağdan yaklaşımı denir ve "
++  biçiminde gösterilir{
+{
+x değişkeni bir gerçek sayıya 3,3; 3,5; 3,8; 3,9; 3,99; ...  değerleri alarak yaklaşmaktadır. Bu yaklaşı biçiminin matematiksel olarak nasıl ifade edileceğini gösterinizBu yaklaşımda x değişkeni 4 ten küçük değerler ile artarak 4 e yaklaşmaktadır. Bu durum 4 e 
+soldan yaklaşımı ifade eder. Bu yaklaşım "
+-  biçiminde gösterilirx değişkeni bir gerçek sayıya 
+;
+;
+;
+;
+;
+,
+,
+,
+,
+,
+2 2 2 2 2 99 -
+-
+-
+-
+-
+ değerleri alarak yaklaşmaktadı. Bu yaklaşım biçiminin matematiksel olarak nasıl ifade edileceğini gösterinizBu yaklaşımda x değerleri 
+-  ten büyük değerler ile azalarak 
+-  e yaklaşmaktadır. Bu durum 
+-  e sağdan yaklaşımı ifade eder. Bu yaklaşım "-
++  biçiminde gösterilir. 
+"
+-
+1,1,,1,,9 1,1,
+1,
+1,01 1,1,,1,,"
++
+ÇÖZÜÇÖZÜÖRNEÖRNEMatematik :
+,
+f "
+=
++
+]  fonksiyonu veriliyor. Aşağıdaki tabloda x, 2 ye sağdan ve soldan yaklaşırken 
+f ] g in aldığı bazı değerler gösterilmiştir                                     
+Buna göre x değişkeni 2 ye soldan ve sağdan yaklaşırken f ] g in hangi sayıya yaklaştığını grafik 
+üzerinde gösteriniz. 
+Gerek tablodan  gerekse grafikte x bağımsız değişkenini 2 ye soldan yaklaşırken 
+f ] g değerlerinin 3 e yaklaştığı 
+görülmektedirBenzer şekilde x bağımsız 
+değişkeni 2 ye sağdan yaklaşırke f ] g değerleri 3 e yaklaşmaktadı1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2, 3, 3, 3, 3, f ^ "
+-
+"
++
+f =
++
+^ f =
++
+^ f =
++
+^ f =
++
+^ ÇÖZÜÖRNETüreLimit KavramYanda verilen f ] g fonksiyonunun grafiği incelendiğind x, a ya soldan yaklaşırken f ] g in 1,  
+gerçek sayısına yaklaştığı görülmektedirger e1,
+ sayısına f ] g fonksiyonunun =
+ 
+noktasındaki soldan limiti denir ve 
+    
+ 
+ 
+ 
+ 
+  
+                      lim f 1,
+=
+"
+- ]  
+biçiminde gösterilir. 
+f = ^ f = ^ f = ^ Yanda verilen f ] g fonksiyonunun grafiği incelendiğind x, a ya sağdan yaklaşırken f ] g in 
+2,  gerçek sayısına yaklaştığı görülmektedir2,  gerçek sayısına f ] g fonksiyonunun =
+ 
+noktasındaki sağdan limiti denir v 
+ 
+          
+,
+lim f =
+"
++ ] biçiminde gösterilir,
+f ^ f ^ f ^ Yanda verilen f ] g fonksiyonunun grafiği incelendiğind x, a ya soldan ve sağdan yaklaşırke f ] g in ,  gerçek sayısına yaklaştığı görülmektedi. 
+ger e,
+ sayısına f ] g fonksiyonunun =
+ 
+noktasındaki limiti denir ve 
+                      lim f ,
+=
+"
+] biçiminde gösterilir{
+{
+{
+f = ^ 2,
+1,
+Matematik {  Bir f ] g fonksiyonunun =
+ noktasında limitinin olması için bu noktadaki  
+     
+sağdan ve soldan limitleri birbirine eşit olmalıdır                lilivf f ,
+,
+=
+=
+"
+"
+-
++
+]
+]
+ olmak üzere 
+&
+lioluf ,
+,
+,
+,
+=
+=
+=
+"
+] :
+,
+f "
+=
+-
+]  fonksiyonunun =
+ noktasındaki limitini tablo ve grafik yardımıyla bulunu{   
+{  Bir fonksiyonun bir noktada limiti varsa bu limit tektirx değişkeni 3 e sağdan ve soldan yaklaşırken f ] g in aldığı değerler aşağıdaki tablo yardımıyla 
+incelenirs     
+              
+x değişkeni 3 e soldan yaklaşırken f ] g in 5 e yaklaştığı görülür ve 
+lim f olu=
+"
+- ]  
+x değişkeni 3 e sağdan yaklaşırken f ] g in 5 e yaklaştığı görülür ve 
+lim f olu=
+"
++ ] f ] g in =
+ noktasındaki soldan ve sağdan limitleri birbirine eşit ve 5 olduğundan f ] g fonksiyounun =
+ noktasındaki limiti 5 tir&
+lililif f f olu=
+=
+=
+"
+"
+"
+-
++
+]
+]
+]
+f =
+-
+]  fonksiyonunun grafiği çizilerek incelendiğind x değişkeni soldan ve sağdan 3 e yaklaşırke f ] g in 5 e yaklaştığı görülmektedir. Bu 
+durumda  
+&
+lililif f f olu=
+=
+=
+"
+"
+"
+-
++
+]
+]
+]
+f =
+-
+^ Bir f ] g fonksiyonunun =
+ noktasındaki sağdan ve soldan limitleri birbirine eşit değils fonksiyonun bu noktada limiti yoktur            
+&
+lililif f f yoktur!
+"
+-
++
+"
+"
+]
+]
+]
+2, 2, 2, 2, 999        3, 3, 3, 3, 3, 4, 4, 4, 4, 5, 5, 5, 5, 5, f ^ "
+-
+"
++
+-
+ÇÖZÜÖRNETüreYukarıdaki örnek incelendiğinde f ] g fonksiyonunu:  =-  noktasında tanımlı ve -
+=
+]
+ olmasına rağmen bu noktada limiti yoktur:  =
+ noktasında tanımlı olmamasına rağmen bu noktada limiti vardır:  =
+ noktasında fonksiyon tanımlı ve f =
+]  olmasına rağmen bu noktadaki limiti 3 türSONUYanda f ] g fonksiyonunun grafiği verilmiştir. Buna göre 
+aşağıdaki limit değerlerini bulunuz)
+)
+)
+ç)
+)
+)
+)
+)
+)
+lililililililililif f f f f f f f f "
+"
+"
+"
+"
+"
+"
+"
+"
+-
+-
+-
+-
++
+-
++
+-
++
+]
+]
+]
+]
+]
+]
+]
+]
+]
+f = ^ f ] g fonksiyonunun grafiği incelendiğind,
+) -
+ soldan yaklaşırken 
+,
+f ]  yaklaştığından 
+lim f olu=
+"-
+- ] ,
+) -
+ sağdan yaklaşırken 
+,
+f y]  yaklaştığından 
+lim f olu=
+"-
++ ] )
+lilif f !
+"
+"
+-
+-
+-
++
+]
+]
+g olduğundan lim f "-
+] g  yoktur,
+)  soldan yaklaşırken 
+,
+f ]  yaklaştığından 
+lim f olu=
+"
+- ] ,
+)  sağdan yaklaşırken 
+,
+f ]  yaklaştığından 
+lim f olu=
+"
++ ] ) lilif f =
+=
+"
+"
+-
++
+]
+]
+ olduğundan 
+lim f olu=
+"
+] ,
+)  soldan yaklaşırken 
+,
+f ]  yaklaştığından 
+lim f olu=
+"
+- ] ,
+)  sağdan yaklaşırken 
+,
+f ]  yaklaştığından 
+lim f olu=
+"
++ ] ) lilif f =
+=
+"
+"
+-
++
+]
+]
+ olduğundan 
+lim f olu=
+"
+] Bir fonksiyonun bir noktada limitinin olması için fonksiyonun o noktada tanımlı olma 
+zorunluluğu yokturBir fonksiyonun bir noktadaki limiti, fonksiyonun o noktadaki değerinden farklı olabilirÇÖZÜÖRNEMatematik Yanda f = ] g fonksiyonunun grafiği verilmiştirBuna göre aşağıdaki limit değerlerini bulunuz. 
+)
+)
+)
+)
+lilililif f f f "
+"
+"
+"
+-
+-
+]
+]
+]
+]
+f = ^ =-  noktasında fonksiyon tanımlı olup bu noktada grafikte bir kopukluk olmadığından fonksiyoun bu noktadaki limiti, fonksiyonun o noktadaki değerine eşit olacaktır)
+lim f =
+-
+=
+"- ]
+]
+ olurFonksiyonun grafiği incelendiğinde =-  noktasında tanımsız, 
+v=
+=

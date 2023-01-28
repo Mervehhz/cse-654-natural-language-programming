@@ -1,0 +1,400 @@
+sicocosicosicocosicosicocosicocosicosiolu2 -
++
+-
+=
+-
+-
++
++
+-
++
+-
+-
+-
+-
+-
+cosec=
+=
+=
+=
+=
+]
+]
+]
+]
+]
+29. Örnek 
+Tanımlı olduğu aralıkta cocosi+
++
+ ifadesinin en sade hâlini bulunuzÇözü(sinx)
+(1 + cosx)
+cosecx olucocosisicocosicosicocosicosicosi$
+$
++
++
+=
++
++
+=
++
++
++
+=
++
++
+=
+=
+]
+]
+31. Örnek 
+Tanımlı olduğu aralıkta 3sec2x - 5 = 5tanx olduğuna göre cotx değerlerini bulunuzÇözücocosicocosicocosico-
+=
+-
+=
+-
+=
+cos2x + sin2x = 1 olduğundan 
+3(cos2x + sin2x) - 5cos2x = 5sinx.cosx  olur. Buradan 
+3sin2x - 5sinx.cosx - 2cos2x = 3sinx  
+            cossinx 
+ 
+            -2cos3sinx = -cosx  ⇒ cotx = -3 veya 
+sinx = 2cosx ⇒ cotx  = 1  olur. 
+30. Örnek 
+T Tanımlı olduğu aralıkta  tacosecose+
++
+ ifadesinin en sade hâlini bulunuzSıra Sizdsico+
+=
+ olduğuna göre secx + cosecx toplamının değerini bulunuzÇözüsecosecosisicosico+
+=
++
+=
++ 
+ 
+       (sinx)         (cosx)
+sinx.cosx değerini elde etmek için 
+sico+
+=
+ eşitliğinin her iki yanının karesi alındığında 
+&
+&
+(
+)
+sicosisicocosicosicoolur Burada&
++
++
++
+=
+= -
+-
+=
+=
+secosesicosico+
+=
++
+=
+-
+= -
+= -
+ olur32. Örnek 
+x ∈ 
+,0 ��
+l olmak üzere sec=
+ olduğuna göre sec 2  değerini bulunuzÇözü& cossecoolu=
+=
+=
+Yandaki ABC dik üçgeni cos=
+ olacak şekilde 
+çizildiğinde |BC| = 2k ve |AC| = 3k olur. 
+ABC dik üçgeninde Pisagor teoremi uygulandığınd(2k)2 + |AB|2 =  (3k)2 ⇒ 4k2 + |AB|2 = 9k2  
+  
+ 
+    ⇒ |AB|2 = 5k2 
+ 
+ 
+ 
+      ⇒ |AB| = 
+5 k olurÖlçüsü 2  radyan olan açıyı oluşturmak için 
+BC kenarı |CD|  = |AC|  olacak şekilde uzatılırm CAAD=
+=
+^
+^
+\
+\
+ olurABD dik üçgeninde Pisagor teoremi uygulandığında A30 =
+ olur. Buradan 
+secoolu=
+=
+=
+ 
+33. Örnek 
+233Bir Açının Trigonometrik Değerlerinin Dar Açı Cinsinden YazılmasBaşlangıç kenarı x ekseninin pozitif tarafı olan pozitif yönlü bir dar açının ölçüsü α olsun. Bu 
+açının bitiş kenarının birim çemberi kestiği  A noktasının koordinatları A(cosα, sinα) biçimindedir1. Birinci Bölgede Olan Açıların Trigonometrik DeğerlerAnalitik düzlemin birinci bölgesinde olan açılar, α bir dar açının ölçüsü olmak üzere 90° - biçiminde ifade edilebilirBu açıların trigonometrik değerleri α nın trigonometrik değerleri cinsinden yazılabilir. 
+Ölçüsü 90° - α olan açının bitiş kenarının birim çemberi kestiği nokta C olsun. AOB üçgeni ile COD 
+üçgeni eş (A.K.A.) olduğundan C noktasının koordinatları C(sinα, cosα) olur--A(cosα, sinα)
+C(sinα, cosα)
+90°-cossinsincosTrigonometrik Fonksiyonların İşaretlerÖlçüsü α olan bir açının herhangi bir trigonometrik 
+değerinin işaretini belirlemek için bu açının 
+bitiş kenarının birim çemberi kestiği noktanın 
+koordinatlarına bakılır. Bu noktanın apsisinin işareti 
+cosα nın, ordinatının işareti sinα nın işaretidirYandaki şekilde bir noktanın koordinatlarının 
+bölgelere göre hangi işaretleri alacağı gösterilmiştir. 
+cos  +
+sin   + 
+tan  + 
+cot  +
+cos  +
+sin  - 
+tan  - 
+cot  -
+cos  -
+sin  + 
+tan  - 
+cot  -
+cos  -
+sin  - 
+tan  + 
+cot  +
+1. Bölg(+, +)
+2. Bölg(-, +)
+3. Bölg(-, -)
+4. Bölg(+, -)
+cos1550°, 
+tan  ve si72��
+-
+l  trigonometrik değerlerinin işaretlerini bulunuzÇözücos1550° = cos(4.360° + 110°) = cos110° < °
+tatatata1 &
+=
++
+=
+> sisisisi8 288°
+&
+-
+=
+-
++
+=
+< 2. bölg3. bölg4. bölg180°
+34. Örnek 
+Buna göre  
+α nın birimi derece olmak üzercos -
+l = sinα      sin -
+l = costan -
+l = cotα      cot -
+l = tanα nın birimi radyan olmak üzercos(90°-α)  = sinα 
+sin(90°-α) = costan(90°-α) = cotα 
+cot(90°-α) = tanolurolurT İki açının ölçüleri toplamı 90° olduğunda bu açılardan birinin sinüs, kosinüs, tanjant ve 
+kotanjant değerleri diğer açının sırasıyla kosinüs, sinüs, kotanjant  ve tanjant değerlerine 
+eşittir. 
+cos20° = sin70° 
+ cot79° = tan11°
+Sonuç                   
+2.  İkinci Bölgede Olan Açıların Trigonometrik DeğerlerAnalitik düzlemin ikinci bölgesinde olan açılar 180° - α veya 90° + α biçiminde ifade edilebilir. 
+Bu açıların trigonometrik değerleri α nın trigonometrik değerleri cinsinden yazılabilirAşağıdaki birim çemberde görüldüğü gibi ölçüsü 180° - α 
+α olan açının bitiş kenarının birim 
+çemberi kestiği nokta C olsunBu durumda AOB ve COD üçgenleri eş olduğundan C noktasının koordinatları C(-cosα, sinα) olurcoscos--A(cosα, sinα)
+C(-cosα, sinα)
+180°-sinsinİki açının ölçüleri toplamı 180° olduğunda bu açılardan birinin kosinüs, tanjant ve 
+kotanjant değerleri diğer açının sırasıyla kosinüs, tanjant ve kotanjant değerlerinin 
+negatiflerine eşittir. 
+İki açının ölçüleri toplamı 180° olduğunda bu açıların sinüs değerleri birbirine eşittir. 
+cos120° = -cos60°  
+cot179° = -cot1°
+ tan145° = -tan35°  
+sin150° = sin30°
+Sonuç                   
+Aşağıdaki birim çemberde ölçüsü 90° + α olan açının bitiş kenarının birim çemberi kestiği nokta 
+C olsun. AOB ve COD dik üçgenlerinin A.K.A. eşliğinden C noktasının koordinatları C(-sinα, cosα) 
+olur. 
+--A(cosα, sinα)
+C(-sinα, cosα)
+90°+cossinsincosBuna göre  
+α nın birimi derece olmak üzercos(π-α) = -cosα 
+sin(π-α) = sintan(π-α) = -tanα 
+cot(π-α) = -cotα   
+α nın birimi radyan olmak üzercos(180°-α) = -cosα sin(180°-α) = sintan(180°-α) = -tanα cot(180°-α) = -cotolurolurBuna göre  
+α nın birimi derece olmak üzercos +
+l = -sinα sin +
+l = costan +
+l = -cotα cot +
+l = -tanα  
+α nın birimi radyan olmak üzercos(90°+α) = -sinα 
+sin(90°+α) = costan(90°+α) = -cotα 
+cot(90°+α) = -tanolurolur3.  Üçüncü Bölgede Olan Açıların Trigonometrik DeğerlerAnalitik düzlemin üçüncü bölgesindeki açılar 180° + α veya 270° - α biçiminde ifade edilebilirBu açıların trigonometrik değerleri α nın trigonometrik değerleri cinsinden yazılabilir. 
+Aşağıdaki birim çemberde görüldüğü gibi ölçüsü 180° + α olan açının bitiş kenarının birim 
+çemberi kestiği nokta C olsunAOB ile COD üçgenlerinin A.K.A. eşliğinden C noktasının koordinatları C(-cosα, -sinα) olur 
+cos--A(cosα, sinα)
+C(-cosα, -sinα)
+     180°+sinsincosx bir dar açının ölçüsü olmak üzere 
+cosi-
++
+-
+]
+g ifadesinin eşitini bulunuzÇözünin esas ölçüsü 2 olur. Bu durumda 
+cocosi-
+=
+-
+=
+ olur. 
+9π nin esas ölçüsü π olur. Bu durumda sin(9π - x) = sin(π - x) = sinx olur. Buna görcosi-
++
+-
+]
+g = sinx + sinx = 2sinx olur35. Örnek 
+Ölçüsü 210° olan açının trigonometrik değerlerini bulunuzÇözü210° üçüncü bölgede bir açıdırBu bölgede sin, cos, tan, cot  işaretleri sırasıyla (-, -, +, +)  olursin210° = sin(180° + 30°) = -sin30° = 
+-
+,
+cos210° = cos(180° + 30°) = -cos30° = 
+-
+,                
+tan210° = tan(180° + 30°) = tan30° = 3 ,                  
+cot210° = cot(180° + 30°) = cot30° = 
+3 olur. 
+36. Örnek 
+Buna göre  
+α nın birimi derece olmak üzercos(π+α) = -cosα 
+sin(π+α) = -sintan(π+α) = tanα   
+cot(π+α) = cotα   
+α nın birimi radyan olmak üzercos(180°+α) = -cosα sin(180°+α) = -sintan(180°+α) = tanα 
+cot(180°+α) = cotolurolurT Ölçüsü 270°- α olan açının bitiş kenarının birim çemberi kestiği nokta C olsun.  
+AOB ile COD üçgenlerinin A.K.A. eşliğinden C noktasının koordinatları  C(-sinα, -cosα) olur--A(cosα, sinα)
+C(-sinα, -cosα)
+          270°-coscossinsincosi+
++
+-
+]
+l ifadesinin sonucunu bulunuzSıra SizdÖlçüsü 240° olan açının sinüs ve tanjant değerlerini bulunuzÇözü240° üçüncü bölgede bir açıdırBu bölgede sinüs ve tanjant işaretleri sırasıyla (-, +)  olursin240° = sin(270° - 30°) = -cos30° = 
+-
+olurtan240° = tan(270° - 30°) = cot30° = 
+3  olur37. Örnek 
+taco�
+�
+�
+�
++
++
+-
+]
+l ifadesinin en sade hâlini bulunuzÇözü�
+�
+�
+�
+�
+�
+�
+�
+�
+tatatacocotatacotatataolu�
+�
+�
+�
+�
+�
+�
+�
++
+=
++
+=
+-
+=
+-
+=
++
++
+-
+=
++
+=
+]
+]
+]
+ 
+38. Örnek 
+Buna göre  
+α nın birimi derece olmak üzercos( 32 -α) = -sinα 
+sin( 32 -α) = -costan( 32 -α) = cotα 
+cot( 32 -α) = tanα 
+α nın birimi radyan olmak üzercos(270°-α) = -sinα sin(270°-α) = -costan(270°-α) = cotα 
+cot(270°-α) = tanolurolurÖlçüsü 330° olan açıların trigonometrik değerlerini bulunuzÇözüÖlçüsü 330° olan açı dördüncü bölgededir. 
+Bu bölgede sin, cos, tan, cot  işaretleri sırasıyla (-, +, -, -) olursin330° = sin(360° - 30°) = -sin30° = 
+-
+, 
+cos330° = cos(360° - 30°) = cos30°= 3 ,      
+tan330° = tan(360° - 30°) = -tan30°= 
+-
+,
+cot330° = cot(360° - 30°) = -cot30°= 
+-
+ olur39. Örnek 
+Aşağıdaki şekilde 4. bölgedeki ölçüsü 270° + α olan açının birim çemberi kestiği nokta C olsun. 
+AOB ile COD dik üçgenlerinin A.K.A. eşliğinden C noktasının koordinatları C(sinα, -cosα) olur. 
+4.  Dördüncü Bölgede Olan Açıların Trigonometrik DeğerlerAnalitik düzlemin dördüncü bölgesindeki açılar 360° - α veya 270° + α biçiminde ifade edilebilirBu açıların trigonometrik değerleri α nın trigonometrik değerleri cinsinden yazılabilir. 
+Ölçüsü 360° - α olan açının bitiş kenarının birim çemberi kestiği nokta C olsun. AOB ile COB 
+üçgenlerinin A.K.A. eşliğinden C noktasının koordinatları C(cosα, -sinα) olur. 
+--A(cosα, sinα)
+C(cosα, -sinα)
+360°-cossinsin--A(cosα, sinα)
+C(sinα, -cosα)
+       270°+coscossinsinBuna göre  
+α nın birimi derece olmak üzercos(2π-α) = cosα 
+sin(2π-α) = -sintan(2π-α) = -tanα 
+cot(2π-α) = -cotα nın birimi radyan olmak üzercos(360°-α) = cosα 
+sin(360°-α) = -sintan(360°-α) = -tanα cot(360°-α) = -cotolurolurBuna göre  
+α nın birimi derece olmak üzerco3+
+l = sinα 
+si3+
+l = -costa3+
+l = -cotα co3+
+l = -tanα nın birimi radyan olmak üzercos(270°+α) = sinα 
+sin(270°+α) = -costan(270°+α) = -cotα cot(270°+α) = -tanolurolurT Aşağıdaki şekilde görüldüğü gibi dördüncü bölgede ölçüsü -α ve 360°-α olan açıların bitiş 
+kenarı birim çemberi C noktasında keser. C noktasının koordinatları C(cosα, -sinα) olur. 
+--A(cosα, sinα)
+C(cosα, -sinα)
+-cossinsin360°-tasico-
++
+ ifadesinin değerini bulunuzÇözü21-
+ radyanlık açının esas ölçüsü 3 ,
+radyanlık  açının esas ölçüsü 3 ,        
+ radyanlık  açının esas ölçüsü 53  olur.     
+Trigonometrik değerler 
+sicov=-
+=
+tatata=
+-
+= -
+= -
+ olur. Buradatasico2 +
+=
+-
+-
++
+= -
+-
+=
+=
+ olur40. Örnek 
+taco-
++
++
+]
+l ifadesinin değerini bulunuzÇözütan(-α) = -tan�
+�
+�
+cocota�
+�
++
+=
++
+= -
+ olur. Burada�
+�
+�
+tacotatata�
+�
+�
+-
++
++
+= -
+-

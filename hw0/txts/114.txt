@@ -1,0 +1,400 @@
+-
+ ifadesinde ilk iki terim x3  parantezine, son iki terim 
+-  ortak çarpan 
+     parantezine alınırsa 
+(
+)
+(
+)
++
++
+-
+ elde edilir. Elde edilen bu ifadede  (
+)
++
+ 
+     ortak çarpanı bulunduğundan -
++
+-
+  ifadesinin çarpanlara ayrılmış şekl     (
+) (
+)
+(
+)
+(
+)
+(
+)
+(
+) (
+)
+$
+$
+$
+$
+$
+$
++
++
+-
++
++
+-
+=
+=
+-
+ olur. Buradan 
+(
+)
+(
+) (
+)
+$
+$
+$
++
+-
+-
+=
++
++
+-
+ olurb) +
+-
+-  ifadesinde ilk iki terim x2  parantezine, son iki terim 
+-  ortak çarpan parantezine 
+alınırsa 
+(
+)
+(
+)
+2 $
+$
++
+-
++
+ elde edilir. Elde edilen bu ifadede  (
+)
++
+  ortak çarpan     bulunduğundan +
+-
+-  ifadesinin çarpanlara ayrılmış şekli (
+)
+$
++
+-
+^
+h olur. Buradan 
+(
+)
+(
+) (
+) (
+)
+(
+) (
+)
+$
+$
+$
+$
++
+-
+-
+=
++
+-
++
++
+=
+-
+=
+-
++
+^
+ olurGruplandırma Yöntemi ile Çarpanlara AyırmÖzdeşlikler Yardımıyla Çarpanlarına Ayırmİpucİki Kare Farkı Özdeşliğ-
+ifadesine iki kare farkı durumundaki ifade denir(
+) (
+)
+$
+-
+=
+-
++
+olurAşağıda verilen ifadelerin açılımlarını tam kare özdeşliğini kullanarak yapınız. 
+a) (
+)
+3 -
+                          b) (
+)
+2 -
+                          c) (
+)
+5 +
+a) (
+)
+$
+$
+-
+=
+-
++
+=
+-
++
+]
+]
+ olurb) (
+)
+$
+$
+-
+=
+-
++
+=
+-
++
+ olurc) (
+)
+$
+$
++
+=
++
++
+=
++
++
+]
+^
+ olurTam kare özdeşliği ile ilgili aşağıdaki modellemeleri inceleyinizBir kenar uzunluğu +
+ birim olan bir karenin alanı b +
+^
+h  dir. Bu kare, şekildeki gibi dört 
+parçaya ayrılırsa elde edilen alanların toplamının aaa+
++
++
+=
++
++
+ olduğu 
+görülür. Buradan 
+a=
++
++
++
+^
+ olurSiz de (
+)
+a-
+=
+-
++
+ özdeşliğini uygun bir modelleme ile gösteriniz[
+\
+]]]]]]]]]]]]]]]
+]]]]]]]]]]]]]]]]
+İki kare farkı özdeşliği ile ilgili aşağıdaki modellemeyi inceleyinizBir kenarı a birim olan karenin herhangi bir köşesinde bir kenarı b birim olan bir kare çıkarılırsa geriye 
+kalan şeklin alanı -
+^
+h olur. Şekildeki gibi elde 
+edilen iki farklı dikdörtgenin alanları toplamının 
+(
+)
+(
+)
+a b $
+-
++
+-
+=
+-
++
+^
+^
+h olduğu görülü. Buradan 
+olu$
+=
+-
++
+-
+^
+^
+   
+-
+-
+-
+-
+-
+a) 
+(
+) (
+)
+$
+-
+=
+-
++
+ olurb) 
+$
+-
+=
+-
+=
+-
++
+]
+]
+]
+g olurc) $
+-
+=
+-
+=
+-
++
+^
+^
+^
+h olurç) $
+-
+=
+-
+=
+-
++
+^
+^
+h olurAşağıda verilen ifadeleri iki kare farkı özdeşliğini kullanarak çarpanlarına ayırınıza) -
+                        b) 
+2 -
+               c) 2 -
+                ç) 2 -
+-
+ ifadesi iki kare farkı kullanılarak çarpanlarına ayrılırs(
+) (
+)
+olu3 &
+&
+$
+$
+$
+$
+-
++
+=
+=
+=
+$
+-
+=
+ eşitliğinde p  gerçek sayısının değerini bulunuz-
+ ifadesi iki kare farkı kullanılarak çarpanlarına ayrılırs(
+) (
+)
+14 $
+$
+-
+=
+-
++
+=
+=
+ olur. 
+-
+ ifadesinin değerini bulunuzİki Terimin Toplamının ve Farkının Küpü Özdeşliğ(
+)
+(
+)
+(
+)
+(
+)
+x xoluBuradan x xxy y elde edili$
+$
++
+=
++
++
++
+=
++
++
++
++
+=
++
+-
+-
++
+-
++
+=
+^
+^
+^
+(
+)
+(
+)
+(
+)
+(
+)
+x xoluBuradan x xxy y elde edili$
+$
+-
+=
+-
+-
+-
+=
+-
++
+-
+-
+=
+-
++
+-
+=
+-
++
+-
+^
+^
+^
+İpuc$
+$
+$
+$
+=
++
++
++
++
+^
+^
+^
+^
+h eşitliğin her iki tarafı 2 -
+^
+h ile çarpılırsa 
+bulunur Bekilde devam edilirsolur Buradaolu&
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+-

@@ -1,0 +1,400 @@
+a) “Ankara Türkiye'nin başkentidir.”
+b) “Üçgen, dört kenarı olan bir çokgendir.”
+c) “Bugün hava çok sıcak.”
+Çözüa) “Ankara Türkiye'nin başkentidir.” ifadesi kesin hüküm bildirdiğinden önerme, ifaddoğru olduğu için doğru önermedirb) “Üçgen, dört kenarı olan bir çokgendir.” ifadesi kesin hüküm bildirdiğinden önerm, ifade yanlış olduğu için yanlış önermedirc) “Bugün hava çok sıcak.” ifadesi doğru ya da yanlış kesin bir hüküm bildirmediğinde önerme değildirÖnermenin Doğruluk DeğerBir önermenin  doğru ya da yanlış olmasına bu önermenin doğruluk değeri denir. 
+Önerme doğru ise   D    ya da  1   ile yanlış ise   Y ya da   0   ile gösterilirÖnerme(p)
+Doğruluk değeri 
+"Bir hafta yedi 
+gündür"
+D (1)
+Önerme (p)
+Doğruluk değeri 
+8 + 5 < Y (0)
+n tane önermenin karşılıklı doğruluk değerleri için 2n farklı durum vardır. Önermeleri doğruluk  değerlerinin gösterildiği tabloya doğruluk tablosu denirp doğru olabilirp yanlış olabilir21 = 2 tane doğruluk durumu olabilir. 
+
+p doğru iken q doğru olabilirp doğru iken q yanlış olabilirp yanlış iken q doğru olabilirp yanlış iken q yanlış olabilir22 = 4 tane doğruluk durumu vardır
+Matematik 1. BölüMantıÖrnep: “4 ün karesi 16 dır.”
+q: “8 − 3 > 7”
+r: “En büyük rakam 10 dur.”
+Yukarıdaki p, q ve r önermelerinin doğruluk değerlerini bulalımÇözüp: 42 = 16 önermesi doğrudurq: 8 − 3 >      5 > 7 önermesi yanlıştırr: En büyük rakam 9 olduğundan r 
+    önermesi yanlıştır
+Önermelerin Denkliği 
+Doğruluk  değerleri aynı olan önermelere denk önermeler denir. p ve q önermeleri 
+denk ise p / q biçiminde, p önermesi q önermesine denk değil ise p _ q biçiminde 
+gösterilirÖRNEKLE1- p: “7 asal bir sayıdır.”
+q: “Su sıvı bir maddedir.” önermelerinin denk olup olmadığını inceleyimÇözüp ve q önermelerinin doğruluk değerleri 1 olduğundan p / q dur2- p: “(–3)2 = − 9”
+q: “22– 23= − 1” önermelerinin denk olup olmadığını inceleyimÇözüp ve q  önermelerinin doğruluk değerleri 0 olduğundan p / q durMatematik 1. BölüMantıBir Önermenin Değili (Olumsuzu)
+Bir önermenin hükmünün değiştirilmesi ile elde edilen yeni önermeye önermenin 
+olumsuzu (değili) denir. p önermesinin değili p' veya ~p ile gösterilir. 
+Bir önermenin değilinin değili, önermenin kendisine denktir(p')' / Doğruluk tablosu aşağıdaki gibidirp'
+(p')'
+Örnep: “Kıbrıs bir adadır.”
+p': “Kıbrıs bir ada değildir.” önermelerinin doğruluk değerini inceleyelimÇözüp önermesinin doğruluk değeri 1, p' önermesinin doğruluk değeri 0 dırGEORGE BOOLE (CORC BUUL) (1815 – 1864)
+2 Kasım 1815 günü İngiltere’de Lincoln’da (Linkoln) doğaGeorge Boole, bir İngiliz matematikcisi ve eğitimcisidir. Boole, 
+modern simgesel mantığın kurulmasına katkıda bulunmuş ve 
+mantık cebirini geliştirmiştir. 
+Fransızca, Almanca ve İtalyanca dillerini de bilen Boole 
+19. yüzyılın en önemli matematikcisidir. İlerleyen zamanlardkendi özel okulunu açan Boole, ders verme sürecinde zamanıders kitaplarını yetersiz bulmuş ve büyük  matematikcilerin kitapların, makalelerini okumuşturAynı zamanda Abel, Galois, Laplace ve Lagrange'in eserlerini de incelemiştirBoole 1848 yılında sembolik mantık alanında The Mathematical Analysis of Logic 
+(Mantığın Matematiksel  Analizi) adlı eserini, 1854'te en meşhur  çalışması olan The 
+Louis of Thought  (Düşüncenin Kanunları) yayınlamıştır. Bu çalışmaları “Boole Cebir” nin doğmasını sağlamıştırBoole Cebiri'ne matematiksel mantık, simgesel mantık gibi adlar da verilmiştir. 
+Matematik 1. BölüMantıALIŞTIRMALA1- Aşağıdaki  ifadelerden önerme olanların yanına “+” olmayanların yanına “−”
+işareti yazınızp: “12 bir tek sayıdır.” (........)
+q: “Asal sayılar negatif olabilir.” (........)
+r: “Bu akşam size gelebilir miyim?” (.......)
+s: “Üç basamaklı en küçük sayı 101 dir.” (.......)
+2- Aşağıdaki önermelerin doğruluk değerlerini yandaki boşluklara yazınızp:“−2 nin toplama işlemine göre tersi 2 dir.” (......)
+q: “4 sayısının karesi −16 dır.” (........)
+r: “42−1  >15” (......)
+s: “Çarpma işlemine göre etkisiz eleman 1 dir.” (......)
+3- Aşağıdaki önermelerden hangileri  denk önermedir? Yazınızp: “Ankara  başkenttir.”
+q: “Üç basamaklı en büyük negatif  tam sayı – 100 dür.”
+r: “Antalya ili İç Anadolu Bölgesi’ndedir.”
+s: “0 pozitif sayıdır.”
+4- Aşağıdaki önermelerin olumsuzunu yazınızp: “Özge yaz tatilini Didim’de geçirdi.”
+q: “2x − 3y < 0”
+Bileşik Önermeler 
+İki veya daha fazla önermenin ve, veya, ya da, ise, ancak ve ancak gibi bağlaçlarla 
+birleştirilmesiyle elde edilen yeni önermeye bileşik önerme denirBağlaSembolvey∨
+v∧
+ya dis⇒
+ancak ve anca⇔
+Matematik 1. BölüMantı“ve” Bağlacı ile Kurulan Bileşik ÖnermeleVe bağlacı ∧ sembolü  ile gösterilir. p ile q önermelerinin ve bağlacı ile bağlanmasında oluşan bileşik önerme p∧q biçiminde gösterilirp∧q bileşik önermesinin doğruluk değeri, her ikisi de doğru iken doğru, diğer durumlard ise yanlıştırp∧ÖRNEKLE1- p: “Ayşe okul basketbol takımındadır.”
+q: “Ayşe dört yıldır basketbol oynuyor.”
+önermeleri için p∧q önermesini yazalımÇözüp∧q: “Ayşe okul basketbol takımında ve dört yıldır basketbol oynuyor.”
+2- p: “23 + 1 > 8”
+q: “ 
+2 +
+ < 5”
+önermeleri için p∧q önermesini  yazıp doğruluk değerini  bulalımÇözüp∧q: “23 + 1 > 8 ve 2 +
+< 5 tir.” şeklinde yazılırp / 1 ve q / 1 olduğundan p∧q / 1∧1/1 dir3- Aşağıdaki ifadelerin doğruluk değerlerini bulalıma) 0∧(1∧0)
+b) (1∧0)∧c) (1∧1)∧ç) (1'∧0)∧(1∧0')
+Çözüa) 0∧(1∧0) / 0∧0 / b) (1∧0)∧1 / 0∧1 / c) (1∧1)∧1 / 1∧1 / ç) (1'∧0)∧(1∧0') / (0∧0)∧(1∧1) / 0∧1 / Matematik 1. BölüMantı“veya” Bağlacı  ile Oluşan  Bileşik Önermeler 
+Veya bağlacı ∨ sembolü ile gösterilir. p ile q önermelerinin veya bağlacı ile bağlanmasında oluşan bileşik önerme p∨q biçiminde gösterilirp∨q bileşik önermesinin doğruluk değeri, en az biri doğru iken doğru, her ikiside 
+yanlış iken yanlıştırp∧ÖRNEKLE1-  p:“Belgin dün akşam tiyatroya gitti.”
+q: “Belgin kitap okudu.”
+önermeleri için p∨q önermesini yazalımÇözüp∨q: “Belgin dün akşam tiyatroya gitti veya kitap okudu.”
+2- Aşağıdaki önermelerin doğruluk değerlerini bulalıma) (1∨0)∨(1∨1)
+b) (p∨0)∨(p'∨1)
+c) (p∨1)∨(q∨p')
+Çözüa) (1∨0)∨(1∨1) / 1∨1/b) (p∨0)∨(p'∨1) / (p∨0)∨1 / c) (p∨1)∨(q∨p') / 1∨(q∨p') /3- Aşağıdaki önermelerin doğruluk değerlerini bulunuza) (1∧0)∨(1∧1)
+b) (1∨0)∧(1∨1)
+c) (1'∧0)∨(0'∧0)
+Çözüa) (1∧0)∨(1∧1) / 0∨1/ b) (1∨0)∧(1∨1) / 1∧1/ c) (1'∧0)∨(0'∧0) / (0∧0)∨(1∧0) / 0∨0 / Matematik 1. BölüMantıBİLGİ KUTUSBileşik önermelerde ∧ bağlacının ∨ bağlacı üzerine, ∨ bağlacının ∧ bağlacı 
+üzerine dağılma özelliği vardırp∧(q∨r) / (p∧q)∨(p∧r)
+p∨(q∧r) / (p∨q)∧(p∨r)
+4-
+p'∧(p∨q) bileşik önermesine denk olan önermeyi bulalımÇözüp'∧(p∨q) / (p'∧p)∨(p'∧q)/ 0∨(p'∨q) / p'∨ 
+             
+1∧0 / 0∧1 / 5- p / 0, q / 1 ve r / 1 ifadeleri için aşağıdaki bileşik önermelerin doğruluk değerin bulalıma) (p'∨q)∧b) (p∧r')∨Çözüa) (0'∨1)∧1 / (1∨1)∧1 / 1∧1/ b) (0∨1')∨1 / (0∨0)∨1 / 0∨1/ 6- (p'∧q)∨q' bileşik önermesine denk olan önermeyi bulalımÇözü(p'∧q)∨q' / (p'∨q')∧(q∨q') / (p'∨q')∧1 / (p'∨q')
+ 
+ 
+ 
+     
+   1∨0 /    0∨1 / De Morgan Kuralları  
+p veya q nun değili : (p∨q)' / p'∧q'
+p ve q nun değili: (p∧q)' / p'∨q'
+Yukarıdaki De Morgan Kuralı’nda her önermenin ve aradaki bağlacın da değiştiğin dikkat edinizMatematik 1. BölüMantıÖRNEKLE1- Aşağıda verilen önermelere denk olan önermeleri bulalıma) (p'∨q)'∧p'
+b) (p'∧q)'∨(p∧q')'
+Çözüa) (p'∨q)'∧p' / p∧q'∧p' / p∧p'∧q' / 0∧q'/  
+ 
+      
+              
+      0∧1 /             1∧0 / b) (p'∧q)'∨(p∧q')' / (p∨q')∨(p'∨q) / p∨p'∨q∨q' / 1∨1 /  
+ 
+ 
+ 
+                                        
+ 
+   1∨0 / 1 0∨1 /     0∨1 / 1 1∨0 / 2- Aşağıda verilen önermelerin en sade hâllerini bulalıma) (1'∨p)'∧b) (0∧p)'∧(0∧p')'
+Çözüa) (1'∨p)'∧p / (0∨p)'∧p / 1∧p'∧p / 1∧0 /  
+ 
+ 
+ 
+       
+    0∧1 /                 1∧0 / b) (0∧p)'∧(0∧p')' / (1∨p')∧(1∨p) / 1∧1 / “Ya da” Bağlacı ile Oluşan  Bileşik ÖnermeleYa da bağlacı Q sembolü ile gösterilir. p ile q önermelerinin ya da bağlacı ile bağlanmasında oluşan bileşik önerme p Q q biçiminde gösterilirp Q q bileşik önermesi; p ile q önermelerinden yalnız biri doğru iken doğru, diğer 
+durumlarda yanlıştırpQMatematik 1. BölüMantıÖRNEKLE1- p: “11 asal sayıdır.”
+q: “11 iki basamaklı en küçük tam sayıdır.”
+önermeleri  için pQq bileşik önermesini yazıp, doğruluk değerini bulalımÇözüpQq: “11 asal sayıdır ya da iki basamaklı en küçük tam sayıdır.”
+p önermesi doğru,  q önermesi yanlış bir önerme olduğundan p ya da q önermelerini doğruluk değeri 1dir2- Aşağıdaki önermelerin doğruluk değerlerini bulalıma) 0Q (1Q1)
+b) (1Q0) Q(0Q0)
+Çözüa) 0Q (1Q1) / 0Q0 / b) (1Q0) Q(0Q0) / 1Q0 / ALIŞTIRMALA1- Aşağıdaki ifadelerin doğruluk değerlerini bulunuza) 0∨(1∧1)
+b) (1∨1)∧(1∧0)
+c) (p'∨p)∨(q∧q')'
+ç) [1∨(0∧0)]∨(1∧0)'
+2- Aşağıdaki  bileşik önermelerin en sade şeklini yazınıza) (p'∨p)∧(p∧q)
+b) [p∧(q∨q')]'
+c) (0∨q)'∨(p'∧p)
+ç) p'∨(p∧q)
+3- (1Q0)∧(0Q1) bileşik önermesinin doğruluk değerini bulunuz4- (p∧q)'∨(p∧r') / 0 olduğuna göre p, q ve r önermelerinin doğruluk değerlerinbulunuzMatematik 1. BölüMantıKoşullu Önerme ve İki  Yönlü Koşullu Önerme 
+“ise” Bağlacı ile Oluşan  Bileşik Önermeleİse bağlacı ⇒ sembolü ile gösterilir. p ile q önermelerinin ise bağlacı ile bağlanmasında oluşan bileşik önerme p ⇒ q biçiminde gösterilirp ⇒ q önermesi, p nin doğru q nun yanlış olduğu durumda yanlış, diğer tüm durumlard doğrudurp⇒ÖRNEKLE1- p: “Derya asansör yerine merdiven kullanır.”
+q: “Derya sağlıklı yaşar.”
+Yukarıda verilen önermelere göre p ⇒ q önermesini yazalımÇözüp ⇒ q:“Derya asansör yerine merdiven kullanır ise sağlıklı yaşar.”
+BİLGİ KUTUSp ⇒ q /  p'∨q denkliğinin doğruluk tablosu aşağıdaki gibidirp'
+p'∨p ⇒ 2- (q∧r) ⇒ (p∨0) / 0 olduğuna göre p, q, r ve s önermelerinin doğruluk değerlerin    1                   q∧r / 1     p∨s /    1∧1 / 1     0∨0 / 0 olduğundan q/1, r/1,  p / 0, s / 0 dırbulalım(q∧r)  ⇒  (p∨s)  
+/ { 
+{ 
+Matematik 1. BölüMantı3- Aşağıda verilen önermelerin en sade hâllerini bulalıma) (1⇒p)∧b) (0⇒p)∧(p⇒1)'
+Çözüa) (1⇒p)∧p / p∧p / b) (0⇒p)∧(p⇒1)' / 1∧1' / 1∧0 / 1⇒0 /      0⇒0 / 1 
+          1⇒1 / 1⇒1 /      0⇒1 / 1 
+          0⇒1 / “ancak ve ancak” Bağlacı ile Kurulan Bileşik Önermele            Ancak ve ancak bağlacı ⇔  sembolü ile gösterilir. p ile q önermelerinin ancak ve 
+ancak bağlacı ile bağlanmasından oluşan bileşik önerme p ⇔ q biçiminde gösterili           p ⇔  q önermesinde bileşenlerin her ikisinin de doğru veya ikisinin de yanlış olması 
+durumunda doğru, diğer durumlarda yanlıştırp⇔ÖRNEKLE1- Aşağıdaki  önermelerin doğruluk değerini bulalıma) (1⇔0)∨(0⇔0)
+b) (1∧0)⇔(0⇔1)
+Çözüa) (1⇔0)∨(0⇔0) / 0∨1 / 1 
+b) (1∧0)⇔(0⇔1) / 0⇔0 / BİLGİ KUTUSp⇔q / (p ⇒ q)∧(q⇒p) denkliğinin doğruluk tablosu aşağıdaki gibidirp ⇒ q ⇒ (p⇒q)∧(q⇒p)
+p ⇔ Matematik 1. BölüMantı2- Aşağıdaki önermelerin en sade hâlini yazalıma) (p⇔p)∧b) (p⇔p')∨Çözüa) (p⇔p)∧1 / 1∧1 / 1⇔1 / 0⇔0 / b) (p⇔p')∨0 / 0∨0 / 1⇔0 / 0⇔1 / BİLGİ KUTUSancak ve ancak bağlacının özellikleri:
+• p⇔q / q⇔• p⇔q / p'⇔q'
+• p⇔p / • (p⇔q)' / p'⇔q / p⇔q'
+• p⇔p' / 3- (p⇔q)'∨q' bileşik önermesinin en sade hâlini bulalımÇözü(p⇔q)'∨q' / p'⇔q∨q' / p'⇔1/ p'
+                               
+  1∨0 / 1   0⇔1 /        0∨1 / 1   1⇔1 / BİLGİ KUTUSp⇔q önermesinin doğruluk değeri 1 ise bu önermeye çift gerektirme deniMatematik 1. BölüMantı4- p: "23 − 5 > 7"
+q: "
++
+ < 1"
+Verilen önermelere göre p⇔q önermesinin bir çift  gerektirme olduğunu göstereli    
+  8 – 5 >  3 > 7 bulunur. Bu durumda p  yanlış bir önermedir ve p / 0 dır+
+< 8  < 4 < 1 bulunur. Bu durumda q yanlış bir önermedir  ve q / 0  dırO hâlde p⇔q / 0⇔0 / 1 olduğundan bir çift erektirmedir. 
+ALIŞTIRMALA1- Aşağıdaki  önermelerin doğruluk değerlerini bulunuza) 1⇒(0∧1)
+b) (0⇒1)∧(1⇒1)
+c) (1⇔0)⇒(1⇔1)
+ç) (1⇒0)⇔(0⇒0)
+2- (p∨1) ⇔ (q ⇒ 0) bileşik önermesinin en sade hâlini bulunuz3- (p∧q')∧(q ⇒ r) / 1  ise p, q ve r önermelerinin doğruluk değerlerini bulunuz4- [(p⇔p')⇒q']∧q bileşik önermesinin en sade hâlini bulunuz23 − 5 > ÇözüMatematik 1. BölüMantıAçık Önerme 
+İçinde en az bir değişken bulunan ve bu değişkenlere verilen değerlere göre doğru 
+veya yanlış olduğu belirlenen ifadelere açık önerme denirAçık önermeyi doğrulayan elemanların oluşturduğu kümeye doğruluk (çözüm) 
+kümesi denirAçık önerme; x gibi tek bir değişken bulunduruyor ise p(x), q(x)... ile x ve y gibi 
+iki değişken bulunduruyor ise p(x,y), q(x,y)... biçiminde gösterilirBir a sayısı p(x) açık önermesinin doğruluk kümesinin elemanı ise p(a) / 1 dirBir a sayısı p(x) açık önermesinin doğruluk kümesinin elemanı değil ise p(a) / 0 dırÖRNEKLE1. p(x): “x doğal sayı, 3x − 1 ≤ 14” açık önermesi içia) Doğruluk kümesini bulalımb) p(2), p(7) ifadelerinin doğruluk değerlerini bulalımÇözüa) 3x−1 ≤          3x ≤           x ≤ 5 bulunurBu durumda p önermesinin  doğruluk kümesi D = {0, 1, 2, 3, 4, 5} tirb) 2ŒD olduğundan p(2) /7œD olduğundan  p(7) / 0 dır2- p(x,y): “x ve y doğal sayı, x + y = 3” açık önermesi  içia) Doğruluk  kümesini bulalımb) p(3, 1) ve p(2, 1) ifadelerinin doğruluk değerlerini bulalımMatematik 1. BölüMantıÇözüa) x + y = 3 denklemini sağlayan doğal sayı ikilileri;
+D = {(0, 3), (1, 2), (2, 1), (3, 0)} dırb) 3 + 1 ≠ 3 olduğundan p(3, 1) / 0 dır2 + 1 = 3 olduğundan p(2, 1) / 1 dirHer (") ve Bazı ($) NiceleyicilerHer sözcüğü  bütün anlamını taşır. Önüne geldiği elemanların tamamını anlattığı 
+için her niceleyicisine evrensel niceleyici denir ve " sembolü ile gösterilirBazı sözcüğü en az bir tane anlamını taşır. Bazı inceleyicisine varlıksal niceleyici 
+denir ve $ sembolü ile gösterilirÖRNEKLE1- Sembolik  mantık kullanarak verilen “$x Œ  N, x > 12” ifadesini sözel olarak ifadedelimÇözü“Bazı doğal sayılar 12 den büyüktür.”
+2. Sembolik mantık kullanarak verilen “" x Œ  Z+, x2 > x” ifadesini sözel olarak ifadedelimÇözü“Pozitif her tam sayının karesi kendisinden büyüktür.”
+3- Aşağıda verilen önermeleri sembolik mantık kullanarak yazıp, önermeleridoğruluk değerini  bulalıma) p: “Bazı  doğal sayıların küpü 7 den küçüktür.”
+b) q: “Her  tam sayının karesi kendisinden büyüktür.”
+Çözüa) p(x): “$xŒN, x3 < 7” şeklinde ifade edilirBu kurala uyan doğal sayılar 0 ve 1 olduğuna göre bu önermenin doğruluk değerp(x) / 1 dir. 
+Matematik 1. BölüMantıb) “"xŒZ, x2 > x” şeklinde ifade edilir. Bu kurala uymayan herhangi bir tam sayınıbulunması bu önermenin doğruluk değerini 0 yaparx = 0 için 02 > 0 yanlış olduğunda                                           p(x) / 0 dır. 
+ALIŞTIRMALA1-  Aşağıda verilen açık önermelerin doğruluk kümelerini bulunuza) p(x): “xŒN, x < 10”
+b) q(x): “xŒZ−, x < x2”
+2-  Sembolik mantık kullanarak verilen “$xŒZ, x2 + 4 < 0” ifadesini sözel olarayazınız3-  “Her negatif tam sayının küpü negatiftir.”  önermesini  sembolle gösterinizTanım, Aksiyom, Teorem ve İspaBir terimin sağlaması gereken özellikleri kesin ve eksiksiz olarak ifade eden önermye tanım denir. Bir terimin tanımı o terimin anlamını belirtirİspatlama ihtiyacı olmayan, doğruluğu açık olan önermelere aksiyom denirDoğruluğu  ispatlanması gereken ve ispatlanabilen önermelere teorem denirp ⇒ q teoreminde p önermesine hipotez, q  önermesine hüküm denirBir teoremin hipotezinin doğruluğundan yola çıkarak hükmünün doğruluğunu 
+göstermeye ispat denirAlıştırmAşağıda verilen ifadelerdeki boşluklara “tanım, aksiyom, teorem, ispat” kavramlarında uygun olanları yazınıza) Doğruluğu  ispatlanabilen önermelere ............................... denirb) Doğruluğu  ispatsız olarak kabul edilen bazı gerçeklere ................................. denirc) Teoremin hipotezinden yola çıkıp hükmüne ulaşmaya ................................. denirç) Bir terimin anlamını açıklama ve belirlemeye ................................... denirMatematik 1. BölüMantı1. BÖLÜMÜN ÖZETDoğru ve sistemli düşünme kuralları bilgisine mantık denir. 
+Doğru ya da yanlış kesin hüküm bildiren ifadelere önerme denir. İfade doğru 
+bir hüküm bildiriyorsa doğru önerme, yanlış bir hüküm bildiriyorsa yanlış önerme 
+olur. 
+Bir önermenin doğru ya da yanlış olmasına bu önermenin doğruluk değeri denir. 
+Önerme doğru ise doğruluk değeri 1, yanlış ise doğruluk değeri 0 ile gösterilir. 
+Doğruluk değeri aynı olan önermelere denk önermeler denir. p önermesi q önermsine denk ise p / q, denk değil ise p _ q biçiminde gösterilir. 
+İki veya daha fazla önermenin ve (∧), veya (∨), ya da (Q), ise (Ş), ancak ve ancak 
+(⇔) gibi bağlaçlarla birleştirilmesiyle elde edilen yeni önermeye bileşik önerme denir. 
+Bir terimin sağlaması gereken özellikleri kesin ve eksiksiz olarak ifade eden önermye tanım denir. 
+Bir terimin tanımı o terimin anlamını belirtir. 
+İspatlanmaya ihtiyacı olmayan, doğruluğu açık olan önermelere aksiyom denir. 
+Doğruluğu ispatlanması gereken ve ispatlanabilen önermelere teorem denir. 
+p Ş q teoreminde p önermesine hipotez, q önermesine hüküm denir. 
+Bir teoremin hipotezinin doğruluğundan yola çıkarak hükmünün doğruluğunu 
+göstermeye ispat denir. 
+Matematik 1. BölüMantı1. BÖLÜM ÖLÇME ve DEĞERLENDİRME SORULAR1- p: "Türkiye Kuzey Yarım Küre’dedir."
+q: "Tek sayılar ikiye bölünebilir."
+r: "
++
+"
+önermelerini kullanarak aşağıdaki bileşik önermelerin doğruluk değerlerinbulunuza) (p ∧ q) Ş (q'∨r)
+b) (p' ∨ q)' ⇔ (q Ş r)
+c) (q Ş r) ∧ (q' ⇔ p')
+2- I. 
+q' ∨ (0 ⇔ 1)
+II(p Ş r) ∧ (p Ş r)'
+III. "∀ x ∈ R, x2 ≥ x"
+IV. "∃ x ∈ Z, 
++
+ < 2"
+Yukarıda verilen önermelerin kaç tanesinin doğruluk değeri 1 dir?
+A) B) C) D) II.     
+IIIIV Yukarıdaki bileşik önermelerden hangilerinin doğruluk değeri 0 dır?
+A) Yalnız B) I ve IIC) Yalnız ID) I, II ve I3- I.  1 Ş  1 ∧ 0 ∨ p ∧ p'
+Matematik 1. BölüMantı4- [(0 ∧ p) ∨ (1 ∧ p)]' bileşik önermesinin en sade şekli aşağıdakilerden hangisidir?
+A) B) C) p'
+D) 5- İspatlanma ihtiyacı olmayan doğruluğu açık olan önermelere verilen ad aşağıdakilerde hangisidir?
+A) TeoreB) AksiyoC) İspaD) Hükü6- p: " 52 = 25"
+q: "16 : 4 = 2"
+r: "70 = 0"
+s: "3 – 3 = 0"
+olduğuna göre aşağıdaki ifadelerden hangisi doğrudur?
+A) p / B) p / C) p _ D) p _ r / q / q / r _ 7- p' ∧ (q ∧ p) bileşik önermesi aşağıdakilerden hangisine denktir?
+A) B) C) D) KÜMELE2. BÖLÜMatematik 2. BölüKümeleNELER ÖĞRENECEĞİZ?
+Bu bölümü tamamladığımızda; 
+• Kümelerle ilgili temel kavramları,
+• Alt kümeyi kullanarak işlem yapmayı,
+• İki kümenin eşitliğini kullanarak işlem yapmayı,
+• Kümelerde; birleşim, kesişim, fark, tümleme işlemleri yardımıyla problemleçözmeyi,
+• İki kümenin kartezyen çarpımıyla ilgili işlem yapmayı öğreneceğizYukarıdaki konuları kavramak için neler yapmalıyız?
+• Kümelerle ilgili bilgilerinizi tekrarlayınız• Gerçek sayılarla ilgili bilgilerinizi tekrarlayınız• Verilen örnekleri çözerek çalışınız• Verilen alıştırma ve problemleri cevaplayınız• Bölüm sonunda verilen değerlendirme sorularını cevaplayınız• Öğrendiğiniz konularla ilgili bol örnek çözünüzTerimler ve KavramlaEvrensel KümBirleşim, KesişiAyrık KümeleAlt KümFarSıralı İkilSonlu, Sonsuz KümTümlemKartezyen ÇarpıMatematik 2. BölüKümeleKÜMELEKümelerde Temel Kavramlar 
+Küme kavramının belli bir tanımı yoktur. Varlıkların iyi tanımlanmış bir grubudur. 
+Bu grubu oluşturan varlıkların herkes tarafından aynı algılanabilecek şekilde tanımlanmı olması gerekir. 
+• Kümeyi oluşturan varlıkların her birine kümenin elemanı denir• Kümeler; A, B, C, D gibi büyük harflerle gösterilir• A kümesine ait x elemanı xŒA şekline yazılır. "x elemanıdır A" şeklinde okunur. kümesine ait olmayan x elemanı da xœA şeklinde yazılır ve "x elemanı değildir A" 
+şeklinde okunur• Kümede bir eleman bir kez yazılır• Küme içindeki elemanların yer değiştirmesi kümeyi değiştirmez• Bir A kümesinin eleman sayısı s(A) veya n(A) ile gösterilir"İkiden büyük rakamlar", "iki basamaklı doğal sayılar" şeklindeki ifadeler bireküme belirtir çünkü bu ifadeler herkes tarafından aynı şekilde algılanır. Herhangi 
+birinin yazacağı bu iki küme, herkesin yazacağı bu iki kümeyle aynıdır"En güzel yemek", "En sevdiğim çiçek" şeklindeki ifadeler birer küme belirtmez 
+çünkü bu ifadelere herkes farklı cevaplar verir. Herhangi birinin yazacağı iki küme,
+herkesin yazacağı iki kümeden farklıdırALIŞTIRMALAAşağıdaki ifadelerden küme belirtenleri işaretleyiniz. 
+1- Türkçemizdeki sessiz harflerin kümesi. (  )
+2- Bugün yağmur yağabilir. (  )
+3- Sınıfımızdaki gözlüklü öğrencilerin kümesi. (  )
+4- "2, 4, 6, 8, 10, 12" sayılarından bazıları. (  )
+5- En sevdiğim müzik çeşidi. (  )
+6- "D" harfi ile başlan illerimiz. (  )
+7- "ATATÜRK" kelimesindeki harflerin kümesi. (  )
+Matematik 2. BölüKümeleKümelerin Gösterim• • • • • • ★ • ●
+• ▲
+• ✚
+• ▲
+• • • 1- Kümenin elemanlarının sıralama dikkate alınmadan  { } biçimindeki küme 
+parantezinin içine, aralarına virgül konularak yazılmasına kümenin l iste 
+yöntemiyle gösterilmesi denirÖrneğin;
+A= {a, b, c, 3, 2},    B= {★, ▲, ●, ✚,},
+C= {▲, a, u, x} kümeleri liste yöntemiyle gösterilmiştir2- Kapalı bir şeklin içine kümenin elemanlarının soluna " • "  konularak yazılmasına 
+kümenin Venn Şeması ile gösterilmesi denir. Kapalı şeklin dışına büyük harfle 
+kümenin adı yazılır. 
+Örneğin;
+A 
+B 
+3- Kümenin elemanları arasında ortak bir özellik varsa bu özelliğin belirtilerek kümeni ifade edilmesine, kümenin ortak özellik yöntemiyle gösterilmesi denirA={ x | ...}    veya  A={ x : ...}
+öyleki işaret biçiminde yazılır. 
+Örneğin;
+a, e, ı, i, o, ö, u, ü harfleri ne ait kümenin ortak özellik yöntemiyle 
+gösterimi; A= {x : x, Türkçemizdeki sesli harfler} şeklinde olur. 
+Örneğin;
+10 dan küçük asal sayılar kümesinin ortak özellik yöntemiyle gösterimi 
+A= {x| x, asal sayı ve x < 10} şeklindedir. 
+Matematik 2. BölüKümeleÖRNEKLE1- "Matematik" kelimesindeki harflerin oluşturduğu kümeyi aşağıdaki yöntemleile gösterelima) Liste yöntemb) Venn şemasc) Ortak özelliÇözüa) A= {m, a, t, e, i, k} liste yöntemi,
+b) 
+• m • • • e • • Venn şeması, 
+c) A= {x | x, "matematik" kelimesinin harfleri} ortak özellik yöntemi ile gösterimlerdi2-  A= {a, b, e, ●, ▲, + } kümesinin elemanlarını sembolle gösterelimÇözüA kümesinin elemanları;
+a Œ A,  b Œ A,  e Œ A,  ● Œ A,  ▲ Œ A,  + Œ A dır3-  "ANKARA" kelimesindeki harflerin oluşturduğu kümeyi aşağıdaki yöntemler 
+ile gösterelima) Liste yöntemb) Venn şemasc) Ortak özelliÇözüa) D= {a, n, k, r}
+b) • a • • n • b) D= {x|x, "Ankara" kelimesinin harfleri }
+Matematik 2. BölüKümeleGEORG CANTOR (CORÇ KANTOR) (1845-1918)
+Georg Cantor, kümeler kuramı ve matematiksel biçimciliği öncüsüdür. Cantor’un özellikle sonsuzluklarla ilgili çalışmalar matematikte devrim niteliğindedir ve başta topoloji 
+olmak üzere matematiğin çeşitli alanlarında önemli gelişmeler yol açmıştır. Cantor Kuramı’nın pür matematiksel karakter, matematiğe ve matematik eğitimine yeni bir bakış açısı 
+getirmiş ve matematiğin asıl eğitimsel öneminin, bir zihin 
+jimnastiği olmasından geldiği daha iyi anlaşılır olmuştur. 
+Matematiğin, herhangi bir ulus diline bağlı olmayan biçimsel 
+sembolik dili ise onun evrensel ve dakik bir iletişim aracı olmasını en önemli göstergesidir. 
+ALIŞTIRMALA1- "GÜN" kelimesindeki harflerin oluşturduğu kümeyi aşağıdaki yöntemler ilgösteriniza) Liste yöntemb) Venn şemasc) Ortak özelli2- A={f, n, ■, ●, e} olarak veriliyora) A kümesinin elemanlarını sembolle gösterinizb) A kümesini Venn şeması ile gösterinizSonlu ve Sonsuz KümeleSayı doğrusu üzerinde tek doğal sayıları ve 0  dan 10 a kadar olan çift doğal sayıları 
+gösterelim. 
+Çizdiğimiz sayı doğrusu üzerinde 0 dan 10 a kadar olan çift doğal sayıları saydığımızd 6 tane olduğunu görürüz ancak tek doğal sayılar sınırsızdır. Sonsuz tane sayıdır. 
+Dolayısıyla sayılamazlarElemanları sayılabilecek sonlu çoklukta olan kümelere sonlu küme denir. 
+Elemanları sayılamayacak çoklukta olan kümelere sonsuz küme denir. 
+Hiç elemanı olmayan kümeye boş küme denir ve ∅ veya { } sembolüyle gösterilir. 
+Matematik 2. BölüKümeleÖrneSayı doğrusunda 2 ile 3 arasındaki doğal sayıları işaretleyelim. Oluşan kümeyi 
+yazalım. 
+ÇözüYukarıdaki sayı doğrusunda da görüldüğü gibi 2 ile 3 arasında olan hiçbir doğal 
+sayı yoktur. Buna göre A = ∅  veya A= { } olur. 
+Evrensel KümÜzerinde işlem yapılan, tüm kümeleri kapsayan ve boş 
+kümeden farklı olan kümeye evrensel küme denir ve E sembolüyl gösterilir. 
+BİLGİ KUTUSA= {0}, B={∅}, ve C= {{}} kümeleri boş küme değildir. Burada 0ŒA, ∅ŒB, 
+{ }ŒC dir. 
+ALIŞTIRMALA1- Aşağıdaki kümelerden hangileri sonlu, hangileri sonsuz kümedir?
+IK={x: x < 8, xŒN}
+IIL={x: x > 10, xŒN}
+III. M={0 dan küçük tam sayılar}
+IV. N={x: −2 ≤ x ≤ 5, xŒZ}
+2- Aşağıdakilerden hangileri boş küme belirtir?
+P={x: 1 ≤ x ≤ 6, xŒZ}
+R={x: 2x − 1 = 6 ve xŒN}
+S={4 gözlü tavuklar}
+T={x: 0 < x < 7, xŒZ}
+Matematik 2. BölüKümeleKümenin Eleman Sayısı 
+Bir sonlu kümeyi oluşturan elemanların sayısına bu kümenin eleman sayısı denir. 
+Bir A kümesinin eleman sayısı s(A) ile gösterilir. 
+ÖrneE={a, b, {∅}, +, 0, f} kümesinin elemanlarını yazıp eleman sayısını bulalım. 
+ÇözüE={a, b, {∅}, +, 0, f} 
+aŒE, bŒE, {∅}ŒE, +ŒE, 0ŒE, fŒE, 
+E={a, b, {∅}, +, 0, f}, s(E) =  6 dırÖrneM = {x: x2 + 3 = 0, x Œ R} kümesinin elemanlarını sembolle gösterip eleman sayısın bulalım. 
+ÇözüM = {x: x2 + 3 = 0, x Œ R} kümesinde x2 + 3 = 0 ⇒  x2 = −3 olacak şekilde x reel 
+sayısı yoktur. O hâlde M kümesi boş kümedir. Boş kümenin eleman sayısı sıfırdır. 
+Yani s(M) = 0 dırAlıştırmAşağıda verilen kümelerin elemanlarını sembolle gösteriniz. Eleman sayılarını 
+bulunuz. 
+•
+A={x: −4 < x < 4, x Œ N}
+•
+B={x: 1 < x < 20, x= 4k, k Œ Z}
+•
+C={a, {a}, {a, b}, ●, ▲, +, ★}
+•
+D={x: 0 < x < 7, x Œ Z}
+Alt KümBir A kümesinde bulunan her eleman (A nın tüm elemanları) bir B kümesinin de 
+elemanı ise, A kümesi B kümesinin alt kümesidir denir ve A Ã B şeklinde gösterilir. 
+Ayrıca A Ã B ise B kümesi A kümesini kapsar denir ve B … A şeklinde gösterilirA Ã Alt kümeyi Venn şeması ile yandaki gibi gösteririz. 
+Burada B kümesi A kümesinin alt kümesi olmadığı için 
+B À A şeklinde gösterilir. "B kümesi A kümesinin alt 
+kümesi değildir" biçiminde ifade edilir. 
+Matematik 2. BölüKümeleÖrneğin;
+A={1, 2, 3}, B= {1, 5, 3, +, 2, ▲} kümeleri için; A kümesinin tüm elemanları B kümesini de elemanıdır. Dolayısıyla AÃB veya B…A dır. Venn şeması ile gösterim ise 
+aşağıdaki gibidir. 
+AÃ•••+
+•▲
+••BİLGİ KUTUSTüm sayma sayıları (pozitif doğal sayılar), doğal sayılar, tam sayılar, 
+rasyonel sayılar ve gerçek sayılar arasındaki ilişki aşağıdaki gibidir. 
+N+Ã N Ã Z Ã Q Ã ÖRNEKLE1-  A={a, b, f, n, s}, B={b, f, a} ve C={z, e, t} kümeleri veriliyorBuna göre aşağıdakilerden hangileri doğrudur?
+a) C Ã b) B Ã c) A ÃB Ã ç) A … d) C À ÇözüA, B, C kümelerini Venn şeması ile gösterelim•••••••e •Yandaki Venn şemalarında görüldüğ gibi 
+a) C Ã A yanlıştır. C kümesi A kümesinin alt kümesi değildirb) B Ã A doğrudur. B kümesi A kümesinin alt kümesidirc) A Ã B Ã C yanlıştır. A kümesi B kümesinin alt kümesi değildir. B kümesi de kümesinin alt kümesi değildir 
+ç) A … B doğrudur. A kümesi A kümesini kapsard) C À B doğrudur. C kümesi B kümesinin alt kümesi değildirMatematik 2. BölüKümele2- Aşağıdakilerden hangisi A={1, a, {1, 2}, {a}} kümesinin bir alt kümesi değildir?
+a) {a}
+b) {a, {a}}
+c) ç) {{1,2}}
+ÇözüA kümesinin elemanları; 
+1ŒA, aŒA, {1, 2}ŒA, {a}ŒA şeklinde gösterilir ve s(A)=4 tür. A kümesinin alt kümelerinde birkaçı {a, {a}}ÃA, {a}ÃA ve {{1, 2}} ÃA şeklinde gösterilirBuna göre C seçeneğinde verilen 1ŒA fakat 1ÀA dır. Doğru seçenek C olur. 
+3- B={★, ●} kümesinin alt kümelerini yazalımÇözüB kümesinin tüm alt kümeleri;
+∅, {★}, {●}, {★, ●} şeklinde yazılır4- D = {a, c, ▲} kümesinin alt kümelerini yazalımÇözüD kümesinin tüm alt kümeleri; ∅, {a}, {c}, {▲}, {a,c}, {a, ▲}, {c, ▲}, {a, c, ▲}, şeklind yazılır5- Aşağıdakilerden hangisi A={1, 2, b, c, 9} kümesinin alt kümelerinden biri değildi?
+a) b) {2, b}
+c) {b, c, 9}
+d) {9}
+Çözüb harfi A kümesinin elemanıdır. O hâlde b∈A dır. bÀA olduğundan b harfi A küme- 
+sinin alt kümesi değildir. Doğru seçenek A dırALIŞTIRMALA1- A= {a, b} kümesinin alt kümelerini yazınız2- E= {1, 3, 7, {a}} kümesinin alt kümelerini yazınız3- B= {a, b, c} kümesinin alt kümelerini yazınız4- A= {+, ★, ●, t}, B= {★, t} ve C= {7, 11} olarak veriliyor. A, B ve C kümelerini Venşeması ile gösteriniz. Çizdiğiniz Venn şemasına göre aşağıdakilerden doğrolanları işaretleyiniza) A…b) BÃc) AÃç) CÀMatematik 2. BölüKümeleAlt Kümenin Özellikler1- Boş küme her kümenin alt kümesidir. Her A kümesi için ∅ÃA dır. ∅ kümede oluA kümesinde olmayan herhangi bir eleman olmadığından, ∅ küme her A kümesini alt kümesidir2- Her küme kendisinin alt kümesidir. Her A kümesi için AÃA dır3- A, B ve C kümeleri için; [(AÃB)∧(BÃC)]⇒ (AÃC) dir. (Geçişme özelliği)
+Bu özellik Venn şeması ile yandaki gibi gösterilir.   
+Örneğin;
+F={1, 2, {1}} kümesinde, 
+a) ∅ÃF (Boş küme her kümenin alt kümesidir)
+b) {1, 2, {1}}ÃF (Her küme kendisinin alt kümesidir.)
+ÖrneA={1, 2},  B={1, 2, 3}, 
+C={1, 2, 3, 4}  kümeleri veriliyor(AÃB)∧(BÃC)]⇒ (AÃC) midir? BulalımÇözü({1, 2}Ã{1, 2, 3})∧({1, 2, 3}Ã{1, 2, 3, 4})⇒ ({1, 2}Ã{1, 2, 3, 4}) olur. (Alt kümenin 
+geçişme özelliği)
+ALIŞTIRMALA1- A= {a, b, c, {7}} olarak veriliyor. Buna göre aşağıdakilerden hangileri doğrudur?
+I∅ÃII. ∅ÀIII. AÀIV. AÃA) I ve IIB) II ve IC) I ve ID) I, II  ve II2- Alt kümenin geçişme özelliği aşağıdakilerden hangisidir?
+A) AÃB) (AÃB)∧(BÃC) ⇒ (AÃC)
+C) ∅ÃD) AÃB 
+Matematik 2. BölüKümeleAlt Küme Sayısı 
+İki elemanlı bir kümenin alt küme sayısı: 22 = 2.2 = 4       
+Üç elemanlı bir kümenin alt küme sayısı: 23 = 2.2.2 = n elemanlı bir kümenin alt küme sayısı 2n dirÖRNEKLE1- B= {x: 0 < x < 4, xŒZ} kümesinin;
+a) Eleman sayısını,
+b) Alt küme sayısını bulalımÇözüa) Eleman sayısı B= {x: 0 < x < 4, xŒZ} ise B= {1, 2, 3} olup s(B) = 3 türb) Alt küme sayısı: 2n=23=2.2.2=8 dir2- Alt küme sayısı 16 olan kümenin eleman sayısını bulalımÇözüAlt küme sayısı 16 ise 2n= 16 dırO hâlde 
+2n= 24= n = 4 bulunur. 
+3- B= {a, b, c} kümesinin tüm alt kümelerini yazalımÇözü 3 elemanlı {a, b, c}
+2 elemanlı {{a, b}, {b, c}, {a, c}}
+1 elemanlı {{a}, {b}, {c}}
+0 elemanlı { } olmak üzere 8 tane alt küme yazarız. 
+4- 6 elemanlı bir kümenin kaç tane alt kümesi vardır? BulalımÇözü2n = 26= 2 . 2 . 2  . 2 . 2 .     = 64 tane alt küme vardır. 
+Matematik 2. BölüKümeleBİLGİ KUTUSn elemanlı bir kümenin kendisi hariç bütün alt kümelerinin sayısı 2n − 1 dir. 
+5- Kendisi hariç bütün alt kümelerinin sayısı 255 olan bir A kümesinin elemasayısı kaçtır?
+Çözü2n−1 = 2n = 2n = 28 isn = 8 dir. 
+6- A={1, 2, 3, 4} kümesinin alt kümelerinin kaç tanesinde 4 elemanı bulunmaz?
+ÇözüA kümesinde 4 elemanını çıkarırsak B={1, 2, 3} kümesini elde ederiz. B kümesinitüm alt kümelerinde 4 elemanı bulunmaz. O hâlde s(B) = 3 için 23 = 8 olur7- G = {1, 2, 3, 4} kümesinin alt kümelerinin kaç tanesinde 3 elemanı bulunur?
+ÇözüG kümesinin tüm alt kümelerinden 3 ün bulunmadığı alt kümeleri çıkarırız. Geriy3 ün bulunduğu alt kümeler kalır. Buna göre 24 - 23 = 16 - 8 = 8 dir8- A={1, 2, 3, 4, 5} kümesinin alt kümelerinin kaç tanesinde ;
+a) 4 bulunur 1 bulunmaz?
+b) 4 ve 1 bulunur?
+c) 4 ve 1 elemanları birlikte bulunur, 2 bulunmaz?
+ç) 4 ve 1 elemanlarından yalnız biri bulunur?
+d) 4 veya 1 elemanları bulunur?
+Matematik 2. BölüKümeleÇözüa) A kümesinden 4 ve 1 elemanlarını çıkararak yeni bir küme yazalım. Bu kümB={2, 3, 5} olur. B kümesinin alt kümelerinin hiç birinde 4 ve 1 bulunmaz. B kümesini 23 = 8 tane alt kümesi vardır. Bu alt kümelerin her birine 4 elemanı eklenirsbu alt kümelerde 4 bulunur 1 bulunmaz. O hâlde cevap 8 olurb) A kümesinden 4 ve 1 elemanlarını çıkarıp B={2, 3, 5} kümesini yazalım. B kümesini alt küme sayısı 23 = 8 dir. Bu alt kümelerin her birine 4 ve 1 eklersek cevap olurc) A kümesinden 4, 1 ve 2 elemanlarını çıkaralımB= {3, 5} olur. B kümesinin alt kümelerinde 4, 1 ve 2 bulunmaz. B nin alt kümelerini sayısı 2n = 22 = 4 tür. Bu alt kümelerin her birine 4 ve 1 eklenirse cevap 4 olur. 
+ 
+ç) 4 ve 1 elemanlarından yalnız biri bulunur ifadesi; 4 ün bulunup 1 in bulunmadığı 
+alt küme sayısı ile 1 in bulunup 4 ün bulunmadığı alt küme sayısının toplanması anlamın taşır. 1 in bulunup 4 ün bulunmadığı alt küme sayısı 23 = 8 dir. 4 ün bulunup 
+1'in bulunmadığı alt küme sayısı 23 = 8 dir. O hâlde cevap 8 + 8 = 16 dır. 
+d) A kümesinin tüm alt kümelerinin sayısından 4 ve 1 in bulunmadığı alt kümsayısını çıkaralım25 - 23 = 2 . 2 . 2 . 2 . 2 - 2 . 2 .     = 32 -     = 24 tür.  
+ALIŞTIRMALA1-  Alt küme sayısı 32 olan kümenin eleman sayısı kaçtır?
+2-  Kendisi   hariç   bütün   alt   kümelerin   sayısı   127   olan   bir   A   kümesinin 
+eleman  sayısı  kaçtır?
+3-  {a, b, c, d, e} kümesinin alt kümelerinin kaç tanesinde;
+a) d bulunur, a bulunmaz?
+b) d ve a bulunur?
+c)  d ve a elemanları birlikte bulunur, e bulunmaz?
+ç) d ve a elemanlarından yalnız biri bulunur?
+d) a veya d elemanları bulunur?
+Matematik 2. BölüKümeleEşit KümeleAynı elemanlardan oluşan kümelere eşit kümeler denir. A ve B kümelerinin eşitliği 

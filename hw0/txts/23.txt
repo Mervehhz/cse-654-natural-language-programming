@@ -1,0 +1,400 @@
+Altın oranın gösterimi kısaca +
+dirDoğada en belirgin örneklerine insan vücudunda, deniz kabuklarında, ayçiçeğinde, 
+çam kozalağında, salyangozda rastlanır. Ayrıca Leonardo da Vinci'nin  (Mona Lisa) 
+portresinde ve Mısır piramitlerinde de görülür.  
+Örneğin; uygun ölçülere sahip bir insanın omzundan parmak ucuna olan mesafesin oranı 1,618 dir. Yine aynı ideal ölçülere sahip insan vücudunda orta parmağın 
+uzunluğunun serçe parmağın uzunluğuna oranı 1,618 dir. İnsan vücuduna ait daha bir 
+çok altın oran örneği bulunmaktadır. 
+Matematik 1. BölüDenklemler ve Eşitsizliklerle İlgili UygulamalaOrantı Problemleri 
+1- 10 işçi bir işi 18 günde bitiriyorlar. İşe başladıktan 4 gün sonra 3 işçi işi bırakıyorBuna göre kalan iş kaç günde biter? BulalımÇözü4 gün sonra 3 işçi ayrıldığı için orantı 18 − 4 = 14 günlük iş için kurulmalıdır. 
+4 gün sonra 10 işçiye 14 günlük iş kalır. 
+         10 işçi  
+ 14 gü          7 işçi               x güT.O        7 . x = 10 .   7x = 140  ⇒  x = 20 günde biter2- Bir izci kampında 36 öğrenciye 52 gün yetecek kadar yiyecek vardır. 20 gün sonrkampa 12 öğrenci katılıyorBuna göre kalan yiyecek kamptaki öğrencilere kaç gün yeter? BulalımÇözü20 gün sonra 12 öğrenci geldiği için orantı 52 − 20 = 32 gün için kurulmalıdır. 
+20 gün sonra 36 öğrenciye 32 gün yetecek kadar yiyecek kalır. 
+  36 öğrenci              32 gü  48 öğrenci               x güT.O        48 . x = 36 . x = 36 . 32   ⇒   x = 24 gün yeterMatematik 1. BölüDenklemler ve Eşitsizliklerle İlgili Uygulamala2- Birbirini döndüren iki dişli çarkın yarıçaplarının oranı 4  tür. Küçük dişli 35 kedöndüğünde büyük dişli kaç kez döner? BulalımÇözü47x deviy deviÇarkların dişli sayısı ile dönme sayısı ters 
+orantılı, yarıçaplar ile doğru orantılıdır. 
+Küçük dişli x kez döndüğünde büyük dişli çark y kez dönsün. 
+4x = 7y dir. 
+4 . 35 = 7 . y    ⇒ y =
+⇒ y = 20 kez dönerALIŞTIRMALA1- Bir tavuk çiftliğinde bulunan 48 tavuğa 36 gün yetecek kadar yem vardır. 4 güsonra tavukların yarısı satıldığına göre kalan yem kalan tavuklara kaç gün yeter?
+2- 5 işçinin 4 günde boyadığı bir evi 2 işçi kaç günde boyar?
+3- Birbirini döndüren üç dişli çarktaki toplam diş sayısı 84 tür. Bu çarkların yarıçaplar3, 5 ve 6 ile ters orantılı olduğuna göre en küçük çarktaki diş sayısı kaçtır?
+Matematik 1. BölüDenklemler ve Eşitsizliklerle İlgili UygulamalaDenklem ve Eşitsizlikler İle İlgili ProblemleGerçek hayat durumlarını temsil eden bazı sözel ifadeleri göstermek için kullanılan 
+cebirsel ifade örnekleri aşağıdaki tabloda verilmiştir. 
+Sözel İfadCebirsel İfadİdil'in yaşının 3 katıİki kardeşin bilyelerinin toplamıBir sayının 2 katının 5 eksiğiParanın 10 eksiğinin 4 katıYarısının 15 fazlası 7 den büyük veya eşit 
+olan sayılar3 katının 2 eksiğinin 4 te biri 13 ten küçük 
+olan sayılar 
+     3x 
+     x + 2x –      4 (x − 10)
+2 + 15  ≥ -
+   < ÖRNEKLE1- Hangi sayının 2 katının 3 fazlası 9 olur? BulalımÇözüSayıya x diyelimSayının 2 katı: 2Sayının 2 katının 3 fazlası: 2x + 3 olurŞimdi denklemi kurup sayıyı bulalım2x + 3 =       2x = 9 −      2x =        x = 6   
+x = 3 bulunur. 
+Matematik 1. BölüDenklemler ve Eşitsizliklerle İlgili Uygulamala2- Tuna 520 soruluk Matematik ödevini her gün bir önceki günden 20 soru fazla çözere 4 günde bitirmiştirBuna göre Tuna dördüncü gün kaç soru çözmüştür? BulalımÇözüTuna’nın ilk gün çözdüğü soru sayısına x diyelim. 
+1. gü2. gü3. gü4. güTopla x 
+x + 20 
+x + 20 +20 
+x + 20 + 20 + 20 
+x + x + 20 + x + 40 + x + 60 =         4x + 120 = 4x = 520 –       4x = 400 
+        x = Tuna ilk gün 100 sayfa, dördüncü gün ise 100 + 60 = 160 sayfa soru çözmüştür. 
+3- Bir sınıftaki öğrenci sayısının 5 fazlasının 2 katı 64 ten az ise bu sınıftaki öğrencsayısı en fazla kaçtır? BulalımÇözüSınıftaki öğrenci sayısına x diyelim. 
+5 fazlası: x + 5 fazlasının 2 katı: 2 . (x + 5)
+2 (x + 5) <  2x + 10 < 2x < 64 − 2x <   x < 27 bulunur. O hâlde sınıftaki öğrenci sayısı en fazla 26 dır. 
+Matematik 1. BölüDenklemler ve Eşitsizliklerle İlgili UygulamalaGerçek hayat durumlarını temsil eden bazı sözel ifadelerin grafiksel gösterimi ile 
+ilgili örnekler aşağıda verilmiştirSözel İfadGrafiksel Gösteri"Saatte 80 km yol alan bir aracın 3 saat 
+sonunda aldığı yol 240 km dir." ifadesinin 
+doğrusal grafiği yandaki gibidir. 
+Yol (km)
+zaman (saat)
+"Murat'ın Matematik yazılısından aldığı 
+notlar sırasıyla 70, 60 ve 80 dir." ifadesini sütun grafiği ile gösterimi yandaki 
+gibidir. 
+Yazılı NotlarYazılılaBir toplulukta 30 kadın, 20 erkek ve 10 
+çocuk vardır. Bu topluluktaki kadın, erke ve çocukların toplam kişi sayısına 
+oranının dairesel grafik ile gösterimi yandak gibidir180°
+120° 
+60°
+KadıErkeÇocuMatematik 1. BölüDenklemler ve Eşitsizliklerle İlgili UygulamalaSayı ve Kesir Problemler1- Bir sınıftaki öğrenciler sıralara ikişer ikişer otururlarsa 4 öğrenci ayakta kalıyorEğer üçer üçer otururlarsa 2 sıra boş kalıyorBuna göre bu sınıftaki öğrenci sayısını bulalımÇözüSınıftaki sıra sayısına x diyelim. 
+Öğrenciler ikişer ikişer oturursa oturan 2x öğrenci vardır. Bu durumda iken 4 öğrenc de ayakta olduğuna göre sınıftaki öğrenci sayısı 2x + 4 olur. 
+Öğrenciler üçer üçer oturduğunda 2 sıra boş kaldığına göre x − 2 adet sıraya oturulmuştu. Bu durumda x − 2 adet sıraya üçer üçer öğrenci oturursa sınıftaki öğrenci 
+sayısı 3 (x − 2) olur. 
+O hâlde 2x + 4 = 3 (x − 2) eşitliğini çözerek sıra sayısını bulabiliriz. 
+2x + 4 = 3x − 6 
+4 + 6 = 3x − 2x   ⇒   x = 10  sıra vardır. 
+Öğrenci sayısı ise   2.10 + 4 = 24 bulunur2- Eda’nın kumbarasında 25 kuruş ve 50 kuruşlardan oluşan 22,5 TL vardır. Kumbaradak madeni paraların sayısı toplam 45 tane olduğuna göre Eda'nın kumbarasınd kaç tane 50 kuruşluk madeni para vardır? BulalımÇözüKumbaradaki 50 kuruşların sayısı x olsun. Bu durumda (50 − x) tane 25 kuruşluk 
+vardırKumbarada, 50 kuruşlardan x tane varsa 50.x kuruş, 25 kuruşlardan (50 − x) tane 
+varsa 25.(50 − x) kuruş olmak üzere toplam 50 . x + 25.(50 − x) kuruş para vardır. 
+Kumbaradaki toplam para 22,5 TL = 2250 kuruş olduğundan 50x + 25(50 – x) = 2250 
+eşitliğini kullanabiliriz. 
+50x + 25(50 – x) = 2250  ⇒  50x + 1250 − 25x =        50x – 25x = 2250 −      25x = x = x = 40 tane 25 kuruşluk madeni para vardır. 
+Matematik 1. BölüDenklemler ve Eşitsizliklerle İlgili Uygulamala3- Ali parasını iki kuzenine eşit olarak paylaştırıyor. Eğer kendisini de dahil edip üçün eşit olarak paylaştırırsa kuzenlerine 30 ar lira daha az para düşüyorBuna göre Ali'nin başlangıçta kaç lirası vardır? BulalımÇözüAli'nin başlangıçtaki parasına x diyelim. 
+İki kişiye eşit paylaştırırsa her birine 2   lira düşer. 
+Üç kişiye eşit paylaştırırsa her birine 3   lira düşer. 
+İki paylaşım arasındaki fark 30 olduğuna gör-
+=
+ eşitliğinden x i bulabiliriz( )
+( )
+-
+-
+=
+=
+=
+=        TAli’nin başlangıçtaki parası 180 TL dir. 
+4- Sera elindeki romanın 2  sini okuduktan sonra kalanın 1  ini daha okursa geriykitabın yarısından 15 sayfa eksiği kalıyorBuna göre Sera’nın okuduğu romanın tamamı kaç sayfadır? BulalımÇözüRomanın tamamı x sayfa olsun. 
+2  sini okursa 3  ü kalır. 
+Kitabın 3   ünün 1  i: 
+x olu=
+( )
+( )
+&
+=
+=
+–
+&
+&
+=
+=
+=
+bulunur. 
+22x Matematik 1. BölüDenklemler ve Eşitsizliklerle İlgili UygulamalaALIŞTIRMALA1- Hangi sayının 2 katının 7 fazlası, aynı sayının 4 eksiğinin 3 katına eşittir?
+2- Bir sayının 2  si ile 1  inin toplamı 26 ise bu sayı kaçtır?
+Yaş Problemleri 
+Yaş problemlerini çözerken dikkat etmemiz gereken bazı önemli noktalar 
+aşağıda verilmiştir. 
+•
+Kişiler arasındaki yaş farkı hiçbir zaman değişmez•
+İki kişinin yaşları toplamı a yıl sonra 2.a artarÜç kişinin yaşları toplamı a yıl sonra 3.a artarDört kişinin yaşları toplamı a yıl sonra 4.a artarn kişinin yaşları toplamı n yıl sonra n.a artar•
+Bugünkü yaşı x olan bir kişinin a yıl önceki yaşı x – a, a yıl sonraki yaşı x + a 
+dır. 
+ÖRNEKLE1- Bir babanın yaşı iki çocuğunun yaşları toplamının 3 katından 7 fazladır. 5 yıl sonr baba ve çocuklarının yaşları toplamı 62 olacağına göre babanın bugünkü yaşkaçtır? BulalımÇözüİki çocuğun yaşları toplamı 
+Babanın Yaşı 
+Bugün: 
+x 
+      3x + 5 yıl sonra:               x + 5 + 5 
+      3x + 7 +      x + 10 + 3x + x + 10 + 3x + 12 =    4x + 22 =             4x = 40 
+ x = 10 (İki çocuğun bugünkü yaşları toplamı)
+Babanın bugünkü yaşı: 3.10 + 7 = 37 bulunurMatematik 1. BölüDenklemler ve Eşitsizliklerle İlgili Uygulamala2- Aralarında 7 yaş bulunan iki kardeşten büyüğünün 3 yıl sonraki yaşı küçüğünün yıl önceki yaşının 2 katıdırBuna göre büyük kardeş kaç yaşındadır? BulalımÇözüBüyük Kardeş  
+ 
+Küçük KardeBugünkü yaşları:   
+ 
+x 
+ 
+ 
+        x − Büyük kardeşin 3 yıl sonraki yaşı: x + Küçük kardeşin 4 yıl önceki yaşı: x − 7 − 4 = x − 11 dir. 
+Büyük kardeşin 3 yıl sonraki yaşı küçük kardeşin 4 yıl önceki yaşının 2 katı ise 
+  x + 3 = 2 (x − 11) eşitliğini kullanarak x i bulabiliriz. 
+  x + 3 = 2(x − 11)
+  x + 3 = 2x − 3 + 22 = 2x − x  ⇒ x = 25 bulunur. 
+ALIŞTIRMALA1-  Bir annenin yaşı ikişer yıl ara ile doğmuş üç çocuğunun yaşları toplamına eşittirAnnenin 2 yıl sonraki yaşı 41 olduğuna göre bugünkü yaşı kaçtır?
+2-  Bugünkü yaşları toplamı 37 olan iki arkadaşın beş yıl önceki yaşları farkı 5 olduğun göre büyük olanın bugünkü yaşı kaçtır?
+Matematik 1. BölüDenklemler ve Eşitsizliklerle İlgili UygulamalaYüzde ProblemlerBir a sayısının belirli bir yüzdesi bulunurken tamamı 100 parça kabul edilip belirli 
+bir kısmı alınır. 
+a sayısının 100  i  a· 100   şeklinde gösterilira nın %x i  ifadesinde a temel sayı, x yüzde oranıdır. 
+a . 100 = b ifadesinde b ye yüzde payı denirÖrneğin; 
++
+50 nin %20 si :   50· 100 = 10 dur. Bir sayx %x  arttırılırsa:      +
+a .   =
++
+k dirÖrneğin;
+70 sayısı %10 arttırılırsa 70 + 70 . 10  = 70 + 7 = 77 dirBir sayı %x azaltılırsa: a − a . 100  =
+x -
+ = a·
+100–
+k dirÖrneğin; 
+70 sayısı %10 azaltılırsa: 70 − 70 . 
+= 70 − 7 = 63 türÖRNEKLE1- 180 sayısının %30 u kaçtır? BulalımÇözübulunu180 =
+2- 120 sayısının yüzde kaçı 36 dır? BulalımÇözü120 sayısının %x i 36 olsunbulunu=
+=
+=
+=
+,
+Matematik 1. BölüDenklemler ve Eşitsizliklerle İlgili Uygulamala3- %40 ı  20 olan sayıyı bulalımÇözü%40 ı 20 olan sayı; x olsunx . =
+    40 . x = 20 . x = 
+20             x = 50 bulunur. 
+4- Enes 60 soruluk bir testin 45 sorusunu doğru, kalanını yanlış cevaplamıştırBuna göre Enes testin yüzde kaçını yanlış cevaplamıştır? BulalımÇözüEnes’in yanlış yaptığı soru sayısı 60 – 45 = 15 tir. 
+60 ın yüzde kaçı 15 tir? Bulalım. 
+·
+=
+      60 . x = 15 . x = 
+15       x = 25 bulunur. 
+Enes testin %25’ ine yanlış cevap vermiştir. 
+5- Bir telefon faturasında konuşma bedelinin %18’i KDve %25’i ÖİV olarak belirlenmiştirKonuşma bedeli 200 TL olan bir kullanıcınıödeyeceği vergilerin toplamı kaç liradır? BulalıMatematik 1. BölüDenklemler ve Eşitsizliklerle İlgili UygulamalaÇözü1. yol: KDV ve ÖİV bedellerini hesaplamak için 200 ün %18’ ini ve %25’ ini hesaplayalı. 
+2 0 0 1 0 =
+ dır. KDV için ödenecek miktar 36 liradırdi2 0 =
+ ÖİV için ödenecek miktar 50 liradır1 0  Kullanıcının vergiler için ödeyeceği toplam tutar 50 + 36 = 86 liradır. 
+2. Yol: KDV ve ÖİV için belirlenen toplam oran %18 + %25 = %43 tür200 ün %43 ünü hesaplayarak vergiler için ödenecek toplam miktarı buluruz2 0 0 1 0 =
+ dırBu durumda vergiler için toplam 86 lira ödenir. 
+ALIŞTIRMALA1- 250 sayısının %20 si ile %30 unun toplamı kaçtır?
+2- 32 erkek ve 18 kız öğrencinin bulunduğu bir sınıfta sınıf mevcudunun yüzdkaçı kız öğrencidir?
+3- Hangi sayının %25 i  8 dir?
+Kâr - Zarar ProblemlerKâr = Satış Fiyatı − Alış FiyatZarar = Alış Fiyatı − Satış FiyatAlışverişlerde kâr - zarar, alış fiyatı ya da maliyet üzerinden hesaplanır. 
+Kâr = Satış Fiyatı  x Kâr yüzdesZarar = Alış Fiyatı x Zarar yüzdesi 
+Kâr - zarar problemlerinde belirli bir yüzde eklendiğinde veya çıkârıldığında başta 
+verilen sayı 100x kabul edilerek işlem yapılır. 
+Örneğin; 
+1- Bir malın maliyeti 100x, kâr yüzdesi %60 isYapılan kâr = 100x . 60  = 60x  olup  kârlı fiyatı = 100x + 60x = 160x dirMatematik 1. BölüDenklemler ve Eşitsizliklerle İlgili Uygulamala2- Bir malın maliyeti 100x, indirim yüzdesi %40 isYapılan indirim = 100x . 
+=
+ vİndirimli fiyatı = 100x − 40x = 60x  dir. 
+3- Maliyeti 100x, indirim yüzdesi %30 ve indirimli satış üzerinden %20 kârlı satışyapılan bir malın, 
+%30 zararlı satışı = 100x – 30x =  70Zararlı satış üzerinden %20 kârlı satışı = 70x . 120  = 84x olurSonuçta 100x − 84x = 16x zarar yapılmıştır.  
+ÖRNEKLE1- Maliyeti 130 TL olan bir malın %20 kârlı fiyatı kaç liradır? BulalımÇözü1. yol: 130 TL nin %20 kârı : 130 . 20  = 26 TL dir. 
+Satış fiyatı: 130 + 26 = 156 TL olur2. yol:
+Malın tamamının yüzdesi %100 ise  malın kârlı satış yüzdesi:
+%100 + %20 = %120 olurKârlı satış fiyatı: 130 . 120  = 156 TL olur. 
+2- %20 kârla 150 TL ye satılan malın alış fiyatını bulalımÇözüMalın alış fiyatı x TL olsun%20 kârlı satış yüzdesi: %100 + %20 = %120 olurx . 120  =    x . 120 = 150 .             x = 
+150              x = 125 TL bulunur. 
+Matematik 1. BölüDenklemler ve Eşitsizliklerle İlgili Uygulamala3- Maliyeti 240 TL olan bir malın  %30 indirimli satış fiyatı  kaç liradır? BulalımÇözü1. Yol:
+=
+ TL dir240 TL nin %30 indirimi: 240 . 
+Satış fiyatı: 240 − 72 = 168 TL olur. 
+2. Yol:
+Malın tamamının yüzdesi %100 ise malın indirimli satış yüzdesi:
+%100 − %30 = %70 dirİndirimli (zararlı) satış fiyatı: 240. =
+ TL olur4- %10 zararla 180 TL ye satılan bir malın maliyeti kaç liradır? BulalımÇözüMalın alış fiyatı (maliyeti);  x  TL olsun.%10 
+Zararlı satış yüzdesi: %100 – %10 = %x · =
+x = 
+180 100     ⇒  x = 200 TL bulunur5- Maliyeti 50 TL olan bir mal 55 TL ye satılırsa bu satıştan yüzde kaç kâr yapılır?
+BulalımÇözüKâr = Satış fiyatı − Alış fiyatı 
+Kâr = 55 − 50 = 5 T50 TL     
+ 5 TL kâr yapılırs100 TL  
+x TL kâr yapılır. 
+D.O50 . x = 100.x = 
+100 x = 10 bulunur. 
+Bu durumda %10 kâr yapılırMatematik 1. BölüDenklemler ve Eşitsizliklerle İlgili Uygulamala6- Ahmet Bey'in cep telefonunun son bir aylık faturası 72 TL gelmiştir. Ahmet Bey fatur detayını öğrenmek için GSM operatörünü aradığında faturanın %18 inin KD(Katma Değer Vergisi), %25 inin ÖİV (Özel İletişim Vergisi) olduğunu öğrenmiştirBuna göre Ahmet Bey'in KDV ve ÖİV ye ödediği miktarlar kaçar TL dir? BulalımÇözü72 nin % 18 i : 72· 18  = 1296  = 12,96 TL dir72 nin %25 i : 72· 25  = 72 · 1 = 18 TL dirBu durumda 12,96 TL KDV ye 18 TL ÖİV ye ödenmiştirALIŞTIRMALA1- %10 kârla 165 TL ye satılan bir ceketin %20 indirimli satış fiyatı kaç TL dir?
+2- Alış fiyatı 72 TL olan bir elbise 126 TL ye satılırsa yapılan kâr yüzde kaçtır?
+3- %20 kârla satılan bir mala satış fiyatı üzerinden %10 indirim uygulanıyor. Buna göre 
+tüm satışın kâr zarar durumu nedir?
+4- %5 zararla 190 TL ye satılan bir malın maliyeti kaç liradır?
+Karışım Problemleri 
+Karışım oranı = 
+Saf madde miktarToplam karışım miktarı 
+x litrelik tuzlu su karışımının tuz oranı %a ise karışımdaki tuz miktarı: x . 
+100  dırAynı karışımdaki 
+Su oranı ise: x . (
+)100-
+dürx l%a tuy l%b tu(x+y) l% ab+
++
+tuIIIMatematik 1. BölüDenklemler ve Eşitsizliklerle İlgili UygulamalaI. kapta tuz oranı % a olan x L tuzlu su karışımı ile II. kapta tuz oranı % b olan y L 
+tuzlu su karışımı III. kapta karıştırılırsa toplam x + y litre karışım elde edilir. x + y litreli yeni karışımın tuz oranı % ab+
++
+olurÖrneğin;
+80 gram tuz ve 120 gram su karıştırılırsa karışımın tuz oranı:
++
+=
+=
+   ⇒%40 tır. 
+ÖRNEKLE1- Şeker oranı %20 olan 90 gram şekerli su karışımındaki su miktarını bulalımÇözü90 gram karışımın %20 si  şeker ise %80 i sudur. Buna göre karışımdaki su miktarı:
+90 . =
+gramdır2- Tuz oranı %40 olan 60 litre tuzlu su ile tuz oranı %10 olan 40 litre tuzlu su karıştırıldığınd yeni karışımın tuz oranı yüzde kaçtır? BulalımÇözü1. karışım: 60 litrenin %40 ı tu2. karışım: 40 litrenin %10 u tu(
+)
+60 40 +
+=
++
++
+=
+    2800 = 100.          x = 28 bulunurYeni karışımın %28 i tuzdur. 
+ALIŞTIRMALA1- Tuz oranı %25 olan 150 litre tuzlu sudaki tuz miktarı ne kadardır?
+2- Tuz oranı %10 olan 120 gram tuzlu su ile tuz oranı %30 olan 40 gram tuzlu skarıştırılırsa yeni karışımın tuz oranı kaçtır?
+Matematik 1. BölüDenklemler ve Eşitsizliklerle İlgili UygulamalaHız - Hareket ProblemlerHız problemlerinin çözümünde Yol= Hız x Zaman formülünden yararlanılır. 
+x = YoV = Hız 
+ t = Zaman olmak üzere x = V . t dirÖrneğin; 
+Saatte 90 km hızla giden bir otomobil 2 saattx = V . t  ve   x = 90 . 2 = 180 km yol giderDüzgün Doğrusal Hareket 
+1- Zıt Yönlü Hareket:
+VV   |AB| = x biriAynı anda, birbirlerine doğru(zıt yönde), farklı iki noktadan hareket eden iki hareketlini karşılaşma noktası C ve karşılaşma süresi t olsun. 
+Karşılaşma süresi = Aralarındaki Toplam YoHızlar Toplam⇒   
++
+=
+ dirÖrneğin;
+
+V1=70 km/V2= 80 km/300 kA ve B noktalarından birbirlerine doğru hareket eden iki hareketli 
+&
+=
++
+=
++
+=
+  t = 2 saat sonra karşılaşırlarMatematik 1. BölüDenklemler ve Eşitsizliklerle İlgili Uygulamala2- Aynı Yönlü Hareket:
+VV
+Aynı anda, aynı yöne, farklı iki noktadan hareket eden iki hareketliden, arkadaki 
+hareketlinin hızı fazladır. Hızı fazla olan hareketli, diğerine C noktasında t zaman sonr yetişmektedir. Buna görYetişme süresi = Aralarındaki YoHızlar Fark⇒
+-
+=
+ dirÖrneğin,
+
+V1=100 km/V2=80 km/A ve B noktalarından aynı anda aynı yöne doğru harekete geçen iki otomobilden 
+hızlı olanı yavaş olana 
+-
+-
+=
+t =
+t = 12 saat sonra yetişir
+
+240 kV1=100 km/V2=80 km/VVBu iki hareketliden B den hareket eden 12 saat sonra 
+Yol = Hız x Zaman ⇒ Yol = 80 .       Yol = 960 km yol gider. 
+B noktasından 960 km uzakta V1 hareketlisi V2 hareketlisine yetişir.  
+240 kMatematik 1. BölüDenklemler ve Eşitsizliklerle İlgili UygulamalaÖrneSaatteki hızı 90 km olan bir otomobilin hızını m/sn cinsiden yazalımÇözü1 saatte 90 km yol alan otomobilin 1 saniyede kaç metre yol alacağını bulalım. Bunu için önce kilometreyi metreye ve saati saniyeye çevirelim. 
+90 km = 90 000 m    ve  1 saat = 3600 saniyedir. 
+3600 sn      
+90 000 1 sn de 
+x m            
+3 600 . x = 90 x = 90 3 600 ⇒  x = 25 dirO halde 90 km/s = 25 m/sn dir. 
+Dairesel Hareke1- Zıt Yönlü HarekeVVÇemberin çevresi x birim olsunDairesel harekette aynı noktadan hareket eden hareketlilerin aralarındaki yol; daireni çevresi kadardır. 
+Hızları V1, V2 olan ve zıt yöne giden iki hareketlinin karşılaşma noktası B ve karşılaşm süresi t olsun. 
+Karşılaşma süresi = Aralarındaki Toplam YoHızlar Toplam⇒   
++
+=
+ dirtirMatematik 1. BölüDenklemler ve Eşitsizliklerle İlgili UygulamalaÖrneğin; 
+V2= 40 km/V1= 30 km/Çevresi 140 km olan dairesel pistte birbirine doğru aynı anda hareket eden iki hareketl;
+=
+=
++
+=
++
+       t = 2 saat sonra ilk kez karşılaşırlar. 
+2- Aynı yönlü harekeVV Çemberin çevresi x birim ve V1 > V2 olsun. 
+Dairesel harekette aynı anda aynı yöne giden iki hareketliden hızlı olan yavaş olanı 
+B noktasında t süre sonunda yeniden geçerse, –
+=
+ dirBİLGİ KUTUSOrtalama Hız = Toplam zamaToplam oBir hareketli bir yolu V1 hızıyla gidip V2 hızıyla dönerse hareketlinin ortalam hızı: 
+Vort = di+
+Matematik 1. BölüDenklemler ve Eşitsizliklerle İlgili UygulamalaÖrneİki kent arasındaki yolu saatte 90 km hızla gidip saatte 110 km hızla dönen bir aracı saatteki ortalama hızı kaçtır?
+ÇözüVort = 2 90 +
+=
++
+Vorkm/2 .=
+= bulunurALIŞTIRMALA1- 350 km yolu 5 saatte giden bir hareketlinin hızı kaç km/s dir?
+2- V1=120 km/s 
+V2=90 km/A ve B kentlerinden aynı anda birbirlerine doğru yola çıkan iki otomobil 4 saat 
+sonra karşılaşıyorlar. Buna göre A ve B kentleri arasındaki yol kaç km dir?
+3- 
+
+V1=45 km/V2=35 km/150 kAralarında 150 km bulunan iki motosikletli ayna anda aynı yöne doğru hareket 
+ediyor. Saatteki hızı 45 km/s olan motosikletli saatteki hızı 35 km/s olan 
+öndeki motosiklete kaç saat sonra yetişir?
+Matematik 1. BölüDenklemler ve Eşitsizliklerle İlgili Uygulamala4-
+ 
+V1 = 25 m/dV2 = 30 m/dDairesel bir pistte aynı anda aynı noktadan aynı yönde hareket eden iki bisikletlinin 
+dakikadaki hızları sırasıyla 30 m/dk ve 25 m/dk dır. Pistin çevresi 480 m olduğuna 
+göre harekete başladıktan kaç dakika sonra ilk kez karşılaşırlar?
+5- 
+V1=3 km/V2= 2 km/Çevresi 5 km olan dairesel pistte aynı anda aynı noktadan zıt yönde harekete geçen 
+iki hareketlinin hızları 3 km/s ve 2 km/s dir. Bu iki hareketli karşılaştıklarında 
+3 km/s hıza sahip olanın aldığı yol kaç km dir?
+6- 250 km/s hızla gittiği yolu, 300 km/s hızla dönen yüksek hızlı trenin bu yoldakortalama hızı kaç km/s dır?
+Matematik 1. BölüDenklemler ve Eşitsizliklerle İlgili Uygulamala1. BÖLÜMÜN ÖZET•
+İki çokluğun birbirine bölünerek karşılaştırılmasına oran denir•
+İki veya daha fazla oranın eşitliğine orantı denir=
+ veya a : b = c : d biçiminde gösterilir. 
+b ve c ye içler, a ve d ye dışlar denir. 
+=
+=
+  orantısında k orantı sabitidir. 
+Orantının Özellikleri 
+1- =
+=
+  ise a . d = b . c (İçler çarpımı dışlar çarpımına eşittir.)
+2- =
+ ise =
+ ;  =
+ ; =
+ (Orantıdaki oranlar ters çevrildiğinde oluşaeşitlik yeni orantı belirtir.)
+3- n Œ R–{0} olmak üzere 
+b a =
+=
+ (Bir orantıda oranlar genişletilebilir.)
+4- m Œ R–{0} olmak üzere 
+:
+:
+m =
+=
+ (Bir orantıda oranlar sadeleştirilebilir.)
+5- m ≠  0 ve n ≠ 0 olmak üzere =
+=
+  ise mnmn!
+!
+=
+ (Orantıyı oluşturaoranlar genişletilip toplandığında orantı sabiti değişmez.)
+•
+x ve y aynı cinsten ölçülebilir iki çokluk olmak üzere x artarken y aynı orandartıyorsa veya x azalırken y aynı oranda azalıyorsa x ve y doğru orantılı dır denir•
+x ve y aynı cinsten ölçülebilir iki çokluk olmak üzere x artarken y aynı orandazalıyorsa veya x azalırken y aynı oranda artıyorsa x ve y ters orantılı dır denir•
+Yaş problemlerinde bugünkü yaşı x olan bir kişinin a yıl önceki yaşı x – a, a yısonraki yaşı x + a dır•
+a . 
+100  = b ifadesinde b ye yüzde payı denir•
+Kâr = Satış fiyatı – Alış fiyat•
+Zarar = Alış fiyatı – Satış fiyat•
+Karışım oranı = 
+Saf madde miktarToplam karışım miktarı 
+•
+Yol = Hız x Zama•
+Ortalama hız = Toplam zamaToplam yoMatematik 1. BölüDenklemler ve Eşitsizliklerle İlgili Uygulamala1. BÖLÜM ÖLÇME VE DEĞERLENDİRME SORULAR1. =
+ olduğuna göre +
++
+ifadesinin eşiti aşağıdakilerden hangisidir?
+A) B) C) D) 2. x ve y doğru orantılıdır. x =10 iken y = 30 olduğuna göre x =  6 iken y kaçtır?
+A) B) C) D) 3. Üç işçi bir işi 15 günde bitiriyor. Buna göre eşit güçteki 9 işçi aynı işi kaç gündbitirir?
+A) B) C) D) 4. Hangi sayının 10 fazlasının 4 katı 80 eder?
+A) B) C) D) 5. Bir annenin yaşı kızının yaşının 4 katından 7 fazladır. Anne bugün 35 yaşında olduğun göre kızı kaç yaşındadır?
+A) B) C) D) 6. 2300 sayısının % 10 u aşağıdakilerden hangisidir?
+A) B) C) D) 7.  
+360 kV1 = 100 km/sa 
+V2 = 80 km/sa 
+Aralarında 360 km yol olan iki otomobil aynı anda birbirlerine doğru hareket ediyorla. Buna göre otomobiller kaç saat sonra karşılaşırlar?
+A) B) C) D) GEOMETR2. BÖLÜMatematik I1. ÜnitÜçgenleNELER ÖĞRENECEĞİZ?
+Bu bölümü çalıştığımızd• Üçgenler konusu ve bu konu ile ilgili uygulamaları yapabileceksiniz• Üçgende açı özellikleri ile ilgili işlemler yapmayı,
+• Üçgenin kenar uzunlukları ile bu kenarların karşılarındaki açıların ölçülerini 
+ilişkilendirmeyi,
+• Uzunlukları verilen üç doğru parçasının hangi durumlarda üçgen oluşturduğun değerlendirmeyi,
+• İki üçgenin eş olması için gerekli olan asgari koşulları değerlendirmeyi,
+• İki üçgenin benzer olması için gerekli olan asgari koşulları değerlendirmeyi,
+• Üçgenin bir kenarına paralel ve diğer iki kenarı kesecek şekilde çizilen doğrunu ayırdığı doğru parçaları arasındaki ilişkiyi kurmayı,
+• Üçgenlerin benzerliği ile ilgili problemler çözmeyi,
+• Üçgenin iç ve dış açıortaylarının özelliklerini elde etmeyi,
+• Üçgenin kenarortaylarının özelliklerini elde etmeyi,
+• Üçgenin kenar orta dikmelerinin bir noktada kesiştiğini göstermeyi,
+• Üçgenin çeşidine göre, yüksekliklerinin kesiştiği noktanın konumunu belirlemeyi,
+• Dik üçgende Pisagor teoremini elde ederek problemler çözmeyi,
+• Öklid teoremini elde ederek problemler çözmeyi,
+• Dik üçgende dar açıların trigonometrik oranlarını hesaplamayı,
+• Birim çemberi ve trigonometrik oranları birim çemberin üzerindeki noktanı koordinatlarıyla ilişkilendirmeyi,
+• Üçgenin alanı ile ilgili problemler çözmeyi öğreneceğiz. 
+Matematik I2. BölüÜçgenleYukarıdaki Konuları Kavramak İçin Neler Yapmalıyız?
+• Üçgen konusu ile ilgili araştırma yapınız• Üçgenler konusu ile ilgili eski bilgilerinizi tekrar ediniz• Konuda verilen alıştırma ve problemleri cevaplayınız• Öğrendiğiniz konularla ilgili bol örnek çözünüzTerimler ve KavramlaÜçgeDik ÜçgeAçıortaAçEşliKenarorta    Eşkenar ÜçgeYüksekliAlaBirim Çembe    Pisagor TeoremAğırlık MerkezÖklid TeoremBenzerliİkizkenar ÜçgeMatematik I2. BölüÜçgenle1. ÜnitÜçgenleGEOMETRÜçgenle• Düzlemde doğrusal olmayan herhangi üç noktayı birleştiren üç doğru parçasınıbirleşimine üçgen denirA, B, C noktaları üçgenin köşeleridir. [AB], [BC], [AC] doğr parçaları üçgenin kenarlarıdır. |AB| = c, |BC| =  a, 

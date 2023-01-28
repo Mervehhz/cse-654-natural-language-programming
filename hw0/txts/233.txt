@@ -1,0 +1,400 @@
+ ve 
+son terimi 91 olan sonlu aritmetik dizinin teri sayısını bulunuz8 terimli bir aritmetik dizinin ilk beş terimini toplamı, son üç teriminin toplamının 2  
+katına eşittir. Buna göre bu dizinin 7. terimini 3. terimine oranını bulunuz. 
+Bir aritmetik dizinin ilk üç terimi 
+,
++
+ v+
+-
+ olduğuna göre bu dizini ilk 7 teriminin toplamını bulunuzİlk n teriminin toplamı 2 +
+ olan bir aritmeti dizinin 16. terimini bulunuz AlıştırmalaDizileGeometrik Diziler ve ÖzelliklerArdışık terimleri arasındaki oranı sabit olan dizilere geometrik dizi denirBir a^
+h geometrik dizisinde 
+i i!
+!
+=
++
++
+^
+ ise r gerçek sayısına  
+a^
+h geometrik dizisinin ortak çarpanı denir. İlk terimi a1  ve ortak çarpanı r olan a^
+h 
+geometrik dizisinin genel terimi 
+                                        
+olu$
+=
+-
+Aşağıdaki dizilerden geometrik dizi olanı bulunuz)
+)
+=
++
+=
++
+^
+^
+^
+İlk terimi 5, ortak çarpanı 3 olan bir geometrik dizinin 5. terimini bulunuz. 
+v1 =
+=
+ olduğundan 
+bulunu5 5 $
+$
+$
+=
+=
+=
+=
+-
+  
+a) 8 ifadesini=
+=
++
++
++
+=
++
++
++
+]
+ değeri n nin alacağı değerlere göre değişir.    
+    
++
++
+ ifadesi sabit sayı olmadığından bir geometrik dizinin ortak çarpanı olamaz. O hâlde       
+    a^
+h bir geometrik dizi değildirb) =
+=
+=
++
++
++
++
+ olduğundan c^
+h ortak çarpanı =
+ olan bir geometrik dizidirÇÖZÜÇÖZÜÖRNEÖRNE&
+$
+=
+=
++
++
+$
+$
+$
+$
+=
+=
+=
+=
+-
+r 1 tan$ $ $
+$
+$
+=
+=
+-
+-
+4444 a^
+h geometrik dizisinin ardışık terimleri arasındaki oran sabit ve r olduğunda#
+`
+bbbbbbbbbbbbbbbb(Elde edilen -
+ tane eşitlik taraf tarafa çarpılır.)
+Matematik ÖZELLİK Bir geometrik dizide 2. terim 36, ortak çarpan 2  ise dizinin 7. terimini bulunuzbulunu36 &
+$
+$
+$
+$
+=
+=
+=
+=
+=
+-
+-
+ÇÖZÜÖRNEOrtak çarpanı r olan a^
+h geometrik dizisinde 
+n ve #
+!
++  olmak üzerolu$
+=
+-
+(Eşitlikler taraf tarafa bölünür.)
+$
+$
+=
+=
+-
+-
+4 & $
+$
+=
+=
+-
+-
+-
+& $
+=
+-
+Pozitif terimli bir geometrik dizide +
++
+=
+ olduğuna göre bu dizinin ortak çarpanını bulunua^
+h geometrik dizisinde 20. terimin 17. terime oranı 27 olduğuna göre bu dizinin ortak çarpanını 
+bulunuzbulunu&
+&
+&
+$
+$
+=
+=
+=
+=
+&
+$
+$
+$
+$
+$
+$
+$ $
++
++
+=
++
++
+=
+]
+]
+ÇÖZÜÇÖZÜÖRNEÖRNEbulunu&
+&
+&
+=
+=
+=
+DizileÖZELLİK a b c olub bulunu1 5 &
+&
+$
+$
+$
+$
+$
+$
+$
+$
+$
+=
+=
+=
+=
+=
+=
+=
+=
+olu= -
+1 , 1 , a, b, c, d, e, n =
+^
+l sonlu geometrik dizisi veriliyor. Buna göre b $
+ çarpımını 
+bulunuzÇÖZÜÖRNEPozitif terimli bir geometrik dizide  için k. terim ak  ve p. terim ap  olmak 
+üzere dizinin ortak çarpan&
+$
+=
+=
+-
+-
+& =
+-
+(Her iki tarafın 
+-
+^
+h  dereceden kökü alınır.)
+ÖZELLİK Bir a^
+h geometrik dizisinde  ve =
+=
+ olduğuna göre a12  değerini bulunuzSonlu bir geometrik dizide baştan ve sondan eşit uzaklıkta bulunan terimlerin 
+çarpımı birbirine eşittir. 
+$
+$
+$
+$
+=
+=
+=
+=
+-
+-
++
+-
+ÇÖZÜÖRNEolu&
+&
+&
+&
+&
+$
+$
+$
+=
+=
+=
+=
+=
+=
+-
+-
+&
+$
+$
+=
+=
+-
+bulunu270 $
+=
+=
+n $
+$
+$
+$
+$ $
+$
+$
+$
+$
+$
+$
+$
+$
+=
+=
+=
+=
+=
+=
+- +
+-
+-
+-
+-
+-
+-
+-
+-
+Matematik Bigeometrive dizisind=
+=
+^
+ olduğuna göre bu dizinin ortak çarpanını 
+bulunuz, , , ,
+, , ,
+a b d e sonlu geometrif yi bulunudizisindn =
+^
+^
+ÇÖZÜÇÖZÜÖRNEÖRNEİlk üç terimi 
+,
+,
+-
+-
+ olan a^
+h dizisi hem aritmetik hem de geometrik dizidir. İlk terimi 
+x, beşinci terimi y olan b^
+h aritmetik dizisi ile ilk terimi x, ikinci terimi y olan c^
+h geometrik dizisi 
+veriliyor. Buna göre ve 3  değerlerini bulunuza^
+h aritmetik dizi olduğundan 
+..........( )
+1 =
++
++
+ 
+a^
+h geometrik dizi olduğundan 
+$
+=
++
+^ h olur. 
+(1) ve (2) den n $
++
+=
+ olmalıdır. Bu eşitlik ve =
+=
+ olması durumunda her n pozitif tam 
+sayısı için sağlanır. ve =
+=
+ ise a^
+h sabit dizi olur. 
+Sonuç olarak bir dizi hem aritmetik hemde geometrik bir dizi ise bu dizi sabit dizidirÇÖZÜÖRNE&
+bulunu&
+=
+=
+&
+bulunu&
+=
+=
+&
+=
+= -
+-
+&
+=
+=
+-
+-
+,
+,
+,
+=
+=
+=
+=
+^
+,
+,
+,
+=
+=
+=
+=
+^
+bulunu16 2 32 $
+$
+$
+=
+=
+=
+=
+=
+^
+a^
+h sabit dizi olduğundan -
+=
+=
+-
+ olmalıdır. 
+bulunu&
+&
+-
+=
+=
+-
+=
+=
+&
+dizisindaritmetive olu=
+=
+=
+-
+-
+=
+-
+=
+^
+olarak elde edili12 $
+=
++
+=
++
+=
+&
+izisindgeometrik ve =
+=
+=
+olu=
+^
+bulunu$

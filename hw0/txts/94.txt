@@ -1,0 +1,400 @@
+"
+"
+,
+,
+,
+c) +
+, f ve g fonksiyonlarının ortak birinci bileşenlerinin görüntü değerlerinin toplamına eşittir    
+,
+,
+,
+,
+,
+,
+, 0, 4 ,
+,
+olu1 0 2 1 2 +
+=
+-
++
++
++
+=
+-
+^
+^
+^
+^
+^
+^
+"
+"
+,
+,
+ 
+ç) f $
+, f ve g fonksiyonlarının ortak birinci bileşenlerinin görüntü değerlerinin çarpımına eşittir. 
+    
+,
+, 0,
+,
+,
+,
+, 0, 3 ,
+,
+f olu1 2 3 2 4 1 2 $
+$
+$
+$
+=
+-
+=
+-
+^
+^
+^
+^
+^
+^
+"
+"
+,
+,
+d)  f , f ve g fonksiyonlarının ortak birinci bileşenlerinin görüntü değerlerinin bölümüne eşittir. Dolayısıyl  
+     
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+olu1 0 2 1 0 =
+-
+=
+-
+^
+^
+'
+'
+"
+"
+,
+:
+:
+R  olmak üzer0, 2), (1, 5), (2, 6), (3, 4)
+{(
+}
+f =
+ ve 
+, 1), (1, 7), (3, 3), (5,
+{(
+)}
+=
+-
+  olarak veriliyorBuna göre aşağıdaki  fonksiyonları liste biçiminde yazınıza)  3 -
+                                 b) f $
+0, 1, 2,
+, 1, 3,
+{
+}
+{
+}
+ve =
+= -
+ olup f ve g fonksiyonlarının tanım kümelerinin kesişim kümesi, 
+,
+{
+}
+1 +
+=
+ olur. Buradan 1 ve 3 elemanlarının görüntüleri bulunur,
+,
+( )
+( )
+( )
+( )
+ve =
+=
+=
+=
+ olur. 
+  
+a) (
+)( )
+( )
+( )
+3 3 $
+-
+=
+-
+=
+-
+=
+-
+=
+    (
+)( )
+( )
+( )
+3 3 $
+-
+=
+-
+=
+-
+=
+=
+-
+    
+1, 8), (3, 9)
+{(
+}
+3 -
+=
+ olurb) (
+)( )
+( )
+( )
+f 5 $
+$
+$
+=
+=
+=
+    (
+)( )
+( )
+( )
+f 4 $
+$
+$
+=
+=
+=
+    
+1, 35), (3, {(
+)}
+f $
+=
+ olurİzmir ile Van arasındaki mesafe karayolu ile 1755 km dir. İzmir’de bulunan Leyla, otomobili ile sabit  
+80 km/sa. , Van’da bulunan Mecnun otomobili ile sabit 90 km/sa. hızla aynı anda birbirlerine doğru hareket 
+ediyorlar. Leyla ile Mecnun’un x saat sonra aralarındaki mesafeyi veren f(x) eşleştirme kuralını bulunuz.  
+İzmir’de bulunan Leyla Van’a hareket ettiğinde 1 saatte 
+k, x  saatte ise 
+x k yol alırVan’da bulunan Mecnun İzmir’e hareket ettiğinde 1 saatte 90 km, x  saatte ise 
+x k yol alırBirbirlerine doğru x  saatte 
+x k+
+=
+ yaklaşırlar. 
+İzmir ile Van arası 1755 km olduğundan x  saat sonra aralarındaki mesafe ( )
+f =
+-
+ olur,
+, 0, 3 , 1, 2 , 2, 2 =
+-
+^
+^
+^
+^
+"
+,  ve 
+,
+, 2, 4 , 0, 1 =
+-
+^
+^
+^
+"
+,  ise 
+(
+)( )
+( )
+f $
++
+^
+ değerini bulunuz(
+)( )
+( )
+( )
+( )
+( )
+( )
+f 4 2 $
+$
+$
+$
++
+=
++
+=
++
+=
+^
+ olur"
+"
+,
+:
+:
+- " ,
+  için (
+)( )
+f $
+=
+-
++
+-
+ ve ( )
+f =
+-
+ olduğuna göre 
+( )
+g 2  değerin bulunuz(
+)( )
+f $
+=
+-
++
+-
+ fonksiyonunda =
+ için (
+)( )
+( )
+( )
+f 3 $
+$
+$
+=
+=
+-
++
+-
+]
+]
+ olur. 
+Buradan 
+( )
+2 $
+$
+-
+=
+-
++
+-
+]
+ ve 
+( )
+( )
+&
+$
+-
+=
+= -
+]
+ olur"
+"
+:
+:
+ve R  fonksiyonları içi(
+)( )
++
+=
++
+ ve (
+)( )
+-
+=
+-
+ olduğuna göre (
+)(
+)
+f $
+-
+ değerini bulunuzFonksiyonların toplam ve fark işlemi tanımında(
+)( )
+( )
+( )
+f g +
+=
++
+=
++
+ ve (
+)( )
+( )
+( )
+f g -
+=
+-
+=
+-
+ şeklinde yazılabilir. Burada( )
+( )
+f g +
+=
++
+ 
+`
+bbbbbbbb 
+   
+ifadeleri taraf tarafa toplanırsa 
+( )
+( )
+f f &
+=
++
+=
++  olur.              
+( )
+( )
+f g -
+=
+-
+ 
+( )
+( )
+f g +
+=
++
+ fonksiyonunda ( )
+f x  yerine +  yazılırsa 
+( )
+( )
+g g &
++
++
+=
++
+=
++
+ bulunur. Buradan fonksiyonlarda çarpma işlemi tanımında(
+)(
+)
+(
+)
+(
+)
+(
+)
+f $
+$
+$
+$
+$
+-
+=
+-
+-
+=
+-
++
+- +
+= -
+= -
+^
+]
+]
+]

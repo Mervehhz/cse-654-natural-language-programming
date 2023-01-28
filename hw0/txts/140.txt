@@ -1,0 +1,400 @@
+=
+&
+&
+ denilsin. Bu durumda +
+ değeri KLMN dörtgenini alanı olduğundan 
+(
+)
+(
+)
+A DAA BMc+
+=
++
+=
+&
+&
+ bulunurDörtgenler ve ÇokgenleDörtgenler ve Çokgenle1. 
+ 
+Yukarıdaki şekilde verilen ABCD dikdörtgenind A, E, C noktaları doğrusal; DA=
+?
+?; 
+Ac=
+  ve Ec=
+  olduğuna 
+göre EB  nun kaç cm olduğunu bulunuz. 
+2. 
+ 
+  
+Yukarıdaki şekilde verilen ABCD dikdörtgeinde AD+
+=
+?
+?
+"
+, , AF=
+?
+?; 
+Ac=
+, Ac=
+ ve Fc=
+ 
+olduğuna göre DE  nun kaç cm olduğunu 
+bulunuz3. 
+Yukarıdaki şekilde verilen ABCD dikdörtgeinde D köşesi E? üzerine katlanarak 
+A? üzerindeki Dl  noktası elde edilmiştir. 
+Dc=
+ ve Bc=
+ olduğuna 
+göre ADl  nun kaç cm olduğunu bulunuz4. 
+Yukarıdaki şekilde verilen ABCD dikdörtgenind A@ köşegen ve 
+,
+AED+
+!
+=
+@
+@
+@
+"
+,
+ dır. 
+,
+DE=
+ Ec=
+ ve 
+Ac=
+ olduğuna göre ABCD dikdörtgeinin çevre uzunluğunun kaç cm olduğunu 
+bulunuz5. 
+  
+Yukarıdaki şekilde verilen ABCD dikdörtgenind A! @ dır. 
+,
+Cc=
+ Dc=
+ 
+ve CD=
+?
+? olduğuna göre ABCD 
+dikdörtgeninin alanının kaç cm2  olduğunu 
+bulunuz6. 
+ 
+Yukarıdaki şekilde verilen ABCD dikdörtgen 
+olup AD+
+=
+@
+@
+"
+,  ve AB+
+=
+@
+@
+"
+,  
+dır. 
+(
+)
+m AB=
+%
+ ve DC=
+ olduğun göre 
+(
+)
+m EF%  nün kaç derece olduğunu 
+bulunuzALIŞTIRMALADörtgenler ve ÇokgenleDörtgenler ve ÇokgenleİpucBilgKare ve Özellikler   
+                                              Dört kenar uzunluğu eşit olan dikdörtgene kare denirKare aynı zamanda paralelkenar, dikdörtgen ve eşkenar dörtgendirYandaki ABCD karesinde, 
+• 
+ABCDa c=
+=
+=
+=
+,
+• 
+( )
+( )
+( )
+(
+)
+m m m m =
+=
+=
+=
+ olmaktadırBu ifadelerin doğruluğu aşağıdaki gibi gösterilebilir  Yandaki şekilde verilen ABCD karesinde, 
+• Köşegenler aynı zamanda açıortaylardır• Köşegen uzunlukları eşit olup birbirlerini dik ortalarABD ve BDC ikizkenar dik üçgen olduklarından taban açıları eşittir. 
+Buna göre 
+(
+)
+(
+)
+m ADm AB=
+=
+%
+%
+ ve 
+(
+)
+(
+)
+m CDm CB=
+=
+%
+%
+ 
+olur. Aynı şekilde ADC ile ABC ikizkenar dik üçgen olduğundan 
+(
+)
+(
+)
+m DAm DC=
+=
+%
+%
+ ve 
+(
+)
+(
+)
+m CAm AC=
+=
+%
+%
+ olur. 
+Bu durumda her köşegen aynı zamanda açıortay olmaktadırÜçgenin iç açılarının ölçüleri toplamı ile 
+(
+)
+(
+)
+(
+)
+(
+)
+m DKm AKm BKm CK=
+=
+=
+=
+%
+%
+%
+%
+ 
+olur. Buradan KBC, KCD, KDA, KAB aynı zamanda ikizkenar dik üçgen olduğundan 
+DABC=
+=
+=
+ olurSonuç olarak karenin köşegen uzunlukları eşit olup birbirlerini dik ortalarYandaki şekilde verilen ABCD kare olup 
+DA+
+=
+@
+@
+"
+,  ve 
+DB+
+=
+@
+@
+"
+,  dır. AB=
+ olmak üzere 
+(
+)
+m BL=
+%
+ 
+olduğuna göre x değerinin kaç derece olduğunu bulunuzDörtgenler ve ÇokgenleDörtgenler ve ÇokgenleYandaki şekilde verilen ABCD karesinde A, C, K noktaları doğrusal, 
+(
+)
+m CB=
+%
+, Bc=
+ ve C=
+ olduğuna göre x değerinin kaç cm 
+olduğunu bulunuzB? çizilsin. Karede köşegenler dik kesiştiğinden ve B@ açıortay 
+olduğundan LBK , -
+-
+c dik üçgeni olur. Bu durumda 
+LBc=
+=
+=
+ ve Lc4 =
+ olur. 
+Ayrıca CLB ikizkenar dik üçgen olduğundan LLc=
+=
+ olurBuradan 
+Lcm bulunuLC4 =
+=
+=
+-
++
++
+                        
+ABCD karesinde B@ üzerinde Dc=
+ ve Ec=
+ olacak şekilde bir E noktası işaretleniyo. Buna göre AE  nun kaç cm olduğunu bulunuzB? çizilirse ABB=
+=
+ olur. 
+Bu durumda DBM ikizkenar üçgendir ve B@ açıortay 
+olduğundan 
+(
+)
+(
+)
+(
+)
+m DBm DBm CB=
++
+=
++
+=
+%
+%
+%
+ 
+olur. DBM ikizkenar üçgen olduğundan taban açılarının 
+ölçüleri 
+,
+(
+)
+(
+)
+m DMm BD22 =
+=
+%
+%
+ olur. Buradan 
+,
+,
+(
+)
+(
+)
+(
+)
+m BLm LBm LM22 112 =
++
+=
++
+=
+%
+%
+%
+ 
+olduğundan 
+,
+112 =
+c bulunurABCD karesi yanda verilen şekildeki gibi çizilebilir. AB+
+=
+@
+@
+"
+,  
+olacak şekilde A@ çizilirse AKE dik üçgeni elde edilir. Köşegenler birbirini 
+ortaladığından BKc=
+=
+ ve Kc=
+ olur. Karenin köşegenler eşit olduğundan AKc=
+=
+ olur. AKE dik üçgeninde Pisagor 
+teoremi uygulanırsa 
+AAKAAAcm olarak bulunu=
++
+=
++
+=
+=
+Dörtgenler ve ÇokgenleDörtgenler ve ÇokgenleYandaki şekilde verilen ABCD karesinde A! @, CD=
+?
+?; 
+,
+DcKc=
+=
+ ve K=
+ olduğuna göre x değerinin kaç cm olduğun bulunuzAD=
+?
+? olacak şekilde A? çizilir ve açılar şekildeki gibi yazılırsa 
+DKAP,
+&
+&  olur. Buradan DAc=
+=
+ olurP=
+ ve K=
+-
+ yazılıp ALD üçgeninde Öklid teoremi il 
+(
+)
+(
+) (
+)
+.(
+)
+ADPcm bulunur &
+&
+&
+&
+&
+$
+$
+$
+!
+=
+=
+-
+=
+-
+-
++
+=
+-
+-
+=
+=
+Yandaki şekilde verilen ABCD karesinde 
+,
+Ac=
+ 
+,
+Kc=
+ 
+Lc=
+ ve 
+(
+)
+(
+)
+m AKm KL=
+=
+%
+%
+ olduğuna göre ABCD karesinin 
+çevresinin uzunluğunun kaç cm olduğunu bulunuzKLCP dikdörtgeni oluşturulursa KPc=
+=
+ ve 
+LKc=
+=
+ olur. A@ çizildiğinde oluşan ACP dik üçgeninde 
+Pc=
+ ve Ac=
+ olur. 12 cm-16 cm-20 cm dik üçgeni ile 
+Ac=
+ bulunurACP dik üçgeninin hipotenüsü aynı zamanda karenin 
+köşegeni olduğundan karenin bir kenarına a cm denilirse  
+Acm olu10 &
+&
+$
+$
+=
+=
+=
+ 
+Sonuç olarak 
+(
+)
+ABCcm bulunu4 10 40 $
+=
+=
+=
+DKAP,
+&
+&  eşliği ile 
+(
+)
+KPKKPKKcm bulunu&
+&
+&
+&
+=

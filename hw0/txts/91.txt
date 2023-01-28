@@ -1,0 +1,400 @@
+:
+R  olmak üzere 
+!
+ içi• 
+(
+)
+( )
+f -
+=
+ olan f fonksiyonuna çift fonksiyon denir• 
+(
+)
+( )
+f -
+= -
+ olan f fonksiyonuna tek fonksiyon denir"
+,
+:
+( )
+f b=
++
++
++
++
++
+]
+ fonksiyonu tek fonksiyon ise a $
+ ifadesinin değerini bulunuzVerilen 
+( )
+f =
+ fonksiyonu tek fonksiyon olduğundan (
+)
+( )
+f -
+= -
+ olmalıdır(
+)
+(
+)
+( )
+(
+)
+bvf b-
+= -
++
++
+-
++
++
+-
+= -
+-
++
+-
+-
+-
+ olduğundan 
+eşitliğin sağlanması için aynı dereceli terimlerin katsayıları birbirine eşit olur. Buradan 
+ve &
+&
++
+=
+= -
++
+=
+= -
+- -
+- -
+ bulunur. Dolayısıyla a $
+$
+= -
+-
+=
+]
+]
+ olur"
+,
+:
+( )
+f =
+ fonksiyonu çift fonksiyon; 
+"
+,
+:
+( )
+g =
+ fonksiyonu tek fonksiyon; f =
+^  ve 
+(
+)
+-
+=
+-
+-
++
++
+^
+ olmak üzere g ^ h ifadesinin değerini bulunuzf fonksiyonu bir çift fonksiyon olduğundan (
+)
+( )
+f -
+=
+ olur. Buradan (
+)
+( )
+-
+=
+=
+ bulunur. 
+g fonksiyonu bir tek fonksiyon olduğundan 
+(
+)
+-
+= - ( )
+g x  olur. Buradan 
+(
+)
+-
+= - ( )
+g 5  bulunur. 
+(
+)
+-
+=
+-
+-
++
++
+^
+ eşitliğinde x yerine 5 yazılırs 
+(
+)
+( )
+( )
+( )
+olu2 f(
+g(5)
+)
+&
+&
+&
+$
+-
+-
+=
+-
++
++
+-
+= -
++
+-
+= -
+=
+-
+^
+1 2 444 444 Aşağıda verilen fonksiyonların tek fonksiyon ya da çift fonksiyon olup olmadıklarını bulunuza) 
+"
+,
+:
+( )
+f =
++
+          b) 
+"
+,
+:
+( )
+g =
+-
+          c) 
+"
+,
+:
+( )
+h =
+-
++
+a) ( )
+f =
++
+ fonksiyonunda x yerine 
+-  yazılırsa (
+)
+( )
+f -
+=
++
++
+-
+=
+=
+^
+ olduğundan f fonksiyou çift fonksiyondurb) 
+( )
+g =
+-
+ fonksiyonunda x yerine 
+-  yazılırsa 
+(
+)
+=
+-
+-
+-
+-
+-
+= -
++
+= -
+= -^
+^
+^
+^
+h olduğundan g fonksiyonu tek fonksiyondurc) 
+( )
+h =
+-
++  fonksiyonunda x yerine 
+-  yazılırsa 
+(
+)
+=
+-
++
+-
++
+-
+-
+-
+= -
+^
+^
+ 
+olur. h h v!
+!
+-
+-
+-
+^
+^
+^
+^
+h olduğundan h fonksiyonu çift fonksiyon ya da tek fonksiyon 
+değildirBilgTanım kümesinin ayrık alt kümelerinde farklı kurallarla belirlenen fonksiyonlara parçalı tanıml fonksiyonlar ya da parçalı fonksiyonlar denir. Örneğin , b, c, !
+ olmak üzer,
+,
+,
+( )
+( )
+( )
+( )
+f g b ish c isr d is#
+#
+#
+#
+=
+[
+\
+]]]]]
+]]]]]
+biçiminde olan ve 
+,
+,
+( )
+( ) ( )
+g x h x r x  fonksiyonlarından oluşan f fonksiyonuna parçalı fonksiyon 
+denir. a, b, c ve d fonksiyonun kritik noktalarıdırParçalı FonksiyoBir telefon operatörünün bir aylık sesli arama tarifesi aşağıdaki gibidir. 
+         • 
+Toplam 200 dakikaya kadar olan aramalar sabit 20 Türk lirasıdır. 
+         • 
+200 dakikadan sonra her 1 dakika için ekstra 25 kuruştur         • 
+Ücret 400 dakikadan sonra 70 Türk lirasına sabitlenmiştirBuna göre telefon operatörünün sesli aramalarla ilgili Türk lirası cinsinden bir aylık fiyat 
+tarifesinin kurallarını belirten bir fonksiyon yazınızDakika cinsinden konuşma süresi x, Türk lirası cinsinden ücreti veren fonksiyon f(x) olsun. Buna göre bu 
+tarifenin kuralları, uygun tanım aralığında aşağıdaki gibi bir fonksiyon ile gösterilebilir.  
+,
+,
+( )
+f isisx is#
+#
+#
+=
++
+-
+,
+[
+\
+]]]]]
+]]]]]
+Tanım kümesi 
+,
+)
+3 -
+ olan f fonksiyonu aşağıda verilmiştir,
+,
+,
+( )
+f isisis#
+#
+#
+=
++
+-
+-
+[
+\
+]]]]
+]]]]
+Buna göre  ( )
+( )
+( )
++
++
+ ifadesinin değerini bulunuz,
+[
+)
+3 ! -
+ olduğundan ( )
+f =
++
+ kuralı kullanılmalıdır. Buradan ( )
+f 3 $
+=
++
+=
++
+=
+ olur,
+[
+]
+2 !
+  olduğundan ( )
+f x=
+kuralı kullanılmalıdır. Buradan ( )
+f =
+=
+ olur,
+(
+)
+6 !
+ olduğundan ( )
+f =
+-
+ kuralı kullanılmalıdır. Buradan ( )
+f 2 $
+=
+-
+=
+-
+= -
+ olurBuradan ( )
+( )
+( )
++
++
+=
++
+-
+=
+ olurBilg+
+!
+ olmak üzere 
+"
+"
+:
+:
+ve R  fonksiyonları içi"
+"
+,
+:
+:
++
++
++
+-
+ +
+ ve -
+ fonksiyonları 
++
+6 !
+ içi(
+)( )
+( )
+( )
+f g +
+=
++
+ ve (
+)( )
+( )
+( )
+f g -
+=
+-
+ şeklinde tanımlanırEmre, Damla ve Yağmur’un satış danışmanlığını yaptığı bir firmanın maaş politikası; satış danışmanının 
+sattığı ürün adedi x, kişinin aldığı maaş miktarı Türk lirası cinsinden ( )
+f x  olmak üzere aşağıdaki gibidir( )
+,
+,
+,

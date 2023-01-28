@@ -1,0 +1,400 @@
+m 45°
+=
+,
+|BD| = |DC|  ve 
+(
+)
+m DA=
+\
+olduğuna göre cotx 
+değeri kaçtır?
+120°
+45°
+60°
+2 Yukarıdaki ABC üçgeninde 
+( )
+m 60°
+=
+,
+|AD| = 4 birim, |AB|=2 3 birim ve 
+(
+)
+m CD=
+\
+ olduğuna göre sinx değeri kaçtır?
+A) 3  
+B) 7  C) 3  
+D) 5  E) A) 1 
+B) 1  
+C) 2 
+D) 3  
+E) Yukarıdaki şekilde ABCD dörtgen, 
+( )
+,
+m 120°
+=
+|AB|= 4 birim, |AD| = 3 birim, |CD| = 5 birim,  
+|BC|= 6 birim olduğuna göre 
+( )
+cos CV  kaçtır?
+A) 1  
+ 
+B) 2  
+ 
+C)  
+   D) 3    
+       E) Şekildeki O merkezli biri çemberde 
+(
+)
+m AO\  = α, B noktasını x eksenine göre 
+simetriği C, y eksenine 
+göre simetriği D, orijine 
+göre simetriği E olarak 
+verilmiştir. Buna göre 
+aşağıdakilerden hangisi 
+yanlıştır? 
+A) C noktasının  apsisi  cosα  olurB) C noktasının ordinatı  –sinα olurC) D noktasının apsisi  –cosα olurD) E noktasının ordinatı sinα olurE) D noktasının ordinatı sinα olurYandaki birim çemberd gösterilen α 
+açısının ölçüsü aşağıdakilerde hangisi 
+olabilir?
+A) 80° 
+B) 150° C) 275° D) 190° E) 340°
+sin21 – sin22 + sin23 –...+ sin289 ifadesinisonucu kaçtır?
+A) 0 
+B) 1  
+C) 3  
+D) 1 
+E) 
+-
+43.  
+44.  
+45.  
+46.  
+47.  
+48.  
+49.  
+Şekildeki ABC üçgeninde |AC| = 7 birim,
+|AD| = 5 birim, |DC| = 6 birim, |BD| = 2 birim 
+olduğuna göre |AB| = x kaç birimdir?
+A) 2 5   
+B) 
+21   
+C) 
+ 
+D)  
+37  
+ 
+E) 
+Şekilde ABCD dikdörtgen, [AE]⊥[ED], 
+|BE| = 9 birim ve |EC| = 4 birim olduğuna göre 
+(
+)
+cos ED\  değeri kaçtır?
+A) 
+ B) 
+ C) 
+ D) 
+ E) 
+Şekildeki ABC üçgeninde |AB|= |AD| = 6 birim,
+|DC| = 3 birim ve |BD| = 8 birim olduğuna göre 
+( )
+tan CV  değeri kaçtır?
+A) 
+2 5  B) 2  
+C) 3  
+D) 5  E) 
+3 sin arctan l  ifadesinin değeri kaçtır?
+A) 
+ B) 
+ C) 
+ D) 
+ E) 
+( )
+arcsif =
+-
+l  fonksiyonunun tanıkümesinde x in alabileceği tam sayılar toplamı 
+kaçtır?
+A) 4 
+B) 3 
+C)2 
+D) 1 
+E) x = y = Yukarıdaki birim çemberde |AD| = a birim,
+|BC| = b birim ve 
+(
+)
+m AOα 
+=
+\
+ olduğuna göre 
+tanα + cotα  toplamı aşağıdakilerden hangisine 
+eşittir?
+A) a + b  
+B) -a + b  
+C) a. 
+D) -b + a 
+        E) -a - b   
+50.  
+51.  
+52.  
+53.  
+54.  
+55.  
+Aralarındaki mesafe 900 m olan iki yelkenli, 
+aynı adaya ulaşmak için A ve B noktalarından 
+doğrusal hareket ediyor. Yapılan modellemede 
+(
+)
+m BA40°
+=
+\
+ ve 
+(
+)
+°
+m CB=
+\
+ olduğuna göre 
+B noktasından hareket eden yelkenlinin adaya 
+ulaşmak için katedeceği mesafe kaç metredir? 
+(sin40° = 0,6 ve sin70° = 0,9 alınız.)
+A) 500 
+ 
+B) 600 
+ 
+C)  
+D) 700  
+      E) 750   
+56.  
+40°
+70°
+900  2.1. Doğrunun Analitik İncelenmes2. ANALİTİK GEOMETRGEOMETRİ 
+Bu bölümd• Analitik düzlemde iki nokta arasındaki uzaklığı veren bağıntıyı elde 
+ederek problemler çözmeyi,
+• Bir doğru parçasını belirli bir oranda bölen noktanın koordinatlarını 
+hesaplamayı,
+• Analitik düzlemde doğruları inceleyerek işlemler yapmayı,
+• Bir noktanın bir doğruya uzaklığını hesaplamayöğreneceksinizAnalitik Düzlem, Eğim Açısı, İki Nokta Arasındaki Uzaklık, İki Doğrunun Paralelliği,
+Doğrunun Eğimi, İki Doğrunun DikliğK A V R A M L A H A Z I R L I K  Ç A L I Ş M A S  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                                                     
+Başkentlerin konumlarını Ankara'yı merkez 
+alarak tespit etmek isteyen bir öğrenci haritayı 
+birimkarelere ayırıyor. 
+Öğrenci, başkentlerin konumlarını nasıl ifade 
+edebilir?
+Sinema salonundaki koltuklardan hangisinde 
+oturulacağı satın alınan biletin üzerindeki bilgiler 
+yardımıyla tespit edilir. 
+Biletin üzerinde yer alan konum bilgiler nasıl düzenlenmiş olabilir?    
+DoğBatKuzeOttowSantiagCanberrSanAnkarGüne Koordinat doğrusunda A(-3), B(b) ve C(7) noktaları verilsin. |AB| = |BC| olduğuna göre 
+b reel sayısını bulunuzÇözü 
+ 
+ 
+             
+ Yandaki şekilde |AB| = |BC| olduğuna göre 
+ 
+ 
+ 
+             
+ 
+ b - (-3) = 7 - b ⇒ b + 3 = 7 -                
+ 
+  ⇒ b + b = 7 - 3 
+               
+ 
+  ⇒ 2b = 4 ⇒ b = 2 olur1. Örnek 
+Her noktası bir reel sayıya karşılık gelen doğruya koordinat (sayı) doğrusu denir. Herhangi iki reel 
+sayı arasında sonsuz tane reel sayı vardırBir A noktası x reel sayısı ile eşleştirildiğinde A noktasının koordinatı x olur ve koordinatı x olan A 
+noktası A(x) şeklinde yazılırKoordinat doğrusunda iki nokta arasındaki uzaklık bu iki noktanın koordinatları farkının mutlak 
+değerine eşittirA(x) ve E(y) noktaları arasındaki uzaklık |AE| = |y - x| = |x - y| olur. Örneğikoordinat doğrusunda A(-2) ve E(3) noktaları arasındaki uzaklı|AE| = |3 - (-2)| = 5 birimdir--Koordinat doğrusunda A(-7) ile B(21) noktalarının orta noktası C(x)  olduğuna göre 
+x reel sayısını bulunuzSıra Sizd2.1. Doğrunun Analitik İncelenmesKoordinat (Sayı) DoğrusKoordinat Doğrusunda Orta Noktanın KoordinatKoordinat doğrusunda A ile C noktalarının ortasındaki nokta B olsun 
+ 
+ 
+ 
+             c - b = b -     
+ 
+ 
+ 
+             2b = a +       
+ 
+ 
+            B noktasının koordinatı b = +
+ olurReel sayı doğrusu üzerinde A(-4), B(20) noktaları ve [AB] nı BA=
+ oranında bölen bir 
+C(c) noktası veriliyor. A ve C noktalarının orta noktası D(d), C ve B noktalarının orta noktası 
+E(e) olduğuna göre DE uzunluğunu bulunuzSıra SizdKoordinat doğrusunda A(-1), B(x) ve C(15) noktaları veriliyor. |AB| = 3|BC| ve 
+-
+ 
+olduğuna göre x reel sayısını bulunuzSıra SizdKoordinat doğrusunda A(-4), B(2) ve C(x) noktaları veriliyor. |AB| = 2|BC| ve x > 0 
+olduğuna göre x reel sayısını bulunuzÇözüm 
+ 
+ 
+  
+|AB| = 2|BC| = 2k ⇒ |BC| = k olur  
+|AB| = 2 - (-4) = 6 = 2k ⇒ k = 3 birim olur  
+O hâlde x =  2 + k = 2 + 3 = 5 olur2. Örnek 
+-2Koordinat doğrusunda A(-3) ve B(17) noktaları veriliyor. A ile B arasında olan ve  
+BA=
+ koşulunu sağlayan C noktasının koordinatını bulunuzÇözüŞekilde |AC| = k olduğunda 
+|CB| = 4k ve |AB| = 5k olurk  + 4k = 5k = 17 - (-3)
+5k = 20 ⇒ k = 4 olur 
+ 
+ 
+ 
+          c = (-3) + k ⇒ c = (-3) + 4 = 1 olur3. Örnek 
+-4 Analitik düzlemde A(3, b+2) noktasının eksenlere olan uzaklıkları toplamı 7 birim 
+olduğuna göre b nin alabileceği değerler toplamını bulunuzÇözüm 
+ 
+ 
+     
+b nin alabileceği değere görb + 2 < 0 veya b + 2 > 0 olur. A noktası 1. veya 4. bölgede olabilir. Buna görb + 2 nin x eksenine uzaklığı  |b + 2| birim,
+3 ün y eksenine uzaklığı 3 birim olur. 
+|b + 2| + 3 = 7 ⇒ |b + 2| = b + 2 = 4 
+veya  
+b + 2 = -b = 2  
+veya 
+b = -b nin alabileceği değerler toplamı 2 + (-6) = -4 olurBu noktalar yandaki şekilde gösterilmiştir5. Örnek 
+Yandaki şekilde A(2, 1), B(-2, 1), C(-2, -1) ve D(2, -1) 
+noktaları analitik düzlemde birleştirildiğinde ABCD 
+dikdörtgenini oluşturur. Bu dikdörtgenin köşeleri 4 ayrı 
+bölgede olduğu için koordinatların işaretleri bölgelere 
+göre değişim gösterirAnalitik DüzleBir düzlemde başlangıç noktaları aynı olan ve dik kesişen iki 
+koordinat doğrusunun oluşturduğu sistemkoordinat sistemi denirYatay eksen x ile, düşey eksen y ile gösterilir. 
+O noktası koordinat eksenlerinin kesim noktasıdır vbu noktaya başlangıç noktası veya orijin denirÜzerinde dik koordinat sistemi tanımlanmış düzlemanalitik düzlem denir. Koordinat sistemi analitik düzlemi 
+4 bölgeye ayırır. Eksenler bölgelere dâhil değildirYandaki şekilde koordinatları (x, y) olan A noktası 
+gösterilmiştir. A(x, y) ifadesindeki x,  A noktasının apsisi; 
+y, A noktasının ordinatıdırA(x,y)
+1. Bölg4. Bölg2. Bölg3. BölgA(x, y) noktas1. bölgede ise   x > 0, y > 0 (+, +) olur.  
+2. bölgede ise  x < 0, y > 0 (-, +) olur. 
+ 
+3. bölgede ise  x < 0, y < 0 (-, -) olur.  
+4. bölgede ise  x > 0, y < 0 (+, -) olurHatırlatmA(a - 2, b - 1) noktası analitik düzlemin 1. bölgesinde olduğuna göre a ve b nin alabileceği 
+en küçük tam sayı değerlerinin çarpımını bulunuzÇözüA(a - 2, b - 1)  1. bölgede olduğuna göre a - 2 > 0 ve b - 1 > 0 olura > 2 ve b > 1 için a = 3 ve b = 2 olur. 
+a.b = 3.2 = 6 elde edilir4. Örnek 
+--A(3, 4)
+A'(3, -4)
+G(-4, 1), H(3, 2), K(-6, -5) ve L(5, -5) noktalarını analitik düzlemde gösterinizÇözü7. Örnek 
+Birimkarelere ayrılmış yandaki analitik 
+düzlemda) A, B, C, D, E, O ve F noktalarının koordinatlarını 
+yazınızb) B ile E, D ile C, O ile B arasındaki uzaklıkların kaç 
+birim olduğunu bulunuzÇözüa) Analitik düzlemde koordinatlar yazılırken önce x değeri, sonra y değeri yazılırA(-5, 2), B(-4, -3), C(3, -2), D(3, 4), E(0, -3), F(5, 0) ve O(0, 0) olurb) B ile E noktaları yatay eksende aynı hizadadır. Dolayısıyla y değerleri eşittir. 
+B(-4, -3) ve E(0, -3) olduğuna göre |BE| = |-4 -0| = 4 birimdirD ile C noktaları düşey eksende aynı hizadadır. Dolayısıyla x değerleri eşittirD(3, 4) ve C(3, -2) olduğuna göre |DC| = |4 - (-2)| = 6 birimdirO ile B noktaları arasındaki uzaklık, noktalar yatay veya düşey eksende aynı hizada 
+olmadığından bu yöntemle bulunamazYandaki şekilde BAO dik üçgeninde Pisagor teoremi 
+uygulandığında 
+|PB|2 + |PO|2 = |OB|2  ⇒ 32 + 42 = |OB| 
+ 
+ 
+ ⇒ |OB| = 5 birim olur6. Örnek 
+B(-4, -3)
+--K(-6, -5)
+L(5, -5)
+G(-4, 1)
+H(3, 2)
+--- Yandaki analitik düzlemde ABCD ikizkenar yamuk, 
+[DC] ⁄⁄ [AB], |AD| = |DC| = |BC|, A(-2, 0), B(6, 0) 
+olduğuna göre ABCD yamuğunun alanını bulunuzÇözüm 
+ 
+ 
+ 
+ 
+Yandaki analitik düzlemde ABCD ikizkenar 
+yamuğunun C köşesinden bir yükseklik çizildiğinde 
+|AO| = |EB| olur AOD üçgeninde Pisagor teoremi uygulandığınd|DO|2 + 22 = |DO|2 = 16 - 4 = 12 
+|DO| = 2 3  birim olur. Burada A(ABCD) = 
+8 2 12 +
+=
+ birimkare olur9. Örnek 
+Yandaki analitik düzlemde ABC eşkenar üçgen,
+|OB| = 3|OA| ve |OD| = 3  birim olduğuna göre ABC 
+üçgeninin alanının kaç birimkare olduğunu bulunuz. 
+Çözüm 
+ 
+            
+Yandaki analitik düzlemde |OD| = 3 birim olduğundan    
+AOD özel üçgeninde |AO| = 1 birimdir. |OB| = 3|OA| 
+olduğundan |AB| = 4 birim olur. 
+Bir kenar uzunluğu a birim olan eşkenar üçgenin alan(
+)
+A AB=
+&
+ olduğundan 
+(
+)
+A AB4 =
+=
+&
+ birimkare olur8. Örnek 
+A(-2, 0)
+B(6, 0)
+A(-2, 0)
+B(6, 0)
+60°
+30°
+• Bir kenar uzunluğu a birim olan 
+      ABC eşkenar üçgeninin alanı 
+(
+)
+A AB=
+&
+  birimkare olur• Taban uzunlukları a birim ve c birim, yüksekliği h birim olan 
+      ABCD yamuğunun alanı 
+(
+)
+(
+)
+A ABCc =
++
+ birimkare olurHatırlatmYandaki analitik düzlemde 
+ABCD dikdörtgen, |OA| = 1 birim, 
+|OB| = 2 birim ve |AD| = 3|AB| olduğuna göre C noktasının 
+koordinatları toplamını bulunuzSıra SizdŞekildeki ABC dik üçgeni 3 birim sola 
+ötelendiğinde elde edilen A'B'C' üçgeninin A'C' 
+kenarının y eksenini kestiği noktanın ordinatının 
+kaç olacağını bulunuzÇözüm 
+ 
+ 
+ 
+Verilen ABC dik üçgeni 3 birim sola 
+ötelendiğinde A'(-3, 3), B'(-4, 0) olurA' noktasının apsisi -3 olduğundan 
+|O'O | = 3 birim ve |B'O'| = 1 birim olur|OC'| = a olsunA'B'C' dik üçgeninde Öklid teoremi uygulandığında 
+|A'O'|2 = |B'O'|.|O'C'| 
+        32 = 1.(a + 3) ⇒ a = 6 birim olurA'O'C' üçgeniyle DOC' üçgeni benzerdir (A.A. benzerliği). Benzerlik oranı yazıldığınd= O⇒ |OD| = 2 birim olur. Buradan D noktasının ordinatı 2 olur10. Örnek 
+A(0, 3)
+B(-1, 0)
+⟓
+⟓
+B'(-4, 0)
+A'(-3, 3)
+O'
+C'
+Yandaki şekilde [OB] kenarı x ekseni üzerinde olan 
+AOB dik üçgeni veriliyor. [OA]⊥[BA] ve A(4, 6) 
+olduğuna göre AB uzunluğunu bulunuzÇözüm 
+Şekildeki AOB üçgeninde A köşesinden x eksenine 
+çizilen yüksekliğin uzunluğu |AH| ve |HB| = a olsun. 
+AOB üçgeninde Öklid teoremi uygulandığında 
+|AH|2 = 62 = 4.a ⇒ a = 9 birim olurABH üçgeninde Pisagor teoremi uygulandığınd|AB|2 = 62 + 92 ⇒ |AB| = 3 =
+ birim olur11. Örnek 
+A(4, 6)
+A(4, 6)
+a = H(4, 0)
+ 2.1.1.  Analitik Düzlemde İki Nokta Arasındaki UzaklıAnalitik düzlemde A(1, 2), B(7, 10) noktaları arasındaki uzaklığın kaç birim olduğunbulunuzÇözü&
+(
+)
+(
+)
+AA=
+-
++

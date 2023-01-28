@@ -1,0 +1,400 @@
+)
+= -
+-
+- -
+= -
+= -   olur. 
+Eğimi ve bir noktası bilinen doğrunun denkleminden hareketle A ve B noktalarından geçen 
+doğrunun denklemi 
+y  - (-1) = -2.(x  - 0) ⇒ y = -2x - 1 olarak bulunur34. Örnek 
+Analitik düzlemde bir d doğrusunun A(1, 3), B(2, 5) ve C(x, y) noktalarından geçtiği 
+bilinmektedir. Buna göre C noktasının koordinatları arasındaki bağıntıyı ax + by + c = 0 
+şeklinde bulunuzÇözüEğim, A ve B noktaları ile =
+AB =
+-
+-
+C ve B noktaları ile C-
+-
+=
+ olarak yazılırBu noktalar aynı doğru üzerinde olduğundan AC=
+ olur. Buradan 
+x ve y arasındaki bağıntı 
+=
+-
+-
+ ⇒ y - 5 = 2x -                      
+ 
+ 
+          ⇒ y = 2x + 1   
+                                                               ⇒ 2x - y + 1 = 0   şeklinde bulunur33. Örnek 
+C(x, y)
+A(1, 3)
+B(2, 5)
+Analitik düzlemde denklemi y = (a - 2)x + 1 olan doğrunun eğim açısı 45°olduğuna göre 
+a değerini bulunuzÇözüy = m.x + n doğrusunun eğimi m ye eşittir. Buradam = tan45° = 1 ve m = a - 2 olduğundaa - 2 = 1  ⇒ a = 3 olur32. Örnek 
+ Analitik düzlemde denklemi d: ax - 2y + 1 = 0 olan doğrunun A(1, 2) noktasından geçtiği 
+bilindiğine göre a değerini bulunuzÇözüA noktası, doğrunun üzerinde olduğundan doğru 
+denklemini sağlar. O hâlde 
+a.1 - 2.2 + 1 = 0 ⇒ a - 4 + 1 = 0 
+         
+ 
+            
+ 
+           ⇒ a - 3 = 0 ⇒  a = 3 olur36. Örnek 
+A(1, 2)
+2x - ay + 8 = 0 doğrusunun y eksenini kestiği noktanın ordinatı 2 olduğuna göre a değerini 
+bulunuzSıra SizdYandaki analitik düzlemde A(a, 0) ve B(0, b) noktalarından geçen 
+doğrunun denklemini bulunuzÇözüA(a, 0) ve B(0, b) noktalarından geçen doğrunun eğimi 
+=
+-
+-
+= -
+ olurEğimi ve bir noktası bilinen doğrunun denklemi 
+y - y1 = m.(x  - x1) olur. 
+.(
+)
+ababaa&
+&
+-
+= -
+-
+=-
++
++
+=
+ 
+eşitliğinin her iki tarafı ab ile bölündüğünde 
+A(a, 0) ve B(0, b) noktalarından geçen doğrunun denklemi +
+=
+  olarak bulunur. 
+35. Örnek 
+Yandaki şekilde d doğrusu OABC dikdörtgeninin 
+B köşesinden geçmektedir|AB| = 2|OA|, D(2, 0) ve E(0, 3) olduğuna göre 
+OABC dikdörtgeninin kaç birimkare olduğunu bulunuzÇözüm  
+d doğrusunun denklemi 
+olu+
+=
+ 
+|AB| = 2|OA| = 2a olsun. Bu durumd|AB| = 2a, |OA| = a ve B(a, 2a) olurB(a, 2a) noktası, doğru üzerindedir ve doğru denklemini 
+sağlar. Burada&
+(
+)
+olur O h ldA OABbirimkare olu$
++
+=
+=
+=
+=
+=
+=
+38. Örnek 
+Yandaki şekilde ABCD bir kare, D(3, 5) ve |AK| = 2|KD| 
+olduğuna göre d doğrusunun denklemini bulunuz              ÇözüŞekildeki ABCD karesinin bir kenarı |AD| = 3 birim olur. 
+Buradan A(0, 5)  ve |AK| = 2|KD| olduğundan K(2, 5) olurB(0, 2) ve K(2, 5) noktalarından geçen doğrunun eğim=
+-
+-
+=
+ olur. 
+Eğimi ve bir noktası bilinen doğrunun denkleminden 
+hareketle d doğrusunun denklemi 
+(
+)
+olu0 &
+&
+-
+=
+-
+-
+=
+-
++
+=
+ 
+37. Örnek 
+D(3, 5)
+A(0, 5)
+B(0, 2)
+D(3, 5)
+B(a, 2a)
+2E(0, 3)
+D(2, 0)
+E(0, 3)
+D(2, 0)
+1. Aşağıda eğim açıları verilen doğruların varsa 
+eğimlerini bulunuza) α = 45°      
+b) α = 120°     
+c) α = 135°    
+ç) α = 90°     
+d) α = 0°       
+2. Aşağıda iki noktası verilen doğruların 
+eğimlerini bulunuza) A(1, 4), B(-2, 3)   
+b) A(2, 3), C(0, 1)        
+c) A(-1, 3), D(2, 5)  
+ç) A(-2, -3), E(-5, 2)  
+3. Aşağıda eğimleri ve bir noktası verilen 
+doğruların denklemlerini yazınız.                                                                                                                                       
+a) A(1, 2), m = 3   
+b) B(-2, 3), m = -1     
+c) 
+,
+C -
+l, m = 2      
+ç) D(-3, -5), m = 1   
+4. Aşağıda bir noktası ve eğim açısı verilen 
+doğruların denklemlerini yazınıza) A(0, 2), α = 120°       
+b) B(
+5 , 3), α = 0°           
+c) C(-1, 4), α = 45°        
+ 
+ 
+5. Yanda grafiği verilen 
+d doğrusunun denklemini 
+yazınız. 
+6. Aşağıda iki noktası verilen doğruların 
+denklemlerini yazınıza) A(3, 5), B(-1, 4)       
+b) C(-2, 4), D(1, 3)        
+c) E(-1, -3), F(2, 0)      
+ç) G(3, -2), H(-1, 4)       
+135°
+AlıştırmalaA(3, 2) noktasından geçen ve x eksenine paralel olan doğrunun denklemini bulunuzÇözü1. Yox eksenine paralel olan bir doğru x eksenini kesmez. Doğrunun eğim açısı α = 0° ve 
+eğimi  m = tanα = tan0° = 0 olurm = 0 olan ve A(3, 2) noktasından geçen doğrunun denklemy - y1 = m.(x - x1)  formülündey - 2 = 0.(x - 3) ⇒ y = 2  şeklinde elde edilir2. YoYandaki şekilde görüldüğü gibi d doğrusu üzerindeki 
+herhangi (x, y) noktası (x, 2) biçimindedirBu doğrunun denklemi y = 2 olur39. Örnek 
+Eksenlere Paralel Doğru Denklemler1. x Eksenine Paralel Doğru DenklemlerA(a, b) noktasından geçen ve x eksenine paralel olan 
+doğrunun denklemi y - b = m.(x - a) olurx eksenine paralel doğruların eğimi m = 0 olduğundab olu&
+&
+-
+=
+-
+-
+=
+=
+]
+A(a, b)
+A(a, b) noktasından geçen ve x eksenine paralel doğru denklemleri b ∈ ℝ olmak üzere 
+y = b biçimindedir. Bu doğruların bazıları aşağıdaki gibidiry = -y = y = -A(3, 2)
+ Eğim açısının ölçüsü 45° olan ve orijinden geçen doğrunun denklemini bulunuzÇözüm = tan45° = 1 değeri y = mx denkleminde yerine yazıldığında 
+denklem y = x  olarak bulunur41. Örnek 
+A(3, 2) noktasından geçen ve y eksenine paralel olan 
+doğrunun denklemini bulunuzÇözüDoğru, analitik düzlemde y eksenine paralel olduğundan 
+yandaki gibi çizilirDoğrunun denklemi x = 3 olur40. Örnek 
+3. Başlangıç Noktasından (Orijin) Geçen Doğruların Denklemler         O(0, 0) noktasından geçen ve eğimi m olan doğru denklem         
+&
+m $
+$
+-
+=
+-
+=
+]
+olurx = 2. y Eksenine Paralel Doğruların DenklemlerA(c, d) noktasından geçen ve y eksenine paralel olan bir doğrunun 
+denklemi y - d = m.(x - c) olur. Buradaeğim m = -
+-
+  olurm = tan90° olduğundan doğrunun eğimi tanımsızdır. m tanımsız olduğu 
+için x - c = 0 olur. Buradan  x = c olarak bulunurA(c, d) noktasından geçen ve y eksenine paralel doğruların denklemleri c ∈ ℝ olmak üzere x = c 
+olur. Bu doğruların bazıları aşağıdaki gibidir- x = -x = x = 45°
+y = A(c, d)
+3x - 2y - m + 2 = 0 doğrusu orijinden geçtiğine göre m değerini bulunuzSıra Sizdy = -ax doğrusu A(-1, 2) ve B(3, b) noktalarından geçtiğine göre b değerini bulunuzSıra SizdA(k, 3k) ve B(4k, 12k) noktalarından ve orijinden geçen doğrunun denklemini bulunuzÇözüm eğim olmak üzere orijinden geçen doğrunun denklemi y = mx biçimindedir. O hâld&
+-
+-
+=
+=
+=
+ olarak bulunur. Buradan y = 3x olur. 
+42. Örnek 
+(k - 2)x + 3y + 5 = 0 doğrusu x eksenine paralel olduğuna göre k değerini bulunuzÇözüx eksenine paralel olduğuna göre doğrunun eğim açısı ve eğimi sıfırdır. 
+ax + by + c = 0 doğrusunun eğimi =-
+ olduğunda&
+=-
+-
+=
+=
+ bulunur43. Örnek 
+-2x - ky - y + 1 = 0 doğrusu y eksenine paralel olduğuna göre k değerini bulunuzÇözüy eksenine paralel olduğuna göre doğrunun eğim açısı 90° olup eğimi tanımsızdır. 
+Denklem -2x - y(k + 1) + 1 = 0 şeklinde düzenlendiğinde 
+(
+)
+=- -
++
+-
+ olur. 
+Eğim tanımsız olduğundan k + 1 = 0 ⇒ k = -1 olu44. Örnek 
+ Bir Doğrunun GrafiğAşağıdaki şekilde gösterildiği gibi analitik düzlemde alınan herhangi bir A noktasından sonsuz  
+sayıda doğru geçer. Analitik düzlemde alınan herhangi iki noktadan sadece bir doğru geçerBir doğrunun grafiğini çizebilmek için doğrunun üzerindeki iki noktayı bilmek yeterlidir. 
+İşlemlerin daha kolay olabilmesi için bu noktalar doğrunun x ve y eksenlerini kestiği yerlerden 
+seçilebilir x, y, a, b, c ∈ ℝ olmak  üzere ax + by +  c = 0 doğrusu eksenler x = 0 için =-
+ v y = 0 için =-
+ noktalarında keser. Doğru grafiği ve doğrunun eğimi aşağıdaki gibidir. 
+AB doğrusunun eğim açısı α ve m BA��
+=
+^
+\
+ olsun°
+°
+&
+�
+�
+�
+�
++
+=
+=
+-
+ olur. Buradatatatatata180°
+&
+�
+�
+�
+�
+�
+=
+-
+= -
+=
+= -
+=-
+-
+-
+= -
+^
+ax + by +  c = 0 doğrularının eğimi =-
+ olur4x + 3y - 12 = 0 doğrusunun eksenlerle oluşturduğu kapalı bölgenin alanının kaç birimkare 
+olduğunu bulunuzÇözü4x + 3y - 12 = 0 denklemindx = 0 yazılarak doğrunun y eksenini kestiği nokta 3y - 12 = 0 ⇒ y = 4 vy = 0 yazılarak doğrunun x eksenini kestiği nokta 4x - 12 = 0 ⇒ x = 3 olarak bulunur. 
+O hâlde yandaki şekilde  oluşan kapalı bölgenin alanı 
+(
+)
+A AObirimkare olu3 $
+=
+=
+&
+45. Örnek 
+  -
+-
+d1: y = 2x, d2: y = 2x + 3 ve d3: y = 2x - 3 doğrularının grafiklerini aynı koordinat sisteminde 
+çizinizÇözüm  
+Doğru üzerindeki herhangi iki noktanın koordinatları bulunarak doğruların grafikleri 
+aşağıdaki gibi çizilir 
+ 
+ 
+ 
+ 
+ 
+ 
+        
+1.  y = 2x  ise    x = 0 için y = 0,
+ 
+                x = 1 için y = 2 olur. 
+ 
+ 
+       
+2.  y = 2x + 3 ise   x = 0 için y = 3,
+  
+                   x = -1 için y = 1 olur.  
+ 
+         
+3.  y = 2x - 3  ise x = 0 için y = -3,
+ 
+                   x = 2 için y = 1 olur46. Örnek 
+d1: x + 2y - 6 = 0 doğrusuna dik olan ve A(1, 4) noktasından geçen d2 doğrusunun grafiğini 
+çizinizÇözüd1 doğrusunun eğimi m1 ve d2 doğrusunun eğimi m2  olsunBu durumda 
+&
+=-
+=-
+ olurm1.m2 = -1 olduğundan m2 = 2 olurA(1, 4) noktasından geçen ve eğimi 2 olan doğrunun 
+denklemi y - 4 = 2.(x - 1) ⇒ y = 2x + 2 olurx = 0 için y = 2 vy = 0 için x = -1  değerleri bulunurBulunan bu değerler için grafik yandaki gibi çizilir47. Örnek 
+-d- d d d-Eğimleri eşit olan doğrular birbirine paraleldir. 
+Birbirine paralel doğruların eğimleri eşittirSonuç                   
+ a, b, c, d sürgülerini oluşturunuz. a, b, d sürgülerinin minimum değerini –5, maksimum 
+değerini 5, artış değerini 1 yapınızc sürgüsünün minimum değerini –5, maksimum değerini 5, artış değerini 0.1 yapınızGirişe ax+b yazarak Enter tuşuna basınız. 
+Girişe cx+d yazarak Enter tuşuna basınızSürgüleri a = 2, b = 1, c = 1, d = 3 konumuna getirdiğinizde ekranda f(x) = 2x + 1 ve 
+g(x) = 1x + 3 doğrularının grafikleri görülecektir. Kesiştir ikonu, ardından iki doğrunun 
+grafikleri tıklandığında iki doğrunun kesiştiği nokta (A) görülecektir. İki doğrunun 
+denklemlerinin ortak çözüm kümesi bulunduğunda doğruların kesişim noktası ile ortak 
+çözüm kümesinin aynı olduğu görülür. Sürgüleri a = 2, b = 3, c = 2, d = –4 konumuna 
+getirdiğinizde ekranda f(x) = 2x + 3 ve g(x) = 2x – 4 doğrularının grafikleri görülecektirEğim ikonuna, ardından doğruların üzerine tıklandığında doğruların eğimleri a1 = 2, a2 = 2 
+olarak görülecektir. Eğimleri eşit olduğundan doğrular birbirine paraleldir. 
+2. Uygulama: İki Doğrunun Birbirine Göre Durumları 
+d1 ve d2 doğruları sadece bir A noktasında kesiştiğindd1∩d2 = {A}  olur.  
+İki Doğrunun Birbirine Göre Durumlar:
+:
+d a b ve d a b +
++
+=
++
++
+=
+ doğruları verilsinBu iki doğru birbirine göre üç durumda incelenecektir1. d1 ve d2 doğruları sadece bir A noktasında kesişebilir. 
+d1 doğrusunun eğimi m1 ve d2 doğrusunun eğimi m2 olsunBu durumda  m1 ≠ m2 olmalıdırve i iolu!
+!
+=-
+=-
+-
+-
+ddSürgüleri a = 2, b = 3, c = -0.5, d = -4 konumuna getirdiğinizde ekranda f(x) = 2x + 3 ve 
+g(x) = -0.5x - 4 doğrularının grafikleri görülecektirDoğruların eğimleri a1 = 2 ve a2 = -0.5 olarak görülür. Eğimlerin çarpımının -1 olduğuna 
+dikkat ediniz. Nokta ikonuna tıklayarak A, B, C noktalarını oluşturunuz. Açı ikonuna, 
+ardından sırasıyla C, A, B noktalarına tıklandığında iki doğru arasındaki açının 90° olduğu 
+görülecektir. Eğimleri çarpımı -1 olan doğrular dik kesişir. Dik kesişen doğruların eğimleri 
+çarpımı -1 olur 3. d1 ve d2 doğruları çakışık olabilirÇakışık doğrular bir doğrunun farklı şekillerde 
+adlandırılmasıyla oluşan doğrulardır. Bu doğruların 
+eğimleri  ve eksenleri kestiği noktalar aynı olurO hâlde  =
+=
+ olurd1 ve d2 doğruları çakışık olduğundd1∩d2 = d1 = d2 olur. 
+ddd1 = d2x + ay - 1 = 0  ve -4x + 2y - 3 = 0 doğrularının ortak noktasının olmaması için a nın 
+alacağı değeri bulunuzÇözüVerilen iki doğrunun ortak noktasının olmaması için bu doğrular birbirine paralel  
+olmalıdır. Bu durumd&
+&
+olu'
+!
+-
+=
+-
+-
+=-
+48. Örnek 
+2. d1 ve d2 doğruları birbirine paralel olabilir. 
+Bu durumda  m1 = m2 olurolu-
+=-
+=
+d1 ve d2 doğruları eksenleri farklı noktalarda kestiği içi!
+=
+ olmalıdırVerilen iki doğru d1//d2 olduğunda d1∩d2 = {  }  olur. 
+d1: 2x - ay + 4 = 0, d2: x + 4y - 5 = 0 ve d3: 3x - 6y + 7 = 0 doğrularının kesim noktasını 
+köşe kabul eden üçgenin bir dik üçgen olduğu bilindiğine göre a sayısının alabileceği 
+değerler çarpımını bulunuz. 
+Çözüax + by + c = 0 doğrusunun eğimi =-
+ olduğunda 
+olu=- -
+=
+=-
+=- -
+=
+m2.m3 ≠ -1 olduğundan bu iki doğru birbirine dik olamaz. O hâlde 
+d1⊥d2 veya d1⊥d3 olmak zorundadır. 
+d1⊥d2  ise m1.m2 = -1 olduğundan 
+&
+-
+=-
+=
+ olurd1⊥d3 ise m1.m3 = -1 olduğundan 
+&
+=-
+=-  olur. Buradaa nın alabileceği değerler çarpımı 
+.(
+)
+-
+=-
+ olarak bulunur51. Örnek 
+ax + 3y + 1 = 0  ve 6x + by + 3 = 0 doğruları çakışık olduğuna göre a + b değerini bulunuzÇözüİki doğru çakışık olduğundan =
+=
+ olur. Burada&
+&
+ve olu=
+=
+=
+=
+O hâlde a + b = 2 + 9 = 11 olur49. Örnek 
+x + 2y - 4 = 0  ve  2x + y + 1 = 0 doğrularının kesim noktasını bulunuzÇözüDoğruların  kesim noktasını bulmak için ortak çözüm yapılır. 
+-2/x + 2y - 4 = 0 
+ 
+Bulunan y değeri x + 2y - 4 = 0 denklemind     2x + y + 1 = 0 
+ 

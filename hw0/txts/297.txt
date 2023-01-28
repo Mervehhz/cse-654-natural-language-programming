@@ -1,0 +1,400 @@
+,
+3 -
+^
+h olan çember A noktasında x eksenine teğettir. Bu çemberin standart denklemini 
+bulunuzM=
+ olup =
+ birim bulunur. 
+Merkezi 
+,
+3 -
+^
+h ve yarıçap uzunluğu r birim olan bir çembe  =
+ birim olan çemberin standart denklem&
+bulunu- -
++
+-
+=
++
++
+-
+=
+^
+]
+^
+]
+^
+gÖRNEÇÖZÜ-
+Matematik Merkezi 
+-
+-
+=
+ doğrusu üzerinde bulunan ve her iki eksene de IV. bölgede teğet olan 
+çemberin standart denklemini bulunuzIV. bölgede eksenlere teğet olan r yarıçaplı çemberin merkez 
+,
+M -
+^
+h noktasıdır. Bu nokta -
+-
+=
+ doğrusu 
+üzerinde olduğundan doğrunun denklemini sağlar-
+-
+=
+ doğru denkleminde x yerine r ve y yerine 
+-  
+yazılırs&
+olu-
+-
+=
+- -
+-
+=
+-
+=
+=
+]
+Bu durumda çemberin standart denklemi 
+-
++
++
+=
+]
+^
+ olduğundan -
++
++
+=
+^
+^
+ 
+bulunurMerkezi x ekseni üzerinde olan ve x eksenini 
+,
+,
+ve 3 5 -
+^
+^
+h noktalarında kesen çemberin 
+standart denklemini bulunuzA@ çemberin çapı olduğundan A@ nın orta  noktası 
+çemberin merkezidir. Buna göre 
+çemberin merkezi M ise     
+   
+    
+     
+            
+  
+,
+,
+olu1 -
++
++
+=
+^
+Çemberin çapı A? is            
+AAObirim olu=
++
+=
++
+=
+ 
+&
+olarak bulunu-
++
+-
+=
+-
++
+=
+]
+^
+]
+Çemberin çapı 8 birim olduğundan yarıçap uzunluğu 4 birimdir. Bu durumda çemberin standart 
+denklemÖRNEÖRNEÇÖZÜÇÖZÜ,
+-
+-
+=
+Analitik GeometrHATIRLATMÖRNEÖRNEYanda verilen çember 
+,
+,
+,
+,
+ve 4 0 0 ^
+^
+^
+h 
+noktalarından geçtiğine göre bu çemberin standart 
+denklemini bulunuz,
+m BO=
+^
+%
+ olduğundan A? çaptır. M, A? nın orta 
+noktası olduğundan 
+,
+,
+olu2 +
++
+=
+^
+Abirimdi2 =
+-
++
+-
+=
++
+=
+=
+]
+]
+A? çap olduğundan çemberin yarıçap uzunluğu 
+Abirim bulunu2 =
+=
+=
+Bu durumda çemberin standart denklemi -
++
+-
+=
+]
+^
+ olarak elde edilirYandaki şekilde merkezi 
+,
+M -
+^
+h olan çember 
++
++
+=
+ doğrusuna H noktasında teğettir. 
+Buna göre bu çemberin standart denklemini bulunu,
+Yandaki şekilde de görüldüğü gibi çemberin yarıçap uzunluğ, merkezinin teğet doğrusuna olan uzaklığına eşittir. O 
+hâlde 
+,
+M -
+^
+h noktasının +
++
+=
+ doğrusuna olan 
+uzaklığı yarıçapa eşittir,
+,
+Şekilde 
+,
+,
+ve 4 0 ^
+^
+h noktaları birleştirilerek A? çizilir,
+^
+h noktasının ab+
++
+=
+ doğrusuna olan uzaklığı a b $
+$
+=
++
++
++
+ olurÇÖZÜÇÖZÜMatematik Bu durumda yarıçap uzunluğMbirim olu3 $
+$
+=
+=
++
++
+-
++
+=
+=
+]
+Merkezi 
+,
+M -
+^
+h ve yarıçap uzunluğu 2 birim olan çemberin standart denklem&
+olarak elde edili-
++
+- -
+=
+-
++
++
+=
+]
+^
+]
+]
+^
+gÇemberin Genel DenklemMerkezi 
+,
+M a ^
+h ve yarıçap uzunluğu r birim olan çemberin standart denklemi 
+ 
+-
++
+-
+=
+]
+^
+şeklindedir. Bu denklem düzenlenere 
+abolu+
+-
+-
++
++
+-
+=
+            
+,
+E ve -
+=
+-
+=
++
+-
+=
+ alınırsa  
+ 
+DE+
++
++
++
+=
+denklemi elde edilir. Bu denkleme çemberin genel denklemi denir&
+&
+=-
+=-
+=-
+=-
+`
+bbbbbbbb olduğundan çemberin merkezi 
+,
+-
+-
+l olurÇemberin yarıçapı 
+$
++
+-
+ ifadesi için aşağıdaki durumlar vardır$
+{
++
+-
+ ise verilen denklem bir çember belirtir$
+{
++
+-
+=
+ ise verilen denklem bir nokta belirtir. Bu nokta 
+,
+-
+-
+l dir$
+{
++
+-
+ ise verilen denklem gerçek sayılar kümesinde çember belirtmez&
+&
+&
+olu&
+&
+$
+$
+$
+$
+$
+$
++
+-
+=
+-
++ -
+-
+=
++
+-
+=
++
+-
+=
+=
++
+-
+=
++
+-
+Analitik GeometrÖRNEÖRNE+
++
+-
++
+=
+ denkleminde 
+,
+v=
+=-
+=
+ olduğunda        
+olu4 $
+$
++
+-
+=
++ -
+-
+=
++
+-
+=
+]
+ 
+$
++
+-
+ ifadesi pozitif olduğundan verilen denklem bir çember belirtirÇemberin merkez        
+,
+,
+,
+bulunu3 =
+-
+=
+-
+-
+-
+-
+-
+^
+]
+g Çemberin yarıçap uzunluğ        
+birim bulunu4 $
+$
+$
+$
+$
+$
+=
++
+-
+=
++ -
+-
+=
++
+-
+=
+=
+]
++
++
+-
++
+=
+ denkleminin bir çember belirtip belirtmeyeceğini, çember belirtiyorsa 
+merkezini ve yarıçap uzunluğunu bulunuz+
+-
++
++
+=
+ denkleminin bir çember belirtip belirtmediğini bulunuz+
+-
++
++
+=
+ denkleminde 
+,
+v=-
+=

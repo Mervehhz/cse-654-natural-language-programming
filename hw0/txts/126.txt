@@ -1,0 +1,400 @@
+-
+=
+-
+=
+=
+]
+$
+$
+= -
++
+= -
++
+=
+-
++
+= -
+= -
+]
+ olurİkinci Dereceden Denklemleİkinci Dereceden Denklemleb2 +
++
+=
+ denkleminin kökleri 
+,
+x ve x1 = ^
+h  olduğuna göre b gerçek sayısının kaç olduğun bulunuzb2 +
++
+=
+ denkleminin kökleri v ise 1 $
+=
+olur. Bu eşitlikte x1  yerine x^
+h  yazılırsolu&
+&
+$
+=
+=
+=
+^
+^
+Bulunan 2 =
+ değeri b2 +
++
+=
+ denkleminin bir kökü olup bu denklemi sağlayacağından x 
+yerine 3 yazılırsa 
+&
+&
+$
++
++
+=
+= -
+= -
+ olur!
+ olmak üzere 
+-
+-
+-
++
+-
+=
+]
+]
+ denkleminin kökleri v dir$
+$
++
+=
+ olduğuna göre m gerçek sayısının değerini bulunuz-
+-
+-
++
+-
+=
+]
+]
+ denkleminde                                                                
+1 +
+= -
+= -
+-
+-
+-
+=
+-
+-
+]
+ ve 1 $
+=
+=
+-
+-
+ değerleri $
+$
++
+=
+ eşitliğinde 
+yerine yazılırsolu&
+$
+$
+-
+-
+=
+-
+-
+-
+=
+-
+-
+=
+-
+=
+=
+]
+]
+2 +
++
+-
+=
+ denkleminin kökleri v dir.  1 -
+= -  olduğuna göre m gerçek sayısının 
+değerini bulunuz2 +
++
+-
+=
+ denkleminde 1 +
+=
+=
+= -
+-
+-
+ bulunur. 1 +
+= -  ve 
+-
+= -  
+denklemlerinin ortak çözümünde         
++
+= -
++
+-
+= -
+           
+                                                                                    
+                                                    
+olu&
+$
+-
++
+-
++
+-
+=
+-
++
+-
+=
+-
+=
+=
+]
+]
+ 
+&
+= -
+= -
+bulunup bu değer 2 +
++
+-
+=
+ denkleminde x yerine yazılırsİkinci Dereceden Denklemleİkinci Dereceden DenklemleKökleri Verilen İkinci Dereceden Denklemi Elde Etmm2 +
++
++
+=
+ denkleminin köklerinin ikişer fazlasının toplamı 7 olduğuna göre m gerçek sayısının 
+değerini bulunuzm+
++
++
+=
++
++
++
+=
+]
+ denkleminde 1 +
+=
+=
+= -
+-
+-
+-
++
+ bulunur. 
+v köklerinin ikişer fazlasının toplamı 7 ise  &
++
++
+=
++
++
+=
++
+=
++
+ olup 
+&
++
+=
+=
+= -
+-
+-
+ olurb, c, m, !
+ olmak üzere b2 -
++
+=
+ denkleminin bir kökü 2  ve m2 -
++
+=
+ denkleminin bir 
+kökü 3  tür. Bu iki denklemin diğer kökleri ortak olduğuna göre -
+ ifadesinin değerini bulunuzVerilen denklemlerin ortak kökü x1  olsunb2 -
++
+=
+ denkleminin kökler toplamı 
+(
+)
+1 +
+=
+-
+=
+-
+, m2 -
++
+=
+ denkleminin kökle toplamı 
+(
+)
+1 +
+=
+-
+=
+-
+ olur. Buradan 1 +
+=
+ denkleminin her iki tarafı 
+-
+^
+h ile çarpılıp 
+1 +
+=
+ denklemi ile taraf tarafa toplanırsm olu-
+=
+-
++
+=
++ -
+-
+= -
+, b,
+ve !
+!
+ olmak üzere ab2 +
++
+=
+ denkleminde eşitliğin her iki tarafı a  ile 
+bölünürse 
+a bb&
++
++
+=
++
++
+=
+ olur.   
+ve 1 $
+= -
++
+=
+]
+ değerleri bu denklemde yerine yazılırsa 
+b&
+$
+$
++
++
+=
+-
++
++
+=
+]
+ bulunur. Buradakökleri ve 2  olan ikinci dereceden bir bilinmeyenli denklem $
+$
+-
++
++
+=
+]
+ 
+biçiminde oluşturulur. 
+Bir başka ifadeyle kökleri v olan ikinci dereceden bir bilinmeyenli denklem yazılırken 
+sırasıyl• 
+ 
+=
++
+ değeri bulunur• 
+ x1 $
+=
+ değeri bulunur• 
+ Bulunan T ve Ç değeri T2 -
++
+=
+ denkleminde yerine yazılır. 
+Böylece ikinci dereceden bir bilinmeyenli denklem oluşturulmuş olurİkinci Dereceden Denklemleİkinci Dereceden Denklemle2 -
++
+=
+ denkleminin köklerinin ikişer eksiğini kök kabul eden ikinci dereceden bir bilinmeyenli 
+denklemi bulunuz2 -
++
+=
+ denkleminin kökleri v olsun. İstenilen denklemin kökleri ise ve 1 -
+-
+ dir. 
+Buradan bu denklemin kökler toplamı 
+=
+-
++
+-
+=
++
+-
+^ h, 
+kökler çarpımı 
+I$
+$
+$
+=
+-
+-
+=
+-
++
++
+^
+^
+^
+^
+h bulunur 2 -
++
+=
+ denkleminde ve 1 $
++
+=
+=
+-
+=
+=
+=
+=
+-
+- ]
+ olur. 
+Bu değerler (I) ve (II) numaralı  denklemlerde yerlerine yazılırsa =
++
+-
+=
+-
+=
+444  ve 
+$
+$
+=
+-
++
++
+=
+-
++
+=
+]
+4444 =
+ elde edilir. Buradan T ve Ç değerleri T2 -
++
+=
+ denklemide yerine yazılırsa &
+$
+-
++
+=
++
+=
+ ikinci dereceden bir bilinmeyenli denklemi elde edilirKökleri ve 1 =
+= -  olan ikinci dereceden bir bilinmeyenli denklemi bulunuzKökler toplamı T, kökler çarpımı Ç olmak üzer,
+bulunu1 $
+$
+=
++
+=
++ -
+=
+=
+=
+-

@@ -1,0 +1,400 @@
+]
+]
+]
+(1) ve (2) denklemleri ortak çözülürs:    a ve b pozitif gerçek sayılardır&
+olu-
+=
++
++
+=
+=
+=
+=
+&
+bulunu4 $
+=
++
+=
+li+
+-
++
++
+"-
+ ifadesinin değerini bulunuzlili+
+-
++
++
+=
+-
++
+-
+- -
++ -
++
+=
+"
+"
+-
+-
+]
+]
+]
+ belirsizlik durumu vardır$
+$
+-
++
++
+lililililibulunu2 $
+$
+$
+$
+$
+$
++
+-
++
++
+=
++
++
++
+=
++
+-
++
++
++
+=
++
++
+-
+=
+-
+= -
+-
+-
++
+=
+-
++
+=-
+"
+"
+"
+"
+"
+-
+-
+-
+-
+-
+]
+]
+]
+]
+]
+]
+]
+]
+]
+]
+ÇÖZÜÇÖZÜÖRNEÖRNEMatematik Yukarıda f ve g ]
+]
+g fonksiyonlarının grafikleri verilmiştir. Buna göre aşağıdaki limit değerlerini 
+bulunuz) lililif g f g $
+$
+=
+"
+"
+"
++
++
++
+3 $
+=
+=
+]
+]
+]
+]
+@
+)
+lililig f g f bulunu=
+=
+=
+"
+"
+"
+-
+-
+-
+]
+]
+]
+]
+=
+-
+2 $
+=
+-
+=
+2 $
+=
+-
+) lililif g g -
+"
+"
+"
+-
+-
+-
+]
+]
+]
+]
+;
+) lif g -
+"
+-
+]
+]
+;
+) lig f "
++
+]
+]
+) lim g f "
+-
+]
+]
+) lif g $
+"
++
+]
+]
+@
+) lig -
+"
+- ^
+]
+g) lililililig g g -
+=
+-
+=
+-
+=
+-
+-
+=
+- -
+=
+"
+"
+"
+"
+"
+-
+-
+-
+-
+-
+^
+]
+^
+^
+^
+^
+]
+) lif g +
+"
++ a ]
+]
+g) lililililif g f g f g +
+=
++
+=
++
+=
++
+=
+"
+"
+"
+"
+"
++
++
++
++
++
+a ]
+]
+]
+]
+]
+]
+gÇÖZÜÖRNE)
+lililililig f g f =
+=
+=
+=
+"
+"
+"
+"
+"
++
++
++
++
++
+]
+]
+]
+]
+ç)
+Türe+
++
+li" i 
+ifadesinin değerini bulunuzli+
+-
+"
+ 
+ifadesinin değerini bulunuza+
+-
++
+li=
+"  
+olduğuna göre a değerini bulunuza+
+- li=-
+"  
+olduğuna göre a nın b türünden eşitini 
+bulunuz-
++
+li=
+"  
+olduğuna göre a nın alabileceği değerler 
+toplamını bulunuz-
+,
+,
+f isis$
+=
++
+] *
+ 
+biçiminde tanımlanan f ] g fonksiyonu için 
+aşağıdaki limit değerlerini bulunuz)
+)
+)
+ç)
+)
+)
+lilililililif f f f f f "
+"
+"
+"
+"
+"
+-
+]
+]
+]
+]
+]
+]
+,
+,
+f abisabis#
+#
+=
++
++
+-
+-
+-
+,
+is] [
+\
+]]]]]
+]]]]]
+ 
+biçiminde tanımlanan f ] g fonksiyonunun 
+her x gerçek sayısı için limiti olduğuna göre 
++
+ toplamını bulunuzlim silim colim co=
+=
+=
+"
+"
+"
+ 
+ 
+ 
+        
+olduğuna göre a b $
+$
+ çarpımınının değerin bulunuzli-
+-
+"
+ 
+ifadesinin değerini bulunuzlisicolisico-
++
+"
+"
+r ]
+]
+g  
+ifadesinin değerini bulunuzlil-
+-
+"
+ 
+ifadesinin değerini bulunuzli-
+-
+-
++
+"
+-
+ 
+ifadesinin değerini bulunuz. 
+ AlıştırmalaMatematik li-
+-
+"
+ ifadesinin eşitini bulunuzYukarıda f ve g ]
+]
+g fonksiyonlarının grafikler verilmiştir. Buna göre aşağıdaki limit 
+değerlerini bulunuz)
+)
+)
+lililif g g -
+-
+-
++
+-
++
+-
+"
+"
+"
+-
+-
++
+- ^
+^
+^
+]
+]
+]
+]
+]
+]
+ggg,
+,
+,
+,
+f isisg isis$
+#
+#
+=
+-
++
+=

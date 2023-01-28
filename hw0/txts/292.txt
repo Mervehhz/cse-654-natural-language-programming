@@ -1,0 +1,400 @@
+]
+]
+^ ]
+]
+^ ]
+]
+gg4444444444 4444444444 4444444444 #
+#
+#
+#
+ÖRNEÇÖZÜMatematik =
++
++
+=
+-
++
+4 
+eğrilerinin kesim noktasını bulmak için 
+ortak çözüm yapılırsa 
+Yanda f =
++
++
+]  ve g =
+-
++
+] fonksiyonlarının grafikleri verilmiştir. Buna göre boyalı bölgeleri alanlarının toplamını bulunuzbirimkare bulunu=
+=
++
+=
++
++
++
++
++
+-
++
+-
++
+=
++
+9 9 9 -
++
+-
++
+g f df g ddddd3 3 3 3 $
+$
+$
+$
+$
+$
+$
+$
+=
++
+=
+-
++
+-
+=
+-
++
+-
+=
+-
++
++
+-
+-
+-
++
+-
+-
+-
+-
+-
+- -
+=
++
+-
+]
+^
+]
+]
+]
+^ ]
+]
+gg=
+=
+#
+#
+#
+#
+#
+#
+&
++
++
+=
+-
++
+=
+&
+olu=
+Boyalı bölgelerin alanları toplamı A olsunBu durumda =
++
+ olur. 
+ÖRNEÇÖZÜİntegraMühendis Özgür Bey evinin bahçesine şekildeki gibi 50 cm derinliğinde bir çocuk havuzu ve 150 cm 
+derinliğinde yetişkin yüzme havuzu yapmayı planlıyor. Özgür Bey havuzu koordinat sisteminde modelleyere havuzun bahçede kapladığı alanı ve alabileceği su miktarını hesaplamak istiyorÖzgür Bey havuzu grafikteki gibi  
+     
+f g =
+-
+-
+=-
++
++
+:
+:
+]
+]
+ 
+fonksiyonları ile koordinat sistemindeki 1 birimi 1 metre kabul ederek modelliyor. Özgür Beyin 
+hesabına göra) Çocuk havuzunun kaplayacağı alanın kaç m2 olacağını bulunuzb) Yetişkin havuzunun kaplayacağı alanın kaç m2 olacağını bulunuzc) Çocuk havuzunun kaç m3 su alacağını bulunuzç) Yetişkin havuzunun kaç m3 su alacağını bulunuz-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
++
++
+f g ddx d2 10 $
+$
+$
+$
+=
+-
+=
+-
+=
+=
+-
+-
+-
+=
+- -
+bulunu=
+-
+=
+^
+]
+]
+c ]
+]
+]
+gg =
+#
+#
+#
+a)
+Grafiğe göre çocuk havuzunun alanı A ve 
+yetişkin havuzunun alanı B ile ifade edilirsÖRNEÇÖZÜÇocuk 
+havuzYetişkin 
+havuzMatematik b)
+-
+-
+-
++
++
++
++
++
+-
++
++
+-
++
+-
+-
++
++
+g f ddx d2 10 2 10 $
+$
+$
+$
+=
+-
+=
+-
+=
+=
+= -
++
++
+-
+bulunu=
+-
+=
+^
+]
+]
+g=
+#
+#
+#
+Dik prizmaların hacimleri taban alanı ile yüksekliğinin çarpımın eşittir. Çocuk havuzu da bir dik prizma olduğunda Vç   çocuk havuzunun hacmi olmak üzerVç =  Taban alanı$Yüksekli 
+bulunu$
+=
+=
+Vy  yetişkin havuzunun hacmi olmak üzerVy =  Taban alanı$Yüksekli 
+bulunu$
+=
+=
+c)
+ç)
+Çocuk havuzYetişkin havuzİntegraYukarıda f =-
++
+-
+]  fonksiyonunu grafiği verilmiştirBuna göre grafikteki boyalı bölgelerin alanlarını toplamını bulunuzYukarıda f = ] g fonksiyonunun grafiği 
+verilmiştir. f ] g fonksiyonunun grafiği ile x 
+ekseni arasında kalan 
+,
+ve 3   bölgelerini alanları sırasıyla 4, 6 ve 3 birimkar olduğuna gör 
+f x df x d+
+]
+]
+#
+#
+ifadesinin değerini bulunuz.  
+Yukarıda f =
+-
++
+]  fonksiyonunun 
+grafiği verilmiştirBuna göre grafikteki boyalı bölgenin alanın bulunuzf =
++
++
+]   fonksiyonunun grafiği, 
+ve =-
+=
+  doğruları ile x ekseni arasınd kalan sınırlı bölgenin alanını bulunuzf =-
++
+-
+]  fonksiyonunun grafiğ, ve =-
+=
+  doğruları ile x ekseni 
+arasında kalan sınırlı bölgenin alanını bulunuf =
+-
+]  eğrisi ile eksenler arasında 
+koordinat sisteminin I. bölgesindeki sınırl bölgenin alanını bulunuz. 
+ 
+ 
+ AlıştırmalaYukarıda f = ] g parabolünün grafiği 
+verilmiştir. 
+Buna göre boyalı bölgelerin alanlarının 
+toplamı kaç birimkaredir?
+Matematik Yukarıd     f g =-
++
+-
+=-
++
+]
+]
+fonksiyonlarının grafikleri verilmiştir. Buna 
+göre grafikteki f ve g ]
+]
+g  fonksiyonlarını arasında kalan boyalı bölgenin alanını 
+bulunuzYukarıda 
+      f g =
+-
+=-
++
+-
+]
+]
+fonksiyonlarının grafikleri verilmiştir. Buna 
+göre grafikteki boyalı bölgelerin alanlarının 
+toplamını bulunuzYukarıda f = ] g fonksiyonunun grafiği 
+verilmiştir. Buna göre aşağıdaki integrallerin 
+değerini hesaplayınıza) 
+f x d-
+^ #
+   b) 
+f d-
+^ #
+  c) 
+f x d^ #
+g f d-
+]
+]
+@
+#
+ ifadesinin ve 2  
+türünden eşitini bulunuzYukarıda f ] g eğrisi ile g ] g doğrusunun 
+grafikleri verilmiştir. A1  ve A2  bulunduklar bölgelerin alanlarıdır. Buna göre 
+Yukarıda f = ] g fonksiyonunun grafiği 
+verilmiştir. Buna göre boyalı bölgelerin topla alanını veren integral ifadesini yazınızİntegrax dl]  ifadesine f ] g fonksiyonunun 
+............................ denirf x d] #
+ integraline f ] g fonksiyonunun 
+...................... integrali denir. 
+Bir integrali daha kolay bir integral hâline 
+getirerek almak için .............. ................... 
+yöntemi kullanılır. 
++
+d$#
+ integralini almak için 
+u =.................. dönüşümü yapılırdIx dIIx dIdx dVx d#
+#
+#
+#
+#
+#
+)
+)
+)
+)
+)
+)
+)
+)
++
+-
++
++
++
++
++
++
++
+IIIIIIIVVVIC) 6-11. açık uçlu soruları cevaplandırınızA) 1-4. sorularda boş bırakılan yerlere   
+     uygun  ifadeleri yazınızB) 5. soruda numaralar ile verilen ifadeleri        
+     harf ile verilen ifadelerle eşleştiriniz+
+-
+d$
++
+]
+#
+ 
+ifadesinin eşiti nedir?
+-
+d$#
+ 
+ifadesinin değeri nedir?
+x f x d$
+-
+l]
+]
+#
+ 
+ifadesinin eşiti nedir?
+1 -
+x d$ l#
+ 
+ifadesinin eşiti nedir?
+-
+-
+dd-
+#
+#
+ 
+ifadesinin eşiti nedir?
+Aşağıda numaralarla verilen belirsiz integralleri eşitlerini harf ile verilen sonuçlarla 
+eşleştirinizYukarıda f =
+-
++
+]  fonksiyonunu grafiği, ve =
+=
+ doğruları ile  
+x ekseni arasında kalan boyalı bölgenin 
+alanı kaç birimkaredir?
+Ölçme ve Değerlendirme Matematik x d=
++
+#
+ 
+olduğuna göre a kaçtır?
+)
+)
+)
+)
+)
+-
+-
+-
+f d=
+]
+#
+ 
+olduğuna göre l] g fonksiyonu aşağıdakilerde hangisidir?
+)
+)
+)
+)
+A C D -
+-

@@ -1,0 +1,400 @@
+=
+=
+=
+=
+%
+%
+%
+%
+%
+(Ters açılar)
+(İç ters açılar)
+(İç ters açılar)
+ABC üçgenindİki üçgenin karşılıklı açı ölçüleri eşit olduğundan bu iki üçgen benzerdirABEDC oluEADBEAk olu+
+=
+=
+=
+&
+&
+4 ·
+·
+=
+DBEAcm bulunu 
+&
+=
+=
+=
+=
+BA@
+@ = {C}
+cMatematik I2. BölüÜçgenle6. 
+3 
+2 
+ACD bir üçgeABBAECccccc=
+=
+=
+=
+=
+=
+Yukarıda verilenlere göre |CD| = x kaç cm dir? BulalımÇözüABE ve ACD üçgenleri iç içe üçgenlerdir. Bu iki üçgeni ayrı ayrı çizelimAAvAAO h ldCBx bulunu4 ·
+·
+=
+=
+=
+=
+=
+=
+=
+=
+olduğuna göre ABADC dir+
+&
+&
+olmalıdır6 
+Matematik I2. BölüÜçgenleALIŞTIRMALA1. ABC ve EDC birer dik üçgen 
+AABEEBCccc=
+=
+=
+=
+=
+@
+@
+@
+@
+Yukarıda verilenlere göre A=
+ kaç cm dir?
+A) B) C) D) 2. 
+m ACm ABAcDcA=
+=
+=
+=
+%
+%
+ABC bir üçgeolduğuna göre |AC| = y kaç cm dir?
+)
+)
+)
+)
+2 3 3. 2      
+ABDBADAccc=
+=
+=
+=
+=
+@
+@
+@
+@
+ABC bir üçgeolduğuna göre |DE| = a kaç cm dir?
+D)ED=
+@
+@
+c2 2 2 B) 2    C) 2    A)Matematik I2. BölüÜçgenle4. 
+ABC ve BHD birer dik üçge ABDAHcBcCc=
+=
+=
+=
+=
+@
+@
+@
+@
+Yukarıda verilenlere göre A=
+ kaç cm dir?
+A) B) C) D) 5. 
+      
+ABEDAcDcDcBcEc+
+=
+=
+=
+=
+=
+&
+&
+ABC ve CDE üçgeYukarıda verilenlere göre |AB| = x kaç cm dir?
+A) B) C) D) 6 
+ADAcCcCc'
+=
+=
+=
+@
+@
+ABC ve DCE birer üçgeYukarıda verilenlere göre |BC| = x kaç cm dir?
+A) B) 7,C) D) 6,@
+BD@ = {C}
+Matematik I2. BölüÜçgenleTemel Orantı Teoremi 
+Bir üçgenin bir kenarına paralel olarak çizilen bir doğru diğer iki kenarı 
+kestiğinde bu doğru üçgenin kenarlarını orantılı doğru parçalarına ayırır. Bu  
+teoreme Temel Orantı Teoremi denir//
+DBC isAAAABDdi=
+=
+@
+@
+//
+DBC isDAEAdi=
+@
+@
+ÖRNEKLE1. ABC bir üçge9 
+//
+DBDcAcDcBcDE=
+=
+=
+=
+=
+=
+@
+@
+Yukarıdaki verilenlere göre x + y kaç cm dir? BulalımMatematik I2. BölüÜçgenleÇözü[DE] // [BC] olduğu için temel orantı teoremini uygulayalım&
+AABDAAcm di4 =
+=
++
+=
+=
+=
+=
+=
+\
+4444444 DAEAc5 =
+=
+=
+=
+=
+\
+4444444 Buna göre x + y = 3 + 10 = 13 cm bulunur2ABC ve ACD birer üçgeKBLCA4 cK8 cA3cP//
+//
+=
+=
+=
+=
+@
+@
+@
+@
+Yukarıdaki verilenlere göre x kaç cm dir? BulalımÇözüABC üçgeninde  
+//
+KB@
+@ olduğundan Temel Orantı Teoremi’ni uygulayalımyazılabilirKALAdiLAAk vL&
+=
+=
+=
+=
+Matematik I2. BölüÜçgenle48ACD üçgeninde [LP] // [CD] olduğundan Temel Orantı Teoremi’ni uygulayalımLAPAdik cm bulunu3 3 ·
+·
+·
+=
+=
+=
+=
+=
+3ABC ve ACD birer üçge//
+//
+LAKDBcMcLcC=
+=
+=
+=
+@
+@
+@
+@ 
+Yukarıda verilenlere göre |CD| = x kaç cm dir? BulalımÇözü64ABC ve ACD üçgenlerinde Temel Orantı Teorim’ni uygulamayalımMCLCLCC4k ve L6&
+=
+=
+=
+=
+yazılabilirMatematik I2. BölüÜçgenleAACLdik cm bulunu3 ·
+·
+=
++
+=
+=
+=
+=
+=
+ALIŞTIRMALA1ABC bir üçge//
+DBAccBcEcAD=
+=
+=
+=
+=
+=
+@
+@
+Yukarıda verilenlere göre x + y kaç cm dir?
+A) B) C) D) 2. 
+2 
+16 
+6 
+9 
+       
+//
+ADAcAcBcEcDD=
+=
+=
+=
+=
+=
+@
+@
+ABC bir üçgeYukarıda verilenlere göre x + y kaç cm dir?
+A) B) C) D) 3 
+9 
+2 
+2 
+DMatematik I2. BölüÜçgenle3. 
+6 
+//
+//
+PBRCAcPcAcS=
+=
+=
+=
+@
+@
+@
+@
+ABC ve ACD birer üçgeYukarıda verilenlere göre |SD| = x kaç cm dir?
+A) 8,B) 7,C) 7,D) 6,4. 
+24 
+5 
+3 
+//
+ABLBLCBcMcDcK=
+=
+=
+=
+=
+=
+@
+@
+@
+@
+@
+@
+ABC ve ACD birer üçgeYukarıda verilenlere göre x kaç cm dir?
+A) B) C) D) 5. 
+2 
+10 
+6 
+//
+//
+APDPcRcDcAB=
+=
+=
+=
+=
+@
+@
+@
+ABC ve BDC birer üçgeYukarıda verilenlere göre x + y kaç cm dir?
+A) B) C) D) Matematik I2. BölüÜçgenleThales’in ÇalışmalarMiletli Thales (MÖ 624-MÖ 546), Sokrates öncesi dönemde yaşamış olan 
+Anadolulu bir filozoftur. Eski Yunan’ın Yedi Bilgelerinin ilkidir. Felsefenin ve bilimin 
+öncüsüdür. Matematik alanında yapmış olduğu çalışmalarla alanda çığır açmıştır. 
+Eski Yunan bilginlerinden Kallimakhos’un aktardığı bir düşünceye göre denizcilere 
+kuzey takım yıldızlarından Büyükayı yerine Küçükayı’ya bakarak yön bulmalarını 
+öğütlemiştir. Mısırlılardan geometriyi öğrenip Yunanlılara tanıtmıştırThales’in bulduğu bazı geometri teoremleri şunlardır;
+• Çap, çemberi iki eşit parçaya böler• Tabanı ve buna komşu iki açısı verilen üçgen çizilebilir• Bir ikizkenar üçgenin taban açıları birbirine eşittirThales TeoremBirbirine paralel en az üç doğrunun farklı iki kesen üzerinde ayırdığı karşılıklı doğr parçalarının uzunlukları arasındaki ilişkiyi ifade eden teoreme Thales Teoremi denirddd//
+//
+d isBANMveyAAMMN di=
+=
+ÖRNEKLE1. 
+ddd//
+//
+AcKcLcB=
+=
+=
+=
+Yukarıda verilenlere göre |BC| = x in kaç cm olduğunu bulalımMatematik I2. BölüÜçgenleÇözüd1 // d2 // d3 olduğundan Thales Teoremi’ni uygulayalımBALKcm olu8 ·
+·
+&
+=
+=
+=
+=
+=
+2. 
+|
+|
+DAAD // BE // CAcEcBD=
+=
+=
+=
+Yukarıdaki verilenlere göre |DE| uzunluğunu bulalımÇözüThales Teoremi’ni uygulayalım. |DE = |BC| = x olsun. 
+BAED6·x·x 2 6  cm bulunur=
+=
+=
+=
+=
+=
+=
+Matematik I2. BölüÜçgenleALIŞTIRMALA1. 
+x + x – //
+//
+PcRcABABC=
+=
+Yukarıda verilenlere göre x kaçtır?
+A) B) C) D) 2. 
+1,//
+//
+//
+AcBcCcPcRSABCD=
+=
+=
+=
+=
+=
+Verilenlere göre  x + y kaçtır?
+A) B) 7,C) D) 4,3. 
+9 
+12 
+//
+//
+AKBAcKcKcBcA=
+=
+=
+=
+=
+@
+@
+@
+Verilenlere göre  x kaç cm dir?
+A) B) C) D) 1,= (x + 3) c= (x – 2) ccccMatematik I2. BölüÜçgenle4. 
+6 
+12 
+AK // BL // C|KL| = 2|LM| 
+|AK| = 6 c|CM| = 12 c|BL| = Yukarıda verilenlere göre |BL| = x kaç cm dir?
+A) B) C) D) Üçgende Benzerlik Problemler1. 
+2 metr3 metrelik bir duvarın üzerine şekildeki gibi merdiven 
+konmuşturMerdivenin yere  değdiği nokta ile duvar arasındaki 
+mesafenin tam  ortasındaki çalının boyu kaç metredir?
+ÇözüYukarıdaki resme ait geometrik çizimi yapıp soruda verilen uzunlukları üzerine 
+yazalım|AB| duvarın boyu, |DE| çalının boyudur[DE] // [AB] olduğundan Temel Orantı Teoremi’ni uygulayalım2 
+3 
+2 
+,
+CCADmetre bulunu2 1 ·
+=
+=
+=
+=
+=
+=
+Matematik I2. BölüÜçgenle2. 
+Yukarıdaki şekilde bir çocuk ağaçtan 8 metre, dağdan ise 1600 metre uzaklıkta duruyo.  Ağacın boyu 2 metre olduğuna göre dağın yüksekliğini hesaplayalımÇözü2 
+1600 8 
+44444444444 CCADm diResme ait geometrik çizimi yapıp soruda verilen uzunluklar üzerine yazalım|AB| dağın yerden yüksekliği, |DE| ağacın boyudurC çocuğun durduğu noktadır[AB] ⊥ [BC] ve [DE] ⊥ [BC] olduğundan [DE] // [AB] 
+dir. Temel orantı teoreminden 
+2 &
+&
+=
+=
+=
+=
+=
+Dağın yüksekliği 400 m bulunur3. 
+1. soka2. cadd2. soka1. caddYanda verilen krokide 2.cadde, 
+1. sokak ve 2. sokağa diktir. 1. caddeni 2. cadde ile kesişiminde2. sokağa kadar olan uzunluğu metre ve 1. sokağa kadar uzunluğ360 metredir. 2. sokağın uzunluğ80 metre 
+olduğuna 
+göre 1sokağın   uzunluğunu   bulunuz8 
+Matematik I2. BölüÜçgenleÇözüYukarıdaki şekle ait geometrik çizimi yapıp soruda verilen uzunlukları üzerine yazalım80 
+360 
+120 
+44444444444444 [AC] 1. sokağı, [DE] 2. sokağ[AB] 2. caddeyi, [BC] 1. caddeyi temsil etmek üzere;

@@ -1,0 +1,400 @@
+-
+=
+-
+=
+-
+]
+(Eşitliğin her iki tarafı 2x ile çarpılır ve 6xy elde edilir.)
+&
+olu=
+&
+&
+f =
+-
+=
+-
+=
+-
+=
+]
+]
+]
+Duygu’nun günlük harçlığı x TL olup 3y günde 3xy TL para biriktirir. 
+Uğur’un günlük harçlığı y TL olup 3x günde 3xy TL para biriktirir. 
+Bu durumda biriken toplam para olan 6xy TL nin maksimum olmasını sağlayan x ve y değerleri 
+bulunmalıdırDuygu’nun 2 günlük harçlığı ile Uğur’un 3 günlük harçlığının toplamı 24 TL olduğundan 
++
+=
+ olur&
+2 $
+=
++
+=
+Buna göre Duygu ve Uğur’un günlük harçlıklarının sırasıyla 6 TL ve 4 TL olması durumunda 
+biriken toplam para en fazla olacaktır&
+bulunu=
+-
+-
+ÖRNEÇÖZÜÇÖZÜMatematik Yanda f =-
++
+]  parabolü ve =
+ doğrusunu grafiği verilmiştir. A ve B köşeleri  =
+ doğrus, C ve D köşeleri ise parabolün üzerinde olan 
+parabol ile doğru arasındaki ABCD dikdörtgeninin 
+alanının en çok kaç birimkare olacağını bulunuz,
+B ve C noktalarının apsisi 
+x =
+ olsun. Grafik 
+y eksenine göre simetrik olduğundan A ve D 
+noktalarının apsisi 
+x =-
+ olur. Grafiğe göre C 
+noktası f =-
++
+]  parabolünün üzerinde 
+olduğundan C noktasının ordinatı =-
++
+ 
+olur. Böylec           
+-
++
+Aa biriB=
+=
+-
+birim olur Buna g r=
+-
+birimkare olu$
+=
+=
+-
+-
+A ABCAB$
+=
+]
+Bu durumda ABCD dikdörtgeninin alanı g =
+-
+]  fonksiyonu ile ifade edilirse dikdörtgenin 
+alanının en çok olması için g =
+-
+]  fonksiyonunun maksimum değeri bulunmalıdır&
+veya olu=
+=-
+&
+&
+g g g =
+-
+=
+-
+=
+-
+=
+]
+]
+]
+g] g fonksiyonunun türevinin işaret tablosu incelenirse fonksiyonun maksimum değerini =
+ 
+için aldığı görülür. Bu durumda fonksiyonun maksimum değeri g ] g olup bu değer 
+g 6 2 $
+$
+=
+-
+olu=
+] O hâlde ABCD dikdörtgeninin alanı en çok 4 birimkare bulunur-
+ÖRNEÇÖZÜTüreBir kişi evinin bahçesi için aldığı 16 metre tel ile şekildek gibi bir tarafı duvar olan dikdörtgen biçimde bir 
+kümes yapacaktır. Bu kümesin alanının en fazla kaç 
+metrekare olacağını bulunuzAy metre ve ABx metre olsuBudurumdm olu=
+=
+=
++
+=
+A ABCx olu$
+$
+=
+=
+=
+-
+-
+-
+=
+]
+]
+^
+Bu durumda ABCD dikdörtgeninin alanı f =
+-
+]   fonksiyonu ile ifade edilirse ABCD dikdörtgenini alanının en çok olması için  f =
+-
+]   fonksiyonunun maksimum değeri bulunmalıdı&
+&
+&
+x oluolu=
+-
+=
+-
+=
+-
+=
+=
+]
+]
+]
+f ] g fonksiyonunun türevinin işaret tablosu incelenirse fonksiyonun maksimum değerini =
+ 
+için aldığı görülür. Bu durumda fonksiyonun maksimum değeri f ] g olup bu değef 16 2 $
+$
+=
+-
+olu=
+] O hâlde kümesin alanı en fazla 32 metrekare bulunur-
+ÖRNEÇÖZÜMatematik f ] g fonksiyonunun türevinin işaret tablosu incelenirse fonksiyonun minimum değerini =
+ 
+için aldığı görülür. Bu durumda fonksiyonun minimum değeri f ] g olup bu değeBir fabrikada hacmi 96 birimküp olan üstü açık kare prizm biçiminde kutular üretilecektir    : Kutunun taban yüzeyinin birimkare maliyeti 3 T    : Kutunun yan yüzeyinin birimkare maliyeti 1 Tolduğuna göre bir kutunun maliyetinin en az kaç TL olacağın bulunuzBuna göre taban yüzeyinin birimkare maliyeti 3 TL olduğundan kutunun taban maliyeti  
+$
+ TL ve 
+yan yüzeyin birimkare maliyeti 1 TL olduğundan kutunun yan yüz maliyeti 
+T1 $
+=
+ olurBu durumda bir kutunun maliyeti 2 +
+ TL bulunur. 
+Bir kutunun maliyeti f =
++
+]  fonksiyonu olarak ifade edilirse maliyetin minimum olması 
+için bu fonksiyonun minimum değeri bulunmalıdır&
+&
+&
+&
+&
+&
+f oluve ve ve oluPaydadift kat k !
+!
+!
+=
++
+=
+-
+=
+-
+=
+-
+=
+-
+=
+=
+=
+]
+]
+]
+^
+olu3 $
+=
++
+=
+] 444444 444444 444444 Kutunun taban ayrıtları x birim ve yüksekliği y birim 
+ise hacmx x birimk p olup birim bulunu$
+$
+=
+=
+Kutunun taban alanı x $
+=
+ birimkare ve 
+Kutunun yan yüz alanı 
+$
+$
+=
+ birimkare olur. 
+O hâlde bir kutunun maliyeti en az 144 TL bulunurÖRNEÇÖZÜ-
+G rsel 5 TüreKış mevsiminde sokak hayvanları şiddetli soğukla nedeniyle geceyi geçirmek için bir barınağa 
+ihtiyaç duymaktadır. Büyük şehirlerde bu imkânı 
+bulabilmelerine karşın küçük yerleşim  yerlerinde 
+hayvan barınakları olmadığı için soğuktan korunma kedi ve köpeklerin önemli bir sorunu hâline 
+gelmektedir. Bu nedenle bir meslek lisesinin Mobily ve İç Mekân Tasarımı bölümünde öğretmen 
+olan Mustafa Bey, gönüllü öğrencileri ile birlikte 
+şehrin çeşitli yerlerine yerleştirilmek üzere kulübele yapmayı planlamaktadır. Şekildeki gibi tasarladığ kulübeyi sınıfta tahtaya çizerek bunları nasıl yapacaklarını öğrencilerine anlatmıştır. Mustafa 
+Bey, şekildeki uzunluklara göre planlanan kulübeye ABCD dikdörtgeni biçiminde bir kapı yapacaktı. Buna göre kapının alanının en fazla olması için kapının genişliğinin ve yüksekliğinin kaç 
+cm olacağını bulunuzKx cm ve Ay cm olsuKcm ve Lcm di=
+=
+=
+=
+KAKL+
+&
+&  olduğundan 
+KKLAolu=
+Bu durumda 
+&
+x cm olu=
+=
+A ABCABcolu$
+$
+$
+=
+=
+-
+=
+-
+=
+-
+]
+]
+]
+&
+KcHBx cm olu=
+=
+=
+-
+Böylece kapının alanı f =
+-
+]  fonksiyonu ile ifade edilirse kapının alanının en fazla 
+olması için f =
+-
+]  fonksiyonunun maksimum değeri bulunmalıdır&
+&
+&
+f olu=
+-
+=
+-
+=
+-
+=
+=
+]
+]
+]
+f ] g fonksiyonunun türevinin işaret tablosu incelenirse fonksiyonun maksimum değerini =
+ 
+için aldığı görülür. Bu durumd,
+Acm olu3 67 $
+=
+=
+=
+           
+cm olu=
+-
+=
+-
+=
+c44444444444444444444 44444 c444444444 cO hâlde ABCD dikdörtgeni biçimindeki kapının alanının en fazla olması için genişliği ve yüksekliği 
+sırasıyla 67,5 cm ve 45 cm olmalıdır-
+ÖRNEÇÖZÜMatematik Buna göre piramidin hacmi 
+f $
+=
+-
+-
++
++
+^  fonksiyonu ile ifade edilirse 
+piramidin hacminin en büyük olması için 
+f $
+=
+-
+-
++
++
+^  fonksiyonunun 
+maksimum değeri bulunmalıdırÖRNEÇÖZÜHediyelik kar küreleri üreten bir firma, içerisinde en büyük hacimli düzgün 
+kare piramit bulunan 10 cm çapında kar küreleri üretecektir. Bu firmanın 
+üreteceği kar kürelerinin içindeki piramidin yüksekliğinin kaç cm olacağını 
+bulunuzKüre içerisine yerleştirilen düzgü kare piramidin yüksekliği 
+,
+T@  kürenin merkezinden 
+geçer. 
+Ov@
+@ kürenin 
+yarıçapı olur. 
+Ov@
+@ yarıçap olduğundan OOc=
+=
+ olur. 
+O=
+ ise OGB üçgeninde Pisagor teoreminden B=
+-
+ olurKare piramidin yüksekliği Tc=
++
+ ve karenin köşegenleri 
+BAc=
+=
+-
+ olur. Bu durumda kare piramidin hacmi 
+-
+ABTcoluABTABT1 2 $
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+=
+=
+-
+-
++
+=
+-
++
+=
+-
+-
++
++
+=
+=
+^
+^
+&
+f olu$
+$
+=
+-
+-
++
++
+=
+-
+-
++
+^
+^
+&
+veya olu&
+&
+&
+&
+=
+-
+-
++
+=
+-
++
++
+=
+=
+= -
+l^
+^
+^
+-
+-
+Bu durumda firmanın üreteceği kar kürelerinin içerisindeki piramidin en büyük hacimli olması için 
+piramidin yüksekliği Tc=
++
+=
++
+=
+ olmalıdırG rsel 5 TüreSergilenecek resimler, alanı yarım metrekare olan dikdörtge biçimindeki tuvallere şekildeki gibi yanlarından 
+dörder cm, alt ve üst kısımlarından ikişer cm boşluk bırakılara yapılacaktırAslı Hanım, resim yapacağı yüzeyin en büyük alana sahi olmasını istemektedir. Bunun için Aslı Hanım’ın seçeceğ tuvalin eninin ve boyunun kaç cm olması gerektiğini 
+bulunuzResim öğretmeni Aslı Hanım, çalıştığı ilçedeki resim öğretmenler ile birlikte 3 Aralık Dünya Engelliler Günü için bir proj hazırlamışlardır. Geliri ile ilçedeki ihtiyaç sahibi öğrencilere 
+tekerlekli sandalye alınması amaçlanan bu proje “Engel Yok, 
+Renkler Var!” adlı bir resim sergisi olarak planlanmıştır[
+\
+]]]]]]]]]]
+]]]]]]]]]]
+444444444444444 Tuvalin alanı 5000 c2  olacağından 
+tuvalin boyu x cm ise eni 

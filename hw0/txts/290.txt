@@ -1,0 +1,400 @@
+d#
+ 
+ifadesinin değerini bulunuzd2 -
+#
+ 
+ifadesinin değerini bulunuz. 
+x d+
+#
+ 
+ 
+ 
+ifadesinin değerini bulunuzd+
+^
+#
+ 
+ 
+ 
+ifadesinin değerini bulunuzf =
++
+^
+Yukarıda  f =
++
+]
+g fonksiyonunun grafiğ verilmiştir. Buna göre 
+ 
+    
+x d-
+-
+l]
+#
+ifadesinin değerini bulunuzYukarıda f = ] g fonksiyonunun grafiği 
+verilmiştir. f ] g fonksiyonuna A(3,4) noktasnda çizilen teğeti, x ekseni ile pozitif 
+yönde 135c lik açı yaptığına göre 
+ 
+    
+-
+d+
+l]
+]
+@
+#
+ifadesinin değerini bulunuz135,
+A 3 ^
+Yukarıda 
+,
+1 @ nda tanımlı f =
++
+-
+]  
+fonksiyonunun grafiği verilmiştirBuna göre 
+,
+1 @ nı 4 eşit alt aralığa bölere f ] g fonksiyonunua) Riemann alt toplamını bulunuz 
+b) Riemann üst toplamını bulunuz. 
+c) Riemann toplamını her alt aralığın orta  
+    noktasına göre bulunuz 
+ 
+ 
+ 
+ 
+ 
+ Alıştırmalaİntegraf x d$
++
+=
+^ ]
+]
+g#
+ 
+ 
+ 
+olduğuna göre f ] g değerini bulunuza-
++
+dd+
+-
+_]
+#
+#
+ifadesinin değerini bulunuz                                            
+ifadesinin değerini bulunuz                                       
+ifadesinin değerini bulunuz                                    
+dd$
+-
++
+-
++
+]
+]
+]
+#
+#
+x dx dx d+
++
+#
+#
+#
+biçiminde tanımlı f ] g fonksiyonu veriliyor. 
+Buna göre 
+ 
+-
+f x d] #
+ 
+ifadesinin değerini bulunuz 
+ 
+ 
+,
+,
+f isis$
+=
+-
++
+] *
+ifadesinin değerini bulunuz.                                    
+ 
+ 
+ 
+ 
+d-
+#
+ifadesinin değerini bulunuz.                                       
+ 
+ 
+ 
+ 
+-
+-
+d#
+biçiminde tanımlı f ] g fonksiyonu veriliyor. 
+Buna göre 
+ 
+d-
+l]
+#
+ 
+ifadesinin değerini bulunuz.        
+ 
+ 
+ 
+ 
+,
+,
+f isis#
++
+=
+-
++
+]
+(
+olduğuna göre -
+ farkının değerini 
+bulunuz 
+ 
+ 
+        
+-
+-
+-
+-
+-
+-
+x dx dx dx dx dd=
++
++
+=
++
++
+#
+#
+#
+#
+#
+#
+Matematik 6.2.4. Belirli İntegral ile Alan Hesab"
+:
+,
+,
+a f = ] @
+ fonksiyonu integrallenebilen bir fonksiyon olmak üzerf = ] g fonksiyonunun grafiği, a ve =
+=
+ doğruları ile x ekseni arasında kalan sınırlı 
+bölgenin alan 
+                                     f d=
+] #
+ integrali ile hesaplanırf = ] g fonksiyonu 
+,
+a @ nda pozitif değerli ise diğer 
+bir ifadeyle f ] g fonksiyonunun grafiği, =
+ ve  =
+ 
+doğruları ile x ekseni tarafından sınırlanan bölgenin 
+alanı x ekseninin üzerinde kalıyorsa f f =
+]
+]
+g olacağında bu bölgenin alan 
+ 
+               f x d=
+] #
+ 
+integrali ile hesaplanırf = ] g fonksiyonu 
+,
+a @ nda negatif değerli ise diğe bir ifadeyle f ] g fonksiyonunun grafiği, =
+ ve 
+=
+ doğruları ile x ekseni tarafından sınırlanan bölgeni alanı x ekseninin altında kalıyorsa f f =-
+]
+]
+g 
+olacağından bu bölgenin alan 
+ 
+                f x d=-
+] #
+ 
+integrali ile hesaplanırf = ] g fonksiyonu 
+,
+a @ nda pozitif ve negatif değerleri her ikisini de alıyorsa 
+        
+,
+,
+f f f c isb is#
+#
+#
+= -
+]
+]
+]
+(
+olduğundan f ] g fonksiyonunun grafiği, =
+ ve 
+=
+ doğruları ile x ekseni arasında kalan bölgenin 
+alan 
+            f x df x d=
++
+=
+-
+]
+]
+#
+#
+ 
+integrali ile hesaplanırİntegraYanda f = ] g doğrusal fonksiyonunun grafiği verilmiştir. 
+Buna göre grafikteki boyalı bölgenin alanını integral yardımı 
+ile bulunuzf = ] g fonksiyonu eğimi 1 olan 
+,
+2 -
+^
+h noktasından geçen doğrusal bir fonksiyondur. 
+O hâlde f =
++
+]  olurYandaki f =
+-
++
++
+]  fonksiyonunun grafiği, =
+ 
+ve =
+ doğruları ile x ekseni arasında kalan sınırlı bölgeni alanını bulunuz5 $
+-
++
++
+-
++
++
+5 $
+-
++
++
+-
++
++
+dbirimkare bulunu=
+=
+=
+-
+=
+-
++
++
+-
+-
++
++
+=
+-
+=
+]
+#
+2 $
++
++
+2 $
++
+dbirimkare bulunu=
++
+=
+=
+-
+=
+]
+#
+ÖRNEÖRNEÇÖZÜÇÖZÜMatematik f =
++
+]  eğrisi, ve =-
+=
+ doğruları ile x ekseni arasında kalan sınırlı bölgenin alannı bulunuz-
++
++
++ 2 $
+2 $
++
+dbirimkare bulunu=
+=
+=
+-
+-
+-
+=
+-
+=
+-
+-
+]
+^]
+]
+g#
+Yandaki f =-
++
+-
+]  fonksiyonunun grafiği, =
+ 
+ve =
+ doğruları ile x ekseni arasında kalan sınırlı bölgeni alanını bulunuzİstenilen alan x ekseninin altında kaldığında4 6 $
+$
+-
++
+-
++
+-
+-
+4 6 $
+$
++
+-
++
+ddbirimkare bulunu=-
+=
+-
++
+=
+=
+-
+=
+-
+=
+#
+#
+ÖRNEÖRNEÇÖZÜÇÖZÜİntegraf =
+-
+]  fonksiyonunun grafiği ile x ekseni arasında kalan sınırlı bölgenin alanını bulunuz-
+-
+- +
+-
++
+-
++
+-
+-
+-
+ddbirimkare bulunu=-
+=
+=
+=
+-
+=
+- -
+=
+-
+-
+]
+#
+#
+Verilen fonksiyonun grafiği incelendiğinde istenilen alanın x eksenin altında olduğu görülmektedirYanda f =
+-
++
+]  fonksiyonunun grafiği verilmiştir. 
+Buna göre grafikte gösterilen boyalı bölgelerin alanlarının 
+toplamını bulunuzf =
+-
++
+]  fonksiyonunun  x eksenini kestiği noktala&
+&
+veya olu$
+-
++
+=
+-
+-
+=
+=
+=
+]
+]

@@ -1,0 +1,400 @@
+:
+olduğuna göre a $
+ çarpımı kaçtır?
+)
+)
+)
+)
+)
+-
+-
+21 I.    Bir fonksiyon limiti olduğu her noktada  
+      sürekli olmayabilirII.   Bir fonksiyonun sürekli olduğu her 
+      noktasında limiti vardırIII.  Bir fonksiyonun sürekli olduğu her 
+      noktasında türevi vardırIV.  Bir fonksiyon türevli olduğu her 
+      noktasında sürekli olmayabilirYukarıdaki ifadelerden hangileri daima 
+doğrudur?
+)
+)
+)
+) ,
+) ,
+A I ve IB II ve IIC III ve ID I II ve IIE I II ve Ili-
+-
+"
+Matematik lilig +
+=
+-
+=-
+"
+"-
+:
+:
+^
+^
+]
+]
+olduğuna göre f ve g ]
+]
+g fonksiyonlar aşağıdakilerden hangisi olabilir?
+,
+,
+f is$
+=
++
+-
+is] )
+biçiminde tanımlı f ] g fonksiyonu veriliyor)
+)
+)
+)
+)
+-
+-
+,
+f aisa=
+-
++
+, $
+is] *
+biçiminde tanımlı f ] g fonksiyonu =
+ 
+noktasında süreklidirBuna göre 
++
++
+-
+i toplamı kaçtı?
+)
+)
+)
+)
+)
+-
+-
+-
+-
+-
+,
+f aisb$
+=
+-
++
++
+-
+,
+is] )
+biçiminde tanımlı f ] g fonksiyonunun 
+=
+ noktasında türevi olduğuna göre 
++
+ toplamı kaçtır?
+)
+)
+)
+)
+)
+-
+-
+-
+=
+]
+olduğuna göre l] g değeri kaçtır?
+)
+)
+)
+)
+)
+-
+-
+-
+-
+-
+g h =
++
+=
+:
+:
+]
+]
+olduğuna göre go^
+l değeri kaçtır?
+)
+)
+)
+)
+)
+-
+-
+-
+f =
++
+-
++
+] fonksiyonunun yerel minimum ve yerel 
+maksimum değerlerinin toplamı kaçtır?
+)
+)
+)
+)
+)
+-
++
+^
+]g fonksiyonu =
+ noktasında 
+süreklidirBuna göre lilig g -
+"
+"
++
+-
+]
+]
+g farkı 
+kaçtır?
+)
+)
+)
+)
+)
+-
++
++
+-
++
+-
++
++
++
+-
++
++
++
+]
+]
+Yukarıda f = ] g fonksiyonun  grafiği 
+verilmiştir. 
+Buna göre f ^ h  fonksiyonunun kaç 
+noktada türevi yoktur?
+)
+)
+)
+)
+)
+TüreBoyutları 8 cm ve 15 cm olan bir kartonun 
+köşelerinden eş kareler kesilip katlanarak 
+şekildeki gibi üstü açık bir dikdörtgenler 
+prizması yapılmak isteniyor. 
+Bu prizmanın hacminin en büyük olmas için kesilen eş karelerden birinin alan kaç c2  olmalıdır?
+)
+)
+)
+)
+)
+Yukarıda f = ] g fonksiyonunun türevinin 
+grafiği verilmiştirBuna göre f  fonksiyonunun ekstremum 
+noktalarının apsisleri aşağıdakilerden 
+hangisidir?
+)
+,
+)
+,
+)
+,
+)
+,
+,
+3 2 1 -
+-
+-
+-
+-
+-
+,
+-
+)
+E) 33. ve 34. üst düzey beceri sorularını       
+    şekle ve metne göre cevaplayınızl] Yukarıdaki şekilde kesiti parabolik olan kubbe 
+biçimindeki yapının  C ve D ayakları arası 8 metr ve yapının en uç noktasının yerden yüksekliği 
+12 metredir. Güneşli bir günde yapıya A noktasnda teğet olacak şekilde gelen güneş ışını yer 
+düzlemi ile 45c lik açı yapmaktadır. Yapının gölges B noktasında bittiğine göre;
+A noktasının yerden yüksekliği kaç metrdir?
+Yapının gölgesinin boyu olan BC  kaç metrdir?
+                                                                                                                                                      
+                                                                             
+)
+)
+)
+)
+)
+32 Bir ayrıtı x metre uzunluğunda olan küp 
+şeklindeki bir mermer bloğun üretim maliyet hacim üzerinden metreküp başına 1000 
+TL, satış fiyatı ise yüzey alanı üzerinden 
+metrekare başına yine 1000 TL olarak hesaplanmaktadı. 
+Buna göre x kaç metre olursa bu merme bloğun satışından elde edilen kâr 
+en fazla olur?  
+`
+bbbbbbbbbbbbbbbbbbbbbbbbbbMatematik Bir fonksiyonun tanımlı olmadığı bir noktad .................. olabilir.         
+Bir fonksiyonun kırılma noktalarında ......... 
+yoktur.     
+Türevlenebilir bir fonksiyonun türevinin negati olduğu aralıkta fonksiyon ......... olur 
+ 
+ 
+      
+Bir fonksiyon sürekli olduğu bir noktada 
+................... olmayabilir. 
+Bir fonksiyon bir noktada türevli ise o noktda ...................olurTürevlenebilir bir fonksiyonun artanlıktan 
+azalanlığa geçtiği noktalarına fonksiyonu .............. .................... noktaları denirA) 1-6. cümlelerde boş bırakılan yerlere  
+     uygun ifadeleri yazınızB) 7. soruda numaralar ile verilen ifadeleri  
+     harf ile verilen ifadelerle eşleştiriniz-
+-
+IIII IV V -
++
++
+l]
+]
+IIIIIIIVV)
+)
+)
+)
+)
+)
+b yoktu-
+-
+)
+Yukarıda f = ] g fonksiyonunun grafiğ ve grafiğe kırılma noktalarında çizilen 
+teğetleri verilmiştir. Buna göre aşağıdaki 
+türevleri karşılarındaki değerler ile eşleştirinilim f +
+=
+"
+]
+ olduğuna görlif f +
+-
+"
+]
+]
+]
+g  ifadesinin değeri kaçtır?
+, ,
+f aisais$
+=
++
++
+] *
+biçiminde tanımlı f fonksiyonunun =
+ 
+noktasında limiti yoktur. Buna göre a kaç 
+olamaz?
+lim a2 +
+-
+"
+-
+ifadesinin değeri bir gerçek sayı olduğuna 
+göre bu limit değeri kaçtır?
+C) 8-17. açık uçlu soruları cevaplandırınız+
++
+-
+f =
+-
+-
+]
+biçiminde tanımlı f ] g fonksiyonun sürekli 
+olduğu en geniş küme nedir?
+f =
+-
++
+-
+] biçiminde tanımlı f ] g fonksiyonunu sürekli 
+olduğu en geniş küme 
+R - " , olduğuna 
+göre a $
+ çarpımı kaçtır?
+Ölçme ve Değerlendirme Türef a=
+-
++
++
++
+] biçiminde tanımlı f ] g fonksiyonu her x gerçe sayısı için sürekli olduğuna göre a nın 
+alabileceği en küçük tam sayı değeri kaçtır?
+f ag b=
+-
+=
++
++
+=
+-
+=
+:
+:
+:
+:
+^
+^
+]
+]
+]
+]
+olduğuna göre +
+ toplamı kaçtır?
+f ag af $
+=
++
+=
+-
+=
+:
+:
+:
+^
+]
+]
+]
+olduğuna göre a nın alabileceği değerler 
+toplamı kaçtır?
+f g h =
++
+=
+-
+=
+-
+:
+:
+:
+]
+]
+]
+olduğuna göre f g $
+$
++
+^
+]
+^
+]
+g 
+değeri kaçtır? 
+f ag a=
+-
+=
+-
+=
+:
+:
+:
+]
+]
+]
+olduğuna göre a nın alabileceği değerler 
+çarpımı kaçtır?
+D) 18-29. çoktan seçmeli soruları çözünüz        
+     ve doğru seçeneği işaretleyinizis,
+,
+,
+,
+f g ais$
+$
+=
++
++
+=
+-
+-
+isis]

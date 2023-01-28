@@ -1,0 +1,400 @@
+=
+-
++
++
++
++
+=
+-
++
++
++
+=
+-
++
++
+=
+-
+=
+-
+=
++
+-
+-
+-
+^
+^
+^
+^
+^
+^
+^
+^
+^
+^
+^
+^
+^
+^
+^
+^
+^
+4444444444 4444444444 4444444444 $
+$
+$
+$
+=
++
++
++
++
+^
+^
+^
+^
+h olduğuna göre 364 ifadesinin A cinsinden değerini bulunuza) (
+)
+$
+$
++
+=
++
++
++
+=
++
++
++
+ olurb) (
+)
+$
+$
++
+=
++
++
++
+=
++
++
++
+ olurc) (
+)
+$
+$
+$
+$
+-
+=
+-
++
+-
+=
+-
++
+-  olurç) (
+)
+$
+$
+$
+$
+-
+=
+-
++
+-
+=
+-
++
+-
+^
+^
+ olurAşağıda verilen ifadelerin açılımlarını özdeşlikleri kullanarak yapınıza) (
+)
+2 +
+                   b) (
+)
+3 +
+                  c) (
+)
+1 -
+                  ç) (
+)
+1 -
+İki Terimin Küplerinin Toplamı ve Farkının Özdeşliğ+
+ ifadesine iki terimin küplerinin toplamı denir. 
+(
+) (
+)
+x$
++
+=
++
+-
++
+ olur -
+ ifadesine iki terimin küplerinin farkı denir. 
+(
+) (
+)
+x$
+-
+=
+-
++
++
+ olurİpucİpuc,
+,
+ve a b !
+!
+ olmak üzerab2 +
++
+ şeklindeki üç terimliler çarpanlarına ayrılırken a ve c nin çarpanlarına bakılırk t ve m $
+$
+=
+=
+ olmak üzere  
+tkab2 +
++
+                                                                                                                
+ve kt+
+=
+ olacak biçimde  m, n, k, !
+ sayıları bulunabiliyors(
+) (
+)
+abkt$
++
++
+=
++
++
+ biçiminde çarpanlarına ayrılıra) 
+-
+-
+2 -
++
+  
+    
+,
+x v$
+$
+=
+= -
+-
+-
+-
++ -
+=
+^
+^
+^
+^
+h olduğundan 
+(
+) (
+)
+$
+-
++
+=
+-
+-
+ olur. 
+b)  
+-
+-
+2 -
++
+    
+,
+v$
+$
+=
+= -
+-
+-
+= -
++ -
+^
+^
+^
+^
+^
+^
+h olduğunda    
+(
+) (
+)
+$
+-
++
+=
+-
+-
+ olurc) m-
++
+-
+-
+    
+,
+x vmmm$
+$
+=
+= -
+-
+-
+= -
++ -
+^
+^
+^
+^
+h olduğunda    
+(
+) (
+)
+m$
+-
++
+=
+-
+-
+ olurAşağıda verilen polinomların çarpanlarına ayrılmış şeklini bulunuza) 2 -
++
+      b) 2 -
++
+    c) m-
+-
+   
+a) 
+(
+) (
+)
+(
+) (
+)
+$
+$
+-
+=
+-
++
++
+=
+-
++
++
+ olurb) 
+(
+) (
+)
+(
+) (
+)
+$
+$
+$
+-
+=
+-
+=
+-
++
++
+=
+-
++
++
+]
+]
+ olurc) 
+(
+) (
+)
+(
+) (
+)
+$
+$
+$
++
+=
++
+=
++
+-
++
++
+-
++
+=
+]  olurAşağıda verilen ifadeleri çarpanlarına ayırınıza) -
+    b) 3 -
+    c) 3 +
+a)  Kenar uzunlukları x ve y metre olan bir ABCD dikdörtgeni çizilerek verilen bilgiler aşağıdaki gibi 
+yerleştirilir       
+ABCD dikdörtgeninin çevresi 
+CCBB&
+$
++
+=
++
+=
+ bulunur. Buradan         
+            Bx metr=
+ olsun. Bu durumda Cmetr=
+=
+-
+^
+ olur. Bu değerler aşağıdaki gibi  
+            modellenirs    
+=
+-
+BC&  nde Pisagor teoremi uygulanarak +
+=
+-
+^
+ eşitliği elde edilir. 
+Buradan &
+&
++
+-
+=
++
+-
++
+=
+-
++
+=
+^
+ olup bu ifade 
+çarpanlarına ayrılır. 
+lu&
+&
+$
+$
+$
+-
++
+=
+-
++
+=
+-
+-
+=
+-
+-
+^
+^
+^
+ 
+   Buradan veya =
+=
+ bulunur. Bu değerlerin her biri için  A ABC$
+-
+=
+^
+^

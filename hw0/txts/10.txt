@@ -1,0 +1,153 @@
+- Atom yarıçapı,
+- İyonlaşma enerjisi,
+- Elektron ilgisi,
+- Elektronegatiflik,
+- Metalik ve ametalik karakterdirAtom Yarıçapı  
+Bir atomun boyutunun bir   ölçüsüdür. Atom yarıçapı,  atomun çekirdeğinden en dış 
+katmandaki elektrona  olan uzaklıktır• Periyodik sistemde soldan sağa doğru periyot (satır) boyunca gidildikçe atom yarıçapazalır çünkü aynı periyotta yer alan element atomlarının katman sayısı değişmezken,
+soldan sağa doğru ilerledikçe çekirdekteki proton sayısı artar. Bu artış, çekirdeğiçekim gücünü artıracağından son katmandaki elektronların daha güçlü çekilmesinve elektronların çekirdeğe yaklaşmasına neden olur. Böylece atomların çapı soldasağa doğru azalır (Görsel 2.19)• Aynı grupta yer alan elementlerde ise yukarıdan aşağı inildikçe atom çapı artar çünkyukarıdan aşağıya doğru inildikçe katman sayısı yani çekirdek ile son katmandakelektron arasındaki mesafe artar. Dolayısıyla atom yarıçapı büyürGörsel 2.19  Periyodik sistemdeki element atomlarının çaplarArtış yön2.Ünite Atom ve Periyodik Sisteİyonlaşma Enerjisi  (İE)
+Gaz hâldeki bir elementin tek bir atomundan  (veya iyondan) bir elektronu uzaklaştırmak 
+için atoma verilmesi gereken en düşük enerjidir. "İE" sembolü ile gösterilir. Aşağıda sodyum 
+atomundan elektron koparılması gösterilmektedir: 
+Gaz hâldeki bir elementin atomundan (nötr atom)   bir elektron koparmak için gerekli 
+olan enerji birinci iyonlaşma enerjisi (İE1), bir elektronu kopmuş atomdan bir elektron 
+daha koparmak için gerekli olan enerji de ikinci iyonlaşma enerjisidir (İE2). Yeterli enerji 
+verildiğinde bir atomdan sahip olduğu elektronların tamamı koparılabilir. Buna göre bir 
+atomun elektron sayısı kadar iyonlaşma enerjisi vardırHidrojen atomu için olası iyonlaşma enerjisi yalnız birinci iyonlaşma enerjisidir: 
+H(g)                 H(g)+  +  e-         İE1  =  1312 kkal/mo10. UygulamÇözüAşağıda verilen atom çiftlerinden çapı büyük olanını belirtiniza) 4Be ve 12Mb) 4Be ve   8c) 6C  ve  15P 
+Eğer atomlar aynı periyotta yer alıyorsa grup numarası büyük  (atom 
+numarası büyük) olan element atomunun çapı küçüktür.  Aynı grupta yer 
+alıyorsa periyot numarası küçük (atom numarası küçük) olan atomun çapı 
+küçüktür. Buna göre katman-elektron dağılımından grup ve periyotlarını 
+bulabiliriza) Be  : 2, 2. Periyot 2A GrubMg : 2, 8, 3. Periyot 2A Grubu            Berilyumun çapı küçüktürb) Be  : 2, 2. Periyot 2A GrubO    : 2, 2. Periyot 6A Grubu          Oksijenin çapı küçüktürc) C   : 2, 2. Periyot 4A GrubP   : 2, 8, 3. Periyot 5A Grubu            Karbonun çapı küçüktür Görsel 2.20 Enerji vererek sodyum atomundan elektron koparılmas+ İ+
+-
+Sodyum atomSodyum iyonElektro+
+Kimya Helyum atomu içinse yalnız birinci ve ikinci iyonlaşma enerjilerini 
+yazabiliriz:
+He(g)                 He(g)
++  +  e-          İE1 =  2373 kkal/moHe+
+(g)              He(g)
+2+  +  e-          İE2 =  5251 kkal/moBir atomun iyonlaşma enerjisi İE1 < İE2 < İE3 < İE4 < ..... şeklinde artar çünkü 
+her elektron koparıldığında çekirdeğin çekim gücü değişmezken, elektron 
+sayısı azaldığından elektron başına düşen çekim kuvveti artar. Bu nedenle her 
+elektron koparıldığında kalan elektronları koparmak zorlaşır, dolayısıyla her 
+defasında daha fazla enerji vermek gerekirPeriyodik sistemde periyot ve grup boyunca atomların iyonlaşma enerjilerini 
+karşılaştıralım:
+• Grupta yukardan aşağıya doğru inildikçe iyonlaşma enerjisi azalır çünkgrupta aşağı inildikçe atomun katman sayısı artar. Son katmanda bulunaelektron çekirdekteki protonun çekim etkisinden uzaklaşır. Uzaktbulunan elektron bu nedenle daha kolay koparılır• Periyot boyunca ise soldan sağa gidildikçe iyonlaşma enerjisi genelliklartar çünkü periyot boyunca katman sayısı değişmeyip, proton sayısarttığından elektronlar çekirdek tarafından daha güçlü bir şekilde çekilirBu nedenle atomdan bir elektronun uzaklaştırılması zorlaşır ancak 2ve 5A grubu element atomlarının sahip olduğu elektron dağılımındadolayı periyot boyunca iyonlaşma enerjisi düzenli bir şekilde artmaz,
+bazı sapmalar olur (Tablo 2.5)Bu nedenle periyot boyunca iyonlaşma enerjisi sıralaması aşağıdaki gibidir:
+IA  <  IIIA  <  IIA  <  IVA  <  VIA  <  VA <  VIIA  <  VIIITablo 2.5   3. periyot  elementlerinin 1. iyonlaşma enerjiler495,IE786,737,1251,577,999,1520,NSMCAA2.Ünite Atom ve Periyodik Siste1A grubunun ilk dört elementi için birinci iyonlaşma enerjileri verilmiştir 
+(1H, 3Li, 11Na, 19K)Aynı periyotta yer alan bazı elementlerin ilk beş iyonlaşma enerjileri 
+verilmiştir. Buna göre bu elementlerin atomlarının son katmanında kaçar 
+elektron bulunur? 
+Buna göre;
+a) Hangi iyonlaşma enerjisi hangi elemente aittir?
+b) Bu elementlerin periyotları nedir?
+Atomların katman sayısı arttıkça 
+iyonlaşma enerjisi azalır. Buna 
+göre 2 nolu iyonlaşma enerjisi 
+en düşük olduğundan bu enerji 
+katman sayısı en fazla olan 19K 
+elementine aittir.  Bu şekilde 
+diğer elementlerin iyonlaşma 
+enerjileri 
+ve 
+bulundukları 
+periyot yandaki gibidir. 
+Element atomları son katman elektronlarını kaybettiklerinde, geriye kalan 
+iç katmandan elektron koparmak zorlaşır. Bu nedenle iyonlaşma enerjisi 
+çok belirgin bir artış (3-4 kat fazlası) gösterir. Bu ani enerji artışına 
+kadar koparılan elektronlar son katman elektronlar     dırX atomu                
+Son katmanında 4 elektron bulunmaktadır. 
+Y atomBelirgin bir artış bulunmadığından son katmanında 
+5 ya da daha fazla elektron olabilirZ atomSon katmanında 2 elektron bulunmaktadır. 
+11. Uygulam12. UygulamÇözüÇözüİE495,-
+418,İEİEElemenAtoİEİEİE1495,418,11N19İEAto3L1. Periyot (n=1)
+3. Periyot (n=3)
+4. Periyot (n=4)
+Periyo2. Periyot (n=2)
+Kimya Elektron İlgisi 
+Gaz hâldeki bir element atomunun yapısına bir elektron katıldığında 
+atomda meydana gelen enerji değişimine elektron ilgisi denir. Elektron ilgisi 
+bir atomun bir elektronu alma isteğinin ifadesidir. “Eİ” ile gösterilir. Aşağıda 
+flor atomunun elektron alması gösterilmektedir. 
+Elektron ilgisi periyot boyunca soldan sağa doğru genellikle artar, aynı 
+grupta ise yukarıdan aşağıya inildikçe genellikle azalır. Soy gazlar için elektron 
+ilgisi neredeyse sıfırdır. Ametallerin elektron alma isteği metallerden oldukça 
+fazladır, bu nedenle ametallerin elektron ilgisi metallerinkinden büyüktür. 
+Elektronegatiflik 
+Elektronegatiflik, kimyasal bağ oluşumunda 
+kullanılan son katman elektronlarının kimyasal 
+bağı oluşturan atomlar tarafından çekilme 
+gücüdür. Elektronegatiflik, bir atomun bir 
+kimyasal bağ oluşturması olasılığının ne kadar 
+yüksek olduğunu gösterir. Aşağıda hidrojen ve 
+klor atomlarının bağdaki elektronları çekmesi 
+gösterilmektedir. 
+Elektronegatiflik aynı periyotta soldan sağa gidildikçe artar ve aynı grupta 
+aşağı inildikçe azalır. Ancak soy gazlarda elektronegatiflik sıfıra yaklaşır. 
+Elektronegatiflik değerleri arasındaki fark ne kadar büyük olursa iki atomun 
+kimyasal bir bağ oluşturması o kadar muhtemeldirGörsel 2.21 Flor atomuna elektron katılmas+  E+
+-
+-
+Flor atomGörsel 2.22 HCl molekülünde 
+      elektronegatiflik 
+CElektroFlor iyon2.Ünite Atom ve Periyodik SisteMetalik-Ametalik KarakteKimyasal tepkime esnasında elektron verme eğilimi fazla olan elementler 
+metalik, elektron alma eğilimi fazla olan elementler ise ametalik karakter 
+gösterir. 
+Aynı grupta yukarıdan aşağı inildikçe elementlerin metalik özelliği artar. 
+Aynı periyotta ise soldan sağa gidildikçe metalik özellik azalır. Yani periyodik 
+sistemde en solda ve en altta bulunan elementler en fazla metalik özellik 
+gösterirler. Sağa doğru ve yukarı yönlü gidildikçe de ametalik özellik artar. 
+Aşağıdaki şekilde (Görsel 2.23) periyodik özelliklerin değişim seyri 
+özetlenmiştir:
+Görsel 2.23 Periyodik sistemde periyodik özelliklerin değişim seyri 
+      (okun ucu artış yönünü göstermektedir.)Elektronegatifliİyonlaşma EnerjisElektron İlgisElektron İlgisİyonlaşma EnejisElektronegatifliAtom YarıçapAmetallik ÖzelliğMetallik ÖzelliğAtom YarıçapTablo 2.6  Bazı elementlerin elektronegatiflik değerlerL1,1425367N0,B1,M1,2,A1,2,S1,3,2,3,2,4,C3,Kimya Dalton, Thomson, Rutherford ve Bohr Atom modelleri atomu daha anlaşılır kılmak için 
+o zamanın bilgisi ışığında geliştirilmişlerdirDalton; atomu, elementleri oluşturan  bölünemez en küçük parça olarak tanımlamıştırThomson, elementleri oluşturan atomların bölünebilirliğini ispatlamıştır. Atom nötr ise 
+ve atomdan (–) yüklü elektronlar kopabiliyorsa geriye kalan kısmı (+) yükün oluşturduğunu 
+düşünerek, elektronların atom içinde eşit dağılmış olduğunu gösteren bir model geliştirmiştirRutherford, protonların atomun çekirdeğinde yer aldığını ve elektronların onun 
+çevresindeki boşlukta döndüğünü keşfetmiştirBohr, elektronların bir atomda, çekirdeğin çevresindeki yörüngelerde (enerji 
+katmanlarında) bulunduğunu belirtmiştir. 
+Günümüzde geçerliliğini koruyan modern atom teorisine göre ise elektron yörüngelerde 
+değil belirli enerji seviyelerindeki belirli bölgelerde bulunmaktadır. 
+Atomla ilgili bu bilgilerin ışığında, atom daha yakından mercek altına alınmıştır.  Aynı 
+element atomunun neden farklı kütleler içerdiği ya da farklı element atomlarının neden aynı 
+kütlelere sahip olduğu vb. soruların cevabının araştırılmasıyla iyon, izotop, izoton, izobar, 
+izoelektronik gibi kavramlar ortaya çıkmıştır. 
+Modern Periyodik SisteMendeleyev elementleri kütlelerine göre sıraladığında, kimyasal ve fiziksel özelliklerin 
+belirli periyotlarla tekrarladığını keşfetmiştir. Benzer fiziksel ve kimyasal özellikteki 
+elementleri alt alta dizdiğinde günümüzdekine çok benzer olan periyodik sistemi 
+oluşturmuşturMoseley ise element atomlarını, artan atom numaralarına göre dizdiğinde Mendeleyev’ 
+in periyodik sistemine çok yakın sonuçlara ulaşmıştır. Mendeleyev’ in çıkmazları bu şekilde 
+düzeltilebilmiştir.  
+Mendeleyev ve Moseley’ in periyodik sistemi, elementler hakkında birçok bilgi sağlayacak 
+ve elementlerin birbirleriyle ilişkisini açıklayacak şekilde düzenlenerek günümüzdeki şeklini 
+almıştır. Örneğin, periyodik sistem, özelliğini bilmediğimiz elementlerin özelliklerini 
+tahmin etmek için kullanılabilirÖZE2.Ünite Atom ve Periyodik SisteA. Aşağıda verilen soruları cevaplandırınız1. Thomson atom modellinde en belirgin özellikler nelerdir?
+ 
+ 
+ 
+2. Atomların soğurduğu/yaydığı ışınların nedeni nedir?
+ 
+ 
+ 
+3. Elektron, proton ve nötronun atomdaki yerlerini belirtiniz 
+ 
+ 
+4. Aşağıdaki elementlerin her birini metal, ametal veya yarı metal olarabelirtiniz (Periyodik sistemden yararlanınız)A) B) C) AD) 5. Birbirinin izotopu olan atomlarda “proton sayısı, elektron sayısı, nötrosayısı,  atom numarası, kütle numarası”  özelliklerinden hangileri ortaktır?
+ 
+ 
+ 
+6.  
+ 
+ 
+izotoplarının nötron sayıları nedir?
+ 
+ 
+ 
+7. Aşağıdaki elementlerin her biri hangi grupta yer alır?
+A)LB) C) D) A2. ÜNİTE ÖLÇME VE DEĞERLENDİRME SORULAR32  
+16 S,
+16 S,
+34  
+16S,
+16 

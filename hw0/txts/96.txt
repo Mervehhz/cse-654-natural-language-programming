@@ -1,0 +1,400 @@
++
+ yazınız ve Enter tuşuna basınız. Ekrana gelen 
+kutuda “Sürgüler Oluştursun mu?” sekmesini seçiniz. 
+Bu işlemler yapıldığında aşağıdaki gibi bir grafik oluşacaktır( )
+f a=
++
+ şeklinde verilen bir doğrusal fonksiyonun grafiğini bir matematik yazılımı olan GeoGebra 
+programı ile çizerek a ve b katsayıları ile fonksiyonun grafiği arasındaki ilişkiyi inceleyinizb sürgüsü 1 değerinde sabit iken a sürgüsü hareket ettirildiğinde doğrunun eğiminin değiştiği görülür. Örneği ve =
+=
+ olduğunda grafik aşağıdaki gibi görünmektedir. Bu durumda a değerinin değişmesi 
+doğrunun eğiminin değişmesi anlamına gelira sürgüsü 1 değerinde sabit iken b değeri değiştirildiğinde fonksiyonun grafiğinin y eksenini kestiği noktanı değiştiği görülür. Örneğin ve =
+= -  olduğunda grafik aşağıdaki gibi görünmektedir. Bu durumd b değerinin değişmesi doğrunun y eksenini kestiği noktanın değişmesi anlamına gelirSonuç olarak ( )
+f a=
++
+ şeklinde verilen bir doğrusal fonksiyonun grafiğinin x ve y eksenlerini kestiği 
+noktalar, a ve b katsayılarının değerlerine bağlı olarak değişmektedir1. 
+"
+:
+R  olmak üzere aşağıda verilen fonksiyoların grafiklerini çiziniz 
+a) ( )
+f =
++
+    b) ( )
+h =
+-
+c) 
+( )
+g =
+-
+  ç) 
+( )
+m =
+-
+ 
+2. 
+"
+:
+R , ( )
+f =
++
+ fonksiyonunun 
+grafiğinin eksenleri kestiği noktaları bulunuz 3.  
+"
+,
+: [
+]
+1 R  olmak üzere 
+    
+,
+,
+,
+( )
+f isisis<
+<
+#
+#
+#
+#
+=
+[
+\
+]]]]
+]]]]
+     fonksiyonunun grafiğini çiziniz 
+  4.   
+"
+:
+R , 
+"
+:
+R  olmak üzere aşağıda 
+verilen fonksiyonların grafiklerini çiziniza)  
+2x,
+6,
+x < ( )
+isisf $
+= )
+           
+  
+b)   
+,
+,
+,
+( )
+g isisis<
+<
+#
+$
+=
+-
+-
+-
+-
+[
+\
+]]]]
+]]]]
+ALIŞTIRMALAÖnce f fonksiyonu 
+( )
+g =
++
+, ( )
+h =
+ ve 
+( )
+k =
+-
+ olmak üzere üç ayrı fonksiyona 
+ayrılarak bu fonksiyonların grafikleri aşağıdaki 
+gibi çizilirg fonksiyonunun 
+3,
+(
+)
+-
+ aralığındaki parçası, h fonksiyounun 
+, [
+]
+ aralığındaki parçası ve k fonksiyonunun 
+,
+(
+)
+3 3  aralığındaki parçası alınarak f fonksiyonunun 
+grafiği aşağıdaki  gibi çizilir         
+"
+:
+R  olmak üzere 
+,
+,
+,
+( )
+f isisx is<
+<
+#
+#
+=
++
+-
+[
+\
+]]]]
+]]]]
+  fonksiyonunun grafiğini çiziniz10.2.1.3. Grafiği Verilen Fonksiyonlar ile İlgili ProblemleGrafiği verilen bir fonksiyonun tanım kümesi, bu fonksiyonun grafiği üzerindeki noktaların birinci bileşenlerini (apsis) oluşturduğu kümedir. Buradan fonksiyonun tanım kümesi 
+,
+[
+]
+4 -
+ dırGrafiği verilen bir fonksiyonun görüntü kümesi, bu fonksiyonun grafiği üzerindeki noktaların ikinci bileşenlerini (ordinat) oluşturduğu kümedir. Buradan fonksiyonun görüntü kümesi  
+,
+[
+]
+3 -
+ dırAyrıca bu grafikte fonksiyonun alabileceği en büyük değer, görüntü kümesinin en büyük elemanı olan 5 ; 
+en küçük değer ise görüntü kümesinin en küçük elemanı olan 
+-  türYanda grafiği verilen f fonksiyonunun tanım ve görüntü kümelerni bulunuzf(x)
+=
+ fonksiyonunun tanım kümesi bu fonksiyonun grafiğinin geçtiği noktaların apsislerinden, görüntü 
+kümesi bu fonksiyonun grafiğinin geçtiği noktaların ordinatlarından oluşur. Buradan fonksiyonun tanım 
+kümesi 
+,
+(
+)
+5 -
+, görüntü kümesi 
+3,
+(
+)
+-
+ dırYanda grafiği verilen f fonksiyonunun tanım ve görüntü kümelerni bularak bu fonksiyonun alabileceği en büyük ve en 
+küçük değerleri bulunuzBilgFonksiyonun tanım kümesi 
+,
+(
+]
+4 -
+ ve görüntü kümesi 
+,
+[
+]
+4 -
+ olur. Fonksiyonun en büyük değeri 7, en 
+küçük değeri 
+-  olur Yandaki şekilde 
+( )
+f =
+ fonksiyonunun grafiği verilmiştir. Buna göre 
+( )
+( )
+( )
+( )
+(
+)
++
+-
++
+-
+ işleminin sonucunu bulunuz( )
+f a  değerinin bulunabilmesi  için x eksenindeki a noktasından fonksiyon grafiğine doğru bu eksene dik 
+bir doğru parçası çizilir. Bu doğrunun grafiği kestiği noktadan y eksenine çizilen dik doğrunun y eksenini 
+kestiği nokta ( )
+f a  nın değeridir. Buna gör( )
+f =
+, ( )
+f = - , (
+)
+-
+=
+, ( )
+f =
+, ( )
+f =
+ olurBuradan 
+( )
+( )
+( )
+( )
+(
+)
+(
+)
++
+-
++
+-
+=
++
+- -
+=
+=
++
+ olurYanda grafiği verilen 
+( )
+f =
+ fonksiyonunun tanım ve görüntü 
+kümelerini bulup bu fonksiyonun en büyük ve en küçük değerlerin bulunuz•
+Dik koordinat düzleminde verilen bir grafikte üzerindeki her noktadan y eksenine çizilen paralel 
+doğrular, grafiği bir noktada kesiyor ise grafik, fonksiyon grafiğidir. Bu işleme düşey/dikey doğru 
+testi denir. Bu doğrular, grafiği birden fazla noktada kesiyorsa grafik bir fonksiyonun grafiği değildirAşağıda verilen grafiklerin fonksiyon belirtip belirtmediklerini bulunuz                           
+                                  
+                           
+                                  
+ 
+y eksenine 
+paralel çizilen 
+doğrulardan her 
+biri grafiği yalnız 
+bir noktada kestiğinde grafik, 
+bir fonksiyonun 
+grafiğidir       
+y eksenine 
+paralel çizilen 
+doğrulardan her 
+biri grafiği yalnız 
+bir noktada kestiğinde grafik, 
+bir fonksiyonun 
+grafiğidir                
+y eksenine 
+paralel çizilen 
+doğrulardan en 
+az bir tanesi 
+grafiği birden 
+fazla noktada 
+kestiğinden 
+grafik, bir fonksiyoun grafiği 
+değildir        
+y eksenine 
+paralel çizilen 
+doğrulardan en 
+az bir tanesi 
+grafiği birden 
+fazla noktada 
+kestiğinden 
+grafik, bir fonksiyoun grafiği 
+değildirBilgDik koordinat düzleminde grafiğin x eksenini kestiği noktalar 
+,
+, 2, 0 ,
+,
+3 6 -
+^
+^
+^
+h dır. Buradan fonksiyoun sıfırlarının bu noktaların apsisleri olan 
+, 2,
+-
+ olduğu görülürYanda grafiği verilen gerçek sayılar kümesinde tanımlı f 
+fonksiyonunun sıfırlarının toplamı 
++
+ ise a değerini 
+bulunuzDik koordinat düzleminde grafiğin x eksenini kestiği noktalar, ( )
+f =
+ denklemini sağlayan x değerleridir. 
+Bu değerler toplamı 
+- +
++
+=
+ olur. &
+=
++
+=
+ olurYanda grafiği verilen gerçek sayılar kümesinde tanımlı 
+( )
+f =
+ fonksiyonunda ( )
+f =
+ denklemini sağlayan x 
+değerlerini (f nin sıfırlarını) bulunuz( )
+f =
+ denkleminin çözüm kümesinin elemanlarından biri x1  ise bu fonksiyonun grafiği 
+,
+(
+)
+ noktasından geçer ve x eksenini 
+,
+(
+)
+ noktasında keserBir fonksiyonun grafiğinde ( )
+f =
+ denkleminin çözüm kümesinin elemanlarına f in sıfırları 
+denir. Grafik x eksenini kesmiyorsa ( )
+f =
+ denkleminin gerçek sayılar kümesinde çözümü 
+yokturALIŞTIRMALA1. Aşağıda grafiği verilen, gerçek sayılar kümesind  tanımlı f fonksiyonunun sıfırlarını bulunuz      
+     
+ 
+  
+2. Aşağıda grafikleri verilen fonksiyonların tanım 
+ve görüntü kümelerini bulunuza)    
+ 
+b)    
+ 
+3. Aşağıda verilen grafiklerin fonksiyon belirtip  
+    belirtmediğini bulunuza)    
+ 
+b)   
+c)   
+ 
+10.2.1.4. Doğrusal Fonksiyonlarla Modellenebilen Günlük Hayat Durumlar70 cm uzunluğunda dikilip sabit hızla uzayan bir fidanın  boyu, ikinci yılın sonunda 130 cm ye ulaşmıştır. 
+Bu fidanın yıllara göre uzunluğunu gösteren bir doğrusal fonksiyon yazıp ilk 2 yıl için zaman-boy grafiğini 
+çiziniz. Bu fidanın dikildikten 5 yıl sonraki uzunluğunun kaç cm olacağınızı bulunuzx geçen yıl sayısı olmak üzere ( )
+f a=
++
+ bitki boyunu veren fonksiyon 
+olsun. 
+( )
+f a=
++
+ fonksiyonu 
+, 70) ve (2,
+(
+)
+130  noktalarını sağlar. Aynı zamada bu iki nokta birleştirilerek yandaki grafik oluşturulabilir. ( )
+f a=
++
+ 
+fonksiyonund 
+=
+ için ( )
+$
+=
++
+=
+ olup buradan =
+ olur 
+=
+ için ( )
+$
+=
++
+=
+ olup buradan =
+ olura ve b değerleri fonksiyonda yerine yazılırs( )
+f =
++
+ olur. Bu fidanın dikildikten 5 yıl sonraki boyunun uzunluğu 
+( )
+c30 $
+=
++
+=
++
+=
+ olurSabit hızla hareket eden bir aracın deposunda 60 litre yakıt vardır. Her bir saatte aynı miktar yakıt tükete bu araç, 2 saatte 12 litre yakıt tüketerek yol almaktadır. Buna göre yolculuk boyunca deposuna hiç 
+yakıt takviyesi yapmayan bu aracın deposundaki yakıtın kaçıncı saatin sonunda biteceğini bularak bu 
+aracın ilk 10 saat için yakıt değişiminin zamana bağlı grafiğini çizinizx geçen zaman (saat) olmak üzere birim zamandaki yakıt değişimi sabit olduğundan depoda kalan yakıtmiktarın veren foksiyon ( )
+f a=
++
+ doğrusal fonksiyonu olsun( )
+f a=
++
+ doğrusal denkleminde 
+,
+(
+)
+0 60  ve 
+,
+(
+)
+2 48  noktaları fonksiyonu sağlar=
+ için ( )
+$
+=
++

@@ -1,0 +1,400 @@
+[AC]⊥[AB] ve [DE]⊥[AB] olduğundan Temel 
+Orantı Teoremi’ni uygulayalımBBADm di80 &
+&
+=
+=
+=
+=
+1. sokağın uzunluğu 240 m dir4. 
+Yanda verilen krokide 1. sokak, 2. soka ve 3. sokak birbirlerine paraleldir. 
+1. sokak 900 metre ve 2. sokak metre uzunluğundadır. Okul ile Güapartmanı boyunca 1. caddenin uzunluğ 1500 metre, okul ile hastane boyunc 1. caddenin uzunluğu 500 metrise 3. sokak kaç metre uzunluğundadı?
+ÇözüResme ait geometrik çizimi yapıp verilen uzunlukları üzerine yazalımA noktasından, [DC] na paralel olacak şekilde bir doğru parçası çizelim. Bu doğru 
+parçasının [KL] nı kestiği noktaya M, [BC] nı kestiği nokta N noktası olsun[AD]//[KL]//[BC] olduğundan |AD| = |ML| = |NC| = 900 m olur. |BN| = x olsun. 
+ABN üçgeninde Temel orantı teoremini uygulayalım4444444444 444444 1 2 444 AABKx 
+O hâlde 
+dür1500 ·
+=
+=
+=
+=
+=
+300 + 900 = 1200 m bulunurMatematik I2. BölüÜçgenleALIŞTIRMALA1. 
+Şekilde bir odanın görünümü verilmiştir. 
+Karınca ile sehpadaki çiçek arasındaki uzunlu 2 metre, çiçek ile duvar arasındaki  uzunlu 3 metre ve çiçeğin yerden yüksekliği 0,6 
+metre dirÇerçevenin yerden yüksekliği kaç m dir?
+A) 1,B) 1,7 
+ 
+C) 1,8 
+ 
+D) 2. 
+1. soka4. soka3. soka1. cadd2. sokaYanda verilen krokide 1.sokak, 2.sokak ve 1.cadde birbirlerin paraleldir. 3. sokağın 1. sokak ile 2. sokak 
+arasındaki uzaklığı 120 metre, 2. sokak ile 1. cadde 
+arasındaki uzaklığı 240 metre, 1. sokağın uzunluğu 42 
+metre, 2. sokağın uzunluğu 54 metredir. 
+1. caddenin 3. sokak ile 4. sokak arasındaki uzunluğu kaç metredir?
+A) B) C) D) Üçgenin Yardımcı ElemanlarBir üçgenin yükseklik, kenarortay ve açıortaylarına üçgenin yardımcı elemanları 
+denir1. AçıortaÜçgenin bir köşesindeki açıyı iki eş parçaya ayıran ışına açıortay denir. Açıortayısembolü n dir. A köşesine ait açıortay nA, B köşesine ait açıortay nB,  C köşesine ait 
+açıortay nC ile gösterilirnnn AH  = nA, A açısını BM  = nB, B açısını  LC  = nC, C açısının açıortayıdır@
+@
+@
+Matematik I2. BölüÜçgenlenn [AN] = nA, BAC açısınıİkizkenar Üçgende AçıortaD 
+ABC ikizkenar üçgeAAC ve ABC isBDC ve m BAm CAD di=
+=
+=
+=
+@
+@
+%
+%
+Üçgenin İç ve Dış Açıortaylarının ÖzelliklerPergel ve Cetvel Yardımıyla Açıortay ÇizimVerilen açının açıortayını pergel ve cetvel yardımıyla 
+çizelimAO%  nın O noktasına pergelin sivri ucunu koyalım ve 
+açının kollarını kesen bir çember çizelim. Çizdiğimiz 
+çember ile açının kollarının kesiştiği noktalara K ve L 
+diyelim. OO=
+ dir[AK] = n        A , CAL  açısının açıortayıdırMatematik I2. BölüÜçgenlePergelin sivri ucunu K noktasına koyalım ve yarıçapı 
+O@ olacak şekilde yeni bir çember çizelimŞimdi de pergelin sivri ucunu L noktasına koyalım ve 
+yarıçapı O@ olacak şekilde yeni bir çember daha çizeliÇizilen son iki çemberin kesişim noktalarından biri O 
+noktasıdır. Diğerine de M noktası diyelim. Cetvel yardımıyl O ve M noktalarını O olacak şekilde birleştireli.Çizilen 
+O, AO% nın açıortayıdır. Bu durumd 
+s KOs MOL di=
+%
+%
+Açıortay Üzerinde Alınan Bir Noktadan Açının Kollarına İndirilen Dikmelerin 
+Pergel ve Cetvel Yardımıyla ÇizimHerhangi bir açının ölçüsünü iki eş açıya bölen ışınlar açıortay denildiğini öğrenmiştikYandaki şekilde ABC açısını iki eş açıya ayıraBışını ABC açısının açıortayıdırAçıortay üzerindeki herhangi bir noktadan açının kenarların çizilen dik uzunluklar birbirine eşittirMatematik I2. BölüÜçgenle     ABC açısının açıortayı B olduğundam ABm DBADv=
+=
+%
+%
+&
+&
+BAD ile BCD 
+eş olduğundan  AB=
+ olurP Bu özelliği pergel ve cetvel yardımıyla gösterelimYandaki şekilde 
+,
+OC AO%  nın açıortayıdır. O üzerindbir nokta seçelim. Bu noktanın üzerine pergelin sivri ucunu 
+koyalım ve açının O kolu üzerine bir yay çizelim. Bu yayı O üzerindeki kesişim noktalarına K ve L diyelimPergelin sivri ucunu K ya koyalım ve KL yayı üzerinde bir 
+yay çizelim. Pergelin açıklığını bozmadan aynı çizimi L noktas üzerinde yapalım. Bu iki yayın kesişim noktasına M diyeli. Cetvel yardımıyla M noktası ile  P noktasını birleştirinc 
+,
+MO@
+ na dik olur. MP niO@
+ yı kestiği 
+noktaya da D diyelimYukarıda yapılan işlemleri O içinde yapılırsa yandak şekil elde edilmiş olur. Cetvel yardımıyla 
+PvPE  ölçülürse PP=
+ olduğu görülü. Yani açıortay üzerinde alınan bir noktadan açının 
+kollarına indirilen dikmelerin uzunlukları eşit olurMatematik I2. BölüÜçgenleÖRNEKLE1. 
+DADBm ABm DBAcAcDB=
+=
+=
+=
+=
+=
+=
+@
+@
+@
+@
+%
+%
+Yukarıda verilenlere göre x + y kaç cm dir? BulalımÇözü,
+m ABm DBC ve DADB=
+=
+=
+@
+@
+@
+@
+%
+%
+ olduğundaDDcD=
+=
+=
+ABcB=
+=
+x + y = 4 + 8 = 12 cm bulunur2. 
+2x + x + PBPBm ABm PBAP=
+=
+=
+@
+@
+@
+@
+%
+%
+olduğuna göre x değerini bulalımÇözü2x + x + olduğundan |PA| = |PC| dirBuna g rbulunu+
+=
++
+=
+m ABm PB=
+%
+%
+x 
+ 4 cm diry =  8 cm dir2x     x = 6     = (2x + 4)cm,
+= (x + 6)cMatematik I2. BölüÜçgenle3. 
+30°
+4 
+ABC dik üçgen,
+[BN] açıortam BA=
+%
+Yukarıda verilenlere göre |AN| = x kaç cm dir? BulalımÇözü30°
+4 
+4 
+6BN@ açıortay olduğundan N noktasından AB doğru 
+parçasına bir dikme çizelim. N noktasından AB doğr parçasına indirilen dikmenin doğru parçasını kestiğ noktaya R diyelim. Bu durumda,
+|RN| = |NC|
+|RN| = 4 cm olur30°
+RAN üçgeni şekildeki gibi olur. 
+°
+°
+°
+-
+-
+ üçgenind 90° nin karşısındaki kenarın uzunluğu 30° nin 
+karşısındaki kenarın uzunluğunun iki katı olacağından 
+ARAcm bulunu2 =
+=
+=
+CN  = 4 cMatematik I2. BölüÜçgenleALIŞTIRMALA1. 
+4 
+DADBm DBm DBAcCc=
+=
+=
+=
+=
+@
+@
+@
+@
+%
+%
+Yukarıda verilenlere göre |BD| kaç cm dir?
+A) B) C) D) 230°
+°
+ABC bir digem BAm ACm DCDcü=
+=
+=
+%
+%
+%
+olduğuna göre |AD| kaç cm dir?
+A) B) C) D) 36 
+AAm ABm DBAcAcDc=
+=
+=
+=
+=
+@
+@
+%
+%
+Yukarıda verilenlere göre |BC| kaç cm dir?
+A) B) C) D) Matematik I2. BölüÜçgenleİç Açıortay Özellikler1ABC üçgeninde [AD] iç açıortaydır. ADB ve ADC 
+üçgenlerinin [BC] tabanına göre yükseklikleri eşit olduğunda
+A ADA AD2ADB üçgeninde [AB] kenarına ait yükseklik, ADC 
+üçgeninde [AC] kenarına ait yüksekliğe eşittir|KD| = |DL| olur3ABC üçgeninde [AD] iç açıortay olmak üzere;
+b olu=
+ 
+Bu bağıntıya iç açıortay bağıntısı denir4ABC üçgeninde [BD] ve [DC] iç açıortayların 
+kesişim noktası D noktasıdırİç açıortaylar arasındaki BD%  nın ölçüsü,
+m BDm BAC di=
++
+%
+%
+= BDolur&
+&
+Matematik I2. BölüÖRNEKLE1. 
+ABC üçgenindA,
+,
+,
+a ortaAcm AcDcm ve Bç=
+=
+=
+=
+@
+olduğuna göre x kaç cm dir? BulalımBADAbulunu4 $
+$
+=
+=
+=
+=
+2. 
+A,
+,
+,
+ABC bigea ortaAcm AcBcm ve Nüç=
+=
+=
+=
+@
+olduğuna göre x kaç cm dir?
+Çözü|BC| = 7 cm ise |BN| = 7 – x olur.     
+|AN| açıortay olduğundan 
+BANA&
+=
+6x + 8x = 56     
+14x =  x = 4 cm bulunurÇözü[AD] açıortay olduğunda7     x = x     
+8 & 6x = 56    87    _ 
+Üçgenle& 
+– a + =
+Matematik I2. BölüÜçgenle3. 
+N 
+a+a – ABC üçgeninde,
+A,
+,
+,
+a ortaBcm NcAç=
+=
+=
+@
+olduğuna göre a kaç cm dir? BulalımÇözü[AN] açıortay olduğundan 
+BANA=
+         6 a –3 6a –36a –336cm bulunur=
++
+=
++
+=
++
+=
+=
+^
+^
+4. 
+ABC üçgenind A,
+,
+,
+a ortaBcm Ncm Ax vevre ABcç=
+=
+=
+=
+@
+&
+olduğuna göre x kaç cm dir? BulalımÇözü43[AN] açıortay olduğunda,
+liBANAAAAk Ak diyevre ABc&
+=
+=
+=
+=
+=
+&
+ olduğunda(a     2)cm ve   AC   = (a + 2) cMatematik I2. BölüÜçgenleAABcm diAbulunu4 +
++
+=
++
++
+=
+=
+=
+=
+=
+=
+=
+5. 
+58°
+ABC üçgeninde,
+Bve DC i a ortaylar vm BAç ç°
+=
+@
+@
+%
+olduğuna göre 
+?
+m BDC ka derecedi%
+ BulalımÇözüüABgeninde BD ve DC i a ortaylar ism BDm BAC dir Buna g rm BDbulunuç ç°
+°
+°
+°
+°
+°
+=
++
+=
++
+=
++
+=
+@
+@
+%
+%
+%
+ALIŞTIRMALA1. 
+ABC bir üçgeA,
+,
+a ortaAcm AcNcm ve Bç=
+=
+=
+=
+@
+Yukarıda verilenlere göre x kaç cm dir?
+A) B) C) D) Matematik I2. BölüÜçgenle2ABC üçgenindA,
+a ortaAB 
+cAcm vBcç=
+=
+=
+@
+Yukarıda verilenlere göre |DC| kaç cm dir?
+A) B) C) D) 3. 
+ABC üçgenindA,
+,
+a ortaBcm Ncm vevre ABcç=
+=
+=
+@
+&
+Yukarıda verilenlere göre |AC| = x kaç cm dir?
+A) B) C) D) 4. 
+72°
+ABC üçgenindBve DC i a ortaylaç çm BACi = 72° 
+@
+@
+%
+olduğuna göre 
+?
+m BDx ka derecedi=
+%
+A) B) C) D) Matematik I2. BölüDış Açıortay Özellikler1Yandaki şekilde ABC üçgenine ait B ve C  köşelerinin 
+dış açıortayları, 
+BD ve CD di@
+@
+Dış açıortayların kesişim noktası D noktası olmak 
+üzere;
+m BDm BA° –
+=
+di%
+%
+2. 
+a a ABC üçgenind[AD] iç açıortay ve [AE] dış açıortaydırm(BA∑D) = a, m(CA∑E) = b diyeli2 a + 2b = 180° dira + b = 90° ve 
+m(DA∑E) açısı 90° olur3[AD] dış açıortay olmak üzerdi=
++
+ÖRNEKLEABC bir üçgen,
+[AD] dış açıortay,
+Acm, Acm,
+Bcm ve C=
+=
+=
+=
+Yukarıda verilenlere göre |CD| = x kaç cm dir? BulalımÜçgenleMatematik I2. BölüÜçgenleÇözü[AD] dış açıortay ise,
+AABC&
+=
+=
++
+   3 355x –32$
++
+=
++
+=
+=
+=
+=
+6 cm bulunur^
+2. 
+30°
+ABC bir dik üçge[AD] dış açıortam ABAcm ve C°
+=
+=
+=
+%
+Yukarıda verilenlere göre |CD| = x in kaç cm olduğunu bulalımÇözü60°
+6§30°
+ABC dik üçgeninde kenar uzunluklarını yerleştirelim30° – 60° – 90° üçgeninde 90° nin karşısındaki kenarın 
+uzunluğu 12 cm olduğundan 30° nin karşısındaki kenarı uzunluğu 6 cm, 60° nin karşısındaki kenarın uzunluğu 
+6 3  cm olur[AD] dış açıortay olduğundaAABC6 &
+=

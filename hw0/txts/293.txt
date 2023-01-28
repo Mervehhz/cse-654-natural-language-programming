@@ -1,0 +1,400 @@
++
+-
++
+-
++
+)
+-
+olduğuna göre aşağıdaki eşitliklerden 
+hangisi yanlıştır?
+)
+)
+)
+)
+A g C h D h E f g =
+=
+=
+=
+)
+B =
+ll]
+]
+]
+]
+]
+]
+]
+]
+]
+]
+-
+-
+f d=
+]
+#
+olduğuna göre f ] g fonksiyonunun 
+=
+ noktasındaki teğetinin eğimi 
+kaçtır?
+)
+)
+)
+)
+)
+-
+-
+-
+-
+-
+,
+f g ve h ]
+]
+]
+g ikinci mertebeden 
+türevlenebilir fonksiyonlardırf g x dg h x d=
+=
+:
+:
+]
+]
+]
+]
+#
+#
+D) 12-45. çoktan seçmeli soruları çözünüz       
+     ve doğru seçeneği işaretleyiniz-
+-
+f d=
+]
+#
+olduğuna göre f  fonksiyonunun  ekstremu noktalarının apsisleri toplamı 
+kaçtır? 
+)
+)
+)
+)
+)
+-
+-
+d#
+ifadesinin eşiti aşağıdakilerden hangisidi?
+)
+)
+)
+)
+)
+-
++
++
+-
++
++
++
+x f x d$
+=
+-
++
+] #
+olduğuna göre f ] g fonksiyonu aşağıdakilerde hangisidir?
+)
+)
+)
+)
+A D +
+-
++
+-
+-
++
++
+-
+)
+3 +
+x d+
+#
+ifadesinin eşiti aşağıdakilerden hangisidi?
+)
++
++
+)
+)
+)
+)
++
++
++
++
++
++
++
++
+)
+)
+)
+)
+)
+P x da$
+-
+=
++
+-
+]
+]
+#
+eşitliğini sağlayan P ] g polinomu için 
+P ] g değeri kaçtır?
+d+
+#
+ifadesinin eşiti aşağıdakilerden hangisidi?
+)
++
++
+)
+)
+)
+)
+-
++
++
++
++
++
++
++
+İntegra22 Aşağıdaki eşitliklerden hangisi yanlıştır?
+)
+)
+)
+)
+x dxudv dndd=
++
+=
++
+=
++
+=
++
+=
+)
++
+#
+#
+#
+#
+#
+f =
+-
+=
++
+:
+:
+^
+]
+#
+olduğuna göre f  fonksiyonunun ekstremu noktasının apsisi aşağıdakilerden 
+hangisidir? 
+)
+)
+)
+)
+)
+-
+-
+-
+-
+d$#
+ifadesinin eşiti aşağıdakilerden hangisidi? 
+)
+-
+-
+-
+-
+-
+)
+)
+)
+$
++
++
++
++
+)
++
+d-
++
+-
+#
+ifadesinin eşiti aşağıdakilerden hangisidi?
+)
+)
+)
+)
+)
+A B C E -
++
++
+-
++
++
+-
+-
++
++
+-
++
+-
+=
+-
+-
+-
+=
+:
+:
+]
+] olduğuna göre f ] g fonksiyonunun grafiğnin y eksenini kestiği noktanın ordinat kaçtır? 
+)
+)
+)
+)
+)
+-
+g f x dx x d$
+=
++
+=
+=-
+=
+:
+:
+:
+:
+]
+]
+]
+]
+]
+]
+#
+#
+olduğuna göre g ] g değeri kaçtır? 
+)
+)
+)
+)
+)
+-
+-
+Diferansiyeli 
+d+
+]
+ olan fonksiyon 
+aşağıdakilerden hangisidir?
+)
++
+)
+)
+)
++
++
++
+-
++
+)
+B d2 +
+#
+ifadesinin eşiti aşağıdakilerden hangisidi?
+)
+)
+)
+)
++
++
++
++
++
++
++
++
++
+)
++
+-
+d$#
+ifadesinin eşiti aşağıdakilerden hangisidi?
+)
+)
+)
+)
+)
+A B C D E -
++
+-
++
+-
++
+-
++
+-
++
+x d-
+#
+ifadesinin değeri kaçtır?
+)
+)
+)
+)
+)
+Matematik dl^
+#
+ifadesinin eşiti aşağıdakilerden hangisidi?
+)
+)
+)
+)
+)
+A x D E f $
++
++
++
++
++
+^
+^
+]
+^
+^
+g x x d2 3 $
+=
+=
+=
+:
+:
+:
+]
+]
+]
+]
+]
+^
+#
+olduğuna göre ]
+] g  oranı kaçtır?
+)
+)
+)
+)
+)
+Yukarıda 
+,
+2 @ nda tanımlı f ] g fonksiyonunu grafiği verilmiştirBuna göre 
+f x d] #
+ ifadesinin değeri 
+aşağıdakilerden hangisi olamaz?
+)
+)
+)
+)
+)
+-
+d#
+ifadesinin değeri kaçtır?

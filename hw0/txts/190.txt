@@ -1,0 +1,400 @@
+��
+. . (
+)
+siA ABb =
+&
+Hatırlatm80 c5Basama 
+ 
+Yandaki şekilde yarıçap uzunlukları 2 cm ve 3 cm olan 
+aynı merkezli iki daire verilmiştir. Buna göre boyalı  
+bölgenin alanının kaç cm2 olduğunu bulunuzÇözüBoyalı bölgenin alanı S ile gösterildiğindS = π(R2 - r2) = π(32 - 22) = 5π cm2 olur. 
+43. Örnek 
+Şekildeki d doğrusu, çemberi A 
+ve B noktalarında kesmektedir. 
+Çember, d doğrusu simetri ekseni 
+olacak şekilde katlandığında ikinci 
+bir şekil elde ediliyor. 
+Çemberin yarıçap uzunluğu 6 cm, 
+AB kirişinin uzunluğu 6 3  cm 
+olduğuna göre boyalı bölgenin 
+alanının kaç cm2 olduğunu bulunuzÇözüÇemberin merkezi O olsun. Merkezden [OA] ve [OB] 
+yarıçapları çizildiğinde kenar uzunlukları 6-6-6 3 cm olan 
+AOB özel üçgeninde 
+(
+)
+m AO\  = 120° olur. 
+2. şekildeki boyalı bölgenin alanı A, 
+diğer bölgelerin alanı S olsun. Bu durumdA + 2S = π.r2 = π.62 = 36π cm2 olurA = 36π - 2S olurS alanını bulmak için 1. şekilde merkez açısı 120° olan daire 
+diliminin alanından AOB üçgeninin alanı çıkarılır. . °
+si1 6 6 °
+°
+��
+=
+-
+9 ��
+=
+-
+cm2 olurS alanı  A = 36π - 2S eşitliğinde yerine yazıldığındA = 36 π - 2.(12π - 9 3 ) = 36 π - 24π + 18 A = 12π + 18 3 cm2 olur44. Örnek 
+6 6 (1)
+6 30°
+30°
+120°
+(2)
+A) Aşağıda verilen cümlelerde boş bırakılan yerleri uygun ifadelerle doldurunuz1. Çemberi farklı iki noktada ......................... doğruya çemberin keseni denir. 
+2. Çember ile ......................... ortak noktası olan doğruya çemberin teğeti denir. 
+3. Bir çember ile çemberin iç bölgesinin birleşimine ......................... denir. 
+4. Bir çemberde en büyük kirişe çemberin .......................... denir. 
+5. Bir çemberin çevre uzunluğunun çemberin çap uzunluğuna oranı .................... sabit sayısına eşittir. 
+6. Köşesi çember üzerinde bulunan ve kolları çemberi farklı iki noktada kesen açıya çemberin  
+.......................... denir. 
+7. Bir çemberde, gördüğü yayın ölçüsüne eşit olan açı  ......................... açıdır8. Düzlemde sabit bir noktadan eşit uzaklıkta bulunan noktaların kümesine ......................... denir.  
+B) Aşağıda verilen numaralandırılmış ifadeleri harf ile verilen ifadelerle eşleştiriniz.  
+9. (    )
+10. (    )
+11. (    )
+12. (    )
+a) x - y = 180°
+b) y = 2c) x + y = 180°
+ç) x = d) x = 2e) x + y = 90°
+f) x - y = 90°
+ÖLÇME VE DEĞERLENDİRM 
+ 
+A) Aşağıda verilen cümlelerde boş bırakılan yerleri uygun ifadelerle doldurunuz1. Çemberi farklı iki noktada ......................... doğruya çemberin keseni denir. 
+2. Çember ile ......................... ortak noktası olan doğruya çemberin teğeti denir. 
+3. Bir çember ile çemberin iç bölgesinin birleşimine ......................... denir. 
+4. Bir çemberde en büyük kirişe çemberin .......................... denir. 
+5. Bir çemberin çevre uzunluğunun çemberin çap uzunluğuna oranı .................... sabit sayısına eşittir. 
+6. Köşesi çember üzerinde bulunan ve kolları çemberi farklı iki noktada kesen açıya çemberin  
+.......................... denir. 
+7. Bir çemberde, gördüğü yayın ölçüsüne eşit olan açı  ......................... açıdır8. Düzlemde sabit bir noktadan eşit uzaklıkta bulunan noktaların kümesine ......................... denir.  
+B) Aşağıda verilen numaralandırılmış ifadeleri harf ile verilen ifadelerle eşleştiriniz.  
+9. (    )
+10. (    )
+11. (    )
+12. (    )
+O merkezli çeyrek 
+çemberde |BD| = 9 birim,
+|DC| = 15 birim ve 
+[CD]⊥[OB] olduğuna 
+göre çemberin yarıçap 
+uzunluğunun kaç birim 
+olduğunu bulunuz. 
+Şekildeki O merkezli 
+çemberde B noktası 
+çemberin üzerinde, 
+A noktası çemberin 
+dışındadır|OB| = (2x + 1) birive |OA| = (5x - 8) birim 
+olduğuna göre x ien küçük tam sayı değeri 
+için çemberin yarıçap 
+uzunluğunun kaç birim 
+olduğunu bulunuz. 
+Yarıçap uzunluğu 8 birim 
+olan şekildeki O merkezli 
+çemberde 
+|OA| = 4 birim olduğuna 
+göre A noktasından 
+geçen en kısa kirişin 
+uzunluğunun kaç birim 
+olduğunu bulunuz. 
+[AB] çaplı yarım 
+çemberde |BC| = 2 birim ve |AD| = 3 birim 
+olduğuna gör|DC| = x değerinin kaç 
+birim olduğunu bulunuzO merkezli çemberde 
+|AB| = |CD| = 6 birim,
+|OE| = (2x + 1) birim v|OF| = (5x - 2) birim 
+olduğuna göre çemberin 
+yarıçap uzunluğunun kaç 
+birim olduğunu bulunuzYarıçap uzunluğu 13 birim olan bir çemberde 
+uzunluğu 10 birim olan kirişin merkeze uzaklığının 
+kaç birim olduğunu bulunuz2 C) Aşağıdaki soruların çözümlerini altlarındaki 
+boşluklara yazınız13.  
+17.  
+14.  
+18.  
+15.  
+16.  
+21.  
+22.  
+Deniz kirliliği, deniz canlılarının ve insanların 
+hayatını olumsuz etkiler. Denizlerdeki kirliliğin 
+sebeplerinden biri petrol tankeri kazalarıdır. 
+Bir tanker kazasında denize sızan petrol dairesel 
+şekilde yayılmaktadır. Petrolün yayılma hızı 
+saatte 5 metre olduğuna göra) Kirlenen deniz yüzeyinin yarıçap uzunluğunu 
+zamana (t) bağlı bir fonksiyon olarak yazınızb) Kirlenen deniz yüzeyinin alanını zamana bağlı 
+bir fonksiyon olarak yazınızc) 1 günün sonunda deniz yüzeyinde oluşacak 
+kirliliğin kaç metrekare  olacağını bulunuzO merkezli çeyrek 
+çemberde OABC 
+dikdörtgen,
+|AC| = 10 birim ve 
+|EC| = 4 birim olduğuna 
+göre |AD| nun kaç birim 
+olduğunu bulunuzYarıçap uzunluğu          
+4 birim olan O merkezli 
+yandaki çembere PA 
+ışını  A noktasında 
+teğettir|AP| = 8 2 birim 
+olduğuna göre 
+|PB| nun kaç birim 
+olduğunu bulunuz8 19.  
+20.  
+Yandaki [AB] çaplı yarım 
+çember [AE], [EC] ve 
+[BC] na sırasıyla A, D ve 
+B noktalarında teğettir. 
+|AE| = 2 birim, 
+|BC| = 8 birim olduğuna 
+göre çemberin yarıçap 
+uzunluğunun kaç birim 
+olduğunu bulunuz 
+ 
+Şekildeki çemberde 
+(
+)
+m AC\  = 80°,
+(
+)
+m CD\  = 50° ve 
+(
+)
+m DA\  = 20° 
+olduğuna göre 
+(
+)
+m AB\  = x kaç 
+derecedir?
+Şekildeki çemberde 
+(
+)
+m BO\  = 120°,
+(
+)
+m AB\  = 3x + 10° v(
+)
+m AC\  = 2x + 30° 
+olduğuna göre 
+(
+)
+m AB\  
+kaç derecedir?
+Şekildeki çemberde 
+( )
+m AW  = 40° v(
+)
+m CF70°
+=
+\
+ 
+olduğuna göre 
+(
+)
+m DE=
+\
+ kaç 
+derecedir?
+Yandaki O merkezli 
+çeyrek çemberdBOC dik üçgen,
+|BD| = 8 birim v|DC| = 5 birim olduğuna 
+göre |BO| = x kaç 
+birimdir?
+Yandaki ABC ikizkenar 
+üçgeninde 
+|AB| = |AC| = 13 birim, 
+|BC| = 4 birim olduğuna 
+göre üçgenin çevrel 
+çemberinin yarıçap 
+uzunluğu kaç birimdir?
+A) 8        B) 5        C) 3 13        D) 2 13         E) A) 15  
+B) 13  
+C) 11  
+D) 13  
+E) A) 10 
+B) 12 
+C) 20 
+D) 22 
+E) A) 30 
+B) 50 
+C) 60 
+D) 70 
+E) A) 50 
+B) 55 
+C) 60 
+D) 65 
+E) 80°
+50°
+20°
+40°
+70°
+Yandaki şekilde M 
+merkezli çember 
+y  eksenini (0, 2)  ve A 
+noktasında kesmekte, 
+x eksenine (4, 0)  
+noktasında 
+teğettir. Çemberin 
+yarıçap uzunluğu kaç 
+birimdir?
+A) 5 
+B) 6 
+C) 7 
+D) 8 
+E) D) Aşağıdaki çoktan seçmeli soruları okuyunuz ve 
+doğru seçeneği işaretleyiniz23.  
+24.  
+25.  
+26.  
+27.  
+28.  
+120°
+A) 50 - 13π        B) 60 - 13π     C) 60 - 15π 
+     
+ D) 60 - 26π     E) 70 - 15Yandaki O merkezli 
+dairede 
+|OA| = 
+5  birim ve 
+(
+)
+m AO\  = 120° 
+olduğuna göre boyalı 
+bölgenin alanı kaç 
+birimkaredir?
+Yandaki şekilde 
+ABCD dikdörtgen 
+ve  A, B merkezli 
+çeyrek çemberler F 
+noktasında teğettir. 
+|BC| = 6 cm, 
+|AF| = 4 cm olduğuna 
+göre boyalı bölgenin 
+alanı kaç cm2 olur?
+A) �� 
+B) 2�� 
+C) 4�� 
+D) 5�� 
+E) 7��
+A) 95 
+B) 105 
+C) 110 
+D) 115 
+E) O 120°
+Yandaki [AB] çaplı yarım 
+çemberde [BC] = 6 cm, 
+(
+)
+m AB\  = 30° olduğuna 
+göre boyalı bölgenin alanı 
+kaç cm2 olur?
+A) 4π - 3  
+B) 4 3  - 2π 
+C) 2π -
+3  
+D) 9 3  
+E) π - 
+30°
+29.  
+30.  
+31.  
+32.  
+Şekildeki [AB] çaplı 
+yarım çemberd|AD| = |DC| v(
+)
+m DA\  = 75° 
+olduğuna göre BC 
+yayının ölçüsü kaç 
+derecedir?
+A) 60 
+B)75 
+C) 80 
+D) 100 
+E) 34.  
+75°
+Çevre uzunluğu, alanının 2  si olan dairenin alanı 
+kaç birimkaredir?
+A) 10π 
+B) 16π 
+C) 25π 
+D) 27π 
+E) 3633.  
+42°
+23°
+Yandaki çemberde teğetin 
+değme noktası D olup 
+ABC üçgeninin köşeleri 
+çemberin üzerindedir. 
+(
+)
+m BD\  = 23° v 
+(
+)
+m AC\  = 42° olduğuna 
+göre DBA açısının ölçüsü 
+kaç derecedir?
+ 
+6. UZAY GEOMETRGEOMETR6.1. Katı CisimleBu bölümd• Küre, dik dairesel silindir ve dik dairesel koninin alan ve hacim 
+bağıntılarını oluşturarak işlemler yapmayöğreneceksinizTuz Gölü Yeraltı Doğal Gaz Depolama ProjesTuz Gölü’nün yaklaşık 40 km güneyindeki Sultanhanı beldesinde bulunan tesislerde 
+yerin 1400 metre altındaki tuz yapılarında kuyular açılmaktadır. Açılan kuyulara tatlı 
+su basılarak eritilen tuz, bir boru hattıyla Tuz Gölü’ne aktarılmaktadır. Bu şekilde 12 
+suni mağara oluşturulmaktadır. Oluşturulan 12 suni mağarada doğal gaz depolaması 
+yapılacaktır. Bu mağaralardan günlük 44 milyon metreküp gaz ülkemizin doğal gaz 
+şebekesine dağıtılacaktırhttp://tuzgoluebt.botas.gov.tr/index.php/tDik Dairesel Silindir, Dik Dairesel Koni, Küre, Alan, Hacim,
+Ana Doğru, Tepe NoktasK A V R A M L A H A Z I R L I K  Ç A L I Ş M A S Tuz GölTuz GölTuz kütlesDoğal gazın hangi miktarlarda depolanacağını tespit 
+etmek için mağaralarla ilgili ne tür bilgi ve kavramlara 
+ihtiyaç duyulur?
+ 
+SilindiUzaydaki bir düzlemde bir k kapalı eğrisi ile bu düzleme paralel olmayan bir d doğrusu verilmiş 
+olsun. k eğrisini kesen ve d doğrusuna paralel olan doğruların kümesine silindirik yüzey denir. 
+k eğrisine silindirik yüzeyin dayanak eğrisi, d doğrusuna paralel olan doğruların her birine 
+silindirik yüzeyin ana doğrusu denirSilindirik yüzey ile bu yüzeyi kesen paralel iki düzlemin sınırladığı cisme silindir denirDüzlem ile oluşan kesitlerin her birine silindirin tabanı denirAna doğrunun tabanı kestiği noktada, tabandan geçen bütün doğrulara dik olan silindire dik 
+silindir, tabanları daire olan dik silindire dik dairesel silindir denirBu kitapta dik dairesel silindir yerine silindir ifadesi kullanılacaktırSilindirin tabanlarının merkezinden geçen doğruysilindirin ekseni denirSilindirin tabanları arasındaki uzaklığa silindirin yüksekliği 
+denirSilindirin yüksekliği aynı zamanda ana doğru parçasının 
+uzunluğuduryüksekliekseana doğrdayanak eğrisi (k)
+silindirik yüzesilindi6.1. Katı Cisimle6.1.1. Dik Dairesel Silindir, Dik Dairesel Koni, Kürenin  Alan ve Hacim BağıntılarDikdörtgensel bölgenin y ekseni etrafında 360° döndürülmesi ile dönel 
+silindir elde edilir. 
+Dik dairesel silindire dönel silindir de denirNoana doğru 
+parçasyükseklidayanak eğrisSilindir ile silindirin tabanlarına dik bir 
+düzlemin kesişimi dikdörtgendirSilindir ile silindirin tabanlarına paralel bir 
+düzlemin kesişimi dairedirO1 ve O2 taban merkezleri olmak üzere yanda verilen 
+silindirin yüksekliği 10 birim, taban yarıçap uzunluğ5 birimdir. K, taban dairesinin çevresi üzerinde bir nokta 
+olduğuna göre O1K uzunluğunun kaç birim olduğunu 
+bulunuzÇözüO1, O2  ve K noktaları birleştirildiğinde O1KO2  dik üçgeni 
+oluşur. Bu dik üçgende Pisagor teoremi uygulandığınd|O1K|2 =|O1O2|2 +|KO2|2 = 102 + 52  = 125 olur. Burada|O1K| = 5 5  birim olur1. Örnek 
+Şekildeki silindirde O, taban merkezidir. A ve C, silindirin 
+üst taban çevresi üzerinde; B, alt taban çevresi üzerinde 
+birer noktadır. 
+(
+)
+m BA\  = 60° ve silindirin taban yarıçap 
+uzunluğu 6 birim olduğuna göre OC uzunluğunun kaç birim  
+olduğunu bulunuzÇözüABO, 30°-60°-90° özel üçgeninde kenar uzunlukları 
+sırasıyla -
+-
+ oranında olduğunda|AB| = 
+2 =
+ birim ve |AO| = 4 3  birim olurBuradan |AO|=|OC| olduğundan |AO| = 4 3  birim olur2. Örnek 
+OOOO60°
+60°
+2  
+Taban merkezi O olan şekildeki silindirde A ve B 
+üst taban dairesinin çevresi üzerinde birer noktadır. Silindir 
+[AB] boyunca tabana dik  bir düzlemle kesiliyor(
+)
+m AO\  = 120°, |OA|=|OB|= 4 birim, silindirin yüksekliği 
+12 birim olduğuna göre oluşan kesitin alanının kaç 
+birimkare olduğunu bulunuz. 
+ÇözüSilindirin tabanlara dik bir düzlem ile kesilmesi sonucu dikdörtgen elde edilir. ABCD 
+dikdörtgeninin alanı, oluşan kesitin alanıdır. AOB, 30°-30°-120° özel üçgeninde kenar 
+uzunlukları sırasıyla a -
+-
+ oranında olduğunda|AB|= 4 3   birim olur. Buradan 
+kesitin alanı |AB|.|AD|= 
+4 3 48 =
+ birimkare olur3. Örnek 
+İçinde bir miktar su bulunan bir silindir, şekildeki gibeğik duruma getirilmiştir. |FB| = 4 birim, 
+|CE|= 8 birim olduğuna göre AB uzunluğunun kaç 
+birim olduğunu bulunuzÇözü|AB| = |DC| = x olsun. Silindirin eğik duruma getirilmesi taban yarıçapını ve içindeki su 
+miktarını değiştirmediğinden |AB| + |DC| = |FB| + |EC| olur. Buradan 
+x + x = 4 + 8 ⇒ x = 6 birim olur4. Örnek 
+Yandaki silindirde r yarıçap, O1 ve O2  taban merkezleri,
+[O1B]⊥[O2B], 
+(
+)

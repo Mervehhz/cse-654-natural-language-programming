@@ -1,0 +1,400 @@
+)!
+!
+( , )
+(
+(
+))! (
+)!
+!
+( , )
+(
+)! (
+(
+))!
+!
+( , )
+( ,
+)
+C n C n C n C n C n C n $
+$
+$
+$
+=
+-
+=
+-
++
+-
+=
+-
+-
+-
+=
+-
+-
+-
+=
+-
+`
+bbbbbbbbbbbbbbbbbbbbbbbbbb 
+Sonuç olarak n elemanlı bir kümenin r elemanlı alt kümeleri ile 
+-  elemanlı alt kümeleri eşit sayıdadır(
+)
+(
+)
++
++
+=
++
+-
++
++
+=
++
+=
++
++
++
+=
++
+-
++
++
+=
++
+=
++
+`
+bbbbbbbbbbbb 
+(
+)
+(
+)
++
++
++
+=
+=
+olu(
++
++
++
++
++
+=
++
+=
+[
+\
+]]]]]]]]]]
+]]]]]]]]]]
+ 
+(
+,
+)
+(
+,
+)
+20 20 19 =
+ ve 
+,
+,
+(
+)
+(
+)
+20 20 =
+ olduğunda,
+,
+,
+,
+(
+)
+(
+)
+(
+)
+(
+)
+!
+!
+!
+!
+!
+20 20 20 20 2 1 20 19 $
+$
+$
+$
+$
++
+=
++
+=
++
+=
++
+=
++
+=
+ olurVeri, Sayma ve OlasılıVeri, Sayma ve Olasılı A=
++
++
++
++
+l olduğuna göre A ifadesinin değerini bulunuzİpuc8 erkek, 6 kadın arasından 2 si kadın, 3 ü erkek 5 kişilik bir grubun kaç farklı şekilde seçilebileceğini bulunuz&
+&
+=
+=
++
+=
+ ve 
+!
+!
+!
+$
++
++
+=
++
++
+=
++
+=
+ olur 
+3 elemanlı alt küme sayısı, 5 elemanlı alt küme sayısına eşit olan bir kümenin en çok 2 elemanlı alt 
+küme sayısını bulunuzn elemanlı bir kümenin 
+0 elemanlı alt küme sayısı: 
+`
+bbbbbbbbbbbbbbbbbbbbbbbbBuradan n elemanlı bir kümenin tüm alt kümelerinin sayısı  
++
++
++
++
+l bulunur. 
+Bu değer aynı zamanda 2n  sayısına eşittirDolayısıyla 
+2+
++
++
++
+=
+ olur1 elemanlı alt küme sayısı:                                                                
+2 elemanlı alt küme sayısı:                                                                  
+                                                         .  
+                                                         .  
+                                                         .  
+n elemanlı alt küme sayısı:  n, bir kümenin eleman sayısı olmak üzere 
+2+
++
++
++
+=
+ olurBu özelliğin doğruluğu aşağıdaki gibi gösterilebilirolu&
+&
++
++
++
++
++
++
+=
++
++
+=
+=
+4444444444444444  
+                                                                                    
+Bu seçim yapılırken gruptaki 5 kişinin 2 si kadın olacağından 6 kadın arasından 2 kadın, 
+l farklı şekild; 5 kişinin 3 ü erkek olacağından 8 erkek arasından 3 erkek, 
+l farklı şekilde seçilebilir. Bu durumda 
+8 erkek, 6 kadın arasından 2 si kadın, 3 ü erkek olan 5 kişilik grup sayısı saymanın temel ilkesi  (çarpma 
+yoluyla sayma) gereği 
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+2 1 6 5 3 2 1 8 7 6 15 $
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+=
+=
+=
+=
+ olurVeri, Sayma ve OlasılıVeri, Sayma ve Olasılıa, b, c, d, 1, x,
+,
+%
+= "
+,  kümesi veriliyor. 
+a) A kümesinin 3 elemanlı alt kümelerinin kaçında a elemanının bulunduğunu hesaplayınızb) A kümesinin 3 elemanlı alt kümelerinin kaçında b elemanının bulunmadığını hesaplayınızc) A kümesinin 3 elemanlı alt kümelerinin kaçında a elemanının bulunup b elemanının bulunmadığını 
+hesaplayınıza) Oluşturulabilecek 3 elemanlı alt kümelerinin elemanlarından biri a olacağından diğer 2 si,
+    
+, c, d, 1, x,
+,
+%
+= "
+,  kümesinin elemanlarından seçilmelidir. ( )
+s =
+ olduğundan bu 7 
+    elemandan 2 si, 
+!
+!
+!
+!
+!
+2 1 7 6 $
+$
+$
+$
+$
+=
+=
+=
+ farklı şekilde seçilebilir. Dolayısıyla A kümesinin 
+    a elemanını içeren 3 elemanlı alt kümelerin sayısı 21 dirb) Oluşturulabilecek 3 elemanlı alt kümelerinin elemanları arasında b bulunmayacağından 3 ü,
+  
+, c, d, 1, x,
+,
+%
+= "
+,  kümesinin elemanlarından seçilmelidir. ( )
+s =
+ olduğundan bu 7 
+elemandan 3 ü,  
+!
+!
+!
+!
+!
+3 2 1 7 $
+$
+$
+$
+$
+$
+$
+=
+=
+=
+ farklı şekilde seçilebilir. Dolayısıyla A kümesinin b 
+elemanını içermeyen 3 elemanlı alt kümelerin sayısı 35 tirc) Oluşturulabilecek 3 elemanlı alt kümelerin elemanları arasında a bulunup b bulunmayacağından 
+diğer 2 si, 
+, d, 1, x,
+,
+%
+D = "
+,   kümesinin elemanlarından seçilmelidir. ( )
+s =
+ olduğundan bu 
+6 elemandan 2 si, 
+!
+!
+!
+!
+!
+2 5 $
+$
+$
+$
+$
+=
+=
+=
+ farklı şekilde seçilebilir. Dolayısıyla A kümesinin  a 
+elemanını içeren ve b elemanını içermeyen 3 elemanlı alt kümelerinin sayısı 15 tira) Oluşturulabilecek 4 elemanlı alt kümelerin elemanlarından 2 si 4 ve 5 olacağından diğer  2 
+si, 
+1, 2, 3, 6, 7, B = "
+,  kümesinin elemanlarından seçilmelidir. ( )
+s =
+ olduğundan bu 6 
+elemandan 2 si, 
+!
+!
+!
+!
+!
+2 1 6 5 $
+$
+$
+$
+$
+=
+=
+=
+ farklı şekilde seçilebilir. Dolayısıyla A kümesinin 4 ve 
+5 elemanlarını içeren 4 elemanlı alt kümelerinin sayısı 15 tir.  
+b)  A kümesinin 3 ve 6 elemanlarının dışında kalan elemanların oluşturduğu 4 elemanlı alt kümelerinin 
+sayısını bulup bu sonuç, A kümesinin 4 elemanlı alt kümelerinin sayısından çıkarılırs   
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+4 3 2 1 8 7 6 5 2 1 6 5 $
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+-
+=
+-
+=
+-
+=
+-
+=
+ elde edilir. Dolayısıyla A 
+kümesinin 3 veya 6 elemanlarını içeren 4 elemanlı alt kümelerinin sayısı 55 tir1, 2, 3, 4, 5, 6, 7, A = "
+,  kümesi veriliyor. 
+a) A kümesinin 4 elemanlı alt kümelerinin kaç tanesinde 4 ve 5 elemanlarının bulunduğunu hesaplayınızb) A kümesinin 4 elemanlı alt kümelerinin kaç tanesinde 3 veya 6 elemanının bulunduğunu hesaplayınızVeri, Sayma ve OlasılıVeri, Sayma ve Olasılı6 matematik, 4 fizik öğretmeni arasından en fazla 2 fizik öğretmeninin bulunduğu 4 kişilik bir komisyonun 
+kaç farklı şekilde seçilebileceğini bulunuz. 
+4 kişilik komisyonda en fazla 2 fizik öğretmeni bulunması; bu komisyonda 2 fizik öğretmeninin 
+bulunması,1 fizik öğretmeninin bulunması ya da hiçbir fizik öğretmeninin bulunmaması durumunda  
+olabilir. Bu üç durum aşağıdaki gibi incelenir. 
+• 2 si fizik öğretmeni ise diğer 2 si matematik öğretmeni olmalıdır. 
+Bu seçim, 
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+2 1 4 3 2 1 6 5 6 $
+$
+$
+$

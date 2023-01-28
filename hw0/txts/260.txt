@@ -1,0 +1,400 @@
+-
+-
++
+,
+is]
+]
+[
+\
+]]]]
+]]]]
+*
+biçiminde tanımlı f ve g ]
+]
+g fonksiyonlar veriliyor. Buna göre aşağıdaki limit değerlerin bulunuz)
+)
+)
+)
+lilililif g f g g g f $
+$
++
+-
+"
+"
+"
+"
++
+-
++
+^
+]
+]
+]
+]
+]
+]
+]
+]
+g @
+eşitliklerini sağlayan f fonksiyonu için aşağıdak limit değerlerini bulunuz. 
+a)  lim f +
+"
+]
+b) lim f +
+"-
+]
+c) lim f -
+"-
+]
+ç) 
+-
+lim "-
+-
+lililif -
+=
++
+=-
+=
+"
+"
+"
+-
+:
+:
+:
+]
+]
+Türe5.1.3. Bir Fonksiyonun Bir Noktadaki SürekliliğŞekilde bir prizde şarja takılı bir cep telefonu görülmektedi. Bu telefonun şarj olabilmesi için elektrik 
+akımının sürekliliği sağlanmalıdırBu cep telefonunun şarj kablosu dik koordinat sistemind modellenerek 
+,
+b @ nda bir fonksiyon grafiği 
+elde edilmiştir. 
+,
+b @ nda tanımlı olan bu fonksiyonu grafiğinde de bir süreklilik vardır"
+:
+,
+ve f f ] g bir fonksiyon olsun.  olmak üzere 
+ 
+ 
+ 
+ 
+lim f f =
+"
+]
+]
+eşitliği sağlanıyorsa f fonksiyonu =
+ noktasında süreklidir denir. 
+Bir başka ifadeyle f ] g fonksiyonunun bir =
+ noktasındaki limitinin değeri fonksiyonun 
+o noktadaki görüntüsüne eşit oluyorsa f ] g fonksiyonu =
+ noktasında süreklidirEğer f fonksiyonu A kümesinin her noktasında sürekli ise f fonksiyonu A kümesinde süreklidi denir. 
+G rsel 5 G rsel 5 Süreklilik tanımına dikkat edilirse süreklilik araştırılan =
+ değeri fonksiyonun tanım kümesi 
+olan A kümesinin bir elemanıdır. Buna göre bir fonksiyonun tanım kümesindeki bir noktada 
+sürekliliği araştırılır. Süreklilik araştırılan noktada fonksiyon sürekli değilse fonksiyona bu noktda süreksizdir denirUyarMatematik f ve g ]
+]
+g birer polinom fonksiyonu olmak üzer                               h g f =
+]
+]
+]
+g  
+biçimindeki h ] g fonksiyonları tanımlı oldukları en geniş kümede süreklidir"
+:
+,
+f -
+=
+-
++
+] ! +
+ fonksiyonunun sürekli olduğu en geniş kümeyi bulunuzf fonksiyonunun pay ve paydasındaki ifadeler polinom fonksiyonlar olduğundan f fonksiyonunun 
+sürekli olduğu en geniş küme, fonksiyonun en geniş tanım kümesi olan 
+R - ! + dirg !
+^ ^ f =
+-
++
++
+^   fonksiyonunun sürekli olduğu en geniş kümeyi bulunuzf fonksiyonunun pay ve paydasındaki ifadeler polinom fonksiyonlar olduğundan f fonksiyonunun 
+sürekli olduğu en geniş küme, fonksiyonun en geniş tanım kümesi olacaktırf fonksiyonunun paydasından elde edilen 2 -
++
+=
+ denkleminin diskriminantı negatif olduğndan fonksiyonu tanımsız yapan x değeri yoktur. Bu durumda f fonksiyonunun en geniş 
+tanım kümesi olan R  kümesi aynı zamanda f fonksiyonunun sürekli olduğu en geniş kümedirÇÖZÜÇÖZÜÖRNEÖRNEUyarPolinom fonksiyonlarının en geniş tanım kümesi gerçek sayılar kümesi ve her noktadaki 
+limiti o noktadaki görüntüsüne eşit olduğu için polinom fonksiyonlar her x gerçek sayısı için 
+süreklidir,
+f g ve h =
+=
+-
++
+=
++
+-
+-
+]
+]
+]
+ fonksiyonlarının sürekli olduğu en geni kümeleri bulunuzf , g ve h fonksiyonları polinom fonksiyonlar olduğundan her x gerçek sayısı için tanımlı ve süreklidi. Buna göre her üç fonksiyonun da sürekli oldukları en geniş küme R  dirÇÖZÜÖRNEUyarTüref m=
+-
++
+-
+]  
+fonksiyonu her x gerçek sayısı için sürekli olduğuna göre m nin alabileceği kaç farklı tam sayı 
+değeri olduğunu bulunuzf fonksiyonunun pay ve paydasındaki ifadeler polinom fonksiyonlar olduğundan f fonksiyonunun 
+sürekli olduğu en geniş küme, fonksiyonun en geniş tanım kümesi olacaktır. f fonksiyonu, her 
+x gerçek sayısı için sürekli olduğundan her x gerçek sayısı için tanımlı da olmalıdır. Bu durum 
+f i]  paydasından elde edilen 
+m2 -
++
+=
+ denkleminin diskriminantının negatif olması 
+hâlinde gerçekleşir&
+&
+4 4 $
+$
+-
+-
+-
+&
+&
+bulunu&
+-
+]
+Bu durumda m nin alabileceği 23 farklı tam sayı değeri vardır!
+ olmak üzerf am=
+-
++
+-
++
+]  
+fonksiyonunun sürekli olduğu en geniş küme 
+R - " , olduğuna göre k gerçek sayısını bulunuzf fonksiyonunun pay ve paydasındaki ifadeler polinom fonksiyonlar olduğundan f fonksiyonunun 
+sürekli olduğu en geniş kümede bulunmayan k gerçek sayısı, verilen fonksiyonun tanım kümesind de bulunmaz. Bu durumda fonksiyon sadece k gerçek sayısı için tanımsız olduğundan f ] g 
+in paydasından elde edilen a2 -
++
+=
+ denkleminin diskriminantı 0 ve bu denklemin kökü k 
+olmalıdır 
+&
+olu&
+-
+-
+=
+=
+&
+$
+$
+D =
+-
+=
+]
+ 
+i in denkleolu&
+=
+-
++
+=
+-
++
+=
+ 
+Buna göre k gerçek sayısı bu denklemin kökü olacağında&
+-
++
+=
+-
++
+=
+-
+&
+&
+bulunu=
+=
+]
+ÇÖZÜÇÖZÜÖRNEÖRNEMatematik Yanda grafiği verilen t fonksiyonu =
+ noktasnda tanımlı olmadığından a değeri fonksiyoun sürekli olduğu en geniş kümenin bir eleman olamaz. Bu durumda fonksiyonun sürekli 
+olduğu en geniş küme 
+R - " , olurYanda grafiği verilen g fonksiyonu =
+ noktasnda tanımlı ve limite sahip olmasına rağmen 
+bu noktadaki limiti görüntüsüne eşit olmadığından 
+g fonksiyonu =
+ noktasında sürekli değildir. 
+Bu durumda fonksiyonun sürekli olduğu en geniş 
+küme 
+R - " , olurYanda grafiği verilen h fonksiyonu =
+ noktasnda tanımlı olmasına rağmen bu noktada 
+limiti olmadığından fonksiyon =
+ noktasında 
+sürekli değildir. Bu durumda fonksiyonun sürekli 
+olduğu en geniş küme 
+R - " , olurBir Fonksiyonun Grafiği Üzerinde Sürekli ve Süreksiz Olduğu NoktalaYanda grafiği verilen f fonksiyonu her x gerçek 
+sayısı için tanımlı ve her noktadaki limiti fonksiyoun o noktadaki görüntüsüne eşit olacağından 
+fonksiyon her x gerçek sayısı için süreklidir. Bu 
+durumda fonksiyonun sürekli olduğu en geniş 
+küme R  olurTüre=-
+:
+ noktasında fonksiyonun limiti olmadığından sürekli değildir=-
+:
+ noktasında fonksiyonun limiti olmadığından sürekli değildir=
+:
+ noktasında fonksiyonun limiti görüntüsüne eşit olmadığından sürekli değildirYanda 
+,
+1 -
+@ nda tanımlı 
+f y = ] g fonksiyonunun grafiği 
+verilmiştir. f fonksiyonunun sürekli olduğu en geniş aralığı 
+bulunuzf fonksiyonunun grafiği incelendiğinde  
+,
+1 -
+^
+h nda sürekli olduğu görülürlif =
+-
+=
+"-
++ ]
+]
+ olduğundan f fonksiyonu = -  noktasında sağdan süreklidirlim f ve =
+=
+"
+- ]
+^
+ olduğundan f fonksiyonu =
+ noktasında soldan sürekli değildirBu durumda f fonksiyonunun sürekli olduğu en geniş aralık 
+,
+1 -
+ bulunurYanda 
+"
+:
+,
+f = ] g fonksiyonunun 
+grafiği verilmiştir. Buna göre f ] g fonksiyonunu hangi x gerçek sayıları için sürekli 
+olmadığını bulunuzÇÖZÜÇÖZÜÖRNEÖRNE"
+:
+,
+ve f f ] g bir fonksiyon olsun.  olmak üzere 
+           lim f f =
+"
++ ]
+]
+g oluyorsa f fonksiyonu =
+ noktasında sağdan süreklidir denir           lim f f =
+"
+- ]
+]
+g oluyorsa f fonksiyonu =
+ noktasında soldan süreklidir denir,
+a @ aralığında tanımlı bir fonksiyon 
+,
+a ^
+h aralığında sürekli, =
+ noktasında sağdan 
+sürekli ve =
+ noktasında soldan sürekli ise f fonksiyonu 
+,
+a @ nda süreklidirMatematik ,
+,
+,
+f isis=
+-
+-
+-
+=
++
+-
+-
+is] [
+\
+]]]]]
+]]]]]
+ 
+biçiminde tanımlı f ] g fonksiyonunun =-
+ noktasında sürekli olup olmadığını bulunuzlilif olu=
+-
+-
+=
+"
+"
+-
+-
+-
+-
+:
+]
+lililif f oldugundaf olu=
+=
+=
+"
+"
+"
+-
+-
+-
+-
++
+{
+]
+]
+]
+ 
+Ancak -
+=
+]
+ olduğundan 
+lim f olu!
+-
+"-
+]
+]
+ O hâlde f fonksiyonunun =-
+ noktasındak limiti, fonksiyonun o noktadaki görüntüsüne eşit olmadığından f fonksiyonu =-
+ noktasında 
+sürekli değildirlilif olu=
++
+=
+"
+"
+-
+-
++
++
+:
+]
+,
+f isis=
++
++
+-
+, x =
+,
+is] [
+\
+]]]]]
+]]]]]
+ 
+biçiminde tanımlı f ] g fonksiyonunun =
+ noktasında sürekli olup olmadığını bulunuzO hâlde f fonksiyonunun =
+ noktasındaki limiti fonksiyonun o noktadaki görüntüsüne eşit olduğunda fonksiyon bu noktada süreklidirlilif olu=
+-
+=
+"
+"
++
++
+:
+]
+]
+olu=
+:
+] ,
+f is=
++
+-
++
+is,
+$
+] )
+ 
+biçiminde tanımlı f ] g fonksiyonu =
+ noktasında sürekli olduğuna göre a değerini bulunuzf fonksiyonu =
+ noktasında sürekli olduğuna göre bu noktadaki sağdan limiti, soldan limiti ve 
+görüntüsü eşit olmalıdırlilif a olu=
++
+=

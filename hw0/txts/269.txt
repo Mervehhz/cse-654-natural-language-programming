@@ -1,0 +1,400 @@
+f f =
++
+=
++
+-
+]
+]
+1 2 &
+&
+$
+$
+$
+=-
++
+=-
++
+-
+-
+]
+]
+bulunu1 10 10 $
+$
+=-
+=-
+=-
+=-
+-
+-
+-
+^
+ÖRNEÇÖZÜ=
++
+-
+]
+  
+olduğuna göre l] g ifadesinin değerini bulunuz=
++
+-
+]
+ ifadesinde =
+ yazılırsa 
+=
++
+-
+]
+ eşitliğinde her iki tarafın türevi alınırsolu$
+$
+$
+=
++
+]
+]
+@
+ Bu eşitlikte =
+ yazılırs$
+$
+$
+-
+=
+bulunu=
+$
+$
+$
+$
+=
+=
+]
+]
+]
+]
+]
+]
+olu2 &
+&
+$
+=
++
+-
+=-
+=-
+]
+]
+]
+ÖRNEÇÖZÜMatematik -
+-
+-
+=
+-
+]
+ 
+olduğuna göre 
+-
+]
+]
+g ifadesinin değerini bulunuz-
+-
+-
+=
+-
+]
+  eşitliğinde her iki tarafın türevi alınırs-
+&
+olubulunu$
++
+-
+=
++
+-
++
+=-
++
+-
+=-
+]
+]
+]
+]
+]
+Bu eşitlikte =-  yazılırsÖRNEÇÖZÜ=
+-
+=
+-
+:
+:
+ 
+olduğuna göra) ddy  ifadesinin x türünden eşitini bulunuzb) ddy  ifadesinin =
+ için değerini bulunuzddd&
+&
+=
+-
+=
+=
+-
+=
+Bu değerler zincir kuralında yerine yazılırs  
+dd=
+-
+ ifadesinde =
+ yazılırsbulunu6 $
+$
+=
+-
+-
+=
+&
+dddddddd$
+$
+=
+=
+=
+(
+)
+bulunu$
+=
+-
+=
+-
+=
+ÖRNEÇÖZÜa) 
+b) 
+Türe+
+=
+=
+-
+:
+:
+i  
+olduğuna göre ddy  ifadesinin eşitini bulunuzBu değerler zincir kuralında yerlerine yazılırs+
++
+$
+ddddddddbulunu&
+$
+$
+$
+$
+=
+-
+=
+-
+-
+-
+=
+-
++
+=
+=
+-
+-
+=
+`
+`
+^
+^
+]
+^
+=
+-
+=
++
+:
+:
+ 
+olduğuna göre ddy  ifadesinin =
+ için değerini bulunuz-
+&
+&
++
++
+ddddolu$
+=
+=
+=
+-
+=
+-
+]
+]
+&
+ddoluddt olu&
+&
+&
+=
+-
+=
+-
+=
++
+=
++
+=
+-
+=
+ddddddolu$
+$
+=
+=
+-
+^
+^
+olu&
+=
+=
+-
+=
+ Bu değerler zincir kuralında yerine yazılırsbulunu2 2 $
+$
+$
+$
+-
+=
+-
+=
+^
+^
+^
+^
+ÖRNEÖRNEÇÖZÜÇÖZÜMatematik ,
+,
+abf g h isg $
+=
+=
+=
+-
+-
+:
+:
+:
+is^
+^
+]
+^
+^
+)
+biçiminde tanımlı f ] g fonksiyonu =
+ noktasında türevli olduğuna göre 
+o ^
+^
+h değerini 
+bulunuzf ] g fonksiyonu =
+ noktasında türevli olduğundan bu noktada sürekli olmalıdır. 
+Bu durumda lilif f f =
+=
+"
+"
+-
++
+]
+]
+^
+h olurf fonksiyonu =
+ noktasında türevli ise =
+-
++
+^
+^
+h olmalıdır^ h ve ^ h denklemleri ortak çözülürsBu durumda g =
+-
+^  ve h =
++
+^  bulunur. Buna gör&
+g g =
+=
+-
+-
+^
+^
+ ve 
+&
+h h =
+=
++
++
+^
+^
+ olur:
+:
+:
+:
+ÖRNEÇÖZÜlilif a=
+=
+-
+-
+"
+"
+-
+-
+]
+^
+lilif b=
+=
+-
+-
+"
+"
++
++
+]
+^
+lilif f =
+=
+"
+"
+-
++
+&
+-
+-
+olu&
+&
+=
+=
++
++
+]
+]
+]
+&
+=
+=
+-
+-
+-
++
+olu=
+&
++
+^
+^
+]
++
+olu=
+&
+olu4 $
+=
+=
+=
+=
+=
+=
++
++
++
+-
+&-
+&
+2-
+l^
+h değerini bulmak için f a=
+-
+] seçilir=
+olu&
+-
+f aa&
+=
+=
+-
+-
+-
+]
+]

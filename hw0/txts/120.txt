@@ -1,0 +1,400 @@
+=
+-
+^
+^
+ ikinci dereceden bir bilinmeyenli denklem olduğuna göre a ve b 
+değerlerini bulunuzb a 2$
+-
++
++
++
++
+=
+-
+^
+^
+ ikinci dereceden bir bilinmeyenli denklem olduğundan x3  lü terimi katsayısı sıfır, x2-  lü terimin üssünün 2 olması gerekir. Dolayısıylv&
+&
+-
+=
+=
+-
+=
+=
+ olurAşağıda verilen denklemlerden hangisi ya da hangilerinin ikinci dereceden bir bilinmeyenli denklem 
+belirttiğini bulunuza) +
++
+=
+                                               b) 
+-
++
+-
+=
+a) +
++
+=
+ denkleminde 3 3  terimi olduğu için ikinci dereceden bir bilinmeyenli denklem belirtme. Üçüncü dereceden bir bilinmeyenli denklem belirtirb) 
+-
++
+-
+=
+ denkleminde en büyük dereceli terim 
+-
+ olduğundan ikinci dereceden bir bilinmeyenl denklem belirtirİkinci Dereceden Denklemleİkinci Dereceden Denklemle2 +
+-
+ ifadesini tam kare ve iki kare farkına ait özdeşlikleri kullanarak çarpanlarına ayırınız2 +
+-
+ ifadesine, içerisinde 2 +
+]
+g  ni bulunduracak biçimde düzenlemek amacıyla 4 eklenir ve çıkarılırs 
+olu2 +
++
+-
+-
+=
++
+-
++
+]
+]
+444444  İki kare farkı şeklinde olan bu ifade çarpanlarına ayrılırsa 
+olu$
+$
++
+-
+=
++
++
++
+-
+=
++
+-
+]
+]
+]
+]
+]
+2 -
+-
+ ifadesini tam kare ve iki kare farkına ait özdeşlikleri kullanarak çarpanlarına ayırınız2 -
+-
+ ifadesine 9 eklenir ve çıkarılırsa 
+-
+=
+colu2 2 2 $
+-
++
+-
+-
+=
+-
+-
+=
+-
+-
+=
+-
++
+-
+-
+-
+]
+]
+^
+^
+^
+^
+44444 +
+-
+ ifadesini tam kare ve iki kare farkına ait özdeşlikleri kullanarak çarpanlarına ayırınız+
+-
+ ifadesi 2 parantezine alınarak 
+$
++
+-
+l elde edilir. Bu ifadede parantez içerisine 
+25  sayısı eklenir ve çıkarılırsa 
+=
+-
+colu$
+$
+$
+$
+$
+$
+-
++
+-
++
+=
+-
+-
+=
+-
+-
+=
+-
++
+-
+-
+=
++
+-
+-
++
+2 $<
+=
+-
+^
+^
+4444444 İpucb+
+=
++
++
+ olduğundan b2 +
++
+ ifadesinde +
+l  ni elde etmek için bu ifadye  terimi eklenip çıkarılır. 
+10.4.1.2. İkinci Dereceden Bir Bilinmeyenli Denklemlerin Çözümİkinci Dereceden Denklemleİkinci Dereceden Denklemle2 -
+-
+=
+ denkleminin gerçek sayılar kümesindeki çözüm kümesini bulunuz1. yo+
+-
+2 -
+-
+ üç terimlisi $
+-
++
+]
+]
+g olarak çarpanlarına ayrılırsa $
+-
++
+=
+]
+]
+ olurBuradan ise veya -
+=
+=
++
+=
+ ise = -
+ bulunur. Dolayısıyla 
+,
+3 = -
+"
+,  olur2. yo2 -
+-
+=
+ denkleminde eşitliğin sol tarafına 1 eklenir ve çıkarılırsolu1 $
+$
+-
++
+-
+-
+=
+-
+-
+=
+-
+-
+=
+-
++
+-
+-
+=
++
+-
+=
+-
+]
+]
+]
+]
+]
+]
+]
+444444 Buradan ise veya +
+=
+= -
+-
+=
+ ise =
+ bulunur. Dolayısıyla 
+,
+3 = -
+"
+,  olarak yazılırBilg,
+,
+,
+, ,
+a b c p !
+!
+ olmak üzerab2 +
++
+=
+ denkleminde ab2 +
++
+ üç terimlisi çarpanlarına ayrılıyorsa çözüm kümesi aşağıdak gibi bulunur a b+
++
+=
+pqh ifadesinde px qax$
+=
+, m c ve p n q m b$
+$
+$
+$
+$
+=
++
+=
+ isabpq$
++
++
++
++
+=
+= ^
+^
+ olur. Bu iki çarpanın çarpımları 0 olduğuna göre 
+pp $
++
+=
+= -
+= -
+ veya 
+qq n olu$
+=
+= -
+= -
++
+Bulunan x değerlerine ab2 +
++
+=
+ denkleminin kökleri denir. Bu kökler ve 2  ile gösterilebili (Bulunan köklerden herhangi birine 1 = -
+, diğerine ise = -
+ denilebilir.). Denklemin 
+çözüm kümesi 
+= -
+-
+,
+'
+1  şeklinde gösterilirİkinci Dereceden Denklemleİkinci Dereceden Denklemle2 +
+-
+=
+ denkleminin gerçek sayılar kümesindeki çözüm kümesini bulunuz1. yo+
+-
+=
+-
+h ise 
+$
+-
++
+=
+]
+]
+ olurBuradan ise veya ise -
+=
++
+=
+=
+= -
+ olur. Dolayısıyla 
+,
+Ç= -
+&
+0  olarak yazılır2. yo2 +
+-
+=
+ denkleminde 2 +
+-
+ üç terimlisi 2 parantezine alınırsa denkle$
++
+-
+=
+ olur. Parantezin içine 9  eklenir ve çıkarılırsa 
+olu$
+$
+$
+$
+$
+$
+$
+$
+$
++
++
+-
+-
+=
++
+-
+=
++
+-
+=
++
++
++
+-
+=
++
+-
+=
++
+-
+=
+c]
+ 
+Buradan ise ise vey+
+=
+=
+= -
+-
+=
+ bulunurDolayısıyla 2 +
+-
+=
+ denkleminin 
+,
+= -
+&
+0  olur-
+=
+2 +
++
+=
+ denkleminin gerçek sayılar kümesindeki çözüm kümesini bulunuz2 +
++
+ ifadesi kolaylıkla çarpanlara ayrılamadığından 1 eklenip ve çıkarılarak içinde tam kare ifade 
+bulunduracak duruma  getirilirs 
+olu1 +
++
+-
++
+=
++
++
+=
++
+= -
++
+]
+]
+]
+444444 6 !
+ olmak üzere 2 $
++
+]
+ olması gerektiğinden +
+= -
+]
+ denklemini sağlayan gerçek kökler 
+bulunamaz. Dolayısıyla 2 +
++
+=
+ denkleminin çözüm kümesi ÇK = Q  dirİkinci Dereceden Denklemleİkinci Dereceden Denklemleİpuc,
+, ,
+a b !

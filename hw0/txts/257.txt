@@ -1,0 +1,400 @@
+=
+=
+=
+"
+"
+"
+"
+"
+"
+-
+-
++
++
+]
+]
+]
+]
+]
+]
+lilililioluolua isf a ish =
+"
+"
+"
+"
+=
+]
+]
+]
+]
+Parçalı Tanımlı Fonksiyonların LimitÇÖZÜÖRNE2 $
+=
+-
+=-
+bulunulim f f =
+"
+:
+]
+]
+bulunulim f f =
+"
+:
+=
++
+=
+]
+]
+lilif 2 $
+=
+-
+=
+-
+=
+"
+"
+-
+-
+]
+]
+(Burada x, 2 ye soldan yaklaştığı için 2 den küçük 
+değerler alır. Bu nedenle f =
+-
+]  olarak seçilir.)
++
+lilif =
+=
++
+=
+"
+"
++
++
+]
+(Burada x, 2 ye sağdan yaklaştığı için  2 den büyük 
+değerler alır. Bu nedenle  f =
++
+]  olarak seçilir.)
+Türe,
+,
+,
+f isis=
+-
++
+=
+-
+is] [
+\
+]]]]]
+]]]]]
+biçiminde tanımlı f ] g fonksiyonu veriliyor. Buna göre aşağıdaki limitlerin değerini bulunuz)
+)
+)
+)
+)
+lilililililif f f f f "
+"
+"
+"
+"
+"
+-
+-
+-
++
+-
+)
+]
+]
+]
+]
+]
+]
+=-
++
+=-
++
+=
+-
+=-
++
+=-
+-
++
+-
++
+-
++
+)
+)
+)
+)
+)
+)
+lilililililililililililif f f f f bulunu3 $
+=
+=
+=
+-
+-
+=-
+-
+=
+-
+-
+=
+-
+=
+-
+=
+-
+=
+=
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+-
+-
+-
+-
+-
+-
++
++
+-
+-
+3 $
+=-
++
+=-
++
+=-
+=
+-
+=
+-
+=
+=
+=-
+3 $
+=
+-
+]
+]
+]
+]
+]
+]
+]
+]
+]
+]
+]
+biçiminde tanımlı f ] g fonksiyonu veriliyor. lim f "
+] g mevcut olduğuna göre lim f "
+] g değerini 
+bulunuzFonksiyonun =
+ kritik noktasında limiti olduğundan bu noktadaki sağdan ve soldan limitleri 
+birbirine eşit olmalıdır&
+&
+&
+&
++
+lilililif f olu2 $
+=
+-
++
+=
+-
+=
+-
+=-
+"
+"
+"
+"
+-
++
+-
++
+=
+]
+]
+]
+bulunu2 $
+=
++
+=
+& lilif =-
+=
+- -
+"
+"
+]
+^
+^
+hÇÖZÜÇÖZÜÖRNEÖRNE,
+,
+,
+f isisis=
++
+=
+-
+] [
+\
+]]]]]
+]]]]]
+Matematik li-
+-
+-
+"
+  ifadesinin değerini bulunuz:
+,
+f "
+-
+=
+-
+-
+] ! +
+ fonksiyonu veriliyor. Buna göre lim f "
+] g ifadesinin değerini bulunu ve f ] g fonksiyonunun grafiğini çizinizlilif =
+-
+-
+=
+"
+"
+]  belirsizliği vardırf =
+-
+-
+=
+-
+-
++
+=
++
+]
+^
+]
+f =
+-
+-
+] li$
+-
+-
+-
+=
+-
+-
+-
+=
+"
+ belirsizliği vardır-
+bulunulililili$
+$
+$
+$
+$
+$
+$
+-
+-
+-
+=
+-
++
+=
+-
++
+-
++
+=
++
++
+=
++
++
+=
+"
+"
+"
+"
+]
+]
+^
+^
+]
+]
+]
+]
+]
+]
+=
++  doğrusunun 
+grafiği f in =
+]  de 
+tanımsız olduğu göz 
+önüne alınarak yandaki 
+gibi çizilir. 
++
+lililibulunu$
+-
+-
+=
+-
+-
++
+=
++
+=
+"
+"
+"
+=
+^
+]
+]
+Gerçek sayılarda tanımlı ve çarpanlarına ayrılabilen f ve g ]
+]
+g fonksiyonları için 
+lilif vg =
+=
+"
+"
+]
+]
+ olması durumunda 
+limitlim g f nde "
+]
+]
+ belirsizliği ortaya 
+çıkar. 
+Burada =
+ için f ve g =
+=
+]
+]
+ olduğundan her iki fonksiyonun da -
+]
+g biçiminde 
+çarpanı vardırBelirsizlik durumunda pay ve payda çarpanlarına ayrılır. Pay ve paydadaki -
+]
+g çarpanlar sadeleştirilerek belirsizlik giderilir ve limit bulunurLimitte Belirsizlik DurumÇÖZÜÇÖZÜÖRNEÖRNETüreli-
+-
+"
+  ifadesinin değerini bulunuzli-
+-
+=
+-
+-
+=
+"
+ belirsizliği vardır+
++

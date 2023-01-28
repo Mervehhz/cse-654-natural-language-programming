@@ -1,0 +1,400 @@
+önceki modelin eksiklikleri görülmüş ve bir önceki model atomu 
+açıklamada yetersiz kalmıştır. Niels Bohr (Niıls Bor)(Görsel 1.1) 
+1913 yılında, Rutherford (Radırford) atom modeline göre elektronları davranışlarına açıklık getirmiştir. Bohr atom modeli 
+kabul gördüğü yıllarda büyük ilgi görmüş ancak daha sonraları 
+yetersizlikleri görüldüğünden yerini “Modern Atom Teorisine” 
+bırakmıştır. Acaba Bohr atom modelinin yetersizlikleri nelerdi?
+Bohr’a göre atomda elektronların,çekirdeğin etrafında belli yarıçaplı dairesel yörüngelerd bulunduğu daha önceki yıllarda öğrenilmişti. Elektronların hareket ettiği 
+bu yörüngeler aynı zamanda enerji seviyesi (katman) olarak ifade edilir ancak elektronla enerji seviyeleri arasına yerleşemez ve elektronların belli yörüngelerde bulunma 
+ihtimalleri yoktur. 
+Bohr, atom modelini tek elektronlu hidrojen atomuna göre açıklamıştır. Çok 
+elektronlu atomlar ve iyonlarda elektronların çekirdekle ve kendi aralarındaki 
+etkileşimleri bu modelle açıklanamamıştır. 
+Bohr, atomlar arası bağlar ve moleküllerin oluşumu ile ilgili açıklama getirmemiştir. 
+Max Planck atomların enerjiyi kuantlar halinde yaydığını 
+kuantum modelinden yola çıkarak atomu daha iyi anlamamızı 
+sağlayan atomların ve moleküllerin enerjiyi kuant adı verilen küçü paketler halinde yaydığını açıklamıştır. Bu ışınlar spektrum 
+çizgileri biçimindedir. Tek bir çizgi gibi görünen spektrum çizgiler kalın bir çizgi görünümünde olup Bohr, atom modelinde 
+Hidrojen spektrumunda bulunan alt çizgileri açıklayamamıştır. 
+Bohr, yalnızca kendi deneyleri ile örtüşebilen bir kuram 
+üretmiştir. 1920’li yıllarda Niels Bohr ve Werner Heisenberg 
+(Vernı Hayzenberg) (Görsel 1.2) atomlardan daha küçük tanecikleri davranışlarının ne dereceye kadar belirlenebileceğini 
+görebilmek için deneyler tasarlamıştır. Heisenberg’in adıyla anılan belirsizlik ilkesine 
+göre “bir taneciğin hem konum hem de kütle ve hızı aynı anda bilinemez” tezi ortaya 
+atılmış ve bunun ardından Bohr atom modelinde açıklanan yörünge kavramı geçerliliğin yitirmiştir. 
+Görsel 1.1 Niels Bohr 
+(1885- 1962) 
+Görsel 1.2      
+Werner Heisenberg 
+(1901-1976)
+Atom çekirdeğinin etrafında elektronların hareket ettikleri alanlara yörünge denir. 
+Yörünge, enerji katmanları olarak tanımlanabilir. Bohr modelinde yer alan bu katmanla çok hızla hareket eden elektronların çekirdekten neden sapmadıklarını tam 
+açıklayamadığından Heisenberg’in belirsizlik ilkesine göre, kesinlikle bilinen yörüngeleri yerine elektronların çekirdek etrafında bulunma olasılıklarının yüksek olduğu 
+alanlar bulunur ve bu alanlara orbital denir. Acaba orbital bir atomda bulunan elektronu yerini açıklamada yeterli midir?
+Heisenberg, belirsizlik ilkesiyle 1932 yılında Nobel Fizik Ödülünü kazanmıştır. 
+BİLGİ KUTUSElektron bulutu modeli olarak bilinen “ModerElektroÇekirdeKatmaGörsel 1.3      
+Atomun yapısAtoAtom Teorisine” göre atomda elektronların bulunm olasılıkların yüksek olduğu bölgeler bulunur. 
+Orbital olarak belirtilen bu alanlar atomun içindeki 
+dalga fonksiyonları olarak düşünülebilir. Bu dalga 
+fonksiyonları da kuantum sayıları ile ifade edilirBir dalga fonksiyonundaki üç kuantum sayısını belirleyere bir orbital elde edilebilir. Görsel 1.3’de 
+mavi renkle gösterilen kısımdır. Elektronların dağılım bulundukları enerji düzeylerinin türü ve sayıs ile belirlenir. 
+Görsel 1.4 Kabuklar ve 
+baş kuantum sayılarn = K L M n = n = n = Kuantum Sayılarının Belirlenmesİlk belirlenecek sayı, baş kuantum sayısıdır, “n” ile gösterili, elektronun çekirdeğe uzaklığını ifade eder. n=1,2,3…
+7’ye kadar olan tam sayılardır. Baş kuantum sayısının belirttiğ elektronun enerji seviyesine katman denir. Aynı 
+zamanda bu katmanlara kabuk da denir ve K,L,M,N… gibi 
+harflerle de gösterilirler. (Görsel 1.4)
+İkincisi, açısal momentum kuantum sayısı, “ l ” ile gösterili, elektron bulutlarının şekillerini ve şekil farkı nedeniyl oluşan enerji seviyelerindeki değişmeleri belirtmekte 
+kullanılır. 0 ile (n-1) arasındaki tam sayı değerlerini alırl= 0, 1, 2, ……….., (n-1)
+1. Ünite: Modern Atom TeorisKimya - Açısal momentum kuantum sayısı, enerji seviyelerinin de daha alt enerji seviyelerine 
+ayrıldıklarını gösterir. Meydana gelen bu enerji seviyelerine ikincil katman ya da alt 
+kabuk denir. İkincil katmanlar s, p, d, f gibi harflerle (orbital sembolleriyle) gösterilir. 
+Bu harfler, l'nin her bir sayısal değerine karşılık gelir. 
+Baş kuantum sayısı(n)
+Açısal momentum sayısı(l)
+Orbital türOrbital sembolleri, orbitallerin İngilizce adlarının baş harflerinden oluşmaktadır.  
+Açısal momentum 
+kuantum sayısİngilizce sıfatı / (Türkçesi)
+Alt kabuktaki semboll=Sharp (keskin)
+l=Principal (asıl)
+l=Diffuse (yayılmış)
+l=Fundamental (temel)
+BİLGİ KUTUSÜçüncü olarak manyetik kuantum sayısı, “ml” ile gösterilir, orbitalin uzaydaki 
+yönlenişini gösterir. ml, -l’ den +l’ye kadar olan değerleri alırml = 2l + ml = –l,……+Açısal momentum 
+sayısı (l)
+Manyetik kuantum 
+sayısı (ml)
+ml’nin alacağı değerleOrbital türl = ml = l = ml = [(2 x l )+1] = 3  
+-1, 0, +l = ml = [(2 x 2)+1] = -2, -1, 0, +1, +l = ml = [(2 x 3) +1] = 7 -3, -2, -1, 0, +1, +2, +1. Ünite: Modern Atom TeorisDördüncü ve son olarak spin kuantum sayısı, “ms” ile gösterilir. Elektronların 
+çekirdek etrafında ve kendi etrafında dönmesine göre belirlenen kuantum sayısıdır. 
+Elektron kendi etrafında iki farklı şekilde yani saat yönü ve tersi yönde dönme gerçekleştireceğin göre spin kuantum sayısı +1/2 ve -1/2 olmak üzere iki farklı değer alır. 
+Spin yukarı ise ms = +1/2  ( ↑ )
+Spin aşağı ise ms    = –1/2 ( ↓ )
+Orbitallerin s, p, d ve f sembolleri ile gösterildiğini belirtmiştik. Şimdi bu orbital 
+türlerini daha yakından tanımaya ne dersiniz? 
+s orbitaller“s” orbitalleri küre şeklindedir. 
+Görsel 1.5 s orbitaller1123orbital türBaş kuantum sayısı 
+Katman sayısEnerji düzeyÇekirdekten uzaklaştıkça kürelerin çapı 
+büyür. Her enerji düzeyinin s orbitali 
+vardır. Görsel 1.5’de görüldüğü gibi 1s, 
+2s, 3s…şeklinde gider. l=0 değerine sahi olan orbitaller s orbitalidir. 
+p orbitallern = 2 baş kuantum sayısı ile başlar l = 1 değerine sahip olan orbitaller p orbitalidir. 
+Bu değere karşılık ml , üç değer aldığından –1, 0, + 1 olmak üzere, üç çeşit p orbitali 
+vardır (Görsel 1.6). Çekirdeğin merkezinden geçen bir simetri ekseni vardır. x , y ve z 
+ekseninde yönlenmelerine göre px , py, pz isimlerini alırlar. 
+pppGörsel 1.6 P orbitallerKimya - d  orbitallerd orbitalleri n = 3 baş kuantum sayısı ile başlar. l=2 için ml beş farklı değer alabilir 
+(-2, -1, 0 , +1 , +2). Buna göre beş tür d orbitali bulunur (Görsel 1.7) 
+Görsel 1.7 d orbitaller3 z3 y2 -
+3 xAşağıdaki tabloda n= 1,2,3,4 enerji seviyelerine ait orbital türleri, kuantum sayıları 
+ve orbital sayıları verilmiştir. İnceleyinizBaş kuantum 
+sayısAçısal momentum 
+kuantum sayısManyetik kuantum 
+sayısmİkincil 
+katmanların 
+(orbital)
+sayısElektron sayısKatmaİkincil  
+katma122-1  0 +333-1  0 +-2  -1  0 +1  +4444-1  0  +-2  -1  0  +1  +-3  -2  -1  0  +1  +2  +Elektronların bulunduğu orbitale göre kuantum sayılarının belirlendiği örneği 
+inceleyiniz. 
+Çözüm: Baş kuantum sayısı n= 2’dir. 
+Açısal momentum kuantum sayısı s orbitali olduğundan l= Manyetik kuantum sayısı l= 0 olduğundan ml= 0’dır. 
+1. UYGULAM2s orbitalinin baş kuantum sayısı, açısal momentum kuantum sayısı, 
+manyetik kuantum sayısı kaçtır?
+1. Çizelgede verilen orbitallerin kuantum sayılarını yazınızOrbitaBaş kuantum sayısı(n)
+Açısal momentum 
+kuantum sayısı(l)
+Manyetik kuantum 
+sayısı(ml)
+343Çözüm:
+OrbitaBaş kuantum sayısı(n)
+Açısal momentum 
+kuantum sayısı(l)
+Manyetik kuantum 
+sayısı(ml)
+3432. Aşağıda verilen karşılaştırmaların doğru ya da yanlış olanları noktalı yerler yazınız. 
+n=2    l= 0  
+→
+orbital: 2s          n=3    l= 1 
+→
+orbital: 3………………
+n=3    l= 2 
+→
+orbital: 3………………
+n=4    l= 0 
+→
+orbital: 4………………
+n=4    l= 2 
+→
+orbital: 4………………
+Çözüm:
+1) D  2) D  3) Y  4) D  5) 2. UYGULAM1. Ünite: Modern Atom TeorisKimya - Atomda dört kuantum sayısı herhangi bir orbitaldeki bir elektronun yerini bilmemiz sağlar. Bu durumu postacının adrese ulaştıracağı bir zarfın üzerinde yazılı adres benzetebiliriz. Adres satırında semt, mahalle, cadde, bina ya da daire numaraları 
+olmadan postacı zarfı yerine ulaştıramazsa, atomda da dört kuantum sayısından biri 
+olmaz ya da yanlış olursa elektronun yerini belirlemek zorlaşır. 
+Çekirdeğe yakın orbitallerin enerjisi düşükken çekirdekten uzaklaştıkça orbitalleri enerjisi artar.  Elektronlar orbitallere en düşük enerjili orbitalden başlayarak yerleşirle. Aynı katmanda bulunan farklı türdeki orbitallerin enerjileri büyükten küçüğe 
+doğru sıralandığında f, d, p ve s orbitalleri şeklinde olduğu görülür. px, py , pz olmak 
+üzere üç tür olan p orbitalleri ise eş enerjilidir. Yani enerjileri birbirine eşittir (bu duru d ve f orbitallerinde de geçerlidir)Enerji arta7635247635214654354n = n = n = n = n = n = n = Görsel 1.8 Orbitallerin enerji düzeyleri 
+Yukarıda (Görsel 1.8) çok elektronlu atomlarda orbitallerin enerji düzeyleri verilmişti. İnceleyinizTabloda da görüldüğü gibi en düşük enerjili orbitalden başlayarak orbitallerin 
+enerjileri arasındaki ilişki;1s < 2s < 2p < 3s < 3p < 4s < 3d < 4p,… şeklindedir. 
+Atom numarası arttıkça ve dolayıyla katman sayısı arttıkça katmanlar arası enerji farkının 
+azaldığı görülmektedir. Örneğin; tabloda 3d orbitalinin enerjisinin 4s ’den yüksek olduğu 
+dikkatinizi çekti mi? Bu duruma orbitallerde bulunan elektronların birbirini itme 
+kuvvetleri neden olmaktadır. Orbitallerin “ n+l ” değeri arttıkça enerjileri de artarOrbitallerin enerji sıralamaları ilgili verilen örnekleri inceleyiniz. 
+Çözüm:
+Orbitallerin n ve l değerleri tespit edilir ve buna göre “n+l” hesaplanır.                               
+3n +  “n+l” toplamlarına göre 3s, 3p, 3d orbitallerinin enerjileri sıralanır. 
+Buna göre ; 3d ˃ 3p ˃ 3s şeklinde olurOrbita443n +  "n+l ” toplamlarına göre 4s orbitalinin enerjisi en düşüktür. 4p ve 3d 
+orbitalle-rinin ise“n” sayısı büyük olanın enerjisi daha büyük olur. Bu nedenle 
+4s, 4p, 3d orbitallerinin enerji sıralaması; 4p ˃ 3d ˃ 4s  şeklinde olur3. UYGULAM3s, 3p, 3d orbitallerinin enerjilerini sıralayınız. 
+4. UYGULAM4s, 4p, 3d orbitallerinin enerjilerini sıralayınız.  
+Çözüm:
+Orbitallerin n ve l değerleri tespit edilir ve buna göre “n+l ” hesaplanır. 
+1. Ünite: Modern Atom Teoris       Orbital                      3s                       3Kimya - 1.2. PERİYODİK SİSTEM VE ELEKTRON DİZİLİMLERİ 
+Bir atomda elektron dizilimi o atomdaki elektronların orbitallere nasıl yerleştiğini 
+gösterir. Atomların elektron dizilimlerine bakılarak da atomun periyodik 
+sistemdeki yeri tespit edilir. Buna göre de elementin sınıflandırması yapılarak fiziksel 
+ve kimyasal özellikleri ve diğer elementlerle yapacağı etkileşme türleri belirlenebilir. 
+Elektronlar orbitallere çekirdeğe en yakın olan yani en düşük enerjili orbitalden 
+başlayarak yerleşir. Buna göre elektronlar 1s orbitalinden yerleşmeye başlar. Orbitalleri enerjilerine göre elektronlar tarafından doldurulması aşağıdaki sıra ile gerçekleşir. 
+1s, 2s, 2p, 3s, 3p, 4s, 3d, 4p, 5s, 4d, 5p…
+1926 yılında Wolfgang Pauli’nin (Volfgan Pauli) ortaya koyduğu ve adıyla anılan 
+Pauli İlkesi’ne göre; bir atomda hiçbir zaman dört kuantum sayısı da aynı olan iki 
+elektron bulunamaz. İki elektronun üç kuantum sayısı n, l ve ml sayıları aynı olsa da 
+ms  yani elektronların orbitaldeki yönleri farklı olmalıdır. Bu ilke, bir orbitalin iki 
+elektron aldığını ve elektronların zıt spinli olduğunu belirtmektedir. Dolayısıyla tek 
+tür olan s orbitaline en fazla iki elektron, üç tür olan p orbitaline en fazla altı 
+elektron, beş tür olan d orbitaline ise en fazla 10 elektron yerleşebilir. 
+Orbital adOrbitallerin sayısı Alabileceği en fazla elektron sayısı  
+1x2=2e
+3x2=6e
+5x2=10e
+7x2=14e-
+H atomu üzerinden elektron dizilimini yapacak olursak; hidrojenin 1 elektronu 
+vardır ve bu elektron atomda en düşük enerjili orbital olan 1s orbitaline yerleşir. Yerleşe elektron üst indis şeklinde s’nin üzerinde gösterilir. 
+1H     :     1sorbital türelektron sayıselement 
+sembolatom 
+numarastemel enerji seviyes5. UYGULAM5B atomunun elektron dizilimini yapınızÇözüm: 
+5B: 1s2 2s2 2p--
+ya dya dya d-
+-Boş orbitaYarı dolu orbitaTam dolu orbitaşeklinde gösterilirBor atomunun orbital gösterimi ---
+ şeklindedir7N: 1s2s2 
+2p3 
+9F: 1s2s2 
+2p---
+-
+-
+---. -. -
+2Px  2Py 2P2Px  2Py 2P      Elektronlar eş enerjili orbitallere öncelikle birer birer yerleşirler. Hund Kuralı olarak 
+bilinen bu kurala göre elektronlar önce boş orbitallere aynı spinli olacak şekilde yerleşirler 
+daha sonra ters spinli olacak şekilde orbitallerdeki elektronlar ikiye tamamlanır. 
+Hund Kuralı’na göre p orbitallerine ve d orbitellerine elektronların yerleşmesi birer 
+birer olmaktadır. 
+Atomların elektron dizilimleri Aufbau 
+n = 1 
+1n = 2 
+2s 
+2n = 3 
+3s 
+3p 
+3n = 4 
+4s 
+4p 
+4d 
+4n = 5 
+5s 
+5p 
+5d 
+5n = 6 
+6s 
+6p 
+6n = 7 
+7s 
+7(Aufba) Kuralı’na göre yapılır. Aufbau Almanc’da inşa etme anlamına gelir ve bu kura atomların atom numaraları arttıkça 
+elektron diziliminin nasıl inşa edileceğini 
+gösterir. Pauli İlkesi ve Hund Kuralı’nı da 
+içeren bu kurala göre elektronlar orbitallere 
+en düşük enerjili orbitalden başlayarak yerleşi. Her orbital en fazla 2 elektron alabilir. 
+Bu yerleşim sırasını hata yapmadan yapabilmek için  yukarıda verilen şemanın 
+kullanılması yararlı olacaktır. 
+1. Ünite: Modern Atom TeorisKimya - 1s 2s 2p 3s 3p 4s 3d 4p ……
+Bu şemaya göre en tepeden başlamak üzere okların yönü takip edilerek gidildiğinde 
+üstte verilen sıralama yapılmış olur. 
+Aşağıdaki tabloda periyodik tabloda yer alan ilk 24 elementin elektron dizilimleri 
+verilmiştir. İnceleyinizElement 
+SembolAtom NumarasElektron DizilimEn Yakın Soygazdan 
+Yararlanarak Yazılan 
+Elektron DizilimH 
+1s–
+H1s–
+L1s2 2s[He] 2sB1s2 2s[He] 2s1s2 2s2 2p[He] 2s2 2p1s2 2s2 2p[He] 2s1 2p1s2 2s2 2p[He] 2s1 2p1s2 2s2 2p[He] 2s1 2p1s2 2s2 2p[He] 2s1 2pN1s2 2s2 2p[He] 2s1 2pN1s2 2s2 2p63s[Ne] 3sM1s2 2s2 2p63s[Ne] 3sA1s2 2s2 2p63s23p[Ne] 3s2 3pS1s2 2s2 2p63s23p[Ne] 3s2 3p1s2 2s2 2p63s23p[Ne] 3s2 3p1s2 2s2 2p63s23p[Ne] 3s2 3pElement 
+SembolAtom NumarasElektron DizilimEn Yakın Soygazdan 
+Yararlanarak Yazılan 
+Elektron DizilimC1s2 2s2 2p63s23p[Ne] 3s2 3pA1s2 2s2 2p63s23p[Ne] 3s2 3p1s2 2s2 2p63s23p64s[Ar] 4sC1s2 2s2 2p63s23p64s[Ar] 4sS1s2 2s2 2p63s23p64s23d[Ar] 4s2 3dT1s2 2s2 2p63s23p64s23d[Ar] 4s2 3d1s2 2s2 2p63s23p64s23d[Ar] 4s2 3dC1s2 2s2 2p63s23p64s13d[Ar] 4s1 3d     Cr ve Cu dışında verilen atomların elektron dizilimlerinde d orbitalleri düzenli 
+bir biçimde dola     . Bu atomların  son     orbitallerinin elektron  dizilimi ise;
+Cr ….3d5, Cu…3d10 şeklinde olup özel bir kararlılığa sahiptir. 
+24Cr: 1s22s22p63s23p64s23d4 şeklinde olması beklenirken,
+24Cr: 1s22s22p63s23p64s13d5şeklinde olmaktadır29Cu: 1s22s22p63s23p64s23d9 şeklinde olması beklenirken,
+29Cu: 1s22s22p63s23p64s13d10şeklinde olmaktadırAtomun elektron dizilimi yapıldığında son orbitali yarı dolu veya tam dolu 
+orbitallerden herhangi biriyle sonlanıyorsa (s1,  s2, p3, p6, d5, d10 ) atomda küresel 
+simetri özelliği vardır. Küresel simetri özelliği atoma kararlılık kazandırır. 
+Örne7X = 1s22s22p3 küresel simetri gösterireş enerjili orbitalleri yarı dolu olduğundan küresel simetri gösterir
+↑
+↑
+↑
+1. Ünite: Modern Atom TeorisKimya - eş enerjili orbitalleri ne tam dolu ne de yarı dolu olduğundan küresel 
+simetri göstermez
+↑↓ ↑↓ ↑
+9Y = 1s22s22p5  küresel simetri göstermezAtomların katman-elektron dizilimlerini yapmayı öğrenmiştiniz. Atomun bu katma-elektron diziliminde son katmandaki elektronlar atomun kimyasal davranışını 
+ortaya koyar. Nötr bir atomun elektron diziliminde son katmanda bulunan elektronlar değerlik elektronları, bu orbitallerin bulunduğu orbitallere de değerlik 
+orbitalleri denir. Aşağıda elektron dizilimleri verilmiş olan atomların değerlik 
+orbitalleri ve değerlik elektronları gösterilmiştir. İnceleyiniz11Na: 1s2 2s2 2p6 3s1 "Değerlik orbitalleri “s”
+Değerlik elektronu; 1 
+8O: 1s2 2s2 2p4"Değerlik orbitalleri “s ve p”
+Değerlik elektronları; 2 + 4 = Acaba atomlar elektron aldığında ya da verdiğinde elektron dizilimleri nasıl yapılmaktadı? Aşağıda verilen örnekleri inceleyiniz. 
+  Lityum atomunun elektron dizilimi;
+3Li: 1s2 2s1 şeklinde iken,
+Lityum atomu 1 elektron verdiğinde 2 elektronu kalır ve    lityum iyonunun       
+(Li+)  elektron dizilimi;
+3Li+: 1s2 şeklinde olur ve helyum soy gazının elektron dizilimine benzerÖrneOksijen atomunun elektron dizilimi;
+8O: 1s2 2s2 2p4 şeklinde ikeOksijen atomu 2 elektron aldığında 10 elektronu olur v  e oksijen iyonunun 
+(O2-) elektron dizilimi;
+8O2-: 1s2 2s2 2p6  şeklinde olur ve kendine en yakın soy gaz ol    n neonun 
+elektron dizilimine benzerBir atom elektron verirken öncelikle enerjisi en yüksek olan orbitaldeki elektronunu 
+verir29Cu: 1s22s22p63s23p64s13d10 Cu atomu 1 elektron verirken en yüksek enerjil orbitali olan 4s’den verir. Dolayısıyla elektron dizilimi aşağıdaki gibi olur. 
+29Cu+: 1s22s22p63s23p63dAşağıda verilen atom ve iyonların elektron dizilimlerini yapınız. 
+11Na+,  15P3-, 19K+ , 21Sc, 28V, 35Br -
+Çözü11Na+ :  1s2 2s2 2p15P3- : 1s2 2s2 2p63s23p19K+ : 1s2 2s2 2p63s23p21Sc : 1s2 2s2 2p63s23p64s23d28V : 1s2 2s2 2p63s23p64s23d35Br- : 1s2 2s2 2p63s23p64s23d10 4p6. UYGULAM1. Ünite: Modern Atom TeorisÖrneÖrneKimya - Acaba atom numarası bilinen bir atomun  periyodik tablodaki yeri nasıl bulunabili? Bunun için atomun nötr durumda iken elektron dizilimine bakmak gerekir. Nötr 
+bir atomun elektron diziliminde değerlik orbitalleri ve değerlik elektronlarından yararlanılı. Bir atomun nötr elektron diziliminde değerlik orbitalinin bulunduğu katman 
+o atomun periyodunu belirlerÖrneAtom numarası 12 olan magnezyum(Mg) elementi ile atom numarası 20 olan kalsiyu(Ca) elementinin periyot numarasını bulalım12Mg:1s2 2s2 2p63s2  3. periyo20Ca: 1s2 2s2 2p6 3s2 3p64s2  4. periyoPeriyot numarası belirlendikten sonra, periyodik sistemde hangi grupta yer aldığını 
+bulmak için de nötr bir atomun elektron diziliminde değerlik elektronlarına bakılır. 
+Değerlik elektron sayısı atomun grup numarasını verir. Nötr atomun elektron dizilimi 
+s veya p orbitaliyle bitiyorsa  atom A grubunda, d orbitaliyle bitiyorsa B grubunda, f 
+orbitaliyle bitiyorsa Lantanit - Aktinit grubunda yer alır1H, 6C, 7N, 32X atomlarının periyodik tablodaki yerlerini belirleyinizÇözüm:
+1H: 1s1  1A grubu (s ile bittiğinden)
+1. periyo6C: 1s2 2s2 2p2. periyo 4A grubu (p ile bittiğinden)
+  2+2 = 4’tür7N:1s2 2s2 2p2.periyo5A grubu (p ile bittiğinden)
+  2+3 = 5’tir7. UYGULAM32X : 1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p2   2+2 = 4’tür4. periyot 
+      4A grubu (p ile bittiğinden)
+Elektron dağılımlarında sonu d ile biten elementler periyodik tabloda B grubunda 
+bulunurlar. Bu atomların değerlik elektronları, s ve d orbitalinde bulunan elektron 
+sayılarının toplamıdır ve bu sayı grup numarasını verir. 8B grubu 3 tanedir. Değerlik 
+elektron sayıları toplamı 8, 9 ve 10 olan atomlar bu grupta yer alır. Değerlik elektron 
+sayıları toplamı 10’dan büyükse bu sayı 10’dan çıkarılarak grup numarası bulunabilir34567812s2 ds2 ds2ds2ds2ds2ds2ds2ds1ds2d8. UYGULAM22Y, 28X, 30Z atomlarının elektron dizilimlerini yaparak periyodik sistemdeki 
+periyot ve gruplarını belirleyiniz. 
+Çözüm:
+22Y: 1s2 2s2 2p6 3s2 3p6 4s2 3d2    4. Periyot 4B grubu (d ile bittiğinden)
+28X: 1s2 2s2 2p6 3s2 3p6 4s2 3d8   4. Periyot 8B grubu (d ile bittiğinden)
+30Z: 1s2 2s2 2p6 3s2 3p6 4s2 3d10   4. Periyot 
+10+2=12–10=2; 2B grub(d ile bittiğinden)
+Periyodik tablonun IUPAC ’e göre 18 gruptan oluştuğunu daha önceki yıllarda 
+öğrenmiştiniz. Görsel 1.9’da görüldüğü gibi elektron dizilimleri s orbitali ile bitenler 
+s-blok elementleri, p ile bitenler p- blok elementleri, d ile bitenler d-blok elementleri, 
+f ile bitenler ise f- blok elementleridir1. Ünite: Modern Atom TeorisKimya - Görsel 1.9 Periyodik sistemde blokla9. UYGULAMAşağıda verilen atomların elektron dizilimlerini yaparak periyodik sistemdek periyot, grup ve bloklarını belirleyiniz. 
+13Al, 25Mn, 29Cu, 33As 
+Çözüm:
+13Al: 1s2 2s2 2p6 3s2 3p3. periyo  3A grubu ; p bloğ25Mn : 1s2 2s2 2p6 3s2 3p6 4s2 3d4. periyo  7B grubu ; d bloğ29Cu : 1s2 2s2 2p6 3s2 3p6 4s1 3d4. periyo  1B grubu ; d bloğ33As  : 1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p4. periyo  5A grubu ; p bloğ1.3. PERİYODİK ÖZELLİKLEPeriyodik özelliklerin değişme eğilimlerini önceki yıllarda öğrenmiştiniz. Şimdi bu 
+eğilimlerin değişimini sebepleriyle birlikte öğrenmeye ne dersiniz?
+Atom Yarıçapı 
+Atomun merkezi ile son katmanı arasındaki 
+Görsel 1.10 Atom 
+yarıçapAtom yarıçapuzaklık atom yarıçapıdır (Görsel 1.10). Atomların 
+yaptığı bağ türüne göre yarıçaplar üçe ayrılır. 
+1. Kovalent YarıçaAmetal atomları arasında elektronların ortaklaşa kullGörsel 1.11 Cl2 
+molekülündeki 
+kovalent yarıçapın 
+gösterim
+Kovalent 
+yarıçanılmasıyla oluşan bağa kovalent bağ denildiğini biliyoruz. 
+Tek bir kovalent bağla bağlanmış eşdeğer iki atomun çekirdekler arasındaki uzaklığın yarısına kovalent yarıçap 
+denir. Görsel 1.11 de klor molekülünün(Cl2) çapı çizgi ile gösterilmişti. Bunun yarısı da Cl2 molekülünün yarıçapıdır2. İyonik YarıçaMetal atomları ile ametal atomları arasında elektron alışverişNa+
+Cl-
+Görsel 1.12 NaCl 
+bileşiğindeki iyonik 
+yarıça98 p181 pİyonik yarıçaile oluşan kimyasal bağa iyonik bağ denildiğini biliyoruz. 
+İyonik bağı oluşturan metal atomları elektron vererek katyon 
+oluştururken ametal atomları da elektron alarak anyon oluşturu. İyonik bağı oluşturan katyon ve anyonların çekirdekleri 
+arasındaki uzaklık ölçülür. Bu iyonlar eşdeğer büyüklükte olmadığında, aralarındaki uzaklığın katyon ve anyon arasında 
+bölüştürülmesiyle elde edilen yarıçapa iyonik yarıçap deni.  Görsel 1.12’de NaCl iyonik bileşiğinde iki iyonun çekirdekler arasındaki uzaklıktan Na+ iyonunun yarıçapı 
+çıkarıldığında Cl– iyonunun yarıçapı hesaplanır1. Ünite: Modern Atom TeorisKimya - 3. Van der Waals YarıçaGörsel 1.13 
+Van der Waals yarıçaVan der Waals yarıça    Soy gaz atomları yüksek basınçlarda ve düşük sıcaklıklarda 
+katı hale geçerken aralarındaki etkileşimlerden yararlanarak 
+Van der Waals yarıçap hesaplanır. Örneğin, 3. periyot soy 
+gazı argonun 1atm dış basınçta erime sıcaklığı 83,6 K ’dir. 
+Argon erime sıcaklığının altındaki sıcaklıklarda katı hâldedir. 
+Katı halde iken hesaplanan soy gaz elementinin atomlarının 
+merkezleri arasındaki uzaklığın yarısına Van der Waals yarıçapı 
+denir (Görsel 1.13)Periyodik sistemde yukarıdan aşağıya doğru inildikçe katma sayısı bir arttığından atom hacmi artar dolayısıyla da 
+atom yarıçapı da artar. Aynı periyotta soldan sağa doğru gidildikçe katman sayısı aynı 
+kalmasına rağmen proton sayısı dolayısıyla çekirdeğin çekim gücü artar. Bu nedenle 
+son katmanda bulunan elektronları daha çok kendine doğru çeker ve böylece atom 
+yarıçapı küçülür. Bu değişim görsel 1.14’de verilmiştir. 
+Görsel 1.14 Periyodik sistemde atom yarıçaplarının değişimAtom çapı ve atom hacmi artar Acaba atom elektron alıp verdiğinde atom yarıçapında nasıl bir değişiklik olur? 
+Nötr bir atom elektron aldığında (anyon) çekirdek yükü yani proton sayısı değişmez 
+ancak “+” yük başına düşen “–” yük sayısı arttığından çekirdek elektronlara daha zayıf 
+çekim uygular. Anyonun atom hacmi artar dolayısıyla da atom yarıçapı da artar.Dolayısıyl da anyonlar oluştukları atomlardan daha büyük boyuta sahiptirler. 
+ Nötr bir atom elektron verdiğinde (katyon) çekirdek yükü yani proton sayısı 
+değişmez ancak “+” yük başına düşen “ – ” yük sayısı azaldığından çekirdek elektronlara 
+daha güçlü çekim uygular.Katyonun atom hacmi azalır dolayısıyla atom yarıçapı da 
+azalır. Dolayısıyla da katyonlar oluştukları atomlardan daha küçüktürler. 
+ÖrneNa+, Mg2+, O2-, N3– iyon çaplarını sıralayınız. (11Na, 12Mg, 8O, 7N)
+ÇözüBu iyonlar izoelektroniktir. Yani hepsinin elektron sayısı eşittir ve 10’dur. 
+İçerdikleri proton sayısına göre küçükten büyüğe doğru Mg, Na,  O, N şeklinde 
+sıralanır. Proton sayısı fazla olan atomda elektronlar, çekirdek tarafından daha güçlü 
+çekilir. O hâlde izoelektronik katyonlarda iyon yükü daha büyük olan katyon boyut 
+olarak daha kü-çüktür. Sıralama ; Mg2+ < Na+ < O2– < N3-şeklinde olur. 
+Metalik / Ametalik ÖzelliklePeriyodik sistemde görsel 1.15 incelendiğinde metaller sistemin sol tarafında ametalle sistemin sağ tarafında yoğunlaşmıştır. 
+Görsel 1.15 Periyodik sistemde metal ve ametalleSon katmanlarında 1, 2 ve 3 elektron bulunan ve elektron vermeye yatkın elementleri metal, son katmanlarında 5, 6 ve 7 elektron bulunan ve elektron almaya yatkın 
+elementlerin ametal olduğunu biliyoruz. Elektron verme isteği atomun yarıçapı büyüdükç artar. Bir atomda değerlik elektronları çekirdekten uzaklaştıkça, çekirdek 
+1. Ünite: Modern Atom TeorisKimya - tarafından elektronlara uygulanan çekim kuvveti azalır ve atomun elektron vermesi 
+kolay olur. Bu nedenle periyodik sistemde aynı periyotta soldan sağa doğru gidildikçe 
+metalik özellik azalırken aynı grupta yukarıdan aşağıya doğru inildikçe metalik özellik 
+artarİyonlaşma Enerjis  Gaz halde bulunan nötr bir atomdan elektron koparmak için gereken enerjiye iyonlaşm enerjisi denir. Gaz halindeki nötr bir atomdan bir elektron koparmak için gereke enerji birinci iyonlaşma enerjisidir (İE1)X(g)     +     İE1    
+X+
+(g) + e-
++1 yüklü iyondan ikinci elektronu koparmak için gereken enerji ikinci iyonlaşmenerjisidir (İE2)X+
+(g)     +     İEX2+
+(g) + e-
+Herhangi bir atom için daima İE1 < İE2 < İE3... geçerlidir. Yani bir sonraki elektronu 
+koparmak daha fazla enerji gerektirirGruplarda iyonlaşma enerjisi sıralaması,1A < 3A < 2A < 4A < 6A < 5A < 7A < 8A 
+şeklindedir. Bu sıralamada 2A grubunun 3A grubundan, 5A grubunun ise 6A grubunda daha büyük iyonlaşma enerjisine sahip olduğu dikkatinizi çekti mi? 2A ve 5A grubu 
+elementlerinin elektron dizilimi yapıldığında küresel simetri özelliği olduğu görülür. 
+iyonlaşma enerjiler     Görsel 1.16’da verilen grafikte periyodi sistemde atom numaraları 
+1’den 20’ye kadar olan elementlerin 
+iyonlaşma enerjileri görülmektedir. 
+Bor elementi 3A grubunda olmasına 
+rağmen iyonlaşma enerjisi berilyum 
+elementininkinden daha düşüktür. 
+Görsel 1.16 Periyodik sistemde elementlerin 
+Benzer durum azot ve oksijenin iyonlaşm enerjilerinde de görülmektedirAynı grupta, katman sayıları arttıkça, elektronun çekirdek tarafından çekimi azalacağında, iyonlaşma enerjileri azalırElemenAtom yarıçapı (pm)
+IE1(kj/mol)
+L520,N495,418,RC375,Metallerin son enerji seviyelerinde 1, 2 ya da 3 elektronu bulunduğundan metalleri son katmanlarından elektron koparmak kolaydır. Ametallerin son katmanlarında 
+5, 6 ya da 7 elektron bulunduğundan elektron koparmak zordur.Bir atomdan elektron 
+koparmak zorlaştıkça iyonlaşma enerjisi de artarElektron İlgisElektron ilgisinin, gaz haldeki bir maddenin nötr bir atomunun bir elektron kazanmas sırasındaki enerji değişimi olduğunu daha önceki yıllarda öğrenmiştiniz. Nötr 
+bir atomun elektron almadan önceki enerjisiyle, elektron aldıktan sonraki enerjisi arasındak fark o atomun elektron ilgisini verir. 
+X(g)     +     e–
+ 
+ 
+X 
+–
+(g)    +    E          Elektron ilgisPeriyodik sistemde soldan sağa doğru gidildikçe genellikle elektron ilgisi artarken 
+aynı grupta yukarıdan aşağıya doğru genellikle elektron ilgisi azalır. Ametallerin elektro ilgisi genellikle yüksektir, soy gazların elektron alma isteği ise çok azdır. A grubu 
+elemetlerinden Cl’un elektron ilgisi F’ dan büyük olduğundan bu duruma uymazElektronegatifliElektronegatiflik, kovalent bir bileşiği oluşturan atomların bağdaki elektronları 
+kendine çekme gücünün bir ölçüsüdür. Atomun çapı küçüldükçe ve proton sayısı 
+arttıkça bağ elektronlarının çekirdek tarafından çekilmesi artar.  Periyodik sistemde 
+elektronegatiflik soldan sağa artarken yukarıdan aşağıya azalır. Periyodik sistemde 
+elektronegatifliği en yüksek atom flor atomudur (Görsel 1.17)Elektronegatiflik artarElektronegatiflik azalırGörsel 1.17 Periyodik tabloda elementlerin elektronegatiflik değerler1. Ünite: Modern Atom TeorisKimya - Asitlik/Bazlık ÖzelliklerOksijen hemen hemen tüm elementlerle tepkimeye girerek oksit bileşiklerini oluşturu. Oksit bileşiklerinin bazıları asidik özellik gösterirken bazıları da bazik özellik 
+gösterir. Metal oksitlerin sulu çözeltileri genellikle bazik özellik gösterir. Örneğin; 
+sodyumun oksijenle oluşturduğu sodyum oksit bileşiği suyla etkileştiğinde sodyum 
+hidroksit bazını oluşturur2Na + 1/2 O2 " Na2O(k)
+Sodyum oksiNa2O(k) + H2O(s) " 2 NaOH (suda)
+BaAmetal oksitlerin (SO2, SO3, CO2 gibi) çoğu asidiktir. 
+SO3(g) + H2O (s) " H2SO4 (suda)
+Sülfürik asit 
+Bir periyotta soldan sağa doğru ve bir grupta aşağıdan yukarıya doğru gidildikçe 
+element oksitlerinin asidik karakteri artar. Bir periyotta sağdan sola doğru ve bir 
+grupta yukarıdan aşağıya doğru element oksitlerinin bazik karakteri artarAsit karakteri 
+artaBaz karakteri 
+artaElementlerin hidroksitle (OH-) oluşturdukları bileşikler hidroksit bileşikleridir. 
+Hidroksit bileşiklerinde elementlerin elektron ilgisi o bileşiğin asit mi baz mı olduğun belirler. Periyodik sistemde aynı periyotta soldan sağa gidildikçe elektron ilgisi 
+artar. OH- iyonu ile bağ yapan atomun çekirdek çekim gücü artar ve O-H bağı zayıflar. 
+OH bağı zayıflayan bileşik asit özelliği gösterir. Periyotlarda soldan sağa doğru gidildikç hidroksit bileşiklerinin asitliği artarken, baz özellikleri azalır. Gruplarda yukarıda aşağıya doğru inerken hidroksitlerin asitlik özelliği azalırken baz özelliği artar.  
+1.4 ELEMENTLERİ TANIYALIPeriyodik sistemin periyot ve gruplardan oluştuğunu ve sistemde soldan sağa 
+doğru yatay sıralara periyot, yukarıdan aşağıya doğru inen düşey sütunlara grup 
+dendiğini daha önceki konulardan biliyorsunuz. Aynı grupta bulunan elementler iyon 

@@ -1,0 +1,400 @@
+:
+n faktöriye,
+(
+)
+P n :
+n elemanlı bir kümenin r elemanlı permütasyonlarının sayıs,
+(
+)
+C n :
+n elemanlı bir kümenin r elemanlı kombinasyonlarının sayıs:
+n elemanlı bir kümenin r elemanlı kombinasyonlarının sayıs:
+Evrensel küm( )
+P :
+A olayının olasılığı 
+(
+)
+P A:
+A olayının olmama olasılığı 
+"
+f : :
+A kümesinden B kümesine fonksiyof(A)
+:
+A  kümesinin f fonksiyonu altındaki görüntüs( )
+f =
+:
+x i y ile eşleyen f fonksiyon+
+:
+f ve g fonksiyonlarının toplam-
+:
+f ve g fonksiyonlarının farkf $
+:
+f ve g fonksiyonlarının çarpım:
+f ve g fonksiyonlarının bölüm:
+Fonksiyo:
+Birim fonksiyo:
+Bileşkf -
+:
+f fonksiyonunun tersP(x)
+:
+Polino:
+Diskriminan:
+Sanal (imajiner) sayı birimi+
+:
+Karmaşık say:
+Karmaşık say:
+Karmaşık sayının eşleniğ:
+Karmaşık sayılar kümes‹m ^ :
+İmajiner kısıRe(z)
+:
+Reel kısıÇ(ABCD)
+:
+ABCD dörtgeninin çevresA(ABCD)
+:
+ABCD dörtgeninin alanSEMBOL VE GÖSTERİMLE10.1.1. Sıralama ve Seçm10.1.2. Basit Olayların Olasılıklar10.1. SAYMA VE OLASILIİçinde bulunduğumuz yüzyıl; büyük 
+teknolojik gelişmelerin yaşandığı, 
+herhangi bir bilgiye çok hızlı bir şekilde 
+ulaşılabilen bilgi çağıdırGeçmiş dönemlerde kasalarda fiziksel 
+olarak saklanan birçok şey günümüzde 
+dijital ortamda, dijital şifrelerle 
+saklanmaktadır. Örneğin önceleri 
+kasalarda saklanan altın, döviz gibi 
+değerli nesneler günümüzde daha çok 
+internet bankacılığı aracılığıyla dijital 
+ortamda altın veya döviz hesabında 
+saklanmaktadırBu çağın en önemli ögesi bilgidir. Günümüzde bilgiye ulaşmanın kolaylığı göz önünde bulundurulduğunda 
+kişisel bilgilerin saklanması çok önemli bir hâle gelmiştir. Bu bilgilerin saklanmasında kullanılan şifrelerin 
+çok kuvvetli yani kolay tahmin edilemeyecek, başkaları tarafından çözülemeyecek zorlukta olması 
+gerekmektedir. Böyle bir şifrenin oluşturulmasında sayma ve olasılık konularında bilgi sahibi olunması 
+büyük kolaylık sağlarRakamlar arasından seçilen 3 haneli bir şifre için 1000 farklı durum varken rakamlar ve Türk alfabesinin 
+harfleri arasından seçilen 3 haneli bir şifre için 59 319 farklı durum vardır. Rakamlar, Türk alfabesinin 
+harfleri ve 8 farklı simge arasından seçilen 3 haneli bir şifre için ise 103 823 farklı durum vardır. Bu 
+şekilde oluşturulan şifrelerin başkası tarafından tahmin edilmesi oldukça zordurYandaki şekilde verilen 4 noktanın 3 ünü seçerek köşeleri bu noktalardan 
+oluşan üçgenler çiziniz ve bu yolla oluşturulabilecek üçgen sayısını bulunuzYanda verilen 
+, 
+, 
+ şekillerini içi kırmızı, turuncu ya da mavi 
+renkleriyle her bir şeklin farklı renkte 
+olması koşuluyla boyanarak desenler 
+elde edilecektir. Bu şekilde kaç farklı 
+desen elde edilebileceğini şekil üzerinde 
+uygulama yaparak bulunuzHazırlık Çalışmas12Veri, Sayma ve OlasılıVeri, Sayma ve OlasılıSembol ve Gösterimle• n! , P(n, r) , C(n, r), 
+   Terimler ve Kavramla• Toplama Yöntem• Çarpma Yöntem• Faktöriye• Permütasyo• Tekrarlı Permütasyo• Kombinasyo• Pascal Üçgen• Binom AçılımBilg10.1.1. Sıralama ve Seçm• Olayların gerçekleşme sayısını toplama ve çarpma yöntemlerini kullanarak hesaplamayı,
+• n çeşit nesne ile oluşturulabilecek r li dizilişlerin (permütasyon) kaç farklı şekilde yapılabileceğin hesaplamayı,
+• Sınırlı sayıda tekrarlayan nesnelerin farklı dizilişlerini (permütasyon) ve bu dizilişlerin sayıların hesaplayarak problemler çözmeyi,
+• n elemanlı bir kümenin r tane elemanlı alt kümelerinin (kombinasyon) kaç farklı biçimde 
+oluşturulabileceğini göstermeyi,
+• Pascal (Paskal) üçgeni ve binom açılımını kavramayı öğreneceksiniz10.1.1.1. Toplama ve Çarpma Yöntemlerini Kullanarak Saymİlk sayıların insanın sayma gereksiniminden ortaya çıktığı, akşamları hayvanlarının tam olup olmadığını 
+anlamak isteyen insanlar tarafından kullanıldığı iddia edilmektedir. Tam anlamıyla bir sayı kavramına 
+sahip olmayan bu insanlar, bunu çitten geçen her bir hayvan için başlangıçta boş olan keseye bir çakıl 
+taşı koyarak yapmışlardır. Günümüzde Hint-Avrupa dillerinde “hesap” anlamında kullanılan kalkülüs 
+sözcüğü  Latincede “çakıl taşı” anlamına gelmekteydi. Böylece her çakıl taşı bir hayvanla eşleşmiştir. 
+Zamanla  ortaya çıkan yeni ihtiyaçlar sonucunda sayı kavramı gelişmiş ve sayma işi için farklı yöntemler 
+de kullanılmaya başlanmıştır. 
+Sayma işleminin farklı yöntemlerle yapılabiliyor olması insanlara bazı kolaylıklar sağlamıştır. Örneğin 
+her rafında 10 kitap bulunan 5 raflı bir kitaplıktaki kitap sayısı hesaplanırken aşağıdaki yollardan biri 
+kullanılabilir• Her kitap tek tek sayılarak kitaplıktaki toplam kitap sayısı 50 olarak bulunabilir• 5 defa 10 sayısı toplanarak kitaplıktaki toplam kitap sayısı  +
++
++
++
+=
+ olarak bulunabilir• 5 ile 10 çarpılarak kitaplıktaki toplam kitap sayısı 5 $
+=
+  olarak bulunabilirBu yöntemlerden çarpma yoluyla saymanın diğerlerine göre daha hızlı saymayı sağladığı görülmektedir. 
+Fakat her sayma işlemi için çarpma yolunun kullanılması uygun olmayabilir. Örneğin 10 kız, 15 erkek 
+öğrenciden oluştuğu bilinen bir sınıfın mevcudu hesaplanırken uygun olan yöntem, toplama yoluyla 
+saymadır. Herhangi bir sınıftaki erkek öğrenci sayısının bulunmasında ise eşleme yoluyla sayma 
+yapılmalı ve her erkek öğrenci 1 den başlanarak bir ardışık pozitif tam sayı ile eşlenmelidir. 
+Sonuç olarak uygun sayma yönteminin kullanılması bu yöntemi kullanan kişilere zaman kazandırıp 
+kişilerin  hayatlarında kolaylık sağlarBir kümenin elemanlarını, pozitif tam sayılar kümesinin elemanları ile sıralı olarak bire bir 
+eşleyerek bulma işlemine bire bir eşleme yoluyla sayma denirVeri, Sayma ve OlasılıVeri, Sayma ve OlasılıHer birinde 8 kitap bulunan 14 kolide kaç kitap olduğunu bulunuzBilg#
+ kümesinin elemanları olan (x, y) sıralı ikililerinin sayısı ( )
+s =
+ ve ( )
+s =
+ olmak 
+üzere m $
+ adet olur. Sıralı ikililerin sayısını bu şekilde bulma işlemine çarpma yoluyla 
+sayma denirKoliler kümesi 14 elemanlı bir küme ve kitaplar kümesi 8 elemanlı bir kümedir1. kolideki 1. kitap (1, 1) ile 
+1. kolideki 2. kitap (1, 2) il1. kolideki 8. kitap (1, 8) il14. kolideki 1. kitap (14, 1) il14. kolideki 2. kitap (14, 2) il14. kolideki 8. kitap (14, 8) ile gösterildiğindbu sıralı ikililerin sayısı, çarpma yoluyla sayma yöntemine göre koliler kümesindeki eleman sayısı ile 
+kitaplar kümesindeki eleman sayısının çarpımı olan 14 $
+=
+ adet olur. Kitapların sayısı ile sıralı ikilileri  sayısı aynı olduğundan kitap sayısı 112 adet olurSaymanın Temel İlkesGüllerin oluşturduğu kümeye G kümesi denilirse ( )
+s =
+ olur. Karanfillerin oluşturduğu kümeye ise K 
+kümesi denilirse ( )
+s =
+ olur. (
+)
+( )
+( )
+s s s ,
+=
++
+=
++
+=
+ bulunur. Bu durumda bu vazodan 1 
+gül veya 1 karanfil 9 farklı biçimde alınabilirBir vazoda bulunan 4 gül ve 5 karanfil arasından 1 gül veya 1 karanfilin kaç farklı biçimde alınabileceğini 
+bulunuzİpuck  tane olayın gerçekleştiği bir olaylar dizisinde birinci olay n1  farklı biçimde, ikinci olay n2  
+farklı biçimde ve bu şekilde devam edildiğinde k ninci olay nk  farklı biçimde gerçekleşiyorsa 
+bu olayların tamamı 
+1 $
+$
+$
+$
+ çarpımı kadar farklı biçimde gerçekleşirBilgSonlu ve ayrık kümelerin birleşiminin eleman sayısını bulmak için bu kümelerin eleman 
+sayıları toplanır. Bu yöntemle saymaya toplama yoluyla sayma denir. A ile B sonlu ve ayrık 
+iki küme olmak üzere (
+)
+( )
+( )
+s s s ,
+=
++
+ olurVeri, Sayma ve OlasılıVeri, Sayma ve OlasılıFarklı 3 pantolonu ve farklı 2 çift ayakkabısı olan Oğuz Bey’in bir pantolon ve bir çift ayakkabıyı kaç farklı 
+biçimde giyebileceğini bulunuzBir sesli harf ve bir çift rakamdan oluşan kaç farklı sıralı ikili yazılabileceğini bulunuz1. yoPantolonların oluşturduğu kümeye P kümesi ve pantolonlara p , p , 3  isimleri verilirse 
+p , p , =
+"
+,  
+olur. Ayakkabıların oluşturduğu kümeye A kümesi ve ayakkabılara 
+,
+2  isimleri verilirse 
+a , =
+"
+,  
+olur. ( )
+( )
+vs s =
+=
+ olduğundan Oğuz Bey bir pantolon ve bir ayakkabıyı 3 $
+=
+ farklı biçimde 
+giyebilir2. yoYandaki ağaç diyagramıyla sorunun çözümü aşağıdaki gibi yapılabilirŞekildeki oklar soldan sağa takip edilerep , a , p , a , p , a , p , a , p , a , p , #
+=
+^
+^
+^
+^
+^
+^
+"
+,  
+kümesi elde edilir. (
+)
+s #
+=
+ olduğundan Oğuz Bey 1 pantolon ve 1 ayakkabıy 6 farklı biçimde giyebilira)   1. bilye 5 kutudan herhangi birine 5 farklı biçimde,
+      2. bilye 5 kutudan herhangi birine 5 farklı biçimde,
+      3. bilye 5 kutudan herhangi birine 5 farklı biçimde atılabilir. 
+      Saymanın temel ilkesine göre 3 farklı bilye 5 farklı kutuya 5 5 $
+$
+=
+ farklı biçimde atılabilirb)   1. bilye 5 kutudan herhangi birine 5 farklı biçimde,
+      2. bilye kalan 4 kutudan herhangi birine 4 farklı biçimde,
+      3. bilye ise kalan 3 kutudan herhangi birine 3 farklı biçimde atılabilir. 
+      Bu durumda 3 farklı bilye 5 farklı kutuya her kutuda en çok bir bilye olmak koşuluyla  5 4 $
+$
+=
+ 
+farklı biçimde atılabilir3 farklı bilyenin 5 farklı kutuya,
+a) Kaç farklı biçimde atılabileceğini bulunuzb) Her kutuda en çok bir bilye olmak koşuluyla kaç farklı biçimde atılabileceğini bulunuzSesli harflerin oluşturduğu kümeye A kümesi, çift rakamların oluşturduğu kümeye B kümesi denilirsa, e, , i, o, ö, u, ›
+A = "
+,  ve s =
+]  olur. 
+0, 2, 4, 6, B = "
+,  ve s =
+]  olurBirinci bileşeni bir sesli harf, ikinci bileşeni bir çift rakam olan sıralı ikililerin sayısı bulunurken saymanın 
+temel ilkesi gereği bu iki sayı çarpılır. Dolayısıyla (
+)
+s 8 $
+#
+=
+=
+ olurBirinci bileşeni bir çift rakam, ikinci bileşeni ise bir sesli harf olan sıralı ikililerin sayısı (
+)
+s 5 $
+#
+=
+=
+ 
+olur. Koşula uyan toplam sıralı ikili sayısı +
+=
+ olurVeri, Sayma ve OlasılıVeri, Sayma ve OlasılıBir okulda 7 nöbetçi öğretmenin bulunduğu bir günde dördüncü ders saatinde 3 sınıfın dersi boştur. Bu 
+derslerin boş geçmemesi amacıyla dersi boş olan sınıfların her birine bir nöbetçi öğretmen girecektir. 
+Buna göre nöbetçi öğretmenlerin bu sınıflara kaç farklı şekilde girebileceğini bulunuzYukarıdaki çizgiler A, B ve C şehirleri arasındaki yolları temsil etmektedir. Buna göre A şehrinden harekete 
+başlayıp şekildeki yolları kullanan bir aracın B şehrine uğramak koşuluyla) C şehrine kaç farklı şekilde gidebileceğini bulunuzb) Kaç farklı şekilde C şehrine gidip tekrar A şehrine dönebileceğini bulunuz. 
+c) Giderken kullandığı yolları dönüşte kullanmamak koşuluyla kaç farklı şekilde C şehrine gidip A 
+şehrine dönebileceğini bulunuza) A ile B şehirleri arasında 4 farklı, B ile C şehirleri arasında 3 farklı yol bulunduğundan araç, A şehrinde C şehrine 4 $
+=
+ farklı şekilde gidebilirb) A ile B şehirleri arasında 4 farklı, B ile C şehirleri arasında 3 farklı yol ve dönüşte C ile B şehirleri 
+arasında 3 farklı yol, B ile A şehirleri arasında 4 farklı yol bulunduğundan araç, 4 3 3 $
+$
+$
+=
+ 
+farklı yoldan A şehrinden C şehrine gidip dönebilirc) A ile C şehirleri arasını 4 $
+ farklı yoldan giden araç, dönüşte ise giderken kullandığı yolları tekrar 
+kullanmayacağından (
+) (
+)
+2 $
+$
+-
+-
+=
+  farklı yoldan döner. Böylece koşula uygun toplam 
+gidiş dönüş sayısı 4 3 2 $
+$
+$
+=
+ olurDersi boş olan üç sınıftan birine 7 nöbetçi öğretmenden herhangi biri 7 farklı şekilde, 
+dersi boş olan kalan iki sınıftan birine kalan 6 nöbetçi öğretmenden herhangi biri 6 farklı şekilde,
+dersi boş olan kalan sınıfa kalan 5 nöbetçi öğretmenden herhangi biri 5 farklı şekilde girebilirSaymanın temel ilkesine göre 7 nöbetçi öğretmen boş olan 3 sınıfa 7 6 $
+$
+=
+ farklı şekilde girebilir1, 2, 3, 4, 5, A = "
+,  olarak veriliyor. A kümesinin elemanlarını kullanaraa) Üç basamaklı kaç farklı doğal sayının yazılabileceğini bulunuzb) Üç basamaklı kaç farklı çift doğal sayının yazılabileceğini bulunuzc) 200 ile 500 arasında kaç farklı doğal sayının yazılabileceğini bulunuzç) 240 ile 600 arasında kaç farklı tek doğal sayının yazılabileceğini bulunuz.Veri, Sayma ve OlasılıVeri, Sayma ve Olasılı! +
+4, 5, "
+,
+1, 3, "
+,
+3, 4, "
+,
+1, 2, 3, 4, 5, "
+,
+1, 3, "
+,
+Yazılabilecek üç basamaklı doğal sayıların yüzler, onlar ve birler basamağı soldan sağa doğru sırasıyla 
+birer kutu şeklinde gösterilip bu kutuların içine belirttiği basamağa gelebilecek rakam yazılıra)       
+                      
+      1, 2, 3, 4, 5, "
+,      1, 2, 3, 4, 5, "
+,   1, 2, 3, 4, 5, "
+,  
+   Her basamakta A kümesine ait her rakam kullanılabileceğinden koşula uyan 6 6 $
+$
+=
+ tane üç 
+basamaklı doğal sayı yazılabilirb) Yazılabilecek üç basamaklı doğal sayıların çift olması için birler basamağına 2, 4, 6 rakamlarında herhangi biri gelir. Diğer basamaklara ise A kümesindeki her eleman yazılabileceğinden 
+       
+                      
+      1, 2, 3, 4, 5, "
+,      1, 2, 3, 4, 5, "
+,      2, 4, "
+,
+      6 6 $
+$
+=
+ tane çift doğal sayı yazılabilirc) Yazılabilecek üç basamaklı doğal sayıların 200 ile 500 arasında olması için yüzler basamağına 2, 
+3 ve 4 rakamlarından herhangi biri gelmelidir. Diğer basamaklara ise A kümesindeki her eleman 
+yazılabileceğinde                    
+            2, 3, "
+,           1, 2, 3, 4, 5, "
+,   1, 2, 3, 4, 5, "
+,
+   200 ile 500 arasında bulunan 3 6 $
+$
+=
+ tane doğal sayı yazılabilirç) Sorunun çözümü 240 ile 300 ve 300 ile 600 arasındaki tek doğal sayıların kaç tane olduğu bulunara yapılır                
+                                               
+  A kümesinin elemanlarıyla 240 ile 300 arasında yazılabilecek tek doğal sayıların sayısı 
+  1 3 $
+$
+=
+ olurA kümesinin elemanlarıyla 300 ile 600 arasında yazılabilecek tek doğal sayıların sayıs3 6 $
+$
+=
+ olur. 
+240 ile 300 sayıları arasındaki tek sayılar kümesi ve 300 ile 600 sayıları arasındaki tek sayılar kümes ayrık kümeler olduğundan 240 ile 600 arasındaki tek sayılar, toplama yoluyla sayma metodu 
+kullanılarak +
+=
+ tane bulunur. 
+Veri, Sayma ve OlasılıVeri, Sayma ve Olasılı0, 1, 2, 3, A = "
+,  kümesi veriliyora) A kümesinin elemanları kullanılarak rakamları birbirinden farklı 4 basamaklı kaç farklı doğal sayı 
+yazılabileceğini bulunuzb)  A kümesinin elemanları kullanılarak rakamları birbirinden farklı 4 basamaklı kaç farklı çift doğal 
+sayı yazılabileceğini bulunuz. 
+Aşağıda verilen ifadelerin eşitlerini bulunuza) 5!        b) 7!        c) 
+!
+!
+         ç) !
+!
+-
+Bilga)  
+  
+ 0 rakamı binler basamağına gelemeyeceğinden yazılabilecek 4 basamaklı doğal sayıların binler 
+basamağına 4 farklı rakam; yüzler basamağına 0 gelebileceğinden ve binler basamağında kullanıla rakam yüzler basamağında  kullanılamayacağından yüzler basamağına 4 farklı rakam; 
+yazılabilecek sayıların rakamları farklı olacağından ve binler ile yüzler basamağında kullanılan 
+rakamlar onlar basamağında kullanılamayacağından onlar basamağına 3 farklı rakam; binler, 
+yüzler ile onlar basamağında kullanılan rakamlar birler basamağında kullanılamayacağından 
+birler basamağına 2 farklı rakam yazılabilir. Buradan 4 4 3 $
+$
+$
+=
+ farklı doğal sayı yazılabilirb) 0 rakamı birler basamağına geldiğinde binler basamağına 4 farklı rakam, birler basamağına 0 ın 
+dışında bir çift rakam geldiğinde ise binler basamağına 0 gelemeyeceğinden 3 farklı rakam gelebili. Buna göre 0 rakamı iki farklı basamağı ilgilendirdiğinden bu durum iki farklı şekilde incelenir     1. durum: Birler basamağı 0 olan 4 basamaklı doğal sayıların sayısı,
+     2. durum: Birler basamağı 0 hariç herhangi bir çift rakam olan 4 basamaklı doğal sayıların sayısı,
+                 
+0 gelebilir2, "
+,
+! +
+Birinci ve ikinci duruma göre cevap 4 3 2 3 3 2 $
+$
+$
+$
+$
+$
++
+=
++
+=
+ olarak bulunur1, 2, 3, "
+,
+! +
+1, 2, 3, "
+,
+!
+ olmak üzere 1 den n ye kadar olan ardışık tam sayıların çarpımına n faktöriyel 
+(çarpansal) denir ve !
+n  ile gösterilir. Buna gör• 
+!
+... (
+)
+1 2 $
+$
+$
+$
+$
+=
+-
+ olur• 
+!
+!
+v=
+=
+ olarak kabul edilir. 
+FaktöriyeVeri, Sayma ve OlasılıVeri, Sayma ve OlasılıAşağıdaki çalışmaları inceleyiniza) !
+1 2 3 4 $
+$
+$
+$
+=
+=
+ olur (Çarpmanın değişme özelliği olduğundan 
+!
+5 4 3 2 $
+$
+$
+$
+=
+=
+ 
+olarak da hesaplanabilir.)b) !
+!
+7 6 5 4 3 2 7 !
+$
+$
+$
+$
+$
+$

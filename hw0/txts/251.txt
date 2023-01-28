@@ -1,0 +1,400 @@
+h yazarak enter tuşuna basınız. A noktası ekrana gelecektirGiriş çubuğuna 
+,
+1 -
+^
+h yazarak enter tuşuna basınız. B noktası ekrana gelecektirGiriş çubuğuna -
++
+=
+ yazarak enter tuşuna basınız. f doğrusu ekrana gelecektirGiriş çubuğuna ötele yazıldığında açılan menüde ilk sıradaki Ötele(<Nesne>,<Vektör>)  
+ifadesini seçiniz ve Ötele(A,(9,
+- )) biçiminde yazınız ve enter tuşuna basınız. A noktasnın x ekseni boyunca pozitif yönde 9 birim ve y ekseni boyunca negatif yönde 5 birim 
+ötelenmesi ile oluşan Al noktası ekrana gelecektirGiriş çubuğuna döndür yazıldığında açılan menüde 2. sıradakDöndür(<Nesne>,<Açı>,<Nokta>) ifadesini seçerek Döndür(A, r ,(0,0)) biçiminde yazını ve enter tuşuna basınız. A noktasının orijin etrafında pozitif yönde 180c dönmesi ile 
+oluşan A1l  noktası ekrana gelecektirGiriş çubuğuna yansıt yazıldığında açılan menüde ilk sıradaki Yansıt(<Nesne>,<Nokta>) 
+ifadesini seçiniz ve Yansıt(A,B) biçiminde yazınız ve enter tuşuna basınız. A noktasının 
+B noktasına göre simetriği olan A2l  noktası ekrana gelecektirGiriş çubuğuna yansıt yazıldığında açılan menüde ikinci sıradaki Yansıt(<Nesne>,<Doğru>) 
+ifadesini seçiniz ve Yansıt(A,f) biçiminde yazınız ve enter tuşuna basınız. A noktasının f 
+doğrusuna göre simetriği olan A3l  noktası ekrana gelecektir1. Adım:  
+2. Adım:  
+3. Adım:  
+4. Adım:  
+5. Adım:  
+6. Adım:  
+7. Adım:  
+ Dinamik Geometri ve Matematik Yazılımı programını açınızÇÖZÜÖRNEMatematik 4.1.2. Temel Dönüşümlerin Bileşkeleri ve Bu Bileşkeleri İçeren UygulamalaÖtelemeli Dönme DönüşümÖteleme ve dönme dönüşümünün birlikte uygulandığı dönüşümlere ötelemeli dönme 
+dönüşümü denir. Ötelemeli dönme dönüşümleri uygulanan şekillerde herhangi iki nokt arasındaki uzaklık değişmez ve şekillerin üzerindeki açıların ölçüleri de aynı kalır,
+,
+,
+cosisicoolu5 1 5 2 $
+$
+$
+$
+$
+$
+$
+$
+- -
++ -
+- -
++ -
+=
+=
+=
+c]
+^
+^
+^
+]
+]
+]
+]
+,
+A 1 ^
+h noktası önce x ekseni boyunca pozitif yönde 4 birim, ardından y ekseni boyunca negatif 
+yönde 5 birim ötelenerek B noktası elde ediliyor. Buna göre B noktasının orijin etrafında pozitif 
+yönde 90c döndürülmesi ile elde edilen C noktasının koordinatlarını bulunuz ve analitik düzlemde 
+gösteriniz. 
+,
+A 1 ^
+h noktasının x ekseni boyunca pozitif yönde 4 birim ve y ekseni boyunca negatif yönde 5 
+birim ötelenmesi ile oluşan nokta 
+,
+,
+olu4 +
+-
+=
+-
+^
+^
+B noktasının analitik düzlemdeki görüntüsü aşağıdaki şekildeki gibidirBu durumda C noktasının analitik düzlemdeki görüntüsü aşağıdaki şekildeki gibidirB noktasının orijin etrafında pozitif yönde 90c döndürülmesi ile oluşan C noktasÇÖZÜÖRNEDönüşümleYandaki analitik düzlemde verilen ABC üçgeni orijin etrafında 
+pozitif yönde 90c döndürülerek A B l l l üçgeni elde ediliyor. 
+A B l l l üçgeninin x ekseni boyunca pozitif yönde 2 birim ve 
+y ekseni boyunca negatif yönde 4 birim ötelenmesi ile oluşan 
+A B ll ll ll üçgeninin koordinatlarını bulunuz ve analitik düzlemd gösterinizABC üçgeninin köşelerinin koordinatları 
+,
+,
+,
+,
+ve t 5 3 6 ^
+^
+^
+ Bu noktaların orijin etrafınd  90c döndürülmesi ile elde edilen 
+,
+B ve l noktalarının koordinatları  
+,
+,
+,
+,
+,
+,
+2 7 2 2 1 -
++
+-
+=
+-
+-
++
+-
+=
+-
+-
++
+-
+=
+-
+llllll^
+^
+^
+^
+^
+^
+,
+B ve l noktalarının x ekseni boyunca pozitif yönde 2 birim ve y ekseni boyunca negatif 
+yönde 4 birim ötelenmesiyle elde edilen 
+,
+ve llll noktalarının koordinatlarAAAlBBBlCCClbulunur. Böylece A B ll ll ll üçgenini analitik düzlemdeki görüntüs yandaki şekildeki gibidirolur. Böylece A B l l l üçgeninin 
+analitik düzlemdeki görüntüsü 
+yandaki şekildeki gibidir,
+,
+,
+,
+,
+,
+5 9 3 2 6 3 =
+=
+-
+=
+=
+-
+=
+=
+-
+^
+^
+^
+^
+^
+^
+^
+^
+^
+ÇÖZÜÖRNEMatematik Yandaki şekilde köşelerinin koordinatları 
+,
+1 -
+^
+h, 
+,
+4 -
+^
+h 
+ve  
+,
+1 -
+^
+h olan ABC üçgeninin x ekseni boyunca pozitif yönd 6 birim ve y ekseni boyunca pozitif yönde 1 birim ötelendikte sonra x eksenine göre simetriği alınıyor. Elde edilen üçgeni koordinatlarını bulunuz ve analitik düzlemde gösterinizABC dik üçgeninin köşe koordinatları 
+,
+1 -
+^
+h, 
+,
+4 -
+^
+h 
+ve 
+,
+1 -
+^
+h dir. Bu noktalar x ekseni boyunca pozitif yönd 6 birim ve y ekseni boyunca pozitif yönde 1 birim ötelenirs oluşan noktalar 
+,
+B ve l olsun,
+,
+,
+,
+,
+,
+6 5 6 2 6 5 -
++
++
+=
+-
++
++
+=
+-
++
++
+=
+^
+^
+^
+^
+^
+^
+olur. 
+,
+B ve l noktalarının x eksenine göre simetriği 
+olan noktalar 
+,
+ve llll olsun. Bu noktalar 
+,
+,
+,
+,
+ve -
+-
+-
+lll^
+^
+^
+h olarak elde edilir. 
+Böylece önce ötelenen ardından simetriği alınan üçgenin 
+analitik düzlemdeki görüntüsü yandaki gibi olurAAlBBlCClÖteleme ve simetri dönüşümlerinin birlikte uygulandığı dönüşümlere ötelemeli simetri 
+dönüşümü denir. Ötelemeli simetri dönüşümleri uygulanan şekillerde uzaklıklar değişme. Şeklin üzerindeki açıların yönleri değişir,
+A 8 2 4 ^
+h noktası orijin etrafında pozitif yönde 135c döndürüldükten sonra x ekseni boyunca 
+pozitif yönde 8 birim ve y ekseni boyunca negatif yönde 2 birim öteleniyor. Elde edilen noktanın 
+koordinatlarını bulunuz,
+A 8 2 4 ^
+h noktasının orijin etrafında pozitif yönde 135c döndürülmesi ile oluşan nokta Al olsun,
+,
+,
+,
+cosisicoolu8 4 8 4 8 4 8 4 4 12 $
+$
+$
+$
+$
+$
+$
+$
+=
+-
++
+=
+-
+-
++
+-
+=
+-
+-
+-
+=
+-
+c]
+^
+^
+^
+n,
+12 -
+l^
+h noktasının x ekseni boyunca pozitif yönde 8 birim ve y ekseni boyuncaınegatif 
+yönde 2 birim ötelenmesi ile oluşan nokta 
+,
+,
+8 4 -
++
+-
+=
+-
+ll^
+^
+h olarak bulunurÖtelemeli Simetri DönüşümÇÖZÜÇÖZÜÖRNEÖRNEDönüşümle,
+A 1 ^
+h noktasının x ekseni boyunca pozitif yönde 2 birim ve y ekseni boyunca negatif yönde 5 
+birim ötelendikten sonra :
+-
++
+=
+ doğrusuna göre simetriğini bulunuz. 
+Al,
+-
+l^
+:
+-
++
+=
+,
+A 1 ^
+h noktasının x ekseni boyunca pozitif yönde 2 birim ve y ekseni boyunca negatif yönde 5 
+birim ötelenmesi  ile oluşan nokta 
+A olsun l noktasının koordinatları 
+All noktasının koordinatlarını bulmak için önce d doğrusunun eğimi d =-
+=
+ bulunurA Al ll doğrusu ile d doğrusu birbirine dik olduğundan eğimlerinin çarpımı 
+di-
+oluA A &
+$
+=-
+=-
+l ll lA Al ll doğrusunun denklemi 
+&
+bulunu&
+$
+- -
+=-
+-
++
+=-
++
++
+-
+=
+]
+]
+&
+denklemleri ortaz l rsçö ü -
++
+=
++
+-
+=
+-
++
+=
++
+-
+=
+-
++
+=
++
++
+-
+=
+-
+=
+&
+&
+olu&
+$
+-
++
+=
+=
+=
+=
+Böylece K noktası 
+,
+bulunuolara 
+,
+-
+l^
+h noktasının 
+,
+K l noktasına göre simetriği 
+,
+,
+2 3 2 $
+$
+-
+- -
+=
+-
+ll]
+gl olarak elde edilirolur. 
+,
+-
+l^
+h noktasının d doğrusuna göre simetriği All olsun,
+,
+2 +
+-
+=
+-
+^
+^
+ÇÖZÜÖRNEMatematik a)  A motifinin yatay eksene göre simetriğinin hangi motif olduğunu bulunuzb)  A motifinin dikey eksene göre simetriğinin hangi motif olduğunu bulunuzc)  A motifinin eksenlerin kesim noktasına göre simetriğinin hangi motif olduğunu bulunuzç)  A motifinin eksenlerin kesim noktasına göre 180c döndürülmüş hâlinin hangi motif olduğunu  
+     bulunuz. 
+d)  C motifinin yatay eksene göre simetriğinin hangi motif olduğunu bulunuze)  C motifinin yatay eksene göre ötelenmiş hâlinin hangi motif olduğunu bulunuzf )  E motifinin yatay eksene göre simetriği alındıktan sonra yatay olarak ötelenmiş hâlinin hangi  
+     motif olduğunu bulunuzVerilen Yağcıbedir halısı üzerindeki motifler incelendiğinde,
+a)  A motifinin yatay eksene göre simetriğinin B motifi olduğu görülürb)  A motifinin dikey eksene göre simetriğinin G motifi olduğu görülürc)  A motifinin eksenlerin kesim noktasına göre simetriğinin H motifi olduğu görülürç)  A motifinin eksenlerin kesim noktasına göre 180c döndürülmüş hâlinin H motifi olduğu görülürd)  C motifinin yatay eksene göre simetriğinin D motifi olduğu görülüre)  C motifinin yatay eksene göre ötelenmiş halinin E motifi olduğu görülürf ) E motifinin yatay eksene göre simetriği alındıktan sonra yatay olarak ötelenmiş halinin D motifi  
+     olduğu görülürG rsel 4 ÇÖZÜÖRNEElde halı dokuma Türk kültüründe önemli bir yer tutmaktadır. Bu halılar Atalardan kalma halı tezgahlarınd, sabırla ve azimle aylarca emek verilerek dokunurYağcıbedir halıları, yüzyılların birikiminin nakış nakış ve ilmek ilmek işlendiği el emeği göz nuru 
+halılardır. Bu halılardaki motiflerin ana özelliği simetrik ve geometrik olmasıdır. Yağcıbedir halıları 
+üzerindeki motiflerin altın orana göre oluşturulması ve çeşitli dönüşümleri barındırması nedeniyle 
+geometri ile iç içe olan halılardırGerek halıları gerekse toplumsal yaşamıyla tarihsel ve doğal mirasa duyarlı olan Yağcıbedir’de 
+yaşayan kadınlar, mahallelerinde bulunan tarihî çeşmeyi yenilemek için imece usulü yöntemiyle 
+yukarıdaki Yağcıbedir halısını dokuyorlar. Dokudukları bu Yağcıbedir halısında belirtilen motifler 
+üzerinde aşağıdaki dönüşümlerin hangi motiflere karşılık geldiğini bulunuz. Halı üzerinde başka 
+dönüşümler olup olmadığını araştırınızDikey EkseYatay 
+EkseDönüşümleŞekil 1 in yatay eksene göre simetriğalınarak yukarıdaki şekil 2 elde edilirŞekil 2 nin dikey eksene göre simetriğalınarak yukarıdaki şekil 3 elde edilir.  ı                                                      
+Şekil Şekil şekil yatay 
+eksedikey ekseŞekilŞekil 3 yatay olarak sağa doğru uç uca değecek şekilde art arda 4 kez ötelenerek 
+yukarıdaki şekil 4 elde edilirŞekil 4 dikey olarak aşağıya doğru uç uca değecek şekilde 1 kez ötelenerek yukarıdaki 
+duvar süslemesi oluşturulmuş olurÇÖZÜÖRNEYanda verilen topraktan yapılmış duvar desenine aşağıdaki 
+adımları sırasıyla uygulayarak bir duvar süslemesi elde edinizYandaki Şekil 1 in yatay eksene göre simetriğini alınızDaha sonra oluşan şeklin dikey eksene göre simetriğini 
+alınızElde edilen şekli yatay olarak sağa doğru uç uca değecek 
+şekilde 4 kez öteleyinizSon olarak elde edilen şekli dikey olarak aşağıya doğru uç 
+uca değecek şekilde 1 kez öteleyiniz:
+:
+:
+:
+Matematik BİLGİ NOTSimetri, dönme ve öteleme kavramlarını daha iyi algılayabilmek için çevreye bakmak yeterlidir. Doğad, mimaride kısacası gerçek hayatın her alanında simetri örnekleriyle karşılaşılmaktadır. Bir 
+kelebeğin kanatlarına bakıldığında üzerindeki şekillerin simetrik olduğu görülür. Durgun bir göl kenarınd karşı kıyının yansımasında simetri gözlemlenebilirSimetri, dönme ve öteleme mimarinin de vazgeçilmez unsurlarından biridir. Çağlar boyu mimarlar 
+binaların yapımında ve süslemesinde bu kavramlardan yararlanmıştırÖzellikle süsleme alanında halı, kilim, çini, el işleri vb. sanatlarda simetri, öteleme ve dönme örnekleriyl sıkça karşılaşılmaktadırG rsel 4 Doğada ve Mimari Eserlerde Dönüşümler 
+Dönüşümle,
+A 2 ^
+h noktasının 
+,
+1 -
+^
+h noktasına göre 

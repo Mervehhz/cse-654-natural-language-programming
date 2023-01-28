@@ -1,0 +1,400 @@
+= a + 9 = 3k (kŒN) olmalıdır. 
+k = 4   ⇒  a = k = 5   ⇒  a = k = 6   ⇒  a = 9 değerlerini alırBu durumda a = 1, 3, 4, 6, 7, 9 olmak üzere 6 farklı değer alırMatematik 3. BölüBölünebilme Kurallar8- Beş basamaklı 4a73b çift sayısı 15 ile tam bölünebildiğine göre a yerine yazılabilece rakamların toplamı kaçtır? BulalımÇözü4a73b sayısı 15 ile tam bölünüyor ise hem 3 e hem de 5 e bölünür. 
+5 e bölünüyor ise b = 0 veya b = 5 olmalıdır. b = 5 olursa 4a735 sayısı çift sayı olama. O hâlde b = 0 dır. b = 0 ise sayı 4a730 olur. 
+4a730 sayısının 3 e tam bölünmesi için 
+4a730 = 4 + a + 7 + 3 +            = a + 14 = 3k (kŒN) olmalıdır. 
+k = 5   ⇒  a = k = 6   ⇒  a = k = 7   ⇒  a = 7 dir. a nın alabileceği değerler toplamı 1 + 4 + 7 = 12 olur. 
+9- Beş basamaklı 3a2b7 sayısının 11 ile bölümünde kalan 2 dir. Buna göre bu sayını9 ile bölümünden kalan kaçtır? BulalımÇözü3a2b7 = 7 − a + 2 − b +     +−+−+
+   = 12 − (a + b) = 11k +  a + b = 10 olabilir9 ile bölümünden kala3a2b7 ⇒ 3 + a + 2 + b + = 12 + a + = 12 + 10 = 22 dir. Bu durumda kalan 4 olur. 
+Matematik 3. BölüBölünebilme Kurallar10- Üç basamaklı a5b sayısı 3 ile tam bölünmekte ve 10 ile bölündüğünde   7 kalanınvermektedir. Buna göre a nın alabileceği değerlerin toplamı kaçtır? BulalımÇözüÜç basamaklı a5b sayısının 10 ile bölümünden kalan 7 ise b = 7 dir. 
+O hâlde  a + 5 + 7 = 3k (kŒN) dir. 
+a + 12 = 3k = 4  için a = k = 5  için a = k = 6  için a = k = 7  için a = 9 bulunur. a nın alacağı değerler toplamı 0 + 3 + 6 + 9 = 18 olurALIŞTIRMALA1- Aşağıdaki sayı çiftlerinden hangisi aralarında asaldır?
+A) 12-B) 48 - C) 25-D) 75-2- Aşağıdaki doğal sayılardan hangileri 6 ya tam bölünür? İşaretleyiniz(  ) (  ) (  ) (  ) 3- 12a üç basamaklı sayı ve 6 ya tam olarak bölündüğüne göre a nın yerine kafarklı rakam yazılabilir? Bulunuz4- Bir doğal sayının 12 ye tam bölünebilmesi için hem ........ e hem de ..........e tam olara bölünmelidir. 
+Yukarıdaki ifadede noktalı yere hangi sayı ikilisi yazılmalıdır. 
+A) 3 - B) 3 - C) 4 - D) 4 - Matematik 3. BölüBölünebilme Kurallar5- 31a üç basamaklı sayısı 15 e tam olarak bölünüyor. a yerine aşağıdaki rakamlarda hangisi yazılabilir?
+A) B) C) D) 6-
+ Yandaki bölme işlemine göre B aşağıdakilerden hangisidir?
+A) B) C) D) 7- Üç basamaklı 61a sayısının 5 ile bölümünden kalan 1 olduğuna göre a kaçtır?
+8- Dört basamaklı 5129 sayısının 9 ile bölümünden kalan kaçtır?
+A) B) C) D) 9- 4a5b sayısı 10 ile tam bölündüğüne göre a ve b nin alacağı değerleri bulunuz10- Aşağıdaki sayılardan hangisi 11 ile tam bölünebilir?
+A) B) C) D) 11- 2318 sayısının 4 ile bölümünden kalan kaçtır?
+A) B) C) D) Matematik 3. BölüBölünebilme KurallarEn Büyük Ortak BöleEn az biri sıfırdan farklı olmak üzere iki veya daha fazla doğal sayıyı bölen en büyük 
+doğal sayıya bu sayıların en büyük ortak böleni denir. 
+Kısaca EBOB şeklinde gösterilir. 
+a ve b aralarında asal, pozitif iki tam sayı ise EBOB (a, b) = 1 dir. 
+ÖRNEKLE1- 30 ve 15 in EBOB unu bulalımÇözü30 ve 15 in her ikisini bölen sayıların en büyüğünü bulmak için 30 ve 15 i asal çarpanların ayıralım. 
+30  15    15  15      5    5      1    1  
+     30 ve 15 i aynı anda bölen 3 ve 5 tir. 3 ile 5 in çarpım3 . 5 = 15 sayısı 30 ve 15 in EBOB udur. 
+EBOB (30, 15) = 3 . 5 = 15 tir.  
+2- 60 ve 250 sayılarının EBOB unu bulalımÇözü60 ve 250 yi asal çarpanlarına ayıralım60     250      30     125      15     125        5     125        1       25              5              Ortak çarpanlardan üssü en küçük olanların çarpımı 60 ve 250 nin 
+EBOB udur. Buna göre EBOB (60, 250) = 2 . 5 = 10 olur. 
+Matematik 3. BölüBölünebilme Kurallar3- 122, 130 ve 150 sayılarının EBOB unu bulalımÇözü122, 130 ve 150 sayılarını ayrı ayrı asal çarpanlarına ayıralım122   61      1     
+ 
+    130      65      13  13  
+     150     75     25   5  
+    5         122, 130 ve 150 sayılarının asal çarpanlarından 
+   ortak olan 2 sayısı EBOB durEBOB (122, 130, 150) = 2 olur. 
+4- 28, 44 ve 60 sayılarını tam olarak bölen en büyük pozitif tam sayı kaçtır?
+Çözü28, 44 ve 60 sayılarının EBOB unu bulalım    28 
+44      60        2 
+14 
+22 
+30 
+    7 
+11 
+15 
+    7 
+11 
+  5 
+    7 
+11 
+  1 
+    1 
+11 
+  1 
+(28, 44, 60) EBOB = 2 . 2 = 4 tür28, 44 ve 60 sayılarının tam olarak bölen en büyük pozitif 
+tam sayı 4 tür. 
+5- A ve B pozitif tam sayılardır. EBOB (A, B) = 5 olduğuna göre A + B en az kaçtır?
+ÇözüA ve B sayıları EBOB un katları yani 5 in katı olmalıdırEn az A = 5,  B = 5 alınırA + B = 5 + 5 = 10 bulunur6- K, L ve M birbirinden farklı pozitif tam sayılardırEBOB(K, L ve M) = 10 olduğuna göre K + L + M toplamı en az kaçtır?
+ÇözüK, L ve M sayıları  EBOB un katları yani 10 un katları olmalıdırEn az; K = 10, L= 20, M= 30 alınır. 
+K + L + M = 10 + 20 + 30 = 60 bulunur. 
+Matematik 3. BölüBölünebilme KurallarBİLGİ KUTUSEn büyük ortak bölen bulunurken; 
+•
+Verilen sayılar asal çarpanlarına ayrılır•
+Ortak olanların en küçük üslüleri alınıp çarpılarak EBOB bulunurALIŞTIRMALA1- 16 ve 24 sayılarının EBOB unu bulunuz2- 20, 28 ve 36 sayılarının EBOB unu bulunuz3- 72, 90 ve 126  sayılarını tam olarak bölen en büyük pozitif tam sayı kaçtır?
+4- A, B ve C birbirinden farklı pozitif tam sayılardırEBOB (A, B, C) = 6 olduğuna göre A + B + C toplamı en az kaçtır?
+En Küçük Ortak KaHepsi sıfırdan farklı olan iki ya da daha fazla doğal sayının katı olan en küçük doğal 
+sayıya, bu sayıların ortak katlarının en küçüğü denir. Kısaca EKOK biçiminde gösterili. 
+a ve b aralarında asal pozitif iki tam sayı ise EKOK (a, b) = a . b dir. 
+ÖRNEKLE1- 12 ve 16 sayılarının EKOK unu bulalımÇözü12 ve 16 sayılarını asal çarpanlarına ayıralım. Tüm çarpanların çarpımı en küçüortak katı verirEKOK (12, 16) =  24 .  = 16 .  = 48 dir12        16     6       8     3          4     3          2     3          1     Matematik 3. BölüBölünebilme Kurallar2- 45 ve 60 sayılarının EKOK unu bulalımÇözü45        60   45     30   45        15   15          5     5          5     1 
+        EKOK (45, 60) = 22 . 32 .   = 4 . 9 .   = 144 
+EKOK (45, 60) = 144 olur3- 72 ve 90 sayılarının EKOK unu bulalımÇözü72   36   18   2 
+  9     3     90   45   15   3 
+  5     72 = 23 . 32 
+90 = 2 . 32 . 5 
+EKOK (72, 90) = 23 . 32 .       = 8 . 9 . 5 
+      = 360 olur. Buna göre EKOK (72, 90) = 360 dır4- Aralarında asal iki doğal sayının EKOK u 240 dır. Sayılardan biri 16 olduğuna gördiğer sayı kaçtır?
+ÇözüAralarında asal pozitif iki tam sayının en küçük ortak katı EKOK (a, b) = a . b idi. 
+una göre EKOK (16, b) = 16 . b = 240 dır. Diğer sayı 240 :16 = 15 olur. 
+5- 44, 60 ve 120 sayılarının EKOK unu bulalımÇözü44 
+60      120      2 
+22 
+30 
+  60   11 
+15 
+  30   11 
+15 
+  15   11 
+  5 
+    5   11 
+  1 
+    1   1 
+  EKOK (44, 60, 120) = 23 . 3 . 5 .     = 8 . 15 .     = EKOK (44, 60, 120) = 1320 olur. 
+Matematik 3. BölüBölünebilme KurallarALIŞTIRMALA1- 16 ve 22 sayılarının EKOK unu bulunuz2- 12, 18 ve 36 sayılarının EKOK unu bulunuz3- Aralarında asal iki doğal sayının EKOK u 391 dir. Sayılardan biri 17 olduğuna gördiğer sayı aşağıdakilerden hangisidir?
+A) B) C) D) 4- Aralarında asal iki doğal sayıda EKOK(48, a) = 240 olduğuna göre a değeri aşağıdakilerde hangisidir?
+A) B) C) D) EBOB ve EKOK Uygulamaları 
+EBOB ve EKOK ile ilgili özelikle1- EBOB (a, b) ≤ a . b ≤EKOK (a, b) dir2- EBOB (a, b) . EKOK (a, b) = a . b dir3- a ve b sayıları aralarında asal ise EBOB (a, b) = 1 ve EKOK (a, b) = a . b dir4- a < b olmak üzere a, bŒZ+ için EBOB (a, b) ≤ a < b ≤ EKOK (a, b) dirMatematik 3. BölüBölünebilme KurallarÖRNEKLE1- a ve b aralarında asal iki sayıdır( , )
+ve EKOK a +
+=
+=
+ olduğuna göre a + b toplamı kaçtır?
+Çözüa ve b aralarında asal ise EKOK (a, b) = a . b dir. 
+140     70     35   5  
+    7          140 = 22 . 5 .         = 4 . 5 .         = 20 . 7 
+ Buna göre  a = 20   ve    b = 7 dir. 
++
+=
+  isolu&
++
++ =
+O hâlde a + b = 20 + 7 
+    = 27 bulunur. 
+2- a ve b doğal sayılar olmak üzere EBOB (a, b) = 16,   a . b = 960 olduğuna görEKOK (a, b) kaçtır?
+ÇözüEBOB (a, b) . EKOK(a, b) = a . b olduğunda        16 . EKOK (a, b) = EKOK (a, b) =                EKOK (a, b) = 60 bulunur. 
+3- a ve b farklı iki doğal sayıdır. EBOB (a, b) = 16 olduğuna göre a + b toplamı en akaçtır?
+ÇözüEBOB(a, b) = 16 ise a ve b, 16 nın katı olmalıdır. 
+a ve b farklı olarak verildiğinden a = 16 ve b = 32 için a + b = 16 +         = 48 olur. 
+Matematik 3. BölüBölünebilme Kurallar4- 99 litre süt, 135 litre zeytinyağı ve 234 litre su hiç artmayacak ve birbirine karışmayaca şekilde eşit hacimdeki şişelere doldurulacaktır. Bu iş için en az kaç şişeyihtiyaç vardır?
+Çözü99, 135 ve 234 sayılarının EBOB  u bize şişe hacmini verir. Buna göre 
+99 
+135    234    2 
+99 
+135 117 33 
+  45   39 11 
+  15   13    11 
+    5   13 11          1       13    1 
+  13           EBOB (99, 135, 244) = 32 = 9 
+Bir şişenin hacmi 9 litre olmalıdır. Buna görSüt için =
+ şişZeytinyağı için =
+ şişSu için =
+ şişe olmak üzere  toplamd11 + 15 + 26 = 52 tane şişeye ihtiyaç vardır5- Ayrıt uzunlukları 2 cm, 3 cm ve 4 cm olan dikdörtgenler prizması şeklindekkutulardan en az kaç tanesi bir araya getirilerek içi dolu bir küp elde edilir?
+ÇözüKüp elde etmek için en az sayıda kutu kullanılması gerekir. Buna göre 
+EKOK (2, 3, 4) = 2 . 3 . 4 
+      = 24 tür. 
+Kutu sayısı = 
+O hâlde oluşturulacak küpün bir ayrıt uzunluğu 24 cm dir. 
+Küpün hacmi 
+Dikdörtgenler Prizmasının hacm= 
+= 12 . 8 . = 576 tane kutu kullanılmalıdır6-
+Bir mağazanın vitrininde A lambası 3 , B lambası 5 ve C lambası 7 saniye aralıklarl yanmaktadırBu üç lamba birlikte yandıktan kaç saniye sonra ilk kez tekrar birlikte yanar?
+Matematik 3. BölüBölünebilme KurallarÇözüEKOK 
+,
+,
+=
+k=
+=
+ 
+105 saniye sonra ilk kez tekra7- Boyu 120 cm, eni 45 cm olan dikdörtgen biçimindeki örtü, eşit alanlı kare parçalarhiç artmayacak şekilde bölünüyor. Bu parçaların sayısı en az kaçtır?
+ÇözüEBOB (120, 45) = Parça sayısı = Dikdörtgenin alanKarenin alan= 
+bulunu=
+8- 30, 45 ve 120 sayılarının EBOB unu  Excel programını kullanarak bulalımÇözüExcel programını çalıştıralımFonksiyonlardan OBEB (EBOB) u seçelim. Sayı1 yerine 30, Sayı2 yerine 45, Sayı3 
+yerine 120 yazıp "Tamam" tuşuna bastığımızda EBOB bulunmuş olur* Aynı işlemleri yaparak siz de 30, 45 ve 120 sayılarının EKOK unu hesaplayınızbirlikte yanar3, 5, Matematik 3. BölüBölünebilme KurallarALIŞTIRMALA1- a ve b aralarında asal iki sayıdır+
+=
+  ve EKOK (a , b) = 93 olduğuna göre b kaçtır?
+2- x ve y doğal sayılar olmak üzere EBOB (x, y) = 18,  x . y = olduğuna göre EKOK (x . y) kaçtır?
+3- Bir saatçideki üç çalar saatten biri 3,  diğerleri 5 ve 4 saniye aralıklarla 
+çalmaktadır. Bu üç saat birlikte çaldıktan kaç saniye sonra ilk kez tekrar birlikte 
+çalar?
+4- Üç çuvalda 36 kg, 42 kg ve 48 kg nohut vardır. Bu nohutlar hiç artmayacak şekildpoşetlenecektirBu işlem için en az kaç poşet gereklidir?
+5- 40, 48 ve 56 sayılarının EBOB u kaçtır?
+6- 42, 60 ve 84 sayılarının EKOK u kaçtır?
+7- x ve y aralarında asal iki sayı ve EKOK (x , y) = 98 olduğuna göre x . y kaçtır?
+Matematik 3. BölüBirinci Dereceden Denklemler ve EşitsizlikleBİRİNCİ DERECEDEN DENKLEMLER VE EŞİTSİZLİKLEReel (Gerçek) Sayılar 
+Eşitsizliklerin çözüm kümeleri genellikle sayı aralıklarıdır. Bu sayı aralıkları sayı 
+doğrusu üzerinde ya da [a, b], (a, b], [a, b), (a, b) sembolleri ile gösterilir. 
+[a, b] kapalı aralığı     
+:  
+   [a, b] = {x: a ≤ x ≤ b, xŒR}
+[a, b) yarı açık aralığı 
+:  
+  [a, b) = {x: a ≤ x < b, xŒR}
+(a, b] yarı açık aralığı 
+:  
+   (a, b] = {x: a < x ≤ b, xŒR}
+(a, b) açık aralığı   
+:  
+   (a, b) = {x: a < x < b, xŒR}
+şeklinde ifade edilirÖrneğin;
+[2, 5] kapalı aralığı; 
+sayı doğrusunda  
+ , küme ile [2, 5] = {x: 2 ≤ x ≤ 5, xŒR}
+[2, 5) yarı açık aralığı; 
+sayı doğrusunda  
+ , küme ile [2, 5) = {x: 2 ≤ x < 5, xŒR}
+(2, 5] yarı açık aralığı; 
+sayı doğrusunda  
+ , küme ile (2, 5] = {x: 2 < x ≤ 5, xŒR}
+(2, 5) açık aralığı; 
+sayı doğrusunda  
+ , küme ile  (2, 5) = {x: 2 < x < 5, xŒR}
+şeklinde gösterilir. 
+ÖRNEKLE1- 1 ≤ x ≤ 5 eşitsizliğine karşılık gelen aralıkları yazalımÇözü1 ≤ x ≤ 5 eşitsizliğinde her iki tarafta eşitlik işareti vardır. Bu nedenle oluşan aralıkapalı aralıktır ve [1, 5] ile gösterilir[1, 5] kapalı aralığındaki x değerleri sayı doğrusunda 
+ şeklind ve aralık uçları kapalı olacak biçimde gösterilir1 ≤ x ≤ 5 eşitsizliğinin küme ile gösterimi [1, 5] = {x: 1 ≤ x ≤ 5,  xŒR} biçimindedirMatematik 3. BölüBirinci Dereceden Denklemler ve Eşitsizlikle2- {x : −3 < x ≤ 4, x ∈R} kümesine karşılık gelen aralığı yazalım, sayı doğrusu üzerind gösterelimÇözü−3 < x ≤ eşitsizliğinde −3 te eşitlik işareti yoktur. 4 te ise eşitlik işareti vardır. Bu nedenle 
+oluşan aralık soldan açık sağdan kapalı aralıktır ve (−3, 4] ile gösterilir. 
+(−3, 4] yarı açık aralığı sayı doğrusunda 
+− şeklinde ve aralık 
+uçları 3 ten açık 4 ten kapalı biçimde gösterilir. 
+3- {x: −2 ≤ x < 5,  xŒ R} kümesine karşılık gelen aralığı yazalım, sayı doğrusundgösterelimÇözü−2 ≤ x < 5 eşitsizliğinde −2 de eşitlik işareti vardır. 5 te ise eşitlik işareti yoktur. Bu 
+nedenle oluşan aralık soldan kapalı sağdan açık aralıktır ve [−2, 5)  ile gösterilir [−2, 5) yarı açık aralığı sayı doğrusunda 
+ şeklinde ve aralık 
+                                                                              −uçları −2'den kapalı 5 ten açık biçimde 
+gösterilirBİLGİ KUTUSEşitsizliklerde ≥  ve ≤ sembolleri yanındaki sayılarda sayı doğrusunda 
+• işareti kullanılır. Verilen sayı aralığa dahil edilir> ve < sembolleri yanındaki sayılarda sayı doğrusunda  işareti kullanılırVerilen sayı aralığa dahil edilmez. 
+AlıştırmAşağıda verilen eşitsizliklere karşılık gelen aralıkları bulunuz. Sayı doğrusunda 
+gösteriniz. 
+a) 5 ≤ x ≤ b) 13 < x ≤ c) 7 ≤ x < Matematik 3. BölüBirinci Dereceden Denklemler ve EşitsizlikleBirinci Dereceden Bir Bilinmeyenli Denklemlea, bŒR ve aπ0 olmak üzere ax + b = 0 şeklindeki denklemlere birinci dereceden bir 
+bilinmeyenli denklemler denir. 
+ax + b = 0 eşitliğini sağlayan x değerini bulmak denklemi çözmek demektir. 
+x değeri denklemin kökü olarak adlandırılır. Köklerin oluşturduğu kümeye de çözü kümesi denir. Ç ile gösterilir, ax + b = 0 denkleminin çözümünde, 
+1- a = 0 ve b = 0 ise Ç = R,
+a ve b değerleri sıfıra eşit ise çözüm kümesi sonsuz elemanlıdır ve çözüm kümesi 
+reel sayılardır2- a = 0 ve b π 0 ise Ç = { },
+a sıfır ve b sıfırdan farklı ise çözüm kümesinin elemanı yoktur. Çözüm kümesi bokümedir3- a π 0 ve b = 0 ise Ç = {0},
+a sıfırdan farklı ve b sıfıra eşit ise çözüm kümesi sıfırdır4- a π 0 ve b π 0 ise Ç = { - a },
+a ve b sıfırdan farklı ise çözüm kümesi sıfırdan farklı bir reel sayıdırBİLGİ KUTUSBirinci dereceden bir bilinmeyenli denklemlerde yalnız bir değişken vardır. 
+Bu değişkenin derecesi 1 dir. 
+ÖRNEKLE1- aŒR aşağıda verilen ifadelerden hangisi birinci dereceden bir bilinmeyenldenklemdir? Bulalıma) (a + 3)x2 + (a − 1)x = b) (a + 1)x + (a − 1)y = c) 8x − 10 = 4x + Çözüa) (a + 3)x2 + (a − 1)x = 8 ifadesinde denklemin değişkeni tek çeşit olup sadece cinsinden verilmiştir. Fakat x2 li terim bulunduğu için ikinci dereceden bir bilinmeyenl denklemdir. 
+Matematik 3. BölüBirinci Dereceden Denklemler ve Eşitsizlikleb) (a + 1)x + (a − 1)y = 8 ifadesinde x ve y olmak üzere iki farklı değişken vardırİfadenin bir bilinmeyenli denklem olabilmesi için değişken bir tane olmalıdır. Buna 
+göre bu denklem birinci dereceden bir bilinmeyenli denklem değildir. 
+c) 8x − 10 = 4x + 8 ifadesindeki değişken tek çeşit olup değişkenin derecesi 1 dir. hâlde bu ifade birinci dereceden bir bilinmeyenli denklemdir. 
+2- n bir reel sayı olmak üzere x değişkenine bağlı birinci dereceden bir bilinmeyenli    
+(n + 3)x2 + (n − 1)x = 16 denklemini sağlayan x değerini bulalımÇözüa π 0, a ve b birer reel sayı olmak üzere ax + b = 0 denklemi birinci dereceden bir 
+bilinmeyenli denklemdir. Buna göre verilen denklemde x2 olmaması gerekir. x2 li terimi katsayısını sıfıra eşitleyelim ve n değerini bulalım. Bulduğumuz n değerini denklemd yerine yazalım. 
+(n + 3)x2 + (n − 1)x = n =−3 için   (−3 + 3)x2 + (−3 −1)x =  
+ 
+ 
+0         + (−4)x     = −4x = x = 
+bulunu-
+-
+=
+3- a bir reel sayı olmak üzere x değişkenine bağlı birinci dereceden bir bilinmeyenl(a + 2)x + (a − 2)y = 8 denkleminin çözüm kümesini bulalımÇözüVerilen denklemin x değişkenine bağlı birinci dereceden bir bilinmeyenli 
+denklem olabilmesi için y li terimin olmaması gerekir. Bunun için y li terimin 
+katsayısı sıfır olmalıdır. O hâlde 
+a − 2 = 0 ⇒ a = 2 dir. 
+(a + 2)x + (a − 2)y = 8 denkleminde a gördüğümüz yere 2 yazalıma = 2 için  (2 + 2)x + (2 − 2)y = 4x =    x = 2 
+  Ç = {2} olur. 
+Matematik 3. BölüBirinci Dereceden Denklemler ve Eşitsizlikle4- 4(x − 6) − 6(2 − x) = 4x − 6 denklemini sağlayan x değerini bulalımÇözü4(x − 6) − 6(2 − x) = 4x − 6  (dağılma özelliği)
+4x − 24 − 12 + 6x = 4x − 10x − 36 = 4x −  
+(Bilinmeyenler bir tarafta, bilinenler bir tarafta 
+toplanır.Terimler eşitliğin diğer tarafına geçerken 
+işaret değiştirir.)
+                10x − 4x = −6 + 36          
+ 
+ 
+      6x = 30   
+x =        x = 5 bulunur. 
+5- 3(x + 6) = 5x − 3 denklemini sağlayan x değerini bulalım. 
+Çözü3(x + 6) = 5x – 3x + 18 = 5x – 3x – 5x = − 3 – − 2x = –x = 
+–
+–
+x = 21       Ç = 
+%
+/ olur6- 4(3x + 1) = 5(4x − 2) denkleminin çözüm kümesini bulalımÇözü4(3x + 1) = 5(4x − 2)
+    12x + 4 = 20x –  12x –20x = − 10 – − 8 x = –x = 
+–
+–
+4 =
+   Ç = 
+%
+/ olur. 
+Matematik 3. BölüBirinci Dereceden Denklemler ve Eşitsizlikle7- +
+=
+ denklemini sağlayan x değerini bulalımÇözü+
+=
+ (içler dışlar çarpımı yapalım.)
+4(x + 1) = 5 .    4x + 4 = 5 5x − 4x =     x = 4 bulunur. 
+8- -
+-
++
+=  denklemini sağlayan x değerini bulalım. 
+Çözü( )
+( )
+( )
+-
+-
++
+=
+-
+=
+      2(x + 1) − (x - 3)= 4  
+         2x + 2 − x + 3 = 4 
+ 
+                 x + 5 =            x = 4 –              x = –1 bulunur. 
+9- 
+-
+-
+=  denklemini sağlayan x değerini bulalım. 
+Çözü-
+-
+=     ⇒    
+-
+-
+=
+=   ⇒   
+-
+=
+=4   ⇒
+-
+=
+=⇒
+=
+  ⇒  6 = 2x    ⇒   x = 3 bulunur2 (x + 1)    x   _(x−3)
+Matematik 3. BölüBirinci Dereceden Denklemler ve Eşitsizlikle10- 
+1+
+1+
++
+=  denklemini sağlayan x değerini bulalım. 
+Çözü=
++
++
++
+=  ⇒ +
++
++
+=
+=     ⇒  
+1+
++
+=
+=1+
++
+=
+=⇒
++
+=
+⇒   +
+=    (1'in altına gizli 1 yazıp içler dışla 
+ 
+ 
+   çarpımı yapalım.)
+bulunu&
+&
+&
++
+=
+=
++
+-
+=
+=
+11- a bir reel sayı olmak üzere  -
++
++
+=
+ denkleminin kökü −2 olduğungöre a değerini bulalım. 
+ÇözüDenklemi sağlayan x değerine denklemin kökü denir. Buna göre x =−2 yazarsak 
+eşitlik sağlanır. 
++
+-
++
+= 1   ⇒
+    -
+- -
++
++
+=    
+-
+- - +
+=  
+1 - - +
+= +
+−2 = 2 (−2 + a)
+−2 = −4 + 22a = −2 + 2a =           a = 1  bulunur. 
+12- a bir reel sayıdır. (a − 2)x + 5 = 0 denkleminin çözüm kümesi boş küme olduğun göre a kaçtır? BulalımÇözüa, b ŒR olmak üzere ax + b = 0 denkleminde a = 0 ve b π 0 ise Ç = ∆ dir. 
+(a − 2)x + 5 =            
+     (a − 2) = 0   ⇒  a = 2 bulunurMatematik 3. BölüBirinci Dereceden Denklemler ve Eşitsizlikle13− 
++
+=
+-
+-
++
+denkleminin kökü {−1, 0, 1, 2} kümesinin bir elemanolduğuna göre a kaçtır? Bulalım. 
+ÇözüVerilen denklemde paydayı sıfır yapan değerler yani −1, 0, 1 kök olamaz. Buna göre 
+{−1, 0, 1, 2} kümesinin elemanlarından 2 sayısı kök olur. Kök olan 2 sayısı denklemi 
+sağlar. O hâlde verilen denklemde x yerine 2 yazalım. 
+=
++
+-
+-
++
+⇒
+=
++
+-
+-
++
++
+( )
+( )
+( )
+( )
+-
+=
+=
+-
++
+3 − 2a = 21  
+−2a = 21 − −2a = 18     ⇒  a = −9 bulunur14- a ve b birer reel sayı olmak üzere ax + b − 2 = 0 denkleminin çözüm kümesi sonsuelemanlıdır. Buna göre a + b toplamı kaçtır? BulalımÇözüBirinci dereceden bir bilinmeyenli ax + b = 0 denkleminde a = 0 ve b = 0 ise çözüm 
+kümesi sonsuz elemanlıdır yani Ç = R dir. 
+ax + b − 2 = ↓    
+0          a=0  ve  b − 2 = b = 2  dirBuna göre a + b = 0 + 2 bulunur.  

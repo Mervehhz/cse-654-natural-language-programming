@@ -1,0 +1,400 @@
+5 ABC bir üçge∑
+ABA5 B7 c°
+°
+=
+=
+=
+=
+m ACB 
+olduğuna göre A=
+ uzunluğunu bulalımc=
+Matematik I2. BölüÜçgenleÇözü135°
+45°
+30°
+5 ABC üçgeninde 135° lik açıyı 180° ye 
+tamamlayıp A köşesinden [BC] nın 
+uzantısına dikme indirelimACH üçgeni 45° – 45° – 90°  özel üçgeni 
+olduğundan kenarları arasında 
+a – a – a 2  bağıntısı vardır|AH| = |CH| = 5 cm olurABH üçgeninin kenarları arasınd5k – 12k – 13k bağıntısı olduğu için AB = 13 cm bulunur230°
+45°
+6 ABC bin üçge∑
+∑
+°
+°
+m ABm AAcAx cm di6 =
+=
+=
+=
+Yukarıda verilere göre x uzunluğunu hesaplayalımÇözü30°, 45°, 60°  lik açılar gördüğünüz zaman bu açılara karşılık gelen dikmeler çizmeli30°
+45°
+6 AHC üçgeninde 30° ye karşılık 
+ABH dik üçgeninin kenarları arasında a – –
+ bağıntsı olduğundan 
+Abr bulunu3 $
+=
+=
+ AB= 3 cm olurcAMatematik I2. BölüÜçgenleBİLGİ KUTUS230°
+60°
+30°
+60°
+2ABC eşkenar üçgeninde [AH] yüksekliği aynı zamanda 
+açıortay ve kenarortaydır∑
+∑
+°
+BHm B m C =
+=
+=
+ABH üçgeni 30° – 60° – 90° olduğundan kenarlar arasınd 2a – a – a 3  bağıntısı vardır. Eşkenar üçgenin 
+yüksekliği Aa =
+ olur. 30° – 60° – 90° ye sahip bir 
+ABH dik üçgeninde 30° nin karşısındaki kenar uzunluğu hipotenüsün kenar 
+uzunluğunun yarısına, 60° nin karşısındaki kenar uzunluğu 30° nin karşısındak kenar uzunluğunu3  katına eşittir4ABC eşkenar üçgeninin bir kenar uzunluğu 10 cm 
+olduğuna göre A=
+ uzunluğunu hesaplayalımÇözüEşkenar üçgende bir kenar uzunluğu 2a iken yüksekliği a 3  olduğundan 
+Acm bulunu5 =
+5ABC eşkenar üçgeABAc=
+=
+@
+@
+olduğuna göre eşkenar üçgenin bir kenar uzunluğunu bulalımÇözüEşkenar üçgende bir kenar uzunluğu 2a iken yüksekliği a 3  olduğuna görcm bulunu6 2 4 &
+=
+=
+=
+=
+=
+Matematik I2. BölüÜçgenleALIŞTIRMALA1. 
+6 ABC eşkenar üçgeAB=
+=
+@
+AH 
+6 3 cm di@
+@
+Buna göre eşkenar üçgenin bir kenar uzunluğu kaç cm dir?
+A) B) C) 6 D) 24 4 4 ABC eşkenar üçgeAAB=
+=
+= 4 3 colduğuna göre eşkenar üçgenin yüksekliği kaç cm dir?
+A) B) C)
+D) Birim ÇembeMerkezi orijinde ve yarıçap uzunluğu 1 birim olan çembere birim çember denir. 
+Birim çember üzerindeki bir nokta P( x, y) olsun, POA üçgeninde Pisagor Teoremini 
+uygulayalım23(0, 1)
+P(x,y)
+(–1 , 0)
+(1, 0)
+(0, –1)
+O 
+
+|OA|2 + |AP|2 = |OP|x2 + y2 = bağıntısı birim çember denklemidiMatematik I2. BölüÖRNEKLE1. Birim çember üzerindeki bir nokta 
+,
+m olduğuna göre A noktasınıorijine olan uzaklığı kaç birimdir? BulalımÇözü,
+Birim çemberin tanımı gereği üzerindeki her 
+noktanın orijine olan uzaklığı  1 birimdir2. Birim çember üzerindeki bir nokta 
+,
+m olduğuna göre P noktasının tanımladığ merkez açı ölçüsünü bulalımÇözü3 , m 
+,
+apsi(x değeri)     
+ordina(y değeri)
+30° – 60° – 90° özel üçgeninin kenarları arasındaki 
+bağıntı –
+–
+ olduğu için 
+∑
+°
+m P =
+bulunurÜçgenleMatematik I2. BölüÜçgenleBİLGİ KUTUSII. BÖLG,
+°
+°
+–
++
+^
+III. BÖLG°
+°
+,
+– –
+^
+IV. BÖLG°
+,
+°
+–
++
+^
+I. BÖLG°
+°
+,
++ +
+^
+23(0, 1)
+(–1 , 0)
+(1, 0)
+(0, –1)
+3. Birim çember üzerinde ve I. bölgede bulunan bir noktanın P (a,a) olduğu bilindiğin göre a nın değerini bulalımÇözüP(a,a) noktası birim çember denklemini sağlar21 bulunur!
++
+=
+=
+=
+=
+P(a,a) noktası I. bölgede yer aldığı için bileşenlerin işareti (+,+) şeklindedir,
+,
+P a bulunu=
+^
+Matematik I2. Bölü4. 
+,
+O merkezli birim çemberde 
+∑
+m A d =
+ 
+P noktasının koordinatları 
+,
+m olduğuna 
+göre sico+
+ değeri kaçtır?
+Çözü,
+       Karşı dik kenasin α =                             = 
+=
+ Hipotenü       Komşu dik kenasin α =                               = =
+ Hipotenüsicobulunu+
+=
++
+=
++
+4. 30° nin sinüs, kosinüs, tanjant ve kotanjant değerlerini birim çember yardımıylbulalımÇözü30°
+30°
+60°
+30° – 60° – 90° üçgeninin kenarları 
+arasındaki bağıntıdan dolayı,
+,
+OAolu=
+=
+sico°
+°
+=
+=
+=
+=
+tan30°
+cot30°
+=
+=
+=
+=
+coÜçgenleMatematik I2. BölüÜçgenleBİLGİ KUTUSBirbirini 180° ye tamamlayan açılarının sinüs değerleri birbirine; cosinüs, 
+tanjant ve kotanjant değerleri ise ters işaretlisine eşittir5. 120° nin sinüs, kosinüs, tanjant ve kotanjant değerlerini birim çember yardımıyl bulalımÇözü120°
+60°
+30°
+120° yi 180° ye tamamlayan açı 60° olduğuna göre 60° nin 
+trigonometrik oranlarını bulalımtata–
+–
+=
+=
+=  sisi=
+=
+=
+=–
+6. 45° nin sinüs, kosinüs, tanjant ve kotanjant değerlerini birim çember yardımıylbulalımÇözü45°
+45°
+45°
+45° – 45° – 90° üçgeninin kenarları 
+arasındaki bağıntıdan dolayı 
+OOdi=
+=
+sin=
+=
+cos=
+=
+ ,
+tan=
+=
+, 
+cot=
+=
+ bulunurcos 120cos 60=–
+=–
+cot 120cot 60=–
+=–
+=–
+–
+Matematik I2. BölüÜçgenleBİLGİ KUTUS30°
+45°
+60°
+120°
+135°
+150°
+sico– – – ta–
+–  –
+co–
+––
+ALIŞTIRMALA1–
+,
+m birim çember üzerinde bir noktadırP noktasının tanımladığı pozitif yönlü α açısı kaç derecedir?
+A) B) C) D) 2. Birim çember üzerinde bulunan ve II. bölgede yer alan 
+,
+–
+knoktasının 
+ordinat değeri aşağıdakilerden hangisidir?
+A) B) C) D)  – 3. sicoco°
+° –
+°
++
+ değeri aşağıdakilerden hangisidir?
+A)
+–
+B)
++
+C)
+–
+D)
++
+4. 150° nin sinüs, kosinüs, tanjant ve kotanjant değerlerini birim çember yardımıyl bulunuzMatematik I2. BölüÜçgenleEbü’l Vefa  (940 Buzcan - 998 Bağdat)
+Matematik tarihinde önemli yeri olan Türk İslam 
+dünyasının önde gelen matematik astronomi bilginidir. 
+Özellikle bugün  trigonometride görülen pek çok  temel 
+tanım, kavram ve formülleri bilim dünyasına ilk sunan 
+bilgindir. Objektif olarak yazılmış matematik ve 
+astronomi 
+tarihi 
+kitaplarında 
+adını 
+görmek 
+mümkündür. Trigonometri, geometri ve astronomi ile 
+ilgili çok sayıda eseri vardır. Bu eserleri Batı dünyasında 
+uzun yıllar incelenmiş, tercümeleri yapılmış ve hakkında 
+çok sayıda eser ve makale yayınlanmıştırÖzellikle küresel trigonometride sinüs konusunu bilimse bir düşünce içinde ilk inceleyen Ebu’l Vefa’dır. Tanjant çizgilerini düzenlediği 
+gibi  trigonometriye Sekonder ve Cosekonder tanım ve kavramlarını da o getirmiştir. 
+Aynı zamanda trigonometrinin 6 esas eğrisi arasındaki trigonometrik oranları da ilk 
+kez belirtmiştir. Bu oranlar, bugün trigonometride  grafiklerin tanımında aynen 
+kullanılmaktadır. Zamanına kadar hiç bir matematikçinin yapamadığı incelikte, trigonometri çizelgeler düzenlemiştir. Astronomik gözlemler için gerekli olan sinüs ve 
+tanjant değerlerini gösteren çizelgeler 15 er dakikalık aralarla hazırlanmıştır. Trigonometriy tanjant tanımını zıl (gölge) adı altında ilk kez o kazandırmıştırGıyaseddin Cemşid  (1380 Kâş – 1436 Semerkant)
+14. yüzyılın özellikle Semerkand’ da çalışmalar ve araştır- 
+malarla tanınan en ünlü astronom ve matematikçisidir. 
+Cemşid;  sarf, nahiv, fıkıh, mantık, matematik ve astrono-mi 
+ilimlerini öğrenmiştir. Matematik tarihlerinde ondalık 
+sistemin kaşifi sayılır. Yüksek dereceden sayısal denklemleri yaklaşık çözümlerine ilişkin bulduğu yöntemlerle de 
+ünlüdür. 1 derecelik yayın sinüs değerini bugünkü  değerler göre 18 ondalık sayıya kadar, pi sayısını da 12 ondalığkadar (3,1415926535898732)  doğru olarak bulmuştur. Trigonometride “El Kâşi 
+Eşitliği” adıyla bilinen formülü ve  kullanılan bazı temel formülleri bulmuştur. Öneml eserleri Risalet-ül Muhitiyye ve Mift ah-ül Hitap’tır. Risalet-ül  Muhitiyye de ondalık 
+sayılarla ilgili kurallara ve Pi sayısının değerine değinmiştirMatematik I2. BölüÜçgende Alaüçgenin dış 
+bölgesüçgenin iç 
+bölgesABC üçgeni düzlemi üç bölgeye ayırır; 
+üçgenin iç bölgesi, dış bölgesi ve üçgeni kendisi. Üçgenin kendisi ile iç bölges üçgensel bölgenin alanını oluşturur. 
+A AB&  şeklinde gösterilir1. Dar Açılı Üçgenin Alanhhh
+
+
+A ABa =
+&
+A ABb =
+&
+A ABc =
+&
+2. Geniş Açılı Üçgenin Alanh
+h
+
+hA ABa =
+&
+A ABb =
+&
+A ABc =
+&
+ÜçgenleMatematik I2. BölüÜçgenle3. Dik Üçgenin Alan
+hA ABa b $
+$
+=
+=
+&
+4. İkizkenar Üçgenin Alanh
+
+      b = c olduğundaA ABa h$
+=
+&
+A ABb $
+=
+&
+5. Eşkenar Üçgenin Alan
+A ABa $
+=
+&
+( =
+ olduğundan)
+A AB2 $
+=
+&
+Matematik I2. BölüÖRNEKLE1. 
+ABC dik üçgenindAAAcBc=
+=
+=
+@
+@
+olduğuna göre  A AB&  kaç 
+dir?  BulalımÇözüABC üçeninde Pisagor teoremini uygularsak,
+AAAc+
+=
+=
+=
+A ABc7 $
+=
+=
+&
+ bulunur  dir2. 
+ABC üçgeninde 
+CAABAcAcBx cCy cm vA ABc=
+=
+=
+=
+=
+=
+=
+@
+@
+@
+@
+&
+olduğuna göre x + y toplamını bulalımÇözüA ABBCBCBCBcCc 
+$
+$
+$
+$
+$
+$
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+&
+x + y = 12 + 10 = 22 cm bulunurcmÜçgenleMatematik I2. BölüÜçgenle3. 
+ABC üçgenindB8cD10c=
+=
+A ABc=
+&
+olduğuna göre  
+?
+A ABD ka cm di&
+ BulalımÇözü
+A=
+ uzunluğu ABC üçgeninin yüksekliğidiA ABc$
+=
+=
+=
+=
+&
+A@ yüksekliği aynı zamanda ABD üçgeninin yüksekliğidirA ABcm bulunu8 $
+$
+=
+=
+=
+&
+4. 
+ABC ve BDC dik üçgen,
+cm,
+AB 
+Acm, Dx cA BEc=
+=
+=
+=
+&
+olduğuna göre |DC| = x uzunluğunu 
+bulalımÇözüABE üçgeninde Pisagor teoremi uygularsak,
+BBBc+

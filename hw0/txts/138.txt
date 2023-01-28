@@ -1,0 +1,400 @@
+ ve 
+(
+)
+m AD=
+%
+ olduğuna göre 
+(
+)
+m KL%  nün kaç derece 
+olduğunu bulunuzABCD eşkenar dörtgeninde ABCD=
+=
+=
+ olduğundan ABL  eşkena üçgendir. 
+(
+)
+(
+)
+m ADm AB=
+=
+%
+%
+ olduğundan 
+(
+)
+m LB=
+%
+ olur. 
+LBC  ikizkenar üçgen olduğundan 
+(
+)
+(
+)
+m BLm BC=
+=
+%
+%
+ olurK, L, C noktaları doğrusal olduğundan 
+(
+)
+(
+)
+(
+)
+(
+)
+(
+)
+m KLm ALm BLm KLm KLolarak bulunu&
+&
++
++
+=
++
++
+=
+=
+%
+%
+%
+%
+%
+Bu ifadelerin doğruluğu aşağıdaki gibi gösterilebilir Yandaki şekilde ABCD eşkenar dörtgen olmak üzer∙ A? ve B? köşegenleri birbirini dik keser∙ A? ve B? köşegenleri birbirini ortalar∙ A? ve B? köşegenleri aynı zamanda açıortaydırABCD eşkenar dörtgeni aynı zamanda paralelkenar olduğundan köşegenler birbirini ortalarBilgKenar uzunlukları eşit olan paralelkenara eşkenar dörtgen denir. Eşkenar 
+dörtgen aynı zamanda bir paralelkenardır ve paralelkenarın özelliklerini taşı. Yandaki şekilde ABCD eşkenar dörtgenindABCD=
+=
+=
+=
+ olur• 
+ADC  ile ABC  ikizkenar üçgenlerinde sırasıyla D? ve B?kenarorta olduğundan DA=
+?
+? ve BA=
+?
+? olur. Buradan 
+köşegenlerin birbirini dik kestiği sonucuna ulaşılır. 
+• 
+ ADC  ve ABC  ikizkenar üçgenlerinde sırayla D? ve B? hem 
+yükseklik hem kenarortay olduğundan aynı zamanda açıortay olur. 
+Benzer şekilde A? köşegeninin de açıortay olduğu sonucuna 
+ulaşılırDörtgenler ve ÇokgenleDörtgenler ve ÇokgenleYandaki şekilde verilen ABCD eşkenar dörtgeninde K noktası A@ köşegen üzerindedir. Kc=
+, Ac=
+ ve KA=
+?
+? ise KB  nun 
+kaç cm olduğunu bulunuz                                                
+Eşkenar dörtgende köşegenler aynı zamanda açıortay olduğundan 
+(
+)
+(
+)
+(
+)
+(
+)
+m DAm BAm ACm BC=
+=
+=
+=
+%
+%
+%
+%
+ denilsin. AKD ikizkenar 
+üçgen olduğundan 
+(
+)
+(
+)
+m DAm AD=
+=
+%
+%
+ olurAD&  nin iç açılarının ölçüleri toplamı ile 
+&
+&
++
+=
+=
+=
+c olur Sonuç olarak m(DCB)
+2 $
+=
+a =
+=
+%
+ olarak bulunur 
+Yandaki şekilde verilen ABCD eşkenar dörtgeninde K noktası A? 
+köşegeni üzerindedir. AD=
+ ve KD=
+?
+? olduğuna göre 
+(
+)
+m DC%  nün kaç derece olduğunu bulunuzYandaki şekilde verilen ABCD eşkenar dörtgeninde DA=
+@
+@,
+DB=
+@
+@; Dc=
+-
+^
+, Dc=
++
+^
+ ve eşkenar 
+dörtgenin çevresinin uzunluğu 40 cm olduğuna göre eşkenar dörtgeni alanının kaç cm2  olduğunu bulunuzB@ köşegeni çizilirse BA=
+?
+? olur. Ayrıca köşegenler birbirini 
+ortaladığından 
+,
+AcOc=
+=
+ olur. Köşegenlerin kesim 
+noktasına O denilirse ABK dik üçgeninde Öklid teoremi ile 
+(
+)
+KKKKKKcm bulunu3 &
+&
+&
+$
+$
+=
+=
++
+=
+=
+=
+Dörtgenler ve ÇokgenleDörtgenler ve ÇokgenleYandaki şekilde verilen ABCD eşkenar dörtgeninde 
+,
+KA=
+?
+?   
+,
+DLc=
+=
+ Kc=
+ olduğuna göre ABCD eşkenar 
+dörtgeninin alanının kaç cm2  olduğunu bulunuzPK'
+?
+? olacak şekilde P? çizilirse KLBP dikdörtgenindKLc=
+=
+ ve KPc=
+=
+ olur.  
+P=
+ denilirse ABCD=
+=
+=
+=
++
+ olurPBC dik üçgen olduğundan Pisagor teoremi ile 
+(
+)
+&
+&
+&
++
+=
++
++
++
+=
++
+=
+=
+ 
+olur. Bu durumda Ac=
+ olur(
+)
+A ABCAKc15 $
+$
+=
+=
+=
+ bulunurYandaki şekilde verilen  ABCD eşkenar dörtgeninde Ave B@
+@ 
+köşegenlerinin kesim noktası P noktasıdır. 
+;
+PA=
+?
+?  
+,
+Ac=
+ 
+Hc=
+ olduğuna göre ABCD eşkenar dörtgeninin alanının kaç cm2  
+olduğunu bulunuzEşkenar dörtgenin kenar uzunlukları eşit olduğundan kenar uzunluklarının her biri 10 cm olur. Eşkenar 
+dörtgen paralelkenarın özelliklerini taşıdığından eşkenar dörtgenin alanı, bir kenar uzunluğu ile bu kenar ait yükseklik uzunluğunun çarpımı ile bulunabilir. Burada(
+)
+(
+)
+DADBcm olu$
+$
+$
+$
+=
+-
+=
++
+-
+=
++
+=
+(
+)
+(
+)
+(
+)
+A ABCDAc2 7 $
+$
+$
+$
+$
+=
+=
+-
+=
+-
+=
+=
+ olarak bulunurABCD eşkenar dörtgen olduğundan AB=
+?
+? ve buradan APB dik üçge olur. Öklid teoremi ile 
+PAHPPPc9 &
+&
+&
+$
+$
+=
+=
+=
+=
+ olur. 
+Bu durumda 
+(
+)
+(
+)
+(
+)
+(
+)
+A ABCA ABA ABCA ABCc13 &
+&
+$
+=
+=
+=
+&
+ bulunuDörtgenler ve ÇokgenleDörtgenler ve ÇokgenleİpucBu eşitliğin doğruluğu aşağıdaki gibi gösterilebilirABCD eşkenar dörtgeninde 
+ve B@
+@ köşegen olmak 
+üzere 
+(
+)
+A ABCAB$
+=
+ olurB@ köşegeni ABCD eşkenar dörtgenini eş alanlı iki bölgeye 
+ayırır. Buradan 
+(
+)
+(
+)
+A ABA ABC=
+&
+ olur(
+)
+(
+)
+(
+)
+(
+)
+(
+)
+(
+.)A ABA ABCBAA ABCBAA ABCBAA ABCD elde ediliAAyaz l › ›
+&
+&
+&
+$
+$
+$
+=
+=
+=
+=
+=
+&
+ABCD eşkenar dörtgeninde D@ köşegeni üzerinde bulunan bir E noktası için 
+,
+DcEcm ve Ac=
+=
+=
+ olduğuna göre ABCD eşkenar dörtgeninin alanının kaç cm2  
+olduğunu bulunuzABCD eşkenar dörtgeni, D@ köşegeni ve A@ köşegeni aşağıdaki gibi çizilsinKöşegenlerin kesim noktasına K denilirse AD=
+@
+@, Dcm ve Kc=
+=
+ olurAKE dik üçgeninde Pisagor teoremi ile 
+AKAAAAAcm olu4 &
+&
+&
+&
++
+=
++
+=
++
+=
+=
+=
+Buradan 
+AKcm elde edilir ve Acm olu4 8 =
+=
+=
+ABCD dörtgeni, eşkenar dörtgen olduğundan 
+(
+)
+A ABCABcbulunu8 32 $
+$
+=
+=
+=
+Dörtgenler ve ÇokgenleDörtgenler ve Çokgenle1. 
+ 
+Yukarıdaki şekilde verilen ABCD eşkenar 
+dörtgeninde D@ köşegen, A@, DAB 
+açısının ve B@, DBA açısının açıortayıdır. 
+(
+)
+m AE=
+%
+ olduğuna göre 
+(
+)
+m BD%  nün 
+kaç derece olduğunu bulunuz2. 
+ 
+Yukarıdaki şekilde verilen ABCD eşkenar 
+dörtgeninde Ave B@
+@ köşegenlerinin 
+kesim noktası E noktasıdır.  Bc=
+ ve 
+Ac=
+ olduğuna göre AC  nun kaç 
+cm olduğunu bulunuz  
+3.  
+Yukarıdaki şekilde verilen E noktası ABCD 
+eşkenar dörtgeni üzerindedir. EB=
+ ve 
+(
+)
+m DC=
+%
+ olduğuna göre 
+(
+)
+m DA%  nün 
+kaç derece olduğunu bulunuz4. 
+Yukarıdaki şekilde verilen ABCD eşkenar dörtgeinde BD=

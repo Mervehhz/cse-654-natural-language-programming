@@ -1,0 +1,400 @@
+$
+=
+=
+=
+DizileBir geometrik dizinin ilk 8 teriminin toplamının, ilk 4 teriminin toplamına oranı 97  olduğuna göre 
+r nin pozitif değerini bulunuz&
+$
+$
+-
+-
+-
+-
+-
+-
+=
+&
+=
+=
+&
+$
+-
+-
++
+=
+bulunu&
+&
+&
+=
+-
+=
+=
+ÇÖZÜÖRNEİlk terimi a1  ve ortak çarpanı r !
+^
+h olan a^
+h geometrik dizisinin ilk n teriminin toplamı 
+ 
+olu1 $
+=
+-
+1 -
+İlk terimi 1 ve ortak çarpanı =
+ olan bir geometrik dizinin ilk 9 teriminin toplamını bulunuzÇÖZÜÖRNE-
+&
+bulunuve 1 $
+$
+=
+-
+-
+=
+-
+-
+-
+=
+=
+=
+=
+=
+^
+&
+$
+$
+$
+$
+=
++
++
++
++
+=
++
++
++
++
++
+-
+r $
+$
+$
+$
+$
+$
+$
+$
+$
+$
+=
++
++
++
++
++
+=
++
++
++
++
++
+-
+r &
+$
+$
+$
+$
+$
+$
+=
++
++
++
++
++
+r $
+$
+$
+$
+$
+-
+=
+-
+-
+=
+-
+=
+-
+-
+^
+^
+-
+Matematik 256 ile  sayıları arasına +
+ tane 
+terim yerleştirilerek bir geometrik dizi elde 
+ediliyor. Elde edilen bu geometrik dizinin 
+ortak çarpanı 1  olduğuna göre n değerini 
+bulunuzBir a^
+h geometrik dizisinin ilk n teriminin 
+toplamı 
+dir ve =
+=
+ olduğna göre S6  yı bulunuz.                                        
+Bir a^
+h geometrik dizisinin ilk n teriminin 
+toplamı Sn  ve 3 =
+ olduğuna göre 
+-
+ ifadesinin eşitini bulunuz.   
+Pozitif terimli bir a^
+h geometrik dizisi için 
+$
+$
+$
+$
+=
+ 
+olduğuna göre a8  terimini bulunuzBir geometrik dizinin ilk üç terimi -
+,  
+ve di-
++
+ Bu geometrik dizinin ilk 
+10 teriminin toplamını bulunuz. 
+İlk terimi 5 ve ortak çarpanı 1  olan bir 
+geometrik dizinin genel terimini bulunuza^
+h bir geometrik dizi olmak üzere 
+ve diBuna g re bulunuterimin=
+=
++
++
+Aşağıda verilen dizilerden geometrik dizi 
+olanlarını bulunuz,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+1 8 27 64 ,
+,
+,
+,
+,
+,
+1 3 9 ,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+)
+)
+)
+)
+)
+1 1 1 1 1 2 4 n =
+=
+=
+=
+=
+-
+^
+^
+^
+^
+^
+`
+^
+`
+^
+Pozitif terimli bir a^
+h geometrik dizisinde 
+ve =
+=
+ olduğuna göre bu dizini ilk 11 teriminin çarpımını bulunuz AlıştırmalaDizileBir banka, Öğretmenler Günü’ne özel olarak eski müşterisi olan Arzu Öğretmen’e bir kredi teklifi 
+sunmuştur. Bu teklife göre banka, Arzu Öğretmen’e 31 500 TL ihtiyaç kredisini ilk ay 1250 TL ve 
+takip eden her ay bir önceki aydan 250 TL fazla olarak ödemesi koşuluyla faizsiz olarak verecektir. 
+Arzu Öğretmen’in bu kredi teklifini kabul etmesi durumunda borcunun tamamını kaç ayda ödeyeceğin bulunuz31 &
+$
+$
+=
+=
+=
+=
++
+-
+=
++
+-
+]
+]
+`
+bbbbbbbbbb 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+Taksit sayısı pozitif tam sayı olacağından Arzu Öğretmen 12 ay ödeme yapacaktır2.1.4. Gerçek Hayat Durumları ile İlgili Dizi ProblemlerBir bakteri kültüründe, uygun şartlarda bakterilerin sayısı her 15 saniyede bir ikiye katlanmaktadır. 
+İlk durumda bakteri kültüründe 5 tane bakteri olduğuna göre 10 dakika sonra bu kültürde kaç tane 
+bakteri olacağını bulunuzBu kültürdeki bakterilerin her biri 15 saniyede bir ikiye katlandığından 1 dakikada 4 defa, 10 dakikad ise 40 defa bu işlem gerçekleşecektir  1. çoğalmada bakteri sayısı: 
+  2. çoğalmada bakteri sayısı: 
+  3. çoğalmada bakteri sayısı:
+  n. çoğalmada bakteri sayısı:  
+  O hâlde 10 dakikanın sonunda =
+ için bakteri kültüründe 5 $
+adet bakteri bulunur2 $
+$
+$
+$
+=
+=
+$
+$
+olara2 5 tanmodellenebilir$
+$
+$
+$
+$
+=
+=
+-
+]
+31 &
+$
+$
+=
+=
+olu&
+&
+&
++
++
++
++
++
+-
+=
++
+-
+=
++
+-
+=
+veya &
+&
+$
+=
+=-
+=
+^
+]
+]
+]
+]
+&
+&
+=
++
+-
+=
++
+ÇÖZÜÇÖZÜÖRNEÖRNEMatematik Bir okulun konferans salonunun ilk sırasında 10, ikinci sırasında 12, üçüncü sırasında 14 koltuk 
+vardır. Bu şekilde devam edilerek her sıra bir önceki sıranın koltuk sayısından 2 koltuk fazla olaca şekilde düzenlenmiştir. Konferans salonunda toplam 220 koltuk olduğuna göre en son sırada 
+kaç adet koltuk olduğunu bulunuzKonferans salonunda n tane sıra olsun. Bu durumda toplam koltuk sayısı n =
+ olurKonferans salonunun ilk üç sırasında sırasıyla 10, 12 ve 14 koltuk bulunduğundan salondaki koltu sayıları, ilk terimi 10 ve ortak farkı =
+ olan bir aritmetik dizidir. Bu dizi a^
+h ile gösterilirse 
+dizinin genel terim&
+olu$
+$
+=
++
+-
+=
++
+-
+=
++
+=
+^
+^
+olu2 &
+&
+&
+&
+&
+$
+$
+$
+$
+$
++
+-
+=
++
+-
+=
++
+=
++
+-
+=
+-
++
+=
+$
+=
+]
+^
+^
+]
+^
+]
+O hâlde konferans salonunda 11 sıra koltuk vardır. Buna göre 11. sıradaki koltuk sayıs&
+bulunu2 $
+=
+=
+=
++
++
+ÇÖZÜÖRNEBir firma, 2016 yılında toplam 24000000 TL değerinde ihracat  yapmıştır. Bu firmanın yapmış olduğ ihracat tutarı her sene %5 artmaktadır. Buna göre bu firmanın 2023 yılı sonunda yapacağı 
+ihracat tutarının yaklaşık kaç TL olacağını bulunuz. 
+2016 yılında ihracat tutarı 24 000 000 TL iken bir sene sonra %5 artacağından 
+2017 yılı için 
+,
+T24000000 1 $
+$
++
+=
+^
+ olur. 
+2018 yılı için yine %5 artacağından 
+,
+,
+,
+1 1 05 1 05 $
+$
+$
++
+=
+^
+^
+^
+h  TL olurBu şekilde devam edilerek n yıl sonra 
+,
+1 05 $^
+h  TL şeklinde modelleme yapılabilirO hâlde yedi yıl sonra yani 2023 yılı sonunda ihracat tutar,
+,

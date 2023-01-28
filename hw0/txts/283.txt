@@ -1,0 +1,400 @@
++
++
+=
+-
+-
++
++
+-
+-
+-
++
+dd-
+=
+]
+#
+#
+d+
++
+-
+#
+ ifadesinin eşitini bulunuz+
++
+dddc bulunu$
++
++
+-
+=
++
++
+-
+=
+-
+=
+-
++
+]
+]
+#
+#
+#
+=
+-
+=
+:
+:
+]
+]
+olduğuna göre f ] g değerini bulunuzBu durumda 
+&
+f bulunu=
+-
++
+=
+]
+]
+f ^ h fonksiyonunun türevi -
+ olduğundan -
+ ifadesinin integrali de f ^ h olur. Buna görÖRNEÖRNEÖRNEÇÖZÜÇÖZÜÇÖZÜ&
+&
+&
+f elde edili3 $
+=
+-
++
+=
+-
++
+=-
++
+=
+]
+]
+&
+&
+f df c olu=
+-
+=
+-
+=
+-
++
+l]
+]
+]
+]
+#
+Matematik h g x dg f x d$
+$
+$
+$
+=
++
+=
+=
+=
+:
+:
+:
+:
+]
+]
+]
+]
+]
+]
+]
+]
+]
+]
+#
+#
+olduğuna göre h ] g değerini bulunuzh g x dg f x dg g f df g df g c oluf g g g f $
+$
+$
+$
+$
+$
+$
+$
+$
+=
++
+=
++
+=
+=
++
+=
++
+]
+]
+^
+^ ]
+]
+]
+]
+]
+]
+]
+]
+]
+]
+]
+_^ ^
+^
+]
+]
+]
+]
+ghg#
+#
+#
+#
+h x df x d=
+-
+=
++
+-
+=
+:
+:
+:
+]
+]
+]
+]
+]
+]
+#
+#
+olduğuna göre -
+]
+g  değerini bulunuz&
+&
+&
+&
+h x df x dh f dh x f dh f dh f c oluf x f $
+$
+=
+-
+=
+-
+=
+-
+=
+=
++
+-
+=
+]
+]
+]
+]
+]
+]
+]
+]
+b ]
+]
+]
+]
+]
+ec ^
+]
+]
+g g h g #
+#
+#
+#
+#
+              
+Bu durumda   
+&
+elde edili&
+$
+=
++
+=
+&
+h f f &
+$
+=
++
+=
++
++
+=
++
++
+]
+]
+]
+]
+]
+]
+]
+]
+]
+1 2 444 &
+&
+&
+h f bulunu=
++
+-
+=
+-
+-
++
+-
+= -
++
+-
+=-
+]
+]
+]
+]
+]
+]
+&
+&
+&
+h f g oluh f g bulunu&
+$
+$
+$
+$
+=
++
+=
++
+=
++
+=-
+=
+-
+=
+-
+=
+-
+=
+^
+]
+]
+]
+]
+]
+]
+]
+]
+]
+]
+]
+44444 44444 :
+ÖRNEÖRNEÇÖZÜÇÖZÜİntegra-
++
+dd#
+ifadesinin =
+ için değerini bulunuz.                                             
+f x d=
+-
++
+] #
+olduğuna göre f ] g fonksiyonunun yereminimum değerini bulunuz                                                                                              
+d-
+#
+ifadesinin eşitini bulunuzt d2 -
+#
+ifadesinin eşitini bulunuzf d=
+-
+=
++
+:
+:
+]
+]
+]
+#
+olduğuna göre -
+]
+g değerini bulunuz. 
+d4 -
+-
+#
+ifadesinin eşitini bulunuz=
+-
++
+=
+:
+:
+]
+]
+olduğuna göre f ] g değerini bulunuzh f x dx x d$
+=
++
+=
+=
+:
+:
+:
+]
+]
+]
+]
+]
+]
+#
+#
+olduğuna göre h ] g değerini bulunuz10 Türevi =
+-
+l^  olan f  fonksiyonunu 
+,
+A 2 ^
+h noktasında bir yerel minimum olduğuna göre f ^ h değerini bulunuzolduğuna göre f ] g fonksiyonunun grafiğin =
+ apsisli noktasından çizilen teğetinin 
+eğimini bulunuz.                                                                                     
+x f x d$
+=
+-
+] #
+ AlıştırmalaMatematik 6.1.2. Değişken Değiştirme YöntemDiferansiyel KavramTürevlenebilir bir  f ] g fonksiyonunun türevi df = ^ ]
+]
+gg olmak üzere d f ^ ] gh ifadesine 
+f ] g fonksiyonunun diferansiyeli denir vd f x d= ] ]
+]
+g olurf =
+-
+]  fonksiyonunun diferansiyelini bulunuz&
+d f x dd f dx bulunu=
+=
+-
+^ ]
+]
+^ ]
+]
+gg=
+-
+ olduğuna göre dy nin eşitini bulunuz&
+ddddu bulunu=
+-
+=
++
++
+= i  eşitliğinin iki tarafının diferansiyelini alınız=
+-
+ olduğuna göre dx ifadesinin eşitini bulunuzddddu olu&
+&
+=
+-
+=
+=
+&
+dddd$
+$
+=
++
+=
++
++
+`

@@ -1,0 +1,400 @@
+=
++
+a) 
+1 $
+-
+-
+^
+^
+b) 
+$
+-
++
+^
+^
+c) 
+4 $
+-
++
+^
+^
+ç)  2 $
+-
+-
+^
+^
+h 
+d) 
+$
++
++
+^
+^
+C) Aşağıdaki çoktan seçmeli soruların 
+doğru seçeneğini işaretleyiniz7.  olmak üzere bir aracın -
+ saatte 
+aldığı yol +
+-
+-
+ olduğuna göre 
+bu aracın bu süre içerisindeki ortalama hızı 
+aşağıdakilerden hangisidir?
+A) x2  B) 2 +
+ C) 2 +
+ D) 2 -
+ E) 8. Seda Öğretmen’in tahtaya kaldırdığı öğrencisi, 
+tahtaya çarpanlara ayırma ile ilgili aşağıdaki 
+adımları yazarak bir çalışma yapıyor. 
+a, b sıfırdan farklı iki gerçek sayı ve =
+ 
+olmak üzerI. a $
+=
+ (Her iki taraf a ile çarpılır.)
+II. a $
+-
+=
+-
+ (Eşitliğin her iki tarafında b2  çıkarılır.)
+III. b $
+-
++
+=
+-
+^
+^
+^
+h(Eşitliğin 
+her 
+iki tarafı çarpanlarına ayırılır.)
+IV. +
+=
+ (Eşitliğin her iki tarafı -
+ ile 
+bölünür.)
+V. =
+ (Eşitliğin her iki tarafından b çıkarılır.)
+       Bu çalışmada hangi adımda hata yapılmıştır?
+   A) I      B) II     C) III        D) IV           E) 9. 6 -  sayısı aşağıdakilerden hangisine tam 
+olarak bölünemez? 
+  A) 13      B) 26     C) 51       D) 56        E) 10. Hakan Bey, iki veya daha fazla sabit polinomda farklı polinomların çarpımı şeklinde 
+yazılabilen cebirsel ifadeleri cömert ifadler olarak adlandırmak istiyor. Örneğin 
+$
++
+-
+=
+-
++
+]
+]
+g olduğundan 
+2 +
+-
+ ifadesi bir cömert ifadedir    Buna gör   
+          
+olmak zere III$
++
++
++
+-
++
++
++
++
++
+^
+^
+    ifadelerinden hangileri cömert ifadelerdir? 
+A)Yalnız I         B) Yalnız II      C) Yalnız III 
+           D) II ve III            E) I, II ve II11. Aşağıda cebirsel ifadelere ait en sade durumla  verilmiştir      
+III$
+-
+-
+-
++
+-
+-
++
+-
++
+-
+-
++
++
+-
+-
++
++
+|
+=
+-
+-
+=
+=
+^
+^
+Yukarıdaki eşitliklerden hangisi veya hangiler doğrudur? 
+       A) Yalnız I           B) Yalnız II       C) Yalnız III 
+                    D) I ve II             E) II ve IIDEĞERLENDİRMCevaplarınızı cevap anahtarı ile karşılaştırını. Yanlış cevap verdiğiniz ya da cevap 
+verirken tereddüt ettiğiniz sorularla ilgili 
+konuları veya faaliyetleri geri dönerek tekrarlayını. Cevaplarınızın tümü doğru ise bir 
+sonraki öğrenme faaliyetine geçinizİkinci Dereceden DenklemleSAYILAR VE CEBİİKİNCİ DERECEDEN DENKLEMLEİkinci Dereceden Denklemeleax2+bx+c=¡
+∆
+a3=
+-
+İkinci Dereceden Denklemle10.4.1. İkinci Dereceden Bir Bilinmeyenli Denklemleİkinci Dereceden Denklemleİkinci Dereceden Denklemle10.4. İKİNCİ DERECEDEN DENKLEMLEHazırlık Çalışmas1. 
+x x 20 m 
+30 Bir hayırsever olan Ali Bey, şehit olan oğlu Akif adına bir okul yapılması için kenar uzunlukları 
+metre vmetr+
++
+^
+^
+ olan dikdörtgen şeklindeki arazisinin bir kenar uzunluğu x 
+metre olan kare şeklindeki kısmını bağışlıyor. Geriye kalan arazisinin alanı 1800 metrekare olduğun göre bağışlanan alanının kaç metrekare olduğunu bulunuz2. Bilgi: Bir denklemin kökü o denklemde değişken yerine yazıldığında eşitliği sağlarBu bilgiye göre aşağıda verilen denklemler ile karşılarında verilen köklerin doğru ya da yanlış 
+olduklarını yanlarındaki kutulara işaretleyiniz. 
+DenkleKökleDoğrYanlı+
+=
+$
++
+-
+=
+^
+^
+vey-
+=
+-
+vey-
+3. Saygı ve dürüstlüklerinden dolayı okulun onur kuruluna seçilen kız ve erkek öğrencilerden oluşturula 7 kişilik gruptaki kız öğrencilerin sayısı ile erkek öğrencilerin sayısının çarpımı 12 dir. 
+Gruptaki kız öğrenci sayısı daha fazla olduğuna göre gruptaki erkek ve kız öğrencilerin sayılarını 
+bulunuzİkinci Dereceden Denklemleİkinci Dereceden Denklemle   • İkinci dereceden bir bilinmeyenli denklem kavramını açıklamayı,
+   • İkinci dereceden bir bilinmeyenli denklemleri çözmeyi,
+   • Bir karmaşık sayının ,a !
+ olmak üzere i+
+ biçiminde ifade edildiğini açıklamayı,
+   • İkinci dereceden bir bilinmeyenli denklemin kökleri ile katsayıları arasındaki ilişkileri kullanarak 
+işlemler yapmayı öğreneceksiniz10.4.1. İkinci Dereceden Bir Bilinmeyenli Denklemle  Terimler ve Kavramla• 
+İkinci Dereceden Bir Bilinmeyenli 
+Denkle• 
+Denklemin Kök• 
+Kökler Toplamı, Kökler Çarpım• 
+Diskriminan• 
+Karmaşık Say• 
+Eşleni  Sembol ve Gösterimle  3 , i , i+
+, z , z , C , ‹m ^ h , Re ^ Tarih boyunca mesafeleri kısaltarak insanların ulaşımlarını kolaylaştırmak için köprüler yapılmıştır. Daha 
+dayanaklı ve daha uzun ömürlü köprüler yapılabilmesi için ikinci dereceden fonksiyonların grafiklerinden 
+yararlanılmıştır. Buna güzel örneklerden biri yukarıdaki görselde verilen Tarihi Varda Köprüsü’dür. 
+İçinde bulunulan teknoloji çağında hem görsel hem işitsel iletişimi sağlayan ve böylece teknolojinin daha 
+hızlı gelişmesine katkıda bulunan en önemli buluşlardan biri uydulardır. Uzayda, gelişmiş bir uyduya 
+sahip olmak devletlerin güçlü olmalarındaki en önemli unsurlardandır. 
+Köprülerin dayanıklılıklarının artırılmasında ve uzaya fırlatılan uyduların yörüngelerinin hesaplanmasında 
+önemli unsurlardan biri ikinci dereceden denklemlerin çözümüdür. 
+Bu bölümde pozitif bilimlerin karşılaştığı sorunların başında gelen ikinci dereceden denklemlerin çözüm  
+kümesinin bulunmasını inceleyeceksinizTarihi Varda Köprüsİkinci Dereceden Denklemleİkinci Dereceden DenklemleBilim İnsanlar10.4.1.1. İkinci Dereceden Bir Bilinmeyenli Denklem KavramHarezmî (780-850)
+Matematik biliminin bugünkü seviyesine gelmesinde tarihsel 
+süreçteki bilimsel çalışmaların önemli katkısı vardır. Bu katkıyı 
+sağlayanlardan biri de ünlü İslam matematikçisi Harezmî’dir. 
+Harezmî, El-Kitâbü’l-Muhtasar fi Hisâb el-gabr ve’l-mukâbele 
+(Tamamlama ve Denkleştirme ile Hesaplamanın Özet Kitabı) 
+adlı eserinde önce aritmetiksel sayı tanımını verir ve bu sayını konumlu ve on tabanlı sistemde nasıl ifade edildiğini kısaca 
+açıklar. Cebir terimini ilk kullanan kişidir. Cebirsel sayı tanımında sonra  kendisinin geliştirdiği cebir ve mukabele sisteminde 
+bu sayının x, x² ve c şeklindeki üç türünü anlatır. Daha sonra 
+bu üç cebirsel niceliğin birbiriyle olan ilişkisinden ortaya çıkan 
+altı durumu ele alır. Bu altı ilişkiden üçü 
+,
+ab2 =
+a2 =
+, 
+b=
+ şeklinde basit; diğer üçü ab2 +
+=
+, ab2 +
+=
+, 
+bax+
+=
+şeklinde katışıktır. Harezmî önce bu denklemlerin 
+analitik çözümlerini verir, daha sonra katışık denklemlerin geometri ispatını yapar. 2 +
+=
+ denkleminin iki farklı kökün vermiştir. 2 -
+-
+-
+=
+ iyileştirme ile negatif terimleri 
+diğer tarafa atmayı ifade ederek denklemi 2 =
++
++
+ 
+şekline dönüştürür. Sadeleştirme ile de benzer terimlerin birleştirilmesini ifade eder ve bu durumda 
+son denklem 2 =
++
+ şekline dönüşür. Harezmî özel olarak 2 +
+=
+ denkleminin çözümün geometrik olarak aşağıdaki gibi bulmuşturxAlax=
+›
+Taral ala$
+$
+=
+=
+›
+T m alaAlaTaral ala=
++
+^
+^
+T m ala=
++
+=
+ 
+64, bir kenarı 
++
++
+ 
+olan karenin alanıdır&
+=
++
++
+=
+ olurla$
+$
+=
++
+=
++
+=
+Geçmişten günümüze insanoğlu bilinmeyenlerin çözümü kunusunda pek çok girişimde bulunmuştur. Bilimi bugünkü seviyesine ulaşması geçmişteki bu sabırlı çalışmaların birikiminin sonucudur. Bu bölümde 
+ikinci dereceden bir bilinmeyenli denklemlerin tarihsel gelişim sürecine ve bu süreçte rol alan Brahmagupt, Harezmî ve Abdulhamid İbn Türk’ün çalışmalarına yer verilecektirİkinci Dereceden Denklemleİkinci Dereceden DenklemleBilim İnsanlarHarezmî çarpma başlığı altında 
+,
+x !
+!
+ gibi cebirsel sayı ifadelerinin (binom) çarpımını, toplam ve çıkarma başlığı altında cebirsel sayıların toplama ve çıkarma işlemlerini gösterir. Bölme 
+başlığı altında da kurallarını belirtir ve köklü ifadelerle ilgili olarak verdiği bu kuralların ispatını yapa. Daha sonra altı cebirsel denklem formülü ile verdiği sırayı takip ederek analitik çerçeve içinde 
+örnekler çözer, sonra yeni bir başlık altında karışık örneklerle çözümlerini verir. Ayrıca eserde dört 
+orantılı sayı yöntemini ele alır ve bu yöntemle çözülebilen problemlerden söz ederek örneklerini 
+sıralar. Pratik geometri kısmında ise bazı geometrik şekillerin alan hesaplarının formüllerini örneklerl anlatır. Bu kısmın en dikkat çekici tarafı iki geometri probleminin cebir yöntemiyle çözülmesidi. Bu tavır, matematik tarihinde cebrin geometrik problemlere uygulanışını açıkça gösteren 
+ilk teşebbüstür. Bu aynı zamanda cebir-geometri ilişkisine (analitik geometri) giden yolda basit 
+de olsa atılan ilk adımdır. Harezmî, eserinin son bölümünde ilk defa cebri, İslâm fıkhının (hukuk) ferâiz (farzlar; mirasta pay) meselesine uygular. Bu çerçevede değişik başlıklar altında çeşitli 
+vasiyet problemlerini cebir ve mukabele yöntemiyle çözer. Harezmî’nin geliştirdiği cebir her şeyden 
+önce ikinci derece denklemlerle sınırlı bir cebirdir. Bunun yanında negatif sayılar hiç kullanılmamış, 
+dolayısıyla denklemlerin tespitinde pozitif kökleri bulmakla yetinilmiştir. Ayrıca eserde sayılar dâhil 
+hiçbir aritmetiksel ve cebirsel işlem için sembol kullanılmamış ve bütün işlemler sözel olarak ifade 
+edilmiştir. Harezmî, Mezopotamya-Grek geleneğinin aritmetiksel niceliğiyle Mısır-Grek geleneğinin 
+geometrik niceliği yanında cebirsel niceliği açık şekilde ilk ortaya koyan ve cebirsel denklemleri 
+çözerken analitik çözüm yanında geometrik çizimi de kullanan ilk matematikçidir. Aritmetik ile ilgili 
+eserlerinin orijinali kayıp olsa da 1857’de bulunan Latince çevirisinde esere “konumuz algoritma” 
+diye başlar. Buradaki “algoritma” kelimesi matematik terimi olup Harezmî’nin (El-Harezmî) adından 
+gelmektedir. Burada Hint aritmetiğine uyguladığı yöntemin benzerini, cebirsel denklemleri çözerke cebre de uygulamıştır (Fazlıoğlu, 1997, s. 226-227; Cajori, 2015, s. 116, 124, 128, 143, 144). 
+                                                                                                                                 
+Düzenlenmiştir.  
+Abdulhamid İbn TürCebrin kurucularından olduğu kabul edilen İslam matematikçisidir. 
+Doğum tarihi belli değildir. Doğduğu veya yaşadığı şehir de kesinlikle 
+bilinmemekte, bu yerin Hazar denizinin güneyindeki Gîlân yahut Çin 
+Türkistanı’nın batısındaki Huttal olduğu sanılmaktadır. Biri Kitâbü’l-Câ-
+mi fi’l-Hisâb, diğeri Kitâbü’l-Muâmelât adını taşıyan iki kitabının 
+bulunduğu kayıtlıdır. Bazı kaynaklarda hesap ilminde çok bilgili ve 
+maharet sahibi olduğu, bu ilmin mensuplarının daima ondan bahsettikler söylenmektedir. Bu iki eserinden başka Kitâbü Nevâdiri’l-Hisâb 
+ve Havâssü’l-Adâd adlı iki kitabının daha varlığı bildirilmektedir. Ancak 
+bu iki adın bir tek esere ait olması da mümkündür. Harezmî ile aynı 
+dönemde yaşamıştır. Bu nedenle cebrin kurucusunun Harezmî mi Abdulhami ibn Türk mü olduğu konusu tartışmalıdır. Üç tip ikinci derece 
+denklemini sistemli bir yaklaşımla ve geniş açıklamalar yaparak ayrıntıl biçimde çözmektedir. Çözüm için seçtiği metot geometrik yoldur ve 
+Mezopotamya geleneğini devam ettirmekte, formül kullanmadan sözlü 
+anlatımla sonuca varmaktadır. Denklemleri incelemesi, kendinden 
+önce gelenlerden biraz farklı ve sonrakilere yol gösterecek şekildedir(Aydın, 1988, s. 225).                                                                                                                                    
+Düzenlenmiştirİkinci Dereceden Denklemleİkinci Dereceden DenklemleBilim İnsanlar7. yüzyılda yaşamış Hintli matematik ve astronomi bilginidi. Döneminde Hindistan’ın önde gelen matematik 
+merkezlerinden biri olan Ujjain’deki (Uycen) gözlemevinin 
+başına geçti. Bu gözlemevi önemli bir matematik astronom okulu hâline geldi. En önemli eseri Brahmasphutasiddhant’dır (Bırahmasfutissidanta) (Brahma Sisteminin 
+Düzeltilmiş Hâli) ve 628 yılında yazmıştır. 25 bölümden 
+oluşan bu eserin 12. ve 18. bölümleri matematik ile ilgilidir. 
+Brahmagupta, eserinde sayı sistemlerini, döneminin diğer 
+matematikçilerinden farklı bir anlayışla ele almıştır. Aynı iki 
+sayının birbirinden çıkarılmasının sonucunun “sıfır” olduğun tanımlamış, aynı zamanda “sıfır” ile ilgili bazı özellikleri 
+de belirlemiştir. Buna göre bir sayıya “sıfır” eklendiğinde 
+veya bir sayıdan “sıfır” çıkarıldığında sayı değişmeden 
+kalır ve “sıfır” ile çarpılan bir sayı “sıfır” olur. Brahmagupta 
+daha sonra “sıfır”a bölmeyi de içerecek şekilde aritmetiği 
+genişletmeye çalışmıştır. Ayrıca pozitif sayılar ve negatif 
+sayılar açısından bazı aritmetik kurallar da vermiştir.  Brahmagupt’nın bu eserde sunduğu bir başka aritmetik sonuç, 
+karekök hesaplama algoritmasıdır. Ayrıca ilk n doğal 
+sayısının karelerinin ve küplerinin toplamı olan aşağıdaki 
+formülleri bulmuşturv$
+$
+$
++
++
++
++
+=
++
++
++
++
++
++
+=
++
+^
+^
+^
+;
+E  
+Bazı cebirsel gösterimi geliştirmiş ve ikinci dereceden denklemleri çözmek için yöntemler sunmuştur. 
+Ayrıca belirsiz denklemlerin çözümü konusunda da yöntemler ortaya koymuştur. 
+• 
+ab+
+=
+ formundaki denklemlerin bilinmeyenleri x, y nin bulunması için çözüm metodu 
+sunmuştur• 
+ave a+
+=
+=
+-
+ formundaki ikinci derece denklemlerinin bilinmeyenleri olan x 
+ve y nin bulunması yöntemini vermiştir. 
+Örneğin +
+=
+ denkleminin çözümlerini,
+1, 3 , 6, 17 , 35, 99 , 204, 577 , 1189, 3363 ,x y =
+^
+^
+^
+^
+^
+^
+"
+,  olduğunu bulduBrahmagupta, Brahmasphutasiddhanta’da dikdörtgenlerin alanıyla ilgili görüşlerine de yer vermiştir. 
+Brahmagupta’nın ikinci eseri ise Khandakhadyaka (Kinkik) adını taşır. Bu kitabı 665 yılında yazmıştır. 
+Sekiz bölümden oluşan bu eseri ilk eserinin bir tekrarı niteliğindedir. Brahmagupta, bu ikinci eserinde 
+matematikle ilgili olarak sinüs değerlerini hesaplamak için interpolasyon (tahmin yoluyla çözme) formülün vermiştir. Ayrıca bir yılın 365 gün, 6 saat, 5 dakika, 19 saniye olduğunu da hesapladı (Cajori, 
+2015, s. 90, 105-108, 113-115, 119, 121; http://www-history.mcs.st-and.ac.uk/Biographies/Brahmagupt.html) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                DüzenlenmiştirBrahmagupta (Bırahmagupta) (598-670)
+İkinci Dereceden Denklemleİkinci Dereceden DenklemleHâle kardeşi Duru’dan 5 yaş küçüktür. Bu iki kardeşin yaşları çarpımı 24 olduğuna göre Duru’nun bugünk yaşını veren bir denklem yazınızDuru’nun bugünkü yaşına x denilirse Hale’nin yaşı x cinsinden -
+ olurYaşları çarpımı ise 24 olduğundan istenilen denklem,
+olu$
+=
+=
+-
+=
+-
+-
+-
+]
+Bilg• 
+!
+, ,
+,
+a b !
+ olmak üzere ab2 +
++
+=
+ biçimindeki denklemlere ikinci dereceden 
+bir bilinmeyenli denklem; a,b,c gerçek sayılarına ise bu denklemin katsayıları denir• Denklemi sağlayan x sayılarına denklemin kökleri, köklerin oluşturduğu kümeye ise denklemi çözüm kümesi denirb a 2$
+-
++
++
++
++

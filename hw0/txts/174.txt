@@ -1,0 +1,400 @@
+=
+:
+:
+@
+D  olduğundan y ∈ 
+, 0 :
+D olurarccosx = y, y ∈ 
+, @ 
+ cosy = x olury ∈ 
+, 0 :
+D olduğundan x ≥ 0 olur. sin2y + cos2y = 1 olduğunda&
+&
+&
+& veya =
+= -
+olu+
+=
+=
+=
+=
+ 
+x ≥ 0 olduğundan =
+ olur73. Örnek 
+`
+bbbbbbbbbbtan arccos +
+l ifadesinin değerini bulunuzÇözü&
+arccoco=
+=
+ olacak şekilde yandaki dik üçgen 
+çizildiğinde |BC| = 3k  ve |BC| = 5k olmak üzerPisagor teoreminden |AB| = 4k olur. Buradatan arccotacoABolu+
+=
++
+= -
+= -
+= -
+= -
+74. Örnek 
+534⟓
+T A) Aşağıda verilen cümlelerde boş bırakılan yerleri uygun ifadelerle doldurunuz1. sin2x + cos2x  = ................ olur.  
+2. 
+cov<
+<
+=
+ olduğunda tanx = ................ olur3. Ölçüsü 58  radyan olan açının bütünleri olan açı ................ radyandır4. y = cos(3x + 2) fonksiyonunun periyodu ................ olur5. arccosx fonksiyonunun değer kümesi ................  aralığındadır6. x ekseni ile pozitif yönde α derecelik açı yapan ışının birim çemberi kestiği noktanın apsis................ ile gösterilirB) Aşağıda verilen numaralandırılmış ifadeleri harf ile verilen ifadelerle eşleştiriniz.    
+7. sin60° (    )
+8. cos(2π - α) (    )
+9. arcsin1 (    )
+10. ta3+
+l(    )
+11. cos(arcsinx) (    )
+12. (1 - sinx).(1 + sinx) (    )
+a) –cotb) cos2c) 5π 
+ç) cosd) π 
+e) f) 
+-
+ÖLÇME VE DEĞERLENDİRM13.  
+14.  
+15.  
+16.  
+17.  
+Yukarıdaki şekilde ABCD dik yamuk, [AD]⊥[AB], 
+[AB]//[DC], lADl = 4 birim, lDCl = 3 birim vlABl = 6 birim olduğuna göre tanx  değerini 
+bulunuz. 
+ 
+  
+cos(2x - 1) + 2a = 7  eşitliğini sağlayan a tam 
+sayılarının toplamını bulunuz. 
+Şekildeki O merkezli 
+birim çemberde AK 
+doğrusu K noktasında 
+çembere teğettir. 
+A, O ve B noktaları 
+doğrusal olduğuna 
+göre -
+-
+ işleminin 
+sonucunu x cinsinden 
+bulunuz60°
+Yandaki O merkezli 
+birim çemberde 
+(
+)
+°
+m CB=
+\
+ olduğun göre 
+(
+)
+tan AO\  
+değerini bulunuzsisi+
+ ifadesinin değerini bulunuz 
+     
+ 
+    
+18.  
+sin330° + cos510° işleminin sonucunu bulunuz 
+Şekildeki birim 
+çember üzerinde 
+verilen A 
+noktasının apsisi  
+-
+ olduğuna 
+göre bu noktanın 
+ordinatını 
+bulunuz19.  
+Ölçüsü 
+-
+ radyan olan açının esas 
+ölçüsünün kaç radyan olduğunu bulunuz20.  
+C) Aşağıdaki soruların çözümlerini altlarındaki 
+boşluklara yazınızA(a, b)
+B(c, d)
+T 21.  
+Yukarıdaki şekil birbirine eş altı kareden 
+oluşmaktadır. Buna göre cosα değerini bulunuz 
+22.  
+sicosico-
++
++
+ ifadesinin en sade hâlini 
+bulunuz. 
+Şekilde ABC eşkenar 
+üçgen, 2|DC| = 3|BD| 
+olduğuna göre tanx 
+değerini bulunuz23.  
+24.  
+,
+! l ve  tanx = -3 olduğuna gör(
+)
+(
+)
+sico$
++
+-
+ çarpımının sonucunu 
+bulunuz25.  
+(
+)
+cosita°
+°
+°
+-
+-
+ ifadesinin değerini bulunuz 
+ 
+arctasin arccosπ 
+=
+^
+]
+g olduğuna göre x 
+değerini bulunuz26.  
+27.  
+Bir köprünün çelik halatlarını yenileyecek bir mühendi bu işlem için aşağıdaki ölçümleri yapmıştır. 
+• Köprünün birinci ayağının sol tarafındaki halat, 
+köprü ile 55° lik, sağ tarafındaki halat 35° lik açı 
+oluşturmaktadır• Köprünün ikinci ayağının sol tarafındaki halat, 
+köprü ile 35° lik, sağ tarafındaki halat 55°lik açı 
+oluşturmaktadır• Halatların köprüye tutunduğu ardışık iki nokta 
+arasındaki uzaklık 120 metredir. 
+Buna göre yenileme işlemi için kaç metre çelik 
+halatın kullanılacağını bulunuz(sin55° = 0,8 ve sin35° = 0,6 alınız.)
+ 
+.. 
+2 
+55°
+35°
+35°
+55°
+1. aya2. aya120 28.  
+30.  
+31.  
+29.  
+Bir lunaparkta bulunan dönme dolabın kabin 
+sayısı 12, yarıçap uzunluğu 18 metredirAhmet Bey ve çocukları, dönme dolabın yerden 
+3 metre yüksekteki kabinine biniyora) Dönme dolap saat yönünün tersinde 240° 
+döndüğünde Ahmet Bey ve çocuklarının içinde 
+bulunduğu kabinin yerden yüksekliğinin kaç 
+metre olacağını bulunuzb) Dönme dolabın saat yönünde 300° döndüğü 
+varsayıldığında Ahmet Bey ve çocuklarının 
+içinde bulunduğu kabinin yerden yüksekliğinin 
+kaç metre olacağını bulunuzİstanbul’da bulunan Ayasofya Camisi ile 
+Trabzon’da bulunan Ayasofya Camisi’nin enlem 
+(E) ve boylam (B) bilgileri şekilde verilmiştir. 
+Bu iki yapının 
+a) Enlemleri arasındaki farkı, 
+b) Boylamları arasındaki farkı derece, dakika, 
+saniye cinsinden bulunuzBir mühendis, teleferik tesisi için çizdiği projede 
+teleferiğin başlangıç noktasını A, çelik halatın 
+yatayda yaptığı açıyı 23° olarak alıyor. Öte 
+yandan Anıtlar Yüksek Kurulu, kültürel mirasın 
+tahrip olabileceği gerekçesiyle mühendisten 
+projeyi değiştirmesini istiyor. Bunun üzerine 
+projeyi değiştiren mühendis, A noktasını 
+şekildeki gibi 60 metre sağa kaydırıp çelik 
+halatın yatayda yaptığı açıyı bu defa 30° olarak 
+alıyor. Mühendisin yaptığı değişikliğin ardından 
+teleferiğin izleyeceği yolun kaç metre kısaldığını 
+bulunuz(sin7° = 0,12 ve sin23° = 0,39 alınız.)
+3 23°
+30°
+TrabzoE 41° 0' 10"
+B 39° 41' 25"
+İstanbuE 41° 0' 31"
+B 28° 58' 48"
+V0 hızıyla atılan ve yatayda yaptığı açı α olan bicismin düşeyde aldığı yol h = V0.sinα.t – 1 .g.t2,
+yatayda aldığı yol x = v0.cosα.t formülü ile 
+hesaplanır [t: Harekete başladıktan sonra cismin 
+havada kaldığı süre (sn.)]Yukarıdaki görselde bir tekerlekli sandalye 
+basketbolcusu, topu 1,25 metre yükseklikten 
+yatayda 37° lik açı ile potaya atıyor. Potanın 
+yüksekliği 3,05 metre olduğuna göre topun 
+çemberden geçebilmesi için elden çıkış hızının 
+kaç m/sn. olması gerektiğini bulunuz. 
+(g = 10 m/sn2., sin37° = 0,6 ve  cos37° = 0,8 
+alınız.)
+37°
+12 3,05 1,25 T 32.  
+34.  
+33.  
+Somali’nin başkenti Mogadişu ve oraya yakın 
+bir şehir olan Baydabo’da tedaviye muhtaç 
+çocuklar için hastanelerde gönüllü olarak görev 
+yapacak bir doktor, bu ülkeye ilk kez gidecektir. 
+Görev yapacağı şehirlerin sıcaklık değerlerini 
+merak eden doktor, araştırması sonucunda bu 
+değerleri gösteren yukarıdaki grafiğe ulaşıyor 
+ve sıcaklık değerlerinin tekrarlayan bir davranış 
+sergilediğini fark ediyorMogadişu şehrinin sıcaklığı 
+,
+si1 π 
+=
++
+-
+^
+]
+gBaydabo şehrinin sıcaklığı 
+,
+si2 π 
+=
++^
+l ile ifade edildiğine 
+göra) İki şehrin 15. aydaki sıcaklık farkını bulunuzb) İki şehrin en yüksek sıcaklığa hangi aylarda 
+ulaştığını bulunuz(
+3 = 1,7 alınız.)
+Sıcaklık (°C)
+Zaman (ay)
+MogadişBaydab9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 Oryantiring (yönbul),  her türlü arazide harita ve 
+pusula yardımı ile katılımcıların denetim noktaların bulmaya çalıştığı bir doğa sporudur. 
+Yukarıda Zeynep ve Melike’nin bir arazide 
+oryantiring yaparken kullandıkları harita verilmişti. Zeynep A noktasını V1 = 120 m/dk. hız ile 
+geçiyor. Bir dakika sonra aynı noktayı Melike 
+V2 = 100 m/dk. hız ve 37° lik bir sapma ile 
+geçiyor. Buna göre Melike’nin A noktasını geçtiği 
+andan 4 dakika sonra iki sporcu arasında oluşaca mesafenin kaç metre olacağını bulunuz(cos37°= 0,8 alınız.)
+ZeyneMelik37°
+İdeal tansiyonun (kan basıncı) üst değeri 
+120 mmHg (milimetre cıva), alt değeri 80 mmHg 
+olarak kabul edilir. Bu değerlef(t) = 100 + 20.sin2πt  biçiminde hesaplanırt, geçen süre (sn.) olmak üzere 
+a) t = 0, t = 0,25, t = 0,5, t = 0,75 ve t = 1 
+için tansiyon değerlerini bularak t ∈ [0, 1] nda 
+tansiyon grafiğini oluşturunuzb) Oluşturduğunuz grafiği yorumlayarak hangi 
+t değerleri için tansiyonun maksimum ve 
+minimum olduğunu bulunuzYandaki şekilde ABCD 
+kare, [DB] köşegen, 
+|DE| = 3|EB| olduğuna 
+göre 
+(
+)
+tan DE\  kaçtır?
+A) 1  
+B) 1  
+C) 3  
+D) 1 
+E) Yukarıdaki şekilde ABCD dik yamuk, [AB]⊥[AC],
+[AB]//[DC] |AB|= 10 birim, |DC| = |AD| = 6 birim 
+olduğuna göre 
+( )
+sin CV  kaçtır?
+A) 
+ 
+B) 
+ 
+C) 
+ 
+ 
+D) 
+ 
+E) 
+cosisico+
+-
+=
+ olduğuna göre cotx değeri 
+kaçtır?
+A) 2  
+B) 1  
+C) 
+-
+ D) 
+-
+ E) 2  ve sin=
+ olduğuna gör.cota-
+ ifadesinin değeri kaçtır?
+A) 
+-
+ 
+B) 
+-
+ 
+C)  
+       D) 
+-
+ 
+ 
+E) 
+-
+,
+,
+sicota°
+°
+°
+=
+=
+=
+ olduğun göre aşağıdakilerden hangisi doğrudur?
+A) c < a < b 
+ 
+ 
+B) a < c < b 
+C) b < a < c 
+ 
+ 
+D) c < b <  
+ 
+E) b < c < 30°
+ Tanımlı olduğu aralıkta 
+cosi-
+ ifadesi aşağıdakilerde hangisine eşittir?
+A) 1 
+ 
+B) cosx 
+ 
+C) sinx 
+ 
+D) 1 - sinx 
+E) -Şekildeki O merkezli 
+birim çemberde 
+[AB]⊥[AC]   ve  
+(
+)
+°
+m AC=
+\
+ 
+olduğuna göre 
+B noktasının 
+koordinatları toplamı 
+kaçtır?
+A) 
++
+           B) 
+-
++
+         C) 
++
+ 
+D) 
+-
+-
+  
+       E) 3  
+Şekildeki birim çemberd |KB| = a birim 
+ve |AK|  = b birim 
+olduğuna göre 
+sinα + cosα  aşağıdakilerde hangisine 
+eşittir?
+A) a + b  
+B) a - b                C) -a -  
+D) -a + b 
+E) a.35.  
+36.  
+37.  
+38.  
+39.  
+40.     
+41.  
+42.  
+D) Aşağıdaki çoktan seçmeli soruları okuyunuz 
+ve doğru seçeneği işaretleyinizT sicocosi+
++
+-
++
+ ifadesi aşağıdakilerdehangisine eşittir?
+A) 7  
+B) 5  
+C) 3  
+D) 6  
+E) 
+-
+Şekilde ABC dik üçgen, [AB]⊥[AC], 
+( )

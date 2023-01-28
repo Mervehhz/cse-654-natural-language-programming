@@ -1,0 +1,400 @@
+yükleri, aktiflikleri, yaptıkları kimyasal bağlar, metal/ametal karakteri gibi özellikler 
+yönünden benzer eğilimler gösterir. Elektronların bulunduğu alt kabuklar, periyodik 
+sistem üzerinde farklı bloklarla gösterilir. Görsel 1.18’ de, elektron alt kabuklarının 
+periyodik sistemdeki hangi bloklara denk geldiği farklı renklerle gösterilmiştir. 
+İnceleyiniz. 
+Görsel 1.18 Periyodik sistemde bloklaŞimdi periyodik sistemdeki blokların özelliklerini yakından tanımaya ne dersiniz?
+s Bloku ElementlerPeriyodik sistemde 1A ve 2A grubu elementleri, elektron dizilimleri s1  ve s2  ile 
+bittiğinden s bloku elementleridir. Bu elementlerin ortak özellikleri elektron vermeye 
+çok yatkındırlar ve bileşiklerinde pozitif değerlik alırlar. Hidrojen elementinin 1A grubund olmasına rağmen bir ametal olduğunu daha önceki yıllarda öğrenmiştiniz. Bu 
+blok elementlerinin hidrojen dışında hepsi metaldir. Elektron dizilimi ns1 ile biter ve 
+bir atom kaçıncı periyotta ise s orbitalinin baş kuantum sayısı da o sayı olur. Helyum 
+atomunda 1s2 elektron dizilimine sahip olduğundan bu blokta gösterilebilmektedir1. Ünite: Modern Atom TeorisKimya - Örneğin, Mg atomu 3. Periyot 2A grubundadır. Öyleyse elektron dizilimi 3s2  ile 
+biter. 4. periyottaki Ca elementinin elektron dizilimi 4s2 ile biters bloku elementlerinin özelliklerini sıralayacak olursak (Görsel 1.19);
+•
+En aktif metallerdir.  (H ve He hariç). Bu nedenle doğada saf halde 
+bulunmazla.      . Bileşikler hâlinde bulunurlar •
+Periyodik sistemin 1A ve 2A gruplarında bulunurlar (He 8A grubundadır)•
+Bileşiklerinde +1 ve +2 değerlik alırlar (He hariç)•
+Periyodik sistemde aynı periyotta yer alan elementlerden, atom yarıçapı en 
+büyük olan elementler s bloku elementleridir•
+Ametallerle elektron alışverişi yaparak iyonik bağlı bileşikler oluştururlar•
+Su ile tepkimeye girerek bazları, hava ile temas ettiklerinde metal oksitlerini 
+oluştururlar•
+Erime ve kaynama noktaları diğer metallerle kıyaslandığında düşüktür•
+İyonlaşma enerjileri ve elektronegatiflikleri düşüktürGörsel  1.19 s bloku elementlerp Bloku ElementlerBu blokta 3A, 4A, 5A, 6A, 7A ve 8A grubu elementleri (He hariç) bulunmaktadır. 
+Bu elementler arasında metal, ametal ve yarı metallerin olduğunu daha önceki konulard öğrenmiştinizPeriyodik sistemde metalik özellik periyotlarda soldan sağa doğru azalırken ametali özellik artar. Gruplarda bu değişim yukarıdan aşağıya doğru metalik özellik artarke ametalik özelliğin azalması şeklindedir. Şimdi p bloku elementlerini gruplar 
+olarak inceleyelim (Görsel 1.20)Görsel 1.20 p bloku elementler3A grubu elementleri; grubun ilk üyesi bor yarı metal, grubun diğer elementleri 
+metaldir (Görsel 1.21)GAIT3Görsel.1.21 3A grubu elementler5B: 1s2 2s2 2p13Al:1s2 2s2 2p6 3s2 3p31Ga: 1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p      3A grubu elementlerinin elektron dizilimlerine bakıldığında ns2 np1 ile bitmektedi.Grup elementlerinin soy gaz elektron dizilimine benzemek için s yörüngesindeki 
+2, p yörüngesindeki 1 elektronu kolaylıkla verip +3 değerlikli olmaları beklenir. Bileşiklerind genellikle kovalent bağ yapan bor bu özelliği göstermez. Ancak borun bileşi yaptığı elementlerin çoğunun elektronegatifliği büyük olduğundan bileşik içinde 
+bor, +3 değerlikli olarak kabul edilir. Bordan sonra gelen ikinci element alüminyum 
+1. Ünite: Modern Atom TeorisKimya - havayla kolay tepkime vererek alüminyum oksit bileşiğini oluşturur. Grup içinde yukarıda aşağıya doğru inildikçe elementlerin elektron vermeleri kolaylaşır. Talyum +3 
+değerliğine ek olarak yalnız p katmanındaki elektronu vererek +1 değerlikli de olabilir4A grubu elementleri; karbon (C) ametal, silisyum (Si) ve germanyum (Ge) yarı 
+metal, kalay (Sn) ve kurşun (Pb) metaldir (Görsel 1.22). Elektron dizilimleri ns2 np2 ile 
+biten p bloku elementleridir, değerlik elektron sayıları 4’tür. 
+GSSP4Görsel 1.22 4A grubu elementlerKarbon elementi metallerle iyonik bağlı ametallerle kovalent bağlı bileşik yapar. 
+Elektron dizilim6C: 1s2 2s2 2p2 şeklindedir. 4A grubu elementleri metallerle son katmanında bulunadört elektronu vererek “-4” iyon yüküne sahip iyonik bileşikler oluştururken, ametallerl elektronlarını ortaklaşa kullanarak hem “+2 ” hem de “+4 ” iyon yüküne sahip kovalen bileşikler olabilir. Silisyum ve germanyum yarı iletken özellik gösterir. Kalay aktif 
+değildir ve korozyona dayanıklı bir metaldir. Kalay ve kurşun suyla tepkime vermezler 
+ancak hidroklorik asit gibi asitlerle tepkimeye girerek hidrojen gazı oluştururlar. 
+5A grubu elementleri; azot (N), fosfor (P), arsenik (As), antimon (Sb), bizmut (Bi) 
+‘dur. N ve P ametal, As ve Sb yarı metal, Bi ise metaldir. (Görsel 1.23). Elektron 
+dizilimleri ns2 np3 ile bittiği için p bloğu elementleridir. N ve P metallerle iyonik bağ 
+yaparken ametallerle kovalent bileşikler oluşturur. 
+Örneğin; azotun elektron dizilimi 7N: 1s2 2s2 2p3 şeklindedir. Kalsiyum metali ilaralarında Ca3N2 iyonik bileşiği oluşur. Burada azot, “-3” değerliğini alırAzotun NO, NO2, N2O4, N2O5 gibi çok sayıda oksit bileşiği bulunmaktadırHavanın bileşiminde %78 oranında azot gazı (N2) bulunur. 
+BİLGİ KUTUS5A grubu elementlerinin sahip olacakları negatif iyon yükü –3’tür. Ancak sahip 
+olabilecekleri pozitif iyon yükleri değişkenlik gösterir. 
+ASBGörsel 1.23 5A grubu elementler6A grubu elementleri; oksijen (O), kükürt (S) ve selenyum (Se) ametal, tellür (Te) 
+ve polonyum (Po) yarı metaldir (Görsel 1.24). Elektron dizilimleri ns2 np4 ile bittiği 
+için p bloğu elementleridir.  6A grubu elementleri metallerle yaptıkları iyonik bileşiklerd  “-2” değerliğini alırlar. Ancak ametallerle yaptıkları kovalent bileşiklerde -2’den 
++6’ya kadar iyon yüküne sahip olurlarSTP6Görsel 1.24 6A grubu elementler7A grubu elementleri; flor (F), klor (Cl), brom (Br), iyot (I) ve astatin (At)’ dir 
+(Görsel 1.25). Tümü ametaldir. Astatin radyoaktiftir. Elektron dizilimleri ns2 np5 ile 
+bittiğinden p bloğunda bulunurlar. Bu grup elementleri, aktiftirler ve astatin hariç 
+doğada molekülleri halinde bulunurlar. Kararlı bileşiklerinde “–1” den  " +7" ye kadar 
+olan iyon yüküne sahiptirler. 
+1. Ünite: Modern Atom TeorisKimya - BCA7Görsel  1.25 7A grubu elementler8A grubu Asal Gazlar ( Soy Gazlar)
+Helyum (He), neon (Ne), argon (Ar), kripton (Kr), ksenon (Xe) ve radon (Rn) 
+başlıca asal gazlardır (Görsel 1.26). Asal gazlar havanın bileşiminde bulunur. 
+Helyum bazı radyoaktif maddelerin bozunma ürünü olarak da elde edilir.   Asal 
+gazların başlıca özellikleri şunlardır:
+•
+Doğada element halinde bulunur•
+Normal koşullarda gaz halinde bulunur•
+Metallerle, ametallerle ve birbirleriyle bileşik oluşturmaz•
+Kararlı bir yapıya sahiptirAsal gaz atomlarının en dış enerji düzeyleri elektronla tam doludur. Bu durum asal 
+gazlara kararlılık ve dayanıklılık verir. Helyum dışındaki diğer asal gazların dış enerji 
+düzeylerinde sekiz elektron bulunur. En dış enerji düzeyinde sekizden fazla elektron 
+bulunamaz. Onun için başka atomlardan elektron alamaz. Bu sekiz elektron oynak 
+(serbest) olmadığından elektron da veremez. Onun için iyonlaşmaz. Bu sebepten asal 
+gazlar kararlı yapıya sahiptir. Helyumun ilk enerji düzeyinde 2 elektronu vardır. Bu 
+düzey aynı zamanda en dış enerji düzeyidir. Ne elektron alır, ne de verirHANKXRGörsel 1.26 8A grubu elementlerd Blok Elementleri; d bloku elementlerinin tamamı metaldir. Bu blok elementlerin geçiş metalleri denir (Görsel 1.27) . Elektron dizilimleri ns2 (n–1) d ile biter. Bu 
+elementler bileşik oluştururken değerlik orbitalleri olan en sondaki s ve d orbitallerindek elektronlardan bazılarını verir. Bileşiklerinde değişik iyon yükleri alabilirler. 
+Örneğin:  Bakır +1 ve +2 iyon yüklerini , demir +2 ve +3 iyon yüklerini alabilir. 
+Orbitaller arası elektron geçişleri ayrıca geçiş elementi bileşiklerinin katı hâlde olmasın sağlar. Geçiş elementleri sertlikleri, yoğunlukları, ısı ve elektrik iletkenlikleri, 
+erime ve kaynama noktalarının yüksek olması ile tanınırGörsel 1.27 d bloku elementlerf Blok Elementleri; elektron dizilimleri f orbitali ile sonlanır. Bu blok elementleri 
+iç geçiş elementleri olarak adlandırılırlar. 14 adet lantanit, 14 adet aktinit elementi 
+vardır. Lantanitler grubunda bulunan Prometyum radyoaktif bir elementtir. 
+Aktinitlerin tamamı radyoaktiftir. Kimyasal özellikleri büyük benzerlikler gösterir. 
+Atom yarıçapları birbirine çok yakın elementlerdir. Aktinitlerin çoğu doğada 
+bulunamaz. Sentezleme yolu ile elde edilirler. Lantanitlerin ise çoğu doğada bir arada 
+bulunur. Aktif metallerdir. Periyodik cetvelin yapısını bozmamak amacıyla iki sıra 
+halinde periyodik sistemin altında gösterilmişlerdir (Görsel 1.28). Lantanit ve 
+aktinitlerin tamamı 4B grubundadı.    1. Ünite: Modern Atom TeorisKimya - Görsel 1. 28 f bloku elementlerAtomların elektron dizilimleri ile periyodik sistemdeki konumları arasında ilişkiler kurulurken en son orbitalin türünün önemli olduğu görüldü. Şimdi atomların 
+elektron dizilimlerini yaparak bloklarını bulacağınız aşağıdaki örneği inceleyinizAtoElektron dizilimBlo111s2 2s2 2p6 3s181s2 2s2 2p6 3s2 3p231s2 2s2 2p6 3s2 3p6 4s2 3d281s2 2s2 2p6 3s2 3p6 4s2 3d311s2 2s2 2p6 3s2 3p6 4s2 3d10 4p351s2 2s2 2p6 3s2 3p6 4s2 3d10 4pÖrne1.5 YÜKSELTGENME BASAMAĞI 
+Görsel 1.29 
+Soy gazlaHelyuKriptoArgoRadoNeoKseno2H10N18A36K54X86RSoy gazların (Görsel 1.29) kararlılıkları sebebiyle elektron 
+alışverişinde bulunma isteğinde olmadıklarını biliyoruz. Bu 
+grubun dışındaki elementler ise elektron alışverişi yaparak ya da 
+elektronlarını ortaklaşa kullanarak periyodik sistemde kendilerine 
+en yakın soy gazın kararlılığına ulaşır.  Metaller elektron verme, 
+ametaller ise elektron alma isteğindedirler.  Metal atomları ametal 
+atomları ile elektron alışverişi sonucunda iyonik bileşikleri 
+oluştururlar. Son katmanla-rında 1, 2 ve 3 elektronu bulunan 
+sırasıyla 1A, 2A ve 3A grubu elementleri bu değerlik elektronlarını 
+vererek “+” değerlik kazanırlar. 
+11Na: 1s22s22p63s1elektron dizilimine sahiptir. Değerlik elektronu sayısı 1’dirBu elektronu başka bir atoma vererek oluşturduğu kararlı bileşiklerinde “+1” değerli kazanır. 
+11Na+: 1s22s22p10Ne: 1s22s22p10. UYGULAM12Mg:1s22s22p63s2  elektron dizilimine sahiptir. Değerlik elektronları sayısı 2' dirBu elektronu vererek neon soy gazının elektron dizilimine ulaşır ve kararlılık 
+kazanır. 2 elektron verdiği için “+2” değerlik kazanır12Mg2+: 1s22s22p10Ne: 1s22s22p11. UYGULAM1. Ünite: Modern Atom TeorisKimya - 5A, 6A ve 7A grubu elementleri son katmanlarında 5, 6 ve 7 elektron bulunduran 
+atomlardır. Bu atomlar son katmanlarındaki elektron sayısını sekize tamamlamak için 
+elektron alarak “–” değerlik kazanırlar ya da değerlik elektronları kadar elektronu verere “+” değerlik kazanırlar. 
+15P:1s22s22p63s23p3 elektron dizilimine sahiptir. Değerlik elektronları sayıs5’dir. Fosfor üç elektron alarak son katmanındaki elektron sayısını sekize tamamla oktete ulaşır. 3 elektron aldığı için “–3” değerlik kazanır15P3-: 1s22s22p63s23p6 elektron dizilimine sahip olur ve kendine en yakın soy ga18Ar: 1s22s22p63s23p6     kararlılığına ulaşır12. UYGULAM Ametaller elektron vererek de soy gaz elektron düzenine ulaşabilirler. Bu durumda 
+atom “+” değerlik kazanır. 
+Örnek; fosfor bileşiklerinde “+5” değerlik alarak soy gaz kararlılığına ulaşır. 
+Bir atom kararlı hale gelebilmek için diğer atomlarla elektron alışverişi yapar ya da 
+elektronlarını ortaklaşa kullanır. Bu elektron sayısı, atomun yükseltgenme basamağı 
+olarak adlandırılır. Yani yükseltgenme basamağı denince bir atomun, bir molekülde 
+ya da iyonik bileşikte sahip olduğu yük sayısı anlaşılır. A grubu elementlerinin kararlı 
+iyon yükleri yükseltgenme sayılarıdırÖrneğin; Na+,  sodyumun +1 yükseltgenme durumudur ve bu hâlde sodyum +1 
+yükseltgenme basamağına sahiptir.  
+A grubu elementlerinin yükseltgenme sayıları aşağıdaki tabloda verilmiştir. İnceleyiniz. 
+Grupla1234567Değerlik orbitallersss2 ps2 ps2 ps2 ps2 pYükseltgenme 
+basamaklar++++2,
++4, --3, +3,
++4, +-2, +4,
++-1, +5,
++6, -1A, 2A ve 3A grubu elementleri son katmanlarında bulunan elektronları vererek 
+sırasıyla +1, +2, ve +3 yükseltgenme basamağını alırlar. 4A grubu metalleri p orbitalindek 2 elektronu vererek +2, değerlik elektronlarının tamamını vererek +4 yükseltgenm basamaklarını alır. Bu gruptaki ametaller ise –4 ile +4 arasındaki değerlerde 
+bulunur. 
+5A grubu elementlerinden metaller, p orbitallerinde bulunan 3 elektronunu verere +3, değerlik orbitallerinin tamamını vererek +5 yükseltgenme basamağını alır. Bu 
+grup ametalleri ise –3’den +5’e kadar bu aralıktaki yükseltgenme basamaklarını alabilirle. Yani anyon yükleri –3 iken yükseltgenme basamakları tablodaki değerlerdir6A grubu p orbitallerindeki 4 elektronu vererek +4, değerlik elektronlarının tamamın vererek +6, gruptaki ametaller ise örneğin oksijen 2 elektron alarak –2 anyon 
+yükünü alır. 
+7A grubu p orbitallerindeki 5 elektronu vererek +5, değerlik elektronlarının tamamın vererek +7, gruptaki ametaller ise -1 ile +7 arasındaki değerlerdeki 
+yükseltgenme basamağını alır. Örneğin; flor bir elektron alarak –1 anyon yükünü 
+alırÖrneAşağıda bazı atomların kararlı iyon yükleri ve bu iyonların elektron dizilimleri 
+verilmiştir. İnceleyiniz.  
+12Mg : ---. -. --12Mg2+ : -.   -.   -. -. -1s2 
+2s2 
+2p3s1s2        2s2 
+2p11Na : ---. -. --
+11Na+ : -.    -.    -. -. -1s2 
+2s2 
+2p3s1s2 
+2s2 
+2p9F : -.    -.    -. --
+9F– : -.    -.    -. -. -1s2 
+2s2 
+2p1s2     2s2        2p1. Ünite: Modern Atom TeorisKimya - Örnekte verilen iyonlarla oluşan iyonik bileşiklerde atomların yükseltgenme basamaklar iyon yükleridir. Kovalent bileşiklerde ise daha önceki yıllarda öğrenildiği gibi 
+iyonlar yoktur. O yüzden kovalent bileşiklerde yükseltgenme basamakları iyon yükü 
+değildir. 
+d bloku elementleri öncelikle s orbitalinde bulunan elektronları verir ve genellikl +2 yükseltgenme basamağındadır. Ancak d orbitalinden de elektron vererek farklı 
+yükseltgenme basamaklarını da alırlar. 
+Örneğin;
+26Fe : [Ar] -.    --
+-
+-
+-
+26Fe2+ : [Ar] --
+-
+-
+-
+4s3d3d26Fe3+ : [Ar] -
+-
+-
+-
+-
+3dH2O bileşiğinde H ve O atomlarının yükseltgenme basamakları 
+sırasıyla +1 ve -2' dirBir bileşikteki atomun yükseltgenme basamağını bulurken şunlar yapılır;
+1)
+1A grubunun yükseltgenme basamağı +1, 2A grubunun yükseltgenme basamağ +2, 3A grubunun +3'tür2)
+Oksijen bileşiklerinde -2, peroksitlerde -1, OF2 de ise +2 değerlik alır3)
+Hidrojen metallerle yaptığı bileşiklerde -1 (NaH, MgH2....), ametallerle yaptığı 
+bileşiklerde ise +1 yüklüdür (H2O, NH3, CH4..)4)
+Bileşikteki atomların yükseltgenme basamakları toplamı 0 dırÖrneNaNO3 bileşiğinde N’un yükseltgenme basamağını bulunuzÇözüm:
+Na = 1A grubu elementidir bu yüzden +1' dirO = -2 değerlik alırN= x olsu(+1.1) + x + (–2.3) = 0 (Bileşikteki atomların yükseltgenme basamakları toplamı 0' dır.) 
+x = +5 olur13. UYGULAMKMnO4 bileşiğinde Mn’ın değerliğini bulunuzÇözüm:
+ K = 1A grubunda yani +1 değerliO = -2 değerliMn = x olsu(+1.1) + x + (-2.4) =0           x =+7 olur14. UYGULAMMgCr2O7 bileşiğinde Cr’un değerliğini bulunuzÇözüm:
+Mg = 2A grubu yani +2 değerliO =-2 değerliCr = x olsu(+2.1) + 2x + (–2.7) = 2+2x –14 = 2x = x = +6 olur15. UYGULAM1. Ünite: Modern Atom TeorisKimya - ÖZEAtomun Kuantum Modeli,  Bohr Atom Modelinin sınırlılıklarını ortadan kaldırmıştı. Bohr Atom Modelinin sınırlılıkları;
+•
+Elektronlar çekirdek çevresinde dairesel çaplı belli yörüngelerde hareket 
+ederler•
+Birden fazla elektronu bulunan atomlarda elektronların çekirdekle ve birbirleriyl etkileşimleri hesaba katılmamıştır•
+Elektronun atomda hem yeri hem de hızı tam olarak belirlenemediği kanıtlanmıştıAtomun Kuantum Modelinde; 
+•
+Elektronlar kuantum sayıları ile ilişkilendirilir•
+Yörünge yerine orbital kavramı kullanılır•
+Orbitaller s, p, d ve f olarak adlandırılırPeriyodik sistemde;
+Soldan Sağa Doğru GidildikçAtom numarası artarAtom hacmi genellikle küçülürİyonlaşma enerjisi genellikle artarMetalik özellik azalırAmetalik özellik artarOksitlerin asit özelliği artarDeğerlik elektron sayısı artarElektron ilgisi genellikle artarElektronegatiflik artarYukarıdan Aşağıya Doğru Gidildikçe 
+Atom numarası artaOksitlerinin bazlığı artarAmetalik özellik azalırMetalik özellik artarİyonlaşma enerjisi azalırAtom hacmi artarDeğerlik elektron sayısı değişmez. 
+Elektron alma eğilimi genellikle azalır. 
+Elektronegatiflik azalır15Elektron Dizilimi 
+→
+15 P: 1s2 2s2 2p6 3s2 3p→
+-.  -.   -. -. -.  -.   -
+-
+-
+Değerlik orbitalleri →
+s2 pDeğerlik elektron sayısı 
+→
+Periyodik sistemdeki yeri 
+→
+3. Periyot 520CElektron Dizilimi 
+→
+20Ca : 1s2 2s2 2p6 3s2 3p6 4s→
+-.  -.   -. -. -.  -.   -. -. -.  -Değerlik orbitalleri →
+ sDeğerlik elektron sayısı 
+→
+Periyodik sistemdeki yeri 
+→
+4. Periyot 21. Ünite: Modern Atom TeorisOrbital Gösterimp bloku elementi 
+Orbital Gösterimi 
+s bloku elementi 
+Kimya - 1. Tabloda verilen kuralın adı ve açıklaması eşleştirmelerinden h    ngileri  doğrudur?
+Kuralın AdAçıklamasHunElektronlar eş enerjili orbitallere birer birer yerleşir. 
+IPaulElektronlar orbitallere en düşük enerjili orbitalde başlayarak yerleşir. 
+IIAufbaBir orbitale zıt yönlü en fazla iki elektron 
+yerleşirA) Yalnız B) Yalnız IC) I ve  ID) I, II ve II2Aşağıda verilenlerden hangisi Bohr atom modelinin sınırlılıklarından biri 
+değildir?
+A) Çok elektronlu atomlarda elektronların hareketlerini açıklamada yetersiz 
+kalmıştırB) Elektron gibi çok hızlı hareket eden taneciklerin konumunu belirlemek zordurC) Elektronlar yarıçapı belirli olan dairesel yörüngelerde hareket ederD) İyonların spektrumlarını da açıklamıştır3Temel hâlde 20 elektronu olan bir atomun 3p orbitalinde bulunan bir 
+elektronun;
+IBaş kuantum sayısı; n=3’türII. Açısal momentum sayısı; l=0’ dırIII. Manyetik kuantum sayısı; ml = 0’  dırBuna göre, kuantum sayıları ile ilgili verilen önermelerden hangileri 
+doğrudur?
+A) Yalnız B) I ve IC) I ve IID) I, II ve II1.ÜNİTÖLÇME VE DEĞERLENDİRME SORULAR1. Ünite Ölçme ve Değerlendirme Sorular4Nötr halde elektron dizilimi 1s2 2s2 2p6 3s2 3p6 4s2 3d1 şeklinde olan bir atomla 
+ilgili;
+IDeğerlik elektron sayısı 3’ türIIAtom numarası 21’ dirIII. Çekirdek yükü 21’  dirIV. Değerlik orbitali 3d’  dirVKüresel simetri özelliği vardırYukarıda verilen yargılardan kaç tanesi doğrudur?
+A) B) C) D) 5. 
+Yukarıda periyodik sistemde verilen X, Y, Z ve T elementleri için verilenlerden 
+hangisi yanlıştır?
+A) T elementi bir asal gazdır (soy gaz)B) X elementi s bloku elementidirC) Z elementi 7A grubunda yer alırD) Y elementinin iyonlaşma enerjisi en büyüktür6Aşağıda verilen atomların elektron dizilimlerinden hangisi yanlıştır?
+A) 20X: 1s2 2s2 2p6 3s2 3p6 4sB) 17Y: 1s2 2s2 2p6 3s2 3pC) 25X: 1s2 2s2 2p6 3s2 3p6 4s2 3dD) 30X: 1s2 2s2 2p6 3s2 3p6 4s2 3dKimya - 74Be, 5B, 7N, 8O atomlarının 1. iyonlaşma enerjilerinin büyükten küçüğe sıralanış hangi seçenekte doğru verilmiştir?
+A) N > O > Be > B) Be > B > N > C) Be > B > O > D) N > O > B > B8Periyodik sistemde p blokunda bulunan elementlerle ilgili verilen bilgilerdehangisi kesinlikle doğrudur?
+A) Hepsi ametaldirB) Soy gazlar p bloku dışındadırC) He elementi hariç elektron dizilimleri p ile biterD) Elektron alarak “+” değerlik alırlar9. 
+Yukarıdaki tabloya göre aşağıda verilen periyodik özelliklerden hangisi 1 yönünd artarken 2 yönünde azalır?    
+A) Elektron ilgisB) Atom yarıçapC) Metalik özelliD) Bazlık özelliğ10. 
+5A 62. periyoYukarıda N ve O elementlerinin periyodik sistemdeki yeri gösterilmiştir. 
+Buna göre aşağıdakilerden hangisi doğrudur?
+A) Elektron ilgileri N > O’ dirB) İyonlaşma enerjileri N > O’ dirC) Atom numaraları N > O’ dirD) Elektronegatiflikleri N > O’ dir11. Periyodik sistemde 1A ve ……… grubu elementleri s bloğunda yer alırlar. Elektro dizilimleri ………… ya da s2 orbitali ile biter. 
+Yukarıda verilen ifadede boş bırakılan yerlere sırasıyla hangi seçenekte belirtilenle getirilmelidir?
+A) 2A – sB) 2A – pC) 3A – sD) 3A – p12. Periyodik sistemde değişen özelliklerle ilgili;
+IAynı periyotta soldan sağa gidildikçe ametalik özellikler artarII. Aynı grupta yukarıdan aşağıya doğru inildikçe metalik özellikler azalırIII. Aynı periyotta soldan sağa gidildikçe oksit bileşiklerinin asit özelliği artarverilen cümlelerden hangisi doğrudur?
+A) Yalnız B) I ve IC) I ve IID) I, II ve II1. Ünite Ölçme ve Değerlendirme SorularKimya - Kimyanın Temel Kanunlar2. ÜNİTE KONULAR2.1. GAZLARIN ÖZELLİKLERİ VE GAZ YASALAR2.2. İDEAL GAZ YASAS2.3. GAZLARDA KİNETİK TEOR2.4. GAZ KARIŞIMLAR2.5. GERÇEK GAZLANELER ÖĞRENECEKSİNİZ?
+Daha önceki yıllarda gazların genel özelliklerini, gazların basınç, sıcaklık, hacim 
+ve miktar özelliklerini birimleriyle ifade etmeyi öğrenmiştiniz. Bu ünitede ise gaz 
+yasaları, ideal gaz yasası, gazlarda kinetik teori, gaz karışımları, gerçek gazlar işlenecektiBu bölümü tamamladığınızda;
+•
+Gazların betimlenmesinde kullanılan özellikleri açıklayabilecek,
+•
+Gaz yasalarını açıklayabilecek,
+•
+Deneysel yoldan türetilmiş gaz yasaları ile ideal gaz yasası arasındaki ilişkiyaçıklayabilecek,
+•
+Gaz davranışlarının kinetik teori ile açıklayabilecek,
+•
+Gaz karışımlarının kısmi basınçlarını günlük hayattan örneklerle açıklayabilecek,
+•
+Gazların sıkışma/genleşme sürecinde gerçek gaz ve ideal gaz kavramlarını karşılaştırabileceksini2. ÜNİTGAZLAdifüzyon 
+faz diyagramı 
+gerçek gaz 
+kritik sıcaklıdoygun buhar basıncı 
+hacikısmi basınç 
+mutlak sıcaklıbasınefüzyoideal gakritik basınstandart-normal koşullaANAHTAR KELİME VE KAVRAMLAR 
+Kimya - 2.2.1. GAZLARIN ÖZELLİKLERİ VE GAZ YASALARI 
+GAZLARIN ÖZELLİKLERGörsel 2.1 Oda koşullarında gaz hâlindeki elementle  Havanın %78 N2, %21 O2 ve %1 CO2 ve diğer gazlar içeren bir gaz karışımı 
+olduğunu biliyoruz. Periyodik tabloda 25oC ve 1 atm ’de gaz hâlinde bulunan on bir 
+element bulunmaktadır (Görsel 2.1). N2, O2, H2, F2, Cl2 molekülleri halinde 
+bulunurken He, Ne, Ar, Kr, Xe ve Rn tek atomlu bulunan gaz halindeki elementlerdir. 
+Ayrıca oksijenin diğer bir molekülü olan O3 ’da gaz hâlinde bulunur. NO2, CO, H2S, 
+SO2 gibi bileşikler de zehirli gaz maddelerdir. Soy gazlar hariç gaz maddeler 
+moleküler yapıdadır. Daha önceki yıllarda öğrendiğiniz gazların genel özellikleri 
+aşağıdaki gibi sıralanabilir. 
+•
+Bulundukları kabın hacmini ve şeklini alırlar•
+Maddenin en sıkıştırılabilir hâlidir•
+Konuldukları kaba tamamen yayılma ve dağılma özelliğine sahiptirler•
+Sıvı ve katılardan daha düşük yoğunluğa sahiptirler•
+Gazlar birbiri içinde homojen dağılırlarGazların betimlemesinde kullanılan özellikleri daha yakından tanıyalım2. Ünite: GazlaBasınGaz molekülleri arasındaki uzaklıklar katı ve sıvılara göre daha fazladır ve gazla serbestçe hareket halindedir. Bu esnada çarptıkları herhangi bir yüzeye basınç 
+uygularlar. Acaba bir tekerleğin belli bir yere kadar şişirebilmesinin sebebi ne olabilir? 
+Deodorant şişelerinin üzerinde ateşten uzak tutulması gerektiği ile ilgili uyarı bulunduğ hiç dikkatinizi çekti mi (Görsel 2.2)
+Görsel 2.2  Deodorant şişesGaz molekülleri içinde bulundukları kapta birbirlerine ve kabın çeperlerine çarpara kuvvet uygularlar. Gazların uyguladığı bu toplam kuvveti ölçmek kolay değildir 
+ancak basıncı ölçülebilir. 
+Atmosferdeki gazların yaklaşık %75’i yerküreden 
+yaklaşık 13 km uzaklıkta bulunur. 
+BİLGİ KUTUSYerkürk%%%%Atmosfer,  yeryüzüne yakın yerlerde yükseklere göre daha yoğundur yani havanın 
+yoğunluğu yeryüzünden uzaklaştıkça hızlı bir şekilde azalır. Atmosferdeki gazların 
+yaptığı basınç da yükseklere çıkıldıkça azalır. Atmosfer basıncı, atmosferdeki gazlar 
+tarafından uygulanan basınçtır. Bu basıncın nasıl ölçüldüğünü daha önceki yıllarda 
+öğrenmiştiniz. 
+Atmosfer basıncını ölçen aletlere barometre denir (Görsel 2.4). 1643 yılında Evangalist Torricelli’nin (İvancelista Toriçelli) geliştirdiği düzenek (Görsel 2.3) basit bir 
+barometredir. 
+Kimya - BoşluCıva sütununun 
+yüksekliği 76 cCıva(s)
+Atmosfer 
+basıncGörsel 2.3 Toricelli 
+barometre düzeneğGörsel 2.4 barometrGörsel 2.3’deki Toricelli düzeneğinde bir ucu kapalı ince uzun cam boru, içine cıva 
+doldurulmuş bir kaba ters bir şekilde dikkatlice konulur. Bir süre sonra cıva cam borud yükselmeye başlar. Cıvanın cam boruda yükselmesini sağlayan bu kuvveti Torricelli 
+borunun dışındaki kuvvet olarak algılamıştır. Bu basınç, atmosfer basıncı ya da açık 
+hava basıncı olarak adlandırılır. Cıva cam boruda belli bir yerde dengelenir. Deniz 
+seviyesinde ve 0 oC ’ta tam olarak 760 mm (76 cm) yükseklikte bir cıva sütunu 
+oluşur. O halde; 
+1 atm= 76 cm Hg = 760 mmH  olur. 
+Atmosfer ve mm Hg dışında yaygın olarak kullanılan bir basınç birimi de Torr’dur. 
+Bu birim Torricelli’ye adanmıştır. 1 mm Hg yüksekliğine eşdeğer olan basınca 1 Torr 
+denir. 1 mmHg = 1 Torr olacağından; 
+1 atm= 760 mm Hg= 760 TorAşağıda birim dönüşümleri ile ilgili verilen uygulamaları inceleyiniz.  
+38 cm Hg  kaç atm’dir?
+1 atm 
+76 cm Hg ise 
+x atm 
+38 cm Hg         
+x= 38 / 76 = 0,5 atm  
+1. UYGULAMÇözüm:
+•
+760 mm H1 atm is15, 2 mm Hx atm       
+x = 15,2 / 760 = 0,02 at•
+760 mmH760 Torr is15,2 mm H15,2 Torr olur    
+2. UYGULAM15,2 mm Hg kaç atm kaç Torr’dur?
+Pipetle bir içecek içilirken pipet içindeki içimizGörsel 2.5 Emme - basma spompası (tulumba)
+çektiğimiz sıvının üzerindeki basınç azalır. Bu 
+nedenle pipetin dışındaki atmosfer basıncı sıvıyı 
+ağzımıza doğru iter. Buna benzer ilkeyle çalışan 
+emme-basma su pompalarında, pompanın suyu 
+yukarı itme kuvveti, atmosferin suyu aşağı itme 
+kuvvetinden daha fazladır. (Görsel 2.5) Bu şekilde 
+kapalı bir kapta bulunan sıvıya uygulanan kuvvetl oluşturulan basınçtan yararlanarak gaz basıncı ölçülebilmektedir. Kapalı bir kaptak gaz basıncını ölçen aletlere manometre denir. Manometrenin çalışma ilkesi de 
+barometreninkine benzer. Cam balona bağlı bir “u” borusu ve boruda hareket eden 
+cıva kullanılır. Açık ve kapalı uçlu manometre olmak üzere iki tür manometre vardır 
+(Görsel 2.6)a) 
+b)-1- 
+b) -2-
+b) -3-
+Görsel 2.6  a) Kapalı uçlu manometre        b) Açık uçlu manometre 1-2-Kapalı uçlu manometrelerde gaz basıncı boru boyunca yükselen cıvanın yüksekliğin eşittir (Görsel 2.6a). Açık uçlu manometrelerde ölçülecek gaz basıncı atmosfer 
+basıncından cıva yüksekliği kadar fazla (Görsel 2.6 b (1)), atmosfer basıncından cıva 
+yüksekliği az (Görsel 2.6 b (2)) ya da atmosfer basıncına eşit olur ( Görsel 2.6 b (3)). 
+2. Ünite: GazlaÇözüm:
+Kimya - HaciBildiğimiz gibi hacim maddelerin kapladığı alandırKatı ve sıvıların belirli hacimleri olduğundan bu maddeler basıncın etkisi yok denecek kadar azdır. Ancak gaz 
+maddelerde durum farklıdır. Örneğin; şişirilmiş bir balon 
+sıcaklığı arttıkça belirli bir yere kadar genleşir ve patlar. 
+Bu sebeple 1 mol gazın hacmi sıcaklık ve basınç koşulların bağlı olarak değişebilir. 
+0 oC ve 1 atm basınç koşullarına normal koşullar denir. 1 mol gaz normal koşullar 
+altında 22,4 L hacim kaplar. 
+25o C ve 1 atm basınç koşullarına oda koşulları (standart koşullar) denir. 1 mol 
+gaz oda koşullarında 24,5 L hacim kaplar. 
+Metreküpün ast ve üst katlarLitrenin ast ve üst katlar1 m3 = 1000 dm3 
+1 dm3= 1000 cm1 cm3= 1000 mm1 L = 1000 mL 
+1 cm3= 1 m1 dm3 = 1 Hacim birimleri m3 ve L ile ifade edilir. 
+SıcaklıSıcaklık arttıkça gaz taneciklerinin hızları da artar. Aynı sıcaklıkta tüm gazların ortalam kinetik enerjileri de eşit olur. Gazlarda sıcaklık birimi olarak Kelvin sıcaklık 
+birimi kullanılır. “T” ile gösterilir. 
+0 oC = 273 T( K) = t ( oC) + Bütün moleküllerin hareketsiz kaldığı -273  oC ’ a mutlak sıfır noktası   denir ve 
+Kelvin ölçeğine mutlak sıcaklık denirGörsel 2.7 Şişirilmiş baloAşağıda sıcaklık birimleri ile ilgili verilen dönüşümleri yapınız. 
+127 oC = …… T( K) = t ( oC) + 273 
+T = 273 + 27 = 300 2500 oK = …… o( K) = t ( oC) + 500 – 273 = 227 o1. UYGULAMMadde miktarı (mol sayısı)   
+Avogadro sayısı (N= 6,02. 1023) kadar atom ya da molekül içeren maddeye 1 mol 
+madde dendiğini daha önceki yıllarda öğrenmiştiniz. 
+Örneğin; 
+•
+1 mol O atomunun kütlesi= 16 •
+1 mol CO2 molekülünün kütlesi= 44 •
+6,02.1023 tane H atomu = 1 mol H atom•
+NA tane H2O molekülü = 1 mol H2O molekülü (NA = 6,02.1023)
+Mol sayısı hesaplanırken;
+n= m / MA 
+n; mol sayısm; kütlMA; molekül kütlesi 
+n = N / NN; tanecik sayısNA; Avagadro sayısn = V(Normal koşullarda) / 22,formülleri kullanılır. Ayrıca bütün gazların 1 molünün normal koşullarda ( 0 oC ve 
+1 atm basınçta) 22,4 litre hacim kapladığını belirtmiştik.  
+2. Ünite: GazlaÇözüm:
+Kimya - 1NK’da (Normal koşullarda) 44,8 L hacim kaplayan bir gazın mol sayısı nkadardır?
+Çözüm:  NK’da; 
+1 mol gaz         22,4 L hacim kaplaX mol gaz        44,8 L hacim kaplaX= 44,8 / 22,4 = 2 mol gaz 
+216 g SO2 gazı kaç moldür? (S: 32, O: 16)
+Çözüm: 
+MA = 32 + 16.2 = 32 + 32 = 64 g 
+n = 16 / 64 = 0,25 mo33 mol H2O molekülünün içerdiği tanecik sayısı ne kadardır?
+Çözüm: 
+3 = N / NA 
+ N = 3.N2. UYGULAMGAZ YASALARI 
+Gazların temel özellikleri arasındaki ilişkilerden yola çıkarak gaz yasaları oluşur. 
+Şimdi bu yasaları irdeleyelim. 
+1. Basınç- Hacim İlişkisi (Boyle - Mariotte (Boyl- Mariot)Yasası)
+1962’de Robert Boyle (Rabırt Boyl) basit gaz yasalarının ilkini hava ile yaptığı dene ile bulmuştur. Yasa kendi adıyla Boyle Yasası olarak bilinir. 
+Boyle yasasına göre, sabit sıcaklıkta ve sabit bir miktarda bir gazın hacmi basınçla 
+ters orantılıdır (Görsel 2.8)PPVV(a) 
+(b)
+Görsel 2.8 a) Yüksek basınç düşük hacim 
+b) Düşük basınç yüksek haciHacim (V)   α  1 / Basınç (P)   veya      P.V = sabit (n, T sabit) 
+Basınç – hacim arasında aşağıdaki gibi bir grafik çizilir. 
+P(atm)
+V(L)
+(Mol sayısı ve sıcaklık sabit)
+PV1 VPP1 . V1 = P2 . V2 = sabiÇözüm: 
+P1= 2 atm 
+V1= 5 L P2= 
+10 atm 
+P1. V1 = P2. V2. 5 = 10. VV2 = 1 V2= ?
+3. UYGULAMBelirli sıcaklıkta bir miktar oksijen gazı 2 atm basınçta 5 litre hacim 
+kaplamaktadır. Aynı sıcaklıkta bu gazın basıncı10 atm'ye çıkarılıyor. Buna göre 
+bu gazın son hacmi kaç litre olur? 
+Birbiriyle tepkime vermeyen gaz karışımlarında;
+P1 . V1 + P2 . V2 + P3 . V3 + … = Pson . Vson formülü kullanılır2. Sıcaklık- Hacim İlişkisi (Charles (Çarls)Yasası)
+Şişirilmiş bir balonu bulunduğu ortamdan daha sıcak bir ortama koyduğunuzdhacminin arttığına ya da aynı balonu beton bir zemine koyduğunuzda balonun hacmini küçüldüğüne şahit olmuşsunuzdur.  Hacmin sıcaklıkla nasıl değiştiğini anlayabilme için gazın miktarının ve basıncının sabit kalması gerekir. Basıncı sabit tutmak 
+için de sürtünmesi ihmal edilmiş pistonlu kaplar kullanılır (Görsel 2.8 pistonlu kap). 
+Charles ve Gay Lussac basınç sabit kalmak koşuluyla gazların sıcaklık-hacim değişimlerin incelemişlerdir. Sabit basınçtaki sabit miktardaki bir gaz için, hacim sıcaklıkla 
+doğru orantılı olarak değişir.    
+2. Ünite: GazlaKimya - T2,T1,VVHacim V(L)
+Sıcaklık T(K)
+TVVVVTTT-=
+ = sabit (Oranlar eşittir)
+Sabit basınçta belirli miktardaki bir gazın 127 oC ’da 30 litre hacim kaplamaktadı. Bu gazın sıcaklığını 227 oC ’a çıkardığımızda kaç litre hacim kaplar?
+Çözüm: 
+T1= 127 + 273 = 400 =
+30 / 400 = V2 / T2= 227 + 273 = 500 K 
+V1= 30 L 
+V2=? 

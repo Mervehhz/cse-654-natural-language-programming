@@ -1,0 +1,400 @@
+!
+ olmak üzere ab2 +
++
+=
+ denkleminde =
+ için denklem 
+ab2 +
+=
+ biçiminde yazılır ve ortak çarpan parantezine alma yöntemi kullanılarak çözüm 
+kümesi bulunabilir2 -
+=
+ denkleminin gerçek sayılar kümesindeki çözüm kümesini bulunuzise $
+-
+=
+-
+=
+]
+ olur. Buradan vy=
+-
+=
+ için =
+ olurDolayısıyla 
+,
+0 = "
+,  olur-
++
+=
+ denkleminin gerçek sayılar kümesindeki çözüm kümesini bulunuzx2  yerine t yazılarak değişken değiştirme yöntemi uygulanır. Verilen denklem ikinci dereceden denkleme 
+dönüştürülmüş olur. 
+,
+,
+,
+(
+) (
+)
+veya veyveya olu1 1 2 &
+&
+$
+"
+"
+-
+-
+=
+=
+=
+=
+=
+=
+=
+= -
+-
+-
++
+=
+-
++
+=
+-
++
+=
+^
+"
+,
+ 
+2 -
+=
+ denkleminin gerçek sayılar kümesindeki çözüm kümesini bulunuz2 -
+=
+ ise 2 =
+ ve 2 =
+ olur. Buradan 
+vey1 =
+= -
+ bulunur. 
+Dolayısıyla 
+,
+2 = -
+"
+,  olurİpuc,
+,
+ve a b !
+!
+ olmak üzere ab2 +
++
+=
+ denkleminde =
+ ise bu denklem 
+a2 +
+=
+ olur. Buradan ac ve = -
+= -
+ bulunur    • 
+ise ab-
++
++
+=
+ denkleminin kökleri c veya =
+-
+= -
+-
+ olur    • 
+ise ab-
++
++
+=
+ denkleminin gerçek kökleri yoktur. Dolayısıyla 
+=
+ olurİkinci Dereceden Denklemleİkinci Dereceden Denklemle2 -
+=
+ denkleminin gerçek sayılar kümesindeki çözüm kümesini bulunuzise 2 -
+=
+=
+ olur. Buradan vey1 =
+= -
+ olurv2 2 =
+-
+= -
+ olarak yazılırsa 
+,
+2 3 2 = -
+"
+,  bulunur-
+-
+=
+ denkleminin gerçek sayılar kümesindeki çözüm kümesini bulunuz-
+-
+=
+ ise 
+-
+=
+ veya 2 = -
+ olur. Herhangi bir gerçek sayının karesbir negatif sayı olamayacağından verilen denklemin 
+=
+ olurİkinci Dereceden Bir Bilinmeyenli Denklemin Köklerini Veren Formül ve 
+Diskriminant Kavram,
+,
+ve a b !
+!
+ olmak üzere abise b $
+$
++
++
+=
++
++
+=
+ olurParantezin içindeki ifadeyi tam kare yapmak için ifadeye 
+ eklenir ve çıkarılırs 
+olu$
+=
+=
+4b aaa2$
++
++
+-
++
+=
++
+-
+-
++
+-
+-
+=
++
+-
++
+d^
+44444444  
+Buradan ac veya a+
+=
+-
++
+= -
+-
+ yazılır. Bu iki eşitlikte 2  
+olacağından ac veya a= -
++
+-
+= -
+-
+-
+ olarak bulunur. Böylece 
+ab2 +
++
+=
+ denkleminin kökleri ac veya a1 = - +
+-
+= - -
+-
+ olur. Bu 
+durum a"
+= -
+-
+1,  olarak  ifade edilebilirİkinci Dereceden Denklemleİkinci Dereceden Denklemle2 -
++
+=
+ denkleminin gerçek sayılar kümesindeki çözüm kümesini bulunuz2 -
++
+=
+ denkleminin katsayıları; =
+, ve = -
+=
+ olura4 9 $
+$
+=
+-
+= -
+-
+=
+-
+=
+^
+ olduğundan =
+ olur (Kökler çakışıktır.). Burada 2 $
+=
+= -
+= - -
+=
+=
+^
+ olup denklemin Ç= &
+0  olarak bulunur2 +
+-
+=
+ denkleminin gerçek sayılar kümesindeki çözüm kümesini bulunuz2 +
+-
+=
+ denkleminin katsayıları; =
+, =
+ ve = -  dır. Önce diskriminant ( 3 ) hesaplanarak 
+köklerin varlığı araştırılıraolu$
+$
+=
+-
+=
+-
+-
+=
++
+=
+^
+ olduğundan 2 +
+-
+=
+ denkleminin birbirinden farklı iki gerçek kökü vardır ve bu kökler;
+,
+2 2 $
+$
+= - +
+= - +
+= - +
+=
+= - -
+= - -
+= - -
+= -  olarak bulunurBuradan 
+,
+6 = -
+"
+,  olurİpuc, ,
+ve a b !
+!
+ olmak üzerab2 +
++
+=
+ denkleminin köklerini veren bağıntıda a2 -
+ ifadesine denklemin diskriminant denir ve  3  (delta) ile gösterilirab2 +
++
+=
+ denklemind• 
+a=
+-
+ ise bu denklemin iki farklı gerçek kökü vardır ve bu kökler,
+ve = - +
+= - -
+  olur• 
+a3=
+-
+=
+ ise bu denklemin kökleri birbirine eşittir (çakışık iki kök). Bu kökler,
+21 =
+= -
+ olarak ifade edilir• 
+a=
+-
+ ise bu denklemin gerçek kökleri yoktur. Denklemin R  deki çözüm kümes boş kümedir. Ç=
+ olurİkinci Dereceden Denklemleİkinci Dereceden DenklemleBir ABC üçgeninde A köşesinden BC kenarına çizilen yükseklik BC kenar uzunluğundan 4 cm daha kısadı. ABC üçgeninin alanı 
+c2  olduğuna göre BC  nun kaç santimetre olduğunu bulunuzB=
+ cm olsun. Bu durumda  ca =
+-
+^
+ olur. Bu bilgiler yardımıyla bir AB&  aşağıdaki gibi çizilebili44444444444444444444 -
+a A AB$
+$
+=
+=
+-
+=
+^
+^
+&
+ isve -
+=
+-
+-
+=
+ denklemi elde edilir. 
+Bu denklemin katsayıları; =
+, = -  ve = -  olur. 
+a4 $
+$
+9 =
+-
+= -
+-
+-
+=
++
+=
+^
+^
+ olup 
+9  olduğundan denklemin birbirinden farklı 
+iki gerçek kökü vardır. Bu kökler;
+2 2 10 ,
+2 2 $
+$
+$
+$
++
+-
+- -
+- -
+- -
+-
+-
+-
+-
+=
++
+=
+=
++
+=
++
+=
++
+=
+=
+=
+=
+=
+^
+^
+^
+^
+olarak bulunurx değeri uzunluk belirttiğinden negatif bir sayı değeri olamaz. Dolayısıyla 
+Bcm olu=
+=
++
+ 
+Aşağıdaki denklemlerin gerçek sayılar kümesindeki çözüm kümesini bulunuza) 2 +
++
+=
+       b) +
+=
+-
+a)  2 +
++
+=
+ denkleminin katsayıları; =
+, ve =
+=
+ olura4 2 $
+$
+=
+-
+=
+-
+=
+-
+= -
+ bulunur.  
+ olduğundan 2 +
++
+=
+ denkleminin gerçek sayı kökleri yoktur. 
+Dolayısıyla 
+=
+  olurb)  +
+=
+-
+ denkleminin katsayıları; =
+, ve =
+=
+-
+ olura$
+$
+=

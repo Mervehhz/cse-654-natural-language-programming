@@ -1,0 +1,400 @@
++
++
++
++
+bbb lilili$
+$
+$
+$
+-
+-
+=
+-
+-
++
+=
+-
++
+=
+-
++
+= -
+=-
+"
+"
+"
+-
+$
+bulunu^
+^
+]
+]
+]
+li4 -
+-
+"
+  ifadesinin değerini bulunuzli-
+-
+=
+-
+-
+=
+"
+ belirsizliği vardır+
+-
+-
++
+lilililibulunu4 2 $
+-
+-
+=
+-
+=
+-
+=
+-
++
+-
+=
+=
+"
+"
+"
+"
+^
+^
+lia-
+-
+-
+=
+"
+  eşitliğini sağlayan a değerini bulunuzlia-
+-
+-
+= -
+-
+"
+=
+ için verilen limit ifadesinin payı sıfır olur. Bu ifadenin paydasının sıfır olmaması durumunda 
+limit değeri 0 olur. Verilen limitin değerinin 4 olması, ifadenin paydasının da sıfır olması durumunda 
+ortaya çıkacak olan belirsizliğin giderilmesi ile mümkün olabilir. Buna göre 
+&
+-
+-
+=
+=-  
+bulunurÇÖZÜÇÖZÜÇÖZÜÖRNEÖRNEÖRNEMatematik lia-
+-
++
+"
+  ifadesinin değeri bir gerçek sayı olduğuna göre bu limit değerini bulunuzli-
+-
+=-
+"
+  olduğuna göre a değerini bulunuz=
+ için verilen limit ifadesinin paydası sıfır olur. Bu durumda limitin değerinin 
+-  olması anca bu ifadenin payının da sıfır olması durumunda ortaya çıkacak olan belirsizliğin giderilmesi ile 
+mümkün olabilir. Buna göre i in =
+-
+=
+ olmalıdır&
+=
+-
+=
++
++
+lililibulunu3 $
+$
+-
+-
++
+=
+-
+-
+-
+=
++
++
+-
+=
++
++
+-
+=
+"
+"
+"
+$
+^
+]
+^
+li-
+-
+=
+"
+eşitliğinde b sıfırdan farklı bir gerçek sayı olduğuna göre b değerini bulunuzli-
+-
+=
+-
+-
+=
+-
+"
+^
+^
+bulunu&
+=
+=
+ için verilen limit ifadesinin paydası sıfır olur. Bu durumda limitin değerinin bir gerçek sayı 
+olması ancak bu ifadenin payının da sıfır olması durumunda ortaya çıkacak olan belirsizliğin giderilmes ile mümkün olabilir. Buna göre 
+&
+uo-
+=
+=
+ Bu durumdlia-
+-
++
+=
+-
+"
+=
+ için verilen limit ifadesinin payı sıfır olur. Bu durumda limitin değerinin 0 dan farklı bir 
+gerçek sayı olması ancak bu ifadenin paydasının da sıfır olması durumunda ortaya çıkacak olan 
+belirsizliğin giderilmesi ile mümkün olabilir. Buna göre 
+&
+bulunu-
+=
+=
+ Bu durumda 
+ÇÖZÜÇÖZÜÇÖZÜÖRNEÖRNEÖRNETüre-
+-
+li-
+"
+  ifadesinin eşitini bulunuzli2 $
+-
+-
+=
+-
+-
+=
+"
+-
+-
+ belirsizliği vardır-
+-
+-
+lililihbulunu$
+$
+$
+-
+=
+-
+-
++
+-
+=
+-
+-
+=
+-
+-
++
+=
+-
+-
+=
+"
+"
+"
+]
+]
++
+-
+-
++
++
++
++
+lili-
+-
+=
++
++
++
+"
+"
++ =
+=
+bulunu=
+^
+^
+^
+f =
+^ "
+"
+f ^ f ^ "
+-
+Yanda grafiği verilen f =
+^  fonksiyonun 
+grafiği incelendiğinde x in sonsuza giderken 
+f ^ h in 0 a yaklaştığı görülmektedir. Benzer 
+şekilde x in eksi sonsuza giderken f ^ h in 0 a 
+yaklaştığı görülmektedir. Bu durumda 
+lili=
+=
+"
+"
+-
+ 
+olurÇÖZÜÖRNEUyarMatematik ,
+,
+f aais$
+=
+-
++
+-
+-
+is]
+]
+*
+ 
+biçiminde tanımlı f ] g fonksiyonunun yalnız bir x değeri için limiti yoktur. Buna göre a nın alamayacağ değerlerin toplamını bulunuzf ] g parçalı fonksiyonunun =
+ dışında her x değeri için limiti vardır. O hâlde fonksiyonun =
+ 
+için limiti yoktur. Bu durumda fonksiyonun =
+ için sağdan ve soldan limitleri birbirinden farklı 
+olmalıdır. Buna gör&
+!
+-
++
+-
++
+olu&
+&
+lili$
+$
+!
+-
++
+-
+-
+"
+"
+-
++
+!
+!
+-
+-
+]
+]
+]
+a sayısı 2 -
+-
+=
+ denkleminin kökleri olamayacağından a nın alamayacağı değerler toplaı 2 -
+-
+=
+ denkleminin kökler toplamı olan 5  olurYanda f =
++
+]
+g fonksiyonunun grafiği verilmiştir. 
+Buna göre aşağıdaki limit değerlerini bulunuz. 
+Limit Uygulamalar)
+)
+lilif f "
+"
+-
++
+]
+]
+)
+)
+lilif f "
+"
+-
++
+]
+]
+f +
+^
+h fonksiyonunun grafiğini x ekseni boyunca sağa doğru 2 birim öteleyerek f ^ h fonksiyonunu grafiği aşağıdaki gibi elde edilir. Bu grafiğe gör)
+)
+)
+)
+lilililif f f f olarak bulunu=
+=
+=
+=
+"
+"
+"
+"
+-
++
+-
++
+]
+]
+]
+]
+ÇÖZÜÇÖZÜÖRNEÖRNETüre+
+lililolof f olu$
+=
++
+-
+-
+=
+-
+-
+=
+-
+-
+=
+-
+=
+"
+-
++
+"
+]
+]
+]
+]
+,
+is+
+,
+lof isa$
+#
+#
+=
++
+-
+-
++
+:
+is,
+]
+]
+[
+\
+]]]]]]
+]]]]]]
+f :
+] g fonksiyonunun her x gerçek sayısı için limiti vardırBuna göre a ve b sayılarını bulunuzf ] g fonksiyonunun her x gerçek sayısı için limiti olduğuna göre ve =
+=
+ kritik noktalarınd da limiti vardır+
+lililolof f olu$
+=
+=
++
+=
++
+=
++
+=
++
+"
+-
++
+"

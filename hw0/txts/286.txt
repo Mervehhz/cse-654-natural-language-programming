@@ -1,0 +1,400 @@
+f = ] g fonksiyonunun grafiği x ekseninin altında kaldığından 
+Riemann alt  toplamı negatif olur. Buna göre f ] g fonksiyou ile x ekseni arasında kalan alan yaklaşık olarak 700 
+birimkare bulunurf = ] g fonksiyonunun 
+,
+2 @ 5 eşit alt aralığa ayrılarak 
+hesaplanan Riemann üst toplamı B is            
+x x x x x olu$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+=
++
++
++
++
+=
+-
++
+-
++
+-
++
+-
++
+-
+=-
+-
+-
+-
+-
+=-
+]
+]
+]
+]
+]
+]
+]
+]
+]
+]
+f = ] g fonksiyonunun grafiği x ekseninin altında kaldığından 
+Riemann üst toplamı negatif olur. Buna göre f ] g fonksiyou ile x ekseni arasında kalan alan yaklaşık olarak 420 
+birimkare bulunurÖRNEÇÖZÜMatematik c)
+f = ] g fonksiyonunun 
+,
+2 @ 5 eşit alt aralığa ayrılarak 
+bu aralıkların orta noktalarına göre hesaplanan Riemann 
+toplamı C is x x x x x $
+$
+$
+$
+$
+=
++
++
++
++
+-
+-
+-
+-
+-
+=-
+-
+-
+-
+-
+olu$
+$
+$
+$
+$
+=
++
++
++
++
+=-
+]
+]
+]
+]
+]
+]
+]
+]
+]
+]
+f = ] g fonksiyonunun grafiği x ekseninin altında kaldığında Riemann  toplamı negatif olur. Buna göre f ] g fonksiyou ile x ekseni arasında kalan alan yaklaşık olarak 550 
+birimkare bulunurYanda 
+,
+2 @ nda tanımlı f =
++
+]  fonksiyonunun 
+grafiği verilmiştir. Grafikte 3 eşit alt aralığa göre gösterilmi olan Riemann toplamını hesaplayınızx x x bulunu3 3 3 $
+$
+$
+$
+$
+$
+=
++
++
+=
++
++
+=
++
++
+=
+]
+]
+]
+,
+2 @ 3 eşit alt aralığa ayrıldığından ortak genişlik 
+oluD =
+-
+=
+Grafikte verilen Riemann toplamları 
+,
+ve =
+=
+=
+ noktalarına göre gösterilmiştir. Bu 
+durumda f = ] g fonksiyonunun 
+,
+2 @ 3 eşit alt aralığa ayrılarak hesaplanan Riemann toplamı 
+A isÖRNEÇÖZÜİntegraŞekil 1 deki havuzun tabanı metrekare maliyeti 50 TL olan fayanslarla kaplanacaktırBu havuzun alanı Riemann toplamı mantığıyla Şekil 2 deki gibi genişliği 1 metre olan alt aralıklara 
+ayrılarak oluşturulan dikdörtgenler yardımıyla hesaplanacaktırRiemann toplamı Şekil 2 de verilen ölçülere göre hesaplanırsa havuzun tabanının fayans ile kaplanmas için harcanacak paranın yaklaşık olarak kaç TL olacağını bulunuzVerilen Şekil 2 incelendiğinde havuzun alanı, 14 tane dikdörtgenin alanlarının toplamı ile yaklaşık 
+olarak hesaplanabilir. Buna göre havuzun alanı yaklaşık olarametrekare olu1 1 1 1 $
+$
+$
+$
+$
+$
+$
+$
++
++
++
+=
++
++
++
+=
+]
+]
+]
+]
+Bu durumda havuzun tabanının fayans ile kaplanması için harcanacak para 
+T50 $
+=
+ 
+olarak bulunurŞekil Şekil Bilinen geometri formülleri ile hesaplanamayan bazı sınırlı bölgelerin alanlarının yaklaşık 
+değerleri Riemann toplamları yardımı ile hesaplanabilirBu havuzun alanının yaklaşık olarak hesaplanması için genişliği 1 metre olan dikdörtgenler kullanılmıştı. Kullanılan dikdörtgenlerin genişliği küçüldükçe kullanılacak olan dikdörtgen sayısı da 
+artacaktır. Dikdörtgen genişliği sıfıra yaklaşırken dikdörtgenlerin sayısı da sonsuza yaklaşır. Havuzu alanı, bu dikdörtgenler yardımıyla dikdörtgen sayısı sonsuza yaklaşırken limit olarak ifade 
+edilirse bulunacak limit değeri alanın gerçek değerini verecektirÖRNEÇÖZÜUyarMatematik 0,5 1,5 2 2,5 2 1,5 Şekil 0,5 1,5 1,5 2 2,5 2 Riemann alt toplamı mantığıyla hesaplanan alan A is,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+olu1 5 0 1 5 1 1 5 1 5 1 5 1 0 2 2 11 $
+$
+$
+$
+$
+=
++
++
++
++
+=
++
++
++
++
+=
+Buna göre bir yelkenlinin kumaş maliyeti 
+,
+T11 25 $
+=
+ oluüç yelkenlinin kumaş maliyeti 
+TL bulunu$
+=
+3 1,5 3 1,5 3 1,5 3 1,5 3 1,5 0,5 1,5 2 2,5 2 Riemann üst toplamı mantığıyla hesaplanan alan B is,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+olu1 5 1 1 5 1 5 2 1 5 2 1 5 2 3 3 15 $
+$
+$
+$
+$
+=
++
++
++
++
+=
++
++
++
++
+=
+Buna göre bir yelkenlinin kumaş maliyeti 
+,
+T15 75 $
+=
+ oluüç yelkenlinin kumaş maliyeti 
+TL bulunu$
+=
+3 1,5 3 1,5 3 1,5 3 1,5 3 1,5 Bu durumda tüm yelkenlerin kumaşla kaplama maliyeti 3375 TL ile 4725 TL arasında olmalıdır. 
+Buna göre firmanın verdiği 4500 TL fiyat teklifi bu aralıkta olduğundan etiktir1,5 Şekil 1 de Serkan Bey’e ait üç özdeş yelkeni 
+bulunan bir yelkenli gösterilmiştir. Yelkenlerin 
+her birinde Şekil 2 de ölçüleri verilen 1,5 metr arayla yatay olarak yerleştirilmiş 6 tane çıta 
+vardır. 
+Serkan Bey yelken kumaşlarını yenilemek için 
+bir firmadan metrekare maliyeti 100 TL olan kuma kullanılması durumunda 4500 TL fiyat teklif almıştırSerkan Bey firmanın güvenilir bir teklif verip 
+vermediğini belirlemek istemiş ve fiyat aralığını 
+Riemann alt ve üst toplamı mantığıyla hesaplamıştı. Serkan Bey’in yaptığı hesaba göre firmanı teklifinin etik olup olmadığını belirleyinizŞekil ÖRNEÇÖZÜİntegra1. Adım: Sırasıyla 
+ simgesi, açılan menüde Görünüm ve ardından 
+ tıklanır. Böylec ekrana yan yana iki grafik penceresi gelir2. Adım: 1. grafik penceresi üzerine tıklayınız. Ardından Giriş çubuğuna alttaki ekran klavyesini 
+kullanarak +  yazınız ve enter tuşuna basınız. 2. grafik penceresine de tıklayarak 
+aynı işlemi tekrarlayınız. Böylece +  fonksiyonunun grafiği, 1. grafik penceresinde 
+f ve 2. grafik penceresinde g olarak görüntülenir3. Adım: Üstteki araç çubuğunda 
+ butonuna tıklayınız. 1. grafik penceresi üzerinde herhangi bir 
+noktaya sol tıklayınız. Açılan sürgü butonunda, minimum çubuğuna 1, maksimum çubuğun 500 yazarak Tamam butonuna tıklayınız. a sürgü çubuğu elde edilecektir4. Adım: Giriş çubuğuna “Alt” yazdığınızda açılan pencerede 4. sıradaki 
+Alt Toplam(<fonksiyon>,<başlangıç x-değeri>,<bitiş x-değeri>,<dikdörtgen sayısı>) 
+sekmesini tıklayınız. Bu sekmede parantez içindeki ifadeleri silerek 
+,
+, ,
+4 -
+^
+h biçimind yazınız ve enter tuşuna basınız. Riemann alt toplamı şekil olarak elde edilir. Üstteki araç 
+çubuğunda 
+ butonuna tıklayarak 2. sıradaki 
+ Metin butonuna tıklayınız. 1. grafik 
+alanına gelip sol tıkladığınızda metin penceresi açılacaktır. Metin penceresinde “Alt Topla=” yazıp gelişmiş butonuna tıklayarak 
+ sekmesi seçilir. Açılan menüde b harfine 
+ardından Tamam butonuna tıklayınız. 1. grafik penceresinde alt toplamın değeri görünecekti5. Adım: Giriş çubuğuna “Üst” yazdığınızda açılan pencerede 5. sıradaki 
+Üst Toplam(<işlev>,<sayı>,<sayı>,<sayı>) sekmesini tıklayınız. 
+Bu sekmede parantez içindeki ifadeleri silerek 
+,
+, ,4 -
+^
+h biçiminde yazınız ve ente tuşuna basınız. Riemann üst toplamı şekil olarak elde edilir. 
+ Metin butonuna 
+tıklayınız. 2. grafik alanına gelip sol tıkladığınızda metin penceresi açılacaktır. Metin 
+penceresinde “Üst Toplam=” yazıp gelişmiş butonuna tıklayarak 
+ sekmesi tıklanıp 
+açılan menüde c harfine ardından Tamam butonuna tıklayınız. 2. grafik penceresinde üst 
+toplamın değeri görünecektir6. Adım: a sürgüsü sağa doğru kaydırılarak 10 sayısına getirildiğinde 
+,
+4 -
+@ 10 eşit parçaya bölünere 1. grafikte Riemann alt toplamı yardımıyla alan yaklaşık olarak 
+,
+23 8 birimkare 
+ve 2. grafikte Riemann üst toplamı yardımıyla alan yaklaşık olarak 
+,
+34 2 birimkare olarak 
+hesaplanır      
+Dinamik Geometri ve Matematik Yazılımı programını açınız"
+:
+,
+f =
++
+]  olduğuna göre 
+,
+4 -
+@ nda f ] g fonksiyonunun grafiği ile x ekseni 
+arasında kalan bölgenin alanını, Dinamik Geometri ve Matematik Yazılımı programını kullanarak 
+Riemann alt ve üst toplamı yöntemiyle 10, 50 ve 500 eş parçaya ayırarak yaklaşık olarak hesaplayını. 
+ÖRNEÇÖZÜMatematik 7. Adım: a sürgüsü sağa doğru kaydırılarak 50 sayısına getirildiğinde 
+,
+4 -
+@ 50 eşit parçaya 
+bölünerek 1. grafikte Riemann alt toplamı yardımıyla alan yaklaşık olarak 
+,
+27 64 birimkar ve 2. grafikte Riemann üst toplamı yardımıyla alan yaklaşık olarak 
+,
+29 72 birimkare 
+olarak hesaplanır8. Adım: a sürgüsü sağa doğru kaydırılarak 500 sayısına getirildiğinde 
+,
+4 -
+@ 500 eşit parçaya 
+bölünerek 1. grafikte Riemann alt toplamı yardımıyla alan yaklaşık olarak 
+,
+28 56 birimkar ve 2. grafikte Riemann üst toplamı yardımıyla alan yaklaşık olarak 
+,
+28 77 birimkare 
+olarak hesaplanırİntegraf = ] g fonksiyonunda 
+,
+a @ n adet eşit alt aralığa bölünsün                                 
+ve alt aralıkların genişliği 
+D =
+-
+ olmak üzere f fonksiyonunun 
+,
+a @ nda hesaplanan 
+Riemann toplamı A ise f = ] g eğrisinin altında kalan alan yaklaşık olara                         x x x x $
+$
+$
+$
+=
++
++
++
++
+^
+^
+^
+^
+                            
+=
+x $
+=
+^
+/
+olarak ifade edilir,
+,
+,
+-
+cccc,
+a @ nda f ] g fonksiyonunun altında kalan alan, 
+,
+a @ nın daha fazla alt aralığa bölünmes durumunda daha yakın değerler verecektir. Buna göre Riemann toplamı n nin 
+sonsuza yaklaşması durumunda f = ] g ile x ekseni arasında kalan alanı vereceğinden 
+bu alan 
+ 
+ 
+              
+lix $
+" =
+^
+/
+limiti ile hesaplanırSONUBurada f ^  olduğuna dikkat ediniz. f ^  olması hâlinde yukarıdaki limit değeri 
+negatif olacaktır. Bu durumda bu limit değeri fonksiyonun grafiği ile x ekseni arasında kalan 
+alanın negatif değerine eşit olacaktırAyrıca lix $
+" =
+^
+/
+ değerine f fonksiyonunun 
+,
+a @ ndaki belirli integrali denir                           lix f x d$
+=
+" =
+^
+^
+/
+#
+biçiminde ifade edilirMatematik Yanda f m=
++
+]  fonksiyonunun grafiği verilmiştir. 
+,
+a @ nda f ] g fonksiyonunun grafiği ile x ekseni arasında 
+kalan dik yamuğun alanı A birimkare olsunBu dik yamuğun alanı hesaplanırsa 
++
++
++
++
++
++
+-
+-
+-
+f fonksiyonunuF x olsuF f x dF mn dmnc oluF mnF F mmmmm n a n A bulunuintegral&
+&
+$
+$
+=
+=
++
+=
++
++
+=
++
++

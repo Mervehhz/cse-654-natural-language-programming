@@ -1,0 +1,400 @@
+D(-2, 0) ve 
+E(0, 4) olduğuna 
+göre karenin alanı 
+kaç birimkaredir?                          
+A) 25  
+B) 16  
+C) 9  
+D) 3 
+E)  
+31. 
+Osman'ın maaşı 3000 TL dir. Yaptığı 
+harcamalardan sonra Osman'ın cebinde 
+kalan paranın zamana göre değişiminin 
+grafiği yukarıda verilmiştir. Harcamalarını 
+aynı şekilde sürdürmesi durumunda maaşı 
+Osman'a kaç gün yeter?
+A) 30 
+B) 23 
+C) 26 
+D) 29 
+E) D(-2, 0)
+E(0, 4)
+dd   x (gün)
+y (TL)
+F o n k s i y o n l a r d a  U y g u l a m a l a h(x) =
+x2 + ℝ∈ ≤ ≥ ∞ ∪ → ≠ ∆ ⇒ ⇔//⊥==+ ++-−
+−-
+=
+=
++
+-
+x1 + x2r = - 2 = x1 + x3. FONKSİYONLARDA UYGULAMALASAYILAR VE CEBİR 
+3.1. Fonksiyonlarla İlgili Uygulamala3.2. İkinci Dereceden Fonksiyonlar ve Grafikler3.3. Fonksiyonların DönüşümlerBu bölümd• Fonksiyonun grafik ve tablo temsilini kullanarak problem çözmeyi,
+• İkinci dereceden bir değişkenli fonksiyonun grafiğini çizerek 
+yorumlamayı,
+• İkinci dereceden fonksiyonlar ile modellenebilen problemleri 
+çözmeyi,
+• Bir fonksiyonun grafiğinden dönüşümler yardımı ile yeni fonksiyon 
+grafikleri çizmeyöğreneceksinizS a y ı l a r  v e  C e b i Ortalama Değişim Hızı, İkinci Dereceden Fonksiyon, Tepe Noktası, Parabol,
+Simetri Ekseni, Öteleme, Simetri, Dönüşüm, Tek Fonksiyon, Çift FonksiyoK A V R A M L A H A Z I R L I K  Ç A L I Ş M A S Maç süresince futbolcularda oluşan enerji 
+değişimi zamana bağlı olarak grafikle nasıl ifade 
+edilebilir?
+Bu noktalar hangi matematiksel kavramlarla 
+ifade edilebilir?
+Üç gün devam eden bir orman yangınında 
+hava koşullarının sürekli değişiklik göstermesi 
+durumunda yangının yayılma hızındaki değişim, 
+hava koşullarındaki değişime bağlı olarak nasıl 
+ifade edilebilir?
+Futbol müsabakalarında doksan dakika boyunca 
+yoğun tempoda mücadele eden oyuncular, 
+maçın sonuna doğru yorgun düşer. Futbolcuların 
+maçın başında sahip oldukları enerji maçın 
+sonuna doğru azalırDünyanın en yüksek noktası Everest Dağı'nın 
+zirvesi (8 bin 848 metre), en alçak noktası 
+Mariana Çukuru'nun dibidir (10 bin 994 metre).  
+Canlılar için hayati önem taşıyan ormanların 
+zamanla azalmasının başlıca sebeplerinden biri 
+yangınlardır. Bir orman yangınının yayılma hızı, 
+hava koşullarına (sıcaklık değişimi, rüzgârın 
+şiddeti, yağış vb.) bağlı olarak değişebilirF o n k s i y o n l a r d a  U y g u l a m a l a Yandaki doğrusal grafik bir ürünün alış ve satış fiyatı 
+arasındaki ilişkiyi göstermektedir. Bu üründen satın alan 
+bir kişi, satış fişini incelediğinde kendisinden 80 TL yerine 
+yanlışlıkla 60 TL alındığını fark ediyor. Bunun üzerine 
+mağazaya dönen kişi 20 TL daha ödüyor.  Kişinin 20 TL yi 
+ödemesi veya ödememesi durumları için mağazanın elde 
+edeceği kâr oranlarını bulunuzÇözüOrijinden geçen doğruların genel denklemi, m eğim olmak üzere y = mx biçimindedir. 
+Birinci durumda m1 = tanα = 8 olduğundan ürünün alış ve satış fiyatı arasındaki ilişki 
+=
+ şeklinde elde edilirx alış fiyatı, y satış fiyatı olduğundan kâr = y - x = 
+-
+=
+ olur. 
+İkinci durumda m2 = tanβ = 6  olduğundan ürünün alış ve satış fiyatı arasındaki ilişki 
+=
+ şeklinde elde edilirx alış fiyatı, y satış fiyatı olduğundan kâr = y - x = 
+-
+=
+ olur. 
+Birinci durumda elde edilen kâr oranı =
+=
+ = %60,
+İkinci durumda elde edilen kâr oranı =
+=
+ = %20 olarak bulunur2. Örnek 
+y = f(x) = ax + b Şeklindeki Fonksiyonların Grafikleri ile İlgili UygulamalaBir bitkinin boyunun zamana göre değişimi, bir aracın yakıt tüketimi, bir ürünün alış ve satış 
+fiyatı arasındaki ilişki vb. a, b ∈ ℝ  olmak üzere y = ax + b şeklindeki fonksiyonların grafikleri ile 
+ifade edilebilir. Bu bölümde bu türden fonksiyonların grafikleri ile ilgili örnekler verilecektir3.1. Fonksiyonlarla İlgili Uygulamala3.1.1. Fonksiyonun Grafik ve Tablo Temsilini Kullanarak Problem Çözme   
+Bir taksinin taksimetresi açılışta 5 TL, sonraki her 1 km için 2 TL yazmaktadır. Bununla ilgili 
+tablo aşağıda verilmiştir. Verilen bilgilere göre aşağıdaki soruları cevaplayınızYol (km)
+Ücret (TL)
+a) Yolculuğun mesafesi x olmak üzere yolcunun ödeyeceği ücreti x e bağlı olarak bulunuzb) 120 km lik yolculuk için yolcunun ödeyeceği ücreti bulunuzÇözüa) Ödenecek ücret yolun bir fonksiyonudur. Bu fonksiyon f(x) olsun.  
+     Yolcu her 1 km için 2 TL, x ∊ ℕ için 2x TL ödeyeceğinden ve taksimetre açılış ücreti 5 TL 
+     olduğundan f(x) = 5 + 2x TL olurb) f(x) = 5 + 2x ⇒ f(120) = 5 + 2.120 = 245 T1. Örnek 
+y (satış fiyatı)
+x (alış fiyatı)
+S a y ı l a r  v e  C e b i Yanda verilen doğrusal grafik, bir bitkinin zamana 
+bağlı olarak boyundaki değişimi göstermektedir. 
+Bitkinin boyunun kaçıncı ayda 96 cm olacağınbulunuzÇözü1. YoBoyun zamana bağlı olarak değişimini gösteren 
+doğru grafiğinin denklemini yazmak için 
+doğrunun eğimini ve geçtiği bir noktayı 
+bulmak gerekirDoğrunun eğimi m = tanα = 4  ve geçtiği nokta 
+(x1 , y1) = (0, 40) olurDolayısıyla bu doğrunun denklemi  
+y - y1 = m.(x - x1) ⇒ y - 40 = 4.(x - 0)
+ 
+ 
+        ⇒ y = 4x + 40 olur. 
+Bitkinin boyu y = 96 cm olacağından 
+96 = 4x + 40 ⇒ 4x = 56 ⇒ x = 14 olur14. ayda bitkinin boyu 96 cm olur2. YoBitki, 3 ayda 12 cm uzadığına göre bir ayda 4 cm uzar. 
+Bitkinin 96 - 40 = 56 cm uzaması için 56  = 14 aya ihtiyaç vardır3. Örnek 
+ Zaman (ay)
+ Boy (cm)
+   Zaman (ay)
+ Boy (cm)
+  Bir çocuğun kumbarasında 10 TL vardır. Çocuk, kumbarasına her gün 3 TL atıyor. Bununla 
+ilgili tablo aşağıda verilmiştir. Verilen bilgilere göre aşağıdaki soruları cevaplayınızZaman (Gün)
+Para Miktarı (TL)
+a) Kumbarada biriken paranın miktarını zamanın bir fonksiyonu olarak yazınızb) Kumbarada 25. günde birikecek paranın miktarını bulunuz. 
+Çözüa) x, gün sayısı olsun     Çocuk, kumbaraya her gün 3 TL attığında kumbaradaki para x günde 3x TL olur. 
+     Baştaki 10 TL de eklendiğinde paranın miktarı x gün sonra f(x) = 10 + 3x olarak bulunurb) 25. günde toplanan paranın miktar     f(25) = 10 + 3.25 = 85 TL olur4. Örnek 
+F o n k s i y o n l a r d a  U y g u l a m a l a Analitik düzlemde her x ∈ ℝ için aşağıdaki fonksiyonların grafiklerinin eksenleri kestiği 
+noktaları bulunuza) y = -2x + 3  
+ 
+b) y = x2 + 3x - Çözüa) y = -2x + 3  fonksiyonunun grafiğx = 0 için y = 3 olur. O hâlde 
+fonksiyonun grafiği y eksenini (0, 3) noktasında kesery = 0 için 0 = -2x + 3 ⇒ x = 3  olur. 
+O  hâlde fonksiyonun grafiği x eksenini 
+,
+3 l noktasında 
+keserBu fonksiyonun grafiğinin x ve y eksenlerini kestiği 
+noktalar yandaki grafikte  görülmektedir 
+ 
+                          
+b) y = x2 + 3x - 4 fonksiyonunun grafiğx = 0 için  y = -4 olur. 
+O hâlde fonksiyonun grafiği y eksenini (0, -4) noktasında keser. 
+y = 0 için x2 + 3x - 4 = 0 ⇒ (x - 1).(x + 4) = 0 
+ 
+ 
+                       ⇒ x = 1 ve x = -4 olur. 
+O hâlde fonksiyonun grafiği x eksenini (1, 0) ve (-4, 0) noktalarında keser5. Örnek 
+Fonksiyon Grafiğinin Eksenleri Kestiği NoktalaPolinom fonksiyonlarının grafiği x veya y eksenini en az bir noktada keserAnalitik düzlemde bir fonksiyon grafiğinin eksenleri kestiği noktalar aşağıdaki gibi bulunurKoordinat sisteminde x ekseni üzerindeki noktaların ordinatları sıfır olduğundan bir fonksiyonun 
+grafiğinin x eksenini kestiği noktayı bulmak için fonksiyonda y  yerine sıfır yazılır ve x değeri 
+veya değerleri bulunur. Benzer şekilde y ekseni üzerindeki noktaların apsisleri sıfır olduğundan 
+fonksiyonun grafiğinin y eksenini kestiği noktayı bulmak için fonksiyonda x  yerine sıfır yazılır ve 
+y değeri bulunurHer x ∈ ℝ için f(x) = x3+ 2kx - 4 + k fonksiyonunun grafiği  x eksenini (-2, 0) noktasında 
+kestiğine göre k değerini bulunuz. 
+Sıra SizdA(0, 3)
+,
+B 3 S a y ı l a r  v e  C e b i Şekilde verilen y = f(x) fonksiyonunun grafiği A(-3, 0) ve 
+B(2, 0) noktalarından  geçmektedir. f(x) > 0 eşitsizliğini sağlayan 
+x tam sayılarının toplamını bulunuzÇözü -3 < x < 2  aralığında f(x) > 0 olur. Bu aralıklardaki tam sayılar  
+-2, -1, 0, 1 olduğundan bu tam sayıların toplamı - 2 olur7. Örnek 
+Şekildeki y = f(x) fonksiyonunun grafiği x eksenini (3, 0) 
+noktasında kesmektedir. Bu fonksiyonun negatif ve pozitif 
+olduğu aralıkları bulunuzÇözüGrafiğin x ekseninin üst kısmında olduğu aralık (-∞, 3) olur. 
+Bu aralıktaki her x değeri için f(x) > 0 olur.  
+Grafiğin x ekseninin alt kısmında olduğu aralık (3, ∞) olur. 
+Bu aralıktaki her x değeri için f(x) < 0 olur. 
+f(x)  fonksiyonunun pozitif olduğu aralık (-∞, 3) olurf(x)  fonksiyonunun negatif olduğu aralık (3, ∞) olur. 
+6. Örnek 
+Fonksiyonun Pozitif  ve Negatif Olduğu AralıklaFonksiyonun pozitif ve negatif olduğu aralıklar grafik üzerinden açıklanacaktıry = f(x)
+xxxxy = f(x)
+ f(x1)
+ f(x3)
+ f(x2)
+ f(x4)
+Yukarıdaki grafikte x1 < a ve b < x3 < c için sırasıyla f(x1) ve f(x3) değerleri pozitiftir. Böylece 
+f(x) fonksiyonunun pozitif değer aldığı aralıkların  (-∞, a) ve (b, c) olduğu görülür. Grafiğin x 
+ekseninin üst kısmında kalan bölümlerinde her x değeri için f(x) > 0 olurGrafikte a < x2 < b ve c < x4 için sırasıyla f(x2) ve f(x4) değerleri negatiftir. Böylece f(x) fonksiyonunun 
+negatif değer aldığı aralıkların (a, b) ve (c, ∞) olduğu görülür. y = f(x) fonksiyonunun grafiğinin x 
+ekseninin altında kalan bölümlerinde  her x değeri için f(x) < 0 olurFonksiyonun grafiğinin x eksenini kestiği a, b, c noktaları f(x) = 0  denkleminin kökleridirA(-3, 0)
+B(2, 0)
+y = f(x)
+F o n k s i y o n l a r d a  U y g u l a m a l a Artan ve Azalan FonksiyonlaFonksiyonun artan ve azalan olduğu aralıklar grafik üzerinden açıklanacaktırŞekilde grafiği verilef: (-8, 5) → ℝ, y = f(x) fonksiyonunun 
+artan ve azalan olduğu aralıkları bulunuzÇözü(-8, -5], [-1, 2], [4, 5) nda x değerleri artarken y değerleri azaldığı için fonksiyon azalandır[-5, -1], [2, 4] nda  x değerleri artarken y değerleri de arttığı için fonksiyon artandır8. Örnek 
+---y = f(x)
+Şekilde grafiği verilen f: ℝ → ℝ, f(x) = 3x + 4 fonksiyonunun artan 
+ve azalan olduğu aralıkları bulunuz. 
+Çözüx1, x2 ∈ ℝ ve x1 < x2 olsun. 
+Buradan 3x1 + 4 < 3x2 + 4 olur. Dolayısıyla f(x1) < f(x2) elde edilirBuna göre f fonksiyonunun artan olduğu aralık (-∞, ∞) olurGrafikte görüldüğü üzere x değerleri arttıkça f(x) değerleri de 
+arttığından f artan fonksiyondur9. Örnek 
+-
+A ⊆ ℝ, B ⊆ A ve f: A → ℝ olacak şekilde bir f fonksiyonu verilsin. 
+Bu durumda her x1, x2 ∈ B için x1 < x2 olduğunda f(x1) < f(x2) olursf fonksiyonuna B de artan fonksiyon denirHer x1, x2 ∈ B için x1 < x2 olduğunda f(x1) > f(x2) olursf fonksiyonuna B de azalan fonksiyon denir. Yukarıdaki grafikt[a, b] nda alınan x1 < x2 şartını sağlayan her x1 , x2 için f(x1) < f(x2) olduğundaf fonksiyonu [a, b] nda artandır[b, c] nda alınan x3 < x4 şartını sağlayan her x3 , x4 için f(x3) > f(x4) olduğundaf fonksiyonu [b, c] nda azalandır[c, d] nda alınan x5 < x6 şartını sağlayan her x5 , x6 için f(x5) < f(x6) olduğundaf fonksiyonu [c, d] nda artandırartaartaazalaxxxxxx f(x1)
+ f(x3)
+ f(x6)
+ f(x2)
+ f(x4)
+ f(x5)
+S a y ı l a r  v e  C e b i Şekilde grafiği verilen f: [-3, 3] → ℝ, y = f(x) 
+fonksiyonunua) Azalan ve artan olduğu aralıkları,
+b) Minimum ve maksimum noktalarını,
+c) Minimum ve maksimum değerlerini bulunuzÇözüf(x) fonksiyonu için 
+a) Azalan olduğu aralıklar 
+,
+,
+v2 -
+-
+:
+@ olur. Artan olduğu aralık  
+,
+3 -
+:
+D olurb) Minimum noktası  
+,
+-
+-
+l  ve  maksimum noktası (-3, 3) olurc) Minimum değeri  
+-
+  ve  maksimum değeri 3 olur. 
+10. Örnek 
+A⊆ ℝ olmak üzere f: A → ℝ bir fonksiyon olsun. 
+Her x ∈ A için f(x) ≤ f(p) olacak şekilde bir 
+p ∈ A sayısı varsa (p, f(p)) noktasına f nin 
+maksimum noktası, f(p) ye f nin maksimum 
+değeri denirHer x ∈ A için f(x) ≥ f(t) olacak şekilde bir 
+t ∈ A sayısı varsa (t, f(t)) noktasına f nin minimum 
+noktası, f(t) ye  f nin minimum değeri denir. 
+TanıMaksimum ve Minimum NoktalaAnalitik düzlemde verilen bir fonksiyon grafiğinin görüntü kümesinde aldığı en büyük ve en küçük 
+değerler aşağıdaki gibi bulunurYanda grafiği verilen f: [-4, 8] → [-4, 2], y = f(x) 
+fonksiyonunun aldığı en büyük değer x = 8 içif(8) = 2, en küçük değer x = -4 için f(-4) = -4 olur--- - y = f(x)
+f(p)
+f(t)
+f(b)
+y = f(x)
+(p, f(p))
+(t, f(t))
+ f nin minimum noktasf nin maksimum noktas--y = f(x)
+F o n k s i y o n l a r d a  U y g u l a m a l a İçindeki suyun yüksekliği başlangıçta 20 cm olan su 
+deposuna  bir musluktan su akmaktadır. 
+f(x) = 20 + 5x  fonksiyonuyla ifade edilen suyun 
+yüksekliğinin zamana bağlı değişim grafiği yanda 
+verilmiştirBu fonksiyonua)  [1, 3] ndaki ortalama değişim hızını, 
+b) [2, 4] ndaki ortalama değişim hızını bulunuz. 
+Çözüa) [1, 3] ndaki ortalama değişim hızı 
+( )
+( )
+/
+cm sa olu=
+-
+-
+=
+-
+=
+ 
+ 
+ 
+ 
+b) [2, 4] ndaki ortalama değişim hızı 
+( )
+( )
+/
+cm sa olu=
+-
+-
+=
+-
+=
+Doğrusal fonksiyonlarda ortalama değişim hızı sabittir. 
+11. Örnek 
+Ortalama Değişim HızHava şartları, bir bitkinin büyümesini olumlu ya da olumsuz yönde etkiler. Buna göre bir bitkinin 
+büyüme hızının birim zamandaki değişimi farklılık gösterirBir aracın otoyolda belirli bir süre sabit bir hızla ilerlediği varsayılsın. Bu aracın deposunda 
+bulunan yakıtın miktarındaki azalma hızının birim zamandaki değişimi sabit kalırBir nesnede birim zamanda meydana gelen değişimler (artma, azalma vb.)
+ortalama değişim hızı olarak adlandırılırFonksiyonların belli bir aralıktaki ortalama değişim hızı aşağıdaki gibi hesaplanıry = f(x)
+f(x1)
+f(x2)
+xxy = f(x) fonksiyonunun [x1, x2] nda ortalama değişim hızı 
+( )
+( )
+f f =
+-
+-
+  olarak tanımlanır. 
+(∆x: A dan B ye x değerindeki değişim ve ∆y: A dan B ye y değerindeki değişim)
+• Doğrusal fonksiyonların herhangi bir aralıktaki ortalama değişim hızı sabittir ve doğrunun 
+eğimine eşittir• [x1, x2] ndaki ortalama değişim hızı A(x1, f(x1)) ve B(x2, f(x2)) noktalarından geçen kesenin 
+eğimine eşittirf(x1)
+f(x2)
+y = f(x)
+xxzaman (saat)
+yükseklik (cm)
+f(x) = 20 + 5S a y ı l a r  v e  C e b i Şekildeki grafik bir aracın zamana bağlı olarak aldığı yolu 
+göstermektedir. 
+Aracın 1 ile 6. dakika arasında (1 ile 6. dakikalar dâhil) 
+aldığı yolun ortalama değişim hızını bulunuzÇözü( )
+g =
++
+=
+( )
+g =
++
+=
+Ortalama değişim hızı 
+( )
+( )
+/
+km dakika olarak bulunu=
+-
+-
+=
+-
+-
+=
+=
+=
+14. Örnek 
+Yol(km)
+Zaman (dakika)
+( )
+g =
++
+g(t)
+Boyu 20 cm olan bir fidanın dikildikten sonraki boyunun zamana bağlı değişimi aşağıdaki 
+tabloda verilmiştir. Fidanın boyu 1. yılın sonunda 22 cm, 7. yılın sonunda 118 cm olmuşturZaman (yıl)
+Boy (cm)
+Fidanın boyunun 2 ile 6. yıl arasındaki (2 ile 6. yıllar dâhil) ortalama değişim hızını bulunuz. 
+Sıra Sizdf(x) = -x2 + 15 fonksiyonu için 
+a) [1, 2] ndaki ortalama değişim hızını,
+b) [-3, 1] ndaki ortalama değişim hızını bulunuz. 
+Çözüa) [1, 2] ndaki ortalama değişim hızı 
+( )
+( )
+=
+-
+-
+=
+-
+=-  olurb) [-3, 1] ndaki ortalama değişim hızı 
+(
+)
+( )
+(
+)
+=
+- -
+-
+-
+=
+-
+=
+ olur12. Örnek 
+g(x) = x3 - 2x + 4  fonksiyonunun   -2 ≤ x ≤ 3 aralığındaki ortalama değişim hızını bulunuzÇözüg nin [-2, 3] ndaki ortalama değişim hızı 
+(
+)
+( )
+(
+)
+olu=
+- -
+-
+-
+=
+-
+=
+ 
+13. Örnek 
+F o n k s i y o n l a r d a  U y g u l a m a l a KökleUç noktFonksiyon inceleyicGirişe (x-3)(x2-1) yazarak grafiği elde ediniKökler ikonuna, ardından grafik üzerine 
+tıklandığında fonksiyonun grafiğinin x 
+eksenini kestiği noktalar A, B, C olarak 
+görülecektir. Fonksiyonun tanımlı olduğu 
+aralık reel sayılar kümesi olduğundan 
+fonksiyonun maksimum ve minimum 
+noktaları yokturUç nokta ikonuna, ardından grafik üzerine 
+tıklandığında fonksiyonun tepe noktaları 
+(D ve E) görülecektir. Fonksiyonun artan 
+olduğu aralıklar (-∞, -0.15) ve 
+(2.15, ∞), azalan olduğu aralık 
+(-0.15, 2.15) şeklindedir. 
+Tanım aralığı ℝ olan fonksiyonun tanım 
+aralığı alt aralıklara indirilerek inceleme 
+yapılabilir. Bunun için fonksiyon inceleyici 
+ikonuna, ardından grafiğin üzerine 
+tıklayarak fonksiyon inceleyici penceresini 
+açınız. 
+Tanım aralığını -2 ≤ x ≤ 3 olarak belirleyip 
+grafik incelemesini bu aralık üzerinde 
+yapınız.  Grafikten görüldüğü üzere bu 
+aralık kırmızıya dönüşmüş olacaktır. 
+Fonksiyonun x eksenini kestiği noktalar ve 
+tepe noktalarında bir değişiklik yoktur. 
+Fonksiyonun artan olduğu aralıklar 
+(-2, 0.15) ve (2.15, 3), azalan olduğu aralık 
+(-0.15, 2.15) olur. Fonksiyonun maksimum 
+noktası D, maksimum değeri 3.08 olur. 
+Fonksiyonun minimum noktası (-2, -15), 
+minimum değeri -15 olurTanım aralığını 0 ≤ x ≤ 3.5 durumuna 
+getirdiğinizde fonksiyonun grafiğinin x 
+eksenini kestiği noktalar B ve C noktaları 
+olur. Fonksiyonun azalan olduğu aralık 
+(0, 2.15), artan olduğu aralık (2.15, 5.63) 
+olur. Fonksiyon inceleyicide fonksiyonun 
+minimum ve maksimum noktaları 
+görülebilir1. Uygulama: Grafiğin x Eksenini Kestiği Noktalar, Tepe Noktaları, 
+                           Artan-Azalan Aralıklar, Maksimum-Minimum NoktalaS a y ı l a r  v e  C e b i 1. Hüseyin, bir iş yerinde staj yapmakta ve evin 
+masraflarına yardımcı olmak için haftalık 
+kazancının yarısını annesine vermektedir. 
+a) Hüseyin'in annesine verdiği parayı haftalık 
+kazancının bir fonksiyonu olarak yazınızb) Hüseyin’in 10. hafta sonunda annesine 
+vereceği toplam parayı haftalık kazancı 
+cinsinden bulunuz. 
+c) Hüseyin’in evin masraflarına yapmış olduğu 

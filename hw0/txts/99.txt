@@ -1,0 +1,400 @@
+(
+)
+(
+)
+(
+)
+((
+)( )
+( ( ))
+)
+fofof g f g g g fog bire bir oldu undafof g oldu unda€
+€
+&
+&
+&
+!
+!
+!
+!
+=
+   Bu durumda fog fonksiyonu bire bir iken g fonksiyonu da bire birdirII. gof  örten ise 
+6 !
+ için 
+7 !
+ öyle ki (
+)( )
+go=
+ olur. Bu durumda gof un değer kümesi A 
+daki her y için gof un tanım kümesi A da, gof altındaki görüntüsü y olan en az bir tane x bulabiliriz(
+)( )
+( ( ))
+( )
+(
+( )
+)
+gog f g f x olacak ekild&
+&
+!
+=
+=
+=
+=
+f, A da tanımlı olduğundan ( )
+f =
+, A nın elemanıdır. Şimdi, g nin değer kümesindeki herhangi bir y 
+için g nin tanım kümesi olan A da bir z vardır ki 
+( )
+g =
+ sağlanır. Buradan g örtendir"
+:
++
+ olmak üzere f fonksiyonu, tanım kümesindeki her elemanı bu elemanın asal bölenleri sayısın götüren bir fonksiyon olarak tanımlanıyor. Buna göra) (
+)(
+)
+fo420  değerini bulunuzb) (
+)( )
+fo=
+ olduğuna göre x  in en küçük değerini bulunuza) 3 5 2 $
+$
+$
+=
+ olur. Buradan 420 nin asal bölen sayısı 4 olduğundan (
+)
+f =
+ olur. Bu durumd (
+)(
+)
+( (
+))
+( )
+fof =
+=
+=
+ olur. Çünkü 4 sayısını bölen asal sayı sadece 2 sayısı olduğunda 1 tanedirb) (
+)( )
+fo=
+ ise ( ( ))
+f f =
+ olur. Bu durumda 2 tane asal  böleni olan en küçük pozitif tam sayı 6 
+olduğundan ( )
+f =
+ seçilir. Buradan ( )
+f =
+ ise x  en az 2 3 5 7 11 $
+$
+$
+$
+$
+=
+ olurGerçek sayılar kümesi üzerinde tanımlı f ve g fonksiyonları için 
+• (
+)( )
+( )
+( )
+fof g =
++
+ 
+• 
+( )
+f =
+-
+ 
+olduğuna göre 
+( )
+g 3  değerini bulunuz(
+)( )
+( )
+( )
+( ( ))
+( )
+( )
+( )
+( )
+( )
+( )
+( )
+fof g f g f g g g g olu2 $
+$
+=
++
+=
++
+-
+=
+-
++
+=
+=
+=
+ALIŞTIRMALA 
+     1"
+,
+:
+( )
+f =
+-
+ ve 
+"
+,
+:
+( )
+g =
+ ise 
+a)  (
+)(
+)
+fo1  değerini bulunuzb)  (
+)(
+)
+fo1  değerini bulunuzc)  (
+)(
+)
+go değerini bulunuz 
+ 
+ 
+2.                                         ve 
+"
+,
+:
+( )
+g =
++
+ fonksiyonları veriliyo. Aşağıdaki fonksiyonların eşleştirme 
+kuralını yazınız ve grafiklerini çizini        a) fog    
+b) gof     
+c) fof     
+ç) go 
+3. Gerçek sayılar kümesi üzerinde tanımlı f 
+ve g fonksiyonları için (
+)( )
+fo=
+-  ve 
+( )
+f =
+-  olarak veriliyor. Bu durumda 
+tan(
+)(
+)
+gogogo o-
+444444  değerini bulunuz. 
+     4"
+,
+:
+( )
+f =
+-
+ olmak üzere 
+(
+)( )
+f ofo f ofo 99 tan44444444  değerini bulunuz5. 
+"
+,
+:
+( )
+f =
+-
+ olduğuna göre 
+(
+)( )
+fo=
+ eşitliğini sağlayan a  değerlerini 
+bulunuz.  
+  
+6.    
+             
+Yukarıdaki şekilde verilenlere göre gof       
+fonksiyonunu liste yöntemi ile yazınız      
+7. 
+1, 2, 3, 4, A = "
+,  kümesi veriliyorA kümesi üzerinde tanımlı yazılabilecek tüm 
+fonksiyonlardan seçilen bir tanesinin görüntü 
+kümesinin tek sayılardan oluşma olasılığını 
+bulunuz 
+  8. 
+"
+:
+R ve 
+"
+:
+R  olmak üzere 
+(
+)( )
+( )
+( )
+fog $
+$
+=
+-
+-
+ fonksiyonu 
+veriliyor. Buna göre (
+)
+-
+ değerini bulunuz"
+,
+:
+( )
+f = -
++
+Bilg"
+:
+B , 
+( )
+f =
+ bire bir ve örten fonksiyonu verilsin. !
+ için ( )
+f =
+ iken 
+( )
+=
+-
+ 
+oluyorsa f -  fonksiyonuna f  fonksiyonunun tersi denir. f - , B kümesinden A kümesine 
+tanımlı bir fonksiyondur. Bu durum aşağıdaki gibi de gösterilebilir                        
+             
+f -
+10.2.2.3. Fonksiyonun Ters"
+,
+:
+( )
+f =
++
+ fonksiyonu örten bir fonksiyon olmadığı için bu fonksiyonun tersi bir fonksiyon 
+değildir. Bu durum aşağıdaki gibi incelenirs     
+Şekilde f nin 
+"
+N  ye örte olmayan bir fonksiyon 
+olduğu görülür. 
+         
+      
+f -
+Bu durumda f nin tersinin 
+"
+N  ye bir fonksiyon olmadığı görülü. Çünkü N  tanım kümesinde N  değer kümesi ile eşleşmeyen 
+elemanlar bulunmaktadır"
+,
+, 0, 1,
+0, 1, 4 ,
+,
+:
+( )
+ve f B f -
+-
+=
+=
+=
+"
+"
+,
+,
+ fonksiyonu bire bir fonksiyon olmadığı için bu 
+fonksiyonun tersi fonksiyon değildir. Bu durum aşağıdaki gibi incelenirsŞekilde A kümesindek farklı iki eleman 
+B kümesinde aynı bir 
+elemanla eşleştiği 
+için f nin 
+"
+B  bire 
+bir olmayan bir 
+fonksiyon olduğu 
+görülür                                      
+Şekilde ise f nin tersinin 
+"
+A  ya bir fonksiyon 
+olmadığı görülür. Çünkü 
+fonksiyon olması için gerekli 
+olan ‘‘Tanım kümesindeki her 
+bir eleman değer kümesindn yalnızca bir eleman ile 
+eşlenir.’’ koşulu ihlal edilmiştiİpuc"
+:
+B  ye olmak üzere 
+( )
+f =
+ bire bir ve örten ise ( )
+f x  fonksiyonunun tersi de fonksiyon 
+olur"
+:
+B  ise 
+"
+:
+-
+ olurf fonksiyonunun grafiği yandaki gibidir. Grafik incelendiğinde tanım 
+kümesindeki her elemanın görüntüsünün farklı olduğu ve değer kümesini her elemanına karşılık tanım kümesinde bir elemanın olduğu görülür. 
+Dolayısıyla f bire bir ve örten fonksiyon olduğundan  f nin tersi de bir 
+fonksiyondurİpucBir fonksiyonun tersinin kuralını bulmak için aşağıdaki adımlar izlenebilirI. 
+( )
+f =
+ kuralında x yerine y, y yerine x yazılırII. Elde edilen eşitlikte y yalnız bırakılırIII. Son eşitlikte y yerine 
+( )
+-
+ yazılır"
+,
+:
+( )
+f =
++
+ fonksiyonunun tersinin kuralını bulunuz( )
+f =
+ kuralında x yerine y, y yerine x yazılıp elde edilen eşitlikte y yalnız bırakılır 
+( )
+oluf &
+&
+&
+&
+=
+=
++
+=
++
+=
+-
+=
+-
+Bu eşitlikte y yerine 
+( )
+-
+ yazılırsa 
+( )
+olu=
+-
+-
+"
+,
+:
+( )
+f =
+ fonksiyonunun tersinin fonksiyon olup olmadığını grafik yardımıyla bulunuz.         
+İpucUygun tanım aralıklarında verilen aşağıdaki fonksiyonlar içi( )
+( )
+( )
+( )
+( )
+( )
+( )
+( )
+oluoluoluoluf ab ise f ax ise f ab ise cf cab ise cd:
+:
+:
+:
+=
++
+=
+-
+=
+=
+=
++
+=
+-
+=
++
++
+=
+-
+-
++
+-
+-
+-
+-
+"

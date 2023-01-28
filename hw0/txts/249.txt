@@ -1,0 +1,400 @@
+h noktasının 
+,
+^
+h noktasına göre simetri dönüşümü altındaki görüntüsü 
+,
+b l^
+h noktas olduğuna göre a ve b değerlerini bulunuzB noktası AA? nın orta noktası olduğuna göre 
+,
+B +
++
+k olur. Buna gördenklemleri ortaz l rsçö ü &
+&
+=
++
++
+=
+=
++
+-
+=
+`
+bbbbbbbbYandaki analitik düzlemde verilen ABC üçgeninin 
+P noktasına göre simetriği olan A B l l l üçgeninin 
+köşe noktalarının koordinatlarını bulunuz ve A B l l l 
+üçgenini analitik düzlemde gösterinizABC üçgeninin köşe noktalarının koordinatları olan 
+,
+,
+,
+,
+v4 1 5 ^
+^
+^
+h noktalarının 
+,
+3 -
+^
+h noktasına göre simetriği olan noktalar 
+,
+B ve l olsun. Buna gör&
+bulunu+
+=
++
+-
+=
+=
+=
+&
+bulunu=
+&
+=
++
+=
+ÖRNEÖRNEÇÖZÜÇÖZÜ,
+&
+,
+B b ve olu=
++
++
+=
++
+=
++
+^
+,
+A 1 ^
+h noktasının B noktasına göre simetri dönüşümü altındaki görüntüsü 
+,
+5 -
+l^
+h olduğuna 
+göre B noktasının koordinatlarını bulunuz,
+A 1 ^
+,
+B a ^
+,
+5 -
+l^
+'
+'
+ÇÖZÜÖRNEB noktasının koordinatları 
+,
+B a ^
+h olsun. B noktası AA@ nın orta noktası olduğunda,
+,
+,
+B a bulunu2 =
++ -
++
+=
+-
+^
+]
+^
+SONU 
+,
+A x ^
+h noktasının 
+,
+O 0 ^
+h noktasına (orijin) göre simetriği 
+,
+-
+-
+l^
+h  noktasıdırMatematik Bulunan bu noktalar analitik düzlemde işaretlenerek üçgen çizilirse A B l l l üçgeni aşağıdaki şekild görüldüğü gibi elde edilir,
+,
+,
+,
+,
+,
+bulunu4 2 1 2 7 5 2 11 $
+$
+$
+$
+$
+$
+-
+-
+-
+=
+-
+-
+-
+-
+-
+=
+-
+-
+-
+-
+=
+-
+^
+^
+^
+]
+]
+]
+^
+^
+^
+'
+'
+`
+,
+a -
+^
+,
+A a ^
+,
+B -
+^
+,
+A 2 ^
+h noktasının x eksenine ve y eksenine göre simetri dönüşümü altındaki görüntüsü olan 
+noktaları bularak analitik düzlemde gösteriniz,
+A 2 ^
+h noktasının 
+x eksenine göre simetriği 
+,
+-
+l^
+h noktasıdıry eksenine göre simetriği 
+,
+2 -
+ll^
+h noktasıdır`
+-
+-
+,
+A a ^
+h noktasını{
+x eksenine göre simetriği 
+,
+diB -
+^
+ 
+{
+y eksenine göre simetriği 
+,
+dia -
+^
+Bir Noktanın x ve y Eksenlerine Göre SimetriğÖRNEÇÖZÜ'
+'
+-
+,
+-
+l^
+,
+2 -
+ll^
+,
+A 2 ^
+-
+Dönüşümle,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+v0 0 2 2 -
+-
+-
+-
+-
+^
+^
+^
+^
+^
+^
+h noktaların x eksenine ve y eksenin göre simetriği olan noktaları bulunuzx eksenine g re simetrigy eksenine g re simetrig,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+Nokt0 0 2 2 0 2 6 4 0 0 2 2 -
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+llllll{
+{
+^
+^
+^
+^
+^
+^
+^
+^
+^
+^
+^
+^
+^
+^
+^
+^
+^
+^
+Yukarıda görüldüğü gibi A noktası y ekseni üzerinde olduğu için A noktasının y eksenine göre 
+simetriği yine kendisidir. Benzer şekilde B noktası x ekseni üzerinde olduğu için B noktasının x 
+eksenine göre simetriği kendisidir. 
+,
+O 0 ^
+h noktası her iki eksenin kesim noktası olduğundan her 
+iki eksene göre simetriği yine kendisidirYandaki şekilde verilen ABC üçgeninin x eksenine göre 
+simetriği olan A B l l l üçgeni ile y eksenine göre simetriğ olan A B ll ll ll üçgeninin köşe noktalarının koordinatların bulunuz ve analitik düzlemde gösterinizAlA-
+-
+-
+-
+-
+-
+BCBlCl,
+,
+,
+,
+ve 1 3 1 -
+-
+-
+^
+^
+^
+h noktalarını:  x eksenine göre simetriği olan noktalar 
+   
+,
+,
+-
+-
+l^
+h  
+,
+,
+ve -
+-
+-
+-
+^
+^
+h noktalarıdır:  y eksenine göre simetriği olan noktalar           
+       
+   
+,
+,
+,
+,
+ve 1 3 1 lll^
+^
+^
+h noktalarıdır. 
+Bu noktalar analitik düzlemde işaretlenerek birleştirilirse 
+ABC üçgeninin x eksenine göre simetriği olan A B l l l 
+üçgeni ile y eksenine göre simetriği olan A B ll ll ll üçgen yandaki şekildeki gibi elde edilir. 
+ÇÖZÜÇÖZÜÖRNEÖRNEMatematik Bir Noktanın =
+ Doğrusuna Göre Simetriğ,
+,
+v3 -
+^
+^
+h noktaların =
+ doğrusuna göre simetriği olan noktaları bulunuz,
+A 3 ^
+h noktasının =
+ doğrusuna göre simetriği 
+,
+5 l^
+h noktasıdır,
+B -
+^
+h noktasının =
+ doğrusuna göre simetriği 
+,
+3 -
+l^
+h noktasıdır,
+2 -
+^
+h noktasının =
+ doğrusuna göre simetriği olan nokta 
+,
+-
+-
++
+l^
+h olduğuna 
+göre a ve b değerlerini bulunuz,
+2 -
+^
+h noktasının =
+ doğrusuna göre simetriği olan nokta 
+,
+di-
+l^
+ Bu durumda 
+,
+5 -
++
+^
+h noktasının =
+ doğrusuna göre simetriği olan nokta 
+,
++
+-
+l^
+h noktası 
+olduğuna göre a ve b değerlerini bulunuz,
+5 -
++
+^
+h noktasının =
+ doğrusuna göre simetriği olan nokta 
+,
+di1 +
+-
+l^
+ 
+Bu durumd,
+A a ^
+=
+,
+b l^
+,
+C b ^
+'
+'
+A noktasının =
+ doğrusuna göre simetriği 
+Al noktası ise AA@, =
+ doğrusuna dik ve 
+AD=
+l  olmalıdırC noktası =
+ doğrusu üzerinde olduğundan 
+,C ^
+h olur. ACAl üçgeninde kenarortay 

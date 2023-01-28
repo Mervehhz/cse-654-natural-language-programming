@@ -1,0 +1,400 @@
+=
+ 
+( )
+(
+)
+!
+(
+)
+!
+(
+)
+!
+&
+&
+=
+=
+=
+ olur"
+,
+:
+(
+)
+=
++
+-
++
++
+ fonksiyonu için ( )
+f 3  değerini bulunuz(
+)
+(
+)
+&
+$
++
+-
+=
++
++
++
+-
+=
++
+-
++
+^
+ olur. 
+Verilen fonksiyonda 2 +
+-  yerine  3 yazılırsa 
+(
+)
+(
+)
+3 &
+&
+$
+$
++
+-
+=
++
+-
++
+=
+=
++
+^
+^
+4444444 4444444  elde edilir. 
+"
+,
+:
+(
+)
+f +
+=
++
+-
+ fonksiyonu veriliyor. Buna göre ( )
+f 2  değerini bulunuz(
+)
+(
+)
+f $
++
+=
++
+-
+ fonksiyonunda 2 +
+ yerine A  yazılırsa fonksiyon ( )
+f =
+-
+ bulunur. 
+Buradan =
+ için ( )
+f 6 $
+=
+-
+=
+ olurGünle12345Sayfa sayısAşağıda, her gün kitap okuyan Gülbahar’ın 5 günlük bir süre içinde her bir güne ait okuduğu sayfa sayıların gösteren bir tablo verilmiştirBu bilgiler yardımıyla Gülbahar’ın günlere göre okuduğu sayfa sayısını veren grafiği oluşturunuz. 
+Tabloda Gülbahar’ın 1. gün 50, 2. gün 70, 3. gün 60, 4. gün 50, 5. gün 80 sayfa kitap okuduğu görülüyor. 
+Yatay eksende günler, dikey eksende okuduğu sayfa sayıları gösterilerek grafik aşağıdaki gibi oluşturulabilir. 
+Yandaki grafikte bir fidanın zamana göre boyundaki değişim 
+gösterilmiştir. Bu fidanın dikildiği andan itibaren 10 aylık süre içinde 
+boyunun aylara göre değişimini gösteren bir tablo yapınızAyla012345678910Fidanın 
+BoyGrafiğe bakıldığında fidanın 120 cm olarak dikildiği görülür. Fidanın dikildiği aydaki boyu 120 cm, 5. 
+aydaki boyunun 160 cm olmasından hareketle fidanın 5 ayda 40 cm uzadığı görülmüştür. Fidan aylara 
+göre doğru orantılı olarak uzadığından her ay 
+c=
+ uzar. Bu veriler aşağıda verilen tablodaki gibi 
+gösterilirBilg"
+,
+, 0, 1},
+,
+, 0, 2, 3, {
+{
+}
+:
+ve = -
+-
+= -
+-
+ olmak üzere 
+( )
+f =
+-  fonksiyonunun 
+içine fonksiyon olup olmadığını bulunuz"
+:
+B  fonksiyonunda tanım kümesindeki elemanların f fonksiyonu altındaki görüntüleri;
+(
+)
+(
+)
+$
+-
+=
+-
+-
+=
+-
+=
+,
+(
+)
+(
+)
+$
+-
+=
+-
+-
+=
+-
+=
+,
+( )
+( )
+f $
+=
+-
+=
+-
+= - ,
+( )
+( )
+f $
+=
+-
+=
+-
+=
+ olur. 
+Buna göre 
+1, 2,
+( )
+{
+}
+f = -
+ olur. 
+Elde edilen görüntü kümesi değer kümesine eşit olmadığından ( ( )
+f !
+ olduğundan) f fonksiyonu içine 
+fonksiyondurAşağıda tanım ve değer kümeleri verilen fonksiyonların içine fonksiyon olup olmadığını bulunuza) 
+"
+:
+, ( )
+f =
++
+b) 
+"
+:
+,
+( )
+g =
+-
+a) 
+"
+:
+, ( )
+f =
++  fonksiyonunda tanım kümesinden alınan 
+6 !
+ için değer kümesindeki 
+çift tam sayılar eşleşmeyeceğinden f fonksiyonu içine fonksiyondurb) 
+"
+:
+,
+( )
+g =
+-  fonksiyonunda tanım kümesinden alınan 
+6 !
+ için değer kümesinde 
+açıkta eleman kalmayacağından g fonksiyonu içine fonksiyon değildirA ve B boş kümeden farklı birer küme olmak üzer"
+:
+B  şeklinde tanımlanan f fonksiyonu için ( )
+f !
+ olduğundan (değer 
+kümesinde en az bir eleman açıkta kalıyorsa) f fonksiyonuna içine fonksiyon 
+denir. f içine fonksiyon ise kısaca f içinedir denirYanda verilen f fonksiyonu içine fonksiyondur çünkü f nin görüntü kümesi 
+{1, 2, 3, 4, 5} olup f nin değer kümesi olan {1, 2, 3, 4, 5, 6} ne eşit değildirBilgA ve B boş kümeden farklı birer küme olmak üzer"
+:
+B  tanımlanan f fonksiyonu için ( )
+f =
+ olduğundan (değer kümesindek her elemana karşılık tanım kümesinde en az bir eleman varsa) f fonksiyonun örten fonksiyon denir. f örten fonksiyon ise kısaca f örtendir denirYandaki f fonksiyonunun görüntü kümesi 
+1, 2, 3, ( )
+f A = "
+,  ve 
+değer kümesi 
+1, 2, 3, B = "
+,  olup f fonksiyonunun görüntü kümesi ile değer 
+kümesi aynıdır. Bu yüzden f örten fonksiyondur"
+, 0, 1, 2},
+, 2, 3, {
+{
+}
+:
+ve = -
+=
+ olmak üzere ( )
+f =
++
+ fonksiyonunun örten fonksiyo olup olmadığını bulunuz"
+:
+B  fonksiyonunda tanım kümesinin f fonksiyonu altındaki görüntü kümesinin elemanları;
+(
+)
+(
+)
+-
+= -
++
+= - +
+=
+,
+( )
+( )
+f =
++
+=
++
+=
+,
+( )
+( )
+f =
++
+=
++
+=
+,
+( )
+( )
+f =
++
+=
++
+=
+ bulunurBuna göre 
+, 2, 3, 10}
+( )
+{
+f =
+ olur. Elde edilen görüntü kümesi, değer kümesine eşit 
+( )
+f =
+^
+h olduğunda f fonksiyonu örten fonksiyondurAşağıda tanımlanan fonksiyonların örten fonksiyon olup olmadıklarını bulunuza) 
+"
+,
+:
+( )
+f =
+-       b) 
+"
+,
+:
+( )
+f =
+-
+      c) 
+"
+,
+:
+( )
+f =
++
+a) Değer kümesinden alınan 
+!
+-
+^
+ için tanım kümesinde bu sayı ile eşlenen 
+7 !
+ bulunacağında f fonksiyonunun değer kümesinde boşta eleman kalmaz. Dolayısıyla f fonksiyonu örtendir. 
+b) Değer kümesinden alınan bazı -
+ gerçek sayıları için tanım kümesinde bu sayı ile eşlenen bir x 
+tam sayısı bulunamaz. Örneğin -
+=
+ için =
+  olduğundan f fonksiyonu örten fonksiyo değildirc) Değer kümesinden alınan bazı 2 +
+ gerçek sayıları için tanım kümesinde bu sayı ile eşlenen bir x 
+gerçek sayısı bulunamaz. Örneğin olup &
++
+= -
+= -
+ olduğundan f fonksiyonu örten 
+fonksiyon değildira, b, A = "
+,  ve 
+1, 2, 3, B = "
+,  kümeleri veriliyor. Buna göre A kümesinden B kümesine tanımlı kaç 
+farklı bire bir fonksiyon yazılabileceğini bulunuz"
+,
+:
+( )
+f =
++
+ fonksiyonunun bire bir fonksiyon olup olmadığını bulunuz, ,
+b i i!
+!
+&
+!
+!
++
++
+ olur. Buradan ( )
+( )
+f f !
+ olduğundan f fonksiyonu bire bir fonksiyondurf fonksiyonu aynı zamanda örten olduğundan f fonksiyonunun bire bir örten fonksiyon olduğuna dikkat 
+ediniz"
+,
+:
+( )
+f =
++  fonksiyonunun bire bir fonksiyon olup olmadığını bulunuzTanım kümesinden alınan 
+v-
+ içi(
+)
+(
+)
+&
+= -
+-
+= -
++
+=
++
+=
+ ve 
+( )
+( )
+&
+=
+=
++
+=
++
+=
+ olur(
+)
+( )
+i in !
+-
+-
+=
+ olur. Buna göre tanım kümesinden alınan 
+v-
+ elemanlarının görüntüleri aynı 
+olduğundan f bire bir fonksiyon değildirBilg           
+Bir fonksiyonun tanım kümesindeki her bir elemanın görüntüsü tanım kümesindek diğer elemanların görüntülerinden farklı ise bu fonksiyona bire bir 
+fonksiyon denirA ve B boş kümeden farklı birer küme olmak üzer 
+"
+:f B  tanımlanan f fonksiyonu her ,
+x y !
+ ve 
+( )
+( )
+i in !
+!
+  ya 
+da ( )
+( )

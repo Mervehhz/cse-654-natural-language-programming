@@ -1,0 +1,400 @@
+Cu+
+Bakır (I)
+Cu2+
+Bakır (II)
+Sn2+
+Kalay (II)
+Sn4+
+Kalay (IV)
+Pb2+
+Kurşun (II)
+Pb4+
+Kurşun (IV)
+Hg+
+Cıva (I)
+Hg2+
+Cıva (II)
+Aşağıdaki iyonik bileşikleri adlandırınıza. Ag2b. AlClc. Zna. Gümüş sülfür        b. Alüminyum klorüc. Çinko oksi3. UygulamÇözüTablo 1.6 Değişken 
+değerlikli metalle1.Ünite Kimyasal Türler Arası EtkileşimleDeğişken değerlikli metallerden oluşan bazı iyonik bileşiklerin adları 
+aşağıdaki tabloda verilmiştir: 
+BileşiMevcut İyonlaAdKatyonlaAnyonlaCuCCu+ 
+Cl-
+Bakır (I) klorüCuClCu2+
+Cl-
+Bakır (II) klorüSnOSn4+ 
+O2-
+Kalay (IV) oksiHgHg2+ 
+O2-
+Cıva (II) oksiPbClPb2+ 
+Cl-
+Kurşun (II) klorüFe2OFe3+ 
+O2-
+Demir (III) oksiTablo1.7 Değişken 
+değerlikli metallerin 
+oluşturduğu iyonik 
+bileşikleÇok Atomlu İyonlardan Oluşan İyonik Bileşiklerde Adlandırma 
+Bazı iyonik bileşiklerde anyon veya katyonlar birden fazla türde atom içerir. 
+Birden fazla türde atom içeren anyon ve katyonlara çok atomlu iyonlar denir. 
+Çok atomlu iyonlara kök de denir. Çok atomlu iyonlardan oluşan iyonik 
+bileşiklerin adlandırılmasında kök adları kullanılır. Örneğin KNO3 bileşiği 
+tek atomlu K+ katyonundan ve çok atomlu NO- anyonundan oluşmaktadır. 
+K+ katyonunun adı “potasyum” iken, birden çok atomdan oluşan (NO-) 
+anyonunun adı “nitrat” tır. Oluşan bileşiğin tam adı ise “potasyum nitrat”tırKNO3 : Potasyum nitraFeSO4 bileşiğinde ise katyonun adı  “demir (II)” , çok atomlu anyon olan SO2-  
+kökünün adı ise “sülfat” tır. Bu durumda bileşiğin adı “demir (II) sülfat” tırFeSO4: 
+ Demir (II) sülfaAşağıdaki iyonik bileşiklerin adları nelerdir? 
+a. SnClb. HgCc. FeI2 
+a. Kalay (II) klorüb. Cıva (I) klorüc. Demir (II) iyodü4. UygulamÇözüKimya Tablo 1.8’ de bazı çok atomlu iyonların (köklerin) adları yer almaktadır. 
+Kök AdFormülKök AdFormülAsetaCH3COO-
+AmonyuNH+
+KarbonaCO2-
+FosfaPO3-
+HidroksiOH-
+SülfaSO2-
+NitraNO-
+SiyanüCN-
+Eğer bileşikteki anyon ve katyonun her ikisi de çok atomlu iyonsa 
+adlandırmada her ikisinde de kök adı kullanılır. Örneğin NH+ ve PO3- 
+iyonlarından oluşan (NH4)3PO4 bileşiğinin adı “amonyum fosfat” tır(NH4)3PO4 : Amonyum fosfaKOVALENT BAĞIN OLUŞUMAmetal atomları elektron almaya yatkın olduklarından kendi aralarında 
+elektronlarını ortaklaşa kullanırlar. Aynı ya da farklı türde ametal atomlarının 
+elektronlarını ortaklaşa kullanmaları sonucu aralarında oluşan etkileşime 
+kovalent bağ denir. Ortaklaşa kullanılan elektronlara her iki atomun 
+protonları da elektrostatik çekim kuvveti uygular. Kovalent bağ güçlü bir 
+etkileşimdir (Görsel 1.11) Aşağıdaki iyonik bileşiklerin adları nelerdir?
+a. NaOb. KCH3COc. CaCOç. LiCa. Sodyum hidroksib. Potasyum asetac. Kalsiyum karbonaç. Lityum siyanü5. UygulamÇözüTablo 1.8 
+Bazı çok 
+atomlu iyanlaGörsel 1.11 
+Hidrojen atomları 
+arasında kovalent 
+bağ oluşumelektroprotoHidrojeatomHidrojeatomHidrojen molekülü (H2)
++
+-
++
+-
++
+-
+-
++
+1.Ünite Kimyasal Türler Arası EtkileşimleAmetal atomları değerlik elektronlarını ortaklaşa kullandıklarında son 
+katmanlarındaki maksimum elektron sayısına ulaşırlar. Ortak kullanılan 
+elektronlar atomlardan her ikisine de aittir. Kovalent bağlanma ile moleküller 
+oluşur. 
+Değerlik elektronlarının kaç tanesinin kovalent bağ oluşturacağına karar 
+verebilmek için atomların Lewis sembollerinden yararlanılabilir. Örneğin, 
+son katmanında 7 elektron bulunan flor atomu  (9F), bir elektrona daha sahip 
+olabilirse katman kapasitesini doldurur. Bunun için diğer ametal atomuna ait 
+1 elektronu ortak kullanabilir. Flor atomunda ortak kullanıma uygun elektron 
+Lewis sembolündeki yalnız elektrondur. Flor atomunun Lewis sembolünde 
+bir yalnız elektron bulunduğundan, Flor atomu bir kovalent bağ yapar. 
+Aşağıda flor atomlarının yalnız elektronlarını ortaklaşa kullanmaları sonucu 
+oluşan flor molekülünün Lewis elektron nokta formülü yer almaktadır: 
+F yalnız elektronlaortaklanmış 
+elektron çiftKovalent bağdaki elektron çiftlerine ortaklanmış elektron çiftleri (bağlanma 
+çiftleri veya paylaşılan çiftler) adı verilir. Lewis formülünde iki atom arasında 
+kalan her iki nokta, diğer bir ifadeyle ortaklaşa kullanılan her iki elektron bir 
+kimyasal bağı temsil eder. Bu bağ bir çizgi ile de gösterilebilir. Azot ve hidrojen 
+atomlarından oluşan amonyak molekülünü inceleyelim:  
+NH3 molekülünde azot atomu üç, her bir hidrojen atomu bir kovalent bağ 
+yapar. 
+Diğer atomlarla bağ 
+yapabilen yalnız elektronlaOrtak kullanılan 
+elektron çiftlerya dKimyasal ba+
+Kimya Sonuç olarak azotun hidrojenle yaptığı bileşiğin formülü NH3 'tür. Her 
+azot atomu sahip olduğu tek elektronları üç hidrojen atomuyla paylaşır 
+ve hepsi elektron kapasitesini doldurur. Aşağıdaki tabloda bazı ametal 
+atomlarının Lewis yapısı ve oluşabilecek moleküller yer almaktadır. 
+GruElement 
+AtomLewis 
+YapısKovalent 
+Bağ SayısMoleküIII3 BaBFIVC, S4 BaCCl4, CHVN, 3 BaNH3, PCl3, NClVIO, 2 BaH2S, H2O, CI2VIIF, Cl, Br, 1 BaHCl, HF, OFKovalent bağ, bağı oluşturan atomların bağdaki elektronlara uyguladığı 
+çekim kuvvetine göre polar ve apolar kovalent bağ olmak üzere ikiye ayrılır:
+1. Apolar Kovalent BaAynı tür atomlar arasında gerçekleşen kovalent bağa apolar kovalent 
+bağ denir. Örneğin H2, N2, O2, Cl2 vb. moleküller apolar kovalent bağ içerir. 
+Kovalent bağın her iki ucundaki atom aynı türde olduğunda, bu atomlar 
+ortaklaşa kullanılan elektron çiftlerine eşit güçte çekim kuvveti uygular. 
+Tablo 1.9 Bazı  
+ametal atomlarının 
+yapabilecekleri 
+kovalent bağ sayıları 
+ve  oluşabilecek bazı 
+molekülleKovalent Ba1. ApolaKovalent Ba2. PolaKovalent Ba1.Ünite Kimyasal Türler Arası EtkileşimleBu nedenle ortaklaşa kullanılan elektronlar bağda eşit dağılım gösterirler 
+yani bağdaki elektron dağılımında kutuplaşma oluşmaz. Bu nedenle bu bağa 
+kutupsuz anlamına gelen apolar kovalent bağ denir2. Polar Kovalent BaPolar kovalent bağ, farklı ametal atomları arasında gerçekleşen bağdır. 
+Atomlar farklı türde olduklarında, protonları, ortaklaşa kullanılan elektronlara 
+farklı güçte çekim kuvveti uygular. Bu nedenle, ortaklaşa kullanılan elektronlar 
+bağın bir ucuna daha yakın konumda bulunur. Böylece bağın bir ucu kısmî 
+pozitif (δ+), diğer ucu kısmî negatif (δ-) yüklenir, yani yük dağılımında 
+kutuplaşma olur. Bu nedenle bu tür bağa kutuplu anlamına gelen polar 
+kovalent bağ denir. HCl , H2O, CH4 , BH3 vb. moleküller polar kovalent bağ 
+içerirElektronların kovalent bağdaki dağılımlarının eşit olup olmamasına göre 
+oluşan moleküller de polar veya apolar yapıda olmaktadırPolar ve Apolar MolekülleSadece iki atomdan oluşan moleküllerdeki kovalent bağlar, molekülün 
+polarlığı hakkında bilgi verebilir. İki atomlu moleküllerde molekülü oluşturan 
+bağlar apolar kovalent olduğunda moleküller de apolar yapıdadır. Örneğin 
+H2 , F2 ,  O2 ve N2 molekülleri apolar moleküllerdir. Eğer molekülü oluşturan 
+bağ , polar kovalent bağ ise molekül de polar yapıdadır. Örneğin HF ve HCl 
+moleküllerinde bağ polar olduğundan, molekül de polardır. Böyle 
+moleküllerde molekülü oluşturan atomların elektronegativite değerleri 
+karşılaştırılır. Elektronegativite değeri yüksek olan atom molekülün  δ-  
+tarafını, diğeri de δ+   tarafını   oluşturur. 
+İkiden daha fazla sayıda atom içeren moleküllerin polar mı yoksa apolar 
+mı olduğunu belirlemek ise iki atomlu moleküllere göre daha karmaşıktır. 
+Bunun 
+için 
+moleküllerin 
+Lewis 
+elektron 
+nokta 
+formüllerinden 
+yararlanabiliriz. Aşağıda bazı moleküllerin ve içerdikleri bağların polar olup 
+olmadığı Lewis yapıları üzerinden irdelenmiştir:
+Hidrojen Molekülü (H2)
+İki hidrojen atomu yeterince yakınlaştığında birer tane bulunan değerlik 
+elektronlarını ortaklaşa kullanırlar ve aralarında apolar kovalent bağ oluşur. 
+Hidrojen molekülü oluşumunun Lewis gösterimi şu şekildedir:
+ya d+
+Kimya Lewis formülünden de anlaşılacağı gibi klor molekülü apolar yapıdadırOksijen Molekülü (O2)
+Oksijen atomları ikişer elektronunu ortaklaşa kullanarak aralarında ikili bağ 
+oluşturur. Oluşan bağ apolar kovalent bağdır. Benzer şekilde molekül de apolar 
+yapıdadır Oksijen molekülü oluşumunun Lewis gösterimi aşağıdaki gibidir:
+Azot Molekülü (N2)
+İki azot atomu arasında üç çift elektron ortak kullanılır. Üçlü bağ oluşur. 
+Oluşan üçlü bağ apolar kovalenttir. Oluşan azot molekülü de apolar yapıdadır. 
+Bu bağın Lewis gösterimi aşağıdaki gibidir:
+Hidrojen molekülünün Lewis yapısı incelendiğinde hidrojen atomlarının 
+bağdaki elektronlara eşit ve zıt yönde çekim kuvveti uyguladığı görülür. Zıt 
+yönlü ve eşit çekim kuvvetinden dolayı molekül üzerinde net bir kuvvet kalmaz. 
+Bu nedenle hidrojen molekülü apolar yapıdadırKlor Molekülü (Cl2)
+Klor atomu kimyasal bağ yaparken 1 elektrona ihtiyaç duyar. Diğer klor 
+atomu ile elektronunu paylaştığında, iki klor atomu arasında apolar kovalent 
+bağ oluşur. 
+Lewis formülleri yazılırken yalnızca değerlik elektronları dikkate 
+alındığından klor molekülünün oluşumu aşağıdaki gibidir:                                       
+CCCCCC+
+ya d+
+ya dya d+
+1.Ünite Kimyasal Türler Arası EtkileşimleHidrojen Klorür Molekülü (HCl)
+Hidrojen klorür (HCl), polar kovalent bir bağa sahiptir. Klor, hidrojenden 
+daha elektronegatif bir atomdur. Bu nedenle klor atomu bağdaki elektronlara 
+daha çok çekim kuvveti uygular. Bağdaki elektronları klor ve hidrojen atomu 
+zıt yönde ancak farklı kuvvetlerde çektiğinden molekül üzerinde net bir kuvvet 
+oluşur. Bu nedenle molekül de polar yapıdadırLewis gösterimi;
+CCCya dδ+
+δ-
+δ+
+δ-
++
+Su Molekülü (H2O)
+Su molekülündeki (H2O) oksijen atomu ile her hidrojen atomu arasında polar 
+kovalent bağ bulunur. Kovalent bağların her biri, biri hidrojen atomundan, 
+diğeri oksijen atomundan olmak üzere iki elektron içerir. Oksijen atomu yalnız 
+elektronlarından birisini bir hidrojen atomuyla, diğerini de diğer hidrojen 
+atomuyla ortaklaşa kullanırOksijenin elektronegatiflik değeri hidrojenin elektronegatiflik değerinden 
+daha büyük olduğundan bağın oksijen tarafı kısmî negatif yüke sahipken, 
+hidrojen atomu tarafı kısmî pozitif yüke sahiptir. 
+Su molekülünün Lewis gösterimi aşağıdaki gibidir:
+Lewis gösterimi incelendiğinde, oksijen atomu her iki bağdaki elektronları 
+kendine doğru daha büyük kuvvetle çekeceğinden molekül üzerinde net bir 
+kuvvet oluşur. Bu nedenle su molekülü polar yapıdadır. 
+ya dδ+
+δ+
+δ-
+Kimya CH4 molekülünde de bütün çekim kuvvetleri birbirini nötrlediği ve 
+molekül üzerinde net bir kuvvet kalmadığı için molekül apolar yapıdadırAmonyak Molekülü (NH3)
+Amonyak molekülünde (NH3), azot ve hidrojen atomları arasında 
+polar kovalent bağlar oluşur. Azot atomu hidrojen atomundan daha 
+elektronegatiftir. Bu nedenle azot atomu bağdaki elektronları daha çok 
+çeker. Su molekülünde olduğu gibi amonyak molekülü de polar yapıdadırBor Trihidrür Molekülü (BH3)
+Bor atomu 3 değerlik elektronuna sahiptir. Bu elektronları üç hidrojen 
+atomuyla ortaklaşa kullanarak üç polar kovalent bağ yapar ve bor trihidrür 
+bileşiği oluşur. Lewis yapısı incelendiğinde bor atomunun, her bir borhidroje bağının elektronlarını aynı kuvvetle çektiği ve bu kuvvetlerin 
+bileşkesinin sıfır olduğu yani molekül üzerinde net bir kuvvet olmadığı 
+anlaşılır. Bu nedenle moleküldeki bağlar polar olmasına rağmen molekül 
+apolar yapıdadırMetan Molekülü (CH4)
+Karbon atomu dört ortaklanmamış elektronu olması nedeniyle dört bağ 
+yapar. Metan molekülünde bağların her biri polar kovalent bağdır. Metan 
+molekülünün Lewis gösterimi yandaki gibidir: 
+ya dya d1.Ünite Kimyasal Türler Arası EtkileşimleKOVALENT BİLEŞİKLERDE ADLANDIRMKovalent bileşikler iyonik bileşiklerden farklı olarak yalnız ametallerden 
+oluşan bileşiklerdir. İyon içermezler, moleküllerden oluşurlar. Adlandırılırken 
+iyonik bileşiklerden farklı olarak formüldeki elementlerin sayıları da belirtilir. 
+Kovalent bileşikleri adlandırmada aşağıdaki kurallar geçerlidir:
+• İlk önce formülde ilk sırada yer alan elementin sayısı, sonra elementiadı yazılır. Ardından ikinci sırada yer alan elementin sayısı, son olaraelementin anyon adı yazılır• Element sayıları latince olarak yazılırAşağıdaki tabloda 1’den 10’a kadar olan sayıların Latince adları yer 
+almaktadır:
+SayılaLatince adı mono dtrtetrpenthekzheptoktnondekÖrnek:  
+N2HDiazot tetrahidrüP2ODifosfor trioksiKarbon dioksit (CO2) molekülünün Lewis elektron nokta 
+formülünü çizerek kovalent bağın ve molekülün polarlık/ 
+apolarlık durumunu belirtiniz. ( 6C, 8O)
+ 
+ 
+ya da 
+Karbon ve oksijen atomları arasında polar kovalent bağ 
+bulunur ancak molekül apolar yapıdadır6. UygulamÇözüTablo 1.10 1’den 10’a kadar Latince sayılaKimya H2O ve NH3 bileşiklerinin sistematik adları kullanılmamaktadır. Yaygın 
+adları olan "Su" ve "Amonyak" adları tercih edilmektedir. 
+Asitler kovalent yapılı bileşiklerdir ancak asitlerin sistematik adlandırması 
+verilen adlandırma kurallarından biraz farklıdır. Bazı asitlerin sistematik adları 
+aşağıdaki tabloda verilmiştir:
+AdFormülHidroklorik asiHCSülfürik asiH2SONitrik asiHNOOrganik bileşikler kovalent yapılıdır ancak adlandırılmasında bu kurallar 
+uygulanmaz. Onların kendilerine özgü adlandırma kuralları vardır. 
+Bilgi NotTablo 1.12 Bazı 
+asitlerin adlarTablo 1.11 
+Bazı kovalent 
+bileşiklerin 
+adlandırılmas• İlk elementin sayısı bir ise “mono” ön eki kullanılmaz, ancak ikinci 
+elementin sayısı bir ise “mono” eki kullanılır. Örneğin NO bileşiğinin 
+ismi “azot monoksit” tir; “monoazot monoksit” şeklinde adlandırılmaz• Adlandırmada Latince sayı “o” harfi ile bitiyor, element ismi de “o” harfile başlıyorsa iki tane “o” harfi yan yana yazılmaz, sadece bir tane “o” harfyazılır. Örneğin NO bileşiği “azot monoksit” olarak adlandırılır. “Azomonooksit” adlandırması yanlıştırAşağıdaki tabloda bazı kovalent bileşiklerin adlandırması yer almaktadır:
+AdFormülAdFormülDiazot monoksiN2Karbon dioksiCOKükürt trioksiSOBor triflorüBFKarbon monoksiCDihidrojen monoksiH2Fosfor trihidrüPHAzot trihidrüNH1.Ünite Kimyasal Türler Arası EtkileşimleMETALİK BAĞLAMetal atomlarının bir arada durmasını sağlayan etkileşim 
+türü ise metalik bağdır. Metal atomlarının son katmanlarında 
+çok az sayıda elektron olduğundan başka elektronlar için de 
+boş yer bulunur. Bu nedenle bir metal atomunun değerlik 
+elektronları 
+diğer 
+atomların 
+katmanlarında 
+serbestçe 
+dolaşabilir. Çok sayıda atomun değerlik elektronları bu 
+şekilde serbestçe dolaştığında elektron denizi oluşur. Metal 
+atomlarının değerlik elektronları başka atomların katmanına 
+geçtiğinde metal atomları pozitif yüklü hâle gelir (Görsel 
+1.12). Elektronlar negatif yüklü olduklarından, pozitif yüklü 
+metal iyonlarıyla elektron denizindeki elektronlar arasında 
+elektrostatik çekim kuvveti oluşur. Oluşan bu çekim kuvvetine 
+metalik bağ denirMetalik bir bağa katılan değerlik elektronları kovalent bağda olduğu gibi komşu 
+atomlarla paylaşılmaz ya da iyonik bağda olduğu gibi elektron alışverişi gerçekleşmez. 
+Elektron denizinde serbest hareket eden elektronlar tüm metal katyonları tarafından 
+ortak paylaşılır. Metaller serbest hareket edebilen elektronları nedeniyle, iyi bir elektrik 
+ve ısı iletkenliğine, dövülüp işlenebilme ve tel ve levha hâline gelme özelliklerine 
+sahiptirler. 
+Aşağıdaki kovalent bileşiklerin adları nelerdir? 
+a. PClb. SOc. P2Oç. N2Oa. Fosfor triklorüb. Kükürt dioksic. Difosfor trioksiç. Diazot tetraoksiAşağıda adları verilen kovalent bileşiklerin formülleri nedir?
+a. Kükürt dioksib. Fosfor pentaklorüc. Karbon tetraklorüç. Bor triflorüd. Kükürt hekzaflorüe. Diazot tetraflorüa. SOb. PClc. CClç. BF3             d. SFe. N2F7. Uygulam8. UygulamÇözüÇözüGörsel 1.12 Mg metali 
+elektron denizi model2+
+2+
+2+
+2+
+2+
+2+
+2+
+2+
+2+
+e-
+e-
+e-
+e-
+e-
+e-
+e-
+e-
+Kimya 1.4. ZAYIF ETKİLEŞİMLEZayıf etkileşimler moleküller arasındaki ve soy gaz atomları arasındaki 
+etkileşimdir. Örneğin suyu oluşturan oksijen ve hidrojen atomları arasındaki 
+etkileşim güçlü etkileşim iken su molekülleri arasındaki etkileşim zayıf 
+etkileşimdir. Benzer şekilde metal atomları arasındaki etkileşim güçlü 
+etkileşimken helyum, neon gibi soy gaz atomları arasındaki etkileşim zayıf 
+etkileşimdir. 
+Zayıf etkileşimler maddenin fiziksel hâlini belirler. Maddenin erime noktası, 
+donma noktası gibi fiziksel özellikleri de tanecikler arasındaki zayıf etkileşimin 
+gücüne bağlıdır. Zayıf ve güçlü etkileşimleri ayırt etmek için bu etkileşimlerin 
+oluşması sırasında açığa çıkan veya kopması için verilmesi gereken enerji 
+miktarından yararlanabiliriz. 
+ZAYIF VE GÜÇLÜ ETKİLEŞİMLERİN BAĞ ENERJİSİ ESASINA 
+GÖRE AYIRT EDİLMESTaneciklerin birbiriyle etkileşmesi sonucu açığa çıkan ve tanecikler 
+arasındaki etkileşimin kopması için taneciklere verilmesi gereken enerjiye 
+bağ enerjisi denir. Güçlü etkileşimlerde bağ enerjisi oldukça yüksekken, zayıf 
+etkileşimlerde düşüktür. Örneğin magnezyum oksit (MgO) bileşiğinde 
+magnezyum ve oksijen atomları arasındaki bağı koparmak için gereken 
+enerji, sıvı metil alkol (CH3OH) tanecikleri arasındaki etkileşimi koparmak 
+için gereken enerjiden oldukça fazladı  r. 
+MgO(k)     + 
+3850 kj/mol 
+CH3OH(s)   + 
+35,3  kJ/mol  
+Mg 2+ (g)      +      O2- (g) 
+CH3OH(g) 
+Yukarıdaki tepkimelerdeki bağ enerjileri karşılaştırıldığında magnezyum 
+ve oksijen tanecikleri arasındaki etkileşimin güçlü, CH3OH molekülleri 
+arasındaki etkileşimin zayıf olduğu görülür. Genellikle bağ enerjisi 40 kj/mol 
+ve daha az ise etkileşim zayıf, çok daha fazla ise etkileşim güçlü kabul edi   lir. 
+Aşağıda bağ enerjisi esasına göre güçlü ve zayıf etkileşimin gerçekleştiği 
+tepkime örnekleri yer almaktadır:
+Na+(g)  +  Cl- (g) 
+    (Güçlü etkileşim)
+NaCl(k) +  787 kj/mol  
+H2O(s) +  40,7 kj/moH2O(g)  
+    (Zayıf etkileşim)
+CH4(g)   
+CH4(s)  +  8,1 kj/mo(Zayıf etkileşim)
+Zayıf etkileşimleri Van der Waals kuvvetleri ve hidrojen bağları olmak 
+üzere iki sınıfa ayırmıştık. Van der Waals kuvvetlerini de aşağıdaki şemada 
+gösterildiği gibi dipol-dipol, iyon-dipol, London kuvvetleri, 
+dipolindüklenmi dipol ve iyon-indüklenmiş dipol  olarak beşe ayırabiliriz:
+1.Ünite Kimyasal Türler Arası EtkileşimleZayıf Etkileşimle1. Van der WaalEtkileşimlera) Dipol-dipo2. HidrojeBağlarb) İyon-dipoç) Dipol-indüklenmiş 
+dipod)İyon-indüklenmi             dipol     
+c) London kuvvetler1. Van der Waals Etkileşimlera) Dipol-dipol etkileşimPolar moleküller arasında oluşan etkileşimdir. Polar bir molekülün pozitif 
+yüklü (δ+) kısmı ile diğer molekülün negatif yüklü kısmı (δ–) arasında 
+gerçekleşen bu etkileşime dipol-dipol etkileşimi denir. Örneğin; HCl, HBr, 
+S2O, PH3, NO, CO molekülleri arasındaki etkileşim dipol-dipol etkileşimidirMolekül polarlığı ne kadar fazlaysa etkileşim o kadar güçlü dür, 
+dolayısıyla bu tür bileşiklerin erime ve kaynama noktaları yüksek  olurDipol iki kutuplu anlamına gelir. Dipol-dipol etkileşimi gerçekleştiren 
+moleküllerin bir ucu kısmî pozitif diğer ucu kısmî negatif yüke sahiptirBilgi NotCCCPolar kovalent ba (Güçlü etkileşim)
+Dipol-dipol etkileşi   (Zayıf etkileşim)
+δ+
+δ+
+δ+
+δ-
+δ-
+δ-
+Polar kovalent ba (Güçlü etkileşim)
+Kimya b) İyon-dipol etkileşimPolar bir molekül ile iyonlar arasında oluşan etkileşime iyon-dipol 
+etkileşimi denir. İyon-dipol etkileşimi polar molekülün pozitif yüklü (δ+) 
+kısmı ile negatif yüklü iyon arasında, polar molekülün negatif yüklü ( δ –)  kısmı 
+ile pozitif yüklü iyon arasında gerçekleşir. Bu etkileşime örnek olarak, iyonik 
+katıların polar çözücülerde çözünmeleri verilebilir. Örneğin, sodyum klorür 
+tuzunun suda çözünmesi polar yapıda olan su molekülleri ile sodyum ve klor 
+iyonları arasındaki etkileşim sayesinde olur.  Su moleküllerinde oksijen atomu 
+kısmî negatif yüklü, hidrojen atomları ise kısmî pozitif yüklüdür. Bu nedenle su 
+moleküllerinin oksijen atomu bulunan ucu Na+ iyonlarına, hidrojen atomları 
+bulunan ucu da Cl- iyonlarına çekim kuvveti uygularGörsel 1.13  Su molekülleri ile yemek tuzunu oluşturan Na + ve Cl - iyonları 
+       arasındaki iyon-dipol  etkileşimc) London kuvvetlerDaha önceki konuda bahsedildiği gibi apolar moleküller üzerinde net bir 
+kuvvet yoktur. Yani elektronlar apolar molekülde eşit oranda dağılım 
+gösterirler, dolayısıyla polar moleküllerde olduğu gibi kalıcı olarak pozitif ve 
+negatif uçlar bulunmaz. Peki, bu durumda apolar moleküller birbirleriyle 
+nasıl etkileşir? 
+Bilindiği gibi atomlar pozitif yüke sahip çekirdekten ve çekirdeği 
+çevreleyen negatif yüklü elektron bulutundan oluşmaktadır. Elektronlar sabit  
+konumda durmadıklarından yani sürekli yer değiştirdiklerinden bazı anlarda 
+atomun bir kısmındaki elektron yoğunluğu, diğer kısmından daha fazla olur. 
+Bu da geçici olarak atomun bir kısmının pozitif, diğer kısmının negatif yüke 
+sahip olmasını sağlar. Anlık oluşan bu yük kutuplaşmasına indüklenmiş 
+dipol denir. 
+Cl -
+Na +
+1.Ünite Kimyasal Türler Arası EtkileşimleAtomdaki elektronların konumu sürekli değiştiğinden yük kutuplaşması da 
+sürekli farklı bölgelerde olur.  
+ Apolar moleküllerin etkileşmesi indüklenmiş dipolden kaynaklanır. Her 
+ne kadar apolar moleküllerin üzerinde net bir kuvvet olmasa da elektronların 
+hareketinden kaynaklanan anlık yük kutuplaşması sayesinde molekülün 
+bir kısmı geçici olarak negatif, diğer kısmı ise pozitif yüklü olur. Zıt yükler 
+birbirini çekeceğinden molekülün negatif ucuyla, diğer molekülün pozitif ucu 
+birbirlerine çekim kuvveti uygular ve aralarında etkileşim gerçekleşirAşağıda hidrojen moleküllerinin kısmi pozitif ve negatif yüklenmesi ve 
+moleküller arasındaki indüklenmiş dipol-indüklenmiş dipol etkileşimi yer 
+almaktadır:
+Apolar moleküller arasında gerçekleşen indüklenmiş dipol-indüklenmiş 
+dipol etkileşimine London kuvvetleri denir. H2 , Cl2 ,  O2 , CO2 vb. apolar 
+molekülleri arasında london kuvvetleri görülür. He, Ne gibi soy gaz atomları 
+arasındaki etkileşim de London kuvvetleridirApolar moleküller arasındaki çekim kuvveti anlık oluştuğundan, London 
+kuvvetleri oldukça zayıf bir etkileşim türüdür. 
+ç) Dipol-indüklenmiş dipol etkileşimlerDipol olayı polar moleküllerde, indüklenmiş dipol olayı da apolar 
+moleküllerde olduğundan dipol-indüklenmiş dipol etkileşimleri polar 
+moleküllerle apolar moleküller arasındaki etkileşimdir. Polar moleküllerin 
+kalıcı olarak pozitif ve negatif uçları bulunduğundan, apolar moleküller  geçici 
+olarak pozitif ve negatif uçlara sahip olduğunda zıt yükler arasında bu etkileşim 
+gerçekleşir. Çok zayıf bir etkileşimdir. 
+İndüklenmiş dipol-indüklenmiş dipol etkileşimH   HHH   ---------
+δ+
+δ+
+δ-
+δ-
+Cl    CCl    CCl    CKovalent baLondon kuvvetler--------- 
+--------- 
+Kimya Örneğin havadaki oksijenin deniz suyunda çözünmesi dipol-indüklenmiş dipol 
+etkileşimidir (su molekülleri polar, oksijen molekülleri apolar yapıdadır.). Bu sayede 
+balıklar denizdeki oksijeni kullanarak canlılık faaliyetlerini gerçekleştirebilmektedir. 
+Soygaz atomlarıyla polar moleküller arasındaki etkileşim de dipol-indüklenmiş dipol 
+etkileşimdird) İyon-indüklenmiş dipol etkileşiİyonlarla apolar moleküller arasındaki etkileşimdir. Örneğin deniz suyun-daki 
+tuzlar, çözünmüş olarak (+) ve (-) yüklü iyonlar hâlinde bulunurlar. Bu iyonların 

@@ -1,0 +1,400 @@
+:
+, ( )
+f -
+-
+=
+-
++
+!
+&
++
+ fonksiyonunun tersinin kuralını bulunuz( )
+(
+)
+( )
+oluf xx&
+&
+&
+&
+&
+&
+&
+=
+=
+-
++
+=
+-
++
+-
+=
++
+-
+=
++
+-
+=
++
+=
+-
++
+=
+-
++
+-
+"
+,
+:
+( )
+f -
+-
+=
++
++
+!
+!
++
++
+ bire bir ve örten fonksiyon olduğuna göre +
+ değerini bulunuzf fonksiyonu bire bir ve örten olduğundan f fonksiyonunu tanımsız yapan değerin tanım kümesinde bulunmamas gerekir. f nin tanım kümesi olan 
+R - ! +  kümesindeki a değeri, paydayı sıfır yapan değer olat 3 -
+ 
+f fonksiyonunun değer kümesi f -  fonksiyonunun tanım kümesi olacağından 
+( )
+=
+-
+-
++
+-
+ fonksiyonun tanımsız yapan (paydayı sıfır yapan) 
+R - ! +  kümesindeki b değeri 1 dirBuradan +
+= - +
+= -  olur"
+,
+:
+(
+)
+f +
+=
+-
+ olmak üzere 
+( )
+-
+ değerini bulunuz( )
+( )
+f &
+=
+=
+-
+ olduğundan 
+(
+)
+(
+)
+f &
+-
+=
++
++
+=
+-
+-
+ olurBuradan 
+( )
+-
+ değerini bulmak için 
+-
+ ifadesi 5 e eşitlenerek x değeri bulunur ve bulunan değer 
+fonksiyonda x yerine yazılır&
+-
+=
+=
+ bulunup 
+(
+)
+-
+=
++
+-
+ fonksiyonunda x yerine 1 yazılırs(
+)
+( )
+olu2 &
+$
+-
+=
++
+=
+-
+-
+"
+,
+:
+( )
+f -
++
+= ]
+ olmak üzere 
+(
+)
+-
+ değerini bulunuz1. yof(x) fonksiyonu verilip  
+(
+)
+-
+  değeri istendiğinde 
+( )
+-
+ fonksiyonun kuralında x yerine 13 yazılarak 
+sonuç bulunabilir( )
+(
+)
+(
+)
+(
+)
+( )
+(
+)
+f olu=
+-
++
+-
++
++
+=
++
+=
+=
+=
+-
++
+-
+=
+-
+-
+=
+-
+-
++
+=
+=
+-
++
+=
+-
++
+=
+-
+-
+]
+2. yo( )
+(
+)
+((
+)
+)
+f &
+=
+-
++
+-
++
+=
+-
+ ve (
+)
+(
+)
+olu&
+&
+-
++
+=
+-
+=
+=
+ Buradan 
+(
+)
+=
+-
+ olarak bulunur"
+,
+8,
+),
+:
+( )
+f -
+=
++
+^
+@
+ olmak üzere (
+)
+(
+)
+-
++ -
+ değerini bulunuz(
+)
+(
+)
+2 2 +
+=
++
+=
+-
+= -
+(
+)
+-
+ değeri için ( )
+f x  fonksiyonu 17 ye eşitlenirs( )
+veya f olu= -
+= +
+=
++
+=
+=
+( )
+f x  fonksiyonunun tanım kümesi olan 
+, -
+^
+@ aralığında 
++  bulunmadığından = -  olmalıdırBuradan (
+)
+(
+)
+(
+)
+-
++
+=
++ -
+=
+-
+ olur"
+:
+, (
+)
+(
+)
+ve -
+=
++
++
+=
+-
+ olduğuna göre m değerini bulunuz(
+)
+(
+)
+ise +
+=
+=
++
+-
+ olur. Buradav-
+=
++
+=
++
+,
+ve &
+-
+=
+=
+=
+,
+ve 3 &
+$
++
+=
++
++
+=
++
+=
+ olurİpucUygun koşullarda tanımlı f, g ve h fonksiyonları içi&
+birim fonksiyondur)olur( :
+fogoh veya hohof olufooolufooolu=
+=
+=
+=
+=
+=
+=
+-
+-
+-
+-
+-
+-
+-
+^
+^
+^
+^
+a)
+b)
+c)
+ç)
+f, tanımlı olduğu aralıkta bire bir ve örten bir fonksiyon olmak üzere ( )
+( )
+( )
+f ave f =
+-
++
+=
+-
+ olduğun göre ( )
+f a  değerini bulunuz( )
+( )
+f a&
+=
+-
++
+=
+-
++
+-
+ olur( )
+( )
+f =
+-
+ isa=
+-
++
+-
++
+ olur. Buradan =
+ olarak bulunur. a değeri fonksiyonda yerine 
+yazılırsa 
+)
+(f =
+-
++
+ bulunur. Buradan ( )
+( )
+f f 2 3 $
+$
+=
+=
+-
++
+=
+=
+ olur"
+"
+,
+,
+:
+( )
+:
+( )
+f vg =
++
+=
+-  olduğuna göre 
+)

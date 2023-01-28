@@ -1,0 +1,400 @@
+değiştirmez. Gerçek sayılar kümesinde toplama işleminin birleşme özelliği vardır. 
+Örneğin;
+−2, 3, 7 ŒR olmak üzer−2 + (3 + 7) = (−2 + 3) + −2 + 10 = 1 + 8 = 8 ŒR olur. 
+4- Birim (etkisiz) eleman özelliği : Her xŒ R için x + 0 = 0 + x = x tir. 
+Herhangi bir gerçek sayının 0 (sıfır) ile toplamı yine o gerçek sayıyı verir. 
+Örneğin;
+0, 9 Œ R olmak üzere 0 + 9 = 9 + 0 = 9 Œ R dir5- Ters eleman özelliği : Her x Œ R için x + (−x) = (−x) + x = 0 dırGerçek sayılar kümesinde x in toplama işlemine göre tersi (−x) dir. 
+Örneğin;
+5 Œ R olmak üzer5 + (−5) =(−5) + 5 = 0 olurÖRNEKLE1- Aşağıda verilen ifadelerde boş bırakılan yerleri dolduralıma) .... +
+4   = 
+3  + b) 2 + ... = ... + c) ,     Œ R için       +      = ... ŒR midir?
+Matematik 3. BölüSayı KümelerÇözüa) Gerçek sayılar kümesinde toplama işleminin değişme özelliği olduğundan,
+.... +
+4   = 
+3  + olu+
+=
++
+ 
+b) Gerçek sayılar kümesinde toplama işleminin değişme özelliği vardır. Buna gördi+
+=
++
+c) Gerçek sayılar kümesinde toplama işleminin kapalılık özelliği vardır. Buna gör+
+=
+=   Œ R dir2- Aşağıdaki ifadelerden hangisi yanlıştır? Bulalıma) Her a ŒR için a + 0 = 0 + a = a dırb)
+c) Her a ŒR için a + (b + c) = (a + b) + c dirÇözüa) Her a ŒR  için a + 0 = 0 + a = a dır. Gerçek sayılar kümesinde 0 (sıfır) etkisielemandır. Buna göre verilen ifade doğrudur. 
+b) Her a, b Œ R  için a + b  ≠ b + a  değildir çünkü gerçek sayılar kümesindtoplama işleminin değişme özelliği vardır. Bu özelliğe göre  a + b =  b + a olmalıdır. 
+c) Her a ŒR  için a + (b + c) = (a + b) + c dir. Gerçek sayılar kümesinde toplamişleminin birleşme özelliği vardır. 
+3- Aşağıda verilen sayıların toplama işlemine göre tersini bulalıma)
+b) −c) d) −ÇözüHer x ŒR  için x + (−x) = (−x) + x = 0 dır. Buna göra)
+5  → 
+(
+)
+(
+)
++ -
+-
+=
++
+=  ,  
+5  in tersi (
+)
+-
+ tirb) −7 → −7 + 7= 7 + (−7) = 0, −7 nin tersi 7 dirc) 18 → 18 + (-18) = (-18) + 18 = 0, 18 in tersi (−18) dirç) -38 → -38 + 38 = 38 + (-38) = 0, −38 in tersi 38 dirHer a, b Œ R için a + b ≠ b + a dırMatematik 3. BölüSayı Kümeler4- Her 5, 7, (−11) ŒR için gerçek sayılar kümesinde birleşme özelliği olup olmadığın gösterelimÇözüHer 5, 7, (−11) Œ R için gerçek sayılar kümesinde birleşme özelliğini 
+yazalım. 5 + (7 + (−11)) = (5 + 7) + (−11) dir. 
+    5 + (−4) = 12 − 11 
+1 = 1 olur. Buna göre gerçek sayılar kümesinde toplama 
+işleminde birleşme  özelliği vardır. 
+5- Aşağıdaki ifadelerle boş bırakılan yerleri dolduralıma)
++
+=
+b) +
+=
+c)
+-
++
+=
+ç) 
+()
+(
+)
++
++
+=
++
+d)
++
+=
++
+=
+e) 5 + [... + 1 ] = [5 + (-2)]+ Çözüa)
++
+=   is,
++ -
+=
+-
+=
+ (Ters eleman özelliği)
+b) +
+=
+  ise +
+=
+ (Etkisiz eleman özelliği)
+c)
+-
++
+=  ise -
++
+=
+ (Ters eleman özelliği)
+ 
+ç) 
+()
+(
+)
++
++
+=
++
+ ise  
+(
+)
+(
+)
++
++
+=
++
++
+ (Birleşme özelliği)
+d)
++
+=
++
+=
+ ise + =
++
+=
+ (Etkisiz eleman özelliği)
+e) 5 + [...+ 1 ] = [5 + (-2)]+...  ise   5 + [(-2) + 1 ] = [5 + (-2)]+ 1  (Birleşme özelliğ)
+6- 1 nın toplama işlemine göre tersi a, −12 nin toplama işlemine göre tersi b olduğun göre a . b çarpımının değerini bulalımÇözü1 nın toplama işlemine göre tersi a = 
+-
+O hâlde −12 nin toplama işlemine göre tersi b=12 dir. 
+a . b = 
+1       a . b = -2 olur-
+Matematik 3. BölüSayı KümelerALIŞTIRMALA1- Aşağıdaki ifadelerden hangileri doğrudur?
+I. Gerçek (reel) sayılar kümesinde toplama işleminin değişme özelliği yokturII.  Gerçek (reel) sayılar kümesinde toplama işleminin etkisiz elemanı  1 dirIII. Gerçek (reel) sayılar kümesi toplama işlemine göre kapalıdırIV. Gerçek (reel) sayılar kümesinde her xŒR için x + (-x) = (-x) + x = 0 dır2- Aşağıdaki ifadelerde boş bırakılan yerleri doldurunuza)
++
+=
+b)
+-
++
+=
+^
+c) 7 + [...+ 1 ] = [7 + (−3)] + ç) 
++
+=
+3- 1 nin toplama işlemine göre tersi a, −21 in toplama işlemine göre tersi b olduğungöre a . b çarpımının değerini bulunuzÇarpma İşleminin Özellikler1- Kapalılık özelliği: Her x, y ŒR için x . y ŒR dirHerhangi iki gerçek (reel) sayının çarpımı yine bir gerçek sayıdır. Gerçek sayılakümesinde çarpma işleminin kapalılık özelliği vardır. 
+Örneğin;
+−2, 7 ŒR olmak üzere (−2) . (7) = −14 Œ R dir2- Değişme özelliği: Her x, y ŒR için x . y = y . x ŒR dirHerhangi iki gerçek(reel) sayının çarpımında sayıların yer değiştirmesi çarpma işlemini sonucunu değiştirmez. Gerçek sayılar kümesinde çarpma işleminin değişme 
+özelliği vardır. 
+Örneğin;
+5, 4 ŒR olmak üzere    5 . 4 = 4 . 5 = 20 ŒR dir. 
+Matematik 3. BölüSayı Kümeler3- Birleşme özelliği: Her x, y, z ŒR için x . (y . z) = (x . y) . z dirHerhangi üç gerçek(reel) sayının çarpımında seçilen grupların işlem sırası sonucu 
+değiştirmez. Gerçek sayılar kümesinde çarpma işleminin birleşme özelliği vardır. 
+Örneğin;
+−2, −3, 5 ŒR olmak üzer−2 . ((−3) . 5) = ((−2) . (−3)) . −2 . (−15) = 6 . 30 = 30 ŒR olur. 
+4- Birim (etkisiz) eleman özelliği: Her x ŒR için x . 1 = 1 . x = x dirHerhangi bir gerçek sayının 1 ile çarpımı yine o gerçek sayıyı verir. Reel sayılardçarpma işleminin etkisiz elemanı 1 dirÖrneğin;
+1, 17 ŒR olmak üzere 1 . 17 = 17 .  1 = 17 ŒR dir6- Çarpma işleminin toplama ve çıkarma işlemi üzerine dağılma özelliği:
+Her x, y, z ŒR için x. (y + z) = xy + xz ve x. (y − z) = xy − xz dirGerçek sayılar kümesinde çarpma işleminin toplama ve çıkarma işlemüzerine dağılma özelliği vardır 
+Örneğin;
+2, 5, 8 ŒR olmak üzer2 . (8 + 5) = 2 . 8 + 2. 5 
+           = 16 +            = 26   ve 
+2 . (8 − 5) = 2 . 8 − 2.            = 16 −            = 6   olur. 
+x. 5-
+ =
+   .x=1 dir. Gerçek sayılar kümesindTers eleman özelliği: Her x ∈R içix in çarpma işlemine göre tersi    dirÖrneğin;
+7∈R olmak üzere 7. 7  =
+ =    . 7=1 olur. 
+Matematik 3. BölüSayı Kümeler7- Yutan eleman özelliği: Her x Œ R için x . 0 = 0 . x = 0 dır. Herhangi bir gerçek 
+sayının 0 (sıfır) ile çarpımı 0 (sıfır) a eşittirGerçek sayılar kümesinde 0 (sıfır) yutan elemandırÖrneğin;
+−2, 0 Œ R olmak üzere (−2) . 0= 0 . (−2) = 0 dırBİLGİ KUTUSKarışık yapılan işlemlerde işlemsırası aşağıdaki gibidir. 
+•
+Önce parantez içleri,
+•
+Kuvvet alma işlemleri,
+•
+Çarpma ve bölme işlemleri,
+•
+Toplama ve çıkarma işlemleri,
+•
+Çarpma ve bölme işlemleri art arda geldiğinde önce soldaki işlem yapılırÖRNEKLE1- Aşağıda bazı işlemlerin çözümleri verilmiştir. İnceleyiniza) [(−2) + 8] . (−3)   = +6  . (−3)
+    
++= −        = −10   
+c) −12 : 4 . 6 : (−6)    = −3 . 6   : (−6)
+
+−   = −18  : (−6)
+   = 3 olur. 
+b) [(−2) . 6 + (−8)] : 2   = [−12 + (−8)] :  −        =  −20 : }
+Matematik 3. BölüSayı Kümeler2- −24 : [(−3) + 2 . (−5 − 4 . (−2))]  = −24 : [(−3) + 2 . (−5 +8)]
+       = −24 : [−3   +  2 .  (+3)]
+       = −24 : [−3   +       6 ]
+       = −24 :        = −8 olur. 
+
++
+
+3- Aşağıda verilen ifadelerle boş bırakılan yerleri dolduralım a) −3, −2 ŒR olmak üzere (−3) . (−2) = ... ŒR dirb) (12) . (...) = (3) . (...)
+c) (−2) . ((5) . (...)) = ((−2) . (...)) . (3)
+ç) (21) . (...) = (1) . (...)
+e) (−23) . (...) = 0 . (...) = Çözüa) Gerçek sayılar kümesi çarpma işlemine göre kapalıdır. Buna gör(−3) . (−2) = 6 ŒR dirb) Gerçek sayılar kümesinde çarpma işleminin değişme özelliği vardır. Buna gör(12) . (3) = (3) . (12) = 36 dırc) Gerçek sayılar kümesinde çarpma işleminin birleşme özelliği vardır. Buna gör(−2) . ((5) . (3)) = ((−2) . (5)) . (3)
+             (−2) . 15 = (−10) . −30 = −30 durç)  (21) . (...) = (1) . (...) ise 21 . 1 = 1 . 21 = 21 dir. (Etkisiz eleman özelliği)
+e) (−23) . (...) = 0 . (...) = ... ise  (−23) . 0 = 0 . (−23) = 0 dır. (Yutan eleman özelliği)
+d) 35 . (...)
+=
+ 
+.(...)
+ 1 
+d)
+.35 dir. (Ters eleman özelliği)
+ =  
+(...)
+(35)
+. (...) ise 35. =  Matematik 3. BölüSayı Kümeler4- Aşağıdaki işlemleri çözelima) 7 . ((−5) + 3)
+b) 14 . (7−5)
+c) 11 . (12−4)
+ç) 12 . (4 + 6)
+Çözüa) Gerçek (reel) sayılarda çarpma işleminin toplama işlemi üzerine dağılma özelliğvardır. Buna göre 
+7 . ((−5) + 3) = (7 . (−5)) + (7 . 3)
+b) Gerçek (reel) sayılarda çarpma işleminin çıkarma işlemi üzerine dağılma özelliğvardır. Buna göre 
+14  . (7 −  5) = (14 . 7) − (14 . 5)
+        = 98 − 70            
+        = 28 olur. 
+c)      11 . (12 − 4) = (11 . 12) − (11 . 4)
+          =132 −           = 88 olur. 
+ç) 12 . (4 + 6) = (12 . 4) + (12 . 6)
+          = 48 + 72 
+          = 120 dir5- [20: (−1) . 2 − 8] : (−3) + 2 işlemini çözelimÇözü[20: (−1) . 2 − 8] : (−3) + 2 = [−20 . 2 − 8] : (−3) + −20 
+         = [−40 − 8] : (−3) +          = (−48) : (−3) +          =          16        +          = 18 olur. 
+
+
+= −35 + = −14 olurMatematik 3. BölüSayı Kümeler6- 12 nin çarpma işlemine göre tersi a, - 
+nın 
+çarpma 
+işlemine 
+göre 
+ters                      
+b olduğuna göre a . b çarpımının değerini bulalımÇözü12 nin çarpma işlemine göre tersi a = 1  , 
+-
+ nın çarpma işlemine göre tersb =
+6  olduğuna göre   a . b = 
+olu-
+=
+BİLGİ KUTUSR reel sayılar kümesinin geometrik temsili sayı doğrusu olup gösterimi aşağıdak gibidir. 
+−−−−−– – R x R nin geometrik temsili ise kartezyen koordinat sistemi yani analitik düzle olup gösterimi aşağıdaki gibidir. 
+-1-------Matematik 3. BölüSayı KümelerALIŞTIRMALA1- Aşağıdaki ifadelerde boş bırakılan yerleri doldurunuza)
+2 2 =
+^
+b)
+.(
+)
+3 5 +
+=
++
+c) (-23) . (...) = -ç) 2  . (...) = 2- Aşağıdaki ifadelerden hangisi yanlıştır?
+A) Gerçek sayılar kümesinde çarpma işleminin etkisiz elemanı 1 dirB) Gerçek sayılar kümesinde çarpma işleminin yutan elemanı 1 dirC) Gerçek sayılar kümesinde çarpma işleminin toplama işlemi üzerine dağılmözelliği vardırD) Gerçek sayılar kümesinde çarpma işleminin değişme özelliği vardır3- –27 nin çarpma işlemine göre tersi a, -4  un çarpma işmine göre tersi b olduğungöre a . b çarpımı aşağıdakilerden hangisidir?
+A) B) C) D) 4- [18 . (–1) + 2] : (–2) işleminin sonucu aşağıdakilerden hangisidir?
+A) B) C) D) 3 
+Matematik 3. BölüBölünebilme KurallarBÖLÜNEBİLME KURALLARI 
+Bölünebilme, Asal SayBölme işleminde; bir x sayısının y ile bölümünden kalan z ise bölme işlemi 
+x = ay + z (aŒ N, y≠0) şeklinde tanımlanır. 
+işleminde  13 = 2 . 6 + 1 dir. 
+1 ve kendisinden başka tam böleni olmayan ve 1 den büyük olan doğal sayılara asal sayı 
+denir. 
+Örneğin; 2, 3, 5, 7, 11, 13, 17, ... sayıları birer asal sayıdırÖRNEKLE1- 4 sayısı asal sayı mıdır? BulalımÇözü4'ün bölenlerini yazalım. 
+4 : 1 = 4 : 2 = 4 : 4 = 1 dir. 4'ün bölenleri 1, 2, 4 tür.  Buna göre 4 asal sayı değildir. 
+2- 6 sayısı asal sayı mıdır? BulalımÇözü6 nın bölenlerini yazalım6 : 1 = 6 : 2 = 6 : 3 = 6 : 6 = 1 dir. 6 nın bölenleri 1, 2, 3, 6 dır.  Buna göre 6 asal sayı değildir3- 19 sayısı asal sayı mıdır? BulalımÇözü19 un bölenlerini yazalım19 : 1 = 19 : 19 = 1 dir. 19 un bölenleri 1 ve kendisidir.  Buna göre 19 asal sayıdırÖrneğin;
+Matematik 3. BölüBölünebilme KurallarBir Sayının Asal ÇarpanlarK, a, b, c doğal sayılar ve x, y, z asal sayılar olmak üzere, K = xa . yb . zc şeklindeki 
+gösterim K nın asal çarpanları türünden gösterimidir. 
+x, y ve z sayıları K nın asal çarpanlarıdır. 
+Örneğin, 120 sayısının asal çarpanları;
+120   60   30   15     5     120 = 23 . 3 . 5 dir. 
+2, 3 ve 5 sayıları 120 nin asal çarpanlarıdır. 
+BİLGİ KUTUS•
+1 sayısı asal sayı değildi•
+2 sayısı en küçük asal sayıdır•
+Herhangi bir asal sayının pozitif bölenlerinin kümesi 2 elemanlıdır2 ile Bölünebilme 
+Birler basamağındaki rakamı çift olan doğal sayılar 2 ile tam bölünür. 
+Örneğin; 
+250, 32, 154, 366, 438 sayıları 2 ile tam bölünür. 
+11, 53, 65, 97, 99 sayıları 2 ile tam bölünmez. 
+Örne17b üç basamaklı sayısı 2 ile tam bölünüyor ise b nin alabileceği değerler toplam kaçtır? BulalımÇözü17b, 2 ile tam bölünüyor ise b çift rakam olmalıdır. b nin alabileceği değerler toplam  0 + 2 + 4 + 6 + 8 = 20 olur. 
+Matematik 3. BölüBölünebilme Kurallar3 ile BölünebilmRakamları toplamı 3 ün katı olan doğal sayılar 3 e tam bölünürlerÖrneğin;
+21, 54, 63, 336 sayılarının rakamları toplam21 = 2 + 1 = 3 
+54 = 5 + 4 = 63 = 6 + 3 = 336 = 3 + 3 + 6 = 12 olduğundan bu sayılar 3 e tam (kalansız) bölünürler. 
+25, 55, 71, 121 sayılarının rakamları toplamı; 
+25 = 2 + 5 = 55 = 5 + 5 = 10 
+70 = 7 + 0 = 121 = 1 + 2 + 1 = 4 olduğundan bu sayılar 3 e tam bölünemez. Bu sayıların 3 ile 
+bölümünden kalan 1 dir. 
+Örne4a3 sayısı 3 ile tam bölünüyor ise a nın alabileceği değerler toplamı kaçtır? BulalımÇözü4 + a + 3 = 7 + a = 3k (kŒN) olmalıdır. 
+k = 3  ⇒  7 + a = 3 . 3  ⇒  a = k = 4  ⇒  7 + a = 3 . 4  ⇒  a = k = 5  ⇒  7 + a = 3 . 5  ⇒  a = 8 dir. 
+a nın alabileceği değerler toplamı 2 + 5 + 8 = 15 tir. 
+4 ile BölünebilmSon iki basamağının (onlar ve birler  basamaklarının) belirttiği sayı "00" veya 4 ün 
+katı olan doğal sayılar 4 ile tam (kalansız) bölünür. 
+Örneğin;
+240 sayısının onlar ve birler basamağı "40" olduğundan 240 sayısı 4 e tam bölünür. 
+308 sayısının onlar ve birler basamağı "08" olduğundan 308 sayısı 4 e tam bölünür. 
+5226 sayısının onlar ve birler basamağı 26 olduğundan 5226 sayısı 4 e tam bölünmez. 
+Matematik 3. BölüBölünebilme KurallarÖrne7a4 üç basamaklı sayısı 4 ile tam bölünüyor ise a nın yerine kaç farklı rakam 
+yazılabilir? BulalımÇözü7a4 sayısının 4 ile tam bölünebilmesi için a4 sayısı da 4 ile tam bölünebilmelidira nın yerine 0, 2, 4, 6 veya 8 değerlerinden biri geldiğinde 7a4 sayısı 4 ile tam bölünü. Buna göre a yerine 5 farklı rakam yazılabilir5 ile BölünebilmBirler basamağında 0 veya 5 olan doğal sayılar 5 ile tam bölünürler. 
+Örneğin; 
+220 sayısının birler basamağı 0 olduğundan 220 sayısı 5 ile tam bölünür. 
+785 sayısının birler basamağı 5 olduğundan 785 sayısı 5 ile tam bölünür. 
+883 sayısının birler basamağı 0 veya 5 olmadığından 883 sayısı 5 ile tam bölünmez883 sayısının 5 ile bölümünden kalan 3 tür. 
+Örne3ab üç basamaklı sayı 5 ile tam bölünüyor. Bu sayı aynı zamanda 3 ile tam bölünüyo. Buna göre a nın yerine kaç farklı rakam yazılabilir? BulalımÇözü3ab sayısı 5 ile tam bölünebiliyor ise b = 5 veya b = 0 dır. 
+3a5 üç ile tam bölünüyor ise, 
+3 + a + 5 = 8 + a = 3k, kŒN olmalıdır. 
+k = 3 ⇒  a = k = 4 ⇒  a = k = 5 ⇒  a = 3a0 üç ile tam bölünüyor ise, 
+3 + a = 3k,  kŒk = 2 ⇒  a = k = 3 ⇒  a = k = 4 ⇒  a = 9 dur. O hâlde, a nın yerine 1, 3, 4, 6, 7, 9 olmak üzere 6 farklı rakayazılabilir. 
+Matematik 3. BölüBölünebilme Kurallar8 ile BölünebilmBir sayının son üç basamağındaki sayı "000" veya 8 e tam bölünüyor ise bu sayı 8 e 
+tam bölünür. 
+Örneğin;
+65000, 4008, 781160, 52024 sayılarının son üç basamağındaki sayı (yüzler, onlar, 
+birler basamaklarındaki rakamların oluşturduğu sayı) 000 veya 8 in katı olduğundan 
+verilen sayıların hepsi 8 e kalansız bölünürler. 
+2500, 4125, 483250, 32021 sayılarının son üç basamağındaki sayı (yüzler, onlar, birle basamaklarındaki rakamların oluşturduğu sayı) 000 veya 8 in katı olmadığından 
+verilen sayıların hepsi 8 e kalansız bölünemez. 
+9 ile Bölünebilme 
+Rakamları toplamı 9 ve 9 un katı olan sayılar 9 a tam (kalansız) bölünürler. 
+Örneğin;
+351 sayısının rakamları toplamı, 
+3 + 5 + 1 = 9 olduğundan 351 sayısı 9 a tam bölünür. 
+356 sayısının rakamları toplamı 3 + 5 + 6 = 14 olduğundan 356 sayısı 9 a tam bölünemeÖrne32a76 beş basamaklı sayısı 9 ile tam bölündüğüne göre a yerine kaç farklı rakam 
+yazılabilir? BulalımÇözü32a76 beş basamaklı sayısı 9 ile tam bölünüyor ise rakamları toplamı 9 un katı 
+olma-lıdır. 
+32a76 = 3 + 2 + a + 7 +     = 18 + a dır. Buna göre a = 0 veya a = 9 olmalıdır. 
+O hâlde a yerine 2 farklı rakam yazılabilirMatematik 3. BölüBölünebilme Kurallar10 ile BölünebilmBirler basamağındaki rakamı 0 olan her tam sayı 10 a tam (kalansız) bölünür. 
+Örneğin;
+20, 340, 580, 1260 sayıları 10 a tam bölünürler. 
+11, 37, 423, 585 sayıları 10 a tam bölünmez11 ile Bölünebilmabcde ... şeklindeki bir sayının 11 ile tam bölünebilmesi için sayının rakamları birler 
+basamağıdan başlanarak sola doğru "+, −, +, −, + ..." şeklinde işaretlenir ve toplanır. 
+Sonuç 0(sıfır) veya 11 in katı ise verilen sayı 11 ile tam (kalansız) bölünür.  
+Örneğin;
+255717, 312544 ve 312543 sayılarını birler basamağından başlayarak sola doğru +, 
+− şeklinde işaretleyip toplayalım2 5 5 7 1 7 = 7 − 1 + 7 − 5 + 5 − −+−+−+  = 19 −           = 11 olduğundan 255717 sayısı 11 e tam bölünür. 
+312544 sayısı 
+3 1 2 5 4 4 = 4 − 4 + 5 − 2 + 1 − −+−+−+  = 10 −           = 1 olduğundan 312544 sayısı 11 e tam bölünmez. 
+3 1 2 5 4 3 = 3 − 4 + 5 − 2 + 1 − −+−+−+  = 9 −           = 0 olduğundan 312543 sayısı 11e tam bölünürALIŞTIRMALA1- Aşağıdaki sayılardan hangileri asal sayıdır hangileri asal sayı değildir? Bulunuza) 5, 7, 18, 23, b) 67, 150, 173, 2- 80, 110 ve 460 sayılarının asal çarpanlarını bulunuz−+−+−+ 
+− + − + − +  
+− + − + − +  
+Matematik 3. BölüBölünebilme Kurallar3- 5a2 sayısı 3 ile tam bölünüyor ise a nın alabileceği değerler toplamı kaçtır? Bulunu4- Birler basamağında 0 ve 5 olan doğal sayılar .......... ile tam bölünür. 
+Yukarıdaki ifadede noktalı yere hangi sayı yazılmalıdır?
+A) B) C) D) 5- 13, 36, 139, Yukarıdaki sayılardan hangisi 10 a tam bölünür?
+A) B) C) D) Aralarında Asal SayılaBirden başka ortak böleni olmayan doğal sayılara aralarında asal sayılar denir. 
+Örneğin; 3 ile 7, 4 ile 5, 6 ile 17 aralarında asal sayılardır. 
+BİLGİ KUTUS•
+İki sayıdan her biri asal olmadığı hâlde bu iki sayı aralarında asaolabilir•
+1 ile her sayı aralarında asaldır•
+Ardışık sayılar aralarında asaldır•
+1 asal sayı değildir•
+Çift olan 2 den başka asal sayı yoktur•
+Ardışık tek sayılar aralarında asaldırÖrne8 ile 15 sayıları aralarında asal mıdır? BulalımÇözü8 ile 15 in bölenlerini yazalım. 
+8 in bölenleri 
+15 in bölenler8 4 2 1 
+  
+15    5    1 
+8 ile 15 in ortak böleni 1 dir. Buna göre 8 ile 15 aralarında asaldır. 
+Matematik 3. BölüBölünebilme Kurallar6 ile Bölünebilme 
+Bir doğal sayı hem 2 ye hem de 3 e tam olarak bölünüyor ise 6 ya tam (kalansız) 
+bölünür. 
+Örneğin;
+102 sayısı hem 2 ye hem de 3 e tam bölünür. O hâlde 102 sayısı 6 ya tam bölünür. 
+304 sayısı 2 ye tam bölünür. Fakat 3 e tam bölünemediğinden 304 sayısı 6 ya tam 
+bölünemez. 
+Örne45a üç basamaklı sayısı 6 ya tam bölündüğüne göre a nın yerine kaç farklı rakam 
+yazılabilir? BulalımÇözü45a üç basamaklı sayısının 6 ya tam bölünebilmesi için hem 2 ye hem de 3 e tam 
+bölünmesi gerekir. 
+45a sayısı 2 ye tam bölünüyor ise a nın yerine a = 0, 2, 4, 6, 8 yazılabilir. 
+45a sayısı 3 e tam bölünüyor ise 45a = 4 + 5 + a = 3k (kŒN) olmalıdır. 
+k = 3 ⇒  a = k = 4 ⇒  a = k = 5 ⇒  a = k = 6 ⇒  a = 9 olur. Buna göre 45a sayısında a = 0 ve a = 6 olmak üzere a yerine 2 
+farklı rakam yazılabilir. 
+12 ile BölünebilmBir doğal sayı hem 3 e hem de 4 e tam olarak bölünüyor ise 12 ye tam (kalansız)  
+bölünür. 
+Örneğin;
+3036 sayısının son iki basamağının (onlar ve birler) belirttiği sayı 4 ün katı olduğunda 3036 sayısı 4 e kalansız bölünür. 
+3036 sayısının rakamları toplamı, 3 + 0 + 3 + 6 = 12 dir. 
+12 sayısı 3 ün katı olduğundan 3036 sayısı 3 e tam bölünür. 3036 sayısı hem 3 e hem  
+de 4 e tam olarak bölündüğü için 12 ye tam (kalansız) bölünür. 
+Matematik 3. BölüBölünebilme Kurallar1503 sayısının rakamları toplam1 + 5 + 0 + 3 = 9 dur. 1503 sayısı 3 e tam bölünür. 1503 sayısının son iki basamağı 
+00 veya 4 ün katı olmadığından 1503 sayısı 4 e tam bölünmez. Bu durumda 1503 
+sayısı 12 ye tam bölünmez15 ile BölünebilmBir doğal sayı hem 3 e hem de 5 e tam olarak bölünüyor ise 15 e tam (kalansız)  
+bölünür. 
+Örneğin;
+2010 sayısının rakamları toplamı, 2 + 0 + 1 + 0 = 3 tür. 2010 sayısı 3 e tam bölünür. 
+2010 sayısının birler basamağı "0" olduğundan 2010 sayısı 5 e tam bölünür. O hâlde 
+2010 sayısı hem 3 e hem de 5 e bölündüğünden 15 e tam bölünür. 
+126 sayısının rakamları toplamı 1 + 2 + 6 = 9 olup 126 sayısı 3 e tam bölünür. Faka126 sayısının birler basamağı 0 veya 5 olmadığından 126 sayısı 5 e tam bölünemezBu durumda 126 sayısı 15 e tam bölünmez. 
+ÖRNEKLE1-
+ Yandaki bölme işlemine göre A kaçtır? Bulalım. 
+ÇözüBölme işleminin tanımına göre A= 16 . 9 + 12 dir. Buna görA= 16 . 9 +    = 144 +    = 156 dır. A nın değeri 156 olur. 
+2- 3754 sayısının 4 ile bölümünden kalan kaçtır? BulalımÇözü1. Yol: 3754 sayısının 4 e tam bölünebilmesi için son iki basamağı (onlar ve birler)
+00 veya 4 ün katı olmalıdır. 3754 sayısının son iki basamağı 54 tür. 54 sayısının 4 ün 
+kaç katı olduğunu bulalım.  
+ 4 . 13 = 52,  (kalan) 54 - 52 = 2 olur. 
+ Buna göre 3754 sayısının 4 ile bölümünden kalan 2 dirMatematik 3. BölüBölünebilme Kurallar2. Yol: Bölme işlemi yaparsak 3754 sayısını 4 e bölelim ve kalanı bulalım→ kalan 2 dir3- Dört basamaklı 416a sayısı 6 ile tam bölünebildiğine göre a kaçtır? BulalımÇözüBir doğal sayı hem 2 hem de 3 e tam olarak bölünüyor ise 6 ya tam (kalansız) bölünü. 
+416a sayısının 2 ye tam olarak bölünebilmesi için a yerine  0, 2, 4, 6 ve 8 yazılmalıdır416a sayısının 3 e tam bölünebilmesi için 4 + 1 + 6 + a = 3k (kŒN) olmalıdır. 
+k = 4   ⇒  a = k = 5   ⇒  a = k = 6   ⇒  a = 7 olur. 416a sayısının 6 ya tam bölünebilmesi için a = 4 olmalıdır. 
+4-  Üç basamaklı ve rakamları farklı 41a sayısının  5 ile bölümünden kalan 1 olduğungöre a kaçtır?  BulalımÇözü41a sayısının 5 e tam bölünebilmesi için a = 0 veya a=5 olmalıdır. 41a sayısının 5 ile 
+bölümünden kalan 1 olduğuna göre a yerine 1 veya 6 yazılmalıdır. Sayının rakamları 
+farklı olduğundan a yerine 6 yazıp bölme işlemini yapalım. 
+→ kalan 1 dir. Buna göre a = 6 dırMatematik 3. BölüBölünebilme Kurallar5- Beş basamaklı 752a9 sayısı 9 ile tam bölündüğüne göre a kaçtır? BulalımÇözü752a9 sayısının rakamları toplamı 9 un katı olursa bu sayı 9 a tam bölünür752a9  = 7 + 5 + 2 + a +          = 23 + a dır. Rakamlar toplamının 9 un katı olması için a = 4 olmalıdır. a = 4 
+yazıp rakamlar toplamını bulalım. Buna gör752a9  = 7 + 5 + 2 + 4 +             = 27 olur. O hâlde 75249 sayısı 9 a tam bölünür. 
+6- 2a3b sayısı 10 ile tam bölündüğüne göre a ve b nin alacağı değerleri bulalımÇözü2a3b sayısı 10 ile tam bölünüyor ise b=0 olmalıdır. 2a30 sayısı 10 ile tam bölündüğün göre a yerine a = 0, 1, 2, 3, 4, 5, 6, 7, 8, 9 rakamlarından herhangi bir yazılabilir7- Üç basamaklı a3y sayısı 12 ile tam bölündüğüne göre a nın alabileceği kaç farkldeğer vardır? BulalımÇözüa3y sayısı 12 ile tam bölünüyor ise hem 3 e hem de 4 e tam bölünür. a3y sayısı 4 e 
+tam bölünüyor ise  son iki basamağı 4 ün katı olmalıdır. 
+a3y sayısında y = 2 veya y= 6 olursa son iki basamak (birler, onlar) 4 ün katı olur. 
+Bu durumda a32 ve a36 sayılarının 3 e tam bölünebilmesi için rakamların toplamı 
+3 ün katı olmalıdıra32 = a + 3 + 2 
+ 
+= a + 5 = 3k (kŒN) olmalıdır. 
+k = 2   ⇒  a = k = 3   ⇒  a = k = 4   ⇒  a = 7 değerlerini alır. 
+a36 = a + 3 + 6 
+ 

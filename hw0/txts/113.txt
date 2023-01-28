@@ -1,0 +1,400 @@
+      olduğuna göre  
+( )
+Q x  polinomunun 
+( )
+ polinou ile bölümünden elde edilen bölüm ve 
+kalan polinomlarının toplamını bulunuz.  
+11.  
+( )
+Q x  bir polinom olmak üzer(
+)
+(
+)
+Q Q -
++
++
+= -
++
+ olduğuna 
+göre 
+( )
+Q x  polinomunun +
+ ile bölümünde kalanı bulunuz. 
+ 
+12.  Bir 
+( )
+P x  polinomunun 2 -
+ ile bölümünde kalan +
+ olduğuna göre 
+( )
+P x  polinomnun -
+ ile bölümünden kalanı bulunuz. 
+13. 
+( )
+P x  bir polinomdur(
+)
+(
+)
+16 -
+-
+= -
++
+  olduğuna 
+göre  P(x) polinomunun tek dereceli terimlerini katsayılarının toplamını bulunuz. 
+14.  2. dereceden 
+( )
+Q x  polinomu, -
+ ve -
+ 
+ile tam bölünen bir polinomdur. Buna göre 
+( )
+( )
+5  değerini bulunuz. 
+15. 
+( )
+P = -
++
+-
++
++
++  
+polinomunun -
+ ile bölümünden kalanı 
+bulunuz. 
+   • Bir polinomu çarpanlarına ayırmayı,
+   • Rasyonel ifadelerin sadeleştirilmesi ile ilgili işlemler yapmayı öğreneceksiniz   Terimler ve Kavramlar 
+• Çarpan 
+• Özdeşlik 
+• Değişken Değiştirme 
+• Rasyonel İfadBilg10.3.2. Polinomların Çarpanlara Ayrılmas10.3.2.1. Bir Polinomu Çarpanlarına AyırmBir polinomun iki ya da daha fazla polinomun çarpımı biçiminde yazılması işlemine çarpanlara 
+ayırma denir( ),
+( )
+( )
+P x Q x veR x  birer polinom olmak üzere 
+( )
+( )
+( )
+R P Q $
+=
+ şeklinde ifade edilen eşitlikt 
+( )
+( )
+P x ve Q x  polinomlarına R(x) polinomunun çarpanları denirÇarpanlara Ayırma YöntemlerOrtak Çarpan Parantezine AlmBilgBir polinomun her teriminde bulunan ortak çarpanın paranteze alınması işlemine ortak çarpa parantezine alma yoluyla çarpanlara ayırma yöntemi denir,
+A x B ve C ]
+]
+]
+g birer polinom olmak üzer 
+( )
+( )
+( )
+( )
+( )
+( )
+( )
+A B A C A B C $
+$
+$
++
+=
++
+@ olura) abc-
++
+ ifadesinin tüm terimlerinin ortak çarpanı x  tir. Buna göre 
+(
+)
+abc$
+-
++
+=
+-
++
+ olurb) +
+-
+ ifadesinin tüm terimlerinin ortak çarpanı 
+]
+g tir. Buna göre 
+    +
+-
++
+-
+=
+^
+h olurc) +
++
+ ifadesinin tüm terimlerinin ortak çarpanı a3  olup 
+(
+)
++
++
+=
++
++
+  olurç) 2 -
+ ifadesinin tüm terimlerinin ortak çarpanı 
+^
+h olup 
+(
+)
+$
+-
+=
+-
+^
+  olur(
+)
+(
+)
+$
+$
+-
+-
+-
+ ifadesinde 
+(
+)
+-
+= -
+-
+ olur. Burada 
+(
+)
+( (
+))
+(
+)
+(
+)
+(
+) (
+)
+$
+$
+$
+$
+$
+-
+-
+-
+-
+=
+-
++
+-
+=
+-
++
+ olur(
+)
+(
+)
+-
+-
+-
+ ifadesinde (
+)
+(
+)
+-
+=
+-
+ olduğundan 
+(
+)
+(
+)
+(
+)
+(
+)
+(
+)
+(
+)
+$
+$
+-
+-
+-
+=
+-
+-
+-
+-
+-
+=
+ olurAşağıda verilen ifadelerin ortak çarpan parantezine alma yöntemi ile çarpanlarına ayrılmış şeklini bulunuza) a, b, , abc!
+-
++
+b) +
+-
+c) +
++
+ç) 2 -
+m, ,
+(
+)
+(
+)
+$
+$
+!
+-
+-
+-
+ ifadesinin çarpanlarına ayrılmış şeklini bulunuz(
+)
+(
+)
+-
+-
+-
+ ifadesinin çarpanlarına ayrılmış şeklini bulunuz(
+)
+(
+)
+(
+)
+(
+)
+$
+$
+-
+-
+-
+-
+-
+ ifadesinde (
+)
+(
+)
+-
+=
+-
+ ve (
+)
+(
+)
+-
+=
+-
+ olduğundan 
+(
+)
+(
+)
+(
+)
+(
+)
+(
+)
+(
+)
+(
+)
+(
+)
+(
+)
+(
+)
+)
+(
+)
+(
+)
+(
+olu$
+$
+$
+$
+$
+$
+$
+$
+-
+-
+-
+-
+-
+=
+-
+-
+-
+-
+-
+=
+-
+-
+-
+-
++
+-
+-
+-
+=
+?
+@
+(
+)
+(
+)
+(
+)
+(
+)
+$
+$
+-
+-
+-
+-
+-
+ ifadesinin çarpanlarına ayrılmış şeklini bulunuzBilgVerilen polinomun her teriminde ortak bir sayı, ortak bir değişken veya ortak bir terim bulunmuyo ise  ortak çarpanı olan terimler bir araya getirilerek gruplandırılır. Her grup parantez 
+içindeki ifadeleri aynı olacak biçimde çarpanlarına ayrılır. Sonra gruplar, ortak çarpan parantezin alınırAşağıda verilen ifadeleri çarpanlarına ayırınıza) -
++
+-
+    
+b) +
+-
+-
+İpucTam Kare Özdeşliğv+
+-
+^
+^
+h  biçimindeki ifadelere tam kare ifadeler denir(
+)
+(
+) (
+)
+(
+)
+(
+) (
+)
+xyxvxyxolu$
+$
++
+=
++
++
+=
++
++
++
+=
++
++
+-
+=
+-
+-
+=
+-
+-
++
+=
+-
++
+a)  -
++

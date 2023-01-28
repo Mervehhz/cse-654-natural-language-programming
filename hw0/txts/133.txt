@@ -1,0 +1,400 @@
++
+=
+ bulunurYandaki şekilde verilen ABCD yamuğunda E=
++
+ şeklindedi. Bu durumda 
+(
+)
+A ABCc E$
+$
+=
++
+=
+ olur(
+)
+(
+)
+(
+)
+A ABCA ABA ADAKDKADKc h olu$
+$
+$
+$
+=
++
+=
++
+=
++
+=
++
+&
+&
+İpucDA'
+?
+?  olan ABCD yamuğunda 
+KA=
+@
+ ve K=
+ olmak üzere aşağıdaki 
+eşitlik sağlanmaktadır(
+)
+A ABCc $
+=
++
+4444444444444444444 Dörtgenler ve ÇokgenleDörtgenler ve ÇokgenleİpucSSSSİpucŞekildeki ABCD yamuğunda DA'
+?
+? ve E noktası 
+D? nın orta noktası ise 
+(
+)
+(
+)
+A ABCA EB2 $
+=
+&  olurBu eşitliğin doğruluğu aşağıdaki gibi gösterilebilirYandaki şekilde ED'
+?
+? olacak şekilde çizilen 
+E? ABCD yamuğunun orta tabanı olsun. ABCD yamuğunu yüksekliğine K=
+ denilirse MN=
+=
+ 
+olurYandaki şekilde verilen ABCD yamuğunda D! ?, EB=
+@
+@;
+DA'
+?
+?;
+;
+,
+DEEcCc=
+=
+=
+ olduğuna göre 
+A(ABCD) değerinin kaç cm2  olduğunu bulunuzYandaki şekilde verilen ABCD yamuğunda E? çizilerek EB&  oluşturulur 
+v(
+)
+A EBc8 $
+=
+=
+&
+ olur(
+)
+(
+)
+A ABCA EBc2 $
+$
+=
+=
+=
+&
+ bulunurYandaki şekilde verilen ABCD yamuğunda AB+
+=
+@
+@
+"
+, ,
+Ave B@
+@ köşegenler ve DA'
+?
+? dir. 
+,
+(
+)
+A DOS=
+&
+ 
+,
+(
+)
+A CO=
+&
+ 
+(
+)
+A BO=
+&
+ ve 
+(
+)
+A AO=
+&
+ olsun. 
+=
+            
+$
+$
+=
+ eşitlikleri geçerlidir(
+)
+(
+)
+A ECA EFE$
+$
+=
+=
+&
+&
+ olduğunda(
+)
+(
+)
+(
+)
+(
+)
+(
+)
+(
+)
+(
+)
+(
+)
+A ECA ECA EFEEA ECc A ABCA ECA ABCD bulunu2 &
+$
+$
+$
+$
+$
+$
+$
+$
+$
+=
++
+=
+=
+=
++
+=
++
+=
+=
+&
+&
+&
+&
+&
++
+Dörtgenler ve ÇokgenleDörtgenler ve Çokgenle              
+                                               
+D=
+ olsun. Buradan A=
+ olurA.A. benzerliği ile DOBO+
+&
+&  olur. Ayrıca BD=
+=
+ olduğundan 
+benzerlik  oranı 1  olur. 
+(
+)
+(
+)
+A ADB=
+=
+&
+&
+ ve 
+(
+)
+A BO=
+&
+ olsunİki üçgenin alanları oranı benzerlik oranının karesine eşit olduğundan 
+(
+)
+(
+)
+A BOA DOc&
+&
+=
+=
+=
+&
+&
+ olur. 
+x 12 &
+&
+&
+$
+$
+$
+=
+=
+=
+=
+ olurSonuç olarak 
+(
+)
+A ABCc2 $
+=
++
++
+=
++
++
+=
+ bulunurYandaki şekilde verilen ABCD yamuğunda AB+
+=
+@
+@
+"
+, ,
+ 
+Ave B@
+@ köşegenler ve DA'
+?
+?dir. 
+(
+)
+ADC ve A DOc$
+=
+=
+&
+ olduğuna gör 
+A(ABCD) değerinin kaç cm2  olduğunu bulunuzYandaki şekilde verilen ABCD ikizkenar yamuğunda 
+,
+DA'
+?
+?  
+ADC=
+=
+ ve 
+(
+)
+m AC72=
+%
+ olduğuna göre 
+(
+)
+m CD%  nün 
+kaç derece olduğunu bulunuz(
+)
+m CD=
+%
+ ve ADC ikizkenar üçgeninde 
+(
+)
+(
+)
+m DAm DC=
+=
+%
+%
+ 
+denilirse iç ters açılardan 
+(
+)
+(
+)
+m DCm CA=
+=
+%
+%
+ olurİkizkenar yamukta taban açılarının ölçüleri eşit olduğundan 
+(
+)
+(
+)
+m DAm CB=
+=
+%
+%
+ olur.  ABC üçgeninin iç açılarının ölçüleri 
+toplamı ile 
+olu&
+&
++
++
+=
+=
+=
+ 
+CDA üçgeninin iç açılarının ölçüleri toplamı ile 
+ve olu2 $
++
+=
++
+=
++
+=
+=
+BilgYandaki ABCD yamuğunda AD'
+?
+? ve AB=
+ 
+ise bu yamuğa ikizkenar yamuk denir. 
+∙ m m =
+=
+^
+^
+ ve m m =
+=
+^
+^
+ olurİkizkenar YamuDörtgenler ve ÇokgenleDörtgenler ve ÇokgenleİpucBu eşitliklerin doğruluğu GeoGebra programı ile gösterilebilirGeoGebra programını açınız. Grafik penceresinde sağ tıklayarak ‘Grid’ sekmesini seçiniz. Ardından araç 
+çubuğundaki 5.kutuya tıklayınız. Açılan pencerede ‘Çokgen’ sekmesini seçiniz ve köşe koordinatları 
+,
+(
+)
+14 -
+, 
+,
+(
+)
+16 -
+, 
+,
+(
+)
+9 -
+, 
+,
+(
+)
+11 -
+ olan ABCD ikizkenar yamuğunu çiziniz (İkizkenar yamuk 
+olacak şekilde başka noktalar seçebilirsiniz.)Araç çubuğundaki 3. kutuya ve ardından açılan ‘Doğru parçası’ sekmesine tıklayınız. Daha sonra A ile C 
+ve B ile D noktalarını birleştirerek A? ile B? köşegenlerini oluşturunuz. Araç çubuğundaki 2. kutuya 
+ve ardından açılan ‘Nokta’ sekmesini seçerek A? ile B? köşegenlerinin kesim noktasına tıklayınız. 
+AB+
+=
+?
+?
+!
++  olduğunu göreceksinizAraç çubuğundaki 8. kutuya ve ardından açılan pencerede ‘Uzaklık veya uzunluk’ sekmesine tıklayınız. 
+Daha sonra sırasıyla: A ile C noktalarına tıklayarak  AC  nu, B ile D noktalarına tıklayarak  BD  nu,
+E ile A noktalarına tıklayarak  EA  nu, E ile D noktalarına tıklayarak  ED  nu, E ile C noktalarına 
+tıklayarak  EC  nu, E ile B noktalarına tıklayarak  EB  nu ölçünüzCebir penceresinde 
+,
+,
+ABEEEE=
+=
+=
+ olduğunu göreceksinizYandaki şekilde verilen ABCD ikizkenar yamuğunda 
+AB+
+=
+@
+@
+"
+, , Ave B@
+@ köşegenler ve DA'
+?
+? dir. 
+AB=
+ ise 
+∙ AD=
+ olur (Yani köşegen uzunlukları eşittir.)∙ EE=
+ olur∙ EE=
+ olurDörtgenler ve ÇokgenleDörtgenler ve ÇokgenleYandaki şekilde verilen ABCD ikizkenar yamuğunda AB+
+=
+@
+@
+"
+, ,
+ 
+Ave B@
+@ köşegenler ve DA'
+?
+?; A=
+, OD=

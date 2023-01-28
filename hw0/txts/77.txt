@@ -1,0 +1,400 @@
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+=
+=
+=
+=
+ farklı şekildedir 
+ 
+• 1 i fizik öğretmeni ise diğer 3 ü matematik öğretmeni olmalıdır. 
+Bu seçim, 
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+1 4 3 2 1 6 5 4 4 $
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+=
+=
+=
+=
+ farklı şekildedir• Fizik öğretmeni yoksa 4 ü de matematik öğretmeni olmalıdır. 
+Bu seçim, 
+!
+!
+!
+!
+!
+!
+!
+!
+1 2 1 6 5 1 $
+$
+$
+$
+$
+$
+$
+$
+$
+$
+=
+=
+=
+=
+ farklı şekildedirBuradan 6 matematik, 4 fizik öğretmeninin olduğu bir okulda en fazla 2 fizik öğretmeninin olduğu 4 kişilik 
+bir komisyon +
++
+=
+ farklı şekilde seçilebilir.    
+Elif, seçmeli derslerden 4 ü aynı gün ve saatte verildiğinden bu 4 dersten sadece 1 ini seçebilir ya da bu 4 
+dersten hiçbirini seçemez. Burada• Aynı gün ve saatte verilen 4 dersten 1 ini ve  kalan -
+=
+ dersten -
+=
+ ün 
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+1 4 2 1 6 5 4 $
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+=
+=
+=
+=
+ farklı şekilde seçer• Aynı gün ve saatte verilen 4 dersten hiçbirini seçmediğinde kalan 6 dersten 5 in!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+1 1 6 1 $
+$
+$
+$
+$
+$
+$
+$
+$
+=
+=
+=
+=
+ farklı şekilde seçerBu durumda Elif, toplamda bu 5 ders$
+$
++
+=
++
+=
+ farklı şekilde seçebilirBir okulda 10 seçmeli dersten 4 ü aynı gün ve saatte verilmektedir. Bu 10 seçmeli dersten 5 ini seçmek 
+isteyen Elif’in  seçtiği tüm derslere girebilmesi şartıyla kaç farklı şekilde ders seçimi yapabileceğini 
+bulunuzVeri, Sayma ve OlasılıVeri, Sayma ve Olasılı1. yo3 kişilik sağlık ekibinde en az bir doktor bulunacağına göre bu sağlık ekibinde 1, 2 ya da 3 doktor bulunabili. Bu üç durum aşağıdaki gibi incelenirs• 1 i doktor ise diğer 2 si hemşire olmalıdır. 
+Bu seçim, 6 doktor arasından 1 doktor 
+n farklı biçimde seçilir. 9 hemşire içinden 2 hemşire 
+n farklı biçimde seçilir. Böylece 1 doktor ve 2 hemşireden oluşan sağlık ekibi,
+    
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+1 6 2 1 9 8 6 $
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+=
+=
+=
+=
+ farklı biçimde oluşturulur 
+• 2 si doktor ise diğeri hemşire olmalıdır. 
+Bu seçim, 6 doktor arasından 2 doktor 
+n farklı biçimde seçilir. 9 hemşire içinden 1 hemşire 
+n farklı biçimde seçilir. Böylece 2 doktor ve 1 hemşireden oluşan sağlık ekibi,
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+2 1 6 5 1 9 15 $
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+=
+=
+=
+=
+ farklı biçimde oluşturulur 
+• 3 ü doktor ise hiç hemşire bulunmamalıdır. 
+Bu seçim, 6 doktor arasından 3 doktor 
+n farklı biçimde seçilir. Ekipte hemşire olmayacağından 
+9 hemşire içinden  
+n farklı biçimde seçim yapılır. Böylece 3 doktordan oluşan sağlık ekibi,
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+3 2 1 6 5 4 1 20 $
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+=
+=
+=
+=
+ farklı biçimde oluşturulurBuradan  6 doktor, 9 hemşirenin bulunduğu bir hastaneden en az biri doktor olan 3 kişilik bir sağlık ekibi,
+$
+$
+$
++
++
+=
++
++
+=
+ farklı biçimde oluşturulur. 
+2. yo15 kişinin bulunduğu bu gruptan oluşturulabilecek 3 kişilik grupların sayısından herhangi bir doktorun 
+bulunmadığı 3 kişilik grupların sayısı çıkarılarak çözüme ulaşılabilir. 
+Dolayısıyla 6 doktor, 9 hemşirenin bulunduğu bir hastaneden en az biri doktor olan 3 kişilik bir sağlık ekibi,
+!
+!
+!
+!
+!
+!
+$
+$
+-
+=
+-
+=
+-
+=
+ farklı şekilde seçilebilir  
+6 doktor, 9 hemşirenin bulunduğu bir hastaneden içinde en az bir 
+doktor bulunan 3 kişilik bir sağlık ekibinin kaç farklı şekilde seçilebileceğin bulunuz. 
+Veri, Sayma ve OlasılıVeri, Sayma ve Olasılı15 kişilik bir grupta 8 kişi resim kursuna, 7 kişi müzik kursuna 
+katılmaktadır. Bu kurslardan birine katılan herhangi bir kişinin diğer 
+kursa katılmadığı biliniyor. Buna göre 3 ü resim ve 2 si müzik kursuna 
+katılan toplam 5 kişinin kaç farklı şekilde seçilebileceğini bulunuz. 
+16 kişiden 6 sı belli olduğu için kalan 10 kişi arasından 4 kişi seçilecektirBu 4 kişi 
+! (
+)!
+!
+!
+!
+!
+!
+!
+4 3 2 1 10 9 8 7 $
+$
+$
+$
+$
+$
+$
+$
+$
+$
+=
+-
+=
+=
+=
+ farklı şekilde seçilebilir. Dolayısıyla 10 kişili takım 210 farklı şekilde oluşturulabilirTaykut’un 15 sorudan ilk 6 sını cevaplama zorunluluğu olduğundan Taykut, kalan -
+=
+ soruda-
+=
+  soru seçerek toplamda 12 soru cevaplamış olacaktır. Buradan Taykut cevaplayacağı soruları,
+! (
+)!
+!
+!
+!
+!
+!
+!
+3 2 1 9 8 7 $
+$
+$
+$
+$
+$
+$
+$
+=
+-
+=
+=
+=
+ farklı şekilde seçebilir                                                                
+İlk 6 sorusunun cevaplanması zorunlu olan 15 soruluk bir sınava giren Taykut’un 
+toplam 12 soruyu kaç farklı şekilde seçebileceğini bulunuz16 kişilik bir sporcu grubundan 10 kişilik bir takım oluşturulacaktır. 
+Takıma girecek 6 kişi belli olduğuna göre bu 10 kişilik takımın kaç 
+farklı şekilde oluşturulabileceğini bulunuz.  
+Resim kursuna katılan 8 kişi arasından 3 kişi, 
+!
+!
+!
+!
+!
+3 2 1 8 7 6 $
+$
+$
+$
+$
+$
+$
+=
+=
+=
+ farklı şekilde seçilebilirMüzik kursuna katılan 7 kişi arasından 2 kişi, 
+!
+!
+!
+!
+!
+2 1 7 6 $
+$
+$
+$
+$
+=
+=
+=
+ farklı şekilde seçilebilir. 
+Saymanın temel ilkesine göre resim kursuna katılan 3 kişi ve müzik kursuna katılan 2 kişi 56 $
+=
+ 
+farklı şekilde seçilebilirVeri, Sayma ve OlasılıVeri, Sayma ve OlasılıBir sınıfta 9 kişi arasından 6 kişilik bir ekip ve bu ekip içinden de bir 
+başkan seçilecektir. Bu seçimin kaç farklı şekilde yapılabileceğini 
+bulunuz. 
+ 
+1, 2, 3, 4, 5, 6, A = "
+,  kümesinin elemanları ile  şartını sağlayan kaç farklı abcd dört 
+basamaklı sayısının yazılabileceğini bulunuz9 öğrenci arasından 6 kişilik bir ekip, 
+! (
+)!
+!
+!
+!
+!
+!
+!
+3 2 1 9 8 7 $
+$
+$
+$
+$
+$
+$
+$
+=
+-
+=
+=
+=
+ farklı şekilde 
+seçilebilir. Seçilen bu ekip içerisinden 1 başkan ise 
+!
+!
+!
+!
+!
+1 6 $
+$
+$
+=
+=
+=
+ farklı şekilde seçilebilir. Bu 
+durumda 9 öğrenci arasından 6 kişilik bir ekip oluşturulup bu ekip içerisinden bir başkanın seçilmesi,

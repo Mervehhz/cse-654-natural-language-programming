@@ -1,0 +1,400 @@
+5 g S 
+11 g FeS 
+5 g – 4 g = 1 g mdemir/ mkükürt= 7 g /4 g= 7/12 g Fe 
+4 g S 
+11 g FeS 
+12 g -7 g= 5 g Fmdemir/ mkükürt= 7 g /4 g= 7/Su bileşiğini oluşturan hidrojen ve oksijen elementlerinin kütleleri arasındaki sabit 
+oran ise 1/8’dir. Buna göre, 9 gram suyun 1 gramı hidrojen, 8 gramı oksijen elementinde oluşurken; 18 gram suyun 2 gramını hidrojen, geriye kalanını da oksijen elementi 
+oluşturmaktadır. 
+��������������
+��
+�������������
+���������
+1 g 
+ 
+8 g 
+9 g 
+mH/mO= 1 g / 8 g= 1/2 g 
+16 g 
+18 g 
+mH/mO= 2 g / 16 g= 1/3 g 
+24 g 
+27 g 
+mH/mO= 3 g / 24 g= 1/�
+�
+�
+�
+Kimyanın Temel KanunlarKimyanın Temel Kanunlar1. Ünit1. ÜnitKimya Suyu oluşturan elementlerin kütlece yüzdesini hesaplarsak; 
+9 gram suyun 
+1 gramı hidrojen is100 gram suyun 
+11,1 gramı hidrojendir. 
+100 gram suyun 11,1 gramı hidrojen elementi ise geri kalanı yani 88,9 gramı oksije elementidir. Buna göre, su bileşiğinin kütlece % 11,1’ini hidrojen, % 88,9’unu ise 
+oksijen elementi oluşturur. Su, ne şekilde elde edilirse edilsin, kaç gram olursa olsun 
+bu oran değişmez. Benzer şekilde etil alkol bileşiği kütlece % 52 karbon (C), % 13 hidroje (H) ve % 35 oksijen elementlerinden oluşmaktadır. 
+Halk dilinde sönmemiş kireç olarak bilinen kalsiyum oksit bileşiğinde kalsiyum 
+elementinin oksijenle kütlece birleşme oranı 5/2’dir. Buna göre;
+��
+15 gram kalsiyum elementi ile kaç gram oksijen elementi birleşir?
+��
+Toplam kaç gram kalsiyum oksit bileşiği oluşur?
+�������
+�� 5 gram kalsiyum elementile 
+2 gram oksijen birleşirse;
+ 3 katı 
+ 3 kat15 gram kalsiyum elementi 
+ile 
+3 X 2= 6 gram oksijen birleşir�� 15 gram kalsiyum+ 6 gram oksijen= 21 gram kalsiyum oksit bileşiği oluşur3. UygulamKarbon monoksit bileşiğinde karbon ve oksijen elementlerinin kütlece birleşme 
+oranı ¾’ tür. Eşit kütlelerde karbon ve oksijen elementleri bir araya getirildiğinde 14 
+gram karbon monoksit bileşiği oluşmaktadır. Buna göre;
+�� 14 gram karbon monoksit bileşiğinin kaç gramı karbon, kaç gramı oksijen elementidi?
+�� Hangi elementten kaç gram artmıştır?
+4. UygulamKimyanın Temel KanunlarKimyanın Temel Kanunlar1. Ünit1. ÜnitKimya ������
+��
+3 gram karbon ile 4 gram oksijen elementi birleştiğinde 7 gram bileşik oluşur 2 katı 
+ 2 katı 
+ 2 kat6 gram karbon 
+8 gram oksijen 
+14 gram bileşik 
+Buna göre 14 gram bileşiğin 6 gramı karbon, 8 gramı oksijen elementidir���
+• Elementlerden eşit kütlelerde bir araya getirilmesi, başlangıçta her iki elementte 8’er gram olduğu anlamına gelir• 8 gram oksijenin tamamı kullanıldığından oksijen elementinden artmaz• 8 gram karbonun 6 gramı kullanıldığından 8-6= 2 gram karbon elementi artar3 gram A elementiyle 8 gram B elementinin tamamı birleşerek AB2 bileşiğini 
+oluşturmaktadır. 44 gram AB2 bileşiği oluştuğuna göre A ve B elementlerinden kaça gram harcanmıştır?
+�������
+AB2 bileşiğinin kütlesi;
+•
+3 g A + 8 g B = 11 gramdır•
+11 gram bileşiğin 
+3 gramı A is44 gram bileşiğin 
+?
+?= 3 × 44/11 
+?= 12 graYani 44 gram bileşikte 12 gram A bulunmaktadır•
+44 g bileşik - 12 g A = 32 g B harcanmıştır5. UygulamKimyanın Temel KanunlarKimyanın Temel Kanunlar1. Ünit1. ÜnitKimya Görsel 1.5 John DaltoÖrneğin karbon dioksit (CO2) ve karbon monoksit (CO) bileşiklerinde, her iki bileşiktek karbonların veya oksijenlerin kütleleri arasındaki oran katlı orandır. Aşağıdaki 
+tabloda (Tablo 1.1) CO2 ve CO bileşiklerindeki elementlerin kütleleri verilmiştir. 
+�������
+����������������������
+����
+����������������������
+����
+1CO12 32 2C12 16 Tablo 1.1 CO2 ve CO bileşiklerindeki elementlerin kütlelerTabloya göre CO2 bileşiğindeki oksijen elementinin kütlesinin CO bileşiğindeki oksije elementinin kütlesine oranı;
+��������
+��
+�����
+��
+�����������������������������������������������
+Peki, karbon elementleri arasındaki katlı oran nedir?
+Bileşiklerdeki aynı tür elementler arasındaki katlı oranı hesaplayabilmek için diğe elementin kütlesi her iki bileşikte aynı olmalıdır. Aynı değilse hesaplama yaparak 
+kütleler eşit hâle getirildikten sonra katlı oran hesaplanır. Örneğin yukarıdaki örnekte 
+karbon elementinin her iki bileşikteki kütleleri arasındaki katlı oranı hesaplayabilmek 
+için oksijen elementinin her iki bileşikteki kütlesini eşitlemeliyiz. CO bileşiğindeki 
+Eğer iki element birden fazla türde bileşik oluşturuyors bileşiklerdeki aynı tür elementlerin kütleler arasında sabit bir oran vardır. Bu orana katlı 
+oran denirKimyanın Temel KanunlarKimyanın Temel Kanunlar1. Ünit1. ÜnitKimya ���������������
+�����������������
+�� �������
+28 g × 3 = 84 8 g × 3 = 24 �� �������
+56 24 mFe1/mFe2= 84/= 3/�� Oksijenler arasındaki katlı oranı hesaplamak için de demirlerin kütlesini eşitleme gerekmektedir. Buna göre, 1. Bileşikteki demirin başlangıç kütlesi ikkatına çıkarıldığında her iki bileşikteki demir kütleleri eşitlenmiş olur���������������
+�����������������
+�� �������
+28 g × 2 = 56 8 g × 2 = 16 �� �������
+56 24 mO1/mO2= 16/= 2/X ve Y elementlerinden XY2 ve X2Y5 bileşikleri oluşmaktadır. Buna göre X elementler arasındaki katlı oran kaçtır? 
+������
+•
+Her iki bileşikte eşit miktarda Y bulunduğundan X’lerin kütlelerinoranlayabilirizXYX2Y5 katı 
+ 2 katı 
+5X, 104X, 10•
+mX1/mX2 = 5/8. UygulamKimyanın Temel KanunlarKimyanın Temel Kanunlar1. Ünit1. ÜnitKimya ����������������
+������������������
+Bir önceki bölümde, kimyanın temel kanunlarında bahsedildiği gibi elementlerin 
+bileşik oluşturmak üzere belirli kütlelerde birleşiyor olması, elementleri oluşturan 
+atomların da belirli kütlelerde olduğunu gündeme getirmiştir. Ancak atomlar mikroskopl bile görülemeyecek kadar küçük tanecikler olduğundan atomların kütlelerini 
+tek tek ölçmek mümkün değildir. Peki, bu durumda atomların kütleleri nasıl ifade 
+ediliyor olabilir? 
+Atomların kütleleri ve kütle birimi ile ilgili ilk öneri 1803’te John Dalton tarafından 
+hidrojen elementi referans alınarak yapılmıştır. Hidrojen elementi en hafif element 
+olduğundan, hidrojen atomunun kütlesi 1 kabul edilmiş, diğer element atomlarının 
+kütleleri de hidrojenle oluşturdukları bileşik oranından yararlanılarak hesaplanmıştı. Örneğin hidrojen florür (HF) bileşiğinde hidrojen ve flor elementlerinin kütlece 
+birleşme oranı deneysel olarak 1/19’dur. HF bileşiği eşit sayıda hidrojen ve flor atomu 
+içerdiğinden hidrojen atomunun kütlesi 1 kabul edildiğinde flor atomunun kütlesi de 
+hidrojene kıyasla 19’dur. 
+Yukarıda belirtildiği gibi referans bir atoma göre göreceli olarak belirlenen atom 
+kütlesine ������������������ denir. Buna göre oksijenin bağıl atom kütlesi 16, karbonu ise 12 bulunmuştur. Daha sonraları, hidrojene göre çok daha fazla sayıda elementl bileşik oluşturabilme özelliğinden dolayı referans olarak oksijen elementi seçilmiş 
+ve oksijen atomunun kütlesi de 16 kabul edilmiştir. Buna göre en hafif atom olan hidroje atomunun kütlesi de oksijen atomunun kütlesinin 1/16’sı olup hiçbir atomun 
+kütlesi 1’ den küçük çıkmamıştırAncak 1920’li yıllarda kütle spektrometresini keşfiyle bir elementin bütün 
+atomlarının aynı kütlede olmadığı anlaşılmıştı. Örneğin kütle spektrometresind 3 farklı kütlede oksijen atomu tespit 
+edilmiştir. Bazı oksijen atomlarının kütlesini 16, bazılarının 17, bazılarının ise 18 
+olduğu fark edilmiştir. Diğer bir ifadeyle 
+oksijen elementinde bazı oksijen atomlarını diğerlerinden daha ağır olduğu gözlenmişti���������� Kütle spektrometre cihazKimyanın Temel KanunlarKimyanın Temel Kanunlar1. Ünit1. ÜnitKimya Önceki dönemlerdeki kimya derslerinden de hatırlayacağınız gibi aynı elementifarklı kütlelerdeki atomları ����������� olarak adlandırılmaktadır. Oksijenin16, 17 ve 
+18 kütleli atomları izotop atomlardır. İzotop atomların kütlelerinin farklı çıkmasının 
+sebebi, farklı sayılarda nötron içermeleri ile ilgilidir. Örneğin evrendeki bütün oksijen 
+atomları 8 tane proton içermesine rağmen, bazı oksijen atomları 8, bazıları 9, bazıları 
+da 10 nötron içermektedir. Bu da oksijen atomlarının kütlelerinin birbirinden farklı 
+olmasına yol açmaktadır. 
+Oksijenin izotoplarının keşfedilmesiyle bazı bilim insanları referans olarak 16izotopunu kullanırken, bazıları oksijen izotoplarının ortalama atom kütlesini kullanmışlardı. Bu da bağıl atom kütlesi hesaplamalarında karmaşaya yol açmıştır. Bu karmaşanı giderilmesi için 1961 yılında doğada izotop bolluğu en fazla olan 12C izotop standart atom kabul edilmiş ve kütlesi 12 olarak belirlenmiştir. 12C nin kütlesinin 
+1/12 sine ise 1�������������������� (akb) denilmiştir. Diğer elementlerin bağıl atom 
+kütleleri ise o elementin izotop kütlelerinin ortalaması alınıp bu değer 12C izotopu ile 
+karşılaştırılarak belirlenmektedirAtomik kütle birimi sembolü “u” harfi ile gösterilmektedir. Bağıl atom kütleleri “u” 
+sembolüyle ifade edilebileceği gibi bu kütleler karşılaştırmaya dayalı kütleler olduğunda birimsiz olarak da verilebilir. 
+Element atomlarının kütlelerinin 12C’ye göre oranları kütle spektrometre cihazı ile 
+tespit edilmektedir. Bu oranlardan yararlanarak atomların kütleleri hesaplanmaktadır. 
+Elementlerin hangi izotopu hangi oranda içerdiği yani doğadaki izotop bolluğu yine 
+kütle spektrometre cihazıyla belirlenmektedir. Örneğin kütle spektrometresinde; 
+•
+Her 4 klor atomundan 3 tanesinin kütlesi 35'tir•
+1 tanesinin kütlesi ise 37 çıkmaktadır•
+Klor atomunun ortalama atom kütlesi ise 35,5 ‘tir•
+Klor elementinin bağıl atom kütlesi de 35,5 u durKlor örneğinde olduğu gibi izotop kütleleri tam sayı iken bağıl atom kütleleri çoğunlukl tam sayı değildir. Çünkü bağıl atom kütlesi hesaplamalarında izotop kütlelerini ortalaması alındığından bu sayı çoğunlukla tam sayı çıkmaz. Örneğin karbon-12 
+izotopunun kütlesi 12 u iken, karbonun bağıl atom kütlesi 12,01 u durBir elementin bağıl atom kütlesi diğer bir ifadeyle ortalama atom kütlesi yandaki 
+gibi hesaplanır:
+Kimyanın Temel KanunlarKimyanın Temel Kanunlar1. Ünit1. ÜnitKimya ����������������������������������������������×���������������������
+�
+����������������������×����������������������
+��
+����
+Kütle spektrometresine göre karbon elementinin;
+•
+C-12 izotopunun kütlesi 12 u, doğal izotop bolluğu % 98,90;
+•
+C-13 izotopunun kütlesi 13,00335 u, doğal izotop bolluğu %1,10’durBuna göre karbon elementinin ortalama atom kütlesi (bağıl atom kütlesi);
+(12 x 98,90 / 100) + (13,00335 x 1,10/100) = 12,01 u durSilisyum elementinde ise; 
+•
+Si-28 izotopu 27,97 u; izotop bolluğu %92, 22’dir•
+Si-29 izotopu 28,97 u; izotop bolluğu % 4,685’dir•
+Si- 30 izotopu 29,97 u; izotop bolluğu % 3,092’dirBuna göre; silisyumun ortalama atom kütlesi 28,09 u durPeriyodik sistemde elementin atom kütlesi ortalama atom kütlesi olarak verilmektedi. Aşağıdaki tabloda (Tablo 1.2) bazı elementlerin ortalama atom kütleleri (bağıl 
+atom kütleleri) yer almaktadır�����������
+����������������������
+Hidrojen (H)
+1,Oksijen (O)
+15,Helyum (He)
+4,Kalsiyum (Ca)
+40,Flor (F)
+18,Karbon (C)
+12,Tablo 1.2 Bazı elementlerin bağıl atom kütlelerKimyanın Temel KanunlarKimyanın Temel Kanunlar1. Ünit1. ÜnitKimya Özetle, taneciğin türü ne olursa olsun 1 mol herhangi bir tanecik aynı sayıda yanavogadro sayısı kadar tanecikten oluşur ve 1 mol herhangi bir atomun kütlesi de, o 
+atomun bağıl kütlesine sayıca eşit gram miktarı kadardırPeriyodik sistemde element sembolünün altında yer alan sayı hem o elementin 1 
+atomunun akb cinsinden bağıl atom kütlesini hem de o elementin gram cinsinden 1 
+molünün kütlesini temsil etmektedir (Görsel 1.9). Bu nedenle bir elementin kütlesi 
+verilirken bağıl atom kütlesi olarak akb cinsinden veya 1 molünün kütlesi olarak gram 
+cinsinden verilir. Örneğin helyum elementinin kütlesi ;
+��������������������������������������������������������
+1 mol atomun gram cinsinden kütlesi o elementin ����������� olarak adlandırılır. 
+Örneğin helyum elementinin mol kütlesi 4,003 gram, karbon elementinin mol kütlesi 
+ise 12,01 gramdır (Tablo 1.2). Bağıl atom kütleleri bazı elementlerde tam sayı olmadığında, o elementlerin mol kütleleri de tam sayı değildir. Mol kütleleri ile ilgili hesaplam yapılırken kolaylık olması bakımından bu sayılar bazı durumlarda tam sayıya 
+yuvarlanmaktadır. Örneğin helyumun mol kütlesi 4,008 gram yerine hesaplamalarda 
+4 gram alınabilirBİLGİ NOT•
+Mol sayısı “n” harfi ile, Avogadro sayısı ise NA sembolü ile, mol kütlesi ise “MA”
+harfi ile temsil edilmektedir�����������������
+Kimyacılar laboratuvarlarda, endüstride veya bilimsel çalışmalarda çeşitli kimyasal 
+maddelerle çalışmaktadırlar. Kimyasal maddelerin miktarları, hangi oranlarda tepkimey girdikleri, hangi taneciklerden oluştukları oldukça önemlidir. Bu nedenle bu tür 
+maddelerle çalışırken stokiyometrik hesaplamalara ihtiyaç duyulmaktadır. Stokiyometri hesaplamalarda maddenin kütlesi, mol sayısı, tanecik sayısı arasındaki ilişkide yararlanılmaktadırDoğada bazı elementler atomik, bazıları moleküler yapıda bulunur. Örneğin demir, 
+bakır, kalsiyum, sodyum gibi metaller ile soy gazlar atomik yapılı elementlerdir. Bu 
+tür elementlerin 1 molünde daha önceden de belirtildiği gibi avogadro sayısı kadar o 
+elementin atomu bulunur ve mol kütleleri de sayıca bağıl atom kütleleri kadardır. Bu 
+elementlerin farklı mol sayılarının miktarı ve içerdiği atom sayısı da hesaplama yapara bulunur. Sonraki sayfadaki örneği inceleyelim:
+Kimyanın Temel KanunlarKimyanın Temel Kanunlar1. Ünit1. ÜnitKimya C2H5OH bileşiğinin;
+��
+1 molünde kaç mol hidrojen atomu bulunduğunu,
+��
+1 molünde kaç tane karbon atomu bulunduğunu,
+��
+Mol kütlesini,
+��
+92 gramının kaç mol olduğunu hesaplayınız (C:12, H:1, O:16)������
+��
+1 mol C2H5OH bileşiğinde 5+1= 6 mol hidrojen atomu bulunmaktadır��
+1 mol C2H5OH bileşiğinde 2 mol karbon atomu bulunmaktadırBuna göre;
+•
+1 mol atom 6,02 × 1023 tane atom içerdiğinden,
+•
+2 mol atom 2 × 6,02 × 1023 = 12,04 × 1023 tane atom içerir���
+���������
+1x1 g= 1 g 1 g H+ 16 g O + 5 g H + 24 g C 
+ Bileşiğin mol kütlesi= 46 g/mol ’dür1x16 g= 16 g 5x1 g= 5 g 2x12 g= 24 g ��
+1 mol bileşik 46 gram ise, 92 gram bileşik 2 moldür13. UygulamKimyanın Temel KanunlarKimyanın Temel Kanunlar1. Ünit1. ÜnitKimya ��������������������������������������
+������������������������� 
+Maddelerin kimyasal değişime uğraması, maddelerin birbirleriyle tepkimeye girmes veya tepkime vermesi olarak tanımlanmaktadır. Bu nedenle kimyasal değişimler 
+���������������� olarak da anılmaktadırBir kimyasal değişimi veya kimyasal tepkimeyi kelimelerle ifade edebiliriz. 
+Örneğin;
+Aynı tepkimeyi, değişimde yer alan maddelerin adları yerine sembol ve formüllerin kullanarak kısa bir şekilde de ifade edebiliriz. Kimyasal bir değişimin değişimd yer alan element ve bileşiklerin sembol ve formüllerini kullanarak gösterilmesine 
+��������������������������denir. Aşağıda suyun oluşum tepkimesinin denklemi yer 
+almaktadır�����
+�
+��
+�����
+HidrojeOksijeSTepkimeye giren maddeler 
+ÜrünleDaha önceki kimya derslerinde de bahsedildiği gibi tepkime denklemlerinde kimyasa değişime uğrayan madde veya maddelere ��������������������� veya ������
+�����değişim sonucu oluşan yeni madde veya maddelere de ���� denir. Örneğin kekin 
+pişmesi bir kimyasal değişimdir ve kek yapımında kullanılan malzemeler tepkimeye 
+giren maddeler, kek ise üründür ( Görsel 1.10)Hidrojen elementi oksijen elementiyle 
+etkileştiğinde yani tepkimeye girdiğinde su oluşur. 
+Kimyanın Temel KanunlarKimyanın Temel Kanunlar1. Ünit1. ÜnitKimya Tepkimeye göre ürünlerde 3 tane C, girenlerde 1 tane C atomu olduğundan C elementini katsayısı da 3 alınır. Benzer şekilde Fe2O3’ün katsayısı 2 alındığında bileşiktek Fe’nin sayısı 4 olacağından ürünlerdeki Fe elementinin katsayısı da 4 alınır. 
+Böylece tepkimenin denkleşmiş hâli aşağıdaki gibi olur:
+��������
+��
+����
+������ ��
+����
+Aşağıda verilen tepkimelerin denk olup olmadığını belirtiniz�� Ca(OH)2 (k)
+ 
+CaO(k) 
++ 
+H2O (s) 
+�� KClO3 (k)
+KCl (k) 
++ 
+3 O2 (g)
+������
+�� Denkleşmiş bir tepkimedir�� Girenler kısmında 3 tane oksijen, ürünler kısmında 3x2=6 tane oksije 
+atomu olduğundan tepkime denk değildir15. UygulamAşağıdaki tepkimeleri denkleştiriniz�� NCl3 (g)
+ 
+N2 (g) 
++ 
+Cl2 (g)
+�� C4H10 
++ 
+O 
+CO2 
++ 
+H2O 
+�� CaO 
++ 
+H3PO 
+Ca3(PO4)+ 
+H2������
+�� � NCl3 (g)
+ 
+N2 (g) 
++ 
+3 Cl2 (g)
+4 CO2 
++ 
+5 H2�� C4H10 
++      13/2 O�� 3 CaO 
++ 
+2 H3PO 
+Ca3(PO4)+
+3 H216. UygulamKimyanın Temel KanunlarKimyanın Temel Kanunlar1. Ünit1. ÜnitKimya ���������������������������������������
+Etrafımızda gördüğümüz malzemelerin çoğu kimyasallardan üretilmektedir. Örneği sabun, şampuan gibi temizlik ürünleri, kıyafetlerimiz, ilaçlar, kozmetikler vb. Bu 
+maddeler üretilirken ihtiyaç duyulan malzemelerin miktarı, ne kadar ürün oluşacağı 
+denkleşmiş kimyasal tepkimeler sayesinde hesaplanır. 
+Denkleşmiş bir kimyasal tepkime denklemi tepkimeye giren maddelerin ve ürünleri miktarlarının yanı sıra bu maddelerin neler olduğu, sembol ve formülleri, fizikse hâlleri hakkında bilgi vermektedir. Miktar, tepkimedeki maddelerin kütleleri, 
+mol sayıları, molekül sayıları, atom sayıları ve hacimleri gibi özellikleridir. Denklem 
+üzerinden stokiyometrik hesaplamalar yaparak verilen bir miktardan başka miktarlar 
+hesaplanırÖrneğin gübre yapımında kullanılan amonyak, endüstride azot ve hidrojen gazlarını tepkimesinden elde edilir. Belirli miktarda hidrojen gazı için ne kadar azot gazı 
+gerektiği ve ne kadar amonyak oluşacağı tepkime denkleminden yararlanarak hesaplanı. 
+�������
+��
+���������
+����������
+������������
+Azot gazı 
+Hidrojen gazı 
+Amonya•
+Tepkimedeki katsayılara göre her 1 tane azot molekülü için 3 tane hidrojen molekül gerekmektedir, bu durumda 2 tane de amonyak molekülü oluşmaktadır•
+Daha fazla miktarda ürün elde etmek için örneğin 1 mol azot gazı için 3 mol hidroje gazına ihtiyaç vardır, 2 mol de amonyak oluşur. Diğer bir ifadeyle başlangıçt tepkime kabında 1 mol N2 ile 3 mol H2 gazı bulunuyorken, tepkime sonundH2 ile N2’nin tamamı birleşerek NH3’e dönüşür. Son durumda kapta sadece 2 moNH3 gazı kalır������
+�
+��������
+���������
+���������:
+1 mol N2 gaz3 mol H2 gaz����������������:
+2 mol NH3 gazKimyanın Temel KanunlarKimyanın Temel Kanunlar1. Ünit1. ÜnitKimya •
+Madde gaz hâldeyse türü ne olursa olsun normal şartlar altında 1 molü 22,4 litrhacim kaplar. Buna göre 1 mol N2 gazı 22,4 L; 3 mol H2 gazı da 3 x 22,4 L hacikaplarBİLGİ NOTNormal şartlar; basıncın 1 atmosfer, sıcaklığın 0 oC olduğu koşullardır. Norma şartlara kısaca “normal şartlar altında “ kelimelerinin baş harfleriyle oluşan 
+��� denir.  
+Aşağıdaki çizelgede amonyağın oluşum tepkimesiyle ilgili mol, tanecik sayısı, kütle 
+ve hacim ilişkisi yer almaktadır:
+��
+�
+����
+�����
+2 tane N atom6 tane H atom2 tane N, 6 tane H atom1 tane N2 molekül3 tane H2 molekül2 tane NH3 molekül6,02 x 10 23 tane Nmolekülü 
+3 x 6,02 x 10 23 
+tane H2 molekül2 x 6,02 x 10 23 tane NHmolekül1 mol N2 molekül3 mol H2 molekül2 mol NH3 molekül28 g N3 x 2 g H2 x 17 g NH22,4 L N3 x 22,4 L H2 x 22,4 L NHCH4 (g) 
++
+2 O2(g)
+ 
+CO2(g) 
++
+2 H2O (g)
+(C: 12, O:16, H:1)
+Yukarıdaki tepkimeye göre 32 gram metan gazı (CH4) yakmak için;
+�� Kaç gram oksijen gazına ihtiyaç vardır?
+�� Kaç gram CO2 gazı elde edilir?
+�� Oluşan su buharı normal şartlar altında kaç L hacim kaplar?
+17. UygulamKimyanın Temel KanunlarKimyanın Temel Kanunlar1. Ünit1. ÜnitKimya ������
+��
+C H4’ün mol kütlesi = 12 g + 4 g = 16 g/mo4 x 1 g = 4 g 12 g 1 mol CH4 16 g ise, 32 g CH4 2 moldür. Buna göre;
+CH+
+2 OCO+
+2 H2���������:
+�����
+�
+Katsayılara bakıldığında;
+1 mol CH4 için 
+2 mol O2 gerekiyorsa, 
+2 mol CH4 için 
+����� O2 gerekmektedir1 mol O2 
+2 x 16= 32 gram olduğundan 
+4 mol O2 
+4 x 32= ��� gramdır�� CH4 
++
+2 O2 
+ 
+CO2 
++ 
+2 H2O 
+1 mol CH4’te1 mol CO2 oluşuyorsa,
+2 mol CH4’ten 
+2 mol CO2 oluşur1 mol CO2 
+12g C + 32 g O = 44 g is2 mol CO2 
+ 
+2 × 44 = 88 g’dır�� 2 mol CH4 molekülünden 4 mol H2O elde edilir1 mol gaz NŞA’da 
+22,4 L hacim kapladığından 
+4 mol gaz (H2O) 
+4 x 22,4= ���� L hacim kaplarKimyanın Temel KanunlarKimyanın Temel Kanunlar1. Ünit1. ÜnitKimya Bu ünitede şimdiye kadar verilen tepkime örneklerinde, belirli miktarlarda maddele tepkimeye girmiş ve maddelerin tamamı tükenerek ürüne dönüşmüştür. Ancak 
+tepkimeye giren maddelerden birisi diğerine oranla fazla miktarda maddelerden birisi 
+tükenir, diğerinin fazlası ise artar. Tepkimede tamamı tükenen ve oluşacak ürünün 
+miktarını belirleyen bu maddeye ������������������� denir. Endüstriyel işlemlerde istenile miktarda ürün elde edebilmek için, genellikle pahalı olan madde sınırlayıcı 
+bileşen olur. 
+Örneğin aşağıdaki tepkimeye göre her 2 mol H2 için 1 mol O2 harcanır ve 2 mol 
+H2O oluşur. Buna göre 4 mol H2 ve 3 mol O2’ den kaç mol H2O oluşur? 
+�����
+��
+��
+�����
+���������� 
+4 mol 
+3 mol 
+��������������� - 4 mol 
+- 2 mo+ 4 mo������������� 0 mol 
+1 mol 
+4 moTepkimeye göre 4 mol H2 ile 2 mol O2 tepkimeye girer, 4 mol H2O oluşur. 1 mol O2 
+de artar. Hidrojenin tamamı tükendiğinden sınırlayıcı bileşendirAşağıda Mg ile HCl’ in denkleşmiş tepkimesi yer almaktadırMg (k) 
++ 
+2 HCl (aq) 
+ 
+MgCl2 (aq) 
++ 
+H2 (g)
+(Mg: 24, HCl:36, H:1)
+108 g HCl ile 12 g Mg’un tepkimesinde;
+�� Sınırlayıcı bileşen hangisidir? Hangi maddeden ne kadar artar?
+�� En fazla kaç gram H2 gazı oluşur?
+������
+��
+• HCl’nin mol kütlesi 36 g/mol olduğundan 108 g HCl 3 moldür. Mg’umol kütlesi ise 24 g/mol olduğundan 12 g Mg 0,5 moldür18. UygulamKimyanın Temel KanunlarKimyanın Temel Kanunlar1. Ünit1. ÜnitKimya Mg (k)
++
+2 HCl (aq)
+MgCl2 (aq)
++
+H2 (g) 
+���������:
+0,5 mo3 mo• Tepkimeye göre 1 mol Mg ile 2 mol HCl artansız tepkimeye girmektedirBuna göre 3 mol HCl için 1 mol Mg harcanır. Ancak kapta 1 mol Mg’dadaha az miktarda bulunmaktadır. Bu nedenle sınırlayıcı bileşen Mg’durYani 0,5 mol Mg’ a karşılık 1 mol HCl harcanırMg (k)
++
+2 HCl (aq)
+MgCl2 (aq)
++
+H2 (g) 
+���������:
+0,5 mo3 mo���������������
+- 0,5 mo- 1 mo�������������
+0 mo2 mo• Başlangıçta 3 mol HCl olduğundan 1 molü harcandığında 2 mol HCl arta. 1 mol HCl 36 g olduğundan 2 mol HCl 2 × 36= 72 gramdır. Yani g HCl artar��
+Tepkimeye göre;
+•
+1 mol Mg’ den 1 mol H2 oluştuğundan 
+ 0,5 mol Mg’den 0,5 mol H2 oluşur•

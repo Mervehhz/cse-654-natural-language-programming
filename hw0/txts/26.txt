@@ -1,0 +1,400 @@
+ 1, 2, 3, 4, olurMatematik I2. BölüÜçgenle3x + ABC bir üçgen,
+|AB| = 5 c|BC| = 8 c|AC| = (x +1) c 
+ 
+m BW ^
+^
+m AYukarıda verilenlere göre x in alabileceği tam sayı değerlerini bulalımÇözüÜçgen eşitsizliğinden,
+3 < x + 1 < 3 < x + 1 
+x + 1 < 3 – 1 < x 
+x < 13 – 2 < x 
+x < 2 < x < |8 – 5| < x + 1  < 8 +  
+Öte yandan  m m ^
+^
+W  verilmiştir. Büyük açının karşısında uzun kenar, küçü açının karşısında kısa kenar olacağındax + 1 < 8 
+      x < 7 
+
+ 
+ 
+  üst sınırların en küçüğünü alırız2 < x < 12   
+2 < x < ↵
+ 3, 4, 5, 6   olurx < 8 – ⇒
+x < 7 
+4. 
+x – 2x + ABC bir üçgen,       
+|AB| = (x – 2) c|AC| = (2x + 1) cm 
+|BC| = 8 cm  
+olduğuna göre x in değer aralığını bulalımMatematik I2. BölüÜçgenleÇözüÜçgen eşitsizliğinden,
+|(2x + 1) – (x – 2)| < 8 < (2x + 1) + (x – 2)
+x + 3 < 8 < 3x – x + 3 < 8 
+8< 3x – x < 8 – 3 
+8 + 1 < 3x < 5 
+9 < 33 < 3 < x < x in değer aralığı (3, 5) bulunur5. 
+ABCD bir dörtge|AB| = 4 c|BC| = 7 c|CD| = 2 c|DA| = 6 c|AC| = x cm 
+Yukarıda verilenlere göre x in alabileceği tam sayı değerlerini bulalımÇözüÜçgen eşitsizliğini ABC ve ADC üçgenleri için ayrı ayrı uygulayalımABC üçgeninde 
+ADC üçgenind                               
+                               
+|7 – 4| < x < 7 + 4 
+|6 – 2| < x < 6 + 3 < x < 11 
+4 < x <        
+   İki eşitsizliği birleştirirsek;
+4 < x < 8 olurBu durumda x in alabileceği tam sayı değerleri 5, 6 ve 7 dirMatematik I2. BölüÜçgenle6ABC bir üçge|AC| = 6 c|AB| = 4 cB 
+2x – 2 
+C 
+ |BC| = (2x – 2) cm ve 
+!
+Z olmak üzerÇevre   A&
+C   nin alabileceği en büyük tam sayı değerini bulalımÇözüÜçgen eşitsizliğinden,
+|6 – 4| < 2x – 2 < 6 +                2 < 2x – 2 < 2 < 2x – 2 
+2x – 2 < 2 + 2 < 2x 
+2x < 10 +    2 < x 
+     x <        2 < x < ↵
+ 
+Ç A&
+BCALIŞTIRMALA1. 
+ABC bir üçgen 
+|AB| = 2 cm     
+|BC| = 5 cm       
+|AC| = (x) colduğuna göre x in alabileceği kaç farklı tam sayı değeri vardır?
+A) B) C) D) en büyük tam sayı değeri 5 tir. 
+= 4 + 6 + 8 = 18 cm olurMatematik I2. BölüÜçgenle2x + ABC bir üçgen  
+|AB| = 7 c|BC| = 9 c|AC| = x + 3 
+m BW ^
+^
+m AYukarıda verilenlere göre x in alabileceği tam sayı değerlerinin toplamı kaçtır?
+A) B) C) D) 3x – 2x + ABC bir üçgen,      
+|AB| = 6 c|AC| = (x – 1) c|BC| = (2x + 3) cYukarıda verilenlere göre x in değer aralığı nedir?
+A) 1 ,k 
+B) 
+,
+k 
+C) 
+, k 
+D)
+,
+4 4. 
+2x – ABC çeşitkenar bir üçgen,
+|AC| = 9 c|BC| = 11 c|AB| = (2x – 4) cm ve  x  Z olmak üzere 
+Çevre   A&
+C   nin alabileceği en büyük tam sayı değeri kaçtır?
+A) B) C) D) Matematik I2. BölüÜçgenleÜçgenlerde Eşliİki üçgenin karşılıklı kenar uzunlukları ve açı ölçüleri birbirine eşit ise bu üçgenlere 
+eş üçgenler denir. İki üçgenin eşliği , sembolü ile gösterilir. Sembolle gösterimde iki 
+üçgenin eşit ölçüye sahip açıları aynı sırada yazılır85°
+55°
+40°
+c = 6 cb = 7 ca = 9 c  
+85°
+55°
+40°
+c = 6 cb = 7 ca = 9 cYukarıdaki üçgenlerde 
+m m m m m m =
+=
+=
+^
+^
+^
+^
+^
+^
+ 
+ADADBE=
+=
+=
+volduğundan ABDE,
+&
+&  dir. ABC üçgeni ile DEF üçgeni eştir. Eş üçgenlerin karşılıkl yardımcı elemanları da eştirÜçgenlerde Eşlik Kurallarİki üçgenin tüm kenar uzunlukları ve tüm açı ölçüleri her zaman verilmeyebilir. Bu 
+durumda üçgenlerin verilen açı ölçüleri veya kenar uzunluklarına bakılarak üçgenleri eşliği hakkında yorum yapılabilir. Bunun için aşağıdaki eşlik kuralları kullanılır. İki 
+üçgen arasında aşağıdaki kurallardan biri sağlanıyorsa bu iki üçgen eştir denir1. Kenar – Kenar – Kenar Eşlik Kuralı (K. K. K.)
+İki üçgenin karşılıklı tüm kenar uzunlukları birbirine eşit ise bu üçgenler eş üçgenlerdi. Buna kenar – kenar – kenar eşlik kuralı (KKK) denir4 c3 c6 cYukarıdaki üçgenlerde 
+,
+,
+AABKKL=
+=
+= 
+   olduğundan AB&  , KL&  dir4 c3 c4 c3 c6 c4 c3 cMatematik I2. BölüÜçgenleÖrne7 c7 c5 c4 cAB&  , TY&  dir. 
+Buna göre ABC üçgeninin çevresi kaç cm dir?
+ÇözüAB&  , TY&  olduğundan 
+ATBYAT=
+=
+= 
+olurAT=
+olduğundan 7 cm = 7 cBY=
+olduğundan |BC| = 4 cAT=
+olduğundan |AB| = 5 cm dirÇevre AB&  = 7cm + 4 cm + 5 cm = 16 cm  bulunur2. Kenar – Açı – Kenar Eşlik Kuralı (K.A.K)
+İki üçgenin karşılıklı iki kenarı ve bu iki kenar arasındaki açıların ölçüleri eşit isbu iki üçgen birbirine eş üçgenlerdir. Buna kenar – açı – kenar eşlik kuralı (K.A.K) 
+denir50°
+9 c6 c50°
+9 c6 cYukarıdaki üçgenlerde 
+Am ABBLKm KL=
+=
+=
+%
+%
+olduğundan AB&  , KL&  dirMatematik I2. BölüÜçgenleÖrneYukarıda verilen ABC ve  PRS üçgenlerine göre |PR| = x kaç cm dir?
+ÇözüABC ve PRS üçgenlerinde 
+ARAPv=
+=
+  m BA%
+%
+i =
+m PSolduğundan Kenar – Açı – Kenar eşlik kuralına göre bu iki üçgen birbirine eştir. 
+Buna göre 
+ x = 7 olur3. Açı – Kenar – Açı Eşlik Kuralı (A.K.A.)
+İki üçgenin ikişer açılarının ölçüleri ve bu iki açı arasında kalan kenar uzunluklareşit ise bu üçgenler eş üçgenlerdir. Buna açı – kenar – açı eşlik kuralı (A.K.A.) denir3 c20°
+120°
+3 c20°
+120°
+Yukarıdaki üçgenlerde,
+m KLACABKM=
+=
+%
+%
+%
+%
+ 
+ve    |BC| = |LM| olduğundan AB&  , KM&  dir5 c4 c7 c5 c4 cMatematik I2. BölüÜçgenleÖrne10 c8 c8 cABC ve CDE birer üçge|CB| = |CE| = 8 c|DE| = 10 cm 
+olduğuna göre |AB| = x kaç cm dir? BulalımÇözüACB ve DC%
+%  ters açılar olduğundan ölçüleri birbirine eşittirDCACDEAB=
+=
+%
+%
+%
+%
+|CE| = |CB| olduğundan iki üçgen birbirine eştir. 
+Buna göre AB&  , DE&
+   
+ 
+        |AB| = |DE|
+x = 10 cm olurALIŞTIRMALA1. 
+68°
+57°
+Şekilde AB&  , DM&  dir. 
+°
+m =
+^
+ ve 
+°
+m =
+^
+ 
+olduğuna göre m m +
+^
+^
+W  toplamı kaç derecedir?
+A) 112°
+B) 102°
+C) 98°
+D) 95°
+m (DEA) = m(ABD)
+Matematik I2. BölüÜçgenle2115°
+ABC üçgenindAD&  , CE&
+°
+m AD=
+%
+m EA=
+%
+olduğuna göre m EA%
+ kaç derecedir?
+A) B) C) D) 3. 
+ABC ve KLM birer üçge|AB| = |AC| = |KL| = |KM|= 8 cm 
+|BC| = 6 cm 
+A) B) C) D) 4. 
+ABCD bir kar[CE] ⊥ [DM]
+[AH] ⊥ [DM]
+|CE| = 8 c|DE| = 2 cm dirYukarıda verilenlere göre |EH| kaç cm dir?
+A) B) C) D) m(BAC) = m(MKL) =     
+olduğuna göre  LM   kaç cm dir?
+Matematik I2. BölüÜçgenleÜçgenlerde Benzerliİki üçgenin tüm açı ölçüleri eşit ve karşılıklı kenar uzunlukları orantılı ise bu üçgenle benzer üçgenlerdir. İki üçgenin benzerliği +  sembolü ile gösterilir. Sembolle 
+gösterimde iki üçgenin eşit ölçüye sahip açıları aynı sırada yazılırBenzer iki üçgende karşılıklı kenarlar oranlandığında elde edilen sayıya benzerlik 
+oranı denir. k harfi ile gösterilir3 
+6 
+10 
+8 
+5 
+4 
+Şekildeki üçgenlerdABKL+
+&
+&  dir. Buna görKALBKA=
+=
+=
+cccccc=
+=
+=
+Burada benzerlik oranının 1  çıkması, “KLM üçgeninin kenar uzunlukları, ABC 
+üçgeninin 2 katıdır.” veya “ABC üçgeninin kenar uzunlukları, KLM üçgeninin yarısıdı.” anlamındadırBİLGİ KUTUSEş üçgenlerde benzerlik oranı 1 dir. Benzer üçgenlerin karşılıklı yardımcı 
+elemanları da aynı benzerlik oranına sahiptirÜçgenlerde Benzerlik Kurallar1. Kenar – Kenar – Kenar Benzerlik Kuralı (K. K. K.)
+İki üçgenin karşılıklı kenar uzunlukları oranı birbirine eşit ise bu üçgenler benzeüçgenlerdir. Buna kenar – kenar – kenar benzerlik kuralı (K. K. K.) denirMatematik I2. BölüÜçgenleALKAKB=
+=
+=
+=
+=
+=
+
+Üçgenlerin kenar uzunlukları oranı eşittir. Bu durumda 
+kenar – kenar – kenar benzerlik kuralına göre ABC üçgeni 
+MKL üçgeninin 1  oranında küçültülmüş şeklidir. 
+ABMK+
+&
+&  olur2. Kenar – Açı – Kenar Benzerlik Kuralı (K. A. K.)
+İki üçgenin karşılıklı ikişer kenar uzunluklarının oranı ve bu iki kenar arasında kala açıların ölçüleri eşit ise bu üçgenler benzer üçgenlerdir. Buna kenar – açı – kenar 
+benzerlik kuralı (K. A. K.) denir65°
+m BAm PRPARA=
+=
+=
+=
+=
+%
+%
+
+Üçgenlerin kenar uzunlukları oranı eşittir. Bu durumd kenar – açı – kenar benzerlik kuralına göre 
+BAC üçgeni PRS üçgeninin 1   üdürBAPR+
+&
+&  olur3. Açı – Açı Benzerlik Kuralı (A. A.)
+İki üçgenin karşılıklı açı ölçüleri birbirine eşit ise bu üçgenler benzer üçgenlerdirBuna açı – açı – açı benzerlik kuralı (A. A. A.) denir105°
+105°
+40°
+40°
+35°
+35°
+m CAKLACLKABKM=
+=
+=
+%
+%
+%
+%
+%
+%
+Üçgenlerin açı ölçüleri birbirine eşittir. Bu durumda açı – açı benzerlik kuralına 
+göre ABC üçgeni ile LMK üçgeni benzer üçgenlerdirABLM+
+&
+&  olur65°
+Matematik I2. BölüÜçgenleÖRNEKLE1ABC ve CDE birer üçge[AB] ⊥ [BD]
+[ED] ⊥ [BD]
+[AC] ⊥ [EC]
+|AB| = 8 c|ED| = 1 c|CD| = 2 colduğuna göre |BC| = x kaç cm dir? BulalımÇözüCAcc=
+benzerlik oranı bulunur. 
+O hâlde bu benzerlik oranı karşılıklı diğer kenarların arasında da olacağındaEB=
+=
+=
+            x · 1 = 4 · x = 4 cm bulunur2. 
+ABC bir üçgem ABADm ACcc=
+=
+=
+%
+%
+Yukarıdaki verilenlere göre A=
+ kaç cm dir? Bulalım= Verilen üçgenlerde ölçüleri bilinmeyen açıları 
+harflendirelim. BCA na    , BAC na      dersek 
+m(ECD)=     ve m(CED)=     olurAçı – Açı – Açı benzerlik kuralından 
+Matematik I2. BölüÜçgenleÇözüA açısı hem ADC üçgeni hem de BAC üçgeni için aynı ölçü- 
+de bir açı olduğundan bu açıya a diyelimm ADC =
+%
+β dersek m ACB =
+%
+β olur&
+&  arasında açı-açı-açı benzerlik kuralı elde 
+Buna görAACDAAAAAA=
+=
+bulunu=
+&
+=
+=
+=
+Yani ACD ile ABC 
+edilmiş olur olarak yazılır3. 
+ABEBABcccAE=
+=
+=
+=
+=
+=
+@
+@
+@
+@
+@
+@
+ACB ve BED dik üçgenleolduğuna göre |BD| = x kaç cm dir? BulalımÇözüŞekildeki EDB üçgeninde ölçüleri verilmeyen açıları isimlendireli,
+m BEm EBolsu=
+=
+%
+%
+°
+a +
+=
+   olduğundan   m ABv=
+%
+m BAolu=
+%
+Matematik I2. BölüÜçgenleİki üçgenin karşılıklı açı ölçüleri eşit olduğundan bu iki üçgen benzerdir|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+.|
+|
+. |
+|
+|
+|
+ABBEBAEBBAk oluEBBABBBBcm bulunu3 &
++
+=
+=
+=
+=
+=
+=
+=
+=
+4444444 &
+&
+4ADE bir üçgem ABm ADm ACm AEAcBcBc=
+=
+=
+=
+=
+%
+%
+%
+%
+Yukarıda verilenlere göre |DE| = x kaç cm dir? BulalımÇözüABC üçgeni ile ADE üçgeninin ortak açısı A 
+açısıdırcm bulunu&
+=
+=
+=
+m m m m isAADBAAk oluAADB10 =
+=
+=
+=
+=
++
+=
+=
+=
+^
+^
+^
+^
+4444444 ABC + ADE,
+&
+&
+Matematik I2. BölüÜçgenle5. 
+ADAcCcBcC'
+=
+=
+=
+=
+@
+@
+ABC ve CDE birer üçgeolduğuna göre x uzunluğunu bulalımÇözü 
+∑
+(
+)
+m ACm DColum ABm CDolum CAm CEolu=
+=

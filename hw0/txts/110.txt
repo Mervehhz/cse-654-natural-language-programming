@@ -1,0 +1,400 @@
+=
+=
+ olduğuna göre P(x) ve 
+Q(x) polinomlarının derecelerini bulunuz( )
+P ( )
+Q ( )
+( )
+B Q $
+( )
+B ( )
+K ( )
+P x  : Bölünen polinom,
+( )
+Q x  : Bölen polinom,
+( )
+B x  : Bölüm polinomu,
+( )
+K x  : Kalan polinomudurP(x) ve 
+( )
+Q !
+ polinomları için 
+( )
+( )
+der P de$
+@
+@ olmak üzere P(x) polinomunun Q(x) 
+polinomu ile bölümü aşağıdaki gibi gösterilebilir                     
+           
+ 
+        
+      
+Yukarıda verilen bölme işleminde 
+• 
+( )
+( )
+( )
+( )
+P Q B K $
+=
++
+ olur. Bu eşitliğe bölme eşitliği denir 
+• 
+( )
+K =
+ ise 
+( )
+P x  polinomu 
+( )
+Q x  polinomuna tam (kalansız) bölünüyor denir• 
+( )
+( )
+der K der Q @
+@ olur 
+• 
+( )
+( )
+( )
+der B der P der Q =
+-
+@
+@
+@ olur( )
+( )
+der P m ve der Q =
+=
+@
+@
+ olsun( )
+( )
+( )
+,
+der der P P $
+=
+=
++
+=
+@
+ 
+( )
+( )
+der Q olu$
+=
++
+=
+^ ( )
+der P =
+@
+ için P(x) polinomunun en büyük dereceli teriminin a (0)
+$
+!
+ gibi bir terim 
+olduğu düşünülürse 
+(
+)
+P x3  polinomunun en büyük dereceli terimi a olur3 3$
+$
+=
+^
+ Buradan 
+(
+)
+der P m olu=
+( )
+( )
+( )
+der der Q Q n olu$
+=
+=
++
+=
+@
+(
+)
+( )
+der P oluI$
+=
++
+=
+^  I ve II numaralı denklemler yok etme yöntemi kullanılarak çözülürs        
+            
+ 
+ 
+Bulunan m değeri +
+=
+ denkleminde yerine yazılırsa 
+2 &
+$
++
+=
+=
+ olur. 
+Buradan 
+( )
+( )
+der P dev=
+=
+=
+=
+@
+@
+ olur/
+/
+$
+$
++
+=
++
+=
+-
+-
+]
+]
+-
+-
+= -
++
+=
+olu&
+-
+= -
+=
++
++
+(I numaralı eşitliğin her iki tarafı 
+-  çarpılıp II numaralı eşitlikle taraf 
+tarafa toplanır.)
+İpuc     Polinomlarda bölme işlemi aşağıda verilen sıralamaya uygun yapılır• Bölünen ve bölen polinom bu polinomların değişkeninin azalan kuvvetlerine göre yazılır• Bölünen polinomun en büyük dereceli terimi bölen polinomun en büyük dereceli terimin bölünür ve elde edilen sonuç bölüm polinomunun ilk terimi olarak yazılır• Bölüm polinomuna ait bulunan ilk terim, bölen polinomla çarpılır ve elde edilen ifade 
+bölünen polinomdan çıkarılır• Yukarıdaki işlemler, çıkarma işlemi sonucunda elde edilen her polinoma kalanın dereces bölenin derecesinden küçük oluncaya kadar uygulanır( )
+( )
+P ve Q =
+-
++
+-
+=
++
+-  polinomları veriliyor. 
+( )
+P x  polinomunun 
+( )
+Q x  polinomu ile 
+bölümünden elde edilen bölüm ve kalan polinomlarını bulunuz( )
+ polinomunun 
+( )
+Q =
+-  polinomuna bölümünde, bölüm +  ve kalan 5 olduğuna göre 
+( )
+ 
+polinomunu bulunuzBölünen P(x), bölen Q(x), bölüm B(x), kalan K(x) polinomu olmak üzere 
+( )
+( )
+( )
+( )
+P Q B K $
+=
++
+ olur. 
+Verilen değerler 
+( )
+( )
+( )
+( )
+P Q B K $
+=
++
+ eşitliğinde yerine yazılırsa 
+( )
+( )
+( )
+olu$
+=
+-
++
++
+=
++
+-
+-
++
+=
+-
++
+^
+^
+     
+4 -
++
+-
+    2 +
+-
+     +
+-
+     2 -
++                   
+     
+3 -
++
+-
+-
+       
+-
+-
++
+             
+2 -
+-
+             
+2 +
+-
+                   
+-
+-
+Bölme işlemi sonucunda elde edilen bölüm polinomu 
+( )
+B =
+-
++ , kalan polinomu ise  
+( )
+K =
+-
+-
+ olur$
+=
+x $
+-
+-
+=
+2 $
+=
+‘‘ x2  ile 2 2  nin çarpımı bölünen 
+polinomun ilk terimini verir.’’
+‘‘ x2  ile 
+-
+ in çarpımı 3. satırdak polinomun ilk terimini verir.’’
+‘‘ x2  ile 1 in çarpımı 5. satırdaki 
+polinomun ilk terimini verir.’’
+(
+)
+( )
+P a$
+-
+=
+-
++
+-
+ eşitliğinde x yerine 1 yazılarak a değeri bulunur=
+ için (
+)
+( )
+olu6 $
+$
+$
+-
+=
+-
++
+-
+=
+-
+=
+ 
+Bulunan a değeri verilen eşitlikte yerine yazılıp eşitliğin her iki tarafı (
+)
+-
+ ile bölünerek 
+( )
+P x  polinomu 
+elde edilir. 
+(
+)
+(
+)
+( )
+( )
+P P &
+$
+-
+-
+=
+-
+-
++
+-
+=
+-
+-
++
+-
+ olur. Burada( )
+P =
+-
++
+ olurBir aracın belirli bir yol boyunca ortalama hızı Toplam zamaToplam yoort =
+ formülü ile hesaplanacağında 
+ 
+ 
+  
+(
+)
+(
+)
+(
+)
+(
+)
+oluoror=
++
++
++
++
++
++
++
++
++
++
+=
++
++
++
++
+  
+                    +
++
++
+    +
+                    +
+                       2 +
++
+                            
+2 +
++
+                            
+2 +
+                                      
++
+                                      
++
+                                               0          
+               or=
++
++
+km/sa. bulunurBölme işlemi kullanılara olmak üzere A ve B şehirleri arası uzaklık +
++
++
+ kilometredir. A şehrinden B şehrin +  saatte gidip +
+ saatte tekrar A şehrine dönen bir aracın gidiş ve dönüş boyunca ortalama 
+hızını x cinsinden bulunuz!
+ olmak üzere (
+)
+( )
+P a$
+-
+=
+-
++
+-
+ eşitliğini sağlayan 
+( )
+P x  polinomunu bulunuz-
+2 -

@@ -1,0 +1,400 @@
+=
++
+=
+-
++
+     
+ Eşitliğin her iki tarafı 2 ile bölünürs( )
+(
+)
+(
+( )
+( ))
+. ................( )
+m m m m olu+
+=
+-
++
+ABED dörtgenind( )
+(
+)
+( )
+(
+)
+( )
+(
+)
+( )
+(
+)
+. ..............( )
+m m DEm m m m m m DEoluI+
++
++
+=
++
+=
+-
+-
+%
+%
+(I) ve (II) nolu eşitliklerde( )
+( )
+( )
+(
+)
+( )
+( )
+( )
+(
+(
+))
+( )
+( )
+(
+)
+m m m m DEm m m m DEm m m DEF olu-
++
+=
+-
+-
+-
+-
+=
+-
+-
+-
+-
+=
+%
+%
+%
+( )
+( )
+m A ile m X  arasındaki büyüklük ilişkisi bilinmediğinden ve 
+(
+)
+m DE%  negatif olamayacağından 
+(
+)
+( )
+( )
+m DEm m =
+-
+%
+ olurDörtgenler ve ÇokgenleDörtgenler ve ÇokgenleİpucYandaki şekilde verilen ABCD dörtgeninde D, E, F noktaları doğrusal, 
+DF ve B@ sırasıyla ADC ve ABC açılarının açıortayıdır. 
+,
+(
+)
+m BA=
+%
+(
+)
+m BC=
+%
+ olduğuna göre BED açısının ölçüsünün kaç derece olduğunu 
+bulunuzKöşegenleri dik kesişen bir ABCD dörtgeninde karşılıklı kenar 
+uzunluklarının kareleri toplamları birbirine eşittirŞekildeki ABCD dörtgeninde AB=
+@
+@ olduğundaADAB+
+=
++
+ olur ABCD dörtgeninde 
+ve BD? açıortay olduğunda(
+)
+( )
+( )
+m BEm m olu=
+-
+=
+-
+=
+%
+                              
+(
+)
+(
+)
+(
+)
+(
+)
+m BEm BEm BEm BEolarak bulunu+
+=
++
+=
+=
+%
+%
+%
+%
+Bu eşitliğin doğruluğu aşağıdaki gibi gösterilebilirDörtgenin kenar uzunlukları 
+,
+,
+,
+ABCD=
+=
+=
+=
+ ile köşegen uzunluklarının 
+parçaları da 
+,
+,
+,
+,
+ABEE=
+=
+=
+=
+ile 
+şekildeki gibi adlandırılsın. AEB ve CED üçgenlerinde Pisagor 
+teoremi ile 
+. .............( )
+ve olur Buradaelde edili=
++
+=
++
++
+=
++
++
++
+AED ve BEC üçgenlerinde Pisagor teoremi ile 
+. .............( )
+ve olur Buradaelde ediliI=
++
+=
++
++
+=
++
++
++
+(I) ve (II) den +
+=
++
+ elde edilirDörtgenler ve ÇokgenleDörtgenler ve ÇokgenleYandaki şekilde verilen ABCD dörtgeninde AB=
+@
+@; Ac=
+, 
+Bc=
+, Ac=
+ ve Cx c=
+ olduğuna göre x değerini ve 
+ABCD dörtgeninin çevresinin kaç cm olduğunu bulunuzYandaki şekilde verilen ABCD dörtgeninde 
+,
+!
+!
+?
+?; 
+AB=
+?
+?; BE=
+, AF=
+; Gc=
+, Gc=
+, 
+Cc=
+ ve Ax c=
+ olduğuna göre x değerini bulunuzABCD dörtgeninde AB=
+@
+@ olduğundan ADAB+
+=
++
+ olur. Buradaolu&
+&
+&
+&
++
+=
++
++
+=
++
++
+=
+=
+=
+ABCD dörtgeninin çevresi 
+cm olu+
++
++
+=
+Bir dik üçgende hipotenüse ait kenarortayın uzunluğu hipotenüs 
+uzunluğunun yarısı oduğundan BEGc=
+=
+=
+ ve 
+AFGc=
+=
+=
+ olur. Bu değerler yandaki şekilde verildiği 
+gibi gösterilirBuradan Ac=
+ ve Bc=
+ olur. ABCD dörtgeninde 
+AB=
+?
+? olduğundan ADAB+
+=
++
+ olur. Buradaolu2 &
+&
+&
+&
++
+=
++
++
+=
++
++
+=
+=
+=
+Yandaki şekilde verilen teknenin yelkenlerinin boyutları 
+A=
+, =
+, B=
+ olarak verilmiştir. 
+AB=
+@
+@ olduğuna göre E=
+ uzunluğunun kaç metre 
+olduğunu bulunuzDörtgenler ve ÇokgenleDörtgenler ve ÇokgenleYandaki şekilde ABEC dörtgeninde BEC üçgeninin B@ 
+na göre yansıması BE  üçgeni olur. ABE  dörtgenindAB=
+@
+@ olduğundan 
+m olu&
+&
+&
+&
++
+=
++
++
+=
++
++
+=
+=
+=
+/
+Yandaki şekilde Hve E?
+? sırasıyla ADC ve AB&
+&  nin orta tabanlar olduğundan HEA'
+'
+?
+?
+? ve HEA=
+=
+ olurEve F?
+? sırasıyla BAD ve BC&
+&  nin orta tabanları olduğundan 
+EFB'
+'
+?
+?
+? ve EFB=
+=
+ olurBu durumda 
+(
+)
+EFGEFGHABABABD bulunu=
++
++
++
+=
++
++
++
+=
++
+Bu özelliğin doğruluğu aşağıdaki gibi gösterilebilirYandaki şekilde verilen ABCD dörtgeninde  E, F, G ve H noktaları bulunduklar kenarların orta noktalarıdır. Ac=
+ ve Bc=
+ 
+olduğuna göre EFGH dörtgeninin çevresinin kaç cm olduğunu bulunuzABCD dörtgeninde E, F, G ve H noktaları bulundukları kenarların orta noktaları olduğundan 
+(
+)
+EFGABcm olarak bulunu=
++
+=
++
+=
+İpucYandaki şekilde verilen ABCD dörtgeninde A? ve B?  
+dörtgenin köşegenleridir. E, F, G ve H bulundukları kenarların 
+orta noktaları ise 
+(
+)
+EFGABD olu=
++
+Dörtgenler ve ÇokgenleDörtgenler ve Çokgenle1. 
+Yukarıdaki şekilde verilen ABCD dörtgenindAAD=
+=
+; 
+,
+(
+)
+BA=
+%
+(
+)
+AD=
+%
+ ve 
+(
+)
+m AB=
+%
+ olduğuna 
+göre x değerinin kaç derece olduğunu bulunuz2. 
+Yukarıdaki şekilde verilen ABCD dörtgenindA?, BAD açısının;
+B?, ABC açısının; 
+C?, BCD açısının;
+D?, ADC açısının açıortayıdır. 
+(
+)
+m AF=
+%
+ ve 
+(
+)
+m BE=
+%
+ olduğuna göre 
+x değerinin kaç derece olduğunu bulunuz3. 
+3 Yukarıdaki şekilde verilen ABCD dörtgeninde 
+AA=
+?
+?, BC=
+?
+?;  
+(
+)
+AD=
+%
+;  
+Bc=
+, Ac3 =
+, Ax c=
+  
+olduğuna göre x değerinin kaç cm olduğunu 
+bulunuz42 Yukarıdaki şekilde verilen ABCD dörtgeninde 
+,
+(
+)
+m AB=
+%
+(
+)
+m BC=
+%
+; 
+;
+AA=
+?
+?
+Ac2 =
+, Dc=
+ olduğuna göre 
+BC  nun kaç cm olduğunu bulunuz.  

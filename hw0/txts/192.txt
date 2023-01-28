@@ -1,0 +1,400 @@
+A(0, 4)
+12. Yandaki şekilde 
+köşelerinin koordinatlar A(0, 4), 
+B(-3, 0) vC(-1, 0) olan bir 
+ABC üçgeni verilmişti. Bu üçgenin 
+y ekseni etrafında 
+360° döndürülmesi 
+ile oluşan cismin 
+hacminin kaç 
+birimküp olduğunu 
+bulunuz13. Boyu 20 santimetre, taban yarıçap 
+uzunluğu 4 santimetre olan silindirik bir 
+mum, yakıldıktan 4 saat sonra tamamen 
+erimektedir. Aynı malzemeden yapılmış 
+ikinci bir mumun taban yarıçap uzunluğu 
+3 santimetredir. İkinci mum, yakıldıktan 
+6 saat sonra tamamen eridiğine göre 
+bu mumun yüksekliğinin kaç santimetre 
+olduğunu bulunuz. 
+16.  
+Dünya Çocuk Günü nedeni ile bir çocuk 
+yuvasında gerçekleştirilecek programda 
+görseldeki gibi bir pasta 27 çocuğa eşit 
+olarak dağıtılacaktır.  
+Silindir biçiminde olan iki katlı pastanın 
+birinci katının yüksekliği 40 cm, yarıçap 
+uzunluğu 20 cm; ikinci katının yüksekliği     
+20 cm, yarıçap uzunluğu 10 cm olduğuna 
+göre her bir çocuğa düşecek pasta diliminin 
+kaç dm3 olacağını bulunuz. (π = 3 alınız.)
+15.  Bir ayrıtının uzunluğu 20 santimetre olan 
+küp şeklindeki bir kütük yontularak bir küre 
+yapılacaktır. Oluşabilecek en büyük kürenin 
+yüzey alanının kaç santimetrekare olacağını 
+bulunuz. 
+14. İçinde küresel boşluk  bulunan bir metal küreni iç çap uzunluğu 4 cm, dış çap uzunluğu 
+16 cm dir. Bu metal küre eritilerek taban 
+yarıçap uzunluğu 12 cm olan bir koni oluşturuluyo. Oluşturulan koninin yüksekliğinin 
+kaç santimetre olduğunu bulunuz17. Hacmi 20 santimetreküp olan metal cisim 
+eritilerek yarıçap uzunluğu  10 santimetre 
+olan bir silindir kabın içine dökülüyor. 
+Silindirin içindeki cismin yüksekliğinin kaç 
+santimetre olduğunu bulunuz.   
+D) Aşağıdaki çoktan seçmeli soruları okuyunuz 
+ve doğru seçeneği işaretleyiniz18. Taban çap uzunluğu 40 cm  olan silindirik bir 
+kabın içinde 44π litre su vardır. Suyun yüksekliğ kaç desimetredir? ( 1 litre = 1 dm3)
+A) 5 
+B) 8 
+C) 11 
+D) 15 
+E) 20. 
+Yarıçap uzunluğu 6 cm, yüksekliği 8 cm olan 
+şekildeki dik dairesel koninin içine konulabilece en büyük kürenin hacmi kaç santimetreküptü?
+A) 36 π  
+B) 27 π              C) 10 5  
+D) 5 5  π 
+E) 12 21. Şekilde merkez açısı 
+180°, AB yayının 
+uzunluğu 10π cm 
+olan O merkezli daire 
+dilimi verilmiştir.  Daire 
+diliminin OA ve OB 
+kenarları  çakıştırılarak 
+bir dik koni elde 
+ediliyor. Elde edilen 
+koninin hacmi kaç 
+santimetreküptür?
+22. Yanal yüzeyinin alanı 60π olan bir koninin ana 
+doğru parçasının uzunluğu 10 birim olduğuna 
+göre bu koninin hacmi kaç birimküptür?
+A) 96 π  
+B) 122 π 
+C) 220  
+D) 256 π 
+E) 288 23. 
+Yukarıda Kudüs’te bulunan Kubbetü’s-Sahra 
+adlı yapının fotoğrafı verilmiştir. Yapı, kürenin 
+yarısı biçimli ve altın kaplamalı bir kubbeye 
+sahiptir. Kubbenin yarıçap uzunluğunun 10 metre 
+olduğu bilindiğine göre kaplama işinde kaç 
+metrekarelik alanda altın kullanılmıştır?
+A) 100 π                B) 122 π                  C) 180 π    
+              D) 200 π 
+   E) 296 24. Taban yarıçap uzunluğu 12 cm olan silindirik 
+bir kabın içinde bir miktar su vardır. Kabın içine 
+yarıçap uzunluğu 1,2 cm olan küre şeklinde 
+bilyelerden atılınca suyun seviyesi 6 cm yükseldiğin göre kaba kaç tane bilye atılmıştır? 
+A) 150  
+    B) 300                 C) 375 
+              D) 400  
+   E) A) 13��          B) 
+125 3 ��         C) 
+100 3 ��
+ 
+D) 
+40�� 
+E) 
+80 3 ��
+19. Bir koninin hacmi 60π santimetreküp, taban 
+alanı 18π santimetrekare olduğuna göre 
+koninin yüksekliği  kaç santimetredir?
+A) 3 
+B) 4 
+C) 6 
+D) 8 
+E) 10ℝ∈ ≤ ≥ ∞ ∪∩ → ≠ ∆ ⇒ ⇔||⊥==+ ++-−
+7. OLASILIVERİ, SAYMA VE OLASILI7.1. Koşullu Olasılı7.2. Deneysel ve Teorik OlasılıBu bölümd• Koşullu olasılığı açıklayarak problemler çözmeyi,
+• Bağımlı ve bağımsız olayları açıklayarak bu olayların gerçekleşme 
+olasılıklarını hesaplamayı,
+• Bileşik olayı açıklayarak bu olayın gerçekleşme olasılığını hesaplamayı,
+• Deneysel olasılık ile teorik olasılığı ilişkilendirmeyi 
+öğreneceksinizV e r i ,  S a y m a  v e  O l a s ı l ı Koşullu Olasılık, Bağımlı Olaylar, Bağımsız Olaylar, Bileşik Olay, 
+Deneysel Olasılık, Teorik Olasılık 
+K A V R A M L A H A Z I R L I K  Ç A L I Ş M A S Yalnızca kıymalı, peynirli ve patatesli pidelerin satıldığı bir pideciye üç 
+müşteri geliyorMüşteriler pide tercihlerini nasıl yapabilirler?
+Üç müşteriden birinin kıymalı pide tercih etmesi durumunda diğerlerinin 
+seçimleri nasıl olabilir?
+Müşterilerden birinin patatesli pide tercih ettiği bilindiğine göre 
+diğerlerinin de aynı tercihi yapma olasılığı nasıl ifade edilebilir?
+Doğacak bir bebeğin cinsiyeti ve göz rengi, bir spor müsabakasının sonucu, aylık enflasyon beklentiler, hava tahmin raporları gibi belirsizlik içeren durumlara günlük hayatta sıklıkla rastlanabili. Belirsizliklere dair tahmin yürütülürken olasılık kavramına başvurulur. Tahmin yürütülen olayları sonuçları pek çok etkene bağlı olabilirİki olayın birleşiminin olasılığı P(A∪B) = P(A) + P(B) - P(A∩B) olur. 
+Aynı anda gerçekleşmesi mümkün olmayan olaylara ayrık olaylar denirA ve B ayrık olaylar ise P(A∩B) = 0 ve P(A∪B) = P(A) + P(B) olurE eş olumlu örnek uzayında A ve B iki olay olsun. B olayının gerçekleşmiş olması hâlinde A olayını gerçekleşme olasılığına A olayının B olayına bağlı koşullu olasılığı denir ve  bu olasılık P(A|B) 
+şeklinde gösterilirA olayının B olayına bağlı koşullu olasılığı, P(B) ≠ 0 olmak üzerP(A|B) = P(A∩B)
+P(B)
+ şeklindedir. 
+P(A∩B) = s(A∩B)
+s(E)
+, P(B) = s(B)
+s(E)  ve s(B) ≠ 0 olmak üzere 
+P(A|B) = s(A∩B)
+s(B)
+ şeklindedirGerçekleşmiş olaGerçekleşmesi istenen ola P(A|B) 
+E örnek uzayında A ve B iki olay olmak üzere A olayının olasılığı P(A) = s(A)
+s(E)  şeklindedirHerhangi bir A olayının gerçekleşme olasılığı P(A), gerçekleşmeme olasılığı P(A') olmak 
+üzere P(A) + P(A') = 1 olurBir deneyin tüm sonuçlarının oluşturduğu kümeye örnek uzay denir ve bu küme E ile gösterili. Örnek uzayın her bir alt kümesine olay denir. 
+Bir olayın gerçekleşme değerinin [0,1] ndaki bir reel sayı ile gösterilmesine bu olayın olma 
+olasılığı denir. 
+Hatırlatm7.1. Koşullu Olasılı7.1.1. Koşullu OlasılıMilattan önce 4. yüzyılda yaşamış Aristo’nun eserlerinde olasılık, bir olayın rastgele gerçekleşmes durumunu ifade etmek için kullanılan kavramdır. Olasılık kavramının matematiği bir dalı olarak ortaya çıkışı 17. yüzyılın ortalarına denk gelir. Blaise Pascal (Bileys Paska), kendisine yöneltilen bir olasılık sorusunu çözmekle yetinmeyip bu konuda çalışmalar 
+başlatmıştır. Pascal, çağdaşı Pierre de Fermat (Piyer dö Ferma) ile bu alanda sık sık fikir 
+alışverişinde bulunmuştur. İkili, matematiğin önemli bir dalı olan olasılık kuramını ortaya 
+atmıştır. Olasılık kuramı günümüzde bilim, endüstri, ekonomi, spor, yönetim, bankacılık, sigortacılı, kalite kontrolü, gazların kinetik teorisi, mekanik gibi alanlarda kullanılmaktadır.  
+Matematik TarihV e r i ,  S a y m a  v e  O l a s ı l ı 25 kişilik bir sınıfta her öğrenci futbol ve voleybol oyunundan en az birini oynamaktadır. 
+Futbol oynayan 15, voleybol oynayan 18, her iki oyunu oynayan 8 öğrenci vardır. Sınıftan 
+rastgele seçilen bir öğrencinin voleybol oynadığı bilindiğine göre bu öğrencinin futbol da 
+oynuyor olma olasılığını bulunuzÇözüSınıfta 25 öğrenci olduğundan örnek uzayın eleman sayısı 
+s(E) = 25 olur. 
+Voleybol oynayanların kümesi “V”, futbol oynayanların kümes “F” ve her iki oyunu oynayanların kümesi “F∩V” ile 
+gösterilsin. 
+a + b + c = a + b = b + c = 15 olur. Buradan a = 10, b = 8, c = 7 olur. Buna görs(F) = 15, s(V) = 18 ve s(F∩V) = 8 olur. Buradan 
+voleybol oynayan öğrencinin aynı zamanda futbol da oynuyo olma olasılığP(F|V) =
+( )
+(
+)
+s s +
+=
+=
+ olurE örnek uzayında A ve B olayları verilsinP(B) = 1  ve P(A∩B) = 1  olduğuna göre A olayının B olayına bağlı koşullu olasılığını 
+bulunuzÇözüP(A|B) = 
+( )
+(
+)
+P P +
+=
+=
+ olur1. Örnek 
+E örnek uzayında A ve B olayları verilsin. P(A') = 2 , P(B') = 1  ve P(A∪B) = 3  olduğuna 
+göre B olayının A olayına bağlı koşullu olasılığını (P(B|A)) bulunuzÇözüP(A) + P(A') = 1 olduğundan P(A) = 1 - P(A') ⇒ P(A) = 1 - =
+ ve 
+P(B) + P(B') = 1 olduğundan P(B) = 1 - P(B') ⇒ P(B) = -
+=
+ olurP(A∪B) = P(A) + P(B) - P(A∩B) ⇒ 3  = 1  + 1  - P(A∩B) ⇒ P(A∩B) = 1  olur. BuradaP(B|A) = 
+( )
+(
+)
+P P +
+ = =
+ olur2. Örnek 
+3. Örnek 
+Bir okuldaki öğrencilerin tamamı matematik ve Türkçe derslerinin en az birinden kurs kaydı 
+yaptırmıştır. Bu öğrencilerin %65 i matematik, %85 i Türkçe ve %50 si her iki dersten kurs 
+kaydı yaptırmıştır. Okuldan rastgele seçilen bir öğrencinin Türkçe dersinden kurs kaydı yaptırdığ bilindiğine göre bu öğrencinin matematik dersinden de kurs kaydı yaptırmış olma 
+olasılığını bulunuzÇözüm  
+Okuldaki öğrenci sayısı 100x olsun. Seçilen öğrencinimatematikten kayıt yaptırmış olması olayı M ise s(M) = 65x, 
+Türkçeden kayıt yaptırmış olması olayı T ise s(T) = 85x,
+her iki dersten kayıt yaptırmış olması olayı M∩T ise 
+s(M∩T) = 50x olurSeçilen öğrencinin Türkçeden kurs kaydı yaptırdığı bilindiğin göre bu öğrencinin matematik dersinden de kurs kaydı 
+yaptırmış olma olasılığı                    
+P(M|T) = s(M∩T)
+s(T)
+ = 
+=
+ olarak bulunur5. Örnek 
+355015Bir çift zarın atılması deneyinde üst yüze gelen sayıların 
+toplamının 8 olduğu biliniyor. Buna göre bu sayıların her 
+ikisinin de asal olma olasılığını bulunuzÇözüZarlar atıldığında üst yüze gelen sayıların toplamının 8 olma olayı S8 , asal olma olayı A, üst 
+yüze gelen sayıların toplamının 8 ve asal olma olayı S8∩A olsun. BuradaS8 = {(2, 6), (3, 5), (4, 4), (5, 3), (6, 2)} olduğundan s(S8) = 5 olur. 
+Bir zarın üst yüzüne gelebilecek asal sayılar 2, 3, 5 olacağındaA = {(2, 3), (2, 5), (3, 2), (3, 5), (5, 2), (5, 3)} olur. 
+İki zarın üst yüzüne gelebilecek ve toplamı 8 olan asal sayılar (3, 5) ya da (5, 3) biçimindedir. 
+Buradan S8∩A = {(3, 5), (5, 3)} ve s(S8∩A) = 2 olurO hâlde üst yüze gelen sayıların asal olma olasılığı P(A|S8) = 
+( )
+(
+)
+s s 8 +
+=
+ olur4. Örnek 
+V e r i ,  S a y m a  v e  O l a s ı l ı n, r ∈ ℕ ve n ≥ r olmak üzere n elemanlı bir kümenin r li kombinasyonlarının sayıs,
+(
+)! !
+!
+C n =
+=
+-
+^
+`
+ şeklinde hesaplanırHatırlatmBir turist kafilesinde 5 Alman, 3 Yunan, 2 İngiliz turist vardır. Kafileden rastgele seçilecek 
+iki turist Sultan Ahmet Camisi'ne götürülecektir. Ziyarete götürülecek iki turistin aynı ülke 
+vatandaşı olduğu bilindiğine göre iki turistin de Alman vatandaşı olma olasılığını bulunuzÇözüTurist kafilesinden 2 Alman, 2 Yunan veya 2 İngiliz seçilecektir. Bu kümenin eleman sayısı 
+kombinasyon yardımı ile bulunur. İki turist, aynı ülke vatandaşı olacaktır ve 5 Alman, 3 Yuna ya da 2 İngiliz vatandaşı arasından seçilecektir. 
+Seçilecek iki turistin aynı ülke vatandaşı olma olayı A olsun. Bu durumda 
+( )
+s =
++
++
+=
++
++
+=
+ olurAlman vatandaşı olma olayı B olsun. Bu durumdseçilen iki turistin Alman vatandaşı ve aynı ülke vatandaşı olma olayı A∩B olmak üzers(A∩B) = =
+ olur. Buradan 
+P(B|A) =
+( )
+(
+)
+S S +
+=
+=
+ olur7. Örnek 
+Bir okuldaki velilerin bir kısmı öğrencilerin okula serbest kıyafetle, diğer bir kısmı üniforma 
+ile gitmesi gerektiği fikrini savunmaktadır. Anket yöntemi ile 220 velinin bu konudaki fikirler tespit edilmiştir. Sonuçlar aşağıdaki gibidirSerbest kıyafeti 
+tercih edeÜniformayı 
+tercih edeKararsıToplaKadın velErkek velToplam vel 
+220 veli içerisinden rastgele seçilen birinia) Kadın olduğu bilindiğine göre serbest kıyafeti tercih etmiş olma olasılığını,
+b) Üniformayı tercih ettiğine göre erkek olma olasılığını bulunuzÇözüa) Seçilen kadın velinin serbest kıyafeti tercih etmiş olma olasılığP(serbest | kadın veli) = serbest kıyafeti tercih eden kadın veli sayıskadın veli sayıs 
+=
+ olurb) Üniformayı tercih eden velinin erkek olma olasılığP(erkek veli | üniforma) = üniformayı tercih eden erkek veli sayısüniforma tercih eden veli sayıs 
+=
+=
+ olur6. Örnek 
+Şehnaz, Yaşlılar Haftası nedeni ile bir huzurevinde yapılacak programda sınıfından 11 kız ve 
+18 erkek arkadaşı ile görevlidir. Programın sunuculuğunu yapacak öğrenciyi belirlemek için 
+sınıftaki kızların isimleri kırmızı zarfa, erkeklerin isimleri mavi zarfa konularak torbaya atılıyor. 
+Torbadan rastgele çekilen zarfın kırmızı olduğu bilindiğine göre programın sunuculuğunu 
+yapacak öğrencinin Şehnaz olma olasılığını bulunuz. 
+Sıra SizdBir zar ile bir madenî paranın birlikte atılma deneyinde zarın üst yüzeyine çift sayı gelmesi olayı 
+paranın tura gelmesi olayını etkiler mi? 
+E örnek uzayında A ve B olayları için P(A) > 0, P(B) > 0 olmak üzere B olayının gerçekleşme olasılığı 
+A olayının gerçekleşmesini etkilemiyorsa A olayı B olayından bağımsızdır denir. 
+A ve B olayları bağımsız ise P(A|B) = P(A) olur. P(A|B) = 
+( )
+(
+)
+P P +
+ olduğundaP(A) = 
+( )
+(
+)
+P P +
+ olurA ile B bağımsız olaylar ise P(A∩B) = P(A).P(B)  olurA olayının gerçekleşmesi B olayının gerçekleşmesini etkiliyorsa A ve B olaylarına bağımlı olaylar 
+denir. 
+Buna göre A ile B bağımlı olaylar ise P(A∩B) = P(A).P(B|A)  olur7.1.2. Bağımlı ve Bağımsız OlaylaBir firma, iş yerinde bulunan 2 makinede CD üretimi yapmaktadır. CD ler bir kutuda 120 
+tane olacak şekilde paketlenmektedir. Üretilen CD lerden bazıları bozuk çıkmaktadır. Bir 
+kutuda yer alan CD lerin durumunu gösteren tablo aşağıda verilmiştirSağlam CBozuk CToplam C1. Makin2. MakinToplaKutudan rastgele bir CD alındığında CD nin 1. makineden olması olayı M1, sağlam olması 
+olayı S olsun. Buna göre M1 olayı ile S olayının birbirinden bağımsız olduğunu gösterinizÇözüSeçilen CD nin 1. makineden olması ile sağlam olması olayları birbirinden bağımsız ise 
+P(S|M1) = P(S) olmalıdır. 
+P(S|M1) =
+(
+)
+(
+)
+s s +
+ olur. 
+1. makineden çıkan sağlam CD lerin sayısı s(S∩M1) = 42 v1. makineden çıkan toplam CD lerin sayısı s(M1) = 48 olduğundaP(S|M1) = =
+ olurP(S) = ( )
+( )
+s s =
+=
+ olurP(S|M1) = P(S) olduğundan M1 ile S olayları bağımsızdır8. Örnek 
+V e r i ,  S a y m a  v e  O l a s ı l ı İki torbadan birincisinde 3 mavi, 4 beyaz; ikincisinde 5 mavi, 2 beyaz özdeş bilye vardır. 
+Birinci torbadan rastgele bir bilye çekilip ikinci torbaya atılıyor. Ardından ikinci torbadan 
+rastgele çekilecek bilyenin beyaz olma olasılığını bulunuzÇözüBirinci torbadan beyaz bilye çekme olayı B1, mavi bilye 
+çekme olayı M1 olsunİkinci torbadan beyaz bilye çekme olayı B2 olsunİkinci torbadan çekilecek bilyenin beyaz olma olasılığı birinc torbadan çekilip ikinci torbaya atılan bilyenin rengin bağlıdır. 
+Bu durumda M1 ile B2 ve B1 ile B2 bağımlı olaylardır. Birinci 
+ve ikinci torbadan beyaz bilye çekme olayı B1∩B2, 1. torbada  mavi bilye ve 2. torbadan beyaz bilye çekme olayı 
+M1∩B2 olurO hâlde ikinci torbadan çekilecek bilyenin beyaz olma olasılığP(B2) = P(B1∩B2) + P(M1∩B2) = 
++
+=
++
+=
+=
+ olur9. Örnek 
+1. torb2. torb1. torbada 5 sarı, 4 beyaz bilye; 2. torbada 4 sarı, 3 beyaz bilye vardır. Rastgele seçilen 
+torbanın birinden rastgele bir bilye çekildiğinde bilyenin beyaz olduğu bilindiğine göre bu 
+bilyenin 1. torbadan çekilmiş olma olasılığını bulunuzÇözüm 
+Seçilen torbanın 1. torba olması olayı T1,
+seçilen torbanın 2. torba olması olayı T2,
+çekilen bilyenin beyaz olma olayı B,
+1. torba seçildiğinde bilyenin beyaz gelme olasılığı P(B|T1),
+2. torba seçildiğinde bilyenin beyaz gelme olasılığı P(B|T2),
+çekilen bilyenin beyaz ve 1. torbadan olma olasılığı P(T1∩B),
+çekilen bilyenin beyaz ve 2. torbadan olma olasılığı P(T2∩B) olsun1. torba seçildiğinde beyaz gelme olasılığı veya 2. torba seçildiğinde beyaz gelme olasılığP(B) = P(T1∩B) + P(T2∩B)
+P(B) = P(T1).P(B|T1) + P(T2).P(B|T2) 
+        = 
+( )
+( )
++
+=
++
+=
++
+=
+olur. Buradabilyenin beyaz olduğu bilindiğine göre 1. torbadan çekilmiş olma olasılığı 
+P(T1|B) = 
+( )
+(
+)
+P P 1 +
+=
+=
+=
+ olur10. Örnek 
+İki torbadan her birinde özdeş 4 mavi, 5 yeşil bilye 
+bulunmaktadır. Birinci torbadan bir bilye alınıp ikinci 
+torbaya atılıyor. Ardından ikinci torbadan bir bilye alınıp 
+birinci torbaya atılıyor. Renk bakımından ilk durumun 
+elde edilme olasılığını bulunuzÇözüM: Mavi 
+ Y: YeşiRenk bakımından ilk durumun elde edilebilmesi için birinci torbadan alınıp ikinci torbaya 
+atılan bilyenin rengi ile ikinci torbadan alınıp birinci torbaya atılan bilyenin rengi aynı 
+olmalıdır. 
+Birinci durum  
+ 
+     
+ 
+ 
+           İkinci duru1. torb2. torb1. torb2. torb5  
++
+P(A) = 
++
+=
++
+=
+=
+ olur12. Örnek 
+İçerisinde özdeş 5 sarı ve 7 mavi top bulunan bir torbadan, 
+çekilen top geri konulmak üzere art arda iki top çekiliyor. Buna 
+göra) Çekilen topların ikisinin de sarı olma olasılığını bulunuzb) Çekilen topların birinin sarı, diğerinin mavi olma olasılığını 
+bulunuzÇözüÇekilen toplar geri konulacağı için birinci topun çekilme olasılığı ikinci topun çekilme 
+olasılığını etkilemez. 
+a) Çekilen topların ikisinin de sarı olma olasılığı P(S) = $
+= 25  olurb) Topların birinin sarı diğerinin mavi olması;
+birincinin mavi, ikincinin sarı ya da 
+birincinin sarı, ikincinin mavi olması demektir. 
+P(M∩S) + P(S∩M) = 
++
+=
+=
+ olur11. Örnek 
+V e r i ,  S a y m a  v e  O l a s ı l ı Bir torbada özdeş 4 kırmızı, 3 mavi, 2 yeşil bilye bulunmaktadır. Her biri çekildikten sonra geri 
+konulmak şartıyla 2 bilye çekiliyor. Çekilen iki bilyenin de yeşil olma olasılığını bulunuz. 
+Sıra Sizdİçerisinde özdeş 4 mavi, 4 sarı ve 6 kırmızı top bulunan bir torbadan, geri konulmamak 
+şartıyla art arda 3 top çekiliyor. 
+a) Çekilen 3 topun birbirinden farklı renkte olma olasılığını bulunuzb) Çekilen 3 toptan en çok 2 tanesinin sarı olma olasılığını bulunuzÇözü1. YoÇekilen top geri konulmadığından topların sayısında azalma olur. Örneğin kırmızı top 
+çekilmişse kırmızıların ve tümünün sayısında azalma gerçekleşira) M mavi, S sarı, K kırmızı olmak üzere toplar M, S, K harflerinin farklı sıralama sayıları 
+(permutasyon) kadar farklı şekilde çekilebilir. 
+Bu harfler 3! = 6 farklı şekilde sıralanır6 elemandan (MSK, MKS, KMS, KSM, SMK, SKM) her birinin olasılığı aynıdırP(M∩S∩K) = 
+=
+,
+P(K∩M∩S) = 
+=
+ olur. BuradaÇekilen 3 topun birbirinden farklı renkte olma olasılığı .6 =
+ olurb) Tüm olayların olma olasılığı içinden her üçünün sarı olma olasılığı çıkarıldığında en çok 
+ikisinin sarı olduğu olasılık bulunurÖrnek uzay olasılığı P(E) = 1, her üçünün sarı olma olasılığı P(S) = 
+=
+Çekilen 3 toptan en çok ikisinin sarı olma olasılığı -
+=
+ olur2. Yoa) 3 topun birbirinden farklı olma durumu 
+. 4 4 =
+=
+Örnek uzay eleman sayısı 
+. olu3 2 14 13 14 13 =
+=
+3 topun da farklı renkte olma olasılığı 
+14 13 =
+ olurb) En çok ikisinin sarı olma olayının eleman sayısı 
+ 
+olu1 4 6 +
++
+=
++
++
+=
+3 toptan en çok ikisinin sarı olma olasılığı 

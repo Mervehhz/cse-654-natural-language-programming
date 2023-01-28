@@ -1,0 +1,400 @@
+Var olan yaklaşık 120 elementin doğada saf hâlde bulunduğunu ve diğer 
+elementlerle etkileşmediğini varsaysak bildiğimiz dünya, canlılar ve yaşam olur 
+muydu? Veya alfabemizde yer alan 29 harf ile heceleri, kelimeleri ve cümleleri 
+oluşturmadan konuşmak nasıl olurdu? Harflerin farklı şekillerde bir araya 
+gelmesiyle kelime ve cümlelerin oluşması gibi, elementlerin farklı şekillerde 
+bir araya gelmesi de madde çeşitliliğinin artmasına yol açmıştırMaddeleri yakından incelediğimizde çok azının doğada element 
+olarak bulunduğu (örneğin altın elementi), birçoğunun elementlerin farklı 
+şekillerde bir araya gelmesiyle oluştuğu görülmektedir. Örneğin:
+• Hidrojen gazı (H2), tek tür elementten (yalnız hidrojen) oluşan  bir yapı,
+• Sofra şekeri (C6H12O6) üç farklı elementten (karbon, hidrojen voksijen) oluşan bir yapı,
+• Yemek tuzu sayılamayacak kadar çok sayıda sodyum (  Na+) ve klo(Cl-) iyonlarından oluşan bir yapıdırToprağın ve canlı organizmaların oluşumunda da farklı bileşimlerde birçok 
+element rol almaktadır. Örneğin, hidrojen, karbon, oksijen, azot, kükürt ve 
+fosfor elementleri bilinen birçok canlının yapısında bulunur. 
+Bu kadar az sayıda element çeşidi ile sayılamayacak kadar çok canlı türünün 
+ve cansız varlıkların oluşmasının nedeni kimyasal türlerdir. Saf maddelerin 
+özelliklerini taşıyan en küçük temel yapı birimlerine kimyasal tür denir. Genel 
+olarak kimyasal türler;
+• Atomla• Molekülle• İyonlardırATOM 
+Atomlar, önceki kimya konularında da belirtildiği gibi temel olarak 
+elektron, proton ve nötron parçacıklarından oluşan, elementlerin bütün 
+özelliklerini taşıyan en küçük birimlerdir. Nötr yapıya sahiptirler. Atomlar 
+fiziksel veya kimyasal yöntemlerle parçalanamaz ancak nükleer tepkimelerle 
+parçalanabilirlerElementlerin bir kısmı doğada atomik hâlde bulunur. Metaller (altın, 
+demir, sodyum, kalsiyum) ve soy gazlar (helyum, neon, argon) atomik hâlde 
+bulunan elementlerdir. Örneğin, demir elementi demir atomlarından, 
+helyum elementi helyum atomlarından oluşmaktadır1.Ünite Kimyasal Türler Arası EtkileşimleMOLEKÜİki ya da daha çok sayıda atomdan oluşan ve bağımsız birimler olarak 
+bulunan kararlı yapılara molekül denir. Atomlarda olduğu gibi moleküller de 
+nötr yapıdadır. 
+Bir önceki konuda bazı elementlerin atomik yapıda olduğundan 
+bahsedilmişti. Atomik yapıda olmayan elementler de moleküler yapıya sahiptir. 
+Moleküllerden oluşan elementlerde moleküldeki atomlar aynı türdedir. Ametal 
+elementleri moleküler hâlde bulunur. 
+Bir ametal atomu aynı tür ametal atomlarıyla etkileştiğinde ikili, üçlü, 
+dörtlü gibi farklı sayılarda birliktelikler oluştururlar. Ancak moleküler yapıdaki 
+elementler daha çok ikili atomlar şeklinde bulunurlar. Örneğin, iki hidrojen 
+atomu bir araya gelerek bir hidrojen molekülünü (H2), yine iki oksijen atomu 
+bir araya gelerek bir oksijen molekülünü (O2) oluşturur. Azot (N2), brom (Br2), 
+flor (F2), klor (Cl2) diğer iki atomlu moleküllerdir. 
+Görsel 1.1 Demir elementi ve tanecik modeli 
+FGörsel 1.2  Oksijen ve azot elementini oluşturan molekülleOksijen moleküllerAzot moleküllerKimya Görsel 1.3 Ozon ve fosfor moleküllerOzon (O3)
+Fosfor (P4)
+Bazı elementlerin moleküllerden oluşması gibi bazı bileşikler de 
+moleküllerden oluşmaktadır. Moleküler yapıdaki bileşiklerde moleküller en 
+az iki farklı tür atom içerir. Örneğin, iki hidrojen ve bir oksijen atomunun bir 
+araya gelmesi ile su molekülü (H2O),  iki oksijen ve bir karbon atomunun bir 
+araya gelmesiyle karbon dioksit molekülü (CO2) oluşmaktadır. Saf su sadece 
+H2O moleküllerinden, karbon dioksit gazı ise sadece CO2 moleküllerinden 
+oluşurİYOYukarıdaki örneklerde belirtildiği gibi bazı bileşik türleri moleküllerden 
+oluşurken, bazıları da iyonlardan oluşmaktadır. Örneğin, sofra tuzu (NaCl ) 
+sodyum ve klor iyonlarından oluşan bir bileşiktirGörsel 1.4   Bileşik moleküllerSu (H2O)
+Karbon dioksit (CO2)
+Karbon monoksit (CO)
+İkiden fazla sayıda atom içeren moleküllere örnek olarak ozon, kükürt ve 
+fosfor verilebilir. Örneğin, ozon molekülü (O3) üç, kükürt molekülü (S8) sekiz 
+ve fosfor  molekülü (P4) dört atomdan oluşmaktadır (Görsel 1.3 ). 
+1.Ünite Kimyasal Türler Arası EtkileşimleGörsel 1.5 Sofra tuzu ve tanecik modelNa+
+Cl -
+Atomlar diğer atomlarla etkileştiklerinde elektron kazanırlarsa veya 
+kaybederlerse net bir elektrik yüküne sahip olur ve iyon adını alır. Atomun 
+kaybettiği veya kazandığı elektron sayısına iyon yükü denir. İyon yükü element 
+atomunun sembolünün sağ üst köşesine yazılır. Örneğin sodyum atomunun 
+1 elektron kaybetmesi sonucu oluşan sodyum iyonu ve oksijen atomunun 2 
+elektron kazanması sonucu oluşan oksijen iyonu sembolik olarak aşağıdaki 
+gibi gösterilir: 
+Na 1+ 
+O 2- 
+Na atomu 1 elektron kaybetmiştir. 
+O atomu 2 elektron kazanmıştırNa +, Li +, Ca 2+, NH +   gibi pozitif yüklü iyonlara katyon, O 2- , CO2-, N 3- 
+gibi negatif yüklü iyonlara anyon denir.  
+Bir atomdan oluşan; Li +, Na +, Be 2+, H +, F -, O 2-, Fe 2+  gibi iyonlar tek 
+atomlu iyonlardır. Birden fazla atomun birleşmesiyle çok atomlu iyonlar 
+oluşur. NH+, H3O+, SO2-, OH-  gibi iyonlar çok atomlu iyonlardır. Çok 
+atomlu iyonlara kök adı da verilirAtomlar elektron kaybederek veya kazanarak iyona dönüştüklerinde 
+proton ve nötron sayıları değişmez bu nedenle atom numarası ve kütle 
+numarası da (elektron kütlesi ihmal edildiği için) değişmez.  
+Bilgi NotKimya 1.2. KİMYASAL TÜRLER ARASI ETKİLEŞİMLERİN 
+             SINIFLANDIRILMASDünyadaki mevcut problemlerin çoğu temelde kimyasal cevaplar gerektirir: 
+Hastalıklar, çevre kirliliği, yeni enerji kaynakları arayışları, uzay çalışmaları, 
+ürün verimini artırmak için yeni gübrelerin ve çeşitli tahılların içeriğinin 
+geliştirilmesi, doğal ürünlerin gen yapısının çıkarılması ve çok daha fazlası. 
+Bunun için maddelerin nasıl oluştuğunu, maddelerin özelliklerini, kimyasal 
+etkileşimlerin doğasını ve bunları kontrol eden faktörleri anlamalıyız. Bu 
+bölümde maddenin özelliklerinin nedeni olan ve farklı etkileşimler sonucu 
+oluşan kimyasal bağ türleri tanıtılacaktır. 
+Kimyasal türlerin birbirleriyle etkileşmeleri sonucu milyonlarca farklı 
+maddeler oluşmakta veya maddeler farklı fiziksel hâllerde bulunmaktadır. 
+Örneğin hidrojen ve oksijen moleküllerinin etkileşmesi sonucu su 
+molekülü, su moleküllerinin etkileşmesi sonucu ise su damlası veya su 
+buharı olıuşmaktadır. Peki kimyasal türler arası etkileşim nasıl gerçekleşir?
+İki atom birbirine yaklaştığında;
+• İki atomun elektronları arasında ve iki atomun protonları arasında itmkuvveti,
+• Bir atomun protonları ile diğer atomun elektronları arasında çekmkuvveti oluşurAtomlarda olduğu gibi diğer kimyasal türler arasında da itme ve çekme 
+kuvvetleri oluşur. Kimyasal türlerin yapısında bulunan yüklü parçacıkların 
+aralarında meydana gelen itme ve çekme kuvvetlerinin gücüne göre 
+etkileşimler meydana gelir. Kimyasal türler arası etkileşimler aşağıdaki gibi 
+sınıflandırılabilir:
+
+Bağlanan türler arası sınıflandırma;
+• Atomlar arası etkileşimle• Moleküller arası etkileşimleÇekmElektroÇekirdeİtme-
+Görsel 1.6 Atomlar arası çekme ve itme kuvvetlere-
+e-
+e-
+Çekmİtm1.Ünite Kimyasal Türler Arası Etkileşimle Bağın gücüne göre sınıflandırma;
+•  Güçlü   etkileşimle•  Zayıf   etkileşimleBAĞLANAN TÜRLER ARASI SINIFLANDIRMa) Atomlar arası etkileşimleAynı veya farklı tür atomlar arasında gerçekleşen etkileşimdir. ÖrneğiNaCl bileşiğinde "Na" ve "Cl" atomları arasında, hidrojen molekülünde "H" 
+atomları arasında bu etkileşim bulunur (Görsel 1.7). Verilen örneklerde 
+atomlar arasında gerçekleşen etkileşim güçlü bir etkileşimdir. 
+Metal atomları arasında gerçekleşen metalik bağ da atomlar arası 
+etkileşimdir. Örneğin bakır metalini oluşturan bakır atomları metalik bağdan 
+dolayı bir arada durur. Metalik bağ da çok güçlü bir etkileşim türüdürGörsel 1.8 Moleküller arası    
+    etkileşiMoleküller arası 
+etkileşiHidrojen moleküllerH Atomlar arası etkileşiHidrojen molekülü (H2)
+b) Moleküller arası etkileşimleMoleküller arası etkileşimler ise molekülleri bir arada tutan kuvvetlerdir. 
+Örneğin su bileşiğinde su moleküllerini bir arada tutan kuvvet moleküller 
+arası etkileşimdir. Benzer şekilde hidrojen molekülleri arasında moleküller 
+arası etkileşim bulunur (Görsel 1.8). Moleküller arasındaki etkileşimlerde yeni 
+bir madde oluşmaz, bu etkileşim maddenin fiziksel hâlini belirler. 
+   Moleküller arasındaki etkileşime bir diğer örnek de soy gaz atomları 
+arasında gerçekleşen etkileşimdir. Örneğin neon gazında "Ne" atomları 
+arasında bu etkileşim bulunur. Soy gaz atomlarının etkileşimleri sırasında 
+elektron alışverişi veya ortaklaşması gerçekleşmez. Soy gaz atomları arasındaki 
+etkileşim çok zayıftır. 
+Görsel 1.7 Atomlar arası etkileşim  
+Kimya Kimyasal türler arasındaki etkileşim   leri atomlar arası ve molekülle     
+arası şeklinde sınıflandırmak bazı güçlüklere yol açmaktadır. Örneğin:
+• Atomlar arasındaki etkileşimlerde, bazılarında yeni maddeleoluşurken bazılarında yeni madde oluşmaz• Atomlar arası etkileşimlerde bazı türler atom değil iyondur• Soy gazlar atomik yapıda olmasına rağmen etkileşim türü moleküllearası etkileşim kabul edilirBu ve benzeri sebeplerden dolayı etkileşim türlerinde farklı bir 
+sınıflandırmaya ihtiyaç duyulmuşturBAĞIN GÜCÜNE GÖRE SINIFLANDIRMKimyasal türler arasındaki etkileşimler bağın gücüne göre güçlü ve zayıf 
+etkileşimler olarak iki sınıfa ayrılmaktadır. Kimyasal türlerin yapısında 
+bulunan yüklü parçacıklar arasında gerçekleşen çekme ve itme kuvvetleri 
+karşılaştırıldığında, çekme kuvvetleri çok büyükse güçlü etkileşimler 
+meydana gelir. Metalik bağ, iyonik bağ ve kovalent bağ güçlü etkileşimlere 
+örnektir. Çekme kuvvetleri itme kuvvetlerinden biraz fazlaysa kimyasal türler 
+arasındaki etkileşim zayıf etkileşimdir. Van der Waals kuvvetleri ve 
+hidrojen bağları zayıf etkileşimlere örnektir. 
+Güçlü etkileşimlerde elektronlar rol oynar yani elektronlar alınıp verilir 
+veya ortaklaşa kullanılır. Zayıf etkileşimlerde ise elektron alışverişi veya 
+ortaklaşması yoktur sadece tanecikler arasındaki elektrostatik çekim kuvveti 
+söz konusudurBağın Gücüne Göre EtkileşimleGüçlü Etkileşimleİyonik BaKovalent BaMetalik BaZayıf EtkileşimleVan der Waals kuvvetleri 
+Hidrojen Bağ1.Ünite Kimyasal Türler Arası Etkileşimle1.3. GÜÇLÜ ETKİLEŞİMLEElementlerin birçok fiziksel ve kimyasal özelliği, element atomunun en dış 
+katmanında yer alan elektronların sayısı ile yakından ilişkilidir. Örneğin en dış 
+elektron katmanlarında mümkün olan en fazla sayıda elektronu bulunan soy gazlar, 
+diğer atomlarla etkileşime girmeye yatkın değildirler. Soy gaz dışındaki atomların ise 
+son katmanlarındaki elektron kapasitesi tam dolu olmadığından diğer atomlarla 
+etkileştiklerinde elektronlarını ya ortaklaşa kullanırlar ya da elektron alışverişi 
+yaparlar. En dış katmanda yer alan ve etkileşimlere katılan bu elektronlara değerlik 
+elektronu denir. Bu şekilde, değerlik elektronları kullanımı ile iki veya daha fazla 
+sayıda atomu, iyonu bir arada tutan etkileşimler güçlü etkileşimlerdir. 
+Bir önceki paragrafta da bahsedildiği gibi kimyasal bağ oluşumunda değerlik 
+elektronları rol oynar. Bağ oluşumunu somut bir şekilde ifade etmek için birçok 
+model geliştirilmiştir. Bu modellerden birisi de değerlik elektronlarının noktalarla 
+gösterildiği Lewis sembolüdür. 
+LEWİS SEMBOLLewis sembolü,  atomun son katmanında bulunan elektronların, atomun 
+sembolünün etrafında noktalarla gösterilmesidir. Böylece atomun son katmanında kaç 
+elektron bulunduğu, diğer atomlarla kimyasal tepkimeye girme isteği, diğer atomlarla 
+etkileşirse kaç elektron alacağı, vereceği veya ortaklaşa kullanacağı vb. durumlar daha 
+somut olmaktadırLewis sembolünde;
+•
+Atom sembolünün etrafına, her bir değerlik elektronuna karşılık bir noktkonulur. Örneğin, değerlik elektron sayısı 1 olan lityum (3Li) atomunun Lewigösterimi aşağıdaki gibidir:
+Bohr ModelDeğerlik elektronu gösterimLi: 2, 1  
+3p+
+3nLi: 2, 1  
+3p+
+3nLGörsel 1.9 Lityum atomunun Lewis gösterimLewis sembolKimya • Elektronlar sembolün 4 köşesine, herhangi bir yerinden başlanara  
+yerleştirilirPeriyodik sistemdeki ilk 20 element atomunun Lewis sembolü 
+Tablo 1.1’ de yer almaktadır:
+LNBMCASCNHA18234567Tablo 1.1  Periyodik sistemdeki ilk 20 element atomunun Lewis sembolleri  
+1A grubu elementlerinin hepsinin değerlik elektronları sayısı 1 olduğundan, 
+bu gruptaki elementlerin Lewis elektron nokta gösterimleri aynıdırBilgi NotİYONLARIN LEWIS SEMBOLÜ VE İYONIK BAĞIN OLUŞUMİyonların Lewis sembolleri de atomların Lewis sembolleri gibi, sahip 
+oldukları değerlik elektronları sayısı kadar nokta ile gösterilir. Bu gösterimde 
+iyon yükü de mutlaka yazılır. Örneğin Ca2+ ve Cl- iyonlarının oluşumu ve bu 
+iyonların oluşturduğu kalsiyum klorür (CaCl2) bileşiğinin Lewis formülü 
+yandaki gibidir:
+• Elektron sayısının 4’ten fazla olduğu d    ru    larda  ise noktalar sıraylçiftler hâlinde yazılmaya başlanır BA1.Ünite Kimyasal Türler Arası EtkileşimleKlor atomu 
+Lewis sembolKalsiyum 
+atomu Lewis 
+sembolKalsiyum klorür bileşiği Lewis formülKlor atomu 
+Lewis sembolCCC+
++
++
++
+C2+
+CCC-
+C2+
++ [       ]
+-
+-
+-
+Her kalsiyum atomu değerlik elektronlarını iki klor atomuna aktardığında 
+pozitif yüklü kalsiyum iyonlarıyla, negatif yüklü klor iyonları oluşur. Oluşan 
+zıt yüklü iyonlar birbirlerine elektrostatik çekim kuvveti uygular ve kalsiyum 
+klorür kristali oluşur. Kalsiyum klorür kristalini temsil eden en küçük yapı 
+birimi, bir kalsiyum iyonu ile iki klor iyonudur. 
+Aynı şekilde, magnezyum (Mg) ile oksijen (O) elementlerinin tepkimesinde, 
+her magnezyum atomu iki elektron kaybederek tam dolu bir dış katman elde 
+eder. Bu esnada her bir oksijen atomu da 2 elektron kazanır. Artık var olan zıt 
+yüklü Mg2+ ve O2-  iyonları birbirlerini çeker. Oluşan magnezyum oksit bileşiği 
+için net yükü sıfır yapan yapı birimi MgO' tir. 
+C2+ Kimya Tablo 1.2  Bazı metal ve ametal iyonları ve iyon yükler1A 
+2A 
+3A 
+4A 
+5A 
+6A 
+7A 
+8A 
+Li+
+ N3-
+Na+
+ P3-
+Mg2+
+ O2-
+ F-
+Ca2+
+ S2-
+ Cl-
+Al3+
+Tablo 1.3   Bazı iyonların Lewis sembol1A 
+2A 
+3A 
+4A 
+5A 
+6A 
+7A 
+8A 
+NMC 
+A3-
+[
+[
+[ [
+[
+[
+-
+[
+[
+C[
+[
+[
+[
+Mg ve 9F elementlerinden oluşan   (Mg      2 )  bileşiğinin Lewis  
+formülünü çiziniz1. UygulamÇözüMM2+
+-
+-
+M2+
+-
+2[       ]
+2-
+2-
+3-
+-
+3+
+2+
+2+
++
+L+
+MgO 
+Mg 
+ 
+2+
+ 
+Lewis SembolTablo 1.2' de bazı element atomlarının iyon yükleri, Tablo 1.3’ de Lewis sembolü 
+yer almaktadır[  O  ] 
+2-
++
+K+
+1.Ünite Kimyasal Türler Arası EtkileşimleTablo 1.2  Bazı metal ve ametal iyonları ve iyon yüklerTablo 1.3   Bazı iyonların Lewis formülAşağıda verilen iyonların Lewis sembolünü yazınız. 
+(  19K,   9F,   8O,   13Al  ) 
+a. K+
+b. O2-
+c. F. Al3+
+Lewis gösterimleri:
+a.     
+b.                    
+c.                   
+ç. 
+2. UygulamÇözü 
+ 
+A-
+2-
+[       ]
+[       ]
+   +
+3+
+Önceki sayfadaki tablolarda görüldüğü gibi metal atomları ile ametal atomları birbirine 
+yaklaştığında, ametal atomları metal atomlarının değerlik elektronlarının bir kısmına ya da 
+tamamına sahip olur. Yani metal atomlarından ametal atomlarına elektron aktarılır. 
+Ametal atomları elektron kazandığı, metal atomları elektron kaybettiği için zıt yüklü 
+iyonlar oluşur. Bu iyonlar kararlı olsalar da zıt yüklerinden dolayı birbirlerini çekerler ve 
+yeni bir etkileşim oluşur. Bu etkileşime iyonik bağ denir. Bu şekilde oluşan bileşiklere de 
+iyonik bileşik denir . 
+Sodyum klorür (yemek tuzu) oluşturmak üzere sodyum ve klor atomları bir araya 
+geldiğinde, her sodyum atomunun bir değerlik elektronu bir klor atomunun değerlik 
+elektron katmanına aktarılır. 
+Pratik olarak katmanlarda yer alan elektronları aşağıdaki şekilde gösterebiliriz:
+NaCl bileşiği Lewis formülü aşağıdaki gibi gösterilir:
+11N2 8 2 8 2 8 2 17C11Na+
+17Cl 
+CN-
+    a 
+[     ]
++
+-
+Kimya İyonik bileşiği temsil eden birim, molekülle karıştırılmamalıdır. 
+Moleküller bağımsız birimlerdir ama iyonik bileşiğin yapı birimleri kristalin 
+yani bir bütünün bir parçasıdırİYONİK BİLEŞİKLERİN ADLANDIRILMASİyonik bir bileşik adlandırılmak istendiğinde kristalde yer alan iyonların 
+adını belirtmek kolaydır ancak her kristali oluşturan iyonların sayısını 
+belirtmek oldukça zordur. Bu nedenle iyonik bileşiklerin adlandırılmasında 
+yapı birimleri dikkate alınır. Yapı birimlerini oluşturan elementlerin 
+sembolleri ve sayıları kullanılarak oluşturulan formüle bileşik formülü 
+denir. 
+Formül; bir bileşiğin hangi elementlerden oluştuğunu ve elementlerin 
+hangi oranlarda birleştiklerini gösterirİyonik bileşikler pozitif yüklü metal iyonları (katyonlar) ile negatif 
+yüklü ametal iyonlarından (anyonlar) oluşur. Anyon ve katyonlar tek tür 
+atomdan oluşabileceği gibi birden fazla tür atomdan da oluşabilir. 
+İyonik bileşiklerin adlandırılması da anyon ve katyonun tek tür atom içerip 
+içermemesine göre değişirOluşan iyonlar, zıt yüklü olduklarından birbirlerini elektrostatik çekim 
+kuvvetiyle çekerler ve sodyum klorür kristali oluşur. Oluşan sodyum klorür 
+kristali sayılamayacak kadar çok sayıda sodyum ve klor iyonlarından oluşur. 
+Bu kristali temsil eden en küçük yapı birimi ise bir sodyum iyonu ile bir klor 
+iyonudur. Temsil eden yapı birimi her zaman nötrdür. 
+Görsel 1.10 Sodyum klorür kristali ve tanecik modeli 
+Na+
+Cl-
+Yapı birim1.Ünite Kimyasal Türler Arası EtkileşimleTek Atomlu İyonlardan Oluşan İyonik Bileşiklerde Adlandırm• İyonik bileşik formülünde ilk sırada metal iyonu (katyon), daha sonra 
+ametal iyonu (anyon) yer alır . Bu nedenle adlandırmada önce katyon 
+adı, sonra anyon adı yazılır- Katyon, adını elementin adından alır. Örneğin sodyum iyonunu(Na+ ) adı, bulunduğu bileşikte “sodyum” dur- Anyonların adlandırılmasında ise ametalin adının  genellikle ‘’ –ür’’
+eki getirilir. Örneğin klor iyonu (Cl-), “klorür” olarak adlandırılır• İyonik bileşiklerin adlandırılmasında iyonların sayılarına yeverilmezBazı katyon ve anyon isimleri Tablo 1.4’ te verilmiştir. 
+KatyoAdAnyoAdH+
+HidrojeH-
+HidrüLi+ 
+LityuF-
+FlorüNa+
+SodyuCl-
+KlorüK+
+PotasyuBr-
+BromüAg+
+GümüO2-
+OksiBe2+
+BerilyuS2-
+SülfüMg2+
+MagnezyuN3-
+NitrüCa2+
+KalsiyuP3-
+FosfüZn2+
+ÇinkC4-
+KarbüAl3+
+AlüminyuVerilen kurallara göre bazı iyonik bileşiklerin adları şöyledir:
+Tablo 1.4 Tek 
+atomlu katyon ve 
+anyonlaTablo 1.5 Katyon 
+ve anyonlardan 
+oluşan bazı 
+bileşikleBileşiİyonlaAdKatyoAnyoNaCNa+  
+Cl-
+Sodyum klorüKK+
+F-
+Potasyum florüBeBe2+  
+O2-
+Berilyum oksiCaCa2+  
+S2-
+Kalsiyum sülfüMgMg2+ 
+O2-
+Magnezyum oksiLi3Li+    
+N3-
+Lityum nitrüKK+   
+H-
+Potasyum hidrüNa3Na+  
+P3-
+Sodyum fosfüKimya Önceki sayfada verilen adlandırma kuralları  metal yalnızca bir çeşit 
+katyon oluşturduğu durumlar için geçerlidir. Örneğin sodyum metali 
+yalnız Na+, Mg metali yalnız Mg2+ katyonunu oluşturur. Fakat birden fazla 
+sayıda katyon oluşturan birçok metal bulunmaktadır. Örneğin bakır (Cu) 
+metali Cu1+, Cu2+ olmak üzere iki farklı katyon oluşturabilir. Bu katyonların 
+aynı anyonla oluşturduğu bileşikler birbirinden farklıdır. Örneğin bakır 
+katyonu klor anyonu (Cl -) ile iki farklı bileşik oluşturur: 
+Cu1+   
+ CuCl         
+Cu2+   
+CuCl2   
+Örnekte olduğu gibi katyon yalnızca bakır olarak adlandırıldığında iki 
+farklı bileşik birbirinden ayırt edilemez. Bunun için bu tür bileşiklerin 
+adlandırılmasında katyonların yükü parantez içinde roma rakamı ile belirtilir. 
+CuCl  
+Bakır (I) klorür        
+CuCl2 
+Bakır (II) klorür 
+Demir de birden fazla sayıda katyon oluşturan metallerdendir. Örneğin 
+demir; FeCl2 bileşiğinde (2+) yüklü, FeCl3 bileşiğinde (3+) yüklüdür. Bu 
+durumda iki farklı demir bileşiğinin sistematik adları sırasıyla, demir (II) 
+klorür ve demir (III) klorür’dür.  
+Bakır ve demir metallerinde olduğu gibi metal, birden fazla iyon yüküne 
+sahip olduğunda değişken değerlikli olarak adlandırılır. Katyonu değişken 
+değerlikli olan iyonik bileşiklerin adlandırılması aşağıdaki sıraya göre olur: 
+Katyonun adı         +
+Katyonun yükü       +         Ametalin anyon adı                                                                 
+    (Metalin adı)     
+(Roma rakamı ile)
+Değişken değerlikli metallerin oluşturduğu katyonlardan bazıları Tablo 1.6’ 
+da yer almaktadırKatyoAdKatyoAdFe2+
+Demir (II)
+Fe3+
+Demir (III)

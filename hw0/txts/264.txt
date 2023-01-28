@@ -1,0 +1,400 @@
+]
+f =
+]   ve 
+=
+]   fonksiyonlarının türevini bulunuzbulunu= -
+= -
+-
+- -
+-
+:
+:
+:
+&
+1 $
+=
+=
+= -
+]
+]
+g g bulunu&
+$
+=
+=
+=-
+=-
+-
+- -
+-
+:
+:
+:
+3 $
+= -
+]
+]
+-
+-
+&
+g g $
+=
+=
+=-
+-
+:
+]
+^
+-
+bulunu$
+=-
+=-
+ÖRNEÖRNEÇÖZÜÇÖZÜÇÖZÜf =
+]   fonksiyonunun türevini bulunuzf olu=
+=
+=
+=
+-
+-
+] &
+f bulunu$
+$
+$
+=
+= -
+= -
+= -
+-
+-
+-
+-
+]
+]
+ÖRNEÇÖZÜTüref x =
+]   fonksiyonunun türevini bulunuzf x olu$
+=
+=
+=
+=
++
+-
+] &
+f $
+$
+=
+=
+-
+-
+bulunu$
+=
+=
+]
+]
+dd  ifadesi türev operatörü olmak üzerdd f dd f dd g ddg g ddbiçiminde gösterilir=
+=
+=
+=
+=
+]
+]
+]
+]
+]
+]
+f =
+]  olduğuna göre 
+ddf ] g  ifadesinin eşitini bulunuzf x olu$
+=
+=
+=
+] &
+f x bulunu$
+$
+=
+=
+=
+=
+-
+]
+]
+ÖRNEÖRNEÇÖZÜÇÖZÜÇÖZÜUyar&
+f f olu=
+=
+]
+]
+=
+&
+bulunu=
+=
+=
+l] f =
+]  fonksiyonu veriliyor. =
+l]  eşitliğini sağlayan a değerini bulunuzÖRNEMatematik f =
+]   fonksiyonunun grafiğine =
+ apsisli noktasında çizilen teğetinin eğimini bulunuzf =
+=
+=
+=
+-
+] &
+f x olu$
+$
+=
+=
+=
+=
+-
+]
+]
+&
+x bulunu5 $
+$
+=
+=
+=
+]
+]
+ÖRNEÇÖZÜf a=
+]  fonksiyonu veriliyor. -
+=-
+l]
+ olduğuna göre l] g değerini bulunuz&
+&
+f aa=
+=
+-
+=
+-
+-
+=
+olu=-
+]
+]
+]
+]
+&
+f =-
+=-
+&
+&
+bulunu=-
+=-
+]
+]
+]
+f ag =
+=
+-
+=
+:
+:
+: ]
+]
+]
+]
+olduğuna göre a $
+ çarpımını bulunuz& =-
+&
+f aa=
+=
+-
+]
+]
+]
+&
+g g =
+=
+& =
+]
+]
+]
+&
+&
+&
+a a bulunu$
+$
+-
+=
+-
+=
+-
+=
+=-
+]
+]
+ÖRNEÖRNEÇÖZÜÇÖZÜlif af =
+-
+-
+=
+"
+:
+:
+]
+]
+]
+olduğuna göre a değerini bulunuz&
+&
+lif oluf aaolu-
+-
+=
+=
+=
+=
+"
+]
+]
+]
+]
+]
+&
+abulunu$
+=
+=
+=
+=
+]
+]
+ÖRNEÇÖZÜf fonksiyonunun grafiğine =
+ apsisli noktasında çizilen teğetinin eğimi l] g olur. Buna görTüre:
+ tek doğal sayıdırolduğuna göre n nin a türünden eşitini bulunuz-
+=-
++
+-
++
+$
+=-
+=
++
+=
+-
+n tek is=
+&
+-
+&
+&
+&
+lif a a n g g g olua a a a a a $
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+=-
+=-
+=
++
+=
++
+-
+=
+-
+-
+-
+=
+-
+=
+-
+-
++
+-
+-
+-
++
+-
+-
+-
++
+-
++
+-
+"
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+=
+bulunu=
+]
+]
+]
+]
+]
+]
+]
+]
+]
+]
+]
+]
+]
+]
+]
+]
+]
+]
+]
+]
+]
+]
+444444444444 lif a g g =-
+=
++
+=
+-
+-
+-
+"
+-
+:
+:
+: ]
+]
+]
+]
+]
+]
+ÖRNEÇÖZÜBir f ] g fonksiyonunun türevi olan 
+ddf ] g  için 
+ 
+  
+                                                    
+ifadesine f ] g fonksiyonunun ikinci mertebeden türevi denir ve  ll] g ile gösterilirdddf dd f =
+]
+]
+g &
+f =-
+=-
+]
+]
+&
+bulunu30 $
+$
+=-
+=-
+=-
+30 $
+=-
+ll]
+]
+f =-
+]  fonksiyonu veriliyor. Buna göre ll^ h değerini bulunuz&
+&
+olu6 $
+$
+=-
+=-
+ll]
+]
+ÖRNEÇÖZÜMatematik 1652 yılında Fransa’da doğan ve bir ilkokul öğretmeni 

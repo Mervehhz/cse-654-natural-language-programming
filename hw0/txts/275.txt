@@ -1,0 +1,400 @@
+-
+ÖRNEÇÖZÜTüre-
+-
+f =
+]
+i fonksiyonunun grafiğini çizinizÖncelikle fonksiyonun eksenleri kestiği noktalar araştırılır&
+=
+=
+] &
+&
+&
+-
+-
+-
+f veya veya olu=
+=
+-
+=-
+=
+=-
+=
+=
+=
+]
+]
+]
+(y eksenini 
+,
+0 ^
+h noktasında keser.)
+(x eksenini 
+,
+,
+,
+,
+,
+2 1 1 -
+-
+^
+^
+^
+h 
+ve 
+,
+2 ^
+h noktalarında keser.)
+f fonksiyonunun artan ve azalan olduğu aralıklar ile ekstremum noktaları incelenirse 
+&
+&
+&
+&
+-
+-
+-
+f f veyolu&
+$
+$
+=
+=
+-
++
+=
+-
+=
+=
+=
+-
+=
+=
+=-
+=
+x olu&
+=
+-
+]
+]
+]
+]
+-
+f ] g fonksiyonunun türevinin işaret tablosuna gör,
+,
+f fonksiyonv10 -
+:
+3 ;
+;
+  nda artandır,
+,
+f fonksiyonv3 -
+:
+-
+;
+E nda azalandırf fonksiyonunun =
+: ]  da bir maksimumu vardır ve maksimum değeri f =
+]  olurf fonksiyonunun ve =-
+=
+: ]  de minimumları vardır ve minimum değerleri      
+   ve -
+=-
+=-
+ olurBu bilgilere göre 
+-
+-
+f $
+=
+]
+i 
+fonksiyonunun grafiği yandaki gibi çizilir-
+-
+-
+ÖRNEÇÖZÜMatematik a) f =
+-
+] b) 
++
++
+g =
+-
+]
+]
+c) 
+-
+-
+h =
+]
+Türev yardımıyla daha önce grafikleri çizilen aşağıdaki fonksiyonların grafiklerini, Dinamik Geometr ve Matematik Yazılımı programından yararlanarak çizinizDinamik Geometri ve Matematik Yazılımı programını açınızGiriş kısmına tek tek -
+, 
++
++
+-
+]
+_i ve 
+-
+-
+_i fonksiyonları yazılarak 
+enter tuşuna basıldığında grafikler çizilirÖRNEÇÖZÜTüreYanda f ab=
+-
++
+]  fonksiyonunun 
+grafiği verilmiştir. Buna göre  
+a) k ve m değerlerini bulunuz. 
+b) f fonksiyonunun grafiğinin x eksenini kestiği   
+    noktaların koordinatlarını bulunuzf  fonksiyonunun grafiği incelendiğinde =-  noktasında fonksiyonun yerel minimumu ve 
+=
+ noktasında fonksiyonun yerel maksimumu olduğunda 
+ve olu-
+=
+=
+]
+]
+&
+&
+&
+f ababoluolu=
+-
++
+=
+-
++
+-
+=
++
++
+=
+=
+-
++
+=
+&
+& +
+=-
+-
+=-
+]
+]
+]
+]
+]
+]
+(1) ve (2) denklemleri ortak çözülürs+
+-
+=-
+&
+olu+
+=-
+=-
+=-
+&
+olu$
+=-
+-
++
+=-
+-
++
+=-
+=
+]
+&
+ve f x olu=-
+=
+=-
++
+] bulunu=
+=
+] bulunu=
+-
+=-
+]
+a)
+b)
+&
+f =
+-
++
+=
+] (
+)
+uo&
+&
+-
+=
+=
+=-
+=
+Bu durumda f fonksiyonunun x eksenini kestiği noktaların koordinatları 
+,
+3 -
+^
+h, 
+,
+0 ^
+h ve  
+,
+3 ^
+h olarak elde edilirÖRNEÇÖZÜMatematik HATIRLATMf a=
+-
++
+]  eğrisine =-  apsisli noktasında çizilen teğeti -
++
+=
+ doğrusuna 
+paralel olduğuna göre a değerini bulunuz 
+f a=
+-
+-
+]  eğrisine =
+ apsisli noktasında çizilen teğeti, x ekseni ile pozitif yönde 135c 
+açı yaptığına göre teğet doğrusunun denklemini bulunuzf fonksiyonuna =
+ apsisli noktasında çizilen teğetin eğimi 
+tam ise olut =
+=
+l]  
+&
+&
+&
+f aa olu=
+-
++
+=
+-
++
+-
+=
+-
+-
+-
++
+-
+=
++
+]
+]
+]
+]
+]
+]
+&
+bulunu=-
+&
+-
+=
++
+=
+l]
+m=
++
+*
+  biçiminde verilen bir doğrunun eğimi m dirab+
++
+=
+*
+  biçiminde verilen bir doğrunun eğimi =-
+ olurGrafig*
+{  verilen bir doğrunun eğimi, bu doğrunun x ekseni ile pozitif yönde yaptığı  
+     açı a  olmak üzere 
+ta=
+ olur,
+,
+A ve B *
+^
+^
+h noktalarından geçen doğrunun eğimi =
+-
+-
+ olurve *
+ doğrularının eğimleri sırasıyla ve 2   olmak üzere                          
+                         
++
++
+volu$
+=
+'
+=
+=-
+,
+A *
+i  noktasından geçen ve eğimi m olan doğrunun denklemi 
+                         -
+=
+-
+i  olur-
++
+=
+ doğrusunun eğimi 2 dir. f fonksiyonuna =-  apsisli noktasında çizilen teğeti bu 
+doğruya paralel olduğundan fonksiyonun bu noktadaki teğetinin eğimi de 2 olur. 
+Bu durumda 
+olu-
+=
+l]
+O hâlde teğet doğrusu 
+,
+-
+^
+h noktasından geçmektedir,
+i  noktasından geçen ve eğimi m olan doğrunun denklemi -
+=
+-
+i dir. 
+Buna göre 
+,
+A -
+^
+h noktasından geçen ve eğimi 
+-  olan teğet doğrusunun denklem&
+bulunu$
+- -
+=-
+-
+=- -
+]
+]
+taf aolu&
+&
+&
+=
+-
+-
+=
+-
+=
+-
+=-
+=
+]
+]
+]
+&
+f =
+=
+-
+-
+] &
+olu=-
+] ÖRNEÖRNEÇÖZÜÇÖZÜTüref a=
++
++
+]  eğrisine üzerindeki 
+,
+A 1 ^
+h noktasında çizilen teğet doğrusunun x eksenini 
+hangi noktada keseceğini bulunuz,
+A 1 ^
+h noktası fonksiyonun grafiğinin üzerinde olduğundan f =
+]  olur.    
+ 
+ 
+ 
+          
+&
+&
+&
+f aolu$
+=
++
++
+=
++
++
+=
++
+=-

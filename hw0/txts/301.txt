@@ -1,0 +1,400 @@
+=
+ çemberine teğet olduğuna göre 
+k nın alabileceği pozitif değeri bulunuzYukarıdaki şekilde 
++
+-
+=
+ doğrus 
+,
+M 3 ^
+h merkezli çemberi A ve B 
+noktalarında kesmektedir. 
+A=
+ biri olduğuna göre bu çemberin standart  
+denklemini bulunuz+
+-
+=
+ doğrus-
++
+-
+=
+]
+^
+ çemberini iki noktad kestiğine göre r nin alabileceği en küçük 
+tam sayı değerini bulunuz,
+Merkezi 
+,
+M -
+^
+h olan ve 
+-
+-
+=
+ doğrusuna teğet olan 
+çemberin genel denklemini bulunuz+
++
+-
++
+=
+ çemberi ile 
+-
++
+=
+ doğrusunun yalnızca bir 
+ortak noktası olduğuna göre k değerini 
+bulunuz-
+-
+=
+ doğrusu 
+aa+
++
+-
+-
+=
+ çemberinin merkeznden geçtiğine göre bu çemberin çapını kaç birim olduğunu bulunuz AlıştırmalaAnalitik GeometrA)   1-5. sorularda boş bırakılan yerlere   
+       uygun ifadeleri yazınız. 
+C)  7-15. açık uçlu soruları cevaplandırınızB)  6. soruda numaralar ile verilen ifadeleri,         
+      harf ile verilen ifadelerle eşleştirinizAnalitik düzlemde sabit bir noktadan eşit 
+uzaklıkta bulunan noktaların kümesin..............denir.                          
+Analitik düzlemde 
+,
+,
+ve 6 -
+-
+^
+^
+h 
+noktalarından geçen ve A? yi çap kabul 
+eden çemberin merkezi................. olurDE+
++
++
++
+=
+ denkleminde 
+$
++
+-
+=
+ ise verilen denklem analiti düzlemde bir ......................... belirtirAnalitik düzlemin II. bölgesinde eksenlere 
+teğet ve yarıçap uzunluğu 3 birim olan çemberi standart denklemi ............................. 
+olurk+
+-
++
++
+=
+ denklemi analiti düzlemde bir nokta belirttiğine göre k 
+nin değeri ..................... olurAşağıda verilen çember denklemlerinin yarıçapların bularak harf ile verilen değerler 
+ile eşleştirinizIIIIV +
+-
++
++
+=
++
++
++
+-
+=
++
+-
++
++
+=
++
++
+-
+-
+=
++
+-
+-
+=
+)
+)
+b )
+)
+)
+e )
+)I. 
+II. 
+III. 
+IV. 
+V. 
+-
++
+=
+ doğrusuna teğet ve merkez 
+,
+M -
+^
+h olan çemberin yarıçap 
+uzunluğu kaç birimdir?
+=
+ doğrusu -
++
++
+=
+]
+^
+çemberini A ve B noktalarında kestiğine 
+göre A ve B noktalarının apsisleri toplamı 
+kaçtır?                         
+Analitik düzlemde 
+-
++
+=
+ doğrusu 
+-
++
+-
+=
+]
+^
+ çemberini A veınoktalarında kestiğine göre AB  kaç biridir?
++
+=
+ çemberi ile $
+-
+-
+=
+ 
+doğrusunun ortak noktası olmadığına göre 
+çemberin yarıçap uzunluğunun alabileceği 
+en büyük tam sayı değeri kaç birimdir?
+Merkezi 
+,
+M 4 ^
+h ve x eksenine teğet olan 
+çemberin denklemi nedir?
+Ölçme ve DeğerlendirmMatematik Analitik düzlemde denklemi  =
++
+ 
+olan doğrunun, -
++
+-
+=
+]
+^
+ 
+çemberini kestiği noktalar nedir?                                            
+ olmak üzerm+
+-
++
+-
+=
+]
+ denklemi 
+bir çember belirttiğine göre bu çemberin 
+çapı kaç birimdir?        
+Merkezi -
++
+=
+ doğrusu üzerinde 
+bulunan ve yarıçap uzunluğu 2 birim 
+olan çember -
++
+=
+ doğrusuna 
+teğettir. Bu çemberin merkezi analitik 
+düzlemin II. bölgesinde olduğuna göre 
+merkezi nedir? 
+Merkezi 
+,
+1 -
+^
+h olan ve 
+,
+P 7 ^
+h noktasında geçen çemberin standart denklemi 
+nedir?
+x eksenine teğet olan bir çemberin merkezi 
+-
+-
+=
+ doğrusu üzerindedirBuna göre bu çemberin denklemi aşağıdakilerde hangisi olamaz?
+)
+)
+)
+)
+)
+-
++
+-
+=
+-
++
+-
+=
++
++
++
+=
+-
++
+-
+=
++
++
++
+=
+]
+]
+]
+]
+]
+^
+^
+^
+^
+^
+Analitik düzlemde verilen 
+,
+M -
+^
+h merkezl çember orijinden geçmektedir. 
+Buna göre çemberin standart denklemi 
+aşağıdakilerden hangisidir?
+)
+)
+)
+)
+)
+-
++
++
+=
++
++
+-
+=
+-
++
++
+=
+-
++
++
+=
++
++
+-
+=
+]
+]
+]
+]
+]
+^
+^
+^
+^
+^
++
++
+-
+=
+]
+^
+ 
+çemberinin x eksenini kestiği noktaların 
+apsisleri toplamı kaçtır?
+A) 
+-       B) 
+-       C) 
+-      D) 2     E) D) 16-29.  çoktan seçmeli soruları çözünüz   
+     ve doğru seçeneği işaretleyiniz,
+Analitik Geometr+
+-
+=
+ doğrusu eksenleri A ve B 
+noktalarında kesmektedirA@ nı çap kabul eden çemberin denklem -
++
+-
+=
+]
+^
+ olduğuna göre 
++
++
+ toplamı kaçtır?
+A) 18      B) 16      C) 15      D) 14      E) ab+
++
+-
++
+=
+ çemberinin 
+merkezi 
+,
+3 -
+^
+h durBuna göre bu çemberin yarıçap uzunluğ kaç birimdir?
+A) 5         B) 6        C) 8        D) 9        E)Yukarıdaki şekilde 
+,
+3 -
+^
+h noktasından 
+geçen ve eğimi =
+ olan d doğrusu, C 
+noktasında çembere teğettir. 
+Merkezi 
+,
+M 0 ^
+h olan çemberin genel 
+denklemi aşağıdakilerden hangisidir?
+)
+)
+)
+)
+)
+A B C D E +
+-
+-
+=
++
++
++
+=
++
++
+-
+=
++
+-
+=
++
+-
+-
+=
+Merkezi koordinat sisteminin II. bölgesinde 
+ve yarıçap uzunluğu 4 birim olan çember 
+eksenlere teğettirBuna göre bu çemberin standart denklem aşağıdakilerden hangisidir?
+)
+)
+)
+)
+)
++
++
+-
+=
+-
++
++
+=
+-
++
+-
+=
++
++
+-
+=
++
++
++
+=
+]
+]
+]
+]
+]
+^

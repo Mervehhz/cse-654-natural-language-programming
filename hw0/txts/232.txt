@@ -1,0 +1,400 @@
+=
+-
+-
+^
+^
+SONUBir aritmetik dizide ,
+,
+,
+i in t ise olu!
+=
++
+=
++
++
++
++
+DizileÖZELLİK Sonlu bir aritmetik dizide 
+,
+=
++
+=
+ olduğuna göre a16  değerini bulunuzbulunu+
+=
++
+=
++
+=
+Bir aritmetik dizide her terim kendisinden eşit uzaklıktaki terimlerin aritmetik 
+ortalamasına eşittir. p i iolu=
++
++
+-
+$
+$
+$
+$
+$
++
++
++
+-
++
++
++
+-
+-
+-
++
++
++
+-
++
++
+=
++
+-
++
+-
+=
++
+=
++
+-
+=
+=
+=
++
+-
++
+-
++
+-
++
+-
++
+-
++
+-
+^
+^
+^
+^
+^
+^
+4444444444 Bir aritmetik dizide ve =
+=
+ olduğuna göre a13  değerini bulunuz,
+terimi ve terimlerin eşit uzaklıktadır. Bu durumda 
+bulunu=
++
+=
++
+=
+İlk üç terimi sırasıyla 34, 5 ve 4-
++
+-  olan aritmetik dizinin ortak farkını bulunuzolu=
+&
+&
+&
+,
+ve olu=
+-
+=
++
+=
+-
+=
++
++
+=
+-
++
+-
+-
+=
++
+Bu durumda ilk üç terim 5, 8, 11 olduğundan ortak fark 3 bulunurÇÖZÜÇÖZÜÇÖZÜÖRNEÖRNEÖRNEMatematik bulunu+
++
++
++
+=
++
++
++
++
++
++
++
++
+=
++
+=
+=
+=
+^
+^
+^
+^
+Böylece en büyük iç açısının ölçüsü 4 $
+=
++
+=
++
+=
++
+=
+c bulunurOrtak farkı d olan bir aritmetik dizinin ilk n teriminin toplamı Sn  ile gösterilirse  
+n =
+-
+^
+]
+g aritmetik dizisinin ilk 10 teriminin toplamını bulunuzDizinin ilk terimi 
+vterimi 3 3 $
+$
+=
+-
+=-
+=
+-
+=
+ olduğundabulunu5 &
+$
+=
++
+=
+-
++
+=
+=
+]
+Bir beşgende iç açılar bir aritmetik dizinin ardışık terimleridir. Bu beşgenin en küçük iç açısının 
+ölçüsü 90c olduğuna göre en büyük iç açısının ölçüsünün kaç derece olduğunu bulunuzBeşgenin iç açılarının ölçüleri toplamı $
+-
+=
+^
+ olduğundaBir Aritmetik Dizinin İlk n Teriminin ToplamÇÖZÜÇÖZÜÖRNEÖRNE+
+n n n n n n 2 tan$
+$
+$
+$
+$
+$
+$
+$
+=
++
++
++
++
+=
++
++
++
++
++
++
++
+-
+=
++
++
++
++
++
++
++
++
+-
+=
++
+-
+=
++
+-
+=
+=
++
+-
+=
++
+-
++
+$
++
++
++
+-
+4444444 ^
+^
+^
+^
+^
+^
+^
+^
+^
+^
+^
+^
+^
+^
+^
+h h 444444444444444 444444444444444 olun 2 $
+=
++
+-
+=
++
+^
+]
+Dizileİlk n teriminin toplamı =
++
+ olan bir aritmetik dizinin ortak farkını bulunuz3 $
+-
+3 $
+-
+) bulunu=
+-
+=
+-
+=
+-
+=
+3 3 $
+$
+-
+-
+20 bulunurb)
++
++
++
+=
+-
+=
+-
+=
+- -
+=
+]
+İlk n teriminin toplamı =
+-
+ olan a^
+h aritmetik dizisinde aşağıdaki ifadelerin değerini 
+bulunuz+
++
++
+)
+)
+bi^
+h dizisinin ilk n teriminin toplamı olmak üzerolu3 3 $
+$
+=
+=
+-
++
+-
++
+=
+3 $
+=
+=
+=
++
+ÇÖZÜÇÖZÜÖRNEÖRNEbulunu=
+=
+=
+-
+-
+2. terimi 7, 11. terimi 43 olan bir aritmetik dizinin ilk 20 teriminin toplamını bulunuzÇÖZÜÖRNEolu=
+-
+-
+=
+-
+-
+=
+-
+=
+bulunu=
++
+=
++
+=
+bulunu2 20 2 10 $
+$
+$
+$
+=
++
+-
+=
++
+-
+=
+=
+^
+]
+]
+Uyarolu-
+=
++
++
++
++
++
+-
++
++
++
++
+=
++
++
++
+ve n olmazer!
++
+olu=
++
++
++
++
++
++
++
+-
++
++
++
+=
++
++
++
+-
++
++
++
++
+Matematik +
++
++
++
++
+ toplamını/  sembolü ile gösterimini bulunuz10. terimi 66 ve 3. terimi 
+-  olan bir aritmeti dizinin ortak farkını bulunuz18. terimi, 11. teriminden 105 fazla olan bir 
+aritmetik dizide 20. terim ile 15. terim arasındak farkı bulunuz36 ile 
+-
+ sayıları arasına, bu sayılarla 
+birlikte azalan bir aritmetik dizi oluşturacak 
+şekilde 8 terim yerleştiriliyor. Buna göre 
+oluşan bu dizinin 6. terimini bulunuza^
+h bir aritmetik dizi olmak üzere 
++
++
+=
+ olduğuna göre 
++
+ toplamını bulunuzİlk terimi 5 olan bir aritmetik dizinin ilk 30 
+teriminin toplamı 1020 olduğuna göre bu 
+dizinin 5. terimini bulunuzİlk terimi ,
+1 =-
+ ortak farkı =

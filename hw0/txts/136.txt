@@ -1,0 +1,400 @@
+  ve 
+DEc=
+=
+ olur. Bu durumda ABc+
+=
++
+=
+ olarak 
+bulunurTers açılar ve iç ters açılar özelliği kullanılarak açılar şekildek gibi yerleştirilirse A.A. benzerliği ile DKBA+
+&
+&  olur ve buradan 
+BDAKBDBD&
+&
+=
+=
+=
+ bulunur. Bu durumda D=
+ 
+ve B=
+ yazılabilirABCD paralelkenarında AD=
+ olduğundan K=
+ olurA.A. benzerlik teoremi ile LKLA+
+&
+&  olduğundaAKLLKc&
+&
+&
+&
+=
+=
++
+=
++
++
+=
+=
+=
+ olarak bulunurYandaki şekilde verilen ABCD paralelkenarında Ave B@
+@ köşegen olup 
+köşegenler birbirine diktir. Dc=
+ ve Dc=
+ olduğuna göre 
+AB+
+ toplamının kaç cm olduğunu bulunuzYandaki şekilde verilen ABCD paralelkenarında KD=
+?
+? 
+olmak üzere 
+,
+Dc=
+ BLc=
+=
+ ve 
+(
+)
+m DA=
+%
+ olduğuna göre DC  nun kaç cm olduğunu 
+bulunuzYandaki şekilde verilen ABCD paralelkenarında AD+
+=
+?
+?
+"
+, , A, K, 
+L ve B, C, L noktaları doğrusal olup D? köşegendir. Ac=
+ ve 
+Ec=
+ olduğuna göre KL  nun kaç cm olduğunu bulunuzDörtgenler ve ÇokgenleDörtgenler ve ÇokgenleİpucParalelkenarın karşılıklı kenar uzunlukları eşit olduğundan 
+BAc=
+=
+ olurDA=
+@
+@ olacak şekilde D@ çizilirse 
+,
+DTA -
+-
+c dik üçgeni olur ve bu üçgen yardımıyla 
+,
+DcAc4 =
+=
+ bulunurDTLK dörtgeni dikdörtgendir ve DTc=
+=
+ olur. 
+Buradan DAc4 =
+=
++
+ olarak bulunur4 Bu eşitliğin doğruluğu aşağıdaki gibi gösterilebilirBir kenar uzunluğu ile bu kenara ait yüksekliğin çarpımı paralelkenarı alanını verirŞekildeki ABCD paralelkenarının alanı 
+(
+)
+A ABCa b $
+$
+=
+=
+ 
+olurHerhangi bir köşegen paralelkenarı iki eş üçgene ayırdığından 
+ABCD,
+&
+&  olur. Bu durumda 
+(
+)
+(
+)
+A ABA CD=
+&
+&  olurA(ABCD)
+A(ABD)
+A(CDB)
+2 A(ABD)
+(A(CDB) yerine A(ABD) yaz›lm›ﬂt›r.)
+a a bulunur$
+$
+$
+$
+=
++
+=
+=
+=
+&
+&
+&
+&
+&
+Siz de benzer şekilde 
+(
+)
+A ABCb h$
+=
+ olduğunu gösterinizYandaki şekilde verilen ABCD paralelkenarında D? ve A? sırasıyla 
+D ve A köşelerine ait açıortaylardır;
+,
+EDEcAc=
+=
+=
+?
+?
+ olduğuna göre ABCD  paralelkenarını alanının kaç cm2  olduğunu bulunuzAçıortay doğrusu üzerinden açıortayın kolları üzerine indirilen dikmelerin 
+uzunlukları eşit olduğundan EEEc=
+=
+=
+ ve P, E, R noktalar doğrusaldırPA=
+?
+? olduğundan Pca =
+=
+ olur. Bu durumda 
+(
+)
+A ABCa c15 $
+$
+=
+=
+=
+ olur444444444444 Dörtgenler ve ÇokgenleDörtgenler ve ÇokgenleİpucİpucBu eşitliğin doğruluğu aşağıdaki gibi gösterilebilirABCD paralelkenarında D! ? ise 
+(
+)
+(
+)
+(
+)
+(
+)
+A ADA BCA ABA ABC+
+=
+=
+&
+&
+&
+ olurL ve C noktaları birleştirilerek L? oluşturulurs(
+)
+(
+)
+(
+)
+(
+)
+A ABCA DLA ABCA ABCc10 &
+&
+$
+=
+=
+=
+&
+ 
+bulunurYandaki şekilde verilen ABCD paralelkenarında A! ?, 
+,
+CD=
+@
+@  
+Dc=
+ ve Kc=
+ olduğuna göre ABCD dörtgeninin alanını kaç cm2  olduğunu bulunuzYandaki şekilde verilen K noktası ABCD paralelkenarının iç 
+bölgesinde bir nokta olmak üzere 
+(
+)
+(
+)
+(
+)
+(
+)
+(
+)
+A ADA BCA AKA DKA ABC+
+=
++
+=
+&
+&
+&
+&
+ olurABCD paralelkenarında EDC ve EA=
+=
+?
+?
+?
+? olacak şekild E? çizilir(
+)
+(
+)
+A ABa A ABC$
+=
+=
+&
+ olur. Bu durumda 
+(
+)
+(
+)
+(
+)
+(
+)
+A ADA BCDEDEAa A ABCbulunu$
+$
+$
+$
+$
++
+=
++
+=
++
+=
+=
+=
+&
+&
+  
+Buradan A ADA A BC=
++
+&
+&
+&
+ olur. 
+4444444444444 Dörtgenler ve ÇokgenleDörtgenler ve ÇokgenleİpucBu eşitliğin doğruluğu aşağıdaki gibi gösterilebilirABCD paralelkenarında P noktası iç bölgede bir nokta;
+(
+)
+A ADc=
+&
+, 
+(
+)
+A BCc=
+&
+ ve 
+(
+)
+A DCc=
+&
+ olduğun göre ABP  üçgeninin alanının kaç cm2  olduğunu bulunuz(
+)
+(
+)
+(
+)
+(
+)
+(
+)
+(
+)
+A ABA DCA BCA ADA ABA ABcbulunu+
+=
++
++
+=
++
+=
+&
+&
+&
+&
+&
+&
+ 
+Yandaki şekilde verilen ABCD paralelkenar ve 
+(
+)
+m DA=
+%
+ ise 
+si(
+)
+A ABCAA$
+$
+=
+ olurABCD paralelkenarında 
+PDA'
+'
+?
+?
+? ve K noktasından 
+geçecek şekilde P? çizilirse DPRC ve ABRP dörtgenleri paralelkena olur. Bu durumd(
+)
+(
+)
+(
+)
+(
+)
+(
+)
+(
+)
+(
+)
+(
+)
+A APA BKA ABA ABRA DPA CRA DKA DPR+
+=
+=
++
+=
+=
+44444444444444444444444444 &
+&
+&
+&
+&
+&
+(
+)
+(
+)
+(
+)
+(
+)
+(
+)
+(
+)
+(
+)
+(
+)
+(
+)
+(
+)
+(
+)
+(
+)
+(
+)
+A APA DPA BKA CRA ABA DKA ABRA DPRA ADA BKA ABA DKA ABCD olu+
++
++
+=
++
+=
++
++
+=
++
+=
+&
+&
+&
+&
+&
+&
+&
+&
+&
+&
+Yandaki şekilde verilen ABCD paralelkenarında 
+,
+AcAc=
+=
+ ve 
+(
+)
+m DA=
+%
+ olduğuna göre 
+ABCD dörtgeninin alanının kaç cm2  olduğunu bulunuzsisi(
+)
+A ABCAAcolu6 6 11 $
+$
+$

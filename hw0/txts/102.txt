@@ -1,0 +1,400 @@
+c) 
+"
+,
+:
+( )
+f =
+ç) 
+"
+,
+:
+( )
+f =
++
+2. Aşağıda verilen fonksiyonların terslerinin kuralın bulunuz. 
+a) 
+"
+,
+:
+( )
+f =
+-
+b) 
+"
+,
+:
+( )
+f =
+c) 
+"
+,
+:
+( )
+f =
++
+ç) 
+"
+,
+:
+( )
+f -
+-
+=
+-
++
+!
+!
++
++
+3. 
+"
+,
+:
+( )
+( )
+x f f $
+$
+-
+-
+-
+=
++
+!
+!
++
++
+ 
+olduğuna göre 
+( )
+-
+ i bulunuz 
+4. 
+"
+,
+:
+( )
+f +
+-
+=
+ fonksiyonunun 
+tersinin kuralını bulunuz. 
+5. 
+"
+,
+:
+( )
+f =
+-
+ olmak üzere 
+(
+)
+(
+)
++ -
+ değerini bulunuz6. 
+"
+,
+:
+(
+)
+f =
+-
+ olmak üzere 
+( )
+-
+ 
+değerini bulunuz7. 
+"
+,
+:
+( )
+f a-
+- -
+=
++
++
+!
+!
++
++
+ fonksiyou bire bir ve örten bir fonksiyon olduğuna 
+göre +
+ değerini bulunuz8. 
+"
+,
+:
+( )
+f =
++
+ ve 
+"
+,
+:
+R  
+( )
+g =
+- olmak üzere (
+)( )
+o-
+ değerini 
+bulunuz9. 
+"
+"
+:
+:
+ve R  olmak üzere 
+( )
+=
+-
+-
+ v( )
+g =
++
+ fonksiyonu 
+veriliyor. Buna göre (
+)
+( )
+fo-
+-
+ değerini 
+bulunuz10. 
+"
+"
+:
+:
+ve R olmak üzere              
+      (
+)( )
+o=
++
+-
+ ve 
+( )
+g =
++
+      olduğuna göre ( )
+f 5  değerini bulunuz11. 
+"
+,
+:
+(
+)
+-
+-
++
+=
++
++
+"
+"
+,
+,
+ 
+      olduğuna göre   
+( )
+-
+ değerini bulunuz12. f ve g tanımlı olduğu aralıklarda bire bir ve        
+      örten fonksiyonlardır. (
+)( )
+fo=
++
+-
+-
+        
+      ve (
+)( )
+go=
+-
++
+ olduğuna göre (
+)( )
+fo2   
+      değerini bulunuz13. f ve g fonksiyonları için 
+(
+)
+(
+)
++
+=
+-
+-
+ olduğuna göre 
+(
+)( )
+go3  değerini bulunuz14. 
+   Yukarıda 
+( )
+=
+ fonksiyonunun grafiği 
+verilmiştir. Buna göre 
+( )
+-
+ fonksiyonunun 
+grafiğini çizinizA) Aşağıdaki cümlelerde boş bırakılan 
+yerlere doğru ifadeyi yazınız1. Bir A kümesinden B kümesine tanımlı f fonksiyou 
+"
+:
+B  ile gösterilir. 
+    A kümesine .......kümesi, B kümesine kümesi denir2. 
+"
+:
+B  olmak üzere tanım kümesindeki 
+elemanların f fonksiyonu altındaki görüntülerini oluşturduğu kümeye bu fonksiyonun 
+........... kümesi denir. 
+B) Aşağıda numaralarla verilen ifadeler 
+ile harflerle verilen ifadeleri eşleştirip 
+eşleşenleri alttaki kutulara yazınız3. 
+ 
+1.  Değer kümesinde 
+eşleşmeyen eleman 
+kalan fonksiyon çeşid     
+2. Değer kümesinde 
+eşleşmeyen eleman 
+kalmayan fonksiyon 
+çeşid3. Tanım kümesinin her 
+elemanının görüntüsünü aynı olduğu 
+fonksiyon çeşid4. Tanım kümesinin her 
+elemanının görüntüsünü kendisine 
+eşit olduğu fonksiyon 
+çeşida) Sabit fonksiyon 
+b) Birim fonksiyon 
+c) İçine fonksiyon 
+ç) Bire bir fonksiyon 
+d) Örten fonksiyoe) Doğrusal fonksiyo
+ f) Tek fonksiyo1234C) Aşağıdaki açık uçlu soruların doğru 
+cevabını bulunuz4. 
+1, 2, 3, 4 ,
+5, 6,
+=
+=
+"
+"
+,
+, , 
+"
+:
+B  bir 
+fonksiyon ve 
+(x, 5), (1, 6), (3, 7), (y, 6)
+f = "
+,  
+olduğuna göre +
+ değerini bulunu5. 
+"
+:
+B , 
+,
+, 0,
+= -
+-
+"
+,  ve 
+( )
+f =
++
+ olduğuna göre f fonksiyonunun 
+görüntü kümesindeki elemanların toplamını 
+bulunuz       
+             
+                                 
+6. 
+"
+,
+:
+( )
+f =
++
++
+ olduğuna göre 
+(
+)
+( )
+-
++
+değerini bulunuz  
+7.  
+"
+:
+-
+- -
+!
+!
++
++  olmak üzer( )
+( )
+f x f $
+$
+-
++
+=
+-
+ fonksiyonu veriliyo. Buna göre ( )
+f 3  değerini bulunuz8. Gerçek sayılar kümesinde tanımlı f fonksiyonu 
+(
+)
+f +
+=
++
+ biçiminde tanımlanmıştır. 
+Buna göre ( )
+f 5  değerini bulunuz  
+ 9. 
+"
+,
+:
+(
+)
+( )
+f f +
+=
++
+ olmak üzere   
+( )
+f = -
+ olduğuna göre (
+)
+f 27  değerini 
+bulunuz   
+ÖLÇME VE DEĞERLENDİRME10. 
+"
+,
+:
+( )
+( )
+v=
+-
+=
++
+ ve 
+f bire bir ve içine fonksiyon olduğuna göre x 
+in alacağı değerlerin toplamını bulunuz. 
+11. 
+"
+,
+:
+(
+)
+m+
+=
++
+-
++
+ ve       
+f fonksiyonu birim fonksiyon olduğuna göre  
+m $
+ değerini bulunuz12. 
+"
+:
+( )
+vf  sabit fonksiyon v( )
+( )
+( )
++
++
+=
+ olduğuna göre ( )
+f 7  
+değerini bulunuz13. 
+"
+:
+( )

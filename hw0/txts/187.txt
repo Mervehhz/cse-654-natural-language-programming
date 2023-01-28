@@ -1,0 +1,400 @@
+m DC\  = 50°, 
+(
+)
+m AD\  = y ve  
+(
+)
+m CA\  = x olarak verilmiştir. 
+x + y toplamının kaç derece olduğunu bulunuzSıra Sizd20°
+110°
+10°
+110°
+110°
+10°
+70°
+35°
+70°
+10°
+10°
+50°
+60°
+Yandaki [BC] çaplı, O merkezli çemberin yarıçap uzunluğr = 5 cm ve |AB| = 6 cm olduğuna göre AC uzunluğunun 
+kaç cm olduğunu bulunuzÇözüA çevre açısı çapı gördüğünden bu açının ölçüsü 90° olurr = 5 cm olduğundan ABC dik üçgeninde |BC| = 10 cm olurO hâlde ABC dik üçgeninde Pisagor teoremi uygulandığınd62 + |AC|2 = 102 ⇒ |AC| = 8 cm olur18. Örnek 
+Yandaki [AB] çaplı, O merkezli çemberde 
+(
+)
+m C$  = 70° 
+ve  [AB] // [CD] olduğuna göre 
+(
+)
+m AO\  nün kaç derece 
+olduğunu bulunuz. 
+Çözü[AB] // [CD] ise 
+(
+)
+(
+)
+m Cm D=
+$
+[  olur 
+(
+)
+(
+)
+m Cm D=
+=
+$
+[
+ olmak üzer2x + 70° = 180° ⇒ x = 55° olur19. Örnek 
+Yandaki O merkezli çemberde 
+(
+)
+m C#  = 40° ve 
+(
+)
+m OA\  = 30° olduğuna göre 
+(
+)
+m A$  nün kaç derece 
+olduğunu bulunuzSıra Sizd3. Bir çemberde çapı gören çevre açının ölçüsü 90° olurYandaki şekilde O merkezli çemberde çapı gören çevre açı 
+A açısıdır. A açısı BDC çember yayını görmektedir. 
+O, çemberin merkezi olduğu için 
+(
+)
+m BD&
+=180° olur.  
+Buradan 
+( )
+°
+m °
+=
+=
+ olur. 
+4. Bir çemberde paralel iki kirişin arasında kalan yayların ölçüleri 
+birbirine eşittir[AB] // [CD] olmak üzere CBA ve DCB açıları iç ters açılar olu(
+)
+(
+)
+m ABm BC=
+\
+\  olur. 
+Aynı çevre açının gördüğü yayların ölçüleri eşit olduğunda(
+)
+(
+)
+m Am B=
+$
+$  olur30°
+ 
+ 
+TeğeNoktBir önceki uygulamada elde ettiğiniz son görüntüden hareketle BC doğru parçasını (kiriş) 
+çiziniz. 
+Teğet ikonuna, ardından C noktasına ve çembere tıklayarak teğeti çizinizNokta ikonuna, ardından teğetin üzerine tıklayarak E noktasını oluşturunuz. 
+Açı ikonuna, ardından sırasıyla E, C, B noktalarına tıklayarak oluşan ECB teğet-kiriş açısının 
+ölçüsünü belirleyinizECB teğet-kiriş açısının ölçüsü gördüğü yayın ölçüsünün yarısına eşittir. Aynı yayı gören ECB 
+teğet-kiriş açısının ölçüsü ile CDB çevre açısının ölçüsünün birbirine eşit olduğuna dikkat ediniz4. Uygulama: Teğet-Kiriş AçTeğet-Kiriş AçKöşesi çember üzerinde bulunan ve kenarlarından biri çemberin kirişi, diğeri çemberin teğetolan açıya bu çemberin bir teğet-kiriş açısı denir. 
+Yandaki şekilde CAB açısı çemberin bir teğet-kiriş  açısıdır. 
+CAB açısının gördüğü yay AB yayıdırÇemberde OA ve OB doğru parçaları çizildiğinde OAB 
+ikizkenar üçgeni elde edilir. [OA]ꓕ[AC] olur. Merkez açının 
+ölçüsü α olsun. Bu durumda 
+(
+)
+m A=
+$
+ olur(
+)
+(
+)
+m BAm OB��
+=
+=
+\
+\
+ olsun. Bu durumda 
+OAB üçgeninde 2θ + α = 180° eşitliğinin her iki yanı 
+2 ye bölündüğünde 
+olu90°
+�
+�
++
+=
+Buna görCAB teğet-kiriş açısının ölçüsü 
+(
+)
+m CAolu=
+\
+ ��
+O hâlde teğet-kiriş açının ölçüsü, bu açının gördüğü yay ölçüsünün yarısına eşittirK 22Yandaki şekilde ölçüsü α olan DKC açısı çemberin iç açılarından 
+biridir. DKC açısının gördüğü yaylar CD ve AB yaylarıdır(
+)
+(
+)
+m DBa ve m ADb olsu=
+=
+\
+\
+ Buna göre 
+(
+)
+(
+)
+m Da ve m Ab olu=
+=
+$
+$
+ Buradaα = a + b = 
+(
+)
+(
+)
+m Am C+
+$
+$
+ olurO hâlde bir çemberde iç açının ölçüsü, bu açının gördüğü 
+yayların ölçüleri toplamının yarısına eşittirİç AçÇemberin içinde herhangi bir noktada kesişen iki kirişin oluşturduğu açıların her birine bu  
+çemberin bir iç açısı denirYandaki şekilde AB doğrusu çembere C noktasındteğettir.  |CD| = |DE|  ve  
+(
+)
+m CD\  = 100° olduğuna göre 
+(
+)
+m AC\  = x değerinin kaç derece olduğunu bulunuzÇözüACD teğet-kiriş açının ölçüsü x derece olduğundan bu açının gördüğü CD yayının ölçüsü  
+(
+)
+m C$
+= 2x  olur|CD| = |DE| ⇒  
+(
+)
+m C$
+= 
+(
+)
+m D#
+= 2x ve 
+(
+)
+m CD\  = 100° ⇒ 
+(
+)
+m C#
+= 200° olur. 
+Verilen çemberde 
+(
+)
+m C$
+ + 
+(
+)
+m D#  + 
+(
+)
+m C#  = 360° olduğundan 
+2x + 2x + 200° = 360° ⇒ 4x = 160° ⇒ x = 40° olur20. Örnek 
+Bir çemberde aynı yayı gören teğet-kiriş açı ile çevre 
+açının ölçüleri eşittirYandaki şekilde 
+(
+)
+(
+)
+m ABm AC=
+\
+\  olurSonuç                   
+100°
+ 
+ 
+Yandaki çemberde [AD]∩[BC] = {K}, 
+(
+)
+m AD\  = 80° v(
+)
+m BA\  = 30° olduğuna göre 
+(
+)
+m AK\  = x değerinin kaç 
+derece olduğunu bulunuzÇözüYandaki şekilde BAD ve ADC çevre açılarının gördüğü yay 
+ölçüleri sırasıyla 
+(
+)
+m B$  = 60° ve 
+(
+)
+m A$  = 160° olurBuradan 
+°
+°
+°
+°
++
+=
+=
+=
+ olur21. Örnek 
+Yandaki çemberde [AB]∩[DC] = {K}, 
+(
+)
+m AK\  = 110° ve 
+(
+)
+m D80°
+=
+$
+ olduğuna göre 
+(
+)
+m A$   nün kaç derece 
+olduğunu bulunuzSıra Sizd30°
+80°
+60°
+160°
+110°
+30°
+80°
+Yandaki şekilde DEC açısı bu çemberin bir dış açısıdırE açısının görmüş olduğu yaylar AB ve CD yaylarıdır. 
+A ve D noktaları birleştirilirse AB yayını gören çevre açı 
+elde edilirα+ (
+)
+m CE\  = α, 
+(
+)
+(
+)
+m Aa ve m C=
+=
+$
+$
+ olsun. 
+(
+)
+m A=
+$
+ olduğundan 
+(
+)
+m BD=
+\
+ olur. 
+AED üçgeninde 
+(
+)
+m CA=
++
+\
+ olur. CA\  çevre açı olduğundan gördüğü yayın yarısına eşittir. 
+Buradan  
+a +
+=
+ ⇒ 
+a =
+-
+ olurBir dış açının ölçüsü, gördüğü yaylardan büyük olan açı ile küçük olan açının ölçüsünün 
+farkının yarısına eşittirDış AçBir çembere dışındaki noktadan çizilen iki kesenin, iki teğetin veya bir teğetle bir kesenin 
+çemberin dışında oluşturduğu açıya çemberin dış açısı denirYandaki çemberde 
+(
+)
+m D#  = 30° ve 
+(
+)
+m B#  = 80° olduğuna 
+göre 
+(
+)
+m BA\  = x değerinin kaç derece olduğunu bulunuzÇözüBAC açısı bir dış açı olup ölçüsü gördüğü BC vDE yaylarının ölçüleri farkının yarısıdır(
+)
+(
+)
+°
+°
+°
+m Bm Dolu=
+-
+=
+-
+=
+#
+#
+22. Örnek 
+Yandaki O merkezli çemberde [BA, çembere D 
+noktasında teğet, [BC, çemberi E ve F noktalarınd kesmektedir[OH]⊥[EC], 
+(
+)
+°
+m AB=
+\
+ ve 
+(
+)
+°
+m HO=
+\
+ 
+olduğuna göre 
+(
+)
+m DG'  nün kaç derece 
+olduğunu bulunuzSıra SizdYandaki O merkezli çemberde OB doğru parçası 
+B açısını ve AC yayını iki eş parçaya böler.  
+(
+)
+(
+)
+m ABm AE180°
++
+=
+&
+\
+ eşitliğinin 
+her iki tarafı 2 ile bölündüğünde 
+(
+)
+(
+)
+°
+m ABm A+
+=
+$
+\
+ olur[BA ve [BC çembere sırasıyla A ve C noktalarında 
+teğet olsun(
+)
+(
+)
+(
+)
+m ABm ADm A=
+-
+'
+$
+\
+ eşitliğinde 
+(
+)
+°
+(
+)
+m ADm A=
+-
+'
+$  yazıldığınd(
+)
+(
+)
+(
+)
+m ABm Am A360°
+=
+-
+-
+$
+$
+\
+ olur(
+)
+°
+(
+)
+m ABm A=
+-
+$
+\
+ olduğundan   
+(
+)

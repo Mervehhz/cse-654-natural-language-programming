@@ -1,0 +1,400 @@
+5000  cm 
+olur. Bu durumda resim alanı A isccolu$
+=
+-
+-
+=
+-
+-
+]
+Buna göre resim alanı f =
+-
+-
+]  fonksiyonu ile ifade edilirse resim alanının en 
+büyük olması için f =
+-
+-
+]  fonksiyonunun maksimum değeri bulunmalıdır&
+&
+&
+&
+f ve ve veya ve oluPaydadift kat k !
+!
+!
+=
+-
+-
+=-
++
+-
+=
+-
+=
+=
+=-
+=
+olu=
+]
+]
+^
+]
+^
+&
+olu=
+=
+=
+f ] g fonksiyonunun türevinin işaret tablosu incelenirse f ] g fonksiyonunun maksimum değerini 
+=
+ için aldığı görülür.  
+Bu durumda Aslı Hanım’ın seçeceği tuvalin alanının en büyük olması için tuvalin eni ve boyu 
+sırasıyla 50 cm ve 100 cm olmalıdırÖRNEÇÖZÜ-
+-
+3 ARALIK DÜNYA ENGELLİLER GÜNG rsel 5 Engel Y    K,
+Renkler  Var!
+Matematik Bu durumda tur şirketinia) Maksimum gelir elde etmesi için geziye kaç öğrencinin katılması gerektiğini bulunuzb) Maksimum gelir elde etmesi için geziye katılan öğrencilerin kişi başı kaç TL ücret ödemesi  
+    gerektiğini bulunuzc) Maksimum gelirinin kaç TL olacağını bulunuzBilgi Öğretmen, Şehitler Günü’nde okulundaki öğrencilere 
+millî ve manevi değerleri yaşatmak amacıyla 18 Mart’ta Çanakkal Şehitliği’ne bir gezi planlamıştır. Bilgi Öğretmen bir 
+tur şirketinden gezi ücreti için aşağıdaki teklifi almıştırBu durumda geziye 150 öğrenci katıldığında yapılacak gezinin geliri maksimum olura)   için tur şirketinin geliri olan f ] g fonksiyonunu maksimum yapan x değeri bulunmalıdırbiçiminde bir fonksiyon olarak tanımlanabilir. =
+ için T=
+]
+  gelir elde edilirx geziye katılan öğrenci sayısı olmak üzere tur şirketinin gelirb)  -
+=
+ öğrenci için tur şirketi 
+,
+T90 0 $
+=
+ kişi başı indirim yapar. 
+     O hâlde geziye katılan öğrenciler kişi başı 
+T-
+=
+ ücret ödeyecektirc)  Tur şirketinin maksimum geliri 
+TL olu11 =
+f 150 $
+=-
++
+]
+ÖRNEÇÖZÜGezi ücreti kişi başı 120 TL dir. Ancak tur şirketi daha çok 
+öğrencinin Çanakkale Şehitliği’ni görebilmesi amacıyla geziy katılan öğrenci sayısının 60 tan fazla olması hâlinde 
+60 ın üzerindeki her bir öğrenci için geziye katılan tüm öğrenciler ellişer kuruş indirim yapacaktırÖrneğin geziye 80 öğrenci katılırsa 60 ın üzerindeki 20 öğrenci için her öğrenciye, 
+,
+T20 0 $
+=
+ indirim yapılacak ve kişi başı gezi ücreti 110 TL olacaktır,
+,
+,
+f is0 $
+=
+-
+-
+=
+-
++
+,
+is#
+,
+is#
+is]
+^
+]
+[
+\
+]]]]
+]]]]
+)
+&
+&
+&
+&
+f olu=-
++
+=- +
+=
+- +
+=
+=
+l]
+]
+]
+-
+G rsel 5 Türe2 $
+=
+ olduğuna göre +
+ toplamını alabileceği en küçük değeri bulunuz                                                                                                                      
+Yukarıda f =-
++
++
+]  parabolünün 
+grafiği verilmiştir. Buna göre grafikte gösterile OABC dikdörtgeninin çevre uzunluğunu alabileceği en büyük değeri bulunuz                                      
+Yukarıda farklı iki kenarının uzunlukları 
+c+
+]
+ ve 
+c-
+]
+ olan ABCD 
+dikdörtgeni verilmiştir. Bu dikdörtgenin 
+alanının en çok kaç cm2 olacağını bulunuzYukarıda f =
++
+-
+]  ve 
+g =-
+-
+-
+]  fonksiyonlarının grafikler verilmiştir. A noktası f ] g fonksiyonunu grafiği ve B noktası g ] g fonksiyonunu grafiği üzerindedir. A? y eksenine 
+paralel olduğuna göre A? nın uzunluğunu alabileceği en küçük değeri bulunuz                                             
+Yarıçap uzunluğu 1 metre olan bir kürenin 
+içerisine tepe noktası kürenin merkezinde 
+olacak şekilde yerleştirilebilecek en büyük 
+hacimli kare piramidin yüksekliğinin kaç 
+metre olacağını bulunuz.                                                                                                        
+Koordinat sisteminde x ekseni üzerindeki 
+bir 
+,
+D a ^
+h noktasının  
+,
+,
+,
+1 2 ^
+^
+h ve 
+,
+C -
+^
+h noktalarına olan uzaklıklarının 
+kareleri toplamının en küçük değerinin kaç 
+olduğunu bulunuz Alıştırmalaf =
++
++
+]  eğrisinin üzerindeki bir 
+noktanın koordinatları toplamının alabileceğ en küçük değeri bulunuz.  
+Matematik A) 1-5. cümlelerde boş bırakılan yerlere  
+     uygun ifadeleri yazınızBir fonksiyonun =
+ noktasındaki soldan 
+limiti sağdan limitine eşit değilse fonksiyonu bu noktada limiti ,
+f ]  dereceden polinom fonksiyonu ise 
+f ] g in en fazla ............. tane ekstremum 
+noktası vardırTürevlenebilir bir fonksiyonun türevinin poziti olduğu aralıkta fonksiyon .......... olur 
+ 
+ 
+Bir fonksiyonun =
+ noktasındaki limiti 
+görüntüsüne eşit ise fonksiyon =
+ noktasnda ......................... denirTürevlenebilir bir fonksiyonun ekstremum 
+noktaları varsa fonksiyonun bu noktalarda 
+türevi ............. olurf =
+-
+]  
+fonksiyonu veriliyor. Buna göre numarala ile verilen türevlerin değerlerini bularak 
+harflerle verilen sonuçlar ile eşleştiriniz.IIIIIIIVVVI)
+)
+)
+)
+)
+)
+)
+)
+B) 6. soruda numaralar ile verilen ifadeleri            
+     harf ile verilen ifadelerle eşleştirinizli+
+-
+=
+"
+ 
+,
+f baisais$
+=
+-
++
+,
+] *
+biçiminde tanımlı f ] g fonksiyonu veriliyorlilif vf =
+=-
+"
+"
++
+]
+]
+ 
+olduğuna göre lim f "
+- ] g ifadesinin değeri 
+kaçtır?
+Yukarıda f =
+-
+]
+g fonksiyonunun grafiğ verilmiştir. Buna göre  
+ifadesinin değeri kaçtır? 
+olduğuna göre a nın alabileceği değerlerin 
+toplamı kaçtır?
+Doğrusal olarak hareket eden bir hareketliy ait konum (metre), zaman (saniye) fonksiyon x =
+-
++
+]  olduğuna göre 
+bu hareketlinin 3. saniyedeki anlık hızı kaç 
+/
+m sn  dir?
+10   
+C) 7-15. açık uçlu soruları cevaplandırınızf =
+-
+]
+lililif f f +
++
+"
+"
+"-
+-
++
+-
+]
+]
+]
+-
+-
+-
+]
+]
+^
+]
+III.IÖlçme ve Değerlendirme Türe,
+,
+f isis$
+=
+-
++
+-
+-
++
++
+-
+] [
+\
+]]]]]]
+]]]]]]
+ 
+biçiminde tanımlı f ] g fonksiyonunun sürekl olmadığı kaç x değeri vardır?
+f =
+-
++
+]  eğrisine =
+ 
+apsisli noktasından çizilen teğetinin eğimi 
+kaçtır?
+f =
+-
++
+]  olduğuna göre 
+lif -
+-
+"
+]
+]
+g  ifadesinin değeri kaçtır?
+15 
+D) 16-31. çoktan seçmeli soruları çözünüz        
+     ve doğru seçeneği işaretleyinizli-
+-
+-
+"-
+ifadesinin değeri kaçtır?
+)
+)
+)
+)
+)
+-
+-
+li-
++
+-
+"
+ 
+ifadesinin değeri kaçtır?
+)
+)
+)
+)
+)
+-
+-
+Yukarıda f = ] g fonksiyonunun grafiği 
+verilmiştirBuna göre aşağıdakilerden hangisi 
+yanlıştır?
+)
+)
+)
+)
+)
+lililililif f f f f x yoktu=
+=
+=
+=
+"
+"
+"
+"
+"
+-
++
+-
++
+]
+]
+]
+]
+]
+li-
+-
+"
+ 
+ifadesinin eşiti nedir?
+)
+)
+)
+)
+)
+C -
+Yukarıda verilen grafikte x ekseni ile pozitif 
+yönde 45c lik açı yapan d doğrusu f ] g 
+fonksiyonuna 
+,
+A 4 ^
+h noktasında teğettirBuna göre g f 1 $
+=
++
+]
+]
+]
+g şeklinde 
+verilen g ] g  fonksiyonunun =
+ apsisli 
+noktasındaki teğetinin eğimi nedir?                                                          
+f =
+-
+]  eğrisine =
+ apsisli 
+noktasında çizilen teğeti x eksenini hangi 
+noktada keser?
+,
+A 4 ^
+45Matematik li-
+-
+"
+ 
+ifadesinin değeri kaçtır?
+)
+)
+)
+)
+)
+-
+-
+lilif f =
+=
+"
+"
+:
+:
+]
+]
+olduğuna göre f ] g fonksiyonu aşağıdakilerde hangisi olabilir?
+)
+)

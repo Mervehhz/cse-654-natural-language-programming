@@ -1,0 +1,400 @@
+|AC| = b uzunluklarına üçgenin kenar uzunlukları denirÜçgenin çevresi Ç = 2u = a + b + c dirABC üçgeni, AB&  şeklinde gösterilirDıBölgİBölgABC üçgeni bir düzlemi 3 bölgeye ayırır; üçgenin 
+kendisi, üçgenin dış bölgesi, üçgenin iç bölgesiDıAçDıAçDıAçİAçİAçİAçÜçgenin iç bölgesinde kalan açılara iç açı, dış bölgesind kalan açılara dış açı denirBir iç açı ve bu iç açıya ait dış açı birbirinin bütünleridi• Bir üçgenin iç açıları ölçüleri toplamı 180°dirs(
+)
+BA%  + s(
+)
+AC%  + s(
+)
+AB%  = 180°
+• Bir üçgenin dış açıları ölçüleri toplamı 360°dir• Bir üçgenin kenar ve açılarına üçgenin temel elemanları denirÜçgen konusuna devam etmeden önce geometrinin tarihsel geçmişine bir göz atalımMatematik I2. BölüÜçgenleKültür ve medeniyetimize geometri alanında katkı sağlamış pek çok bilim insanı 
+vardırPisagor (MÖ 570-MÖ 495) kendi ismiyle anılan Pisagor teoremini bulmuş ve aksiyomati geometrinin kurucusudur. 
+Öklid (MÖ 300), Öklit geometrisinin kurucusu ve bugünkü geometrinin temelini 
+oluşturan beş aksiyomu oluşturmuştur. 
+Pierre De Fermat (1601-1665) modern anlamda analitik geometrinin temellerini 
+atmıştırİslam dünyasında ise analitik geometriye önemli katkıları bulunan bilim adamları 
+Harezmi (MS 780-850) ve Ömer Hayyam (1048-1131) dır. Ebu’l Vefa (MS 940-998) 
+ise düzgün çok yüzlülerin çizimleriyle uğraşmış ve çizim geometrisine katkıda bulunmuştu Geometri alanındaki kelimelerin anlaşılmasındaki aksaklıkları, öğretiminde bazı 
+kelimelerin anlam zorlukları yarattığını gören Atatürk, bu aksaklıkları gidermek amacıyl 1936-1937 yıllarında 44 sayfalık bir geometri kitabı yazmıştır. Kitap, 1937 yılında 
+Millî Eğitim Bakanlığı tarafından yazar adı konmadan yayımlanmış, 1971 yılında da 
+ikinci baskısı Türk Dil Kurumu tarafından çıkarılmıştır. Kitapta, anlam kargaşası yarata, öğrenimi ve öğretimi zor olan Osmanlıca sözcükler  yerine Atatürk tarafından anlaşılmas daha rahat, öğretimi daha kolay olan terimler türetilmiştir. Kitapta yer alan 
+pek çok terim, günümüzde de hâlen kullanılmaktadır. Bu terimlerden bazıları eski ve 
+yeni hâlleriyle aşağıdaki tabloda verilmiştirEskYenre’sen mütekabil zâviyeleters açılamüselles-i mütesâviyü’l-adlâ’
+eşkenar üçgemesâha-i sathiyyalahattı munassıaçıortamurabbkarkaaidtabazâviyaçşâkuldüşenısf-ı kutuyarıçaMatematik I2. BölüÜçgenleÜçgende Açı Özellikleri İle İlgili İşlemler YapmAçBaşlangıç noktaları ortak olan iki ışının birleşim kümesine denir ve ^ sembolü ile 
+gösterilirYandaki açı, aşağıdaki gibi farklı şekillerle gösterilebilirAOB açısı, AO%
+BOA açısı, BO%  ya dZ şeklinde gösterilirAOB açısının ölçüsü, s(AOB)
+%  şeklinde gösterilir. Üçgende açı özelliklerine detaylıc giriş yapmadan önce açıları hatırlayalımAçı ÇeşitlerGeniş AçDoğru AçTam AçDik AçDar AçÖlçüsü 0° ile 
+90° arasında 
+olan 
+açıya 
+denir0° < x < 90°   
+Ölçüsü 
+90° 
+olan 
+açıya 
+denirx = 90°
+Ölçüsü 90° ile 
+180° arasında 
+olan açıya deni90° < x < 180°
+Ölçüsü 180° 
+olan 
+açıya 
+denirx = 180°
+Ölçüsü 360° 
+olan 
+açıya 
+denirx = 360°
+ÖRNEKLE1. a – 10° lik açı dar açı olduğuna göre a nın alabileceği en küçük ve en büyük tasayı değerlerini bulalımMatematik I2. BölüÜçgenleÇözüa – 10°, dar açı olduğundan bu açının ölçüsü 0° ile 90°derece arasında olmalıdır. 
+Buna göre;
+0° < a – 10° < 90° şeklinde yazılır. 
+0° + 10° < a < 90° + 10°
+10° < a < 100°
+Bu durumda a nın en küçük değeri 11°, en büyük değeri ise 99° olur2. 3x – 30° açısı bir doğru açı olduğuna göre x değeri kaç olmalıdır?
+Çözü3x – 30° açısı bir doğru açı ise 3x – 30° açısının ölçüsü doğru açının ölçüsüne eşit 
+olmalıdır. Buna gör3x – 30° = 180° olmalıdır   3x = 180° + 30°
+   3x = 210°
+3210°
+=
+3. Bir dar açı ile dik açının ölçüleri toplamının en büyük ve en küçük tam  sayı değer kaçtır?
+Çözü     
+En küçük tam sayı 
+değeri 1°
+En büyük tam sayı 
+değeri 89°
+Bir dar açı    0° < x < 90°
+Dik açının ölçüsü 90° olduğundaen küçük değer 
+ 
+en büyük değe90° + 1° = 91° olur. 
+90° + 89° = 179° olur    x = 70° olurMatematik I2. BölüÜçgenleTümler, Bütünler AçılaTümler AçÖlçüleri toplamı 90° olan iki açıya tümler açılar denir. Birer ışını ortak olan tümler 
+açılara komşu tümler açılar denir4. Birinin ölçüsü diğerinin ölçüsünün iki katı olan tümler açılardan küçük olanınıölçüsü kaç derecedir?
+Çözü2s AOs AOs BO=
++
+%
+%
+%
+s AO=
++
+%
+            90°
+3=
+90°
+3=
+30=
+s AO30°
+=
+%
+ bulunurBütünler AçÖlçüleri toplamı 180° olan iki açıya bütünler açılar denir. Birer ışını ortak olan 
+bütünler açılara komşu bütünler açılar denir5. Komşu bütünler iki açıdan birinin ölçüsü 100°  olduğuna göre diğerinin ölçüsünbulalımÇözü100°
+AO%  ile BO%  komşu bütünler açılar olduğundan;
+s AO_s %
+%
+O+
+= 180°
+100° +
+= 180°
+x = 180° –100°
+x = 80° bulunurMatematik I2. BölüÜçgenleTers Açılar 
+Kesişen iki doğruda birbirine komşu olmayan açılara ters açılar denirYandaki şekilde;
+DO%  ile CO%  ters açılar,
+DO%  ile AO%  ters açılardırBirbirine ters olan açıların ölçüleri eşittir6. 
+80°
+Şekilde verilenlere göre x – y değerini bulalımÇözüBO% ile AO% , ters açılar olduğundan ölçüleri eşittir. Buna görs AOD =
+%
+%
+s O              y = 80° bulunurB, O ve D noktaları doğrusal olduğundan s BO_s %
+%
+O+
+= 180° dir. 
+80° + x = 180°
+          x = 180° – 80°
+          x = 100° bulunur    x – y = 100° – 80° olurMatematik I2. BölüÜçgenleParalel İki Doğrunun Bir Kesenle Yaptığı AçılaBirbirine paralel iki doğrunun bir kesenle yaptığı açılard iki doğru arasında kalan açılar iç açılar, dışında 
+kalan açılar dış açılardırİç Ters AçılaKomşu olmayan iç açılara iç ters açılar denir. Yukarıdaki şekilde;
+d ve f , e ve c açı çiftleri iç ters açılardırİç ters açı çiftlerinin ölçüleri eşittirDış Ters AçılaKomşu olmayan dış açılara dış ters açılar denir. Yukarıdaki şekilde;
+b ve h, a ve g açı çiftleri dış ters açılardırDış ters açı çiftlerinin ölçüleri eşittirYöndeş AçılaBirbirine paralel iki doğrunun bir kesenle yaptığı açılardan aynı yöne bakan açılara 
+yöndeş açılar denirYukarıdaki şekilde;
+a ve e, b ve f, c ve g, d ve h açı çiftleri yöndeş açılardırYöndeş açı çiftlerinin ölçüleri eşittir7. 
+d3x – d7140°
+d1 // d2 ise şekilde verilenlere görx + y toplamının değerini bulalımMatematik I2. BölüÜçgenleÇözü7y ile 140° ters açılar olduğunda  140° = 7140°
+=
+    y = 20° bulunur          3x – 10 ile 140° yöndeş açılar olduğunda          140° = 3x – 140° + 10° = 3150°
+=
+            x = 50° bulunurALIŞTIRMALA1. 2x + 70° açısı bir geniş açı olduğuna göre x 'in tam sayı değerinin en küçük ve ebüyük değerlerinin toplamı kaçtır?
+A) 45°
+B) 65°
+C) 85°
+D) 115°
+2. 
+2yx 2AO%  bir doğru açAO=
+%
+BOC =
+%
+CO=
+%
+DOE =
+%
+olduğuna göre x + y değeri kaçtır?
+A) 30°
+B) 40°
+C) 50°
+D) 60°
+3. Bütünlerinin ölçüsü 157° olan açının tümlerinin ölçüsü kaç derecedir?
+A) 23°
+B) 43°
+C) 57°
+D) 67°
+4. 
+ddd70°
+d1//d2 olduğuna göre x açısının ölçüsü kaç derecedir?
+A) 110°
+B) 100°
+C) 90°
+D) 70°
+Matematik I2. BölüÜçgenleÜçgen ÇeşitlerAçılarına Göre Üçgenle1. Dar Açılı Üçgeİç açılarının ölçüleri 90°den küçük olan üçgenlerdir70°
+50°
+60°
+45°
+62°
+73°
+AB&  dar açılı üçgendir. 
+KL&  dar açılı üçgendir2. Dik Açılı Üçgen (Dik Üçgen)
+Bir iç açısının ölçüsü 90° olan üçgendir. Dik üçgende 90° nin karşısındaki en uzukenara hipotenüs denir80°
+10°
+Hipotenü45°
+45°
+HipotenüHipotenü60°
+30°
+°
+s AC=
+%
+°
+s KM=
+%
+°
+s SP=
+%
+olduğundan 
+olduğundan  
+olduğundaAC&  dik üçgendir. 
+KM&  dik üçgendir. 
+PR&  dik üçgendirMatematik I2. BölüÜçgenle30° - 60° - 90° - Dik Üçgen60°
+30°
+AB&  (30° - 60° - 90°) dik üçgeninde 30° nin karşısındak kenarın uzunluğu hipotenüsün yarısıdır3. Geniş Açılı ÜçgeBir iç açısının ölçüsü 90° den büyük olan üçgenlerdir15°
+150°
+15°
+30°
+30°
+120°
+°
+s BA=
+%
+ olduğunda°
+s KL=
+%
+ olduğundaAB&  geniş açılı üçgendir. 
+KL&  geniş açılı üçgendirKenarlarına Göre Üçgenle1. Eşkenar Üçgen:
+Üç kenar uzunluğu birbirine eşit olan üçgenlerdir5 c5 c5 c60°
+60°
+60°
+7 c7 c7 c60°
+60°
+60°
+60°
+60°
+60°
+Matematik I2. BölüÜçgenle60°
+30°30°
+60°
+&
+ABC eşkenar üçgeninde 
+|AB| = |BC| = |CA| = a ve 
+[AD] = [BC] is|BD| = |DC| = 2 v|AD| = 3  olur2. İkizkenar Üçgen:
+İki kenarının uzunluğu birbirine eşit olan üçgenlerdir8 c6 c6 c5 c5 c2 c  |AB| = |BC| olduğundan 
+  |KM| = |KL| olduğunda&
+KM&
+ABC ikizkenar 
+ ikizkena     üçgendir. 
+     üçgendirİkizkenar Dik ÜçgeBir açısı 90° olan ikizkenar üçgene ikizkenar dik üçgen denir45°
+45°
+C 
+ABC dik üçgeninde |AB| = |AC| = b is|BC| = b 2  olurMatematik I2. BölüÜçgenle3. Çeşitkenar ÜçgeKenar uzunlukları birbirinden farklı olan üçgenlerdir8 c10 c15 c9 c10 c6 cKenar uzunlukları birbirinden farklı olduğu için AB& , TU&  ve PR&  birer çeşitkena üçgendirÜçgende Açı ÖzelliklerI. Üçgende iç açıların ölçüleri toplamı 180° dirα + β + θ = 180°
+°
+m m m +
++
+=
+^
+^
+^
+ dirÖRNEKLE150°
+85°
+ABC bir üçge°
+m BA=
+%
+°
+m AB=
+%
+ACB =
+%
+olduğuna göre x kaç derecedir? BulalımMatematik I2. BölüÜçgenleÇözüÜçgenin iç açıları ölçüleri toplamı 180° dir. Buna göre x i bulmak için verilen iki 
+açının ölçülerini toplayıp 180° den çıkarırız °
+m BAm ABm AC+
++
+=
+%
+%
+%
+ olduğunda50° + 85° +  x = 180°
+
+135° + x  = 180°
+x  = 180° – 135°
+x  = 45° bulunur2x+5°
+2x+15°
+2x+25°
+ABC bir üçgem BA5=
++
+%
+m AB15=
++
+%
+m AC25=
++
+%
+Yukarıda verilenlere göre m AC%  kaç derecedir?
+Çözü  
+°
+m m m +
++
+=
+^
+^
+^
+ 
+ x + 5° + 2x + 15°+ 2x + 25° = 180°
+x + 2x + 2x + 5° + 15° + 25° = 180°
+5x + 45° = 180°
+5x = 180° – 45°
+5x = 135°
+135°
+=
+x = 27° bulunurMatematik I2. BölüÜçgenleBulduğumuz x değerini istenen açı ölçüsünde yerine yazalım°
+m AC=
++
+%
+(
+°)
+m AC2 ·
+°
+=
++
+%
+°
+°
+m AC=
++
+%
+°
+m AC=
+%
+ bulunurII. Üçgende dış açıların ölçüleri toplamı 360° dira'
+c'
+b'
+a'+ b'+ c'= 360°
+m DA%
+%
+Fi+
++
+=
+E%
+CBi 
+360ÖRNEKLE1E 120°
+110°
+ABC bir üçgem DA110°
+=
+%
+°
+m CB=
+%
+m AC=
+%
+ dirYukarıda verilenlere göre m AC%  kaç derecedir?
+Çözü°
+m DAm CBm AC+
++
+=
+%
+%
+%
+          
+      110°    +      120°    +        x        = 360°
+       
+       230° 
++
+x        = 360°
+x = 360° – 230°
+x = 130° bulunurtirMatematik I2. BölüÜçgenle2. 
+846ABC bir üçgem DA=
+%
+GC=
+%
+EB=
+%
+ dirYukarıda verilenlere göre m EB%  kaç derecedir? BulalımÇözüm DAGCEB360+
++
+=
+%
+%
+%
+    8x + 4x + 6x = 360°
+       18x = 360°
+360°
+=
+           x = 20° bulunurEB=
+%
+ olduğundan x yerine 20 yazarsak;
+°
+m EB6 =
+%
+°
+m EB=
+%
+ bulunurIIIÜçgende bir dış açının ölçüsü kendisine komşu olmayan iki iç açının ölçülertoplamına eşittira + b m ACm BAm AB=
++
+%
+%
+%
+m AC=
++
+%
+ÖRNEKLE180°
+75°
+ABC bir üçge°
+m BA=
+%
+°
+m AB=
+%
+ACE =
+%
+ dirYukarıda verilenlere göre m AC%  kaç derece olduğunu bulalımtirtir20o yazarsak;
+Matematik I2. BölüÜçgenleÇözüBir üçgende bir dış açının ölçüsü, kendisine komşu olmayan iki iç açının ölçüleri 
+toplamına eşittirm BAm ABACE =
++
+%
+%
+%
+               x = 80° + 75°
+               x = 155° dirBİLGİ KUTUS    Şekildeki üçgende,
+m BKm BAm ABm AC=
++
++
+%
+%
+%
+%
+m BK=
++
++
+%
+Çözüm BEm ABm BAm AC=
++
++
+%
+%

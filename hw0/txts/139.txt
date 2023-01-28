@@ -1,0 +1,400 @@
+?
+? ve DE=
+ olduğun göre 
+(
+)
+m DA%   nün kaç derece olduğunu 
+bulunuz5. 
+Yukarıdaki şekilde verilen ABCD eşkenar 
+dörtgeninde A@ köşegendir. AE=
+@
+@, 
+,
+(
+)
+m AB=
+%
+ Ec=
+ olduğuna göre 
+AC  nun kaç cm olduğunu bulunuz6. 
+Yukarıdaki şekilde verilen ABCD eşkena dörtgeninde E noktası B@ köşegeni 
+üzrindedir. EA=
+@
+@, DE=
+; 
+Fc=
+, Bc=
+ olduğuna göre 
+ABCD eşkenar dörtgeninin alanının kaç cm2  
+olduğunu bulunuzALIŞTIRMALADörtgenler ve ÇokgenleDörtgenler ve ÇokgenleİpucBilgDikdörtgen ve Özellikler   
+                                              
+Açılarından biri 90c olan paralelkenara dikdörtgen denir. Dikdörtge aynı zamanda bir paralelkenardır ve paralelkenarın 
+özelliklerini taşır. Buna gör∙ ADC ve AB=
+=
+ 
+∙ 
+(
+)
+(
+)
+ABC$
+=
++
+ olurA? açıortay olduğundan 
+(
+)
+(
+)
+m DAm BA=
+=
+%
+%
+ olur. Bu durumda 
+ADK ikizkenar dik üçgendir. Açılarının ölçüleri -
+-
+c olan bir üçgend hipotenüs uzunluğu dik kenarların uzunluğunun 
+2  katı olacağından 
+ADc=
+=
+ olur. Buradan 
+(
+)
+(
+)
+(
+)
+ABCABc$
+$
+=
++
+=
++
+=
+ bulunur. 
+Bu ifadelerin doğruluğu aşağıdaki gibi gösterilebilirDikdörtgene ait köşegen uzunlukları eşittir. Şekildeki ABCD 
+dikdörtgeninde, 
+              ∙ AB=
+ 
+              ∙ ABCD=
+=
+=
+ olurYandaki şekilde ABD dik üçgen olduğundan Pisagor teoremi ilBAABB&
+&
+=
++
+=
++
+=
++
+ olurABC dik üçgen olduğundan Pisagor teoremi ile 
+ABAAA&
+&
+=
++
+=
++
+=
++
+ olurBu durumda köşegen uzunlukları eşittir ve şekle göre AB=
+ olurDikdörtgen aynı zamanda paralelkenar olduğundan köşegenler birbirini ortalar. Köşegenler ise 
+birbirine eşit olduğundan şekle göre ABCD=
+=
+=
+ olurYandaki şekilde verilen ABCD dikdörtgeninde A?, A köşesine ait açıortaydı. Acm ve Kc6 =
+=
+ ise ABCD dikdörtgeninin çevre uzunluğunu kaç cm olduğunu bulunuz6 6 Dörtgenler ve ÇokgenleDörtgenler ve ÇokgenleYandaki şekilde verilen ABCD dikdörtgeninde A@ köşegen 
+ve M! @, 
+AD+
+=
+@
+@
+"
+, , B! @ dır. 
+,
+(
+)
+m CA=
+%
+ 
+(
+)
+m DM=
+%
+ ve Bc=
+ olduğuna göre AB  nun kaç 
+cm olduğunu bulunuzB@ köşegeni çizilip dikdörtgende köşegenler birbirini ortaladığında AB=
+=
+ denilirse AOB ikizkenar üçgen ve 
+(
+)
+m DB=
+%
+ olurDB&  nde D ve M köşelerindeki iç açıların ölçüleri toplamı B köşesindeki dış açının ölçüsüne eşit  olduğunda 
+(
+)
+(
+)
+(
+)
+(
+)
+(
+)
+m MDm DMm DBm MDm MD&
+&
++
+=
++
+=
+=
+%
+%
+%
+%
+%
+ olur. Bu durumda DBM 
+ikizkenar üçgendir ve DB=
+=
+ olur. Buradan &
+=
+=
+ elde edilir-
+-
+c açılarına sahip AOB ikizkenar üçgeninde eşit uzunluktaki kenarlar x birim iken 120nin karşısındaki kenar uzunluğu x 3  birim olur. Bu durumda  -
+-
+c açıları olan AO&  nde 
+Ac2 =
+ bulunurYanda ABCD dikdörtgeni şeklindeki kağıt verilmiştir. Bu dikdörtgede Bc=
+ ve Dc=
+ dir. A! @ olmak 
+üzere D köşesi K@ boyunca A? üzerindeki bir Dl  noktasına 
+gelecek şekilde katlandığında oluşan şekilde ADl  nun kaç cm 
+olduğunu bulunuzD noktası Dl  noktası üzerine gelecek biçimde yandaki şekilde 
+verildiği gibi katlanırsa Cc=
+ olurD B, dik üçgen olduğundan Pisagor teoremi ile D c=
+ 
+olur. Bu durumda AD AD+
+=
+=
+ ise A+
+=
+ 
+olur ve Ac=
+ bulunurD′
+Dörtgenler ve ÇokgenleDörtgenler ve ÇokgenleİpucYandaki şekilde verilen ABCD dikdörtgeninde AC  köşegen, 
+,
+BA=
+?
+?  Kc=
+ ve Ac=
+ olduğuna göre DK  nun 
+kaç cm olduğunu bulunuzDA=
+?
+? olacak şekilde D? çizilir, DA=
+=
+ ve 
+DC=
+=
+ yazılırsa A.K.A. eşlik teoremi ile ADCB,
+&
+&  olduğunda ACc=
+=
+ elde edilirAD&  nde Öklid teoremi ile 
+DALDDDc3 &
+&
+&
+$
+$
+=
+=
+=
+=
+ olurBu durumda DL&  nde Pisagor teoremi il DDLDDDc3 &
+&
+&
+=
++
+=
++
+=
+=
+ bulunurBu eşitliğin doğruluğu aşağıdaki gibi gösterilebilirABCD dikdörtgeninin alanı 
+(
+)
+A ABCAB$
+=
+ olur    ABCD dikdörtgeni aynı zamanda paralelkenar olduğundan 
+A? dikdörtgeni eş alanlı iki bölgeye ayırır. Bu durumda 
+(
+)
+(
+)
+(
+)
+(
+)
+A ABCA ABA ABCABA ABCABC olmaktad ›
+&
+&
+$
+$
+=
+=
+=
+&
+ 
+Alanı 
+c2  ve köşegen uzunluğu 10 cm olan dikdörtgenin çevresinin uzunluğunun kaç cm olduğunu 
+bulunuzDörtgenler ve ÇokgenleDörtgenler ve Çokgenle(
+)
+A ABCa &
+$
+=
+=
+ olurABC dik üçgen olduğundan Pisagor teoremi ile +
+=
+ 
+ise  +
+=
+ elde edilir. a+
+=
++
++
+]
+ 
+özdeşliğinde a ve $
+=
++
+=
+ değerleri yerine yazılırsa 
+cm olu2 &
+&
+$
++
+=
++
++
+=
++
+=
+]
+]
+Bu durumda 
+(
+)
+(
+)
+ABCc2 $
+$
+=
++
+=
+=
+ bulunurYandaki şekilde verilen ABCD dikdörtgeninde K noktası A@ üzerinddir. DK=
+?
+?, Ac=
+ve Kc=
+ olduğuna göre 
+ABCD dörtgeninin alanının kaç cm2  olduğunu bulunuzYandaki şekilde verilen ABCD dikdörtgeninde A@ köşegen, 
+,
+DA=
+@
+@
+Dc=
+ ve Pc=
+ olduğuna göre ABCD dörtgeninin alanının 
+kaç cm2  olduğunu bulunuzŞekildeki AD&  nde Öklid teoremi ile 
+DAPAAAc&
+&
+&
+$
+$
+$
+=
+=
+=
+=
+ olurBu durumda köşegen dikdörtgeni iki eş parçaya ayırdığından  
+(
+)
+(
+)
+A ABCA ADADc20 $
+$
+$
+$
+=
+=
+=
+=
+&
+ bulunurKD=
+?
+? olacak şekilde K? çizilir. AKLD dikdörtgen olduğunda ADc=
+=
+ olur. KBCL dikdörtgen olduğundaKLc=
+=
+ olurDKC dik üçgeninde Öklid teoremi ilKDLKKKc2 &
+&
+&
+$
+$
+=
+=
+=
+=
+bulunurYukarıda verilen şekilde AKB'
+'
+?
+?
+? olduğundan 
+AKBcm olu=
+=
+=
+ Buradan 
+(
+)
+A ABCABc10 $
+$
+=
+=
+=
+ bulunurDörtgenler ve ÇokgenleDörtgenler ve ÇokgenleYandaki şekilde verilen ABCD dikdörtgen, ANB ve DLC birer üçgen 
+olup N ve L noktaları dikdörtgen üzerindedir. A! @, N! @ ve 
+(
+)
+A KLMc=
+ olduğuna göre 
+(
+)
+(
+)
+A DAA BM+
+&
+&  değerinin kaç cm2  
+olduğunu bulunuzAtatürk'ü çok seven Yağmur Hanım, evinin  girişinde buluna kare biçimindeki eş seramiklerle kaplanmış duvarın 
+yüzeyine, boyutları 330 cm ve 390 cm olan dikdörtgen 
+şeklinde Etem ÇALIŞKAN'a ait Atatürk resminin ve imzasını bulunduğu bir poster asmıştır. Duvara asılan poster, 
+duvarı tam olarak kapladığına göre bu duvar yüzeyinde 
+bulunan seramik sayısının en az kaç tane olduğunu bulunuzDuvarı kaplayan kare şeklindeki seramiklerin en az sayıda olabilmesi için bir seramiğin bir kenar uzunluğunu alabileceği en büyük değeri alması gerekir. Bu değer, 330 ile 390 un en büyük ortak böleni olan 30 
+cm dir. Bu durumda bir kenarı 30 cm olan seramik sayısı, posterin yüzey alanının eş olan bu karelerden 
+bir tanesinin yüzey alanına bölünmesi ile bulunur. Buradan seramik sayısı en az 
+30 330 $
+$
+=
+ tane 
+olurL? çizilerek ALND ve LBCN yamukları oluşturulurALND yamuğunda 
+(
+)
+(
+)
+A DAA KL=
+=
+&
+&
+ ve LBCN yamuğunda 
+(
+)
+(
+)
+A BMA LM=

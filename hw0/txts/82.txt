@@ -1,0 +1,400 @@
+C olayı ise “kağıtta 3 yazması” olarak belirleniyor. Bu olaylardan hangilerinin eş olası durumda olduğunu, 
+hangilerinin eş olası durumda olmadığını bulunuzVeri, Sayma ve OlasılıVeri, Sayma ve OlasılıBir zar atılması deneyinde aşağıda verilen olayların ayrık olaylar olup olmadığını bulunuza) Tek sayı gelme olayı ile çift sayı gelme olayı 
+b) Tek sayı gelme olayı ile asal sayı gelme olayı 
+a) Tek sayı gelme olayı 
+,
+,
+1 3 = "
+,  ve çift sayı gelme olayı 
+,
+,
+2 4 = "
+,  olmak üzere +
+=
+ 
+olduğundan bu iki olay ayrık olaydır. 
+b) Asal sayı gelme olayı 
+,
+,
+3 = "
+,  ve tek sayı gelme olayı 
+,
+,
+1 3 = "
+,  olmak üzere 
+3, =
++
+!
+"
+,
+ olduğundan bu iki olay ayrık olmayan olaydır. 
+Bir kutuda bulunan 10 farklı toptan 2 si sarı, 3 ü kırmızı ve 5 i mavidir. Bu kutudan 
+a)  Rastgele 1 top çekilmesi deneyine ait örnek uzayın eleman sayısını bulunuzb)  Rastgele 2 topun bir defada çekilmesi deneyine ait örnek uzayın eleman sayısını bulunuzc)  3 top çekilmesi deneyinde çekilen topların 1 sarı, 1 kırmızı ve 1 mavi olması olayının eleman sayısın bulunuza) Torbadaki 10 farklı toptan 1 topun çekilmesi deneyine ait örnek uzayın eleman sayısı, 
+olu=
+ 
+b) Torbadaki 10 farklı toptan 2 topun bir defada çekilmesi deneyine ait örnek uzayın eleman sayısı, 
+=
+ olurc) 1 sarı, 1 kırmızı ve 1 mavi topun bir defada çekilmesi deneyindeki olayın eleman sayısı,
+     
+2 3 $
+$
+$
+$
+=
+=
+ olurBilim İnsanlarPierre de Laplace 
+(Piyer Dö Laplas)
+Marquis Pierre-Simon de Laplace (1749-1827)
+Fransız matematikçi Pierre de Laplace (Piyer Dö Laplas), 1812’de Théori Analytique des Probabilités (Teori Analitik De Probabilite) (Analitik Olasılı Kuramı) adlı kitabında bir dizi yeni fikir üretmiş ve matematik tekniği 
+ortaya çıkarmıştır. Laplace’dan önce olasılık teorisi sadece şans oyunlarını matematiksel bir analizi ile ilgili olarak görülüyordu. Laplace olasılıkla 
+ilgili fikirlerini birçok bilimsel ve pratik probleme uygulamıştır. 
+Matematiğin pek çok dalında olduğu gibi olasılık teorisinin geliştirilmesi de 
+Laplace’ın çeşitli uygulamalarıyla tetiklenmiştir. İstatistik, genetik, psikoloj, ekonomi ve mühendislik gibi alanlar olasılığın önemli birer uygulama 
+alanıdır           
+DüzenlenmiştirVeri, Sayma ve OlasılıVeri, Sayma ve OlasılıBilim İnsanlarİlk Şifre Çözme Teknikleri ve Bilgin El KindŞifreleme tarihi 3500 yıl öncesine kadar uzanır. Şifre kelimesi İngilizce “cipher” (sayfır) olarak yazılı ve Arapçadaki “sıfr” yani sıfır kelimesinden gelir. Birkaç şifreleme örneği verilecek olursa şunlarda bahsedilebilir: Roma İmparatoru Julius Caesar (Culius Sezar) MÖ 60-50 yıllarında Roma 
+alfabesindeki harflerin yerini değiştirerek oluşturduğu şifreleme yöntemini devlet haberleşmesinde 
+kullanmıştır. Bu yöntem, şifrelenecek metindeki her harfin alfabede kendisinden 3 sonraki harfle 
+değiştirilmesiyle elde edilmiştir. 
+Diğer bir şifreleme yöntemi ise her harfe bir sayı belirleyen “ebced” hesabıdır. Ebced hesabı 
+harflere sırasıyla bir sayı değeri verilmesiyle meydana getirilen bir hesaplama sistemidir ve daha 
+çok tarih belirtmekte kullanılmıştır. Cümledeki harflerin ebced tablosundaki sayısal karşılığı ile bir 
+olayın tarihini belirlemeye tarih düşürme denir. Bir başka yöntem Almanların 2. Dünya Savaşı’nda 
+Scherbius (Şerbius) tarafından icat edilmiş yer değiştirme ile şifreleme prensibine dayanan Enigm makinesini kullanmasıdır. Bu makine ile gerçekleştirilen Alman ordusuna ait şifreleme sistemi, 
+İngilizler tarafından kırılarak savaşta İngilizlere üstünlük sağlayan önemli bir faktör olmuştur. 
+Yukarıda belirtilen şifreleri tasarlayanların yanı sıra bu şifrelerin zayıf yönlerini bulmaya çalışanlar 
+da vardı. Anahtara sahip olmadan şifrelenmiş bir mesajı deşifre etme bilimi olan kriptoanaliz, ilkel 
+şifrelerin kırılma çabalarıyla ortaya çıkmıştır. Bu basit şifre sistemlerini, olası tüm şifre alfabelerin denemeden daha kolay bir yolla çözebilmek için matematik, istatistik ve dil bilimi alanlarında 
+yeterli bilgiye sahip olmak gerekiyordu. Abbasi döneminin yaşandığı yıllarda Araplar, birçok bilim 
+alanında ileri seviyedeydi. Aynı zamanda kriptoanaliz için gerekli olan matematik, istatistik ve dil 
+bilimi alanlarında önemli çalışmalar yapıyorlardı. Bu bilim dallarının gelişmiş olması, kriptoanalizin 
+Araplar tarafından bulunmasını sağladı ve bu alandaki ilk eserler Araplar tarafından yazıldı. Bunlarda ilki 9. yüzyılda yaşamış Arap filozofu El-Kindî’nin yazdığı “Kriptografik Mesajların Deşifresi” 
+isimli yazıdır. 
+El-Kindî’nin bu yazısı İstanbul’da, Süleymaniye Osmanlı Arşivinde bulunmaktadır ve kriptoanaliz 
+üzerine yazılmış ilk makale olup El-Kindî bu makalede frekans analizi kavramını ortaya atmıştır. 
+Frekans analizi bir dildeki harflerin tekrarlanma oranının hesaplanmasına dayanır. El-Kindî’nin 
+kriptoanaliz tekniği şöyle özetlenebilir: 
+Yazıldığı dil bilinen şifreli bir mesajı çözmek için aynı dilde yazılmış yeterince uzun bir metin bulup 
+her bir harfin kullanım sıklığını hesaplamak gereklidir. Metinde en sık kullanılan harf, şifreli mesajdak en sık kullanılan harfe denk gelmektedir. Aynı işlem, sırasıyla diğer harfler için de yapılır. 
+Bu işlem bittikten sonra mesajdaki harfler ortaya çıkmış olur. El-Kindî, bu kriptoanaliz yöntemine     
+frekans analizi adını vermiştir. Bu adın verilmesinin sebebi ise bir dildeki her harfin bir kullanım 
+sıklığının (frekans) olmasıdır. Bir harfin frekansı yeterince uzun metinler seçilerek bulunur ve 
+frekans o harfin kaç kez kullanıldığının metindeki toplam harf sayısına bölümüdür. Bu sayı küçük 
+sapmalar gösterebilir fakat harflerin frekanslarının kendi aralarındaki büyüklük sırası genellikle 
+değişmez (Çimen, 2009, s. 29-33; http://www-history.mcs.st-and.ac.uk/Biographies/Al-Kindihtml)DüzenlenmiştirVeri, Sayma ve OlasılıVeri, Sayma ve Olasılı1. Bir zar ile bir madenî paranın birlikte atılması  
+deneyine ait iki farklı basit olay yazınız. 
+                             
+2.  n tane madenî para atılması deneyinde örnek 
+uzayın eleman sayısı 44  olduğuna göre n 
+değerini bulunuz. 
+3. 5 kız ve 4 erkekten oluşan bir gruptan 2 kişi 
+seçilecektir. Buna göra) Örnek uzayın eleman sayısını bulunuz           
+b) Seçilecek 2 kişinin 2 sinin de kız olması 
+olayının eleman sayısını bulunuz      
+c) Seçilecek 2 kişinin 2 sinin de erkek olması 
+olayının eleman sayısını bulunuz4. Bir torbada kırmızı, mavi ve sarı bilyeler 
+bulunmaktadır. Torbadan çekilen bir bilyenin 
+mavi olması olayı ile sarı olması olayının 
+ayrık olaylar olup olmadıklarını bulunuz5.  A şehrinden B şehrine uğrayarak C şehrine 
+gitmek isteyen birisi aşağıdaki bilgilere 
+ulaşıyorI. A şehrinden B şehrine hava, kara 
+ve demir yolu olmak üzere üç farklı 
+seyahat seçeneği vardırII. B şehrinden C şehrine kara ve demir 
+yolu olmak üzere iki farklı seyahat 
+seçeneği vardır. 
+Hava yolu H, kara yolu K, demir yolu D 
+olmak üzera) Bu kişinin seyahatinde tercih edebileceği 
+tüm durumların kümesini (örnek uzayı) 
+yazınız ve eleman sayısını bulunuz    
+b) A olayı 
+, K), (K,
+{(
+)}
+=
+ olduğuna 
+göre  Al  olayını yazınızc) Bu örnek uzaya ait bir C olayı için 
+(
+)
+s =
+ olduğuna göre  s(C) nı 
+bulunuz.  
+6. Bir raptiye atılması deneyinde raptiyenin dik 
+gelmesi durumu ile yatık gelmesi durumunun 
+eş olası durumlar olup olmadığını irdeleyinizTürk alfabesindeki her harfin sırasının değiştirilmesi ile tersten şifreleme yapılsın. Yani A harfi 
+yerine Z harfi, B harfi yerine Y harfi kullanılsın. Örneğin MASA sözcüğü KZGZ şeklinde şifreleniSiz de aşağıdaki ifadeyi yukarıdaki şifre çözme yöntemini kullanarak çözünüz                        
+       PZBZEÖJ FOŞĞTGOJO KZETKZEOM ÜIATALIŞTIRMALAVeri, Sayma ve OlasılıVeri, Sayma ve OlasılıBilgHer bir çıktısının gelme şansı eşit olan örnek uzay E ve bu örnek uzayın bir olayı A olmak üzer A olayının gerçekleşme olasılığı P(A) ile gösterilir. Burada( )
+( )
+( )
+P rnek uzay n eleman say A olay n n eleman say s s ›
+› ›
+› ›
+› ›
+=
+=
+ ile bulunurBu durum eş olası olmayan olaylar için geçerli değildirBir A olayının olma olasılığı en az 0, en çok 1 olur. 0 ≤ P(A) ≤ 1 olurOlasılığı 0 olan olaylara imkânsız olay, 1 olan olaylara kesin olay denirİpucBir para atma deneyinde elde edilen basit olayların olasılıkları eşit ise bu para hilesizdir denir. 
+Aynı durum zar atma deneyi için de geçerlidir10.1.2.2. Olasılık Kavramı ile İlgili UygulamalaÖrnek uzay 
+, 2, 3, 4, 5, 6}
+{
+=
+ ve ( )
+s =
+ olura) A olayı, zarın üst yüzüne 3 gelmesi ise 
+{ }
+=
+ ve ( )
+s =
+ olur. P(A)
+s(E)
+s(A)
+=
+=
+ olurb) B olayı, zarın üst yüzüne 4 gelmesi ise 
+{ }
+=
+ ve ( )
+s =
+ olur. P(B)
+s(E)
+s(B)
+=
+=
+ olurc) Zarda üst yüze gelen sayının 7 olması olayı boş küme olduğundan imkânsız olaydır. Bu olayın 
+olasılığı 
+s olu=
+=
+^
+^
+" ,
+ 
+ç) 7 den küçük pozitif tam sayı gelme olayı, C ise 
+, 2, 3, 4, 5, {
+}
+=
+ ve ( )
+s =
+ olur. =
+ 
+olduğundan C olayı kesin olaydır ve P(C)
+s(E)
+s(C)
+=
+=
+=
+ olurYukarıda verilen örnekteki hilesiz zar deneyinde her sayının gelme olasılığı eşit olduğundan 
+( )
+( )
+P P =
+ olur. 
+Buradan A ve B olayı için eş olası durum söz konusudurHilesiz bir zarın havaya atılması deneyinda)  Üst yüze gelen sayının 3 olma olasılığını bulunuzb)  Üst yüze gelen sayının 4 olma olasılığını bulunuzc)  Üst yüze gelen sayının 7 olma olasılığını bulunuzç)  Üst yüze gelen sayının 7 den küçük bir pozitif tam sayı olma olasılığını    
+     bulunuzVeri, Sayma ve OlasılıVeri, Sayma ve OlasılıBilg• A ve B ayrık iki olay ise  A veya B olayının olma olasılığı bu olayların olasılıkları toplamıdır   
+(
+)
+P A veya B =
+(
+)
+P ( )
+( )
+P P =
++
+ olur• A ve B ayrık olmayan iki olay ise           
+     
+(
+)
+P A veya B =
+(
+)
+P ( )
+( )
+P P =
++
+-
+(
+)
+P +
+ olur2, 3, A = "
+, , 
+1, 3, B = "
+,  olur. 
+‘‘A ve B olayı’’ bir deneyde hem A hem de B olayının gerçekleşmesi olayıdır. Buradan 
+A ve B olayı, 2, 3, 1, 3, 3, =
+=
++
++
+"
+"
+"
+,
+,
+,  olur‘‘A veya B olayı’’ bir deneyde A olayı veya B olayının gerçekleşmesi olayıdır. BuradaA veya B olayı, 2, 3, 1, 3, 3, ,
+,
+1 =
+=
+,
+,
+"
+"
+"
+,
+,
+,  olurBir yüzeyi beyaz, iki yüzeyi mavi ve üç yüzeyi kırmızı olan bir zar atılıyor. Bu zar atma deneyi içia) Üst yüze mavi gelmesi olasılığını bulunuzb) Üst yüze kırmızı gelmesi olasılığını bulunuzAlınan topun sarı olması olayı S, beyaz olması olayı B ile gösterilsin. Bu top aynı anda hem sarı hem de 
+beyaz olamayacağından bu olaylar ayrık olaylardırBu kutudaki 10 toptan 2 si sarı olduğundan P(S)
+=
+ ve 5 i beyaz olduğundan P(B)
+=
+ olurAlınan topun sarı veya beyaz olma olasılığı ise 
+(
+)
+P sar veya beya›
+=
+(
+)
+( )
+( )
+P P P ,
+=
++
+=
++
+=
+ olura) 6 yüzeyden 2 si mavi olduğundan üst yüze mavi gelme olasılığı =
+ olurb) 6 yüzeyden 3 ü kırmızı olduğundan üst yüze kırmızı gelme olasılığı =
+ olurBir kutuda bulunan 10 özdeş toptan 2 si sarı, 3 ü mavi ve 5 i beyazdır. Bu kutudan rastgele alınan bir 
+topun sarı veya beyaz olma olasılığını bulunuzBir zar atma deneyinde asal sayı gelme olayı A, tek sayı gelme olayı B olsun. Buna göre A ve B olayı ile 
+A veya B olaylarını bulunuzVeri, Sayma ve OlasılıVeri, Sayma ve Olasılı35 kişilik bir sınıftaki öğrencilerden 20 si kız öğrencidir. Kız öğrencilerin 12 si, erkek öğrencilerin 10 u 
+matematik dersinden geçmiştir. Buna göre bu sınıftan rastgele seçilen bir öğrencinin erkek veya matematikte kalan bir öğrenci olma olasılığını bulunuz,
+,
+, 1,
+{
+}
+= -
+-
+-
+ kümesinden rastgele seçilen iki sayının çarpımının pozitif bir sayı olma olasılığın bulunuz2a14 rakamları birbirinden farklı dört basamaklı bir doğal sayıdır. Bu şartı sağlayan tüm 2a14 sayıları 
+arasından rastgele seçilen bir sayının 3 ile tam bölünen bir sayı olma olasılığını bulunuzÖrnekteki veriler tablo hâlinde aşağıdaki gibi gösterilebilir. 
+Matematik 
+dersinden geçeMatemati dersinden kalaKıErkeTablo yardımıyla erkek olan veya matematik dersinden kalanların oluşturduğu kümenin eleman sayısının 
++
++
+=
+ olduğu bulunur. Sınıf mevcudu 35 olduğundan bu sınıftan rastgele seçilen bir öğrencinin 
+erkek veya matematikten kalan bir öğrenci olma olasılığı 23  olarak bulunur3,
+2,
+1, 1, A = -
+-
+-
+"
+, , ( )
+s =
+ olur. A kümesinin tüm negatif elemanlarından oluşan küme B, tüm 
+pozitif elemanlarından oluşan küme C olsun. 
+Buradan 
+3,
+2,
+B = -
+-
+-
+"
+, , ( )
+s =
+ v1, C = "
+, , ( )
+s =
+ olurİstenen olay, ‘‘seçilen iki sayının çarpımının pozitif olması’’ dır. Bunun için B den veya C den ikişer elema seçilmelidir. B den ve C den birer eleman seçerek oluşturulan kümenin elemanları çarpımı negatif 
+olacağından istenen durum değildir. İstenen olayın eleman sayısı, B den veya C den ikişer eleman seçilmes durumlarının sayısıdır. 
+3, 2, (
+)
+(
+)
++
+=
++
+=
+ seçilen iki sayının çarpımının pozitif olduğu durumların sayısıdır. Örnek 
+uzayın eleman sayısı A kümesinin 2 elemanlı alt kümeleri sayısıdır. Bu alt kümeler 
+5, (
+)
+=
+  tanedirBöylece istenen olayın olasılığı =
+ olurRakamları birbirinden farklı 2a14 şeklindeki dört basamaklı sayıların kümesi,
+4, 2314, 2514, 2614, 2714, 2814, {
+}
+=
+ ve ( )
+s =
+ olurRakamları toplamı 3 ün katı olan sayılar üç ile tam bölünmektedir. Bu durumu gösteren olaya A denilirs4, {
+}
+=
+ ve ( )
+s =
+ olup A olayının gerçekleşme olasılığı,  
+( )
+P =
+ olurVeri, Sayma ve OlasılıVeri, Sayma ve Olasılı122 333 sayısındaki rakamların yerleri değiştirilerek oluşturulan 6 basamaklı farklı sayılardan herhangi 
+biri seçiliyor. Seçilen sayının 122 333 olması olasılığını bulunuzBir atıcının atış yaptığı bir hedefi vurma olasılığı 4  tür. Atıcının bu hedefi vuramama olasılığının yüzde 
+kaç olduğunu bulunuzHileli bir madenî parada yazı gelme olasılığı tura gelme olasılığının 3 katıdır. Bu hileli parayı atma deneyind yazı ve tura gelme olasılıklarını bulunuzİpuc122 333 sayısının rakamlarının yerleri değiştirilerek oluşturulan 6 basamaklı farklı sayılar 
+!
+!
+!
+!
+$
+$
+=
+ 
+tane olduğundan örnek uzay 60 elemanlıdır. Bu sayılardan sadece 1 tanesi 122 333 şeklindedir. Bu olaya 
+A denilirse 122 = !
++   ve ( )
+s =
+ olur. Bu durumda A olayının gerçekleşme olasılığı,
+( )
+( )
+( )
+P s s =
+=
+ olurSeçilecek katsayılar, açılımdaki terimlerin katsayıları olan   
+,
+,
+,
+,
+,
+=
+=
+=
+=
+=
+=
+ olduğundan bu katsayılar örnek uzayı oluşturu. Buradan  örnek uzayın eleman sayısı 6 dır. Seçilen terimin katsayısının 10 dan küçük olması olayına 
+ait elemanlar 1, 5, 5, 1 olmak üzere 4 tanedir. Bu durumda istenen olasılık,
+rnek uzay n eleman say stenen olay n eleman say ›
+› ›
+‹
+›
+› › =
+=
+ olurÖrnek uzayın herhangi bir A olayının tümleyeni Al  olmak üzere 
+( )
+(
+)
+P P +
+=
+ olury +
+^
+h  açılımındaki terimlerden herhangi biri seçiliyor. Seçilen terimin katsayısının 10 dan küçük olması 
+olasılığını bulunuzAtıcının hedefi vurma olayına A denilirse vuramama olayı Al  olacaktır( )
+P P =
+-
+=
+-
+=
+^
+ olur. 
+Buradan =
+ olduğundan atıcının hedefi vuramama olasılığı %20  olurVeri, Sayma ve OlasılıVeri, Sayma ve OlasılıYazı gelme olayının olasılığına 
+( )
+P Y , yazı gelme olayının tümleyeni olan tura gelme olayının olasılığına 
+( )
+P T  denilirse 
+( )
+( )
+P P 3 $
+=
+ olur. Bu durumd 
+( )

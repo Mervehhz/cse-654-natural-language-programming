@@ -1,0 +1,400 @@
+& 5 olur&
+4 olur-
+:
+Matematik &
+&
+&
+lolololo#
+#
+#
+#
++
++
++
+]
+]
+Ayrıca logaritmanın tanımı gereği &
++
+-
+ olmalıdır. 
+Bu durumda çözüm kümesi 
+,
+1 Ç = ^
+? bulunurlo-
++
+ eşitsizliğinin çözüm kümesini bulunuzlolololo-
++
++
++
+]
+]
+ eşitsizliğinin çözüm kümesini bulunuzlolololololo6 &
+$
+-
++
++
++
+-
++
+]
+]
+]
+]
+]
+@
+&
+&
+-
+-
+loloolu&
+&
+-
+Ayrıca logaritmanın tanımı gereği ve -
++
+ koşulları da sağlanmalıdır. Bu iki 
+koşuldan >
+ olur. Bu durumda 1, = ^
+h bulunurAyrıca logaritmanın tanımı gereği 
+-
++
+] g olmalıdır. 
+(1) ve (2) eşitsizlikleri için işaret tablosu oluşturulurslo&
+-
++
+-
++
+&
+-
++
+-
++
+-
++
+-
+-
+bulunu&
+&
+-
+] lo#
++
+]
+ eşitsizliğinin çözüm kümesini bulunuz-
+-
+-
+-
+-
++
+z m k mesçö 444 z m k mesçö 444 ,
+,
+bulunu,
+=
+-
+-
+^
+^
+-
+-
+-
+-
++
++
++
++
+ÇÖZÜÇÖZÜÇÖZÜÖRNEÖRNEÖRNEÜstel ve Logaritmik 
+Fonksiyonla1.3.2. Gerçek Hayat Durumları ile İlgili Üstel ve Logaritmik Fonksiyon  
+          ProblemlerRadyoaktif bir maddenin yarılanma süresi, başlangıçta mevcu olan çekirdeklerin yarısının bozunması için geçen süredir. 
+Bir radyoaktif çekirdeğin birim zamandaki bozunma olasılığına 
+radyoaktif bozunma sabiti adı verilir ve “m” (Lambda) ile gösterili. Bu durumda radyoaktif bir maddenin yarılanma süresln =
+ formülüyle hesaplanır 
+ 
+ 
+ 
+ 
+     (Eliot ve Young, 1959)
+Bir radyoaktif maddenin yarılanma süresi 18 yıl olduğuna göre m bozunma sabitinin yaklaşık değerin bulunuz. (
+,
+)
+ln0 ,
+ 
+Radyoaktif bir maddenin başlangıçtaki miktarı N0 (gram), bozunması sonucu kalan madde miktarı 
+N (gram) ve  zaman t (saat) olmak üzere e sabiti kullanılara 
+ 
+ 
+ 
+ 
+denklemi ile modellenmektedir. Buna göre başlangıçta 1365 gram olan bir radyoaktif maddeden 
+120 saat sonra kaç gram kalacağını bulunuz$
+=
+$
+-
+68 g bulunu,
+$
+=
+-
+1365 120 saaN0 =
+=
+&
+1365 $
+$
+=
+=
+$
+$
+-
+-
+,
+&
+ln 0,=
+0,0,0385 bulunur&
+&
+,
+,
+Genlik, bir dalganın normal konumundan yükselme ve alçalma mesafesidir. Uzanımın en 
+büyük ve en küçük olduğu konumlar diye tarif edilebilir. Genlik, dalgayı ortaya çıkaran enerjini miktarına bağlıdır. Dalganın enerjisi artarken genlik de artar. Depremin büyüklüğü artars meydana gelen dalga dolayısıyla genlik de artar. Depremin büyüklüğü deprem merkez 
+üssünden 100 km uzaklıktaki sismograf tarafından kaydedilen dalgaların maksimum genliklerinde yararlanılarak hesaplanırMikron cinsinden ölçülen maksimum genliğe d ve depremin Richter ölçeğine göre büyüklüğün R denilirse 
+lo=
+ ile hesaplanır. 
+(Kılıçkaya, 1996)
+G rsel 1 ÇÖZÜÇÖZÜÖRNEÖRNEM-
+M+
+C+
+:
+M-
+M+
+C+
+:
+Matematik 17 Ağustos 1999, saat 03.02’de meydana gelen merkez üssü 
+Kocaeli’nin Gölcük İlçesi olan ve 45 saniye süren deprem; Kocael, Gölcük, Düzce, Sakarya, İstanbul ve Yalova’da büyük can 
+ve mal kaybına neden oldu. Depremde resmî verilere göre 17 
+bin 480 kişi hayatını kaybederken on binlerce kişi de yaralandıBu zor günlerde vatandaşlarımız her zaman olduğu gibi yine bir 
+araya geldi ve kenetlendi. Ülkemizin her yerinden bölgeye gönderilme üzere insani yardım toplandı. Birçok kişi deprem bölgesin giderek enkaz kaldırma çalışmalarına katıldı. Acil olarak 
+kana ihtiyaç duyan hastalara kan vermek için hastanelerin önünde uzun kuyruklar oluştu. Türk 
+milleti daha önce olduğu gibi bu depremde de yardımsever bir millet olduğunu herkese gösterdi. 
+Bu depremin ölçülen maksimum genliği yaklaşık 25 m olduğuna göre depremin büyüklüğünün  
+Richter ölçeğine göre yaklaşık kaç şiddetinde olduğunu bulunuz. 
+,
+log0 ,
+^
+Maksimum genliği 90 mm olarak ölçülen bir depremin Richter ölçeğine göre büyüklüğünü yaklaşık 
+olarak bulunuz. 
+,
+lovmmikro0 ,
+=
+`
+j 
+&
+log,
+,
+lololololommikroolu25 0 1 &
+&
+&
+&
+&
+$
+$
+$
+,
+,
+=
+=
+=
+=
+=
++
+=
++
+=
++
++
++
+mikro25 25 $
+$
+$
+lo25 &
+$
+=
+^
+&
+,
+lolololololololommikromikron olu90 9 9 2 0 4 $
+$
+$
+$
+$
+,
+=
+=
+=
+=
+=
++
+=
++
+=
++
++
+,
+olu0 ,
+,
++
+O hâlde bu depremin Richter ölçeğine göre büyüklüğü yaklaşık olarak 5 şiddetinde bulunur&
+,
+olu7 ,
+G rsel 1 ÇÖZÜÇÖZÜÖRNEÖRNEO hâlde 17 ağustos depreminin Richter ölçeğine göre büyüklüğü yaklaşık olarak 7,4 şiddetinde 
+bulunurÜstel ve Logaritmik 
+FonksiyonlaCanlı bir örneğin %20 si kadar Carbon 14 içeren bir fosilin,
+a) Yaşını yaklaşık olarak bulunuzb) Yaklaşık olarak kaç yıl sonra Carbon 14 oranının %20 den %10 a düşeceğini bulunuz    
+,
+log0 ,
+^
+=
+=
+logloglogloglogloglog0,0,0,0,,
+,
+lololovolu0 &
+&
+&
+&
+&
+$
+$
+$
+$
+,
+,
+,
+,
+-
+-
+-
+=
+=
+=
+-
+= -
++
+-
+-
++
+-
+^
+^
+^
+^
+Buna göre fosilin yaşı yaklaşık olarak 13 370 bulunur&
+5730 loglog log )
+lo$
+$
+=-
+=-
+=
+5730 loglog$
+-
+=
+Canlı iken kemikte bulunan Carbon (Karbon) 14 adıyla anılan 
+atomlar canlının ölümünden sonra düzenli bozunarak Carbon 
+12 atomu hâline dönüşürler. 5730 yılda bozunmayan Carbon 
+14 atomlarının sayısı yarıya iner. Diğer yarısı Carbon 12 atom hâline dönüşür. Bu süreye yarılanma süresi denir. Kemik 
+fosilindeki bu iki cins atomların miktarları ölçülerek canlının 
+yaklaşık kaç yıl önce öldüğü anlaşılabilmektedir. Carbon 14 
+atomlarının zaman içinde yarılanma süresüstel fonksiyonu ile hesaplanır. Burada x, yıl olarak zamanı belirtirken y de Carbon 14 miktarını, tüm karbonların miktarına oranını göstermektedir. Bu eşitlik düzenlenerek bir fosilin yaşdenklemi ile modellenebilmektedir 
+ 
+ 
+ 
+           (Üstel Fonksiyon ve Logaritma Fonksiyonu, www.eba.gov.tr)
+G rsel 1 ÇÖZÜÖRNE&
+5730 loglog log loglo0,,
+,
+)
+lololololov0 &
+&
+&
+%
+%
+%
+$
+$
+$
+$
+,
+,
+,
+-
+-
+=
+=
+=
+=-
+=-
+=-
+-
+^
+Bu durumda fosildeki Carbon 14 oranı -
+=
+ yıl sonra %10 a düşerMatematik Asidik veya bazik olmayan bir çözeltide hidrojen iyonunun derişimini bulunuzpH, bir sulu çözeltideki H+  (hidrojen iyonu) konsantrasyonunu  
+veren bir değerdir. 
+1 litre çözeltideki çözünmüş maddenin mol sayısına derişim 
+denir ve birimi mol/L dir. Hidrojen iyonunun derişimi H+
+A 
+olmak üzerformülü ile bir çözeltinin asidik veya bazik olduğu belirlenir. 
+Eğer p ise çözelti asidik, p=
+ ise çözelti nötral ve p ise çözelti bazik olurBulunan pH değeri 7 den küçük olduğundan bu çözelti asidik bir çözeltidirpH değeri 4 olan bir portakaldaki hidrojen iyonunun derişimini bulunuzplolo&
+=-
+=-
++
++
++
++
+-
++
++
+& loloplo=-
+=-
+=-
+&
+/
+bulunurmol =
+lopH =-
++
+&
+lo=-
++
++
+-
+&
+bulunur=
+/
+ol &
+plolo7 =-
+=-
++
++
+G rsel 1 Bir çözeltideki hidrojen iyonunun derişimi =
+-
++
+ mol/L olduğuna göre bu çözeltinin pH 
+değerini bulunuz ve asidik veya bazik olduğunu belirleyinizplolop&
+=-
+=-
++
+-
+ppbulunu&
+&
+=- -
+=
+log^
+ÇÖZÜÇÖZÜÇÖZÜÖRNEÖRNEÖRNEÜstel ve Logaritmik 
+FonksiyonlaBuna göre gürültü yaklaşık olarak 6 dB artar10lo10lo=
+-
+410log 410log10log10log10log 410log,
+lololololoIogIog10 0 $
+,
+,
+=
+=
+=
+=
+=
+-
+-
+-

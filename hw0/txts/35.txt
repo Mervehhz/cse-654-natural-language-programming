@@ -1,0 +1,400 @@
++
++
+Matematik I2. Bölü•
+Üçgenlerde eşlik kurallar1. Kenar – kenar – kenar ( K. K. K.)
+2. Kenar – açı – kenar ( K. A. K.)
+3. Açı – kenar – açı (A. K.A.) şeklindedir• Üçgenlerde benzerlik kurallar1. Kenar – kenar – kenar ( K. K. K.)
+2. Kenar – açı – kenar ( K. A. K.)
+3. Açı – kenar – açı (A. A.A.) şeklindedir• Temel Orantı Teorem//
+DBDE diBAAE =
+=
+@
+@
+• Thales Teoremddd//
+//
+MMN diBANMN veya AAd=
+=
+• İç Açıortay Teorem•
+Dış Açıortay TeoremADA=
+AB = C• Kenarortay TeoremV44444444 +
++
+VVVKenarortayların kesim noktası G'ye 
+üçgenin ağırlık merkezi denirAGGCGBdi=
+=
+=
+BÜçgenleMatematik I2. BölüÜçgenle• Dik Üçgende kenarortaA=
+=
+• Yükseklihhhh• İkizkenar ÜçgendAEBKAC isdi=
++
+=
+=
+• Eşkenar ÜçgendF •
+ıd KKKA+
+=
++
+• Kenar uzunlukları tam sayı olan dik üçgenlerin kenarları arasındaki bağıntı aşağıdak gibidirMatematik I2. Bölü• Öklid Teorem444444444 p p p k k h b $
+$
+$
+$
+$
+=
+=
++
+=
+=
++
+=
+=
+^
+^
+•
+Dik üçgende dar açıların trigonometrik oranları aşağıdaki gibidirsicotaco=
+=
+=
+=
+• Birim Çemberx2 + y2 = 3(x, y)
+,0 ^
+,1 ^
+,-
+^
+,1 –
+^
+• Bazı açıların trigonometrik değerleri aşağıdaki gibidir30°
+45°
+60°
+120°
+135°
+150°
+sico– – – ta–
+––
+co–
+––
+,
+,
+,
+ÜçgenleMatematik I2. BölüÜçgenle• Bir üçgenin alanı aşağıdaki yöntemlerle hesaplanırh44444444444 A ABa $
+=
+&
+A AB$
+$
+=
+=
+&
+h44444444444 hA ABa $
+=
+&
+siA ABb 1 $
+$
+$
+=
+&
+• Eşkenar Üçgenin alanA AB2 $
+=
+&
+• Bir üçgende alan dağılımı aşağıdaki gibidir~
+~
+~
+~
+• Benzer üçgenlerin alanlarının oranı aşağıdaki gibidirA A ADBAABD=
+=
+=
+&
+&
+Matematik I2. Bölü2. BÖLÜM ÖLÇME VE DEĞERLENDİRME SORULAR1. 
+23120o – ABC bir üçgem ABm BC120° –
+=
+=
+=
+m BA%
+%
+olduğuna göre x kaç derecedir?
+A) B) C) D) 237°
+69°
+24°
+Şekildeki ABC üçgenind°
+°
+°
+m ABm BAm ACm BK=
+=
+=
+=
+%
+%
+%
+%
+olduğuna göre x kaç derecedir?
+A) B) C) D) 3ABC ve EDC birer üçge,
+,
+,
+,
+ABEBACCcBcAc=
+=
+=
+=
+=
+=
+@
+@
+@
+@
+@
+@
+olduğuna göre |ED| kaç cm dir?
+A) B) C) D) ÜçgenleMatematik I2. BölüÜçgenle445° 78°
+30°
+65°
+Verilen şekilde en uzun kenar hangisidir?
+A) [AC]
+B)[AB] 
+C) [BC]
+D) [DC|
+5. 
+ABC bir üçgen,
+//
+KBAcAcKcBcLK=
+=
+=
+=
+=
+=
+@
+@
+olduğuna göre  x + y kaç cm dir?
+A) 8,B) C) 6,D) 6. 
+//
+//
+ABCAcBcNcK=
+=
+=
+=
+@
+@
+@
+olduğuna göre  x kaç cm dir?
+A) 1,B) 1,C) 2,D) 2,Matematik I2. Bölü7. 
+3x – 4x – ABACD(3x – 2 ) cB(4x –5)cm vm BAm DA=
+=
+=
+=
+=
+@
+@
+@
+@
+%
+%
+olduğuna göre  x kaçtır?
+A) C) D) 8. 
+B) AP a ortaAC 
+BC 
+Px diç= 
+= 
+=
+@
+ 
+olduğuna göre |PC| = x kaç cm dir?
+A) B) C) D) ABC bir üçge[AD] dış açıorta|AB| = 5 c|AC| = 3 c|CD| = 6 cm v|BC| = x cm dirolduğuna göre |BC| = x kaç cm dir?
+A) B) C) D) 10. 
+48°
+A) B) C) D) cABC üçgenind[AC] ve [AB] C ve B köşelerine ait olan dış açıortaylardır. 
+m_CD% i = 48°
+olduğuna göre m(CA∑B) kaç derecedir?
+ABC bir üçgeAÜçgenleMatematik I2. BölüÜçgenle11ABC üçgeninde 
+G ağırlık merkezi 
+[EF] // [BC]
+|EF| = 4 cB 
+x 
+D 
+A) B) C) D) 12ABC üçgenindG ağırlık merkez[AG] ⊥ [BG]
+|AG| = 5 c|BG| =12 c|GC| = olduğuna göre x kaç cm dir?
+A) B) C) D) 13ABgenindB diklik merkezBAAcBcü=
+=
+=
+@
+@
+olduğuna göre |BD| = x kaç cm dir?
+A) 3,B) 4,C) 5,D) 7,olduğuna göre |BD| = x kaç cm dir?
+Matematik I2. BölüÜçgenle14ABgenindAAcBcDcü=
+=
+=
+=
+olduğuna göre |BD| = x kaç cm dir?
+A) B) C) 2 D)
+15A 
+Halının D noktasından hareket ederek 
+E noktasına ulaşan karınca E noktasında A noktasına yürümüştürAcAc=
+=
+Buna göre karıncanın aldığı en kısa yol kaç cm dir?
+A) B) C) D) 16. 
+ABC digenindABAcH3 ü=
+=
+= c@
+@
+olduğuna göre |BH| = x kaç cm dir?
+A) B) C) D) 17.  
+45°
+30°
+°
+°
+ABgenindm ABm ACAcü=
+=
+=
+%
+%
+olduğuna göre |AB| = x kaç cm dir?
+A) 4 B) 4 C) 6 D) 6 B 
+Matematik I2. BölüÜçgenle18. 
+30°
+ABgenindm ACAcAcü°
+=
+=
+=
+%
+olduğuna göre tan α kaçtır?
+A) B) C) D) 19°
+°
+°
+°
+sicosico$
+$
++
+ toplamının sonucu kaçtır?
+A) B)
+C)
+D) 208 30°
+ABgenindm ACAAAccm dir8 ü=
+=
+=
+=
+%
+A) 24 B) 12 C) D) 21//
+ABC digenindDBAEü=
+= c@
+@
+B 
+C 
+olduğuna göre A(DB∆E) kaç cm2 dir?
+A) B) C) D) olduğuna göre A    &
+ADi cm2 dir?
+BVERİ, SAYMVE 
+OLASILI3. BÖLÜMatematik I3. BölüVeri, Sayma ve OlasılıNELER ÖĞRENECEĞİZ?
+Bu bölümü tamamladığımızda;
+• Verileri merkezi eğilim ve yayılım ölçülerini hesaplayarak yorumlamayı,
+• Bir veri grubuna ilişkin histogram oluşturmayı,
+• Gerçek hayat durumunu yansıtan veri gruplarını uygun grafik türleriyle temsi ederek yorumlamayı öğreneceğizYukarıdaki Konuları Kavramak İçin Neler Yapmalıyız?
+• Verilerin merkezi eğilim ve yayılım ölçülerinin neler olduğunu araştırınız• Histogramın ne olduğunu araştırınız• Gerçek hayat durumlarını yansıtan veri gruplarına uygun grafik türlerinaraştırınız• Konuda verilen alıştırma ve problemleri çözünüz• Öğrendiğiniz konularla ilgili bol örnek çözünüz• Histogramın ne olduğunu araştırınız• Gerçek hayat durumlarını yansıtan veri gruplarına uygun grafik türlerinaraştırınız• Konuda verilen alıştırma ve problemleri çözünüzTerimler ve KavramlaVerAçıklıHistograOrtanca (Medyan)
+Standart SapmTepe Değer (Veri)
+Grup GenişliğAritmetik OrtalamGrup SayısMatematik I3. BölüVeri, Sayma ve OlasılıVERİ, SAYMA VE OLASILIVerBir araştırmada sonuca ulaşabilmek için gözlem, deney, araştırma, sayım, ölçüm 
+yoluyla elde edilen her bilgiye veri adı verilir. 
+Meteoroloji istasyonlarının yağış ölçümleri, bir fabrikanın yıllara göre üretim sonuçlar, aylara göre elektrik tüketim sonuçları gibi her bilgi bir veri belirtirKesikli Veri: Değeri tam sayı olan verilere denir. Örneğin bir ülkenin yıllara göre 
+nüfusunun değişimi, günlere göre bir internet sitesine giren ziyaretçi sayısı gibi veriler 
+kesikli veri grubuna aittir. 
+Sürekli Veri: Bir aralıkta her reel sayı değerini alabilen verilerdir. Örneğin, bir kişini yıllara göre ayak numarasının ve boyunun değişimi, aylara göre bir ildeki sıcaklık 
+değerlerinin değişimi sürekli veri gruplarına birer örnektirMerkezi Eğilim ve Yayılım ÖlçülerMerkezi eğilim ölçüleri, veri grubunu temsil edebilen ve merkez noktasına en yakın 
+değerlerdir. Aritmetik ortalama, medyan (ortanca) ve mod (tepe değer) merkezi eğili ölçüleridir1. Aritmetik Ortalama:
+Veri grubunda bulunan sayıların toplamının gruptaki veri sayısına bölümüne aritmeti ortalama denir ve X  işareti ile gösterilir. 
+Aritmetik Ortalama =
+Verilerin toplamVeri sayısı 
+dırn tane veriye sahip olan bir grubun aritmetik ortalaması;
+x=
++
++
++
+dirÖRNEKLE1. 5 öğrencinin matematik sınavından aldığı notlar 45, 70, 65, 80, 90 dırÖğrencilerin aldığı notların aritmetik ortalamasını bulalımÇözüAritmetik Ortalama  =
+Verilerin toplamVeri sayısı 
+=
++
++
++
++
+=
+=
+ olurMatematik I3. BölüVeri, Sayma ve Olasılı2. Yaş ortalaması 22 olan 5 kişilik bir gruba yaşları 30 ve 21 olan iki kişi daha ekleninc yeni grubun yaş ortalaması kaç olur?
+ÇözüAritmetik Ortalama  =
+Verilerin toplamVeri sayısı 
+           22 = x  
+x = 110 (Beş kişilik grubun yaşları toplamı)
+Aritmetik Ortalama 
++
++
+ (iki kişi eklendi)
+Aritmetik Ortalama = Aritmetik Ortalama = 23 bulunur3. PuaÖğrenci SayısYukarıdaki tabloda bir sınıfta İngilizce dersinden alınan notlar ve öğrenci sayıları 
+verilmiştir. 
+Buna göre bu sınıftaki öğrencilerin İngilizce dersi not ortalaması kaçtır?
+ÇözüAritmetik Ortalama = 
+30 60 80 90 +
++
++
++
++
++
++
+   
+=
++
++
++
++
+=
+=
+2. Medyan (Ortanca)
+Küçükten büyüğe doğru sıralanmış bir veri grubunda tam ortada bulunan sayıymedyan (ortanca) denir. Veri grubundaki terim sayısı tekse tam ortadaki sayı, veri 
+grubundaki terim sayısı çiftse ortadaki iki terimin aritmetik ortalaması medyanı verir. 
+ÖRNEKLE1. 2, 4, 7, 5, 3, 12, 8 dizisinin medyanının kaç olduğunu bulalım=
++ Matematik I3. BölüVeri, Sayma ve OlasılıÇözüDizinin terimlerini küçükten büyüğe doğru sıralayalım. 
+2, 3, 4, 5 , 7, 8, Verilen dizi tek sayıda (7 tane) terimden oluştuğundan medyan bu dizinin tam ortadak terimi olan 5 sayısıdır. 
+2. 5, 2, 3, 7, x, 6 dizisinin aritmetik ortalaması 5 tir. Dizinin medyanı (ortanca)
+kaçtır?
+ÇözüAritmetik Ortalama = 
++
++
++
++
++
+=
++
+      & 30 = 23+x 
+&
+x = 7 olurVerileri küçükten büyüğe sıralayalım2, 3, 5, 6 , 7, Veri sayısı çift olduğundan medyanı bulurken ortadaki iki terimin aritmetik ortalamsını alırız. 
+Aritmetik Ortalama = 
+,
+5 +
+=
+=
+Medyan (ortanca) 5,5 olur3. Mod (Tepe Değer)
+Bir veri grubundaki veriler küçükten büyüğe doğru sıralandığında en çok tekraeden sayıya mod (tepe değer) denirÖrneğin; 2, 3, 5, 5, 7, 8, 9, 13 veri grubunun tepe değeri 5 tirBir veri grubunda aynı sayıda tekrar eden veriler varsa bu değerlerin hepsi moolarak alınırÖrneğin; 1, 2, 2, 3, 3, 4, 4, 5, veri grubunun modu 2, 3 ve 4 türBir veri grubunda veriler eşit sayıda tekrar ediyorsa bu veri grubunun modu yokturÖrneğin; 2, 2, 5, 6, 6, 5, 9, 9 veri grubunun modu yoktur. 1, 3, 5, 7, 9, 11, 18 vergrubunun modu yokturMatematik I3. BölüVeri, Sayma ve OlasılıÖRNEKLE1. Bir basketbol maçındaki oyuncuların sayı skorları 12, 20, 28, 16, 24, 16, 18, 20, 17,
+20 şeklindedirBuna göre bu veri grubunun tepe değerini (mod) bulalımÇözüSayıları küçükten büyüğe sıralayalım12, 16, 16, 17, 18,
+,
+,
+20 20 4444 4444 , 24, 28 
+Tepe değer 20 olarak bulunur. 
+2. 4, 8, x, 10, 8, Veri grubunun tepe değeri olmadığına göre x + y değerini bulalımÇözüVeri grubunun tepe değeri olmadığına göre her veriden eşit sayıda bulunmalıdır. 
+8 den iki tane olduğuna göre 4 ve 10 sayılarından ikişer tane olmalıdır. 
+x + y = 4 + x + y = 14 bulunur3. 1, 2, 7, 3, 2, 4, 9, 5, Veri grubunun tepe değerini (mod) bulalımÇözüSayıları küçükten büyüğe sıralayalım1, 2, 2, 3, 3, 4, 5, 7, 2 ve 3 rakamları ikişer defa tekrar ettiğinden dolayı veri grubunun tepe değeri 2 ve 
+3 türALIŞTIRMALA1. 5 kişilik bir yüzme grubu 50 metreyi 30, 35, 42, 37, 41 saniyede yüzmüştürBuna göre sporcular 50 metreyi ortalama kaç saniyede yüzmüştür?
+A) B) C) D) Matematik I3. BölüVeri, Sayma ve Olasılı2. 10, 8, x, 6, 4, Veri grubunun tepe değeri 8 olduğuna göre medyan (ortanca) değeri aşağıdakilerde hangisidir?
+A) B) C) D) 3. 20, 18, 22, x, 15, y, z, Yukarıda verilen veri grubunun tepe değeri olmadığına göre medyan (ortanca)
+değeri kaçtır?
+A) B) C) D) Merkezi Yayılım ÖlçülerVerilerin ortalamaya göre veya kendi aralarında nasıl bir dağılım gösterdiklerini 
+incelemek için merkezi yayılım ölçüleri kullanılır. 
+En büyük değer, en küçük değer, açıklık ve standart sapma merkezi yayılım ölçüleridi. 
+ÖrneDerya ve Özlem’in matematik dersinden 1 yıl içinde aldığı notlar aşağıdaki tabloda 
+verilmiştir. Tabloyu inceleyerek Derya ve Özlem’in notlarını karşılaştıralımYazılDeryÖzleÇözüDerya’nın matematik dersi not ortalaması; 
++
++
++
++
++
+=
+Özlem’in matematik dersi not ortalaması; 
++
++
++
++
++
+=
+Derya ve Özlem’in not ortalamaları 80 olmasına rağmen Derya’nın notları birbirine 
+daha yakın, Özlem’in notları ise birbirinden uzaktır. Buna göre merkezi eğilim ölçüleri 
+bir veri grubunu incelemekte yeterli değildir. 
+Matematik I3. BölüVeri, Sayma ve OlasılıAçıklık (Aralık-Ranj)
+Verilerin en büyük değeri ile en küçük değeri arasındaki farka açıklık (aralık-ranj) deni. Açıklık R ile gösterilirR = En büyük değer – En küçük değer 

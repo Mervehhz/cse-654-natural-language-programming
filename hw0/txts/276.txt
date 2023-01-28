@@ -1,0 +1,400 @@
+]
+]
+Fonksiyona 
+,
+A 1 ^
+h noktasında çizilen teğetinin eğimi fonksiyonun o noktadaki türevine eşit 
+olacağından teğetin eğimi 
+olut = l] ,
+A 1 ^
+h noktasından geçen ve eğimi t =-  olan teğet doğrusunun denklem          
+&
+olu$
+-
+=-
+-
+=-
++
+]
+=-
++
+ doğrusu =
+ için x eksenini 
+,
+5 ^
+h noktasında keser&
+&
+&
+f bulunu2 $
+=
+-
++
+=
+-
+=
+-
+=-
+]
+]
+]
+Yanda 
+,
+A 2 ^
+h noktasında birbirine teğet olan f ] g ve g ] g 
+fonksiyonlarının grafikleri verilmiştir        h x f g $
+$
+=
+-
+]
+]
+]
+g 
+olduğuna göre h fonksiyonunun grafiğine =
+ apsisli noktasnda çizilen teğetinin eğimini bulunuz. 
+,
+A 2 ^
+h noktası her iki fonksiyonun da grafiği üzerinde olduğundan 
+ve olu=
+=
+]
+]
+f ve g fonksiyonları 
+,
+A 2 ^
+h noktasında birbirlerine teğet olduklarından bu noktadaki teğet doğrular çakışık olup f ve g fonksiyonlarının bu noktadaki türevleri eşit ve =
+]
+]
+g olur. Ayrıca 
+h fonksiyonunun =
+ noktasındaki teğetinin eğimi h l] g olur. Buna göre 
+ÖRNEÖRNEÇÖZÜÇÖZÜ&
+h x f g h f x g $
+$
+$
+$
+$
+$
+$
+=
+-
+=
++
+-
+&
+&
+bulunu=
++
+-
+=
+]
+]
+]
+]
+]
+]
+]
+]
+]
+]
+]
+]
+Matematik &
+&
+&
+&
+f oluolu2 4 $
+$
+=
+-
+-
+=
+-
+=
+-
+=
+=
+=
+-
+-
+=-
+]
+]
+]
+]
+Bu durumda C noktasının koordinatı 
+,
+C -
+^
+h bulunur. 
+,
+C -
+^
+h noktasından geçen ve eğimi 
+d =
+ olan d doğrusunun denklem              
+&
+$
+- -
+=
+-
+-
+-
+=
+]
+]
+  olarak bulunur. 
+&
+=
+=-
+ olduğundan d doğrusu y eksenini =-
+ ordinatlı noktada keser. 
+&
+=
+=
+ olduğundan d doğrusu x eksenini =
+ apsisli noktasında keserBu durumda 
+Abirim ve Obirim elde edilir Buna g r=
+=
+A AOAObirimkare bulunu7 $
+$
+=
+=
+=
+]
+Yanda f =
+-
++
+]  fonksiyonunun 
+grafiği verilmiştir. f fonksiyonunun grafiğne =
+ apsisli C noktasında çizilen d 
+teğet doğrusu, x ve y eksenini sırasıyla 
+A ve B noktalarında kesiyor. Buna göre 
+AOB üçgeninin alanını bulunuzFonksiyonun grafiği incelenirse y eksenini 
+,
+0 -
+^
+h noktasında kestiği görülür. Buna gör&
+&
+bulunu4 $
+=-
+-
++
+=-
+=-
+]  
+Bir fonksiyona =
+ apsisli noktasından çizilen teğetinin eğimi m ise t = l] g olduğundan d 
+doğrusunun eğimi d = l] g olurÖRNEÇÖZÜTüreYukarıda 3. dereceden bir polinom fonksiyou olan f x a =
++
+]
+^
+h  fonksiyonunun 
+grafiği verilmiştir. Buna göre f ] g fonksiyonunu türevinin grafiğini çizinizYukarıda 
+f] g fonksiyonunun grafiği verilmişti. 
+a+
++
++
+=
+l]  olduğuna 
+göre +
+ toplamını bulunuzf =
++
+]   fonksiyonunun grafiğini çizini-
++
++
+=
+]
+]
+i fonksiyonunun 
+grafiğini çiziniz.  
+Yukarıda f ab=
+-
++
++
+]   fonksiyounun grafiği verilmiştir. Buna göre a $
+ 
+çarpımını bulunuz. 
+f =
+-
++
+]   fonksiyonunun grafiğini 
+çizinizYukarıdaki grafikte d doğrusu 
+f =-
++
++
+^  parabolüne =
+ apsisl noktada, g a=
++
++
+^  parabolün ise =
+ apsisli noktada teğettir. Buna 
+göre +
+ toplamını bulunuzYukarıda x ekseni üzerinde kesişen 
+f =
+-
++
+^  ve g m=
++
++
+^  
+fonksiyonlarının grafikleri verilmiştirf ve g ^
+^
+h eğrilerinin kesim noktasında 
+g ^ h eğrisine çizilen d teğet doğrusu, 
+f^ h 
+fonksiyonunun grafiğini =
+ apsisli noktada 
+kesiyor. Buna göre b değerini bulunuz-
+ AlıştırmalaMatematik 5.3.4. Maksimum ve Minimum ProblemlerMaksimum ve minimum problemlerinde en büyük ya da en küçük olması istenen değeri tek değişken bağlı bir fonksiyon olarak ifade ettikten sonra bu fonksiyonun maksimum ya da minimum değeri 
+araştırılırToplamı 16 olan iki sayının çarpımının alabileceği en büyük değeri bulunuzToplamı 16 olan iki sayı sırasıyla x ve y ise 
+olu+
+=
+  
+&
+x olu+
+=
+=
+-
+x $
+ ifadesinde y yerin16 -
+ yazılarak x $
+ ifadesi tek değişken türünden  $
+-
+]
+g olarak 
+ifade edilebilir. 
+Bu durumda x $
+  çarpımı f $
+=
+-
+]
+]
+g  fonksiyonu ile ifade edilirse x $
+  çarpımının en 
+büyük değerini alması için f $
+=
+-
+]
+]
+g fonksiyonunun maksimum değeri bulunmalıdır&
+&
+&
+&
+f f olu&
+$
+=
+-
+=
+-
+=
+-
+=
+-
+=
+=
+=
+]
+]
+]
+]
+]
+f ] g fonksiyonunun türevinin işaret tablosu incelenirse  fonksiyonun maksimum değerini =
+ 
+için aldığı görülür. Bu durumda fonksiyonun maksimum değeri f ] g olup bu değef 16 $
+=
+-
+olu=
+] Bilimde, mühendislikte ve iş hayatında bir fonksiyonun maksimum ve minimum değerlerinden 
+sıklıkla yararlanılır. Örneğin, fabrikalarda minimum harcamayla maksimum kazanç elde etmek 
+amaçlanır. Marketlerde satılan tüm konserve kutularının aynı fiziksel görüntüde ve yaklaşık 28,3 
+gram olduğu görülür. Bütün konserve kutularının belirli hacim ve aynı şekle sahip olmaları tesadü değildir. Belirli bir hacimle üretilen konserve kutularında minimum miktarda metal kullanılarak 
+firmaların minimum maliyetle maksimum kazanç elde etmesi sağlanabilir 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   (Zill ve Warren, 2013)
+Duygu ve kardeşi Uğur, harçlıklarını harcamayıp biriktirerek Anneler Günü hediyesi almak istiyorlar. 
+Duygu’nun günlük harçlığı x TL ve Uğur’un günlük harçlığı y TL dir. Duygu tüm harçlığını 3y gün ve 
+Uğur ise tüm harçlığını 3x gün biriktiriyor. Duygu’nun 2 günlük harçlığı ile Uğur’un 3 günlük harçlığını toplamı 24 TL dir. Biriken toplam paranın en fazla olabilmesi için Duygu ve Uğur’un günlük 
+harçlıklarının kaç TL olması gerektiğini bulunuzO hâlde toplamı 16 olan iki sayının çarpımının alabileceği en büyük değer 64 bulunur-
+ÖRNEÖRNEÇÖZÜTüre"
+:
+,
+f =
+-
++
+]  fonksiyonunun grafiği üzerindeki bir 
+,
+A a ^
+h noktasının koordinatları 
+toplamının alabileceği en küçük değeri bulunuz. 
+olu=
+-
++
+&
+,
+A a f =
+^
+]
+elde edili=
+-
++
+=
+-
++
+&
++
+=
++
+-
++
+Bu durumda  
+,
+A a ^
+h noktasının koordinatları toplamı g =
+-
++
+]  fonksiyonu ile ifade edilise 
+,
+A a ^
+h noktasının koordinatları toplamının en küçük olması için g =
+-
++
+]  fonksiyonunu minimum değeri bulunmalıdır&
+&
+g g g =
+-
++
+=
+-
+=
+-
+=
+&
+olu=
+]
+]
+]
+g ] g fonksiyonunun türevinin işaret tablosu incelenirse fonksiyonun minimum değerini =
+ için 
+aldığı görülür. Bu durumda fonksiyonun minimum değeri g ] g olup bu değebulunu2 $
+=
+-
++
+=
+] Bu durumda 6xy ifadesi f =
+-
+]   fonksiyonu ile ifade edilirse  6xy ifadesinin en büyük 
+olması için f =
+-
+]  fonksiyonunu maksimum yapan x değeri bulunmalıdır&
+xelde edili&
++
+=
+=

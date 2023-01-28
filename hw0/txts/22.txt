@@ -1,0 +1,400 @@
+2) 27 kişilik bir grubun 15 kişisi kadındır. Gruba 4 evli çift katılırsa erkeklerin sayısını kadınların sayısına oranı kaçtır?
+Orantİki veya daha fazla oranın eşitliğine orantı denir. 
+=
+ veya a : b = c : d biçiminde gösterilir. 
+b ve c ye içler, a ve d ye dışlar denir. 
+=
+= k orantısında k ye orantı sabiti denirÖrneise 2 -
+=
++
+yi bulalımÇözü=
+ ise  a = 2k  ve b = 3k dırBuna göre 
+olu2 2 –
+-
+-
++
+=
++
+=
++
+=
+=
+Matematik 1. BölüDenklemler ve Eşitsizliklerle İlgili UygulamalaALIŞTIRMALA1-
+is=
++
++
+  kaçtır?
+2- 
+is-
+=
++
+kaçtır?
+Orantının Özellikler1- =
+=
+ ise a . d = b . c (İçler çarpımı dışlar çarpımına eşittir.)
+Örneğin;
+=
+ orantısında 
+=
+ ise  1 . a = 2 .   a = 6 dır. 
+2- =
+ ise =
+ ;  =
+ ; =
+ (Orantıdaki oranlar ters çevrildiğinde oluşaeşitlik yeni orantı belirtir.)
+Örneğin;
+=
+; =
+ ; =
+3- n Œ R – {0} olmak üzere 
+b a =
+=
+ (Bir orantıda oranlar gelişletilebilir.)
+Örneğin; 
+ise 2 &
+=
+=
+=
+ olur. 
+4- m Œ R – {0} olmak üzere 
+:
+:
+m =
+=
+ (Bir orantıda oranlar sadeleştirilebilir)
+Örneğin; 
+:
+:
+ise 2 &
+=
+=
+=
+ dir5- m≠0 ve n≠0 olmak üzere =
+=
+  ise mnmn!
+!
+=
+ (Orantıyı oluşturan oranla genişletilip toplandığında orantı sabiti değişmez.)
+Örneğin;
+x, y, z, t Œ R, 
+k isk olu=
+=
++
++
+=
+ İlk oran 2 ve ikinci oran 3 ile genişletilip 
+paylar toplanıp paya, paydalar toplanıp paydaya yazıldığında orantı sabiti aynı kalır. 
+genişletilebilir.)
+m.n.m.n.Matematik 1. BölüDenklemler ve Eşitsizliklerle İlgili UygulamalaÖRNEKLE1- =
++
+  orantısında x i bulalımÇözü=
++
+  (İçler dışlar çarpımı yapalım. )
+      8 . x = 5 . (x + 1)
+         8x = 5x + 8x − 5x =         3x =           x = 5  olur. 
+2- =
++
++
+  olduğuna göre x in y ye oranını bulalım. 
+Çözü+
++
+=
+      5.(2x + 3y) = 3.(x + 2y)
+10x + 15y = 3x + 6  10x − 3x = 6y − 157x = –9y (k Œ R olmak üzere x = – 9k ve y = 7k alınabilir.)
+–
+=
+ olur. 
+3- 4a = 3b olduğuna göre 2 –
++
+nin kaç olduğunu bulalımÇözü4a = 3b biçimindeki eşitliklerde k ŒR olmak üzere a=3k ve b = 4k alınabilir. 
+Buna göre 
+olu–
+–
+-
++
+=
++
+=
++
+=
+=
+Matematik 1. BölüDenklemler ve Eşitsizliklerle İlgili Uygulamala4- =
+=
+ orantısı veriliyor. 2n–
++
+=
+ olduğuna göre n kaçtır? BulalımÇözü=
+=
+ orantısını oluşturan oranlardan birini 2 diğerini 3 ile genişletip toplarsa orantı bozulmaz. 
+&
+=
+=
+=
+=
+k olu=
++
++
+=
+Bu durumda  23+
+=
++
+orantısı ile  2n–
++
+=
+ orantısını karşılaştırırsa3 = −n Ş n= −3 bulunur. 
+5- x –=
++
+=
++
+ ve x + y + z = 16 olduğuna göre x kaçtır? BulalımÇözüHer orantının bir orantı sabiti olduğundan 
+-
+=
++
+=
++
+=
+ yazarız-
++
++
++
+=
++
++
++
+      
+
++
++
+– +
+2 +
+=
+bulunu&
+=
+=
+–
+=
+ olduğundaolu–
+–
+&
+=
+=
+=
+6- z ve =
+=
++
++ =
+ olduğuna göre x kaçtır? BulalımÇözü 
+ 
+ 
+ 
+ 
+
+1. Yol: &
+=
+=
+=
++ +
++
++
+=
+bulunu&
+=
+=
+7 =
+  olduğundan 
+olu=
+=
+,
+Matematik 1. BölüDenklemler ve Eşitsizliklerle İlgili Uygulamala2. Yol: =
+=
+=
+&
+&
+&
+=
+=
+=
+=
+=
+=
+`
+bbbbbbbbbbbb x + y + z = 30 
+7k + 5k + 3k = 15 k = 30 ⇒   k = 2 bulunur. 
+ 
+ x = 7k  
+      x = 7 . 2  ⇒ x = 14 olur. 
+ALIŞTIRMALA1-
+–
+=
+ orantısında a kaçtır?
+2-
+–
++
+=
+ olduğuna göre x  kaçtır?
+3- 3x = 8y olduğuna göre –
++
+ kaçtır?
+4- k vn=
+=
++
++
+=
+ olduğuna göre n kaçtır?
+5- –
++
+=
++
+=
+  ve a + b + 2c = 27 olduğuna göre b kaçtır?
+6- z ve =
+=
++
+=
+ olduğuna göre z kaçtır?
+Matematik 1. BölüDenklemler ve Eşitsizliklerle İlgili UygulamalaDoğru Orantı 
+x ve y aynı cinsten ölçülebilir iki çokluk olmak üzere x artarken y aynı oranda artıyors veya x azalırken y aynı oranda azalıyorsa x ve y doğru orantılıdır. 
+x ile y doğru orantılı ise bölümleri sabittir. 
+k ŒR+ olmak üzere 
+k veya k x ti=
+=
+ (Orijinden geçen doğru denklemidir.)
+y = k . x in grafiği aşağıdaki gibidir. 
+y = k . Örneğin,
+a ile b doğru orantılı ve a = 6 iken b = 15 ise a = 12 iken b = 30 olur. 
+•
+x, y ve z sayıları sırası ile a, b ve c sayıları ile doğru orantılı is=
+=
+=
+ biçiminde gösterilir. 
+Örneğin;
+45 TL üç kardeşe 2, 3 ve 4 ile doğru orantılı olarak paylaştırılırsa; 
+=
+=
+=
+a = 2k,   b = 3k,   c = 4k olur. 
+2k + 3k + 4k = 45 
+9k = k = 5 tir. 
+45 TL kardeşlere 2 . 5 = 10 TL ,  3 . 5 = 15 TL,  4 . 5= 20 TL şeklinde paylaştırılır. 
+Matematik 1. BölüDenklemler ve Eşitsizliklerle İlgili UygulamalaÖRNEKLE1- m ve n doğru orantılıdır. m = 5 iken n = 15 olduğuna göre m = 3 iken n kaçtır?
+BulalımÇözüm ve n doğru orantılı olduğundan oranları sabittir. =
+ dır. 
+m = 5 ve n =15 ise 
+&
+=
+=
+ dirBuna göre m = 3 iken 
+olu&
+=
+=
+2- (a + 2) ile (b − 3)  doğru orantılıdır. a = 6 iken b = 5 olduğuna göre a = 8 iken kaçtır? BulalımÇözü(a + 2) ile (b – 3) doğru orantılı ise -
++
+=
+ dıra = 6 ve b = 5 ise 
+5 –
++
+=
+t 4 &
+=
+=
+Buna göre a = 8 ise –
++
+=
+10 = 4 (b − 3)
+10 = 4b –    10 + 12 = 4b 
+22 = 4b  ⇒  b = 
+olu=
+Matematik 1. BölüDenklemler ve Eşitsizliklerle İlgili Uygulamala3- 
+y = k . Yukarıda verilen y = k . x denkleminin grafiğine göre a yı bulalım. 
+ÇözüVerilen grafik orijinden geçen doğru grafiği olduğu için x ile y doğru orantılıdır. 
+1. Yol: Grafiğin denklemi y = kx içix = 2 ve y = 4     ise   4 = k . 2 ⇒  k = 2 bulunurx = a ve y = 10 ise 10 = 2 . a  ⇒   a = 5 tir=
+ dır. 
+2. yol: y = k . x Ş   x = 2 için y = 4 ise 
+bulunu&
+=
+=
+Buna göre 
+olu=
+x = a için y = 10 ise =
+    10 = 2a  ⇒   a = 5 tir. 
+4- Bir otomobil 480 km lik yolu 4 saatte gidiyor. Ayrı araç 120 km lik yolu kaç saattgider? BulalımÇözüGidilen yol miktarı azaldıkça süre de azalacağı için doğru orantı vardır. 
+           480 km 
+4 sa          120 km 
+x sa. 
+D.O     480 . x = 4 . 120       
+     480 . x = x =             x = 1 saatte gider. 
+Matematik 1. BölüDenklemler ve Eşitsizliklerle İlgili Uygulamala5- 4, 7 ve 9 yaşlarındaki üç kardeşe 200 TL yaşları ile orantılı olarak paylaştırılıyorBuna göre en küçük kardeş kaç lira alır? BulalımÇözüPaylaştırma orantılı yapıldığından doğru orantı vardır. Buna göre 
+Küçük         : 4Ortanca 
+: 7Büyük 
+: 9   +
+ 4k + 7k + 9k =        20k = k = k = 10 bulunur. 
+En küçük kardeş: 4k = 4 . 10 = 40 TL alır. 
+ALIŞTIRMALA1- x ile y doğru orantılıdır. x = 10 iken y = 15 olduğuna göre x = 6 iken y kaçtır?
+2- (x + 3) ile (2y − 1) doğru orantılıdır. x = 12 iken y = 2 olduğuna göre x = 8 iken kaçtır?
+3- 
+Yukarıda verilen grafiğe göre a kaçtır?
+4- Hüseyin (t + 2) dakikada 8, (t–3) dakikada 3 soru çözebiliyor. Buna göre t kaçtır?
+5- 72 tane ceviz yaşları 6, 8 ve 10 olan üç çocuğa yaşları ile orantılı olarak paylaştırılıyorBuna göre 8 yaşındaki çocuk kaç ceviz alır?
+Matematik 1. BölüDenklemler ve Eşitsizliklerle İlgili UygulamalaTers Orantx ve y aynı cinsten ölçülebilir iki çokluk olmak üzere x azalırken y aynı oranda artıyors veya x artarken y aynı oranda azalıyorsa x ve y ters orantılıdır. 
+x ile y ters orantılı ise çarpımları sabittir. 
+kŒR olmak üzere y = k  veya  x.y = k dır. y = k   in grafiği aşağıdaki gibidir. 
+y = Örneğin; 
+a ile b ters orantılı ve a = 6 iken  b = 15 ise a = 10 iken b = 9 olur.  (a.b = k)
+6 . 15 = 10 . 9 = •
+x, y ve z sayıları sırasıyla a, b ve c sayıları ile ters orantılı ise x . a = y . b = z . c = biçiminde gösterilirÖrneğin; 
+39 TL üç kardeşe 2, 3 ve 4 ile ters orantılı olarak paylaştırılırsa;
+a . 2 = b . 3 = c . 4 = k olur⇒ a = 2  b = ⇒
++
++
+( )
+( )
+( )
+=
+  ⇒ 
++
++
+=
+·
+39 &
+=
+=
+    k = 36 dır. 
+Buna göre 39 TL kardeşlere 36  = 18 TL, 36  = 12 TL, 36  = 9 TL olacak şekildpaylaştırılır.  
+,
+, c = Matematik 1. BölüDenklemler ve Eşitsizliklerle İlgili UygulamalaÖRNEKLE1- m ve n ters orantılıdır. m = 5 iken n = 15 olduğuna göre m = 3 iken n kaçtır? BulalıÇözüm ve n ters orantılı olduğundan çarpımları sabittir.     m . n = m = 5 ve n = 15 ise 5 .15 = k Ş k = 75 tir. 
+Buna göre m = 3 iken 3 . n = n = 
+olu&
+=
+2- (a + 2) ile (b − 3) ters orantılıdır. a = 4 iken b = 7 olduğuna göre a = 6 iken b kaçtır?
+BulalımÇözü(a + 2) ile (b − 3) ters orantılı ise (a + 2) . (b − 3) = k dir. 
+a = 4  ve b = 7 ise (4 + 2) . (7 − 3) = 6 . 4 = k   ⇒  k = 24 tür. 
+       a = 6 iken        (6 + 2) . (b − 3) =         8 . (b − 3)  = 24   ⇒  k = 24 tür. 
+      b – 3 = 3     ⇒  b = 6 olur. 
+3- 
+x . y = Yukarıda x . y = k denkleminin grafiği verilmiştir. Verilen grafiğe göre a kaçtır? 
+Bulalım. 
+Matematik 1. BölüDenklemler ve Eşitsizliklerle İlgili UygulamalaÇözüVerilen grafiği incelediğimizde x ile y nin ters orantılı olduğunu görürüz1. Yol:
+Grafiğin denklemi x . y = k olduğundax = 4 için y = 10 ise   4 . 10 = k  ⇒  k = 40 bulunurx = a için y = 5 ise       a . 5 = 40  ⇒  a = 8 dir2. Yol:
+x ile y ters orantılı olduğundan çarpımları sabittirx = 4 için y = 10 is
+    4 . 10 = a . x = a için y = 5 tir.               40 = a . 5  ⇒   a = 8 bulunur.  
+4- Saatte 120 km hızla giden bir otomobil varacağı yere 2 saatte gidiyor. Otomobihızını yarıya düşürdüğünde aynı yolu kaç saatte gider?
+ÇözüHız arttıkça varış süresi aynı oranda azaldığından hız ile süre ters orantılıdır. 
+          120 km/sa.  
+  2 saat 
+          60 km/sa.            t saat 
+T.O         120 . 2 = 60 .        240 = 60 . t   ⇒   t = 4 saatte gider5- 4 işçi bir işi 12 günde bitiriyor. Eş güçte 6 işçi aynı iş kaç günde bitirir? BulalımÇözü          4 işçi  
+ 12 gün 
+          6 işçi 
+ x güT.O  4 . 12 = 6 .         48 = 6 . x   ⇒   x = 8 günde bitirirMatematik 1. BölüDenklemler ve Eşitsizliklerle İlgili Uygulamalaa + ALIŞTIRMALA1- (x + 1) ile (y + 3) ters orantılıdır. x = 4 iken y = 6 ise x = 8 iken y kaçtır?
+2-                                               Yukarıda verilen grafiğe göre a kaçtır?
+3- 6 işçinin 8 saatte bitirebildiği bir işi eş güçteki 4 işçi kaç günde bitirir?
+4- Toplamları 28 olan iki sayı 6 ve 8 ile ters orantılıdır. Buna göre büyük sayı kaçtır?
+5- 2100 soru 30, 50 ve 60 puan alan üç öğrenciye aldıkları puanlarla ters orantılı 
+olarak paylaştırılmıştır. 60 puan alan öğrenciye kaç soru verilmiştir?
+Altın OraAltın  oran matematikte, sanatta, doğada sayısız canlı 
+ve cansızda görülen özel bir orandır. Bir bütünün 
+parçaları arasında görülen uyum açısından en yetkin 
+boyutları verdiği düşünülen geometrik ve sayısal bir oran 
+bağıntısıdır. 
+Altın oran yaklaşık olarak 1,618 e eşittir ve Fi (ϕ) ile 
+gösterilir. 

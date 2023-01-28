@@ -1,0 +1,400 @@
+$
+$
+$
+$
+$
+$
+$
+-
+=
++
++
+-
+=
+-
+-
++
+=
++
+=
++
+-
++
+=
++
+=
++
+=
++
+=
++
+&
+&
+&
+Trigonometr,
+sicoa b ve olmazere !
+-
++
+=
+! +
+ biçimindeki denklemlere, sin x  ve 
+cos x  e göre lineer (doğrusal) denklem denir&
+sicocosicocosisicotacosi&
+$
+$
++
+=
++
++
+=
+=
+sico$
++
+=
+sico$
++
+=
+&
+&
+=
+sico$
+=
+]
+denkleminin çözülebilmesi için 
+co$
+#
+#
+-
+ olmalıdır. 
+elde edili&
+&
+$
+#
+#
++
+&
+ta+
+cocococota&
+&
+$
+$
+$
+#
+#
+#
+#
+#
+#
+-
++
+=
++
+ 
+Bu eşitsizliğin sağlanması durumunda denklemin çözüm kümesi bulunabilir. 
+Aksi durumda denklemin çözüm kümesi Q olur(Eşitliğin her iki tarafı a ile bölünür.)
+Zaman içerisinde yönü ve şiddeti belli bir düzen içerisinde değişen akıma alternatif akım denir. 
+Bu akım ve bu akımla ilgili potansiyel fark, trigonometrik fonksiyonlardan sinüs fonksiyonu ile 
+modellenebilmektedir      V : potansiyel fark (volt)
+      t  : zaman (sn.)
+olmak üzere bir şehirde kullanılan elektriğin potansiyel fark denklemi zamana bağlı olarak 
+( )
+siV $
+=
+^
+h fonksiyonu ile modellenebilmektedir. Buna göre bu bölgede bulunan bir 
+evde kullanılan çamaşır makinesi çalıştırıldıktan kaç saniye sonra potansiyel farkın ilk kez 180V 
+olacağını bulunuzt  saniye sonra potansiyel fark 180V olsun. Buna gör&
+( )
+sisiV $
+$
+=
+=
+^
+^
+                                      
+&
+&
+&
+siolu$
+=
+=
++
+=
++
+^
+Bu durumda potansiyel fark ilk kez =
+ için  saniye sonra 180V olurÇÖZÜÖRNEMatematik sico$
++
+=
+ denkleminin çözüm kümesini bulunuzBu durumda çözüm kümesi 
+,
+x olarak bulunu$
+$
+;
+!
+=
+=-
++
+=
++
+&
+sico$
+$
+-
+=
+ denkleminin çözüm kümesinin Q olması için m nin alabileceği en küçük 
+pozitif tam sayı değerini bulunuzsico+
+=
+ denkleminde çözüm kümesinin Q olması için #
++
+ eşitsizliği 
+sağlanmamalıdır. Bu durumda +
+ olmalıdır. Verilen denklemde 
+,
+v=
+=-
+ 
+=
+ olduğundan 
+&
++ -
++
+&
+bulunu^
+^
+O hâlde 2  eşitsizliğini sağlayan en küçük pozitif tam sayı 3 olarak bulunur&
+&
+&
+cococof f f f f f $
+$
+$
+=
+=
++
+=
+=
+=-
+=
++
+]
+]
+]
+]
+]
+]
+&
+&
+&
+sisisiolmazerf f f f f f $
+$
+$
+=
+=
+=
+=
++
+=-
+=
++
+]
+]
+]
+]
+]
+]
+ÇÖZÜÇÖZÜÖRNEÖRNE&
+&
+sicositacosicosicocosicosicosicocosi&
+&
+$
+$
+$
+$
+$
++
+=
++
+=
++
+=
++
+=
++
+=
++
+=
+sisi&
+=
+veya &
+$
+$
++
+=
++
++
+=
+-
++
+veya olu&
+$
+$
+=-
++
+=
++
+(
+3  yerine tan r  yazılır.)
+( tan r  yerine 
+cosi yazılır.)
+UyarTrigonometrcosi$
++
+=
+ denkleminin çözüm kümesini bulunuz&
+cosicotasi$
+$
++
+=
++
+=
+&
+cocosisicococosisicococoolu&
+&
+&
+&
+&
+&
+$
+$
+$
+$
+$
+$
+$
++
+=
++
+=
+-
+=
+-
+=
+-
+=
+=
++
+=
++
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          
+Bu durumda çözüm kümesi 
+,
+x olarak bulunu$
+;
+!
+=
+=
++
+&
++
+sisi-
++
+=-
+]
+]
+ denkleminin 
+,
+c nda çözüm kümesini bulunuzÇÖZÜÖRNEÖRNEsisi+
+=
+ denkleminin çözüm kümesini bulunuzsisisicosisicosicoveyveyveya olu&
+&
+&
+&
+&
+$
+$
+$
+$
+$
++
+=
++
+=
++
+=
+=
+=-
+=
+=
++
+=
+=
++
+^
+, Bu durumdz m k mesx olarak bulunuçö $
+$
+;
+=
+=
+=
++
+&
+ÇÖZÜÖRNEMatematik ,
+a !
+- " , olmak üzere 
+sico+
+=
+ biçimindeki denklemlere birinci dereceden 
+homojen trigonometrik denklem denirsico+
+=
+ denkleminde eşitliğin her iki yanı 
+cos olmazer!
+ cosx e bölünüdenklemine dönüştürülerek çözüm yapılır&
+&
+cosicocotatatan $
+$
+$
++
+=
++
+=
+=-
+1 2 444 &
+&
+&
+&
+&
+sisicocococococococococoveyi in ve i in oluoluelde edilii ii iifadesindifadesindifadesind&
+$
+$
+$
+$
+$
+$
+$
+-
++
++
+=-
++
+=-
+-
++
+=-
++
+=
++
+=
+=
+=-
+=
++
+=
++
+=-

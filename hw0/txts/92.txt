@@ -1,0 +1,400 @@
+f isisis#
+$
+=
++
++
++
+[
+\
+]]]]]
+]]]]]
+Kasım ayı satış ve maaş durumu aşağıda verilmiştirI. Toplam 350 ürün satılmıştırII. Emre, Damla’nın iki katı, Yağmur’un dört katı ürün satmıştırIII. Dayanışma amacıyla o ayki maaşı en fazla olan çalışan, o ayki maaşı en az olan çalışana  
+maaşının %10  unu vermektedirYukarıda verilenlere  göre aşağıdaki soruları cevaplayınıza) Damla’nın  kaç ürün sattığını bulunuzb) Emre’nin eline geçen tutarın kaç Türk lirası olduğunu bulunuzc) Aynı satış oranlarıyla 420 ürün satılsaydı dayanışma amacıyla Emre’nin  Yağmur’a kaç Türk lirası  
+yardımda bulunabileceğini hesaplayınızEmre’nin sattığı ürün miktarı 
+4  olarak seçilirse Damla’nın sattığı ürün miktarı 2  ve Yağmur’un sattığı 
+ürün miktarı k  olur. Toplam 350 ürün satıldığından &
++
++
+=
+=
+ olur. Buna göre Emre 200 
+ürün, Damla 100 ürün ve Yağmur 50 ürün satmıştıra) Damla’nın sattığı ürün sayısı, 2 $
+=
+=
+ olur. 
+b) Emre’nin sattığı ürün sayısı, 4 $
+=
+=
+ olur. Buradan Emre’nin maaşı,
+ 
+( )
+f =
++
+ kuralından (
+)
+f 12 $
+=
++
+=
+ Türk lirası olur.  Emre maaşını  %10  u olan 3000 $
+=
+ Türk lirasını Yağmur’a vereceğinden  Emre’nin eline geçen tutar 
+-
+=
+ Türk lirası olurc) &
+=
+=
+ olur. 
+    Emre’nin sattığı ürün sayısı, 4 $
+=
+=
+ olur. Buradan Emre’nin maaşı, 
+ 
+( )
+f =
++
+ kuralından (
+)
+f 12 $
+=
++
+=
+ Türk lirası olur.  Emre’nin Yağmur’a 
+vereceği para miktarı, maaşının %10  u olan 3480 $
+=
+ Türk lirası olur. 
+"
+"
+1, 2, ,
+, 3,
+,
+: {
+}
+( )
+: {
+}
+( )
+f x ve g =
++
+=
+-
+ fonksiyonları içi(
+)
++
+ nin görüntü kümesini bulunuz+
+ nin tanım kümesi f ile g fonksiyonlarının tanım kümelerinin kesişimi ile bulunur. 
+, 2,
+2, 3, 2, 3}
+{
+}
+{
+}
+{
+3 +
+=
+ olur(
+)( )
+( )
+( )
+(
+)
+(
+)
+(
+)
+(
+)
+2 $
++
+=
++
+=
++
++
+-
+=
++
++
+-
+=
++
+=
+ olur(
+)( )
+( )
+( )
+(
+)
+(
+)
+(
+)
+(
+)
+2 $
++
+=
++
+=
++
++
+-
+=
++
++
+-
+=
++
+=
+ olur. 
+Buradan (
+)
++
+ fonksiyonunun görüntü kümesi 8, {
+} olur, 3), (0, 1), (1,
+,
+, 2), (5,
+(
+) (
+)
+=
+-
+-
+-
+"
+,  ve 
+, 1), (0, 2), (2, 3), (5,
+(
+)
+=
+-
+"
+,  fonksiyonları veriliyorBuna göre +
+ ve -
+ ifadelerini bulunuz• 
++
+, f ve g fonksiyonlarının ortak birinci bileşenlerinin görüntü değerlerinin toplamına eşittir. Buradan 
+f ve g fonksiyonlarının tanım kümelerindeki ortak elemanlar 0, 2, "
+,  olur. Burada,
+,
+,
+,
+,
+0, 3 , 2, 5 , 5, olur0 2 +
+=
++
++
+-
++
+=
+^
+^
+^
+^
+^
+^
+"
+"
+,
+,
+• 
+-
+, sırasıyla f ve g fonksiyonlarının ortak birinci bileşenlerinin görüntü değerlerinin farkına eşittir. 
+Buradan f ve g fonksiyonlarının tanım kümelerindeki ortak elemanlar 
+, ,
+0 2 "
+,  olur. Burada,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+olur0 2 -
+=
+-
+-
+-
+-
+=
+-
+-
+-
+^
+^
+^
+^
+^
+^
+"
+"
+,
+,
+"
+"
+,
+,
+:
+( )
+:
+( )
+f ve g =
++
+-
+=
+-
+-
+ fonksiyonları içi(
+)( )
+(
+)( )
+x ve +
+-
+ ifadelerini bulunuzolur(
+)( )
+( )
+( )
+(
+)
+(
+)
+f g +
+=
++
+=
++
+-
++
+-
+-
+=
++
+-
+olur(
+)( )
+( )
+( )
+(
+)
+(
+)
+f g -
+=
+-
+=
++
+-
+-
+-
+-
+=
++
+-
+ 
+"
+"
+,
+,
+:
+( )
+:
+( )
+f ve g =
+-
+=
++   fonksiyonları içi(
+)( )
+(
+)(
+)
+ve +
+-
+-
+ ifadelerinin değerlerini bulunuzolur(
+)( )
+( )
+( )
+[
+( )
+]
+[
+( )
+]
+$
+$
++
+=
++
+=
+-
++
++
+=
++
+=
+olu(
+)(
+)
+(
+)
+(
+)
+[
+(
+)
+]
+[
+(
+)
+]
+(
+)
+$
+$
+-
+-
+=
+-
+-
+-
+=
+-
+-
+-
+-
++
+= - - -
+=
+Bilg"
+"
+:
+:
+ve R  fonksiyonları için ( )
+f =
++
+, (
+)( )
+-
+=
++
+ olduğuna göre 
+( )
+g x  fonksiyounu bulunuzFonksiyonların fark işlemi kuralından (
+)( )
+( )
+( )
+f g -
+=
+-
+=
++
+ olur. Bu eşitlikte ( )
+f =
++
+ 
+fonksiyonu yerine yazılırs( )
+( )
+(

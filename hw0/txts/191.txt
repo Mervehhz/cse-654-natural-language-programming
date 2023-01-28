@@ -1,0 +1,400 @@
+(
+)
+°
+m O Am O C=
+=
+\
+\
+,|AB| = 3 birim 
+ve |BC|= 4 birim olduğuna göre silindirin taban yarıçap 
+uzunluğunun kaç birim olduğunu bulunuzÇözüA.A. benzerlik oranına göre O1AB ile BCO2 dik üçgenleri 
+benzer üçgenlerdir. Buradan 
+=
+ ⇒ r2 = 12 ⇒ r = 2 3  birim olur5. Örnek 
+120°
+OOSilindirin Yüzey AlanAşağıda taban yarıçap uzunluğu r, yüksekliği h olan silindirin açınımı görülmektedirAçınımda görüldüğü gibi silindirin yan yüzeyi bir dikdörtgen; tabanları, birbirine eş dairelerdir. 
+Silindirin yüzey alanı, oluşan dikdörtgenin alanı ve iki taban dairesinin alanları toplamıdırDikdörtgenin bir kenar uzunluğu silindirin yüksekliğine, bu kenara dik olan kenar uzunluğu 
+dairenin çevre uzunluğuna eşittir. 
+Aşağıda bazı ifadelerin sembolleri verilmiştirYanal yüzey alanı = YTaban alanı = TTüm silindirin yüzey alanı = STaban dairesinin yarıçap uzunluğu = BuradaYanal yüzey alanı = Taban çevre uzunluğu . Yükseklik ⇒ YA = 2πr.h, 
+TA = π.r2 birimkare ⇒ Taban alanları toplamı  2.TA = 2π.r2 olur. 
+Tüm silindirin yüzey alanı = Yanal yüzey alanı + 2 . Taban alanı olduğundaSA = YA + 2.TSA = 2πr.h + 2π.r2 olur2π2πBir silindirin taban alanı 20π birimkare, yanal alanı 120π birimkare olduğuna göre 
+bu silindirin yüksekliğinin kaç birim olduğunu bulunuzÇözüTaban alanı π.r2 = 20π   olduğundan r = 2 5  birim olurYA= 2πr.h = 120π olduğundan 2π. 2 5 .h = 120π olur. Buradan 
+silindirin yüksekliği h = 
+6 =
+ birim olur6. Örnek 
+ 
+Taban yarıçap uzunluğu 6 birim, ana doğru parçasının 
+uzunluğu 12π birim olan bir silindirde bir karınca yandaki 
+şekildeki gibi B noktasından silindir yüzeyini takip ederek A 
+noktasına gidiyor. Karıncanın gidebileceği en kısa yolun kaç 
+birim olduğunu bulunuzÇözüSilindir AB ana doğru parçası boyunca kesilerek açıldığında 
+şekildeki dikdörtgen elde edilir. Karıncanın gidebileceği 
+en kısa yol BB'A' dik üçgeninin hipotenüs uzunluğudur 
+(|BA'|)BB' uzunluğu taban dairesinin çevre uzunluğudur|BB'| = 2π.r = 2π.6 = 12π birim olur. Buradakarıncanın gidebileceği en kısa yol 
+|BA'|= 12 2π birim olur. 
+7. Örnek 
+12A'
+B'
+1212Silindirin HacmSilindirin hacmi GeoGebra programında prizmaların hacminden faydalanılarak hesaplanacaktır.  
+Düzgün çokgen ikonuna tıklayınız. Grafik ekranına iki nokta koyduğunuzda noktalar adı 
+altında bir pencere açılacaktır. Penceredeki ilgili yere n yazarak Enter tuşuna basınız. n için 
+sürgü oluşturunuz. Sürgünün minimum değerini 4, maksimum değerini 50, artış değerini 1 
+yapınız3D grafik penceresini açınız. Girişe prizma yazdığınızda karşınıza çıkan çokgen bölümüne 
+cebir penceresinde yazan çokgenin ismini, yükseklik değeri yerine 6 yazınızSürgüyü n=5 konumuna getiriniz. 3D grafik ekranında düzgün beşgen prizma oluşacaktır1. Uygulama: Silindirin Hacmi ile Prizmanın Hacmi Arasındaki İlişkSürgüyü n = 11 konumuna getiriniz. 3D grafik ekranında düzgün onbirgen oluşacaktırSürgüyü n = 21 konumuna getiriniz. 3D grafik ekranında düzgün yirmibirgen oluşacaktırKenar sayısını (n) artırdığınızda prizmanın tabanları çokgenden daireye; prizma, silindire 
+dönüşecektirBu durumda prizmanın hacmi ile silindirin hacmi eşitlenecektirPrizmanın hacmi, prizmanın taban alanı ile yüksekliğinin çarpımı olduğundan silindirin 
+hacmi de silindirin taban alanı ile yüksekliğinin çarpımı olurTaban dairesinin yarıçap uzunluğu r, yüksekliği h olan bir silindirin taban alanı πr2 
+olduğundan hacmi πr2.h olur. O hâlde silindirin hacmi V = πr2.h olurSonuç                   
+ 
+Yandaki ABCD dikdörtgeninin  AD kenarı d doğrusu 
+üzerindedir.  |BC| = 6 birim, |AB|= 2 birim  olarak 
+verilmiştir. Bu dikdörtgen d doğrusu  etrafında 120° 
+döndürüldüğünde oluşan cismin hacminin kaç birimküp 
+olacağını bulunuzÇözüMerkez açısı 120° olan cismin hacmi, yarıçap uzunluğu 
+2 birim ve yüksekliği 6 birim olan silindirin hacminin 1  i 
+olur. 
+r 2 4 =
+=
+=
+=
+ birimküp olur10. Örnek 
+Yandaki şekilde yarıçap uzunluğu 6 birim olan dik silindirin 
+içinde bir miktar su vardır. Bir ayrıtı 3 birim olan bir 
+küp, silindirin içindeki suya bırakılıyor. Küp, suyun içine 
+tamamen battığına göre silindirin içindeki suyun kaç birim 
+yükseleceğini bulunuzÇözüSu h kadar yükselsin. h kadar yükseklik oluşturan suyun 
+hacmi küpün hacmine eşittirBir kenar uzunluğu a birim olan küpün hacmi 
+a3 = 33 = 27 birimküp,
+silindirin h yüksekliğindeki suyun hacmi 
+πr2.h = π.62.h = 36π.h birimküp olur. O hâlde 36π.h = 27 
+olmalıdır. Buradasu h = =
+ birim yükselir9. Örnek 
+120°
+120°
+B'
+C'
+Yanal yüzey alanı 120π birimkare olan silindirin taban yarıçap uzunluğu 8 birimdir. Buna 
+göre silindirin hacminin kaç birimküp olduğunu bulunuzÇözüYA= 2πr.h = 120π ⇒ 2π.8.h = 120h = 15  birim olur. Buradasilindirin hacmi  V =  π.r2.h = π.82. 15  = 480π birimküp olarak bulunur8. Örnek 
+Yandaki dikdörtgenin [AD] ve [BC] kenarları birleştirilerek 
+V1 hacimli bir silindir elde edilmiştir. 
+Aynı dikdörtgenin [AB] ve [DC] kenarları birleştirilerek V2 
+hacimli bir silindir daha elde edilmiştirBuna göre 1  oranını bulunuzÇözü[AD] ve [BC] kenarları birleştirilerek oluşturulan silindirin 
+taban çevre uzunluğu 8π birim ve yüksekliği h1 = 12π birim 
+olur. Taban çevre uzunluğu 2π.r1 = 8π ⇒r1 = 4  birim olur. 
+Birinci durumdaki hacir ��
+=
+ = π.42.12π = 192 π2 birimküp olur[AB] ve [DC] kenarları birleştirilerek oluşturulan silindirin 
+taban çevre uzunluğu 12π birim ve yüksekliği h2 = 8π birim 
+olurTaban çevre uzunluğu 2.π.r2 = 12π ⇒r2 = 6 birim olur. 
+İkinci durumdaki haci 
+r ��
+=
+ =π.62.8π = 288 π2 birimküp olur. Buradan 
+hacimlerin oranı =
+=
+ olur11. Örnek 
+812812r812rZülal Hanım, kurak geçen günlerde bahçesini sulamak maksadı ile bir kapta yağmur suyu 
+biriktirmektedir. Silindir şeklinde ve yeterli derinliğe sahip kabın taban yarıçap uzunluğu  
+20 santimetredirBoş kabı yağmurlu bir günde evinin önüne bırakan Zülal Hanım, akşamüstü yerel bir 
+televizyon kanalından bulunduğu kasabada o gün metrekareye 30 kilogram yağmur 
+düştüğünü öğreniyor. Buna göra) Zülal Hanım’ın kabında kaç litre yağmur suyu biriktiğini,
+b) Kapta biriken suyun yüksekliğinin kaç cm olduğunu bulunuz(π = 3,14 alınız, 1kg suyun hacmi = 1 litre = 1 dm3 )
+Çözüa) Silindirik kabın taban alanı 
+π.r2  = (3,14).202 = 1256 santimetrekare = 0,1256 m2, 
+1 m2 ye 30 kg yağmur düştüğüne göre kapta biriken su 
+30.(0,1256) = 3,768 kg  = 3,768 litre olurb) Kaptaki suyun hacmi 3,768 kg = 3,768 dm3 olur.   
+Suyun hacmi  π.r2.h = (3,14).22.h = (12,56).h dm3 olur(12,56).h = 3,768  olduğundan (20 cm = 2 dm) suyun yüksekliğ h = 0,3 dm = 3 cm olur12. Örnek 
+ 
+KonBir düzlem üzerinde kapalı bir k eğrisi ve düzlemin dışında 
+bir T noktası verilmiş olsun. T noktasından geçen ve k 
+eğrisini kesen doğruların kümesine konisel yüzey denirk eğrisine konisel yüzeyin dayanak eğrisi, T noktasına 
+konisel yüzeyin tepe noktası denirT noktasından geçen doğruların her birinkonisel yüzeyin ana doğrusu denirKonisel yüzey bir düzlemle kesildiğinde tepe noktası ile 
+kesit arasında kalan cisme koni denirDüzlemsel kesite koninin tabanı, tepenin tabana olan 
+uzaklığına koninin yüksekliği denirTepeden tabana indirilen dikme, tabanın ağırlık 
+merkezinden geçiyorsa bu tür konilere dik koni, tabanı 
+daire olan dik koniye dik dairesel koni denir. 
+Bu kitapta dik dairesel koni yerine koni ifadesi kullanılacaktırŞekilde tabanının bir kenar uzunluğu 10 cm, 
+yüksekliği 50 cm olan kare prizma biçiminde 
+bir demir blok verilmiştir. Demir blok eritilerek 
+kalınlığı |AB| = 1 cm, tabanının dış yarıçap 
+uzunluğu  |AC| = 5 cm olan boru hâline 
+dönüştürülüyor. Borunun uzunluğunun en 
+yakın tam sayı değerinin kaç cm olacağını 
+bulunuz.  (π = 3,14 alınız.)
+Sıra Sizd10 c50 ctepe noktası (T)
+ana doğrdayanak eğrisi (k)
+konisel yüzedayanak eğriskonana doğru 
+parçalarBir koninin taban yarıçapının uzunluğu koninin yüksekliğinin yarısına eşittir. Koninin ana 
+doğru parçasının uzunluğu 20 birim olduğuna göre koninin yüksekliğini bulunuzÇözüŞekildeki TOA dik üçgeninde Pisagor teoremi 
+uygulandığınd4r2 + r2 = 5r2 = 202 ⇒ 5r2 = 400 
+  
+  ⇒ r2 = 80 ⇒ r = 4 5  birim olur. Buradakoninin yüksekliği |TO| = 2r = 2. 4 5  = 8 5  birim  olur13. Örnek 
+Yandaki koni, [AB] tabanın bir çapı olmak üzere (T, AB) biçiminde 
+gösterilirKoninin tepe noktasından ve tabanın ağırlık merkezinden geçen 
+doğruya koninin ekseni denirKoninin ana doğru parçalarının uzunlukları eşittir(|TA| = |TB| = |TC|) 
+Dik dairesel koniye dönel koni de denir. Dönel koni, bir dik 
+üçgenin bir dik kenarı etrafında 360° döndürülmesiyle 
+oluşan konidirYandaki şekilde görüldüğü gibi bir koni, tepe noktasından 
+ve tabandan geçen  bir düzlemle kesildiğinde oluşan kesit 
+ikizkenar üçgendir. 
+2ana doğru parçaseksetaban yarıçap 
+Bir koninin yüzeyi AB yayından tepe noktasına kadar 
+şekildeki gibi boyanmıştır. Koninin ana doğru parçasının 
+uzunluğu 12 cm ve AB yayının uzunluğu 4π cm olduğuna 
+göre boyalı yüzeyin alanının kaç santimetrekare olduğunu 
+bulunuzÇözüTAB yüzeyinin açınımı bir daire dilimi olur. 
+O hâlde boyalı yüzeyin alanc=
+ olarak bulunur14. Örnek 
+Buna gör• Koninin yanal yüzeyi, merkez açısı α ve yarıçap uzunluğu l  olan bir daire dilimidir. 
+• Koninin tabanı, yarıçap uzunluğu r olan bir dairedir. 
+Koninin Yanal Yüzey Alanı (Daire Diliminin Alanı)
+Koninin taban yarıçap uzunluğu r, ana doğru parçasının uzunluğu l  olmak üzere r ile l  arasındaki 
+bağıntı aşağıdaki gibidir. 
+Yukarıdaki koninin açınımında merkez açısı α, yarıçap uzunluğu l olan daire diliminde 
+ABA' yayının uzunluğu   
+. .'
+AB°
+�
+�
+=
+(
+ olurABA' yayının uzunluğu aynı zamanda O merkezli dairenin çevresinin uzunluğuna  eşittir.  
+O hâlde  
+'
+AB2��
+=
+(
+ olur. Burada. °
+�
+�
+�
+=
+ olduğuna göre koninin taban yarıçapı ve ana doğru parçasının uzunluğu arasındakbağıntı 360°
+��
+=
+  şeklinde elde edilirDaire diliminin alanı, yarıçap uzunluğu ile merkez açıyı gören yayın uzunluğunun çarpımı şeklindyazıldığında koninin yanal yüzey alanı  
+. . =
+=
+ ⇒  YA = π.r.l  olurKoninin tüm yüzey alanı, yanal alan ile taban alanının toplamıdır. Buradakoninin tüm yüzey alanı  A = YA+ TA = π.r.l + π.r2  olurKoninin Yüzey Alanı 
+Koni yüzeyi, yanal yüzey ve taban yüzeyi olmak üzere iki bölümden oluşur. Taban yarıçap 
+uzunluğu r, ana doğru parçasının uzunluğu l olan bir koninin açınımı aşağıda verilmiştir2π2πA'
+412 c412 cYandaki şekilde taban alanı 25π birimkare ve yüksekliği 
+12 birim olan koni verilmiştir. Buna göre koninin yanal 
+yüzey alanını bulunuzÇözüKoninin taban alanı π.r2 = 25π  olduğundan r = 5 birimdir. 
+TOA dik üçgeninde Pisagor teoremi uygulandığınd|TA| = l = 13 birim olur. Buradayanal yüzey alanı YA = π.r.l =  π.5.13 = 65 π birimkare 
+olarak bulunur15. Örnek 
+Koninin  HacmKoninin hacmi GeoGebra programında piramitlerin hacminden faydalanılarak hesaplanacaktır.  
+Düzgün çokgen ikonuna tıklayınız. Grafik ekranında farklı iki noktaya tıkladığınızda Noktalar 
+adı altında bir pencere açılacaktır. Penceredeki satıra n yazıp Enter tuşuna basınız. Sürgünün 
+minimum değerini 4, maksimum değerini 50, artış değerini 1 yapınız3D Grafik Penceresini açınız. Girişe piramit yazdığınızda oluşan satırda Çokgen bölümüne 
+çokgen1, yükseklik değeri yerine 6 yazınızSürgüyü n = 5 konumuna getiriniz. 3D grafik ekranında düzgün beşgen piramit oluşacaktır2. Uygulama: Koninin Hacmi ile Piramidin Hacmi Arasındaki İlişk 
+Yandaki daire diliminin merkez açısının ölçüsü 135° ve 
+|AB|=|AC|= 8 birim olarak verilmiştir.  Bu daire diliminin 
+AB ile AC kenarları bir koni olacak şekilde çakıştırılıyor. 
+Buna göre oluşan koninin hacmini bulunuz. 
+Çözü360°
+��
+=
+ ⇒ 
+°
+°
+=
+ ⇒ r = 3 birim olurAOB dik üçgeninde Pisagor teoremi uygulandığında  
+h2 + 9 = 64 ⇒ h = 
+55  birim olur. Buradan 
+oluşan koninin hacmi 
+r 3 =
+=
+=
+ 
+birimküp olur16. Örnek 
+8 c8 c135°
+Sürgüyü n = 10 konumuna getiriniz. 3D grafik ekranında düzgün ongen piramit oluşacaktırSürgüyü n = 21 konumuna getiriniz. 3D grafik ekranında düzgün yirmibirgen piramit 
+oluşacaktırKenar sayısını (n) artırdığınızda piramidin tabanı çokgenden daireye; piramit, koniye 
+dönüşecektir. Bu durumda piramidin hacmi ile koninin hacmi eşitlenecektirPiramidin hacmi, piramidin taban alanı ile yüksekliğinin çarpımının 1  i olduğundan taban 
+dairesinin yarıçap uzunluğu r ve yüksekliği h olan bir koninin hacmi 
+πr2.h  olurSonuç                   
+Taban merkezi O olan yanda verilen koni, şekildeki gibi T, 
+A, B noktalarından geçen bir düzlem ile kesiştiriliyor ve TAB 
+üçgeni oluşturuluyor. |TO| = 6 birim,
+ (
+)
+A TA&  = 40 birimkare, |AB|= 10 birim olduğuna göre 
+koninin hacminin kaç birimküp olduğunu bulunuzÇözü|TA| ve |TB| koninin ana doğru parçaları olduğundan 
+birbirine eşittir. O hâlde TAB, ikizkenar üçgendir. 
+İkizkenar üçgenin TH yüksekliği çizildiğinde 
+TAB üçgeninin alanı 
+(
+)
+A TATA=
+&
+olur.  
+T=
+ ⇒ |TH|= 8 birim olur. 
+|AH| = |HB| = 5 birim olur TOH dik üçgeninde Pisagor teoremi uygulandığında 
+|OH|= 2 7  birim olurOAH dik üçgeninde r hipotenüs olur. 
+OAH dik üçgeninde Pisagor teoremi uygulandığında 
+r2 = 28 + 25 ⇒ r2 = 53 olur. O hâlde 
+koninin hacmi 
+. r 53 =
+=
+=
+ birimküp olur17. Örnek 
+2 Yandaki şekilde yüksekliği 25 cm olan koni biçimindeki 
+bir kaba, bir musluktan sabit hızla su akmaktadır. Bir saat 
+içerisinde kapta biriken suyun yüksekliği 15 cm olduğuna 
+göre kabın kaç saatte dolacağını bulunuzÇözüBüyük koninin taban yarıçapı r, küçük koninin taban 
+yarıçap uzunluğu r1 olsun. TO1B ile TOA üçgenlerinin 
+benzerliğinde1 =
+=
+ olur. 
+r1 = 3k, r = 5k olsun. |TO1|=15 cm, | TO |=25  cm olurKüçük koninin içindeki suyun hacmi 
+(
+)
+Tk k =
+=
+=
+olurBüyük koninin alabileceği suyun hacm 
+. (
+)
+T=
+=
+ olur. Burada1  saatte    45 k2.hx  saatte   
+625 ��  olur. Burada x = 125  olur. O hâlde kap 125  saatte dolar18. Örnek 
+15 c25 c15 c25 crO 
+KürUzayda sabit bir noktadan eşit uzaklıktaki noktaların 
+kümesine küre yüzeyi, küre yüzeyi ile sınırlı cisme küre denir. 
+Sabit noktaya kürenin merkezi, kürenin üzerindeki herhangi 
+bir noktanın merkeze uzaklığına kürenin yarıçapı denirKürenin Yüzey AlanBir kürenin yüzey alanı, kürenin en büyük dairesinin alanının 4 katıdırO hâlde kürenin en büyük dairesinin alanı πr2 olduğundan kürenin yüzey alanı A = 4πr2 olurmerkeyarıça  Bir küre ile kürenin merkezinden geçen bir 
+düzlemin ara kesiti kürenin en büyük dairesidirNoŞekildeki koninin taban yarıçapı uzunluğu 6 cm, 
+koninin içindeki silindirin üst taban çevresi koniye teğet,
+silindirin taban yarıçap uzunluğu 1 cm olduğuna göre koninin hacmini silindirin hacmine oranını bulunuzSıra SizdYarıçap uzunluğu 2 birim olan kürenin yüzey alanını ve en büyük dairesinin alanını 
+bulunuzÇözüKürenin yarıçap uzunluğu r = 2 olduğundan 
+kürenin en büyük dairesinin alanı  π.r2 = π.22 = 4π birimkare,  
+kürenin yüzey alanı  4π.r2 = 4π.22 = 16π birimkare olur. 
+19. Örnek 
+yüzeen büyük 
+dairYarıçap uzunluğu 3 birim olan bir kürenin hacmini bulunuzÇözüKürenin hacmi  V = 
+$
+$
+=
+=
+ birimküp olur21. Örnek 
+Yarıçap uzunluğu 20 cm olan küre şeklindeki bir karpuzun iki eş parçasında biri yanda verilmiştir. Buna göre karpuz parçasının yüzey alanını 
+bulunuzÇözüŞekilde görüldüğü gibi karpuzun kesiti bir daire oluşturur ve karpuzun kabuğu küre 
+yüzeyinin yarısıdır. Küre yüzeyinin yarısının alanı ile dairenin alanının toplamı karpuz 
+parçasının yüzey alanına eşittirDairenin ve küre yüzeyinin yarısının yarıçapı aynı olduğundadairenin alanı  π.r2 =  π.202 = 400π cm2 vküre yüzeyinin yarısının alanı  
+��  = 2π.r2  = 2π.202 = 800π cm2 olur. Buradakarpuzun yüzey alanı  400π cm2 + 800π cm2 = 1200π cm2 olur20. Örnek 
+Kürenin HacmBir kürenin yüzeyine n tane ilmekli bir ağ gerilmiş ve ağın her 
+bir gözü birer taban olsun. Taban köşeleri kürenin merkezinde 
+birleştirilerek piramide benzeyen şekiller oluşturulsun. Bu 
+şekillerin her biri küreyi n tane parçaya böler. Ağ gözleri sıklaştıkça 
+düzleşir. Piramide benzeyen bu şekillerin yüksekliği ağın göz sayısı 
+artırılarak kürenin yarıçapına yaklaştırılabilir (h≈r)Piramide benzeyen bu şekillerin taban alanları 
+,
+,
+,...,
+A A A ve 
+kürenin yüzey alanı 
+��
+=
+ olsun. 
+Bu şekillerin taban alanları toplamı yaklaşık olarak kürenin yüzey 
+alanı olur. O hâld 
++
++
++
++
+ olur. Oluşan bu şekillerin her birinin hacm,
+,
+,...,
+A A   olur. 
+Kürenin hacmi yaklaşık olarak bu şekillerin hacimlerinin toplamı olur. O hâldA A A r olur Burada+
++
++
++
++
++
++
++
+=
+=
+^
+= 44πr3  elde edilir 
+Tabanları birbirine  paralel dairelerden oluşan kapalı bir 
+cisim yanda verilmiştir. Cismin içine, tabanlara ve yan 
+yüzeylere teğet olan küre şeklinde bir cisim yerleştiriliyor. 
+Dıştaki cismin üst taban dairesinin çap uzunluğu 
+10 santimetre, alt taban dairesinin çap uzunluğu 
+18 santimetredir. Buna göre küre şeklindeki cismin 
+hacminin kaç santimetreküp olduğunu bulunuzÇözüYukarıdaki şeklin dik kesit görüntüsü yandaki gibidirKesit, ikizkenar yamuk ve yamuğa içten teğet çemberden 
+oluşur|ED| = 5 cm, |GC| = 9 cm olur|ED| = |DF| = 5 cm, |GC| = |CF| = 9 cm olurD köşesinden BC kenarına çizilen dikmenin ayağı H olsun. Oluşan EDHG dikdörtgenind|ED| = |GH| = 5 cm, |HC| = 4 cm olur. DHC dik üçgeninde Pisagor teoremi 
+uygulandığında yamuğun yüksekliği |DH|= 6 5  cm olur. 
+Çemberin çap uzunluğu ile yamuğun yüksekliği eşit  olduğundan 2r =|DH|=6 5 cm olur. 
+Kürenin yarıçap uzunluğu r =
+6 5  =3 5 cm olur. Buradan kürenin hacm(
+)
+santimetrek p olu3 27 5 180 =
+=
+=
+=
+  
+23. Örnek 
+Yarıçap uzunluğu ve yüksekliği eşit koni biçiminde bir kap ile yarıçapı konininki ile aynı 
+olan küre biçiminde bir kap veriliyor. Küre, sıvı ile dolu olduğuna göre koni biçimindeki 
+kap kullanılarak küre içindeki suyun kaç defada boşaltılacağını bulunuzÇözüKürenin hacmi k r��
+=
+ birimküp, koninin hacmi kon$ ��
+=
+ birimküp olur. 
+Küre içindeki su konk r=
+ = 4 defada boşaltılır22. Örnek 
+Yarıçapı ve yüksekliği aynı olan bir silindirin hacminin, silindirle aynı yarıçaplı bir kürenin 
+hacminin kaç katı olacağını bulunuzSıra SizdH Görünüm başlığı altındaki 3D grafik sayfasını açınızr sürgüsünü oluşturunuz. Minimum değerini 1, maksimum değerini 6, artış miktarını 1 
+yapınız. Girişe küre yazınız. Oluşan satırdaki nokta bölümüne (0,0,0), yarıçap bölümüne r 
+yazınız. Merkezi (0,0,0), yarıçap uzunluğu r  olan küre 3D sayfasında görülecektir. 
+Girişe silindir yazınız. Oluşan satırdaki 1. nokta bölümüne (0,0,-r), 2. nokta bölümüne 
+(0,0,r), yarıçap bölümüne r yazınız. Alt taban merkezi (0,0,-r), üst taban merkezi (0,0,r) ve 
+taban yarıçap uzunluğu r olan silindir 3D sayfasında görülecektir3D sayfasında oluşan kürenin, silindirin yüzeylerine içten teğet olduğu görülürSilindirin yüksekliği ile kürenin çapı, silindirin taban çapı ile kürenin çap uzunluğu aynı olurSürgüyü r = 3 konumuna getirinizKürenin hacminin silindirin hacmine oranı 2  olurdinizSürgüyü r = 6  konumuna getirinizKürenin hacmi ile silindirin hacmi arasındaki orana  dikkat edinizSürgülerin farklı durumları için bu oranın sabit kalacağını tespit edinizİç yüzeylerine teğet olmak şartıyla bir silindirin içine konulabilecek en büyük kürenin  hacmi 
+ile silindirin hacminin oranı 2  olur3. Uygulama: Kürenin Hacmi ile Silindirin Hacmi Arasındaki İlişk 
+r ve h sürgülerini oluşturunuzr için minimum değeri 1, maksimum değeri 5, artış miktarını 1 yapınızh için minimum değeri 1, maksimum değeri 10, artış değerini 1 yapınızGirişe silindir yazınız. Oluşan satırda 1. nokta bölümüne (0,0,0), 2. nokta bölümüne (0,0,h), 
+yarıçap yerine r yazınız. Alt taban merkezi (0,0,0), üst taban merkezi (0,0,h) ve taban yarıçap 
+uzunluğu r olan silindir 3D sayfasında görülecektirGirişe koni yazınız. Oluşan satırda 1. nokta bölümüne (0,0,0), 2. nokta bölümüne (0,0,h),  
+yarıçap bölümüne r yazınız. Alt taban merkezi (0,0,0), tepe noktası (0,0,h) ve  yarıçap 
+uzunluğu r olan koni 3D sayfasında görülecektirSürgüleri r = 3, h = 5 konumuna getiriniz. Taban yarıçap uzunluğu 3 birim, yüksekliği 5 birim 
+olan koni ve silindiri oluşturunuzKoninin hacminin silindirin hacmine oranı 1  olurSürgülerin farklı durumları için bu oranın sabit kalacağını tespit edinizİçine sığdığı en küçük silindir ile koninin hacminin oranı 1  olur4. Uygulama: Silindirin Hacmi ile Koninin Hacmi Arasındaki İlişkA) Aşağıda verilen cümlelerde boş bırakılan yerleri uygun ifadelerle doldurunuz1. Taban yarıçap uzunlukları ve yükseklikleri eşit olan koni ile silindirin hacimleri oranı ……………olur. 
+2. Ana doğru parçasının uzunluğu a, taban yarıçap uzunluğu r olan koninin yanal yüzeyinin alanı …………olur. 
+3. Taban yarıçap uzunluğu r, yüksekliği h olan silindirin yanal yüzey alanı………….olur. 
+4. Bir kürenin yarıçap uzunluğu 3 cm, ikinci bir kürenin yarıçap uzunluğu 9 cm dir. Bu kürelerin 
+hacimlerinin oranı..................olur. 
+5. Bir kürenin yüzey alanı, o kürenin en büyük dairesinin alanının …………… katıdır. 
+B) Aşağıda verilen numaralandırılmış ifadeleri harf ile verilen ifadelerle eşleştiriniz.  
+6. Bir koninin ana doğru parçasının uzunluğu 12 cm, yüksekliği 6 cm olduğuna 
+göre hacmi kaç santimetreküptür? (    )
+7. Bir koninin ana doğru parçasının uzunluğu 8 santimetredir. Koninin ana doğru 
+parçasının tabanı kestiği noktadan geçen çap ile yaptığı açı 60° olduğuna görkoninin yüksekliği kaç santimetredir? (    )
+8. Bir kürenin yarıçap uzunluğu yüzde 10 artırıldığında hacmi yaklaşık yüzde kaç 
+artar? (    ) 
+9. Çap uzunluğu 8 cm olan bir küre içine yerleştirilebilecek en büyük küpün bir ayrıtının uzunluğu kaç 
+santimetredir?  (    )
+a) 4 b) 33,c) 216 ç) d) 
+8 e) 5 f) C) Aşağıdaki soruların çözümlerini altlarındaki 
+boşluklara yazınız10. Yağmur suları 50 cm uzunluğunda, 
+100 cm genişliğindeki dikdörtgen tabanlı bir 
+konteynerde biriktiriliyorSu seviyesi 31,4 cm ye ulaştığında biriken su, 
+taban yarıçap uzunluğu 20 cm olan silindirik 
+boş bir bidona boşaltılıyor. Bidondaki suyun 
+yüksekliğinin kaç cm olduğunu bulunuz(π = 3,14 alınız.) 
+11. 
+Bir sirk çadırı biri silindir, diğeri koni 
+şeklinde iki parçadan oluşmaktadır. 
+Silindirin yüksekliği 15 metre, taban yarıçap 
+uzunluğu 15 metre, çadırın yüksekliği        
+23 metredir. Çadırın yapımında kullanılan 
+brandanın metrekaresi 80 TL dirÇadırın silindir ve koni şeklindeki 
+parçalarının tabanlarında branda 
+kullanılmadığına göre toplam branda 
+maliyetinin en az kaç TL olduğunu bulunuz. 
+(π = 3,14 alınız.)
+ÖLÇME VE DEĞERLENDİRM 
+B(-3, 0)
+C(-1, 0)

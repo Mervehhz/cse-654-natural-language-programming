@@ -1,0 +1,400 @@
+ olur. DAB ikizkenar dik üçgen olduğundan 
+Dc4 =
+ olur. Buradan DKc2 =
+=
+ bulunur. DAB dik üçgeinde A? hipotenüse ait kenarortay olduğundan Ac2 =
+ olur.                     
+Verilen CK3 $
+=
+ eşitliği ile Cc3 2 6 $
+=
+=
+ olur. 
+Bu durumda 
+(
+)
+A ABCABc8 2 4 $
+$
+=
+=
+=
+ bulunurDörtgenler ve ÇokgenleDörtgenler ve ÇokgenleYandaki şekilde verilen ABCD deltoidinde 
+AD+
+=
+@
+@
+"
+, , Ave D@
+@ köşege, AB+
+=
+@
+@
+"
+, , A! @, 
+,
+,
+AADTCK2 $
+=
+=
+=
+ 
+ve 
+(
+)
+A ABc=
+&
+ olduğuna göre  ABCD deltoidinin alanının kaç cm2  olduğun bulunuzCD&  nde DK  olan yükseklik hem CD&  nin hem de AD&  nin yüksekliğidir. 
+Yükseklikleri eşit olan üçgenlerin alanları oranı tabanları oranına eşit olduğundan 
+(
+)
+(
+)
+(
+)
+(
+)
+A ADA CDA CDA CDc&
+&
+=
+=
+=
+&
+&
+&
+&
+ olur. 
+Benzer şekilde 
+(
+)
+(
+)
+A CDA CBc=
+=
+&
+&
+ bulunurSonuç olarak 
+(
+)
+A ABCc=
++
++
++
+=
+ elde edilirYandaki gibi kare şeklinde bir kağıt alınız. Kağıdın köşelerini daha rahat 
+katlama yapabilmek için isimlendirinizOrigami tekniği ile kare şeklinde bir kağıttan deltoid elde edinizABCD deltoid olduğundan verilenlere göre DK=
+ olur. 
+Aynı zamanda DT=
+ olduğundan L noktası   ABD üçgenini ağırlık merkezidir. Bu durumda D@ kenarortayı çizilirse 
+(
+)
+(
+)
+(
+)
+(
+)
+(
+)
+(
+)
+A LAA LBA LBA LDA LDA LAc=
+=
+=
+=
+=
+=
+&
+&
+&
+&
+&
+&
+ olur. Ayrıca 
+L noktası ABD üçgeninin ağırlık merkezi olduğu için K=
+ denilirse L=
+ 
+ve CK=
+ olduğundan C=
+ olurDörtgenler ve ÇokgenleDörtgenler ve ÇokgenleBu ifadelerden KLPR dörtgeninin paralelkenar olduğu aşağıdaki gibi gösterilebilirADC üçgeninde P?orta taban olduğundan 
+,
+PAPA'
+=
+?
+?
+ ve  ABC üçgenind K? orta taban olduğundan 
+,
+KAKA'
+=
+?
+?
+  şeklindedir. Bu durumda 
+PL=
+ olurSonuç olarak KLPR dörtgeninin karşılıklı kenarları hem paralel hem eşit uzunlukta olmuştur. 
+Buradan KLPR dörtgeninin paralelkenar olduğu sonucuna ulaşılırSiz de diğer verilenlerin doğruluğunu göstererek sınıfta arkadaşlarınıza sunum yapınızA ile C noktalarını birleştirerek AC  köşegenini çiziniz. Daha sonra sırayla 
+, AA?
+? nın üstüne gelecek 
+şekilde; 
+, AA?
+? nın üstüne gelecek şekilde katlayınızBu işlemler sonunda elde edilen ARCP dörtgeni bir deltoid olur.  
+                                              
+Bir dörtgenin kenarlarının orta noktaları birleştirilerek elde edilen dörtge paralelkenar olur. Yandaki ABCD dörtgeni içi• KLPR dörtgeni paralelkenardır• 
+AB=
+ ise KLPR dörtgeni eşkenar dörtgendir• 
+AB=
+?
+? ise KLPR dörtgeni dikdörtgendir• 
+AB=
+?
+? ve AB=
+ ise KLPR dörtgeni karedirİpucABD üçgeninde K? orta taban olduğundan 
+,
+KBKB'
+=
+?
+?
+ ve CDB üçgeninde L? orta taban 
+olduğundan 
+,
+LLB'
+=
+?
+?
+ şeklindedir. Bu durumda 
+KL=
+ olurBenzer şekilde ADC üçgeninde R? orta taban olduğundan 
+,
+RARA'
+=
+?
+?
+ ve ABB üçgeninde K? orta taban 
+olduğundan 
+,
+KAA'
+=
+?
+?
+ şeklindedir. Bu durumda 
+KRKRv'
+=
+?
+?
+ olurDörtgenler ve ÇokgenleDörtgenler ve ÇokgenleYandaki ABCD dörtgeninde K, L, P, R noktaları bulundukları kenarların orta 
+noktalarıdır. Ac=
+ ve Bc=
+ olduğuna göre KLPR dörtgenini çevresinin kaç cm olduğunu bulunuzPRKL dörtgeni paralelkenar olduğundan PLA=
+=
+  ve PLc=
+=
+ bulunur. Benzer 
+şekilde RPD=
+=
+  ve RPc=
+=
+ bulunurBu durumda 
+(
+)
+KLPPLRPc=
++
++
++
+=
++
++
++
+=
+ olurYandaki ABCD dörtgeninde K, L, P, R noktaları bulundukları kenarların orta 
+noktaları, Ave B@
+@ köşegendir. KLPR dörtgeni eşkenar dörtgen ve 
+(
+)
+KLPc=
+ olduğuna göre Ç(ABCD) nin alabileceği tam sayı değerini en az kaç cm olduğunu bulunuz(
+)
+KLPc=
+ ise KLPRc+
++
++
+=
+ olur. KLPR  eşkenar dörtgeninin kenarları orta 
+taban olduğundan KLPRABc=
+=
+=
+=
+=
+=
+ ve buradan ABc=
+=
+ 
+bulunurADC üçgeninde üçgen eşitsizliği ile AAD+
+ şeklindedir. ABC üçgeninde üçgen eşitsizliği ile 
+AAB+
+ şeklindedir. Bu eşitsizlikler taraf tarafa toplanırsa 
+(
+)
+(
+)
+AADABABCABCD elde edili2 $
+$
++
++
++
+Sonuç olarak Ç(ABCD) nin tam sayı değeri en az 41 cm olarak bulunurDörtgenler ve ÇokgenleDörtgenler ve ÇokgenleYukarıda sol tarafta birim kareli zeminde verilmiş olan  tangram parçalarını sağ taraftaki birim kareli zemind verilmiş olan dik yamuğun içine hiç parça artmayacak biçimde yerleştirinizVerilen tangram parçaları dik yamuğun içine yandaki gibi yerleştirilebili. Siz de akıllı telefon ve tabletlerinize tangram uygulaması indirini ve bu oyunu arkadaşlarınızla oynayınız     a) Duvarın alanı bir adet çininin alanına bölünerek kaç adet çini gerektiği bulunur. 
+cm vc=
+=
+ olduğundan gereken çini sayısı,
+    
+olu20 400 $
+$
+=
+     b) Çinilere ödenecek para 
+0 $
+=
+ Türk lirasıdır. Çini ile kaplanacak alan 
+4 $
+=
+ 
+olduğundan ve usta çininin metrekaresini 75 Türk lirasına döşediğinden ustaya ödenecek para  
+24 $
+=
+ Türk lirasıdır. Oğuz Bey’in ödeyeceği toplam para ise 10 +
+=
+ Türk lirası olurMimar Oğuz Bey bir caminin dikdörtgen şeklindeki duvarlarından birisin yandaki şekilde gösterildiği gibi geleneksel Türk mimarisindeki 
+çinilerle kaplamak istemektedir. 
+• Çinilerin her biri eşit büyüklükte ve kare şeklindedir• Duvarın kısa kenarı 4 m ve uzun kenarı 6 m dir• Bir çininin kenar uzunluğu 20 cm ve fiyatı 15 Türk lirasıdır• Bir usta çininin metrekaresini 75 Türk lirasına döşemektedirBuna göre 
+a) Oğuz Bey’in bu iş için kaç adet çini alması gerektiğini bulunuzb) Çinilerin toplam fiyatını ve Oğuz Bey’in ödeyeceği toplam parayı bulunuzDörtgenler ve ÇokgenleDörtgenler ve ÇokgenleYandaki şekilde boyutları 160 cm ve 240 cm 
+olan dikdörtgen şeklindeki bir halı dijital baskı 
+yöntemi ile boyanacaktır. Halı üzerine iki eş 
+eşkenar dörtgen ve bunların içlerine yine eş 
+eşkenar dörtgenler şekildeki gibi yerleştirilecekti. Dıştaki eşkenar dörtgenin köşegenlerinin 
+uzunlukları 120 cm ve 160 cm, içteki eşkenar 
+dörtgenin köşegenlerinin uzunlukları 80 cm ve 
+120 cm dir. İçteki eşkenar dörtgenlerin içine 
+ve dıştaki eşkenar dörtgenlerin dışına desen 
+yerleştirileceğine göre desen yerleştirilecek 
+bölgenin alanının kaç m2  olduğunu bulunuzHalının alanı 
+c160 38 $
+=
+ 
+dir. Dıştaki eşkenar dörtgenin alan 
+c120 19 $
+=
+=
+ 
+ve içteki eşkenar dörtgenin alanı 
+c80 $
+=
+=
+ olur. İki eşkena dörtgen arasındaki boşluğun alanı 
+c-
+=
+ dir. Halının alanndan eşit büyüklükteki iki boşluğun alanı 
+çıkarılırsa desen yerleştirilecek bölgenin alan,
+c38 2 28 2 $
+-
+=
+=
+ 
+bulunurAnadolu insanının aşklarını, özlemlerini, ayrılık acılarını, sevinçlerini, üzüntülerini ilmek ilmek 
+dokuduğu kilimlerdeki geometrik desenlere dikkat ettiniz mi?
+Dörtgenler ve ÇokgenleDörtgenler ve Çokgenle1. 
+Yukarıdaki şekilde verilen ABCD deltoidinde 
+A@ köşegen; AA=
+; 
+(
+)
+m AC=
+%
+(
+)
+m AB=
++
+%
+, 
+(
+)
+m AD=
+-
+%
+ ve 
+(
+)
+m BA=
+%
+ olduğuna göre y değerinin kaç 
+derece olduğunu  bulunuz. 
+2  
+Yukarıdaki şekilde verilen ABCD deltoidind Ave D@
+@ köşegenlerinin kesim 
+noktası K'dır. 
+,
+DB=
+?
+?  AA=
+, 
+KK2 $
+=
+ ve Ac3 =
+ olduğun göre ABCD deltoidinin alanının kaç cm2  
+olduğunu bulunuz3. 
+Yukarıdaki şekilde verilen ABCD deltoidinde 
+Ave D@
+@ köşegenlerinin kesim noktas R'dir. BA=
+ olup P noktası D@ 
+nın ve S noktası A@ nın orta noktasıdır. 
+Pc=
+ ve Rc=
+ olduğuna göre 
+ABCD deltoidinin çevresinin kaç cm olduğunu 
+bulunuz4. 
+ 
+   
+Yukarıdaki şekilde verilen ABCD 
+deltoidinde P, R, S, T noktaları bulundukları 
+kenarların orta noktaları, Ave D@
+@ 
+köşegendir. 
+,
+DCDc=
+=
+ ve 
+(
+)
+A PRSc=
+ olduğuna göre AC  nun 
+kaç cm olduğunu bulunuz5. 
+ 
+Yukarıdaki şekilde verilen ABCD deltoidind P, R, S noktaları bulundukları kenarların 
+orta noktaları, Ave D@
+@ köşegendir. 
+AB=
+ ve Pc=
+, Pc=
+ 
+olduğuna göre AB+
+ toplamının kaç cm 
+olduğunu bulunuz. 
+6. 
+Yukarıdaki şekilde verilen ABCD deltoidinde 
+Ave D@
+@ köşegen; AD=
+;
+,
+Dc=
+ Cc=
+ ve 
+Dc=
+ olduğuna göre ABCD deltoidini alanının kaç cm2  olduğunu bulunuzALIŞTIRMALADörtgenler ve ÇokgenleDörtgenler ve ÇokgenleA) Aşağıdaki cümlelerde boş bırakılan 
+yerlere doğru ifadeyi yazınız1. n kenarlı bir çokgenin dış açılarının ölçülerinin 
+toplamı ................... derecedir2. n kenarlı bir düzgün çokgenin bir dış açısının 
+ölçüsü .................... derecedir. 
+B) Aşağıda numaralarla açı bilgileri verile ifadeler ile bu bilgilere ait harflerle 
+verilen çokgenleri eşleştirip eşleşenler alttaki kutulara yazınız3. 
+ 
+1.  İç açılarının ölçüleri 
+toplamı 360 derece 
+olan çokgen      
+      
+2. Bir dış açısının ölçüsü 
+40 derece olan düzgü çokge3. Bir iç açısının ölçüsü 
+135 derece olan düzgü çokge4. İç açılarının ölçüleri  

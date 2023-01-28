@@ -1,0 +1,400 @@
+A = B şeklinde gösterilir. A ve B eşit kümeler değil ise AπB şeklinde gösterilir. 
+ 
+Örneğin;
+A={pazar, pazartesi, perşembe} ve 
+B={x| x, haftanın "p" harfi ile başlayan günleri} kümelerinin elemanları aynıdır. 
+Dolayısıyla A=B dir. 
+M = {a, b, {∅}} ve N = {c, f, {t}} kümelerinin elemanları birbirinden farklıdır. Dolayısıyl MπN dir. 
+ÖrneA={x: x, 1 ile 5 arasındaki doğal sayılar} ve 
+B={x: 4 ≤ x2 ≤ 19 ve xŒN} kümeleri veriliyor. A ve B kümelerini liste yöntemiyle 
+göstererek bu iki kümenin eşitliğini alt küme ile ilişkilendirelim. 
+ÇözüA ve B kümelerini liste yöntemiyle yazalım. 
+A={x: x, 1 ile 5 arasındaki doğal sayılar} olduğundan 
+B={2, 3, 4} tür. 
+B={x: 4 ≤ x2 ≤ 19 ve x doğal sayı} olduğundan   
+B={2, 3, 4} tür. Buna göre A kümesi ile B kümesinin elemanları aynı olduğundan 
+A=B (A kümesi, B kümesine eşit) olur. 
+Aynı zamanda A kümesi B nin, B kümesi de A nın alt kümesidirAÃB ve BÃA dır. 
+AlıştırmAşağıdaki kümelerden eşit olanları bulunuz. 
+A= {x| x, Haftanın "c" ile başlayan günleri}, 
+B= {cuma, cumartesi},
+D= {a, {a,c}, f},  
+ 
+E= {3, 4, 7},
+F= {1, 2, {1, 2}, 5},   
+G= {5, 2, 1, {1, 2}}
+Matematik 2. BölüKümeleKÜMELERDE İŞLEMLEKümelerde Birleşim İşlemA ve B kümelerinin bütün elemanlarının meydana getirdiği kümeye A birleşim B 
+kümesi denir. A»B şeklinde gösterilirA»B = {x: xŒA veya xŒB} dir. 
+A»A»(s(A»B) en çok)
+A»B=A⇔BÃ(s(A»B) en az)
+Birleşim İşleminin Özellikler1- Tek kuvvet özelliğA»A=A dırA kümesi ile A kümesinin birleşimi A kümesine eşittir2- Değişme özelliğA»B = B»A dırA ile B kümesinin birleşimi, B ile A kümesinin birleşimine eşittir3- Yutan eleman özelliğA»E = E»A = E dirA kümesi ile E evrensel kümesinin birleşimi E evrensel kümesine eşittir. Evrenseküme (E), birleşim işleminin yutan elemanıdır4- Birleşme özelliğA»(B»C) = (A»B)»C dirKümelerde birleşim işleminin birleşme özelliği vardır5- Etkisiz (Birim) eleman özelliğA»∅ = ∅»A = A dırA ile boş kümenin birleşimi yine A kümesine eşittir. Birleşim işleminin etkisiz (biri) elemanı boş küme (∅) dirMatematik 2. BölüKümeleÖRNEKLE1- A={a, b, c, x},    B={x, y, z, d} olarak veriliyor. A»B kümesini liste biçiminde yazalımÇözüA={a, b, c, x},    B={x, y, z, d}
+A»B = {a, b, c, x}»{x, y, z, d}
+A»B = {a, b, c, x, y, z, d} olur2- B={●, ▲,+, e},  D={6, 8, n, e} olarak veriliyor. B»D kümesini liste biçiminde yazalımÇözüB={●, ▲,+, e},  D={6, 8, n, e}
+B»D = {●, ▲,+, e}»{6, 8, n, e}
+B»D = {●, ▲,+, e, 6, 8, n} dir3- A={a, b, x, 7}, B={b, c, 8} olarak veriliyor. Buna göra) A»b) A»B = B»A kümelerini yazalımÇözüa) A»A = {a, b, x, 7}»{a, b, x, 7} = {a, b, x, 7} = A kümesi ile A kümesinin birleşimi A kümesine eşittir. (Tek kuvvet özelliği)
+b) A»B = {a, b, x, 7}»{b, c, 8} = {a, b, c, x, 7, 8}
+B»A = {b, c, 8}»{a, b, x, 7} = {a, b, c, x, 7, 8} olur. Buna göre A»B = B»A dır(Değişme özelliği)
+4- A={a, b, x},  B={c, d, x} ve C= {e, g, x, +} olarak veriliyor. Buna göra) A»(B»C) = (A»B)»C,
+b) A»∅ = ∅»A=A kümelerini yazalımÇözüa) A={a, b, x},  B={c, d, x} ve C= {e, g, x, +}
+       A»(B»C) =  (A»B)»C olduğundan 
+     {a, b, x}»({c, d, x}»{e, g, x, +}) =   ({a, b, x}»{c, d, x})»{e, g, x, +}
+            {a, b, x}»({c, d, x, e, g, +})  =   {a, b, c, d, x}»{e, g, x, +}
+{a, b, x, c, d, e, g, +}   =   {a, b, x, c, d, e, g, +} olur. 
+(Kümelerde birleşim işleminin birleşme özelliği)
+Matematik 2. BölüKümeleb) A»∅ = ∅»A={a, b, x}»{ } = { }» {a, b, x} = {a, b, x}
+Boş kümenin elemanı olmadığından boş küme ile A kümesinin birleşimi yine A 
+kümesine eşittir. 
+ALIŞTIRMALA1- E={0, +, 7, b}, G={ ▲, +, c, a} olarak veriliyorE»G kümesini liste biçiminde yazınız2- A={a, b, +, ▲},   B={ a, ▲, 3, 2} olarak veriliyorA»B kümesini liste biçiminde yazınız3- A={c, x, z},   B={ d, n, 1, 2} olarak veriliyora) A»A,
+b) A»B = B»A kümelerini yazınız4- A={k, z, ●, t},  B={k, ●, ▲, n} ve C= {z, ●, t, 7} olarak veriliyor. Buna göra) A»(B»C) = (A»B)»C,
+b) A»∅ = ∅»A=A kümelerini yazınızKümelerde Kesişim İşlemA ve B kümelerinin ortak elemanlarının meydana getirdiği kümeye A kesişim B 
+kümesi denir. A « B şeklinde gösterilir. 
+A«B = {x: xŒA ve xŒB}dir. 
+A«A«B = ∅
+(s(A«B) en az)
+A«B=B ⇔ BÃ(s(A«B) en çok)
+Matematik 2. BölüKümeleKesişim İşleminin Özellikler1- Tek kuvvet özelliğ 
+A«A=A dır 
+A kümesi ile A kümesinin kesişimi A kümesine eşittir. 
+2- Değişme özelliğ 
+A«B = B«A dır. 
+ 
+A ile B kümesinin kesişimi, B ile A kümesinin kesişimine eşittir. 
+3- Etkisiz (birim) elema 
+A « E = E « A = A dır 
+A kümesi ile E evrensel kümesinin kesişimi A kümesine eşittir. Kesişim işleminin 
+etkisiz elemanı evrensel küme (E) dir4- Yutan elema 
+A « ∅ = ∅ « A = ∅ dir 
+A kümesi ile boş kümenin kesişimi ∅ kümeye eşittir. Kesişim işleminin yutan eleman boş küme (∅) dir. 
+5- Birleşme özelliğ 
+A«(B«C) = (A«B)«C dir. 
+ 
+Kümelerde kesişim işleminin birleşme özelliği vardır6- Dağılma özelliğ 
+A«(B»C) = (A«B)»(A«C)
+ 
+A»(B«C) = (A»B)«(A»C) dir. 
+ 
+Kesişim ve birleşim işlemlerinin dağılma özelliği vardır. 
+Ayrık Kümeler 
+Elemanlarının hiçbiri ortak olmayan iki kümeye ayrık kümeler denir. A«B = ∅
+ise A ile B ayrık kümelerdir ve A ile B ayrık kümeler ise A«B = ∅ dir. 
+•••••••A«B = ∅
+
+Matematik 2. BölüKümele 
+ÖRNEKLE1- A ={▲,+, ●, ■}, B= {1, 2, 3, a} olarak veriliyor. 
+ 
+A ve B kümelerini Venn şeması ile gösterip bu kümelerin ayrık olup olmadığını 
+bulalım. 
+ 
+Çözü 
+A ve B kümelerini Venn şeması ile gösterelim ve kesişimlerini bulalım. 
+ 
+•▲
+••+
+•••A«B = ∅
+
+•■
+•●
+ 
+A ve B kümelerinin hiçbir ortak elemanı yoktur. A ve B kümelerinin kesişimi boş 
+kümedir. Buna göre A ve B ayrık kümelerdir2-  A ={a, b, ●}, B= {a, +, ★, 6, ●} olarak veriliyor. 
+ 
+A«B kümesini liste biçiminde yazalım. Venn şeması ile gösterelim. 
+ 
+ÇözüListe biçiminde yazalım. 
+A«B ={a, b, ●}«{a, +, ★, 6, ●} = {a, ●}
+ 
+Venn şeması ile gösterelim 
+•••+
+•★
+••●
+A«3-  A ={e, f, g, ▲}, B= {a, b, c, +, ▲, e} olarak veriliyor 
+Buna gör 
+a) A« 
+b) A«B = B«A kümelerini yazalım. 
+Matematik 2. BölüKümeleÇözüa) A«A = {e, f, g, ▲}«{e, f, g, ▲} = {e, f, g, ▲} = A kümesi ile A kümesinin kesişimi A kümesine eşittir. (Tek kuvvet özelliği)
+b)   
+ 
+       A«B = B«{e, f, g, ▲}«{a, b, c, +, ▲, e} = {a, b, c, +, ▲, e}«{e, f, g, ▲}
+{e, ▲} = {e, ▲}
+Buna göre A«B = B«A dır. (Değişme özelliği)
+4-  A= {a, b, c, +, ★},  B= {k, l, m, ★, c} ve  C= {1, 2, 7, c, ★} olarak veriliyorBuna göra) A«(B«C) = (A«B)«b) A«∅ = ∅«A = ∅ kümelerini yazalımÇözüa) Önce A«(B«C) yi yazalım{a, b, c, +, ★}«({k, l, m, ★, c}«{1, 2, 7, c, ★}) = {a, b, c, +, ★}«{c, ★}
+ = {c, ★} olurŞimdi (A«B)«C yi yazalım({a, b, c, +, ★}«{k, l, m, ★, c})«{1, 2, 7, c, ★} = {c, ★} «{1, 2, 7, c, ★} 
+         = {c, ★} olurBuna göre A« (B« C) = (A« B)« C ye eşittir. (Kümelerde kesişim işleminin birleşm özelliği)
+b) A« ∅ = ∅«A = ∅
+{a, b, c, +, ★}« { } = { }« {a, b, c, +, ★} = { }
+A kümesi ile boş kümenin kesişiminde ortak eleman olmadığı için A« ∅ = ∅ 
+olur. Buna göre boş  küme kesişim işleminin yutan elamanıdır. 
+Matematik 2. BölüKümele5-  A ={a, b, c, d} olsun. Buna göre A«E = E«A = A yı Venn şeması ile gösterelimListe biçiminde yazalımÇözüVenn şeması ile gösterelim. 
+• • • • Liste yöntemiyle yazalım. 
+A ={a, b, c, d}«{a, b, c, d}= {a, b, c, d}«{a, b, c, d}= {a, b, c, d}
+A kümesi E kümesinin alt kümesidir. Buna göre A nın tüm elemanları aynı zamand E (evrensel) kümesinin de elemanlarıdır. O hâlde A«E = E«A = A olur. 
+ALIŞTIRMALA1-  E ={a, b,▲,★, g} olsun. G ={c, d,●,★, g, b} olarak veriliyor. E«G kümesini liste 
+biçiminde yazınız2-  A ={+, x, ●, n, t} olsun. G ={●, +, t} olarak veriliyor. A«B kümesini liste biçimind yazınız. Venn şeması ile gösteriniz3-  A ={k, l, m, s, ★} ve B ={s, ★, t, v, ▲ } olarak veriliyora)  A«A,
+b)  A«B = B«A kümelerini yazınız4-  A= {n, b, p, 7},  B= {7, b, a, c, p}  ve  C= {5, t, b, 7, p} olarak veriliyora) A«(B«C) = (A«B)«C,
+b)  A«∅ = ∅«A = ∅,
+c)  A«E = E«A = A kümelerini yazınız. Venn şeması ile gösterinizMatematik 2. BölüKümeleBirleşim Kümesinin Eleman Sayısİki kümenin birleşiminin eleman sayısı bulunurkea) s(A»B) = s(A) + s(B) − s(A«B)
+b) s(A»B»C) = s(A) + s(B) + s(C) − s(A«B) − s(A«C) − s(B«C) +  s(A«B«C)
+ifadeleri kullanılırÖrneğin;
+A={0, 1, 2, 3, 4}  B={1, 2, 3, 4, 5, 6, 7, 8} olarak verilsin. s(A), s(B), s(A«B) değerleri 
+aşağıdaki gibi bulunur. 
+A={0, 1, 2, 3, 4} ise s(A)= 5 ve 
+B={1, 2, 3, 4, 5, 6, 7, 8} ise s(B) = 8 dir. 
+s(A«B)= {0, 1 , 2 , 3 , 4 }«{ 1 , 2 , 3 , 4 , 5, 6, 7, 8}= {1, 2, 3, 4} olduğundas(A«B)= 4 olurs(A»B)= s(A) + s(B) − s(A«B) 
+s(A»B)= 5 + 8 − 4 
+s(A»B)= 13 − s(A»B)= 9 olurÖRNEKLE1- A= {x: x ≥ 3, x bir rakam}
+B= {x: −3 < x ≤ 4, x Œ Z} olduğuna göre  s(A»B) kümesini bulalımÇözüA= {x: x ≥ 3, x bir rakam} ise A={3, 4, 5, 6, 7, 8, 9} ve s(A) = 7 dir. 
+B= {x: −3 < x ≤ 4, x Œ Z} ise B={−2, −1, 0, 1, 2, 3, 4} ve s(B) = 7 dir. 
+s(A« B)= { 3 , 4 , 5, 6, 7, 8, 9}«{−2, −1, 0, 1, 2, 3 , 4 }= {3, 4} Buna 
+göre s(A«B)= 2 dirs(A» B)= s(A) + s(B) − s(A« B) olduğundan 
+s(A» B) = s(A) + s(B) − s(A« B) 
+s(A» B) = 7 + 7 − 2 
+s(A» B) = 14 − s(A»B) = 12 olurMatematik 2. BölüKümele2- A = {0, 1, 2, 3},    B = {1, 2, 3, 4, 5} ve   C = {2, 3, 4, 5, 6}  olduğuna göre  s(A»B»C)
+kümesini bulalımÇözüA= {0, 1, 2, 3} ise s(A)= 4,
+B= {1, 2, 3, 4, 5} ise s(B)= 5,
+C= {2, 3, 4, 5, 6} ise s(C)= 5 tirA«B = {0, 1 , 2 , 3 }«{ 1 , 2 , 3 , 4, 5}= {1, 2, 3} ve s(A«B) = 3 türA«C = {0, 1, 2 , 3 }«{ 2 , 3 , 4, 5, 6}= {2, 3} ve s(A«C) = 2 dirB«C = {1, 2 , 3 , 4 , 5 }«{ 2 , 3 , 4 , 5 , 6}= {2, 3, 4, 5} ve s(B«C) = 4 tür. 
+A«B«C = {0, 1 , 2 , 3 }«{ 1 , 2 , 3 , 4, 5}«{ 2 , 3 , 4 , 5, 6}
+ =  {2, 3}  ve   s(A«B«C) = 2 dir. 
+s(A»B»C) = s(A) + s(B) + s(C) − s(A«B) − s(A«C) − s(B«C) + s(A«B«C) 
+olduğundas(A»B»C) = 4 + 5 + 5 − 3 − 2 − 4 + = 14 −9 + = 16 −= 7 olur3- s(A» B) = 12,   s(B) = 4 ve s(A« B) = 2 olduğuna göre s(A) kaçtır?
+Çözüs(A»B) = s(A) + s(B) − s(A«B) olduğunda 12 = s(A) + 4 − 2  ⇒ s(A) = 12 − 4 + s(A) = 14 − s(A) = 10 olur. 
+4- s(A) = 13,   s(B) = 7    ve    s(A«B) = 4 olduğuna göre s(A»B) kaçtır?
+Çözüs(A»B) = s(A) + s(B) − s(A«B)
+       = 13 + 7 −        = 20 −               = 16 dır. 
+Matematik 2. BölüKümele5- A ve B iki küme s(A) = 5 ve s(B) = 6 olduğuna göre s(A»B)  en fazla kaçtır?
+Çözüs(A»B)= s(A) + s(B) − s(A«B) olduğundas(A»B) nin en büyük değerde olması için,
+s(A«B) en küçük değeri almalıdırs(A«B) = ∅ yani A ve B kümelerinin ayrık kümeler (kesişimleri boş küme) olduğun varsayarsak s(A«B) = 0 dırs(A»B)= s(A) + s(B) − s(A«B)
+      = 5 + 6 −       = 11 −       = 11 olur. 
+6- A ve B iki küme s(A) = 8 ve s(B) = 4 olduğuna göre s(A»B)  en az kaçtır?
+Çözüs(A»B)= s(A) + s(B) − s(A«B) olduğundan s(A»B) nin en küçük değerde olması 
+için  s(A«B) en büyük değeri almalıdır. 
+BÃA olduğunu varsayarsak s(A«B) = s(B) dir. 
+s(A»B)= s(A) + s(B) − s(A«B) 
+      = 8 + 4 −       = 8 olur. 
+ALIŞTIRMALA1- A={x: x ≥ 5, x bir rakam}
+B={x: − 4 < x ≤ 6, x Œ Z} olduğuna göre s(A»B) kaçtır?
+2- A={2, 3, 4}, B={3, 4, 5, 6}  ve  C={3, 4, 7, 8, 9} olduğuna göre s(A»B»C) kaçtır?
+Matematik 2. BölüKümele3- s(A»B) = 14, s(B) = 6 ve s(A«B) = 4 ise s(A) kaçtır?
+4- s(A) = 17, s(B) = 9 ve s(A«B) = 6 i se s(A»B) kaçtır?
+5- A ve B iki küme, s(A) = 7 ve s(B) = 5 olduğuna göre s(A»B) en fazla kaçtır?
+6- A ve B iki küme, s(A) = 10 ve s(B) = 7 olduğuna göre s(A»B) en az kaçtır?
+Kesişim Kümesinin Eleman SayısKümelerde kesişim işleminin eleman sayısı bulunurken, 
+a) s(A»B) = s(A) + s(B) − s(A«B) A«b) s(A»B»C) = s(A) + s(B) + s(C) − s(A«B) − s(A«C) − s(B«C) +  s(A«B«C)
+ifadeleri kullanılır.  
+ 
+ 
+ 
+A«B«ÖRNEKLE1- A ve B, E evrensel kümesinin iki alt kümesidir. s(A)=7, s(B)= 9 ve s(A»B) = 12 olduğun göre s(A«B) kaçtır?
+Çözüs(A»B) = s(A) + s(B) − s(A«B) olduğunda         12 = 7 + 9 − s(A«B)
+s(A«B) = 16 −                = 4 olurMatematik 2. BölüKümele2- A ve B, E evrensel kümesinin iki alt kümesidir. s(A)= 3 . s(A«B), s(A»B) = 12 ve kümesinin alt küme sayısı 16 olduğuna göre s(A«B) kaçtır?
+ÇözüVenn şeması çizelims(A«B)
+s(A»B) = 
+s(A) = 3 . s(A«B)
+s(A) = 3 . B kümesinin alt küme sayısı 16 dır. 
+s(B) = n derse2n=2n= 24 
+n = 4 türBuna göre B kümesi 4 elemanlıdır. 
+(A»B) = s(A) + s(B) − s(A«B)
+         12 = 3x + 4 −   12 − 4 = 2   8 = 2x ⇒  x = 4 ⇒ s(A«B)= 4 bulunur3- A, B ve C üç küme olmak üzere  s(A»B»C) = 33,   s(A) = s(B) = 15,
+s(C) = 9,  s(A«B) = 3 ve s(A«C) = s(C«B) = olduğuna göre s(A«B«C) kaçtır?
+Çözüs(A»B»C) = s(A) + s(B) + s(C) − s(A«B) − s(A«C) − s(B«C) +  s(A«B«C) 
+        33 = 15 + 15 + 9 − 3 − 8 − 8 +  s(A«B«C) 
+        33 = 39 − 19 +  s(A«B«C)
+s(A«B«C) = 33 − 39 +              = 52 − 39 
+             = 13 olur. 
+Matematik 2. BölüKümeleALIŞTIRMALA1- M ve N, E evrensel kümesinin iki alt kümesidirs(M) = 9, s(N) = 5 ve s(M» N) = 13 olduğuna göre s(M«N) kaçtır?
+2- D ve T, E evrensel kümesinin iki alt kümesidirs(D) = 7, s(T) = 11 ve s(D» T) = 15 olduğuna göre s(D«T) kaçtır?
+3- A ve B, E evrensel kümesinin iki alt kümesidirs(A) = 4 . s(A« B), s(A» B) = 24  ve B kümesinin alt küme sayısı 8 olduğuna göre 
+s(A«B) kaçtır?
+4- A, B ve C herhangi üç küme olmak üzere s(A» B» C) = 30,  s(A) = s(C) = 10       
+s(B) = 8,  s(A« C) = 4 ve s(A« B) = s(B« C) = 6 olduğuna göre  s(A«B«C) kaçtır?
+İki Kümenin FarkA ve B, E evrensel kümesinin iki alt kümesi olmak üzere A kümesinde olup, B kümesind olmayan elemanların oluşturduğu kümeye A fark B kümesi denir. A\B veya 
+A−B şeklinde gösterilir. 
+B−A−A−B = A\B = {x: x ŒA ve xœB} dir1- A ve B ayrık kümeler ise A−B = A,   B−A = B dirB−A−Matematik 2. BölüKümele2-
+A−(BÃA⇒B−A= ∅)
+B kümesi A kümesinin alt kümesi ise B fark A boş kümedirFark İşleminin Özellikler1- A − A= ∅
+A fark A kümesi; boş kümeye eşittir2- A −  ∅ = A fark ∅ küme; A kümesine eşittir3- ∅ −  A = ∅
+∅  fark A kümesi; boş kümeye eşittir4- AÃB ise A − B= ∅
+A kümesi B kümesinin alt kümesi ise A fark B kümesi; boş kümeye eşittir5- A − B= A − (A«B)
+A fark B kümesi; A fark, A kesişim B kümesine eşittir6- (A − B)»B = A»•
+A fark B , birleşim B kümesi; A birleşim B kümesine eşittirA»(B − A)= A»•
+A birleşim, B fark A kümesi; A birleşim B kümesine eşittir7- A π B  ise A−B π B−A ve B kümeleri eşit değil ise A fark B ükmesi, B fark A kümesine eşit değildir8- (A−B) − C = A−(B»C)
+A fark B fark C kümesi; A fark, B birleşim C kümesine eşittirMatematik 2. BölüKümele9- A»B = (A − B)»(A«B)»(B − A)
+A birleşim B kümesi; A fark B, birleşim A kesişim B, birleşim B fark A ya eşittirs(A»B) = s(A −B) + s(A«B) + s(B−A) dırA birleşim B nin eleman sayısı; A fark B nin eleman sayısı artı A kesişim B nin elema sayısı, artı B fark A nın eleman sayısına eşittir. 
+ÖRNEKLE1- A={a, b, c, d, e} ve B= {a, c, d, f, g} olduğuna göre A−B kümesini bulalımÇözüVenn şeması çizelim•••••••A−A − B = {a, b, c, d, e} − {a, c, d, f, g} ={b, e} olur. 
+2- A={x: 0 < x < 12, xŒN}
+B={x: 3 < x < 15, xŒN} olarak veriliyor. Buna göre A − B yi bulalımÇözüA={x: 0 < x < 12, xŒN} ise A kümesinin  elemanları, 
+A={1, 2, 3, 4, 5, 6, 7, 8, 9, 10 , 11} dir. 
+B = {x: 3 < x < 15, xŒN} ise B kümesinin  elemanları, 
+B = {4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14} tür. 
+A − B = {1, 2, 3, 4 , 5 , 6 , 7 , 8 , 9 , 10, 11} −  { 4 , 5 , 6 , 7 , 8 , 9 , 10, 11, 12, 13, 14}
+           = {1, 2, 3} olur. 
+Matematik 2. BölüKümele3- A={1, 2, 3, 4, 5, 6, 7},   B={−1, 0, 2, 4, 7, 9}  ve  C= {1, 3, 6} kümeleri veriliyorBuna göre aşağıdaki kümeleri bulalıma) A − b) B − c) B − ç) C − d) C − e) A − ÇözüVerilen kümelere ait olan Venn şeması çizelim. 
+••1 •••-•••••a) A − B yi yazalımA − B = A − (A«B) = {1, 2, 3, 4, 5, 6, 7} − {2, 4, 7}
+     = {1, 3, 5, 6} olur. 
+b) B − A yı yazalımB − A = B − (A«B) = {−1, 0, 2, 4, 7, 9} − {2, 4, 7}
+     = {−1, 0, 9} olur. 
+c) B − C yi yazalım.  B ve C ayrık kümeler olduğundaB − C = {−1, 0, 2, 4, 7, 9} − {1, 3, 6} = {−1, 0, 2, 4, 7, 9} = B dirç) C − B yi yazalım. B ve C ayrık kümeler olduğundan 
+    C − B = {1, 3, 6} − {−1, 0, 2, 4, 7, 9} = {1, 3, 6} = C dir. 
+d) C − A yı yazalım. C kümesi A kümesinin alt kümesidirBuna göre CÃA ise A«C = C = C dirC − A = C − (A«C) = C − C = {1, 3, 6} − {1, 3, 6} = ∅ olure) A − C yi yazalımA − C = A − (A«C) = {1, 2, 3, 4, 5, 6, 7} − {1, 3, 6} = {2, 4, 5, 7} olurMatematik 2. BölüKümele4- Yandaki şekilde E evrensel kümesine ait A ve ••••••••alt kümeleri verilmiştirBuna göre aşağıdaki kümeleri bulalıma) A − b) B − c) E − ç) E − Çözüa) A ve B kümelerini liste biçiminde gösterelimA = {a, b, c, d, e}  ve  B = {c, d, e, f} dir. Buna görA – B = {a, b, c, d, e} - {c, d, e, f} = {a, b} olurb) B - A = {c, d, e, f} - {a, b, c, d, e} = {f} dirc) E kümesinin elemanlarını liste biçiminde gösterelimE = {a, b, c, d, e, f, g, h} dirE – A = {a, b, c, d, e, f, g, h} - {a, b, c, d, e} = {f, g, h} olurç) E – B = {a, b, c, d, e, f, g, h} - {c, d, e, f} 
+      = {a, b, g, h} olur. 
+5- A={a, b, c, d, e}  ve  B = {a, e, f, z}  olduğuna göre A\B kümesini bulalımÇözüA\B = {a, b, c, d, e} \ {a, e, f, z}
+        = {b, c, d} olur. 
+Matematik 2. BölüKümele6- A={3, 5, 7, 9, 11, 13},  B = {1, 3, 7, 11, 17, 19} olduğuna göre (A»B) \ (A«B) kümesin bulalımÇözüA={3, 5, 7, 9, 11, 13},   B = {1, 3, 7, 11, 17, 19} olduğundaA»B = {3, 5, 7, 9, 11, 13}»{1, 3, 7, 11, 17, 19}
+               = {1, 3, 5, 7, 9, 11, 13, 17, 19} ve 
+A«B = { 3 , 5, 7 , 9, 11, 13}«{1, 3 , 7 , 11, 17, 19}
+               = {3, 7, 11} dir(A»B) \ (A«B) = {1, 3, 5, 7, 9, 11, 13, 17, 19} \ {3, 7, 11} = {1, 5, 9, 13, 17, 19} olur. 
+7- Yanda verilen Venn şemasındaki boyalı bölgenin eşitini bulalıÇözüB«(B«C)-O hâlde soruda verilen Venn şemasındaki boyalı bölge (B«C) − A dır. 
+8-
+ Yanda verilen Venn şemasındaki boyalı bölgenin eşitini 
+bulalım. 
+ÇözüO hâlde soruda verilen Venn şemasındaki boyalı bölge (A−B)» (B« C) dır. 
+B«(A-B)»(B«C)
+A  Matematik 2. BölüKümeleALIŞTIRMALA1- A= {+, ★, 3, 7, 8} ve B={+, ★, 8, 9, b, n} olduğuna göre A−B kümesini bulunuz. 
+Venn şeması ile gösteriniz2- M= {x: 1 < x < 14, xŒN}
+N= {x: 5 < x < 18, xŒN} olarak veriliyor. M\N yi bulunuz3- K= {1, b, c, 8},      L= {−1, 1, 0, b, 9},     Z= {b, 7, 9, 1}  kümeleri veriliyor. Buna göre 
+aşağıdaki kümeleri bulunuza) K\ 
+b) L\c) Z\4- 
+•●
+•▲
+•★
+••••Yukarıdaki şekilde E evrensel kümesine ait N ve M alt kümeleri veriliyor. Buna göre 
+aşağıdaki kümeleri bulunuza) M\b) E − c) E\5- A= {+, ★, b, f, z, a}  ve  B={★, c, a, n, 6} olduğuna göre (A»B) \ (A«B)  kümesinyazınız6- Yukarıda verilen Venn şemasındaki boyalı bölgenin eşitaşağıdakilerden hangisidir?
+a) (A«B)\b) (C«A)\c) (A»B)\d) (A«B)«Matematik 2. BölüKümele7- Yandaki Venn şemasına göre E− (M«N) kümesi aşağıdak boyalı bölgelerden hangisidir?
+A) B) C) D) Kümelerde Tümleme İşlemi Ve Özellikleri 
+A'
+A Ã E olmak üzere E kümesinde bulunup A kümesind bulunmayan elemanların oluşturduğu kümeye A 
+kümesinin tümleyeni denir. A' veya A ile gösterilirA' =  A  = {x | xŒA' ve xœA} 
+Tümleme İşleminin Özellikleri 
+1- A»A' = Bir kümenin tümleyeni ile birleşimi E evrensel kümesine eşittir2- A«A' = ∅
+Bir kümenin tümleyeni ile kesişimi boş kümedir3- (A')' = Bir kümenin tümleyeninin tümleyeni kendisine eşittir4- ∅' = E    ve  E' = ∅
+Boş kümenin tümleyeni E evrensel kümesine ve E evrensel kümesinin tümleyeni 
+boş kümeye eşittirMatematik 2. BölüKümele5- E − A = A'  ve  E − A' = A − E = ∅
+6- A − B = A«B' = A − (A«B)
+7- s(A) + s(A') = s(E)
+De Morgan Kuralları 
+(A»B)' =A'«B' 
+(A«B)' = A'»B' 
+AÃB ise B'ÃA' dirÖRNEKLE1- E = {a, b, c, d, e} evrensel küme olmak üzere  A= {b, d}  ve  B = {a, b, c} kümelerveriliyor. Buna göre aşağıda verilen kümeleri bulalıma) A'
+b) B'
+c) (A»B)'
+  ç) (A«B)' 
+ÇözüVenn şeması çizelim. 
+•••••a) A'= {a, c, e}
+b) B'= {d, e}
+c) (A»B)'= ({d, b, a, c})' = {e} = A'«B'
+ç) (A«B)'= ({b})' = {a, c, d, e} = A'»B'
+BİLGİ KUTUS(AÃB) ise (A'…B') ve (A'…B') ise (AÃB) dir. 
+Matematik 2. BölüKümeleKümelerde İşlemler ve Sembolik Mantık İlişkisi 
+Sembolik mantıkta kullandığımız sembolleri ile kümelerdeki semboller arasındaki 
+ilişkilendirmeler aşağıdaki tablolarda verilmiştirSembolik MantıDeğili(')
+≡
+Kümele∅
+»
+«
+Tümleyeni(')
+=
+Sembolik mantık ile 
+Kümeler ilSözel ifadSembolik 
+gösterimSözel ifadSembolik 
+gösterim"p" veya "p nin 
+değili" 1 e denktir. 
+(pĞp') ≡ A ile A nın tümleyenini birleşimi evrensel 
+kümeye eşittirA»A' = E  
+"p" ve "p nin değili" 
+0 a denktir(pŸp') ≡ A ile A nın tümleyenini kesişimi boş 
+kümedir. 
+A«A' = ∅
+p nin değilinin 
+değili p ye denktir. 
+(p')' ≡ A nın tümleyeninin 
+tümleyeni A kümesine 
+eşittir(A')' = A  
+Ÿnin Ğ üzerine 
+soldan dağılma 
+özelliğpŸ(qĞr) ≡ 
+ 
+Ğ(pŸr)
+Kesişimin birleşim 
+üzerine dağılma 
+özelliği 
+A«(B»C) = 
+(A«B)»(A«C)
+"p" ve "q nun değili", 
+"p nin değili" veya   
+"q nun değiline" 
+denktir. 
+(pŸq)' ≡ p'Ğq'
+A kesişim B nin 
+tümleyeni, A nın 
+tümleyeni birleşim B 
+nin tümleyenine 
+eşittir. 
+(A«B)' = A'»B'
+1 veya 0, 1 e denkti. 
+A ile boş kümenin 
+birleşimi A ya eşittirA»∅ = (1Ğ0) ≡ (pŸq)
+Matematik 2. BölüKümeleÖRNEKLE1- Aşağıda verilen eşitlikleri sembolik mantık kurallarını kullanarak gösterelima) A»A'=b) A«(B»B') = c) A\E = ∅
+Çözüa) A»A'={x| xŒA Ğ xŒA'}
+       = E dir. 
+b) B»B' = {x| xŒB Ğ xŒB'}
+        = E olduğundan 
+    A«(B»B') = A«E = {x| xŒA Ÿ xŒE}
+   = A dır. 
+O hâlde A«(B»B') = A olur. 
+c) A\E = {x| xŒA Ÿ xœE}
+    = ∅ dir. 
+2- E = {0, 1, 2, 3, 4, 5} evrensel küme olmak üzere A= {1, 2, 4} ve B={1, 2, 4, 5} kümeler veriliyor. Buna göre aşağıda verilen kümeleri bulalıma) A'
+b) B'
+Çözüa) A'={0, 3, 5}
+b) B'={0, 3} olur.  Burada AÃB olduğundan A'…B' dir3- 
+•••••••d •★
+•▲
+•✚
+•Yukarıda verilen şemaya göre aşağıda istenen kümeleri yazalım. 
+a) A'
+b) B'
+c) (A«B)'
+ç) (A»B)'
+d) A«B'
+e) B«A'
+Matematik 2. BölüKümeleÇözüa) A'= {★, ▲, ✚, 6, 7, 8}
+b) B'= {a, b, c, 6, 7, 8}
+c) (A«B)'= ({d, e})' = {a, b, c, ★, ▲, ✚, 6, 7, 8}
+ç) (A»B)'= ({a, b, c, d, e, ★, ▲, ✚})' = {6, 7, 8} = A'«B'
+d) A«B'= {a, b, c, d, e}«{a, b, c, 6, 7, 8}
+      = {a, b, c} = A − e) B«A'= ({d, e, ★, ▲, ✚})«{6, 7, 8, ★, ▲, ✚}
+      = {★, ▲, ✚} = B − 4- (A«B)«A' ifadesinin eşitini bulalımÇözü(A«B)«A' = (B«A)«A'
+= B«(A«A')
+= B«∅
+= ∅  olur5- (A»B)«(A»B') ifadesinin eşitini bulalımÇözü(A»B)«(A»B')  = A»(B«B')
+          = A»∅
+          = A olur6- E evrensel küme olmak üzere [(A»A')«A']'«[(A«A')»A] ifadesinin eşitini bulalıÇözü[(A»A')«A']'«[(A«A')»A]
+           
+=   [E « A']'    «   [  ∅ » A]
+               
+= 
+   (A')'        «         A  
+( (A')' = A dır. )
+=    A«=   A olurMatematik 2. BölüKümele7- (A»B)»(A«B)' ifadesinin eşitini bulalımÇözü(A»B)»(A«B)' = (A»B)»(A'»B')
+         = (A»A')»(B»B')
+  
+         =      E      »               = E olur8- s(E) = 32, s(A')=11 olduğuna göre s(A)  kaçtır? BulalımÇözü  s(E) = s(A) + s(A') olduğunda    32 = s(A) + s(A) = 32 − s(A) = 21 olur9- A ve B, E evrensel kümesinin iki alt kümesi olarak veriliyor. s(A) + s(A') = 20 ve 
+s(B)= 8 olduğuna göre s(B')  kaçtır? BulalımÇözüs(E) = s(A) + s(A') olduğundan,
+s(E) = 20 dirs(E) = s(B) + s(B') olduğundan,
+20  = 8 + s(B')
+s(B') = 20 − s(B') = 12 olur10-
+A ve B, E evrensel kümesinin iki alt kümesi  ve A« B = ∅ olmak üzere s(E) = 22,
+s(A» B) = 14 olduğuna göre s(A'«B') kaçtır? BulalımÇözüVenn şeması çizelimA'«B' = (A»B)' (De Morgan)
+A«B =  ∅ olduğundan 
+s(A»B) = s(A) + s(B) = s(A'«B') = s((A»B)') 
+     = s(E) − [s(A) + s(B)]
+     = 22 − 14 = 8 olur. 
+Matematik 2. BölüKümele11- s((A»∅)»A') = 32 ve s(A') = 12 olduğuna göre s(A) kaçtır? BulalımÇözüs((A»∅)»A') = (A»A') = s(E) dir   
+ 
+s(E) = s((A»∅)»A') = 32 dir. 
+s(E) = s(A) + s(A') dır. O hâld 
+ 
+   
+  32 = s(A) +   s(A) = 32 − 12 = 20 olurALIŞTIRMALA1- E = {★, +, ▲, d, 5, 6, 9} evrensel küme olmak üzere A = {★, +, ▲} ve B={▲, d, 6}
+kümeleri veriliyorBuna göre aşağıda verilen kümeleri bulunuza) A'
+b) B'
+c) (A»B)'

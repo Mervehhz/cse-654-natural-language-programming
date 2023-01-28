@@ -1,0 +1,209 @@
+çözünen madde miktarı denilmişti. O halde şimdi sıcaklık ve basınç koşullarının değişmesini çözünürlüğü ne şekilde etkilediğini irdeleyiniz. 
+1. SICAKLISıcaklık çözünme hızını arttırdığı gibi genellikle çözünen madde miktarını da arttırı.  
+Belli bir sıcaklıkta hazırlanan bir çözeltid çözünmüş maddelerin bir kısmı sıcaklık 
+düşürüldüğünde çözeltiden ayrılır. Örneğin; 
+reçelin pişmesi sırasında çözünen şekerin bir 
+kısmı şeker soğuduğunda reçelden ayrılabili. Benzer durum balda da görülür. (Görsel 
+3.9) Siz de günlük hayatta reçelin şekerlenmes olayına şahit olmuşsunuzdur. Sıcaklık, 
+genellikle katıların çözünürlüğünü arttırır. 
+Sıcaklıkla çözünürlüğü azalan katılar da 
+vardır. Bu durumda katının ısı alarak mı ya 
+da ısı vererek mi çözündüğüne bakmak gerekir. 
+Sulu bir çözeltide çözünen madde sudan ısı 
+alarak çözünüyorsa çözeltinin sıcaklığı azalırSıcaklık arttıkça çözünürlüğü artar. Genellikle 
+katılar suda,ısı alarak çözünür. Yanda katıların 
+çözünürlük-sıcaklık grafiğinde çözünürlük eğriler verilmiştir. Genellikle katıların çözünürlüğünü sıcaklıkla arttığı grafikte çözünürlük 
+eğrilerinin yukarıya doğru artış yönlerinden 
+görülmektedir. Sıcaklıkla çözünürlüğü azalan 
+katılar da vardır. Grafikte Ce2(SO4)3 katısının 
+çözünürlük eğrisine bakıldığında sıcaklık arttıkç çözünürlüğünün azaldığı görülmektedir. 
+Görsel 3.9 Balın şekerlenmesçözünürlüsıcaklı20 30 40 50 60 70 80 90 NaNOCaClPb(NO3)NaCCe2(SO4)K2Cr2OKCKNOKClO3. Ünite: Sıvı Çözeltiler ve ÇözünürlüKimya - Çözeltilerin sıcaklıklarının azalması ve artması durumlarında çözelti doygunluğu 
+değişir. Bu durumda çözeltiyi doymuş hâle getirmek için çözünen madde ilavesi ya da 
+çözücü buharlaştırması yapılabilir (deriştirme). Eğer bunlar yapılmaz ise çözeltiden 
+çözünen madde ayrılabilir yani dibe çöker (kristallendirme). Deriştirmeve kristallendirm ile ilgili aşağıda verilen uygulamaları inceleyiniz. 
+Çözünürlük (g/100 g su)
+Sıcaklık 
+(oC)
+30 grafiği verilmiştir. Bu grafiğe göre aşağıda verile soruları cevaplayınız. 
+a) 20 oC’ta 300 g suda hazırlanan çözeltini sıcaklığını 30 oC’a çıkardığımızda çözeltiyi 
+doygun hâle getirmek için kaç gram X katısı 
+daha çözünmelidir?
+b) 40 oC’ta 200 g su ile hazırlanmış çözeltiy20 oC’ta kadar soğuttuğumuzda kaç gram X tuzu 
+kristalleşerek dibe çöker?
+Çözüm: 
+a)
+Grafikte 20 oC’t100 g suda    20 g X tuzu çözünür        
+300 g suda    X g tuz çözünür 
+Grafikte 30 oC’ta 
+X = 300. 20 / 100 = 60 g    
+100 g suda    32g tuz çözünür    
+300 g suda    X g tuz çözünür 
+X = 300. 32 / 100 = 96 g 
+Aradaki fark kadar tuz ilave edilirse çözelti doymuş hâle gelir. 
+96 – 60= 36 g daha X çözünmelidirb)
+Grafikte 40 oC’t100 g suda    54 g X tuzu çözünür    
+200 g suda    X g tuz çözünür           
+Grafikte 20 oC’ta 
+X = 200. 54 / 100 = 108 g 
+100 g suda    20 g X tuzu çözünür    
+200 g suda    X g tuz çözünür           
+X = 200. 20 / 100 = 40 g 
+108 – 40 = 68 g tuz kristallenerek dibe çöker. 
+11. UYGULAM1. Yanda bir X tuzunun çözünürlük-sıcaklı2. NaCl ile hazırlanan bir çözeltinin 40 oC’ta çözünürlüğü 35 g / 100 g su, oC’ta çözünürlüğü ise 40 g/100 g sudur. Buna göre 40 oC’ta 150 g su ile hazırlanan 
+NaCl çözeltisinin sıcaklığını 80 oC’a çıkarttığımızda çözeltiyi doygun hâle getirme için kaç gram daha NaCl ilave edilmelidir? 
+Çözüm: 
+40 oC’ta 
+100 g suda 
+35 g NaC150 g suda 
+X g NaCl               
+X = 150. 35 / 100 = 52,5 g NaC80 oC’ta 
+100 g suda 
+40 g NaC150 g suda        X g NaCl              
+X = 150. 40 / 100 = 60 g 
+Çözeltinin sıcaklığını 40 oC’tan 80 oC’a çıkardığımızda çözeltiyi doygun hâle 
+getirmek için 60 – 52,5= 7,5 g NaCl ilave edilmelidir. 
+3. 20 oC’ta 40 g CaCl2 tuzu ve 300 g su ile hazırlanan çözeltiyi doygun hâle getirme için aynı sıcaklıkta kaç gram su buharlaştırılmalıdır? (CaCl2 tuzunun 20 
+oC’taki çözünürlüğü 80 g/ 100 g sudur.)
+Çözüm: 
+100 g suda   80 g tu 
+1/2 kat 
+1/2 ka       X g suda     40 g tuX = 100. 40 / 80 = 50 g su olmal300 – 50 = 250 g su buharlaştırılmal4. 50 oC’ta hazırlanan 380 g doymuş KNO3 çözeltisinin sıcaklığı 20 oC’a düşürüldüğünd kaç gram KNO3 kristallenir? (KNO3’ün 20 oC’ta çözünürlüğü 30 g/100 su, 50 oC’ta çözünürlüğü 90 g /100 g su)
+Çözüm: 
+50 oC’ta 100 g suda ( çözücü)  90 g tuz(çözünen)
+m çözelti = m çözücü + m çözünen = 100 + 90= 190 g çözelti olur. 
+190 g çözeltide 
+90 g su  KNO3vars2 kat 
+    2 kat 
+380 g çözeltide 
+            X g  KNO3            
+   X = 380. 100 / 190 =180 g KNO3vardır. 
+Çözeltide;  380 – 180 =200 g’ da su bulunur. 
+3. Ünite: Sıvı Çözeltiler ve ÇözünürlüKimya - 20 oC’ta 
+100 g suda 
+30 g  KNO200 g suda 
+X g  KNO3       
+X= 200. 30 / 100 = 60 g  KNOSıcaklık 50 oC’tan  20 oC’ a düştüğünde 180 – 60 = 120 g  KNO3 çözeltideayrılır ve kristallenir. 
+Katıların çözünürlüğüne sıcaklık etkisinden bahsedildi 
+Görsel 3.10 Şişede bulunan sacaba gaz maddelerin çözünürlüğüne sıcaklığın etkisi ne 
+olabilir? Şişede bulunan bir suyun bekletildiğinde  içinde 
+kabarcıklar oluştuğunu gözlemlemişsinizdir (Görsel 3.10). 
+Suyun içinde çözünmüş gaz maddeler bulunur. Sıcaklık 
+arttığında gaz maddeler sudan ayrılarak çözünürlüğü 
+azaltır. 
+Bazı gazların 1 atm basınçta çözünürlükleri (g)/100g sSıcaklı0 oC 
+10 o20 o30 o40 o50 oCO(g)
+0,0,0,0,0,0,O2(g)
+0,0070 0,0,0,0,0,SO(g)
+22,16,11,7,5,4,0,0,0,Sıcaklık oGazların çözünürlüğü 
+(g /100g su)
+Gazoz içerisinde CO2 gazı çözünmüş hâlde bulunur. 
+Sıcaklık gazların çözünürlüğünü azalttığından soğuk 
+gazozda sıcak gazoza göre daha fazla CO2 gazı bulunur. 
+Bu sebeple gazlı içecekler soğuk içilir.  
+BİLGİ KUTUSUygulamanın Amacı: Çözünürlüğün sıcaklıkla ilişkisinin elektronik 
+tablolama programı kullanarak kurgulanması ve değişikliklerin gözlemlen        -
+rek yorumlanmasıUygulamanın Aşamaları:
+Word’de “ekle” butonuna tıklanır. 
+“Ekle” butonu içindeki “Grafik” ikonuna tıklanır. 
+12. UYGULAMUygulamanın Adı: Çözünürlük- Sıcaklık İlişkisi 
+3. Ünite: Sıvı Çözeltiler ve ÇözünürlüKimya - Grafik seçeneklerinden alttaki görselde işaretlenmiş grafik türü seçilir. 
+Belirtilen grafik türü seçildiğinde altta görülen elektronik tablolama program 
+penceresi açılır. 
+Elektronik tabloda görülen X-değerleri sütununa aşağıdaki çizelgede verilen 
+sıcaklık değerleri girilir. Y-değerleri sütununa çizelgedeki CuSO4’ın çözünürlük 
+değerleri girilir. 
+Sıcaklık (°C)
+CuSO4 için çözünürlük  
+(g/ 100 g su)
+Y sütununun yanındaki sütuna da çizelgedeki glikoz çözünürlük değerleri 
+girilir. Değerler girildiğinde alt görselde verilen grafik oluşacaktır. 
+Sıcaklık (°C)
+Glikoz için çözünürlük 
+( g/ 100 g su)
+Grafiğin yanındaki “+” butonuna tıkladığınızda açılan “grafik öğeleri” içindeki 
+“eksen başlıkları” bölümünü aktifleştirerek eksen başlıklarına isim verilir. Düşey 
+eksen başlığına “çözünürlük ( g/ 100 g su) ”, yatay eksen başlığına “sıcaklık (°C) 
+yazılırGrafik görseldeki gibi son şeklini alır. 
+3. Ünite: Sıvı Çözeltiler ve ÇözünürlüKimya - Uygulamanın Sonucu:
+CuSO4 ve glikoz katılarının çözünürlüğü sıcaklık arttıkça artmıştır. Farklı 
+maddelerin çözünürlük eğrileri de farklı olmaktadır. Grafikte glikoz 
+(turuncu eğri) ve CuSO4(mavi eğri) çözünürlük eğrilerinin farklı olduğu 
+görülmektedirBASINKatı ve sıvı maddelerin sıkıştırılabilme özelliği gazlara 
+göre yok denecek kadar azdır. Bu sebeple katı ve sıvıların 
+çözünürlüğüne basınç etkisi de yok denecek kadar azdır. 
+Ancak gazların çözünürlüğüne basınç etki eder. Gazların 
+çözünürlüğü ve basınç arasındaki ilişki İngiliz kimyacı 
+William Henry tarafından ortaya konulmuştur. Henry Yasas olarak bilinen bu yasaya göre “bir çözücüde çözünen 
+gazın çözünürlüğü çözeltinin üzerindeki basınçla doğru 
+orantılıdır. Yani basınç arttıkça gazın çözünürlüğü artar. 
+0,0,0,0,0,OksijeAzoBasınç (atm)
+Sıcaklık (°C)
+NaCl için çözünürlük (g/ 100 g su)
+13. UYGULAMAşağıdaki çizelgede NaCl katısına ait çözünürlük - sıcaklık değerleri verilmiştir. 
+Elektronik tablolama programını kullanarak sıcaklık - çözünürlük grafiğini çizinizGörsel 3.11William HenrGazların çözünürlüğü (g /100g su)
+Uygulamanın Amacı: Çözünürlüğün basınçla ilişkisinin elektronik tablolama 
+programı kullanarak kurgulanması ve değişikliklerin gözlemlenerek yorumlanması Uygulamanın Aşamaları: 
+Word’de “ekle” butonuna tıklanır. 
+“Ekle” butonu içindeki “Grafik” ikonuna tıklanır. 
+Grafik seçeneklerinden alttaki görselde işaretlenmiş grafik türü seçilir. 
+14. UYGULAMUygulamanın Adı: Çözünürlük –Basınç İlişkis3. Ünite: Sıvı Çözeltiler ve ÇözünürlüKimya - Belirtilen grafik türü seçildiğinde altta görülen elektronik tablolama program 
+penceresi açılır. 
+Elektronik tabloda görülen X-değerleri sütununa aşağıdaki çizelgede verilen basın değerleri girilir. Y-değerleri sütununa çizelgedeki N2’un çözünürlük değerleri 
+girilir. Y sütununun yanındaki sütuna da çizelgedeki O2’in çözünürlük değerleri 
+girilir. Değerler girildiğinde alt görselde verilen grafik oluşacaktır. 
+Basınç (atm)
+N2  için çözünürlük (g/ 100 g su) 0,0,0,003 0,004 0,005 0,Basınç (atm)
+O2 için çözünürlük ( g/ 100 g su)
+0,0,0,0,0,Grafiğin yanındaki “+” butonuna tıkladığınızda açılan “grafik öğeleri” içindeki 
+“eksen başlıkları” bölümünü akti fleştirerek eksen başlıklarına isim verilir. 
+Düşey eksen başlığına “çözünürlük ( g/ 100 g su) ”, yatay eksen başlığına 
+“basınç (atm)"  yazılır. 
+Grafik görseldeki gibi son şeklini alır. 
+Uygulamanın Sonucu:
+N2 ve O2 gazlarının çözünürlüğü basınç arttıkça artmıştırFarklı maddelerin çözünürlük eğrileri de farklı olmaktadır. Grafikte N2 (mavi 
+eğri) ve O2 (turuncu eğri) çözünürlük eğrilerinin farklı olduğu görülmektedir3. Ünite: Sıvı Çözeltiler ve ÇözünürlüKimya - Koligatif ÖzelliKoligatif 
+ÖzelliAçıklamFormüBuhar Basıncı 
+AlçalmasUçucu olmayan bir madde çözünen 
+çözeltilerde buhar basıncı, çözünen 
+maddenin derişimine bağlı olarak 
+değişir. 
+Çözeltinin buhar 
+basıncı;
+Pçözücü= Xçözücü. PçözücDonma 
+Noktası 
+Alçalması 
+(Kriyoskopi)
+Çözeltilerin donma noktası saf çözücünün 
+donma noktasına göre düşük olur. Saf 
+sıvıda ne kadar fazla miktarda madde 
+çözünmüşse alçalma o kadar fazla olur. 
+Donma noktasındaki 
+alçalma; 
+∆td= -Kd. m. Kaynama 
+Noktası 
+Yükselmesi 
+(Ebülyoskopi)
+Çözeltilerin 
+kaynama 
+noktası 
+saf 
+çözücünün kaynama noktasına göre 
+yüksek olur. Saf sıvıda ne kadar fazla 
+miktarda madde çözünmüşse yükselme 
+o kadar fazla olurKaynama noktasındaki 
+yükselme; 
+∆tk = Kk .m. Osmotik 
+BasınÇözücü taneciklerinin yarı geçirgen bir zarla seyreltik 
+çözeltiden derişik çözeltiye geçişine osmoz denir. Osmoz 
+olayında derişik çözeltinin seyreltik çözeltiye uyguladığı kuvvete 
+ise osmotik basınç denirÖZEİyonik ve Kovalent Çözünm   Bir çözelti katı, sıvı ya da gaz olabilir. Maddelerin sıvılarda çözünmesi kimyasal 
+türler arası etkileşimlerle açıklanmaktadır. Sıvılarda ve katılarda moleküller molekülle arası kuvvetlerle bir arada dururlar. Maddelerin birbiri içinde çözünüp çözünmem durumu tanecikler arasındaki etkileşim ile ilişkilidir. Bu etkileşimler 
+dipol-dipol etkileşimi, iyon-dipol etkileşimi, iyon-indüklenmiş dipol etkileşimi, 
+London kuvvetleri ve hidrojen bağıdır. 
+   Apolar kovalent bağlı moleküller arasındaki çekim kuvvetleri sadece London 
+kuvvetleridir (indüklenmiş dipol- indüklenmiş dipol etk.). Örnek; CH4, C6H6, I2…
+vb. Polar kovalent bağlı moleküllerde dipol -  dipol etkileşimleri   ya da bu 
+etkileşimle birlikte bazı maddelerde hidrojen bağı oluşur. Örnek; HCl, CHCl3, 
+H2S…vb. (Dipol- dipol etkileşimi) H2O, HF, CH3COOH, C2H5OH …vb. 
+(Hidrojen bağı). Genellikle polar maddeler polar çözücülerde, apolar maddeler 
+apolar çözücülerde çözünür (benzer benzeri çözer). 

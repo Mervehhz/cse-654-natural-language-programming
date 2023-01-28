@@ -1,0 +1,400 @@
+                         
+                           
+Eşkenar üçgen dik prizma                        Kare dik prizma                              Tüm ayrıtları eşit olan 
+      (Düzgün prizma)                                (Düzgün prizma)                                kare prizma (Küp)
+                                                                                                                            (Düzgün prizma)
+Aşağıda verilen dik prizmaların adlarını, düzgün prizma olup olmadıklarını belirterek ayrıt sayılarını ve 
+yüzey sayılarını bulunuza) 
+                   b) 
+                            c) 
+a) 
+b) 
+c) 
+Prizmanın adKare dik prizmÜçgen dik prizmDüzgün altıgen dik 
+prizmDüzgün prizma olup 
+olmadığDüzgün prizmDüzgün prizma değiDüzgün prizmAyrıt sayısYüzey sayısYukarıda a, b ve c şekillerinde verilen prizmaların özellikleri aşağıdaki tabloda gösterilmiştirŞekilleÖzellikleYandaki şekilde bir dikdörtgenler prizması 
+ve açınımı verilmiştir. Bu dikdörtgenler 
+prizmasının yanal yüzeyleri olan 
+dikdörtgenlerin alanları toplamı prizmanın 
+yanal alanına eşittir. Yandaki dikdörtgenler 
+prizmasının yanal alanı 
+Yüksekli(
+)
+(
+)
+b a b a c oluTaban çevres$
+$
+$
+$
+$
+$
++
++
++
+=
++
++
++
+=
++
+44444  
+Buradan bir dik prizmanın yanal 
+alanı, taban çevresi ile yüksekliğinin 
+çarpımıdır. 
+Yukarıda verilen dikdörtgenler prizmasının her bir tabanının alanı a $
+ dir. Tabanlarının alanları 
+toplamı a olur. Dikdörtgenler prizmasının yüzey alanı, yanal alanı ile iki taban alanının toplamına 
+eşittir. Ayrıtları a, b ve c birim olan yukarıdaki dikdörtgenler prizmasının yüzey alanı, 
+toplam›
+Taban alanlar›
+(
+)
+(
+)
+aabab olu$
++
++
+=
++
++
+Yanalala444444  
+Buradan bir dik prizmanın yüzey alanı, yanal alanı ile taban alanları toplamıdır. 
+Ayrıt uzunlukları 12 cm, 20 cm ve 30 cm olan dikdörtgenler prizması şeklindeki bir hediye kutusunun 
+hacminin kaç cm3  ve yüzey alanının kaç cm2  olduğunu bulunuz. 
+Birim küplerle oluşan 
+prizmalaPrizmayı oluşturan birim 
+küp sayısPrizmanın hacmPrizmanın taban alanPrizmanın yüksekliğPrizmanın taban alanı ile 
+yüksekliğinin çarpım1 $
+=
+6 $
+=
+6 $
+=
+6 $
+=
+Yukarıdaki tablo incelendiğinde birim küplerle oluşturulan prizmaların taban alanı ile yüksekliğinin 
+çarpımının prizmanın hacmine eşit olduğu görülür. 
+Buradan ayrıtları a, b ve c birim olan bir dikdörtgenler prizmasının hacmi a • b • c olurTaban alanı 
+c24 2  ve yüksekliği 10 cm olan bir düzgün altıgen dik prizmanın hacminin kaç cm3  
+olduğunu bulunuzPrizmanın hacmi, taban alanı ile yüksekliğin çarpımı olduğundan 
+cbulunu24 240 Taban alan› Yüksekli$
+=
+=
+ 
+Dikdörtgenler prizması şeklindeki hediye kutusu yandaki gibi verilsi. Bu prizmanın hacmi, taban alanı ile yüksekliğinin çarpımı 
+olduğundan 
+c12 20 $
+$
+=
+ olurPrizmanın yüzey alanı, 
+(
+)
+(
+)
+cbulunu12 12 20 2 $
+$
+$
+$
+$
+$
++
++
+=
++
++
+=
+=
+Yandaki şekilde verilen üçgen dik prizmada BA=
+@
+@; 
+Ac=
+, Bc=
+ ve Ec=
+ olduğuna göre prizmanı hacminin kaç cm3  ve yanal alanının kaç cm2  olduğunu bulunuzŞekildeki dik prizmada AA=
+?
+? ve EBc=
+=
+ olduğundan 6 birim - 8 birim - 10 birim dik 
+üçgeni kullanılarak Ac=
+ bulunur. Dik prizmanın hacmi taban alanı ile yüksekliğin çarpımına eşit 
+olduğundan prizmanın hacmi 
+c6 8 24 $
+$
+$
+=
+=
+ olur. Prizmanın yanal alanı taban çevresi ile 
+yüksekliğin çarpımı olduğundan prizmanın yanal alanı (
+)
+c24 $
+$
++
++
+=
+=
+ olarak bulunur. 
+Yandaki şekilde verilen tabanı dik yamuk olan dik prizmada 
+AD'
+?
+?; AB=
+@
+@; Ac=
+, Ac=
+, 
+Ec=
+ ve c=
+ olmak üzere prizmanın hacminin kaç 
+cm3  olduğunu bulunuzDik prizmada alt ve üst tabanlar eş olduğundan FBc=
+=
+ 
+olur. EFGH dik yamuğunda HE=
+?
+? olacak şekilde H? 
+çizilirse EKH dik üçgeni ve FKHG dikdörtgeni elde edilir. Dikdörtgenin 
+karşılıklı kenar uzunlukları eşit olduğundan HKc=
+=
+ olur. 
+Buradan 
+Fc=
+-
+=
+-
+=
+ olur. EKH dik üçgeninde 
+Pisagor teoremi ile Hc=
+ olur. Buradan prizmanın taban alan(
+)
+(
+)
+A EFGc9 $
+$
+=
++
+=
+=
+ olurPrizmanın hacmi, taban alanı ile yüksekliğin çarpımı olduğundan 
+(
+)
+HaciA EFGAc18 $
+$
+=
+=
+=
+ olarak bulunurYanda verilen dikdörtgenler prizması şeklindeki kabın 2  si su ile doludu. Ecm ve Fc=
+=
+ olmak üzere bu kap FBCG yüzeyi 
+üzerine yatırılırsa suyun yüksekliğinin kaç cm olacağını bulunuzKap FBCG yüzeyi üzerine şekildeki gibi yatırılsın. Kabın 
+içindeki suyun hacmi değişmemiş sadece şekli değişmiştir. 
+Dolayısıyla kabın yine 2  si su ile doludur. Bu da suyun 
+yüksekliğinin kabın bu durumdaki yüksekliğine oranını verir. 
+Kabın bu durumdaki yüksekliği 6 cm olup suyun yüksekliğine 
+x denilirse c&
+=
+=
+ olarak bulunur          
+                       Şekil I                                                                              Şekil IŞekil I de tamamen su dolu, üstü açık, kare dik prizma şeklinde verilen kabın taban ayrıt uzunluğu 6 cm 
+dir. Bu kap Şekil II deki gibi yatay düzlemle 60c açı yapacak şekilde eğiliyor ve kaptan bir miktar su dökülüyo. Dökülen suyun hacminin kaç cm3 olduğunu bulunuzŞekildeki prizmada E? taban düzlemine paralel 
+olduğundan 
+(
+)
+m EB=
+%
+ ve AB'
+?
+? 
+olduğundan 
+(
+)
+m AE=
+%
+ olur. AEB üçgeninde 60c 
+lik açının karşısındaki kenarın uzunluğu Ac=
+ 
+ve 30c lik açının karşısındaki kenarın uzunluğu 
+Ac2 =
+ olurDökülen suyun hacmi ile prizmada boş kalan kısmın 
+hacmi aynı olacağından boşluğun hacmi üçgen 
+prizmanın hacmine eşit olur. Prizmanın hacmi, 
+taban alanı ile yüksekliğinin çarpımı olduğundan 
+c6 2 3 6 3 36 $
+$
+$
+=
+=
+ bulunurBir ayrıtının uzunluğu 2 m olan küp şeklindeki 4 kutu şekildeki gibi 
+yerleştirilmiştir. Bu kutularla oluşturulan şeklin tüm yüzeyi bir kumaşla 
+kaplanmak isteniyor. Buna göre bu şekil için en az kaç m2  kumaş 
+gerektiğini bulunuzKüp biçimindeki kutuların yerleştirilmesiyle oluşan şeklin yüzeyleri sayıldığında toplam 18 yüzey olduğu 
+görülür. Bir yüzeyin alanı 
+=
+ olduğundan şeklin tüm yüzeyinin alanı 
+18 $
+=
+ olur. Buradan 
+şeklin tüm yüzeyini kaplamak için gereken kumaş en a2  olarak bulunurÇanakkale Mesleki ve Teknik Anadolu Lisesi 10. sınıfında okuyan Serkan, bilim projesi için yukarıdaki şekild gösterildiği gibi dikdörtgenler prizması şeklinde bir stant yaptırmıştır. Standın boyutları 70 cm, 80 cm 
+ve 120 cm dir. Standın daha çok ilgi çekmesi için bütün ayrıtlarını bir sıra şerit led lamba ile süsleyecektir. 
+Buna göre Serkan’ın kaç cm şerit led lambaya ihtiyacı olduğunu bulunuzSerkan’ın yaptırdığı standın farklı ayrıtlarının her birinden dörder tane olduğundan standın ayrıt uzunluklar toplamı 
+(
+)
+c4 $
+$
++
++
+=
+=
+ olur. 
+Buradan Serkan’ın ihtiyacı olan şerit led lambanın uzunluğu 1080 cm olarak bulunurYandaki şekilde verilen dikdörtgenler prizmasında K noktası E@ ve 
+L noktası A@ üzerindedir. HK=
+,  AL=
+; Bc=
+, 
+Gc=
+ ve Hc=
+ olduğuna göre KL  nun kaç cm olduğun bulunuzK ve L orta noktalar olduğundan HKc=
+=
+ ve 
+ALc=
+=
+ olur. K noktasından A? na dik olacak şekilde 
+K? çizilirse c=
+=
+ ve Kc=
+ olur. ATL dik üçgenind Pisagor teoremi ile Tc=
+ bulunur. =
+?
+? olduğundan 
+KTL dik üçgeninde Pisagor teoremi uygulanırsKKKKcm olarak bulunu=
++
+=
++
+=
+=
+Yandaki şekilde yüksekliği 12 m olan dikdörtgenler prizması 
+biçiminde bir bina verilmiştir. A noktasında bir televizyon anteni ve 
+yerden 4 m yükseklikteki bir B noktasında bir televizyonun kablo 
+girişi bulunmaktadır A ile B noktaları arasında, binanın yüzeyi üzerinden kablo ile 
+bağlantı yapılmak isteniyor. Buna göre en az kaç metre kabloya 
+ihtiyaç olduğunu bulunuzKablo, binanın ön yüzü ile sağ yan yüzeyi üzerinden geçeceğinde A ile B noktaları arasındaki uzaklığın en az olması için A 
+ile B aynı düzlemde düşünülmelidir. Binanın sağ yan yüzeyinin  
+yanda verilen şekildeki gibi ok yönünde açıldığı düşünülür ve A, 
+B, C noktaları aynı düzlemde olup A? çizilirse A ile B noktaları 
+arası en kısa uzaklık AB  olur. ACB dik üçgeninde C=
+ 
+ve A=
+ olur. ACB dik üçgeninde Pisagor teoremi uygulanırs 
+AACAAAm olu=
++
+=
++
+=
+=
+Buradan gerekli olan kablonun en az 17 m olması gerektiği 
+bulunur2. 
+Yandaki şekilde 
+boyutları 6 cm, 
+8 cm ve 10 cm 
+olan dikdörtgenle prizmasında 
+EC  nun kaç 
+cm olduğunu 
+bulunuz1. Aşağıdaki şekilde verilen üçgen dik prizmada 
+AA=
+?
+?; 
+,
+Ac=
+ Ac=
+ ve 
+Cc=
+ olduğuna göra) Prizmanın yanal alannın kaç cm2  olduğun bulunuzb) Prizmanın tüm yüzey 
+alanının kaç cm2  olduğun bulunuzc) Prizmanın hacminin 
+kaç cm3  olduğunu 
+bulunuzALIŞTIRMALA3Yukarıdaki şekilde taban ayrıtlarının uzunlukları 
+8 cm ve 9 cm olan dikdörtgenler prizması 
+içerisinde 4 cm yüksekliğinde su bulunmaktadır. 
+Ayrıtlarının uzunlukları 2 cm, 4 cm, 6 cm olan 
+dikdörtgenler prizması şeklinde bir metal cisim 
+suya bırakılıyor ve tamamen suya batıyor. 
+Buna göre su seviyesinin kaç cm yükseleceğini 
+bulunuz. 
+4. Bir fabrikada yardım derneği için üretilen 
+ürünler boyutları 3 cm, 5 cm ve 10 cm olan 
+dikdörtgenler prizması şeklindeki kutulara; 
+kutular ise bir ayrıtının uzunluğu 30 cm olan 
+küp şeklindeki kolilere boşluk kalmayacak 
+şekilde konulacaktır. Bu fabrikada çalışan 
+Beyza Hanım, kutulara konulmuş ürünleri 
+bir koliye 6 dakikada yerleştiriyor. Fabrika 
+yönetimi kolilerin boyutlarını 20 cm, 30 cm ve 
+40 cm olarak değiştiriyor. 
+     Buna göre Beyza Hanım’ın yeni kolilerden 
+birini yine aynı kutuları kullanarak kaç saniye 
+daha erken yerleştireceğini bulunuz53 Yukarıdaki şekilde boyutları 3 m, 3 m ve 5 m 
+olan kare dik prizma şeklindeki bir kanalizasyo borusunun içi şekildeki gibi 2 m, 2m ve 5 
+m boyutlarında kare dik prizması şeklinde boş 
+bırakılmıştır. Bu borunun iç ve dış yüzeyi su 
+sızdırmaması için özel bir boya ile kaplanarak 
+izole edilecektir. 
+Buna göre boyanacak yüzeylerin alanları toplamınn kaç m2  olduğunu bulunuz. 
+6 
+Şekil Şekil I    Şekil I de taban ayrıtlarının uzunlukları 4 cm 
+ve 8 cm olan dikdörtgenler prizmasında 6 cm 
+yüksekliğinde bulunan su, şekil II de taban 
+ayrıtlarının uzunlukları 4 cm, 6 cm ve yüksekliği 
+11 cm olan kaba boşaltılıyor. Şekil II deki kabın 
+boş kalan kısmının yüksekliği x olduğuna göre 
+x değerinin kaç cm olduğunu bulunuz7Yukarıdaki şekilde Cc=
+ ve 
+Bc=
+ olan dikdörtgenler prizması 
+biçimindeki bir dolabın ön yüzündeki kapağın 
+A köşesi ile arka yüzündeki B köşesi tel ile 
+bağlanmıştır. Dolabın kapağı açıldığında 
+şekildeki gibi A noktası 
+'
+A  noktasına gelip ve 
+'
+AA =
+?
+? olacak şekilde tel gergin olarak 
+durmaktadır. 
+Buna göre 
+'
+A  ile B arasındaki telin 
+uzunluğunun kaç cm olduğunu bulunuzBilg 
+Bir çokgen ile bu çokgenin düzlemi dışında bir T noktası alınsın. Çokgene ait 
+noktalarla T noktasından geçen doğruların kümesine piramidal yüzey denirŞekilde ABCDE... çokgeni ile T noktasının belirttiği piramidal yüzeyin T noktasna tepe noktası denirBir piramidal yüzeyin yanal yüzeyini ve bütün ayrıtlarını kesen bir düzlemle 
+sınırlanan katı cisme piramit denir. Şekildeki piramit (T, ABCDE ...) ile gösterilir 
+Tepe noktası ile çokgene ait herhangi bir kenarın tüm noktalarını birleştiren 
+doğru parçaları üçgensel bölge oluşturur ve bu üçgensel bölgelerin tümüne 
+yanal yüzey denir. Şekilde TAB, TBC, TCD, TDE, ... üçgenleri piramidin yanal 
+yüzleridir. 
+Piramitler tabanındaki çokgenin kenar sayısına göre isimlendirilir: üçgen 
+piramit, dörtgen piramit, beşgen piramit, altıgen piramit ... 
+, TB , TC , TD ,
+TT?
+?
+?
+?
+?, ...piramidin yanal ayrıtları; 
+, BC , CD , DE , A?
+?
+?
+?
+ taban ayrıtları olarak adlandırılırTepe noktası ile piramidin tabanı olan çokgenin ağırlık merkezini birleştiren 
+doğru parçası çokgenin düzlemine dik ise bu piramitlere dik piramit ve 
+bu doğru parçasının uzunluğuna ise dik piramidin yüksekliği denirÜçgen, dörtgen ve altıgen dik piramitler çizerek bu piramitlerin ayrıtlarını, yüksekliklerini ve yanal yüzlerini 
+belirleyinizŞekildeki üçgen dik piramitte G noktası üçgenin ağırlık merkezidir. Bu 
+durumda T@ piramidin yüksekliği, AB&  piramidin tabanı, 
+,
+TAB TAC ve TB&
+&
+&  ise piramidin yanal yüzleridir. Piramidin yanal 
+ayrıtları ise 
+, Tve TT?
+?
+? olur. Bu piramit 
+,
+T AB&
+ ile gösterilir. 
+Dik Pirami 
+Şekildeki dörtgen dik piramitte G noktası, ABCD dörtgeninin ağırlık 

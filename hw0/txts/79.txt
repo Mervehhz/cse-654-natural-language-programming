@@ -1,0 +1,400 @@
+$
+=
+=
+ olurYandaki şekilde '
+'
+'
+'
+'
+6   ve 
+'
+'
+'
+ olmak üzera) Kaç farklı paralelkenar olduğunu bulunuzb) Bir kenarı 
+,
+d1 diğer kenarı d7  doğrusu üzerinde olan 
+       kaç farklı paralelkenar olduğunu bulunuz6 farklı çemberden ikisi 
+=
+ farklı şekilde seçilir. Seçilen her 2 çember en 
+çok iki farklı noktada kesiştirilebileceğinden oluşabilecek toplam kesim noktası 
+sayısı, 2 $
+$
+=
+=
+ olur. 
+Tokalaşma iki kişi arasında olacağından 5 kişiden 2 kişinin seçilme sayısı kadar tokalaşma olur. 
+Dolayısıyla 
+!
+!
+!
+!
+!
+2 1 5 4 $
+$
+$
+$
+$
+=
+=
+=
+ farklı şekilde tokalaşma olur5 kişilik bir toplantıda herkes birbiriyle birer kez tokalaştığına göre bu 
+toplantıdaki toplam tokalaşma sayısını bulunuzVeri, Sayma ve OlasılıVeri, Sayma ve Olasılıa) Bir dikdörtgen elde edilebilmesi için yatay ve paralel iki doğru ve bu doğruları dik kesen düşey ve 
+paralel iki doğruya ihtiyaç vardır. Dolayısıyla yatay 5 doğrudan herhangi 2 si ve düşey 6 doğrudan 
+herhangi 2 si seçilerek bu doğrulardan elde edilen toplam dikdörtgen sayısı,
+      
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+6 5 5 4 15 $
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+=
+=
+=
+=
+ olur   b) Verilen şekilde, 
+     
+ 20 birim kareden oluşan yandaki dikdörtgende,
+      a)  Kaç  farklı dikdörtgen olduğunu bulunuz      b)  Alanı en çok 9 birimkare olan kaç farklı kare olduğunu bulunuz• Kenar uzunluğu 2 birim (alanı 4 birimkare) olan karelerin 
+sayısı A?  üzerindeki 3 doğru parçasından ( A?, 
+,
+B?
+)
+C?  birinin ve A?  üzerindeki 4 doğru parçasından 
+AK , FL , KT , L(
+)
+?
+?
+?
+?  birinin seçilme sayısının çarpılmasıyla 
+elde edilir. Bu durumda alanı 4 birimkare olan karelerin sayısı, 
+3 $
+$
+=
+=
+ olur• Kenar  uzunluğu 3 birim (alanı 9 birimkare) olan karelerin sayısı 
+A?  üzerindeki 2 doğru parçasından (
+,
+A?  B? ) birinin ve  
+A?  üzerindeki 3 doğru parçasından AL , FT , K(
+)
+?
+?
+?  birinin 
+seçilme sayısının çarpılmasıyla elde edilir. Bu durumda alanı 9 
+birimkare olan karelerin sayısı, 2 $
+$
+=
+=
+ olurBuradan alanı en çok 9 birimkare  olan farklı kare sayısı, +
++
+=
+ olur• Kenar uzunluğu 1 birim (alanı 1 birimkare) olan karelerin 
+sayısı, A?  üzerindeki 4 doğru parçasından ( A? , B?, 
+C? , 
+)
+D?  birinin ve  A?  üzerindeki 5 doğru parçasından  
+AF , FK , KL , LT , T(
+)
+?
+?
+?
+?
+?  birinin seçilme sayısının çarpılmasıyl elde edilir. Bu durumda alanı 1 birimkare olan karelerin 
+sayısı, 4 $
+$
+=
+=
+ olurVeri, Sayma ve OlasılıVeri, Sayma ve OlasılıYandaki şekilde B noktası üzerinde kesişen iki doğru verilmiştir. Bu doğrular 
+üzerindeki 9 noktanın herhangi ikisinden geçen kaç farklı doğru çizilebileceğin bulunuz1. yoAynı düzlemde farklı iki noktadan yalnız bir doğru geçeceğinden 9 noktadan geçen doğru sayısı, en çok  
+l dur.  
+Yukarıdaki şekilde d1  doğrusu üzerindeki doğrusal 5 noktadan yalnız bir doğru geçtiğinden  
+l kadar 
+ve d2  doğrusu üzerindeki doğrusal 5 noktadan yalnız bir doğru geçtiğinden 
+l kadar aynı doğru 
+oluşur. Bu doğru sayıları; 9 noktadan geçen doğru sayılarının tümü olan 
+l ndan çıkarılır, sonuca 2 
+eklenirse    ( d1  ve d2  doğruları) bu durumda d1  ve d2  doğruları üzerindeki  9 noktadan geçen doğru 
+sayısı,
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+lu9 8 5 4 5 4 $
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+-
+-
++
++
+=
+-
+-
++
+=
+-
+-
++
+=
+-
+-
++
+=
+2. yoB noktası ile B noktası dışındaki herhangi bir nokta seçilirse bu noktalardan geçen doğrular veya 2  
+doğrularıdırB noktası dışındaki d1  doğrusu üzerindeki 4 noktadan 1 i ve d2  doğrusu üzerindeki B noktası dışındaki 
+4 noktadan 1 i ile oluşturulabilecek doğruların sayısı 
+$
+=
+ olur. Bu doğru sayısına ve 2  
+doğrularının sayısı olan 2 eklenirse çizilebilecek toplam doğru sayısı +
+=
+ bulunurKöşeleri yandaki şekilde verilen çember ve doğru üzerinde bulunan 
+toplam 10 noktadan herhangi üçü olan kaç farklı üçgen çizilebileceğin bulunuzŞekildeki 10 noktadan seçilebilecek üçerli noktaların sayısı 
+l dur. Doğrusal 6 noktadan seçilen herhang üç nokta bir üçgenin köşeleri olamayacağından elde edilebilecek üçgen sayısı,
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+10 9 8 6 5 4 $
+$
+$
+$
+$
+$
+$
+$
+$
+$
+-
+=
+-
+=
+-
+=
+-
+=
+ olur     
+Veri, Sayma ve OlasılıVeri, Sayma ve OlasılıALIŞTIRMALA1. 
+a, e,
+, y, n, p, A = "
+,  kümesinin 4 elemanl alt kümelerinin kaç tanesinde en az bir sesli 
+harf bulunduğunu hesaplayınız        
+2. 
+( , )
+P +
++
++
++
++
+-
+=
+ olduğuna 
+göre n değerini bulunuz. 
+3. Bir şirketteki 6 müfettiş, 2 bölgedeki bayi denetim için görevlendirilecektir. Bu 2 bölgenin 
+her birine en az bir müfettiş görevlendirmek 
+üzere bu müfettişlerin kaç farklı biçimde görevlendirilebileceğin bulunuz       
+4.  
+     Yukarıdaki şekilde verilen ABC üçgeni üzerind toplam 9 nokta vardır.  Bu noktaların 
+herhangi ikisinden  geçen en çok kaç farklı 
+doğru çizilebileceğini bulunuz. 
+5. 10-B sınıfı 13 ü  kız, 11 i  erkek 24 kişilik bir 
+sınıftır. Öğrencilerin 10-C sınıfından ameliyat 
+olan arkadaşlarını ziyaret etmeleri için sınıf 
+öğretmenlerinin 2 si kız, 1 i erkek 3 kişilik bir 
+grubu kaç farklı şekilde seçebileceğini bulunuz. 
+6. İki farklı hediyenin 5 çocuktan herhangi ikisinde her birine birer hediye verilmek şartıyla 
+kaç farklı şekilde verilebileceğini bulunuz. 
+   
+7. 
+Yukarıdaki şekilde verilen dikdörtgen üzerindki 13 noktadan köşeleri bu noktalardan 
+herhangi üçü olan en çok kaç farklı üçgen 
+çizilebileceğini bulunuz. 
+8. 
+        
+     Yukarıdaki şekilde kaç farklı üçgen olduğunu 
+bulunuz. 
+Veri, Sayma ve OlasılıVeri, Sayma ve Olasılı10.1.1.5. Pascal ÜçgenBilim İnsanlarFransa’da doğan Blaise Pascal (Bleyz Paskal) (1623-1662), matematiğe 
+ve geometriye olan büyük ilgisi nedeniyle daha 12 yaşındayken geometri 
+üzerinde çalışmaya başladı. Babası vergi toplayıcısı olarak atandığında 
+vergileri toplamasına yardımcı olmak amacıyla 1642-1645 yılları arasında 
+üç yıl çalışarak ilk sayısal hesap makinesi olan ve “Pascalin” adı verilen 
+cihazı icat etti. Daha sonra fizik ve matematik üzerine çalışmaya başladı. 
+1653’te sıvıların dengeleri üzerine hazırladığı tez ile Pascal, basınç ile ilgili 
+kanununu ortaya koydu. Bu tez, bilim insanlarınca bilim tarihinde hidrostatik 
+sistemin tam bir taslağı ve Pascal’ın fizik teorisine yaptığı en önemli katkı 
+olarak kabul edildi. Pascal ayrıca geometride koniklerle ilgili birçok teorem 
+geliştirdi. Pascal üçgeni, matematikte binom katsayılarını içeren üçgensel 
+bir dizidirÜnlü matematikçi Pascal, aritmetik üçgen üzerine bir tez yazmış; burada üçgenin özelliklerini ortay koymuştur. Ancak Pascal, bu üçgeni çizen veya inanılmaz özelliklerini fark eden ilk kişi değildir. 
+Üçgenin bu özellikleri kendi zamanına kadar birçok medeniyet tarafından bulunmuş, bu üçgen farklı 
+adlarla ifade edilmiştir. Örneğin Hintli matematikçiler bu üçgeni “Meru Dağı’nın Merdivenleri”, Çinli 
+matematikçiler “Yang Hui üçgeni”, İranlı matematikçiler ise “Hayyam üçgeni” olarak adlandırmışlardı. Pascal’dan daha önce, 10. yüzyılda Hintli matematikçiler bu sayı dizisini şiirin ölçülerindeki kısa 
+ve uzun seslerin birleşimlerinin sayısını temsil etmek için kullanmışlardır. Sonraki yüzyıllarda Batı 
+dünyasında bilimin gelişmesi ile bu üçgen günümüzde Fransız matematikçi ve filozof Pascal’ın adıyla 
+anılmaktadır. 
+Üçgen, 11. yüzyılda İran’da yaşayan ünlü gökbilimci, şair, filozof ve matematikç olan Ömer Hayyam’ın yazılarında da görülmüştür. (
+)
+y +
+ ifadesinin 
+açılımındaki terimlerin katsayıları ile oluşturulan şemanın (Pascal üçgeni) 
+Ömer Hayyam’a ait olduğu ileri sürülmektedir. Hayatını bilimsel araştırmalara 
+adamış olan Ömer Hayyam’ın analitik geometrinin gelişimi üzerindeki etkisi 
+çok büyüktür. Hayyam aynı zamanda irrasyonel sayıların da rasyonel sayılar 
+gibi kullanılabileceğini ilk defa kanıtlamıştır. İrrasyonel sayıların varlığını 
+göstererek Öklidyen olmayan geometrilerin olduğunu ifade etmiştir. Hayya, +
+=
++
+ şeklindeki kübik denklemin pozitif x değerlerini 
+(köklerini) bulmuştur. Bu çözümünü geometrik olarak da konik kesiti olarak 
+da ortaya koymuştur. Üçüncü dereceden denklemleri de kapsayan birçok 
+cebirsel denklemi sınıflandırmış ve bunlara çözüm yolu bulmuştur. Cebirsel 
+denklemlerin çözümünü konikleri kesiştirerek bulmaya çalışmış ve bunu bir 
+metoda çevirmek için uğraşmıştır. Üçüncü derece denklemleri “üç terimliler” ve “dört terimliler” olarak 
+iki kategoriye ayırmış ve her kategoriyi kendi içinde sınıflandırmıştır. Her biri için genel çözümler 
+bulmaya çalışmış ayrıca üçüncü dereceden 13 denklemi konikler üzerine inşa etmiştir. Denklemlerde 
+bilinmeyenleri önce “şey”, sonra “x” ile ifade etmiştir. Üçüncü derece denklemlerin genel çözümünü hesaplama ile dördüncü derece denklemlerin ise geometri ile çözülemeyeceğini düşünmüştür. 
+Aritmetik metotlarla çözülemeyeceğine inandığı denklemleri çember, parabol ve hiperbol kullanarak 
+çözmüştür. Ömer Hayyam’ın bilime bir diğer katkısı da mevsimlere tam olarak uyum gösteren,  hata 
+payı 5000 yılda 1 gün olan Celâli takvimidir. Bu takvimle bir yılın 365,24219858156 gün olduğunu 
+hesaplamıştır. 
+Üçgen ile ilgili Pascal’dan önceki bir diğer çalışma da Çinlilere aittir. Çinli matematikçi Chu Shih 
+Chieh (Çu Sih Çieh), üçgeni 14. yüzyılın başlarında tasvir etmiş ve 1303 tarihli “Dört Elementli Kıymetl Ayna” adlı kitabında binom genişlemesi için katsayılar sağlamada üçgenin kullanımını anlatmıştı(Unat, 2007, s. 66-68; http://www-history.mcs.st-and.ac.uk/Biographies/Pascal.html)DüzenlenmiştirÖmer Hayyam heykelBlaise Pascal (Bleyz Paskal)
+Veri, Sayma ve OlasılıVeri, Sayma ve OlasılıBilgX değeri bir üst satırda kendisine komşu olan 5 ile 10 sayılarının toplamı olan 15 tirY ile 7 nin toplamı bir alt satırdaki 28 sayısına eşit olduğundan Y, 21 sayısına eşittirX in sağındaki ilk sayı +
+=
+ dir. 35 sayısının solundaki ilk sayı ise X ile 20 nin toplamı olan 35 tir. 
+Buradan Z sayısı bir üst satırda kendisine komşu sayılar olan 35 ile 35 in toplamı olan 70 tir. 
+1.  Pascal üçgeninin 7 elemanlı satırındaki sayıları toplamının kaç olduğunu bulunuz         
+2. Pascal üçgeninin 8 elemanlı satırındaki en 
+büyük sayının kaç olduğunu bulunuz. 
+        
+Yandaki şekilde görüldüğü gibi 
+• Pascal (Paskal) üçgeninin tepesinde 1 sayısı bulunmaktadı. 
+• Her satırdaki eleman sayısı bir önceki satırdaki 
+eleman sayısından 1 fazladır. 
+• Her satır 1 ile başlayıp 1 ile biter. Diğer sayılar ise 
+bir üst satırdaki kendine komşu olan iki sayının 
+toplamıdır. 
+• Pascal üçgenindeki her satır verilen bu örüntüye 
+bağlı kalarak devam ederYanda verilen Pascal üçgeninde X, Y ve Z değerlerini bulunuzALIŞTIRMALAVeri, Sayma ve OlasılıVeri, Sayma ve OlasılıAşağıdaki özdeşlikleri inceleyinizx$
++
++
++
+=
+=
++
++
+^
+^
+^
+x x$
+$
++
++
++
+=
++
+=
++
++
++
+^
+^
+^
+^
+ 
+Yukarıdaki özdeşliklerin bulunmasında çarpma yöntemi ile kolayca sonuca ulaşılabilir. 
+ y +
+^
+ ifadesinin açılımının bulunmasında ise bu yöntemin uygulanmasının zor olacağı ve zaman 
+alacağı görülür. Bu nedenle kuvvetleri 4 ve 4 ten büyük olan ifadelerin açılımında aşağıdaki yöntemin 
+uygulanması daha uygun olurBilg!
+ olmak üzere y +
+^
+h  ifadesini1. teri2. teri3. teri(1). teri$
+$
+$
+$
+$
+$
+$
+$
++
+=
++
++
++
++
++
+-
+-
+-
+-
+^
+44444444 44444444 44444444 44444444                                                                                  
+şeklindeki açılımına binom açılımı denir. 
+Baştan (
+)+
+ terim aynı zamanda sondan (
+)- +
+ terimdir (
+)n ve #
+!
+(Bu açılım x in azalan, y nin artan kuvvetlerine göre yapılmıştır.)
+İpucy +
+^
+h  ifadesi x in azalan kuvvetlerine göre açıldığında baştan (
+)+
+ terim 
+$
+$
+-
+ olurv+
+-

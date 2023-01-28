@@ -1,0 +1,400 @@
+=
++
+=
+"
+"
+"
+^
+]
+]
+]
+]
+]
+]
+]
+]
+]
+g:
+,
+:
+,
+f ve g "
+"
+=
+-
++
+=
++
+]
+]
+ 
+fonksiyonları veriliyor. Buna göre aşağıdaki limit değerlerini bulunuz)
+)
+)
+)
+)
+lilililililif g f g f g f g f g f $
+$
+$
+$
++
+-
++
+-
+"
+"
+"
+"
+"
+"
+-
+-
+)
+^
+^
+]
+]
+]
+]
+^
+^ ]
+]
+]
+^
+]
+]
+]
+]
+gggggf ve g ]
+]
+g birer polinom fonksiyonu olduğundan 
+lilif f vg g olu=
+=
+"
+"
+]
+]
+]
+]
+ 
+ÇÖZÜÖRNETüreÖZELLİK ÖZELLİK lim f "
+] g limiti mevcut olmak üzere i i 
+    
+                  
+     
+(Bir fonksiyonunun n. kuvvetinin limiti, limitinin n. kuvvetidir.) 
+:
+,
+f "
+=
+-
++
+]  olduğuna göre lim "
+] g ifadesinin değerini bulunuz-
++
+lililililibulunu2 =
+=
+-
+=
+-
+=
+-
+-
+=
+"
+"
+"
+"
+"
+=
+]
+]
+^
+]
+]
+]
+g lim f "
+] g limiti mevcut ve  $
+ olmak üzerI.   n tek doğal sayı is                           
+II.  n çift doğal sayı ise                               
+li+
++
+-
+-
++
++
+" `
+j ifadesinin değerini bulunuz-
++
++
++
++
+lililililibulunu+
++
+-
+-
++
++
+=
++
++
+-
+-
++
++
+=
+-
+=
++
++
+-
+-
++
++
+=
+-
+-
+=
+- -
+=
+"
+"
+"
+"
+"
+`
+]
+lilioluf =
+"
+"
+]
+]
+@
+lililif vf isoluf f $
+$
+=
+"
+"
+"
+]
+]
+]
+]
+lilioluf f =
+"
+"
+]
+]
+ÇÖZÜÇÖZÜÖRNEÖRNEMatematik ÖZELLİK ÖZELLİK ÖZELLİK lim f "
+] g limiti mevcut olmak üzere   
+ 
+ 
+:
+,
+f "
+=
+-
+-
+]  fonksiyonu veriliyor. Buna göre lim f "-
+] g  ifadesinin değerini bulunuz-
+-
+lilibulunu$
+-
+-
+=
+=
+-
+-
+-
+-
+=
++
+-
+=
+"
+"
+-
+-
+]
+]
+lim f "
+] g limiti mevcut olmak üzere, c pozitif gerçek sayısı içi  
+ 
+ 
+ 
+lim "
++ -  ifadesinin değerini bulunuzlibulunuli=
+=
+=
+=
+"
++ -
++
+-
+"
++ -
+]
+lim f "
+] g limiti mevcut  ve  f ^  olmak üzere 
+,
+lililolif ve isolub !
+=
+"
+"
+"
++
++
+log ]
+]
+]
+gg-
+li"
+lo`
+ij ifadesinin değerini bulunuzlilioluf =
+"
+"
+]
+]
+liolulif =
+"
+"
+]
+]
+-
+-
+-
+lolilolilolobulunu=
+=
+=
+=
+"
+"
+`
+iiÇÖZÜÇÖZÜÇÖZÜÖRNEÖRNEÖRNETüreÖZELLİK  olmak üzer  
+                                                                          
+licosico+
+"  ifadesinin değerini bulunuzlicosicocosicobulunu3 7 7 7 $
+$
+$
++
+=
++
+=
++
+=
+=
+=
+" ,
+,
+lim sisilim cocolim tatalioluk k $
+$
+!
+!
++
+=
+=
+=
+"
+"
+"
+"
+(
+(
+(
+(
+coco=
+^
+lisicosico$
+-
+"  ifadesinin değerini bulunuzcosi-
+sin lisicosicolisicolicosilitatabulunu2 $
+$
+$
+$
+$
+$
+-
+=
+=
+-
+=
+-
+=-
+=-
+=-
+"
+"
+"
+"
+-
+cos 4444444 444444444 ÇÖZÜÇÖZÜÖRNEÖRNEMatematik {
+=
+ noktasında fonksiyonun kuralı değiştiğinden bu nokta kritik noktadır.  
+              
+Bu noktadaki limiti araştırılırken sağdan ve soldan limitleri incelenmelidir,
+,
+,
+,
+,
+A olmazere f g ish is"
+|
+=
+=
+is]
+]
+]
+[
+\
+]]]]
+]]]]
+ 
+biçiminde tanımlı fonksiyonlar için fonksiyonun kuralının değiştiği noktalara kritik nokta 
+denir. f fonksiyonunda =
+noktası kritik noktadır. 
+{
+=
+ noktası dışında bir noktanın limiti araştırılırken o nokta fonksiyonun hangi   
+     
+parçasına aitse o parçada limit araştırılır,
+,
+f isis#
+=
+-
++
+] )
+ 
+olduğuna göre 
+,
+lililif f vf "
+"
+"
+]
+]
+]
+g değerlerini bulunuzlilif f !
+"
+"
+-
++
+]
+]
+g olduğundan limf "
+] g yoktur=
+ noktası fonksiyonun kritik noktası olduğundan sağdan ve soldan limitleri incelenmelidirBurada ve =
+=
+ noktaları kritik nokta olmadığından fonksiyonun bu noktalardaki limiti bu 
+noktalardaki görüntüsüne eşittir&
+&
+lilililililif g vf h olsuoluyoktuf f ,
+,
+,
+,
+,
+,
+,
+,
+!
+=
+=
+=
+=

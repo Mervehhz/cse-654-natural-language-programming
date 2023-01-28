@@ -1,0 +1,400 @@
+&
+&
+&
+-
+=
+=
++
+=
+= -
+=
++ -
+=
++ -
+=
+=
+ 
+Buradan m $
+$
+-
++ =
+-
+-
++
+= -
++
+= -
+]
+ bulunurBilgDereceleri aynı ve aynı dereceli terimlerinin katsayıları karşılıklı olarak eşit olan polinomlara 
+eşit polinomlar denir( )
+P $
+$
+$
+$
+=
++
++
++
++
++
+-
+-
+,
+( )
+Q n n +
++
++
++
++
+$
+$
+$
+$
+=
+-
+-
+ polinomları birbirine eşit ise 
+b , , ..., b , b , =
+=
+=
+=
+=
+-
+-
+ olmalıdır( )
+(
+)
+(
+)
+( )
+(
+)
+P c ve Q a=
++
++
+-
++
+-
+=
++
++
++
+-
+ polinomları için 
+( )
+( )
+P Q =
+ olduğun göre +
++
++
+ değerini bulunuz     1. Aşağıda verilen ifadelerin bir polinom olup 
+olmadığını bulunuz. 
+a) 
+( )
+P = -
++
+-
+  
+b)  
+( )
+T = -
+                       
+c)  
+( )
+R =
+-
+-
+     
+ç)  
+( )
+M = -
+-
+-
+  
+2. 
+( )
+P 7 n = -
++
+-
+-
++
+ ifadesi bir polino belirttiğine göre 
+( )
+P x  polinomunun derecesini alabileceği en büyük ve en küçük 
+değerlerin toplamını bulunuz. 
+ 
+ 
+3. ,a !
+ olmak üzere 
+( )
+(
+)
+(
+)
+Q = - +
++
+-
++
++
+-
+ 
+polinomu sabit polinomdur. Buna gör(
+)
+Q -
+ polinomunu bulunuz. 
+    4. ,
+,
+m n !
+ olmak üzere  
+( )
+(
+)
+(
+)
+P m =
+-
++
++
+-
++  polinom sıfır polinomudur. Buna göre m $
+-  
+değerini hesaplayınız. 
+     5.  !
+ olmak üzere 
+(
+)
+P aa+
+= -
++
++
+-
+  polinomunu katsayıları toplamı 
+-  tir. Buna göre 
+( )
+P 3  değerini bulunuz. 
+ 
+6. 
+( )
+( )
+P ve Q = -
++
+-
+=
+-
++
+ 
+polinomları veriliyor. Buna gör       (
+)
+( )
+(
+)
+Q $
+$
++
+-
+ polinomunun katsayılar toplamını bulunuz.  
+ 
+7. 
+( )
+(
+)
+(
+)
+P $
+=
+-
++
+ polinomunun 
+tek dereceli terimlerinin katsayıları toplamı 
+15 2$
+-
+-  olduğuna göre m gerçek sayısını değerini bulunuz. 
+8. ( )
+(
+)
+(
+)
+P c $
+= - +
+-
++
+-
++
+ v 
+( )
+(
+)
+(
+)
+Q =
++
++
+-
++
++
+ 
+        polinomları veriliyor. 
+( )
+( )
+P Q =
+ olduğuna 
+göre a c $
+$
+-
+ ifadesinin değerini bulunuz. 
+ 
+9. 
+( )
+P x  bir polinomdur(
+)
+(
+)
+P P -
++
++
+= -
++
+ veriliyor. 
+Buna göre 
+(
+)
+P +
+ polinomunun sabit terimin bulunuz. 
+ALIŞTIRMALABilgPolinomlarla toplama ya da çıkarma işlemleri yapılırken dereceleri aynı olan terimlerin 
+katsayıları toplanır ya da çıkarılırÖrneğin ,a !
+ olmak üzer 
+( )
+P x  polinomunun bir terimi a x$
+, 
+( )
+Q x  polinomunun bir terimi b x$
+ is(
+)
+a b $
+$
+$
++
+=
++
+ terimi 
+( )
+( )
+P Q +
+ polinomunun bir terimidir(
+)
+a b $
+$
+$
+-
+=
+-
+ terimi 
+( )
+( )
+P Q -
+ polinomunun bir terimidirPolinomlarda toplama ya da çıkarma işlemleri yapılırken dereceleri aynı olan terimlerin katsayıları kendi 
+aralarında toplanır ya da çıkarılıra) 
+( )
+( )
+(
+)
+(
+)
+P Q olu+
+= -
++
+-
++
+-
++
++
+-
+= -
++
+-
++ - +
++
++
+-
+= -
++
+-
++
++
+ 
+ 
+b) 
+( )
+( )
+(
+)
+(
+)
+P Q olu-
+= -
++
+-
++
+- -
++
++
+-
+= -
++
+-
++
++
+-
+-
++
+= -
++
++
++ - -
+-
++
++
+= -
++
+-
+-
++
+^
+ 
+c) 
+( )
+( )
+(
+)
+(
+)
+P Q olu$
+$
+$
+-
+=
+-
++
+-
++
+-
+-
++
++
+-
+= -
++
+-
++
++
+-
+-
++
+= -
++
++
++ -
+-
+-
++
++

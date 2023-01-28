@@ -1,0 +1,400 @@
+2+
+l^
+h değerini bulmak için f b=
+-
+] seçilir 
+b olu&
+=
+-
+f b&
+=
+=
+-
+-
++
+]
+]
+$
+ho h g g ho bulunu&
+$
+$
+=
+=
+=
+=
+=
+=
+^
+^
+^ ^
+^
+^
+^
+^
+^
+^
+h<
+:
+=
+^
+TüreYukarıda f = ] g fonksiyonunun grafiği 
+verilmiştir. Buna göre f ] g fonksiyonunua) Türevli olmadığı noktaları bulunuz 
+ 
+b) Sürekli olduğu hâlde türevli olmadığı  
+   noktaları bulunuz 
+ 
+ 
+c) Limiti olduğu hâlde türevli olmadığı 
+    noktaları bulunuz 
+ 
+ 
+,
+is,
+,
+f is#
+#
+=
+-
+-
+-
+is] [
+\
+]]]]]
+]]]]]
+biçiminde tanımlı f ] g fonksiyonunun kaç 
+farklı x değeri için türevli olmadığını bulunuz 
+ 
+,
+,
+f aisais$
+=
+-
+-
+] *
+biçiminde tanımlı f ] g fonksiyonu her x gerçe sayısı için türevlenebilir olduğuna göre 
+b değerini bulunuz 
+ 
+           
+,
+,
+f aisbais$
+=
+-
+-
+] *
+biçiminde tanımlı f ] g fonksiyonu =
+ 
+noktasında sürekli olduğu hâlde türevli değildi. Buna göre b nin alamayacağı değeri 
+bulunuz 
+ 
+is,
+,
+,
+f isbab#
+#
+=
+-
+-
+-
++
+is] [
+\
+]]]]]
+]]]]]
+biçiminde tanımlı f ] g fonksiyonu =
+ 
+noktasında türevli olup =
+ noktasında 
+sürekli olmadığına göre c nin alamayacağı 
+değeri bulunuz 
+ 
+ 
+    
+f = ^ ,
+,
+f abis$
+=
+-
+-
+-
+-
+is] *
+biçiminde tanımlı f ] g fonksiyonu =-  
+noktasında türevli olduğuna göre b değerin bulunuz 
+ 
+           
+f g =
+=
+:
+:
+]
+]
+olduğuna göre aşağıdaki fonksiyonların türevlerin bulunuza) g +
+^
+]g                b) f g $
+^
+]c) ]g                    ç) f o g ^
+] AlıştırmalaMatematik -
+-
++
+f =
+]
+i 
+fonksiyonunun =
+ noktasındaki türevinin 
+değerini bulunuz                              
+f =
++
++
++
+]
+]
+]
+]
+fonksiyonunun türevini bulunuz                               
+f =
++
+-
+] fonksiyonunun =-
+ noktasındaki türevinn değerini bulunuz                                  
+-
+f =
+]
+fonksiyonunun türevini bulunuz=
+-
+=
+-
+:
+:
+olduğuna göre ddx  ifadesinin =
+ için değerin bulunuz= +
+=
++
+:
+:
+olduğuna göre ddy  ifadesinin eşitini bulunuzf g =
+-
+=
++
+:
+:
+]
+]
+olduğuna göre aşağıdaki ifadelerin değerlerin bulunuza) +
+^
+]
+g               b) -
+-
+^
+]
+c)  f $
+-
+^
+]
+g             ç) ]
+d) f o -
+^
+]
+g            e) 
++
+]
+`
+]
+f aag bb=
+-
+=
++
++
+=
+-
+:
+:
+:
+^
+]
+]
+]
+^
+]
+olduğuna göre a ile b arasındaki ilişkiyi bulunu.                                   
+f ag f =
+-
++
+=
+-
++
+=
+:
+:
+:
+]
+]
+]
+]
+]
+olduğuna göre a nın alabileceği değerler toplamın bulunuz.                   
+19 Pozitif gerçek sayılarda tanımlı f ve g fonksiyonlar için 
++
+=
+-
++
+:
+ 
+g =
+:
+l]
+olduğuna göre l] g değerini bulunuz.                                                                                       
+f =
+-
+] olduğuna göre l] g değerini bulunuzf g =
+-
+=
+-
+:
+:
+]
+]
+olduğuna göre 
+f o g ^
+]g fonksiyonunun 
+=-  noktasındaki türevinin değerini bulunu.                                                                 
+TüreYanda f = ] g fonksiyonunun grafiği ve bu grafiğ =
+ apsisli noktasında çizilen teğeti olan d 
+doğrusu verilmiştir. d doğrusu x ekseni ile pozitif 
+yönde a  radyanlık açı yapmaktadırf fonksiyonunun =
+ noktasındaki türevinin değeri, fonksiyonun grafiğine =
+  apsisli noktasınd çizilen teğeti olan d doğrusunun eğimine eşittir. d doğrusunun eğimi mt  olmak üzertam=
+=
+l]    olduğu biliniyorBu durumda   
+tais{
+ olacağından l]  olurtais{
+ olacağından l]  olurSonuç olarak türevlenebilir bir fonksiyonun grafiğinin üzerindeki bir noktadan çizilen teğetinin x 
+ekseni ile pozitif yönde yaptığı açı; 
+{
+Dar açı ise teğetin eğimi pozitif ve teğet doğrusu sağa yatık olur{
+Geniş açı ise teğetin eğimi negatif ve teğet doğrusu sola yatık olur"
+:
+,
+a @
+ ve 
+,
+a ^
+h nda sürekli olmak üzere 
+,
+,
+a ! ^
+h için 
+iken ^
+^
+h olduğundan 
+g fonksiyonu 
+,
+a ^
+h nda artandır"
+:
+,
+a @
+ ve 
+,
+a @ nda sürekli olmak üzere 
+,
+,
+a ! @ için 
+iken ^
+^
+h olduğundan 
+f fonksiyonu 
+,
+a @ nda artandır5.3. TÜREVİN UYGULAMALAR5.3.1. Bir Fonksiyonun Artan veya Azalan Olduğu AralıklaMatematik f ve g fonksiyonlarına 
+,
+a ^
+h nda çizilen teğetlerinin x ekseni ile pozitif yönde dar açı yaptıkları 
+görülmektedir. Bu durumda f ve g fonksiyonlarının 
+,
+a ^
+h ndaki her noktada türevleri pozitiftir"
+:
+,
+a @
+ ve 
+,
+a @ nda sürekli olmak üzere 
+,
+,
+a ! @ için 
+iken f f ^
+^
+h olduğundan 
+f fonksiyonu 
+,
+a @ nda azalandır"
+:
+,
+a @
+ ve 
+,
+a ^
+h nda sürekli olmak üzere 
+,
+,
+a ! ^
+h için 
+iken ^
+^
+h olduğundan 
+g fonksiyonu 
+,
+a ^
+h nda azalandır,
+a @ nda azalan ve 
+,
+a ^
+h nda türevlenebilen f fonksiyonu ile 
+,
+a ^
+h nda azalan ve 
+,
+a ^
+h nda 
+türevlenebilen g fonksiyonuna 
+,
+a ^
+h nda çizilen teğetleri incelenirs,
+a @ nda artan ve 
+,
+a ^
+h nda türevlenebilen f fonksiyonu ile 
+,
+a ^
+h nda artan ve 
+,
+a ^
+h nda türevlenebile g fonksiyonuna 
+,
+a ^
+h nda çizilen teğetleri incelenirsf ve g fonksiyonlarına 
+,
+a ^
+h nda çizilen teğetlerinin x ekseni ile pozitif yönde geniş açı yaptıkları 
+görülmektedir. Bu durumda f ve g fonksiyonlarının 
+,
+a ^
+h ndaki her noktada türevleri negatiftir. 
+TüreSONU"
+:
+,
+a @
+ ve 
+,
+a @ nda sürekli olmak üzere 
+,
+,
+a ! @ için f f =
+^
+^
+h olduğundan 
+f fonksiyonu 
+,
+a @ nda sabit fonksiyondurf fonksiyonunun 
+,
+a ^

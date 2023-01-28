@@ -1,0 +1,400 @@
+=
+ olduğundaolu4 $
+$
++
+-
+= -
++
+-
+=
++
+-
+=-
+]
+$
++
+-
+ ifadesi negatif olduğundan verilen denklem gerçek sayılar kümesinde bir çember 
+belirtmezÇÖZÜÇÖZÜMatematik ÖRNEÖRNEÖRNE+
++
+-
++
+=
+ denklemi bir çember belirttiğine göre a nın değer aralığını bulunuzBuna göre a nın değer aralığı 
+,
+-
+k bulunur+
++
+-
++
+=
+ denkleminde 
+,
+ve =
+=-
+=
+ olup $
++
+-
+ olmalıdır+
++
+-
++
+=
+ denkleminin bir çember belirtip belirtmeyeceğini, çember belirtiyorsa 
+merkezini bulunuz+
++
+-
++
+=
+ denkleminde 
+,
+v=
+=-
+=
+ olur. Bu durumd         
+olu=
++
+-
+=
+4 $
+$
++
+-
+=
++ -
+-
+]
+$
++
+-
+ ifadesi sıfıra eşit olduğundan verilen denklem gerçek sayılar kümesinde bir nokta 
+belirtir. Bu noktanın koordinatlar         
+,
+,
+,
+bulunu1 -
+-
+=
+-
+- -
+=
+-
+^
+]
+g Genel denklemi +
+-
++
++
+=
+ olan çemberin yarıçap uzunluğu 2 =
+ birim olduğna göre k gerçek sayısının değerini bulunuz+
+-
++
++
+=
+ çember denkleminde 
+,
+vk olu=-
+=
+=
+  Bu durumda 
+     
+       
+                                                               
+4 $
+-
+=
+              (Her iki tarafın karesi alınır.) 
+&
+2 $
+$
+$
+$
+=
++
+-
++
+-
+=
+bulunu$
+$
+-
+=
+-
+=-
+=
+ÇÖZÜÇÖZÜÇÖZÜ&
+&
+&
+a olu$
+$
++
+-
++ -
+-
++
+-
+^
+Analitik GeometrÖRNESONU 
+ 
+x+
++
++
++
++
+=
+ denkleminin bir çember belirtmesi içi 
+ 1.  =
+ olmalıdır 
+ 
+ 2.  x li ve y l2  terimlerin katsayıları eşit 
+!
+=
+^
+h olmalıdır 
+ 3.  Verilen denklem, ve y l2  terimlerin katsayıları 1 olacak şekilde düzenlenerek  
+                  genel çember denklemi elde edilir ve çember olma şartı incelenir-
++
+-
++
+=
+ denkleminin bir çember belirtip belirtmeyeceğini, çember belirtiyors merkezini ve yarıçap uzunluğunu bulunuz-
++
+-
++
+=
+ denkleminde 2  ve 2  li terimlerin katsayıları farklı olduğundan bu 
+denklem bir çember belirtmez. Denklem bir çember belirtmediği için merkezinden ve yarıçapından 
+söz edilemezMerkezi 
+,
+M a ^
+h ve yarıçap uzunluğu r birim olan çemberin standart denklemi ola-
++
+-
+=
+]
+^
+ ifadesinin düzenlenmesi ile elde edilen  
+ 
+DE+
++
++
++
+=
+çemberin genel denklemine dikkat edilirse denklemde xy li terimin bulunmadığı görülürAyrıca bu denklemde eşitliğin her iki tarafı sabit bir k sayısı ile çarpılırsa yukarıdaki ifadey özde            k k k Dk Ek $
+$
+$
+$
+$
++
++
++
++
+=
+denklemi elde edilir. Elde edilen son denklemde ve 2  li terimlerin katsayıları aynı 
+olup ifade yine bir çember denklemidirÇÖZÜMatematik ÖRNEÖRNEGenel denklemi 
+$
+$
+-
++
+-
+-
++
++
+=
+]
+]
+ olan çemberin merkezini ve yarıçap 
+uzunluğunu bulunuzVerilen denklemin bir çember belirtmesi için 2  ve 2  li terimlerin katsayıları eşit olmalıdır.  
+Verilen denklemde =
+ yazılırsa  +
+-
++
++
+=
+ denklemi elde edilir. 
+Denklemin her iki tarafı 3 ile bölünürse +
+-
++
++
+=
+ çember denklemi elde edilirBu denklemde 
+,
+ve olu=-
+=
+=
+ Bu durumda çemberin merkezi 
+       
+,
+,
+,
+olarak bulunu-
+-
+=
+- -
+-
+=
+-
+^
+]
+ 
+Çemberin yarıçap uzunluğu is 
+                                                          
+                                             
+&
+olu-
+=
+-
+=
+&
+4 $
+$
+$
+$
+$
+=
++
+-
+=
+-
++
+-
++
+-
+=
+birim elde edili$
+=
+=
+]
+mx+
++
++
++
++
++
+-
+=
+]
+]
+ denklemi bir çember belirttiğine göre bu çemberi yarıçap uzunluğunu bulunuzGenel çember denkleminde xy  li terim bulunamaz. Bu durumda 
+&
+=
+=
+ olur. 
+Verilen denklemde =
+ yazılırsa +
++
++
+=
+ denklemi elde edilir. 
+Burada 
+,
+ve olu=
+=
+=
+ Böylece çemberin yarıçap uzunluğbirim bulunu4 $
+$
+$
+$
+$
+$
+=
++
+-
+=
++
+-
+=
++
+-
+=
+=
+ÇÖZÜÇÖZÜAnalitik GeometrÖRNEAşağıdaki çemberleri Dinamik Geometri ve Matematik Yazılımı programını kullanarak çiziniza) Merkezi 
+,
+A 2 ^
+h ve yarıçap uzunluğu 3 birim olan çember,
+b) Merkezi 
+,
+,
+olan ve 6 2 -
+-
+^
+^
+h noktasından geçen çember,
+c) 
+,
+,
+,
+,
+ve -
+-
+-
+^
+^
+^
+h noktalarından geçen çember1. Adım: Giriş çubuğuna sırasıyla 
+,
+2 ^
+h, 
+,
+,
+,
+6 2 -
+-
+^
+^
+h, 
+,
+,
+,
+,
+v-
+-
+-
+^
+^
+^
+h 
+yazılarak enter tuşuna basıldığında A, B, C, D, E ve F noktaları cebir penceresinde 
+ve grafikte görüntülenecektir2. Adım:
+Üstteki araç çubuğunda 5. sıradaki simge tekrar tıklandığında açılan menüde ilk 
+sıradaki Merkez ve bir noktadan geçen çember seçilir. Ardından grafikte önce B noktas sonra C noktası tıklanır. Böylece merkezi 
+,
+,
+olan ve 6 2 -
+-
+^
+^
+h noktasında geçen çember çizilmiş olurÜstteki araç çubuğunda 5. sıradaki simge bir kez daha tıklandığında açılan menüde 
+dördüncü sıradaki Üç noktadan geçen çember seçilir. Ardından grafikte sırasıyla D, 
+E ve F noktaları tıklanır. Böylece 
+,
+,
+,
+,
+ve -
+-
+-
+^
+^
+^
+h noktalarından 
+geçen çember çizilmiş olur3. Adım:
+4. Adım:
+Üstteki araç çubuğunda 5. sıradaki 
+ simgesi tıklandığında açılan menüde ikinci 
+sıradaki Merkez ve yarıçapla çember seçilir. Ardından grafikteki A noktası tıklandıkta sonra açılan pencerede yarıçap için 3 yazılarak Tamam butonu tıklanır. Böylece 
+merkezi 
+,
+A 2 ^
+h ve yarıçap uzunluğu 3 birim olan çember çizilmiş olurDinamik Geometri ve Matematik Yazılımı programını açınızÇÖZÜMatematik Merkezi 
+-
++
+=
+ doğrusu üzerinde  
+bulunan ve her iki eksene de analitik düzlemi III. bölgesinde teğet olan çemberin 
+standart denklemini bulunuzMerkezi x ekseni üzerinde olan ve x eksenni 
+,
+2 -
+^

@@ -1,0 +1,400 @@
+,  olsun. Orhan Bey’in mağazasındak tüm ürünlerin fiyatlarının aynı olması nedeniyle hangi ürün alınırsa alınsın hep 5 lira ödenecektir.  
+Bu durumd,
+,
+,
+,
+( )
+( )
+( )
+( )
+( )
+f f f f f olu=
+=
+=
+=
+=
+Buradan fonksiyon ( )
+f =
+ olarak yazılabilir. Bu fonksiyon ise sabit fonksiyondur. 
+"
+,
+:
+f =
+-
++
+-
+^
+^
+ ve  f sabit fonksiyondur. Buna göre t nin değerini bulunuz( )
+f x  sabit bir fonksiyon olduğundan x  in katsayısı 0 olmalıdır. Buradan x in katsayısı -
+=
+ olup =
+ olurA ve B boş olmayan kümeler ve !
+ olmak üzere 
+"
+:
+B  fonksiyonu 
+verilsin. 
+6 !
+ için ( )
+f =
+ oluyorsa bu fonksiyona sabit fonksiyon denirYandaki şekilde tanımlanan f fonksiyonu için 
+"
+,
+:
+6 !
+ olmak üzer( )
+f =
+ olurÖrneğin  
+"
+:
+R , ( )
+f =
+ olmak üzere 
+        • 
+( )
+f =
+                     • 
+ (
+)
++
+=
+            
+        • 
+ ( )
+f =
+                    •      (
+)
+f +
+=
+ olur.       
+Tanımlı olduğu aralıkta ( )
+f ca=
++
++
+ biçiminde verilen ( )
+f x  fonksiyonu sabit fonksiyon is =
+ eşitliği sağlanır"
+:
+-
+ olmak üzere 
+( )
+g =
+-
++
++
+fonksiyonu sabit fonksiyon olduğuna göre k nin değerini bulunuz( )
+g x  sabit fonksiyon olduğundan 
+olu=
+-
++
++
+= -
+= -
+"
+:
+R , f birim fonksiyon ve 
+"
+:
+R , g sabit fonksiyon olmak üzerf(
+)
+( )
+g +
++
+=
++
+ olduğuna göre f( )
+(
+)
++
+ değerini bulunuzf birim fonksiyon olduğundan (
+)
+f +
+=
++
+ olur ve g sabit fonksiyon olduğundan 
+( )
+(
+)
+g c !
+=
+ olurBu durumd (
+)
+( )
+f g &
++
++
+=
++
++
+=
++
+=
+,
+ ( )
+(
+)
+ve =
+=
+,
+ ( )
+(
+)
++
+=
++
+=
+ olur"
+:
+R  fonksiyonu birim fonksiyon, 
+"
+:
+R  fonksiyonu sabit fonksiyon olmak üzer(
+)
+(
+)
+(
+)
+(
+)
+g g $
++
++
+-
+=
+-
++
+ olduğuna göre x in değerini bulunuzf birim fonksiyon olduğundan (
+)
+(
+)
+ve +
+=
++
+-
+=
+-
+ olurg sabit fonksiyon olduğundan 
+(
+)
+(
+)
+g g -
+=
+ olur. Bu eşitlikler yukarıdaki denklemde yerine yazılırs(
+)
+(
+)
+(
+)
+g g olu$
++
++
+-
+=
+-
++
++
+=
+-
+= -
+Bu eşitliğin doğruluğu aşağıdaki gibi gösterilebilirk bir sabit sayı olmak üzere cakc kakck&
+&
++
++
+-
++
+-
+=
+=
++
+=
++
+^
+ eşiliğinin sağlanabilmes için kve k-
+=
+-
+=
+ olmalıdır. Buradan k&
+=
+=
+ ve k&
+=
+=
+ elde 
+edilir. Buradan =
+ olduğu görülürDoğrusal Fonksiyo"
+,
+:
+( )
+(
+)
+(
+)
+f a=
+-
+-
++
++
++
++
++
+ fonksiyonu doğrusal fonksiyon olduğuna göre f(2) 
+değerini bulunuzf doğrusal fonksiyon olduğundan ve 2  li terimlerin katsayılarının 0 olması gerekir. Burada-
+-
+=
+ ve +
++
+=
+ olmalıdır. Bu durumd-
+=
+= -
++
+2 denklemlerinin ortak çözümünden ve =
+= -  olurBu değerler ( )
+f a=
++
+ fonksiyonunda yerine yazılırsa ( )
+f =
+-
+ olur.  
+Buradan ( )
+f 2 $
+=
+-
+=
+-
+=
+ olur"
+:
+R  bir doğrusal fonksiyon olmak üzere ( )
+f =
+, ( )
+f =
+ olduğuna göre ( )
+f 5  değerini bulunuzf doğrusal fonksiyon olduğundan ,
+a !
+ olmak üzere ( )
+f a=
++
+ şeklindedir. 
+( )
+i in =
+=
++
+=
+ olur( )
+i in =
+=
++
+=
+ olur. 
++
+=
++
+=
+2 denklemlerinin ortak çözümünden =
+ ve =
+ olur. 
+Bu değerler ( )
+f a=
++
+ fonksiyonunda yerine yazılırsa ( )
+f =
++
+ ve ( )
+f 3 $
+=
++
+=
++
+=
+ 
+bulunur"
+:
+R  doğrusal fonksiyon olmak üzere (
+)
+( )
+f f +
++
+=
+-
+ ise (
+)
+-
+ değerini bulunuzf bir doğrusal fonksiyon olduğundan ,
+a !
+ olmak üzere ( )
+f a=
++
+ şeklindedir. Burada(
+)
+(
+)
+f a$
++
+=
++
++
+=
++
++
+ olur. Bu değerler (
+)
+( )
+f f +
++
+=
+-
+eşitliğinde yerine yazılırs(
+)
+( )
+f f aaaolu&
++
++
+=
++
++
++
++
+=
+-
++
++
+=
+-
+Buradan &
+=
+=
+ ve &
+&
++
+= -
++
+= -
+= -
+ olur. 
+Buradan ( )
+f a=
++
+=
+-
+ olur. = -  için (
+)
+$
+-
+=
+-
+-
+= -
+]
+ olurBilg,a !
+ olmak üzere 
+"
+,
+:
+( )
+f a=
++
+ biçimindeki fonksiyonlara doğrusal fonksiyon 
+denir. f bir doğrusal fonksiyon ise grafiği bir doğrudurBilgTek Fonksiyon ve Çift Fonksiyo"

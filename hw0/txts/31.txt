@@ -1,0 +1,400 @@
+=
+Yukarıda verilenlere göre  AH  kaç cm dir?
+A) B) 4,C) D) 6,ABC dik üçge[AB] ^ [AC]
+ADDB4 cH9 c=
+=
+=
+=
+@
+@
+olduğuna göre  AD  kaç cm dir?
+A) B) C) D) 3ABC ikizkenar üçgeAAAAB 
+20 cB32 cm dir=
+=
+=
+=
+@
+@
+Yukarıda verilenlere göre DC = x kaç cm dir?
+A) B) C) D) 44 ABC bir üçgeABA4 2 cB4 cH8 c=
+=
+=
+=
+@
+@
+olduğuna göre 
+∑
+m B i kaç derecedir?
+A) B) C) D) ÜçgenleMatematik I2. BölüÜçgenleDik Üçgende Dar Açıların Trigonemetrik OranlarKomşu dik 
+kenaKarşı dik 
+kenaABC dik üçgenind∑
+∑
+m A m A °
+=
+=  
+[AC]: Hipotenü[AB]: α açısının karşı dik kenar[BC] : α açısının komşu dik kenarolmak üzer α açısının komşu dik kenar uzunluğu 
+cos α =  
+    = 
+Hipotenüs uzunluğu  
+ α açısının karşı dik kenar uzunluğu  
+sin α =  
+     = 
+Hipotenüs uzunluğu  
+  α açısının karşı dik kenar uzunluğu 
+tan α =  
+     = 
+              α açısının komşu dik kenar uzunluğu 
+α açısının komşu dik kenar uzunluğu 
+cot α =  
+     = 
+ α açısının karşı dik kenar uzunluğu  
+ÖRNEKLE1. 
+ABC dik üçge∑
+m A A5 cB12 c=
+=
+=
+olduğuna göre sinα + cosα toplamını bulalımHipotenüs 
+Matematik I2. BölüÇözüABC üçgeninde Pisagor Teoremi uygularsak,
+AAB=
++
+AAAA13 cm olur=
+=
++
+=
+=
++
+Karşı dik kenar uzunluğu      sin α =  
+  = 
+   Hipotenüs uzunluğu       cos α =  
+sinα + cosα = +
+=
+ bulunur2. 
+ABC dik üçge∑
+m A A10 csi=
+=
+=
+olduğuna göre           = x uzunluğunu bulalımÇözüsiA=
+=
+ olduğundan,          ABC üçgeninde Pisagor teoremi uygularsak,
+|AC|2 = |AB|2 + |BC|2 
+102 = 62 + x2 
+100 = 36 + x2 
+x2 = x = 8 cm bulunur5. AA3.=
+= 6 cm bulunurKomşu dik kenar uzunluğu        = 
+   Hipotenüs uzunluğu       BÜçgenleMatematik I2. BölüÜçgenle3. Yandaki şekil 6 eş birim kareden oluşmuştur. 
+m AED = %
+olduğuna göre  cosα değerini bulalımÇözüABC üçgeninde Pisagor Teoremi uygularsak,
+AAB=
++
+AAA5 c=
++
+=
+=
+cosa= 4  bulunur5ABC ikizkenar üçgeAAcBcDc=
+=
+=
+=
+olduğuna göre tanα ifadesinin değerini bulalımAED ve ACD açıları yöndeş olduğu içim(AED) = m(ACB) =      dırm (ADC) = 
+Matematik I2. BölüÜçgenleÇözü2 ABC ikizkenar üçgeninde [AH] doğrusu 
+yükseklik, kenarortay ve açıortaydırBH=
+=
+AHC üçgeninde Pisagor teoremi uygularsa,
+HAAAAA8 c+
+=
++
+=
+=
+=
+ADH üçgeninde 
+tabulunua =
+=
+BİLGİ KUTUSHerhangi bir açının trigonometrik değerleri için dik üçgenden yararlanırız. 
+Dik üçgen yoksa istenen açı dik üçgenin bir iç açısı olacak şekilde açının karşısında dikme indirilir6ABC dik üçge[AH] = [BC]
+∑
+m ACBcHc=
+=
+=
+olduğuna göre cota ifadesinin değerini bulalımÇözüABC üçgeninde Öklid Teoremi uygularsak,
+ABH4 $
+$
+=
+=
+=
+6 cAHC üçgeninde 
+cobulunua =
+=
+Matematik I2. BölüÜçgenle30° – 60° lik Açıların Trigonometrik Oranlar30°
+30°
+60°
+60°
+ABC eşkenar üçgeninde, [AH] yüksekliği aynı zamand kenaortay ve açıortay olduğunda∑
+∑
+m BAm CABHa olu°
+=
+=
+=
+=
+ABH üçgeninde pisagor teoremini uygularsak,
+ABAAA3Aa 3 bulunur+
++
+=
+=
+=
+= `
+ABH dik üçgeninde 30° ve 60° nin trigonometrik oranları;
+,
+sicoABAAABBAAAABBAAB=
+=
+=
+=
+,
+sico=
+=
+=
+=
+,
+taco=
+=
+=
+=
+=
+=
+,
+taco=
+=
+=
+=
+=
+=
+şeklindedirBulunan değerler karşılaştırıldığında,
+°
+tacot=
+=
+=
+°
+°
+°
+sico=
+=
+sicotaco=
+=
+=
+=
+ şeklinde elde edilirBİLGİ KUTUSBirbirini 90° ye tamamlayan açılardan birinin sinüsü diğerinin kosinüsüne, 
+birinin tanjantı diğerinin kotanjantına eşittirMatematik I2. BölüÜçgenlesicotacoAAABBAAB=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+BİLGİ KUTUSİkizkenar dik üçgende hipotenüs uzunluğu dik kenar uzunluğunun 
+2  katıdır30° – 45° – 60° lik Açıların Trigonometrik Değerlerinin TablosAç30°
+45°
+60°
+sicota§co§45°
+45°
+ABC ikizkenar dik üçgeninde 
+Pisagor Teoremi uygularsak,
+AAB=
++
+A+
+=
+2Aa 2 bulunur2 =
+=
+45° lik Açının Trigonometrik OranMatematik I2. BölüÜçgenleÇözü6 AHD üçgeninde Pisagor teoremi uygularsak,
+AAAbulunu6 +
+=
+=
+=
+ABH üçgeninde Pisagor Teoremi uygularsak,
+A6 A2 31 c=
++
+=
++
+=
+=
+^
+bulunu2 6 3 3 =
+=
+sin (ABH) = sin (ABC) =
+2ABC eşkenar üçgen,
+AABc=
+=
+=
+ 
+olduğuna göre sin30° ve cos30° değerlerini hesaplayalımÖRNEKLE1ABC ikizkenar üçgeBccCAcm   
+=
+=
+=
+olduğuna göre sin A%
+BC  değerini bulalımMatematik I2. BölüÇözü30°
+60°
+60°
+30°
+ABC eşkenar üçgeninde [AH] yüksekliği aynı zamanda 
+kenarortay ve açıortaydırBHc=
+=
+ABC üçgeninde Pisagor teoremini uygularsak,
+AA4 – AA2 +
+=
+=
+=
+=
+ABC üçgenind°
+°
+sicoABAAbulunu2 =
+=
+=
+=
+=
+=
+3. 
+3760 cBir nakliye firmasının kullandığı merdiveni yer ile yaptığı açı 37°, aracın kasasının 
+yerden yüksekliği 60 cm dirBuna göre kullanılan merdivenin uzunluğ kaç cm dir? Bulalım. (sin37° ~ 0,6)
+Çözü,
+37°
+60 cSoruda verilenleri geometrik olarak çizersek bir 
+dik üçgen oluşur. Bu üçgende 37° lik bir açı ve 
+buna karşılık gelen kenarın uzunluğu 60 cm olarak 
+verilmiştir. ABC üçgeninde sin 37° yi yazacak olursa 
+sin60 &
+$
+$
+,
+,
+,
+=
+=
+=
+6 ¬ =600 
+   ¬ = 100 cm bulunur=
+ÜçgenleMatematik I2. BölüÜçgenle4. 
+330 400 240 Yerden yüksekliği 400 m olan helikopteri iniş yapacağı noktanın binaya 
+olan uzaklığı 240 metredir. Binanın 
+yüksekliği 330 metredir. 
+Helikopterin inişe geçtiği anda yer 
+ile yaptığı açının sinüsünü bulalım. 
+Çözü330 
+330 
+70 
+240 
+240 
+Şekli geometrik olarak çizersek ABC dik üçgenini 
+elde ederizABC üçgeninde Pisagor teoremi uygularsak,
+=
++
+=
+=
+siolarak bulunua =
+=
+5. 
+45°
+18002200I30°
+60°
+Yüksekliği 4000 m olan dağa iki farklı yüzünden iki 
+dağcı tırmanışa başlamıştırİki dağcının zirveye ulaşana kadar aldıkları toplam 
+yolu bulalımMatematik I2. BölüÇözüSoruda verilenleri geometrik olarak çizersek birkaç tane dik üçgen oluşurABC üçgeninde 
+AFE üçgeninde 
+      EGD üçgenind                             
+                             
+                                    
+si4000 ° =
+=
+=
+=
+°
+si1200 =
+=
+=
+=
+=
+°
+si=
+=
+=
+45°
+30°
+60°
+Dağcıların aldıkları toplam yol:
+x + y + z =  
+metredi4000 1200 +
++
+ALIŞTIRMALA1ABC dik üçge,
+,
+m BAm ACAB7 c24 c=
+=
+=
+=
+^
+^
+olduğuna göre 
+tacosico+
+ değerini bulunuz?
+ÜçgenleMatematik I2. BölüÜçgenle2°
+°
+0  olmak üzertaa =
+ olduğuna göre cosi$
+a ifadesinin değeri kaçtır?
+A) B) C) D) 3ABC ikizkenar üçgeAAB 
+cBcm di=
+=
+=
+Yukarıda verilenlere göre coco$
+a ifadesinin değeri kaçtır?
+A) 16  
+B) 9  
+C) D) 4. 
+ABC dik üçge∑
+,
+AAm DCAEEAD6 cm v=
+=
+=
+=
+=
+=
+@
+@
+Yukarıda verilenlere göre tana değeri kaçtır?
+A)
+B) 2 C) D) 
+5. 
+ABC bir dik üçgen,
+ABC vABcm di=
+=
+=
+@
+@
+Yukarıda verilenlere göre sin45°, cos45°, tan45°, cot45° lik açıların trigonometri değerleri aşağıdakilerden hangisidir?
+A)
+,
+, ,
+2 1 B)
+,
+, ,
+2 1 
+C)
+,
+, ,
+2 1 1     D) 
+,
+,
+,
+si5 cm dirMatematik I2. BölüÜçgenle612 ABC ikizkenar üçgen,
+AAB=
+= 12 cm v= 12 3 cm dirYukarıda verilenlere göre 
+∑
+∑
+tasiABABi işleminin sonucu aşağıdakilerde hangisidir?
+A)
+B)
+C)
+D) 7. 
+4,8 m uzunluğundaki bir ağacın gölgesi ile güneş ışınlarını yaptığı açı 70 derecedirYukarıda verilenlere göre gölgenin uzunluğu kaç metredir? (tan70° ~ 2,7 )
+A) 16  
+B) C) D) Özel Üçgenler ile İlgili Uygulamala1. 
+135°
+30°

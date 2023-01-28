@@ -1,0 +1,400 @@
+ 
+Yukarıdaki şekilde verilen ABCD yamuğund AB ve D!
+!
+@
+@, 
+;
+DA'
+?
+?
+,
+(
+)
+m DA=
+%
+ 
+;
+(
+)
+m CB=
+%
+DLc=
+=
+, AKc=
+=
+ 
+olduğuna göre KL  nun kaç cm olduğunu 
+bulunuz3.  
+ 
+ 
+Yukarıdaki şekilde verilen ABCD yamuğunda 
+C@DCB açısının, B@ CBA açısının açıortay, ! @; DA'
+?
+?; 
+;
+,
+AFDc=
+=
+Ac=
+, 
+Fc=
+ olduğuna göre BC  nun kaç cm 
+olduğunu bulunuz4. 
+Yukarıdaki şekilde verilen ABCD yamuğundA! @; FAD'
+'
+?
+?
+?, Ave B@
+@ 
+köşegendir. Dc=
+, Ac=
+ olduğun göre FE  nun kaç cm olduğunu bulunuzDörtgenler ve ÇokgenleDörtgenler ve Çokgenle5. 
+Yukarıdaki şekilde verilen ABCD yamuğunda 
+DA'
+?
+?, DE ve B?
+? açıortaylardır,
+AD=
+?
+?  
+;
+BF=
+?
+?  
+,
+Ac=
+Bc=
+, Ec=
+ olduğuna görAD+
+ nın kaç cm olduğunu bulunuz6. 
+Yukarıdaki şekilde verilen ABCD yamuğunda  
+A'
+?
+?, AD=
+ ve 
+(
+)
+m AC40=
+%
+ 
+olduğuna göre 
+(
+)
+m CD%  nün kaç derece olduğun bulunuz7. 
+Yukarıdaki şekilde verilen ABCD yamuğunda  
+A'
+?
+?; 
+,
+Ac=
+ 
+;
+Bc=
+ 
+Ave B?
+? açıortaylar olduğuna göre 
+ABCD yamuğunun yüksekliğinin kaç cm olduğun bulunuz    
+8. 
+Yukarıdaki şekilde verilen ABCD yamuğund D! @; 
+A'
+?
+?; 
+,
+Ac=
+,
+Ac=
+;
+Bc=
+(
+)
+m BA=
+%
+ 
+ve DE=
+ olduğuna göre AB  nun kaç 
+cm olduğunu bulunuz9. 
+Yukarıdaki şekilde verilen ABCD yamuğund 
+v!
+!
+@
+@; 
+,
+Dc=
+ 
+,
+Ec=
+ 
+,
+Ac=
+ 
+;
+Cc=
+ 
+DEA'
+'
+?
+?
+? ve F=
+ olduğuna 
+göre x değerinin kaç cm olduğunu bulunuz    
+10. 
+ 
+Yukarıdaki şekilde verilen ABCD dik yamuğund DA'
+@
+@; AD=
+@
+@; 
+,
+Ac=
+ 
+,
+Dc=
+ Ac=
+ ve 
+Bx c=
+ olduğuna göre x değerinin kaç 
+olduğunu bulunuzDörtgenler ve ÇokgenleDörtgenler ve ÇokgenleİpucBilgParalelkenarın karşılıklı kenar uzunlukları eşit olduğundan 
+volu&
+&
+&
+&
+-
+=
+-
+=
+=
+-
+=
+-
+=
+=
+Bu durumda +
+=
++
+=
+ cm olarak bulunurBu ifadelerin doğruluğu aşağıdaki gibi gösterilebilirABCD paralelkenar olmak üzere ardışık köşelerdeki iç açılar birbiriyle 
+bütünler açı olup bu ardışık köşelerdeki iç açıların  ölçüleri toplamı 
+180c dirABCD paralelkenarında  
+( )
+( )
+m m =
+X   ve 
+( )
+(
+)
+m m =
+X  olurB köşesi AD'
+? olacak şekilde uzatılsın. Yöndeş açılardan 
+m(DAB)
+m(CBE)
+=
+= %
+%
+ olur. Bu durumda B köşesindeki açıların 
+ölçüleri toplamı doğru açı kavramından +
+=
+c olur. Ardışık 
+köşeler olan A ile B köşelerindeki iç açılar birbiriyle bütünler açı 
+olmuştur. Buradan D açısının bütünleri hem A açısı hem de C açısı 
+olduğundan 
+( )
+( )
+m m =
+X   olur. Benzer şekilde A açısının bütünleri 
+hem D açısı hem de B açısı olduğundan 
+( )
+(
+)
+m m =
+X  olurParalelkenar ve Özellikler   
+           
+                                              
+ Yandaki ABCD paralelkenarınd∙ AD'
+?
+? ve AD=
+=
+ olur∙ AB'
+?
+? ve AB=
+=
+ olur.  
+Karşılıklı kenarları birbirine paralel olan dörtgene paralelkenar denirYandaki şekilde verilen ABCD paralelkenarında Ax c=
+-
+, 
+Dx c=
+-
+, 
+cA=
+-
+ ve 
+c=
+ olduğuna göre 
++
+ nın değerini bulunuzDörtgenler ve ÇokgenleDörtgenler ve ÇokgenleAW  ile DX  ardışık köşelerdeki açılar olduğundan 
+( )
+(
+)
+m m olu&
+&
+&
+&
++
+=
++
++
++
+=
++
+=
+=
+=
+Burada 
+( )
+(
+)
+m m bulunu3 102$
+=
++
+=
++
+=
+=
++
+=
++
+=
+                                                    
+AW  ile BW   ardışık köşelerdeki açılar olduğundan 
+( )
+m =
+ olurDX  ile CX   ardışık köşelerdeki açılar olduğundan 
+( )
+m =
+ olurYandaki şekilde verilen ABCD paralelkenarında 
+(
+)
+m AD=
++
+%
+ ve 
+(
+)
+m DA=
++
+%
+ olduğuna göre 
+(
+)
+m DC%  ve 
+(
+)
+m AB%
+ nün kaç derece 
+olduğunu bulunuz A ve B köşelerine ait açılar şekildeki gibi yazılırs 
+( )
+( )
+m m &
+&
++
+=
++
+=
++
+=
+ olurAB&  nin iç açıları ölçülerinin toplamı 180c olduğunda(
+)
+(
+)
+(
+)
+m AEm AEm AE&
+&
++
++
+=
++
+=
+=
+%
+%
+%
+ olurYandaki şekilde verilen ABCD paralelkenarında A? ve B? bulunduklar köşelerin açıortayları olduğuna göre 
+(
+)
+m AE%  nün kaç derece olduğun bulunuzDörtgenler ve ÇokgenleDörtgenler ve ÇokgenleİpucBu durumun GeoGebra ile gösterimi aşağıdaki gibidirGeoGebra programını açarak grafik penceresinde sağ tıklayınız ve ‘Grid’ sekmesini seçiniz. Araç çubuğundak 5. kutuyu ve ardından açılan ‘Çokgen’ sekmesini seçerek bir paralelkenar çizinizAraç çubuğundaki 3. kutuyu ve ardından açılan ‘Doğru parçası’ sekmesini seçiniz. Daha sonra  A ve C noktalaı ile A@ köşegenini, B ve D noktaları ile BD  köşegenini çiziniz. Araç çubuğundaki 2. kutuyu  ve ardından 
+açılan ‘Nokta’ sekmesini seçerek bu köşegenlerin kesim noktasına tıklayınız. Bu noktanın şekil üzerinde E 
+olduğunu göreceksinizParalelkenarın köşegenleri birbirini ortalar. Şekildeki ABCD 
+paralelkenarında DE=
+ ve AE=
+ olur(
+)
+(
+)
+m CDm AD=
+=
+%
+%
+ olsun. Bu durumda paralelkenarda 
+karşılıklı köşelerin açıları eşit olduğundan 
+(
+)
+m AB=
+%
+ olur. 
+(
+)
+m DC=
+%
+ olsun. Bu durumda DLC üçgeninde +
+=
+c olur. 
+(
+)
+( )
+m m +
+=
+ ve +
+=
+c olduğundan 
+(
+)
+m KC=
+%
+ 
+olur. İç ters açıların özelliğinden 
+(
+)
+(
+)
+m DCm CK=
+=
+%
+%
+ olur. 
+Paralelkenarın karşılıklı kenar uzunlukları eşit olduğundan 
+ABc=
+=
+ olur. KBC  ikizkenar üçgen olduğu için KBc=
+=
+ bulunur. Sonuç olarak 
+Ac=
++
+=
+ olur 
+Yandaki şekilde verilen ABCD paralelkenarında K, L, C noktaları doğrsal ve D?, D köşesindeki iç açının açıortayıdır. 
+! ?,
+,
+;
+AcAcDC=
+=
+=
+?
+? olduğuna göre DC  nun 
+kaç cm olduğunu bulunuzDörtgenler ve ÇokgenleDörtgenler ve ÇokgenleAraç çubuğundaki 8. kutuyu ve ardından açılan ‘Uzaklık veya uzunluk’ sekmesini seçiniz. SırasıylD ile E noktalarına tıklayarak DE  nu,
+E ile B noktalarına tıklayarak EB  nu,
+A ile E noktalarına tıklayarak AE  nu,
+E ile C noktalarına tıklayarak EC  nu ölçünüzGrafik penceresinde DE=
+ ve AE=
+ olduğunu göreceksinizDörtgenler ve ÇokgenleDörtgenler ve ÇokgenleDEC dik üçgen olduğundan Pisagor teoremi ile Ec=
+ olurParalelkenarda köşegenler birbirini ortaladığından AEc=
+=

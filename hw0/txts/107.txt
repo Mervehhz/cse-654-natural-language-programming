@@ -1,0 +1,400 @@
+)
+(
+)
+(
+)
+P $
+$
+$
+=
+-
++
+= -
+=
+]
+]
+(
+)
+(
+)
+(
+)
+(
+)
+$
+$
+$
+-
+=
+-
+-
+-
++
+= -
+=
+]
+]
+ olur. Burada         a) P(x) polinomunun çift dereceli terimlerinin katsayıları toplamı,
+            
+( )
+(
+)
++
+-
+=
++
+=
+ olurb) P(x) polinomunun tek dereceli terimlerinin katsayıları toplamı,
+    
+( )
+(
+)
+-
+-
+=
+-
+= -
+ olurİpucBir polinomun sabit terimi, polinomun değişkeninin yerine 0 yazılarak bulunur• P(x) polinomunun sabit terimi P(0) dır• 
+(
+)
+P +
+ polinomunun sabit terimi  
+(
+)
+( )
++
+=
+ olur• 
+(
+)
+3 +
+-
+ polinomunun sabit terimi 
+(
+)
+(
+)
+$
+$
++
+-
+=
+-
+]
+]
+ olur• 
+(
+)
+(
+)
+R $
+-
++
+ polinomunun sabit terimi (
+)
+(
+)
+( )
+$
+$
+$
+-
++
+= -
+]
+]
+ olurP $
+=
++
+-
+-
+^
+^
+^
+h  polinomunun sabit terimini bulunuzP(x) polinomunun sabit terimi P(0) olduğundan x yerine 0 yazılırsP olu3 2 $
+$
+$
+$
+=
++
+-
+-
+=
++
+-
+-
+=
+-
+= -
+^
+^
+^
+^
+^
+^
+^
+0 !
+ olmak üzere 
+( )
+P a=
+ denilirse 
+( )
+( )
+( )
+=
+=
+=
+ olur. Burada5 &
+&
+&
+$
+$
+=
+=
+=
+=
+]
+]
+^
+ bulunur. 
+Buradan P =
+^  ve 
+(
+)
+P -
+=
+ olurSabit Polino( )
+Q x  bir sabit polinom olduğundan ve  li terimlerin katsayıları 0 olmalıdırve &
+&
+-
++
+=
+=
+-
+=
+=
+ olurBulunan a ve b değerleri 
+( )
+(
+)
+(
+)
+Q a $
+$
+$
+= -
++
++
+-
++
++
+ polinomunda yerine yazılırsa  
+( )
+(
+)
+(
+)
+Q $
+$
+$
+$
+= -
++
++
+-
++
++
+=
+]
+]
+]
+ bulunur. Buradan 
+(
+)
+Q =
+ olurBilga0  sıfırdan farklı gerçek sayı olmak üzere 
+( )
+P a=
+ ise P(x) polinomuna sabit polinom denir. 
+Sabit polinomun derecesi sıfırdır( )
+P = - , 
+( )
+Q = -
+, 
+( )
+R =
++
+ ve 
+( )
+T =
+-
+ polinomları birer sabit polinomdurP(x) sabit bir polinomdur. P(1) P(2) P(3)
+=
+$
+$
+ olduğuna göre P(3)
+-
+ değerini bulunuz,
+a !
+ olmak üzere 
+( )
+(
+)
+(
+)
+Q a $
+$
+$
+= -
++
++
+-
++
++
+ polinomu bir sabit polinom olduğuna 
+göre 
+(
+)
+Q 2018  değerini bulunuz(
+)
+-
+= -
++
+-
+ olduğuna göre (
+)
+(
+)
+P $
++
++
+ polinomunun sabit terimini bulunuz(
+)
+(
+)
+P $
++
++
+ polinomunda x yerine 0 yazılırsa (
+)
+(
+)
+( )
+$
+$
++
++
+=
+]  olur. -
+^
+h polinomund P ^ hü bulmak için 
+&
+-
+=
+=
+ değeri 
+(
+)
+-
+= -
++
+-
+ polinomunda yerine 
+yazılırsa 
+(
+)
+( )
+( )
+2 &
+&
+$
+$
+$
+-
+= -
++
+-
+= -
++
+-
+= -
+]
+]
+ olur. Dolayısıyl( )
+(
+)
+$
+$
+=
+-
+= -
+ bulunurm, n, k, t gerçek sayılar olmak üzere 
+( )
+(
+)
+(
+)
+Q k=
+-
++
++
++
++
++ -
+ polinomu sıfır polinom olduğuna göre m $
+-
++  ifadesinin değerini bulunuzSıfır Polinom( )
+( )
+P Q =
+ ise bu iki polinomun aynı dereceli terimlerinin katsayıları da aynı olmalıdır(
+)
+(
+)
+(
+)
+a+
++
+-
++
+-
+=
++
++
++
+-
++
+ eşitliğinde,
+,
+,
+olu&
+&
+&
+&
++
+=
+=
+-
+=
+=
+=
++
+= -
+- =
+-
+=
+ 
+ 
+Buradan +
++
++
+=
++
+=
++
+-
+ bulunurBilg 
+( )
+P =
+ polinomuna sıfır polinomu denir. Sıfır polinomunun derecesi belirsizdir 
+,
+ve ve olu&

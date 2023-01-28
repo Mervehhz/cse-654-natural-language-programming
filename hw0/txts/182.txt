@@ -1,0 +1,400 @@
+ 
+ 
+          ⇒ a =
+7  veya a =
+-
+ olur. Buradaa nın pozitif değeri 
+7  olur35. Örnek 
+S a y ı l a r  v e  C e b i y = x + 3 doğrusu ile y = x2 + 1 parabolünün birbirine göre durumunu inceleyerek kesim 
+noktalarını bulunuzÇözüx2 + 1 = x + 3 ⇒ x2 - x - 2 = 0 ortak çözüm denkleminde ∆ = (-1)2 - 4.1.(-2) = 9 > 0 
+olduğundan parabol ile doğru iki noktada kesişir. 
+(x + 1).(x - 2) = 0 ⇒ x = -1 veya x = 2 olurBulunan bu değerler doğru veya parabolün 
+denkleminde yerine yazılırx = -1 için y = - 1 + 3 = x = 2 için y = 2 + 3 = 5 elde edilir. 
+Buna göre doğru ile parabolün kesim noktaları 
+A(-1, 2) ve B(2, 5) olurYandaki grafikte görüldüğü gibi doğru, 
+parabolü iki farklı noktada keser37. Örnek 
+Şekildeki y = -x2 + 5x - 4 fonksiyonunun grafiği x eksenini 
+A ve B noktalarında kesmekte, y = x - 1 doğrusu A ve C 
+noktalarından geçmektedir. ABC üçgeninin alanının kaç 
+birimkare olduğunu bulunuzÇözüParabolün x eksenini kestiği noktalay = 0 için -x2 + 5x - 4 = 0 
+⇒ x2 - 5x + 4 = 0 
+⇒ (x - 4).(x - 1) = ⇒ x = 4 veya x = 1 olarak bulunurA(1, 0)  ve  B(4, 0) ve |AB| = 3 birim olurParabol ile doğrunun kesişim noktası bulunur-x2 + 5x - 4 = x - 1 ⇒ -x2 + 4x - 3 = ⇒ x2 - 4x + 3 = 0 ⇒ (x - 3).(x - 1) = ⇒ x = 3 veya x = 1 olur. Bu durumda 
+A(1, 0) ve C(3, k) olurC(3, k) noktası y = x - 1 doğrusu üzerinde olduğundadoğru denklemini sağlar ve k = 3 -1 = 2  olarak bulunur. 
+Buradan 
+3(
+)
+A AB=
+=
+&
+ birimkare olur.  
+36. Örnek 
+-B(2, 5)
+A(-1, 2)
+y = x2 + y = x + y = -x2 + 5x -y = x -y = x -y = -x2 + 5x - F o n k s i y o n l a r d a  U y g u l a m a l a 1. y = 3x2 - 5x + 2  fonksiyonunun alabileceği 
+en küçük değeri bulunuz2. (0, 3), (-1, 4) ve (2, 19) noktalarından geçen 
+parabol denklemini bulunuz3. 
+Birimkarelerden oluşan analitik düzlemde 
+grafikleri verilen parabolleri aşağıdaki  
+denklemlerle eşleştirinizf(x) = (x - 1)2 + 3                g(x) = -(x + 1)2 - h(x) = -(x - 3)2 + 1 
+ t(x) = (x + 1)4. y = -4x + k doğrusu 
+y = x2 + 2x + 14 parabolüne teğet olduğuna 
+göre  k değerini bulunuz5. y = 2x - 3 doğrusu ile y = -x2 + 4x + 5            
+parabolü A ve B noktalarında kesişiyor. Bu iki 
+nokta arasındaki uzaklığın kaç birim olduğunu 
+bulunuz6. Yandaki şekilde y = 3x2 
+fonksiyonunun grafiği 
+verilmiştir. OABC bir 
+dikdörtgen ve 
+|AB| = 2|AO| olduğuna 
+göre OABC dikdörtgeninin 
+alanının kaç birimkare 
+olduğunu bulunuz. 
+7. y = x2 - 2mx + m + 1 parabolünün tepe 
+noktası y = 2x - 5 doğrusu üzerinde olduğuna 
+göre m nin pozitif değerini bulunuz. 
+8. 
+Su kemerleri, geçmiş yıllarda suyu bir bölgeden 
+başka bir bölgeye aktarmak için yapılmış su 
+yollarıdır. Yukarıdaki görselde görüldüğü gibi 
+su kemerleri genelde parabol şeklinde  inşa 
+edilmiştir. 
+Bir su kemerinin tepe noktasının yerden 
+yüksekliği 12 metre, ayaklarının iç kısımları 
+arasındaki mesafe 8 metredir. Buna göre 
+yukarıdaki gibi modellenen parabolün 
+denklemini simetri ekseni y olacak şekilde 
+yazınız(3, 1)
+(1, 3)
+(-1, 0)
+(-1, -3)
+y = 3xAlıştırmalaS a y ı l a r  v e  C e b i Yerden V0  ilk hızıyla g yerçekimi ivmesi altında dikey fırlatılan bir topun x saniye sonra yerde yüksekliği metre cinsinden 
+( )
+f =
+. g -
+ şeklinde ifade ediliyorV0 = 40 m/sn. vg ≈ 10 m/sn.2 olduğuna göre 
+a) Topun 5 saniyede kaç metre yükseğe çıkacağını,
+b) Topun çıkabileceği maksimum yüksekliğin kaç birim olacağını bulunuzÇözüa) Top 5 saniyede 
+( )
+40 1 10 =
+-
+=
+-
+=
+ yükseğe çıkarb) 
+( )
+f 1 =
+-
+=
+-
+ fonksiyonunun en büyük değeri maksimum 
+yüksekliği   verir=-
+ ⇒ 
+.(
+)
+=-
+-
+=
+ olduğundan top maksimum yüksekliğe 4 saniyede çıkar. 
+Maksimum yükseklik f(4) = 40.4 - 5.16 = 80 m olur. 
+40. Örnek 
+3.2.2. İkinci Dereceden Fonksiyonlarla Modellenebilen ProblemleBir kırtasiyeci x TL ye aldığı ürünü y TL ye satmaktadır. x ile y arasında 
+y = - x2 + 9x + 36 bağıntısı olduğuna göre kırtasiyecinin satıştan en fazla kaç TL kâr elde 
+edeceğini bulunuzÇözüSatıştan elde edilen kâr fonksiyonu k(x) olsun. Kâr  y - x  olduğundan 
+k(x) = y - x = -x2 + 9x + 36 - x = -x2 + 8x + 36 olur. 
+Ürünün alış fiyatı x = r =  
+-
+ ⇒ =- -
+=
+ TL olduğundkırtasiyecinin maksimum kârı k(4) = - (4)2 + 8.(4) + 36 = 52 TL olarak bulunur38. Örnek 
+Kenar uzunlukları (10-x) birim ve 5x birim olan dikdörtgenin alanının en fazla kaç 
+birimkare olduğunu bulunuzÇözüAlan fonksiyonu a(x) olursa(x) = (10 - x).5x = 50x - 5x2 olurDikdörtgenin alanı fonksiyonun tepe noktasının apsisinde maksimum değerine ulaşır. 
+O hâlde sonuç =-
+ ⇒ 
+.(
+)
+=-
+=
+-
+ olduğundaa(5) = 50x - 5x2 = 50.5 - 5.52 = 250 - 125 = 125 birimkare olur39. Örnek 
+F o n k s i y o n l a r d a  U y g u l a m a l a ABC ikizkenar dik üçgen, [AB]⊥[AC] ve KLMN 
+dikdörtgendir.  K, L noktaları sırasıyla [AB], [AC] 
+kenarları üzerinde ve |BC| = 4 birim olduğuna göra) Dikdörtgenin alanını x cinsinden bulunuzb) Bulduğunuz alan fonksiyonunun grafiğini çizinizc) Dikdörtgenin alanının maksimum olduğundaki 
+x değerini bulunuzÇözüa) ABC ikizkenar dik üçgen olduğundan 
+(
+)
+(
+)
+m CBm AC45°
+=
+=
+\
+\
+ olur|BC|= 4 birim olduğundan |BO|=|OA|=|OC|=2 birim 
+olur. Buna göre 
+A ve B noktalarının koordinatları A(2, 0) ve B(0, 2) olur. 
+AB doğrusunun denklemi +
+=
+ olur. Buradax + y = 2 ise y = 2 - x olur. Buradaki y değeri |KP| olur.   
+K ve L noktaları x eksenine göre simetrik olduğundan 
+|KL|= 2.|KP| = 4 - 2x olurDikdörtgenin alanı A(x) = x.(4 -2x) = 4x - 2x2  birimkare 
+olarak bulunurb) A(x) = 4x - 2x2 fonksiyonunun grafiği 
+y eksenini x = 0 için y = 0 noktasında,
+x eksenini  y = 0 için  
+4x-2x2 = 0 ⇒ 2x.(2-x) = 0 
+                     ⇒ x = 0 ve x = 2 noktalarında keser.(
+)
+=-
+=
+-
+-
+=
+A(1) = 4.1 - 2.12 = 2  değerleri için tepe noktasının 
+koordinatları T(1, 2) olarak bulunur. Buna göre 
+parabolün grafiği yandaki gibi olur. 
+c) b şıkkında bulunan r değeri fonksiyonun en büyük değerini aldığı noktanın apsisidir. 
+r nin aldığı bu değer, dikdörtgenin alanının maksimum olması durumunda x in değeridir. 
+Buradan x = 1 olur41. Örnek 
+T(1, 2)
+A(x) = 4x - 2xK(x,y)
+45°
+45°
+⟔
+K(x,y)
+⟔
+S a y ı l a r  v e  C e b i Çevre uzunluğu 80 m olan dikdörtgenin alanının en çok kaç metrekare olduğunu bulunuzSıra SizdAhmet Bey ve eşi, lösemi hastalığı ile ilgili farkındalık oluşturmak için A şehrinden B şehrine 
+yürüyecektir. Yürüyüşten x gün sonra B şehrine kalan mesafe 
+km cinsinden f(x) = 300 - 5x - x2 şeklinde ifade edilmektedir. 
+a) A ile B şehirleri arasındaki uzaklığın kaç km olduğunu,
+b) 3 günün sonunda katedecekleri mesafeyi, 
+c) Yürüyüşün kaç gün süreceğini bulunuzÇözüa) x = 0 olduğunda A ile B şehirleri arasındaki mesafe  f(0) = 300 - 5.0 - 02 = 300 km olurb) x = 3 gün sonunda B şehrine kalan mesafe f(3) = 300 - 15 - 9 = 276 km olarak bulunur  Gidilen yol 300 - 276 = 24 km olurc) Kalan mesafenin sıfır km  olması durumunda B şehrine varılmış olur  O hâlde f(x) = 0 için x değeri bulunmalıdır  300 - 5x - x2 = 0 ⇒ x2 + 5x - 300 = 0 
+                                  ⇒ (x - 15).(x + 20) = 0 
+ 
+  
+          ⇒ x = 15  veya x = -20 olur. 
+Zaman negatif olamayacağı için yürüyüş 15 gün sürer42. Örnek 
+Tek ve Çift Fonksiyonların Grafiklerinin Simetri ÖzelliklerÇift fonksiyonların grafikleri y eksenine göre simetriktir. 
+Tek fonksiyonların grafikleri orijine göre simetriktir3.3. Fonksiyonların DönüşümlerYandaki grafiğin tepe noktası y ekseni üzerindedir. Bu grafiğin ait 
+olduğu fonksiyonun tek ya da çift olduğunu belirleyinizÇözüGrafik y eksenine göre simetrik olduğundan fonksiyon çift 
+fonksiyondur. 
+43. Örnek 
+F o n k s i y o n l a r d a  U y g u l a m a l a Bir fonksiyon tek fonksiyon ise orijine göre simetriktir. 
+Bir fonksiyon orijine göre simetrik ise tek fonksiyondurSonuç                   
+NoktBu uygulamada fonksiyonun grafiği üzerinden orijine göre simetrik olduğu gösterilecektirGirişe x3 -2x yazarak Enter tuşuna basınız. Nokta ikonuna tıkladıktan sonra grafiğin üzerinde 
+bir yere tıklayarak A noktasını oluşturunuz. Giriş bölümüne yansıt yazdıktan sonra oluşan 
+satırda nesne, nokta yerlerine sırasıyla A, (0, 0) yazınız ve Enter tuşuna basınızA noktasının orijine göre simetriği olan A' noktası grafiğin diğer tarafında belirecektir. İmleç 
+ile A noktasını sürüklediğinizde A' nın grafik üzerinde orijine göre simetrik bir şekilde hareket 
+ettiğini göreceksiniz. Orijine göre simetrik olan iki noktanın koordinatları arasındaki ilişkiyi 
+görmeye çalışınız. 
+A ve A' noktalarının orijine göre simetrik olduğunu daha iyi görebilmek için doğru parçasikonuna, ardından A ve A' noktalarına tıklayarak doğru parçasını çiziniz. Doğru parçasının 
+orijinden geçtiğine dikkat edinizA noktasına tıklayıp noktayı sürükleyerek grafik üzerinde hareket ettiriniz. Doğru parçası 
+daima orijinden geçecektir. O  hâlde y = x3 - 2x fonksiyonunun orijine göre simetrik olduğu 
+görülürA(a, b) noktasının orjine göre simetriği A'(-a, -b) noktasıdır4. Uygulama: Bir Fonksiyonun Orijine Göre Simetrik Olup Olmadığını GöstermS a y ı l a r  v e  C e b i g(x) = 3x2 - 2x + 1  fonksiyonunun tek ya da çift fonksiyon olduğunu belirleyinizÇözüg fonksiyonu ne tek ne de çift fonksiyondurBu fonksiyonun grafiği  yandaki şekilde görüldüğü giby eksenine ya da orijine göre simetrik değildir 
+44. Örnek 
+Girişe sin2x/cosx+1 yazarak Enter tuşuna basınız. Fonksiyonun grafiği ekranda görülecektirGörüldüğü gibi fonksiyonun grafiği y eksenine göre simetriktir. O hâld ( )
+cosif =
++
+ fonksiyonu çift fonksiyondur5. Uygulama: ( )
+cosif =
++
+ Fonksiyonunun Tek veya Çift Fonksiyo                            Olduğunu Belirlemg(x) = 3x2 - 2x + ( )
+h =
++
+  fonksiyonunun grafiğini GeoGebra programında çizerek tek ya da çift 
+olduğunu belirleyiniz. 
+Sıra SizdF o n k s i y o n l a r d a  U y g u l a m a l a f(x) + b fonksiyonunun grafiğinde b > 0 ise f(x) fonksiyonunun grafiği b birim yukarı,
+b < 0 ise f(x) fonksiyonunun grafiği |b| birim aşağı ötelenerek y = f(x) + b fonksiyonunun 
+grafiği elde edilirSonuç                   
+f(x) = x2 - 3x olsunGirişe x2-3x yazarak Enter tuşuna basınız. Fonksiyonun grafiği f(x) olarak cebir penceresinde 
+görülecektirGirişe f+3 yazarak Enter tuşuna basınız. 3 birim yukarı ötelenen g(x) fonksiyonunu elde 
+edinizGirişe f-2 yazarak 2 birim aşağı ötelenen h(x) fonksiyonunu elde ediniz6. Uygulama: y = f(x) + b DönüşümFonksiyonların Dönüşümlerf(x) verildiğinde f(x) + b, f(x - a), k.f(x), f(k.x), -f(x), f(-x) dönüşümleri GeoGebra yardımı ile 
+çizilecektirS a y ı l a r  v e  C e b i f(x - a) fonksiyonunda a pozitif ise f(x) fonksiyonun grafiği a birim sağa,
+a negatif ise f(x) fonksiyonu |a| birim sola ötelenir. 
+Sonuç                   
+Girişe x2+x yazarak fonksiyonun grafiğini oluşturunuzGirişe f(x-2) yazarak 2 birim sağa ötelenen g(x) fonksiyonunu elde edinizGirişe f(x+3) yazarak 3 birim sola ötelenen h(x) fonksiyonunu elde ediniz7. Uygulama: y = f(x - a) DönüşümF o n k s i y o n l a r d a  U y g u l a m a l a f(x) fonksiyonunun grafiği orijinden ve (5, 0) 
+noktasından geçmektedir. Buna göre f(x - 3) + 4 
+fonksiyonunun grafiğini çizinizÇözüf(x) fonksiyonu x ekseni boyunca 3 birim sağa 
+ötelendiğinde kırmızı renkli f(x - 3) parabolü 
+elde edilir. 
+f(x - 3) + 4 fonksiyonunun grafiğini elde 
+etmek için f(x - 3) parabolü  4 birim yukarı 
+ötelenir. Mavi ile gösterilen f(x - 3) + 4 
+fonksiyonunun grafiği bu şekilde bulunurGrafik üzerinde, koordinatları belirli bir nokta 
+esas alınarak öteleme yapılmıştır45. Örnek 
+f(x) fonksiyonunun grafiği (-1, 0) noktasında x eksenine 
+teğet olup (0, 1) noktasından geçmektedir. Buna göre 
+y  = f(x + 3) - 5 fonksiyonunun grafiğini çizinizSıra Sizdf(x)
+-S a y ı l a r  v e  C e b i Yukarıdaki grafiklerde görüldüğü gibi k.f(x) parabolünde k değeri mutlak değer olarak 
+arttıkça f(x) parabolünün kolları arasındaki açıklık daralmaktadır. k değeri mutlak değer 
+olarak küçüldükçe parabolün kolları arasındaki açıklık artmaktadırSonuç                   
+Girişe x2-x yazarak fonksiyonun grafiğini oluşturunuz. y = k.f(x) fonksiyonunun k nin 
+değişen değerlerine göre nasıl şekillendiğini inceleyinizk = 5 ve k =1/3 değerleri için 5f(x) ve (1/3)f(x) grafiklerini çizinizGirişe 5f yazarak Enter tuşuna basınız. 
+Girişe (1/3)f yazarak Enter tuşuna basınız. 
+k = -8 ve k = -1/5 için fonksiyon grafiklerini oluşturunuzGirişe -8f yazarak Enter tuşuna basınız. 
+Girişe  (-1/5)f yazarak Enter tuşuna basınız. 
+8. Uygulama: k.f(x) DönüşümF o n k s i y o n l a r d a  U y g u l a m a l a Girişe -3x+4 yazarak Enter tuşuna basınızGirişe -f yazarak Enter tuşuna basınızGirişe  x2-3x yazarak Enter tuşuna basınızGirişe -f yazarak Enter tuşuna basınız10. Uygulama: -f(x) Dönüşümf(x) bir parabol olmak üzere f(k.x) in grafiğinin kolları arasındaki açıklık f(x) in kolları 
+arasındaki açıklığın 1  katına eşittirSonuç                   
+Girişe x2 yazarak fonksiyonun grafiğini oluşturunuz. f(k.x) grafiğini k = 2 ve k = 1  için 
+çizinizGirişe f(2x) yazarak Enter tuşuna basınızGirişe f((1/2)x) yazarak Enter tuşuna basınızf(2x) in kolları arasındaki açıklık f(x) in kolları arasındaki açıklığın 1  katıdır f((1/2)x) in kolları arasındaki açıklık f(x) in kolları arasındaki açıklığın 2 katıdır9. Uygulama: f(k.x) DönüşümS a y ı l a r  v e  C e b i Yanda f(x) fonksiyonunun grafiği verilmiştir. f(x) 
+fonksiyonunun denklemini bularak f(-x), -f(x), f(-x - 2), 
+-f(-x) + 3 fonksiyonlarının grafiklerini GeoGebra yardımıyla 
+çizinizSıra Sizd-f(-x) ile f(x) in grafikleri y eksenine göre simetriktirSonuç                   
+Girişe 3x-2 yazarak fonksiyonun grafiğini oluşturunuz. 
+Girişe  f(-x) yazarak fonksiyonun grafiğini oluşturunuz11. Uygulama: f(-x) Dönüşümf(x) fonksiyonunun grafiği ile -f(x) fonksiyonunun grafiği  x eksenine göre simetriktirSonuç                   
+F o n k s i y o n l a r d a  U y g u l a m a l a A) Aşağıda verilen cümlelerde boş bırakılan yerleri uygun ifadelerle doldurunuz1. y = f(x) fonksiyonunun A ve B noktaları arasındaki ……………………………………………… bu noktalardan 
+geçen kesenin eğimine eşittir2. İkinci dereceden fonksiyonların grafiğine ……………………… denir3. y = ax2 + bx + c fonksiyonlarının grafiğinin tepe noktasından geçen ve x eksenine dik olan doğruya 
+……………………… denir.  
+4. Fonksiyon grafiğinin x eksenini kestiği noktaların apsislerine fonksiyonun ……………………… denir.          
+5. Bir f(x) fonksiyonu bir aralıkta  sıfırdan ……………………… değerler almışsa o aralıkta fonksiyonun grafiğx ekseninin altında çizilir6. y = ax2 parabollerinin simetri ekseni ……………………… doğrusudurB) Aşağıda verilen numaralandırılmış ifadeleri harf ile verilen ifadelerle eşleştiriniz.    
+7. Tepe noktası T(-2, 3) olan parabolün simetri ekseninin denklemi (    ) olur8. y = x2 + 5x + a parabolü x eksenine teğet olduğuna göre a nın değeri (    ) olur9. f: ℝ → ℝ,  f(x) = x2 + 4x + 3 fonksiyonunun minimum değeri (    ) olur10. İkinci dereceden bir fonksiyonun grafiğinin x eksenini kestiği noktaların 
+apsisleri toplamı -12 olduğuna göre simetri ekseninin denklemi (    ) olur11. f(x) = x2 + 2x + 1 fonksiyonunun grafiği a birim sola, b birim yukarı 
+ötelendiğinde g(x) = x2 - 4x + 10 fonksiyonunun grafiği elde ediliyor. 
+Buna göre a.b değeri (    ) olur  a)           b) x = -         c) x = -ç)     d)   e) -      f) x =       g) x = ÖLÇME VE DEĞERLENDİRMS a y ı l a r  v e  C e b i C) Aşağıdaki soruların çözümlerini altlarındaki 
+boşluklara yazınız12. y = x2 - 3x - 10 parabolü ile y = x + 2 
+doğrusu A ve B noktalarında kesiştiğine göre  
+AB uzunluğunun kaç birim olduğunu bulunuz. 
+13. y = (m + 1)x2 - 2mx + 10 parabolünün 
+simetri ekseni  =-
+ doğrusu  olduğuna 
+göre m değerini bulunuz14. f(x) = x2 - x - 2  fonksiyonunun grafiği 
+analitik düzlemde sağa doğru 3 birim, yukarı 
+doğru 2 birim ötelenerek g(x) fonksiyonu elde 
+ediliyor. Buna göre g(-4) değerini bulunuz15.   
+Yukarıda y = x2 + x + 2a - 4 parabolünün 
+grafiği verilmiştir. |AB| = 5 birim olduğuna 
+göre a değerini bulunuz16. y = (a - 2)x2 + 2x + a + 4 parabolünün tepe 
+noktası 1. bölgededir. Parabol y eksenini 
+pozitif tarafta kestiğine göre a nın kaç tam 
+sayı değeri alabileceğini bulunuz17.   
+Yukarıdaki şekilde y = -x2 parabolü 
+dönüştürülerek 4 yeni parabol elde edilmiştir. 
+Bu parabollerin denklemlerini yazınız18.   
+Yukarıdaki f(x) fonksiyonunun grafiği bir 
+paraboldür. Bu parabol  x eksenini 
+(-1, 0), (3, 0) noktalarında keser. 
+|BC| = 3 birim olduğunda OABC dikdörtgeninin 
+alanının kaç birimkare olduğunu bulunuz-y = f(x)
+(-1, 3)
+(3, 2)
+(-4, 1)
+(-2, 0)
+F o n k s i y o n l a r d a  U y g u l a m a l a 19. Bir mühendis Süleymaniye Camisi'nin 
+kubbesinin mevcut hâlinden geniş ya da dar 
+olması durumundaki görüntüsünü görmek 
+istiyor. Caminin bir fotoğrafını analitik düzleme 
+yerleştiren mühendis, kolları kubbenin sınırları ile 
+örtüşen ve örtüşmeyen farklı renklerde paraboller 
+çiziyorMühendiYeşil parabolün denklemini f(x) = ax2 + c, 
+Mavi parabolün denklemini g(x) = dx2 + c, 
+Mor parabolün denklemini h(x) = px2 + c 
+olarak yazıyor ( a, c, d, p ∈ ℝ)Yeşil parabol x eksenini (-6, 0) ve (6, 0) noktalarınd kesmekte, A(-3, 27) noktasından geçmektedirFotoğrafta kubbenin alt sınırı 27 cm yükseklikte 
+olduğuna göra) a, d ve p sayılarını sıralayınızb) Kubbenin yüksekliğinin kaç cm olduğunu 
+bulunuz. 
+20. Zeki Bey, bir kenarı nehirle sınırlı arazisinin bir 
+bölümünü 3 çocuğu 
+arasında şekildeki gibi 
+eşit olarak paylaştırmak 
+istiyor ve çocuklarına 
+bu maksatla 360 metre 
+dikenli tel veriyor. Zeki 
+Bey’in her bir çocuğunun 
+dikenli tel kullanarak 
+saracağı arsanın maksimum alanını bulunuz21. 
+Yukarıdaki  şekilde  f: [-6, 6] → ℝ  
+fonksiyonunun grafiğinin bir bölümü 
+verilmiştir. Grafiği fonksiyonun tek olma 
+durumuna göre tamamlayınız22. Otomobiliyle Rize'den Ankara'ya seyahat 
+eden Ömer Bey, 5 buçuk saat sonra Samsun'a 
+varıyor. 1 buçuk saat daha yol aldıktan sonra 
+Çorum'da 1 saat mola veriyor. Molanın ardında 2 saat sonra Ankara'ya ulaşıyor. 
+Ömer Bey'in seyahat esnasındaki 
+konumlarının (km) zamana (sa.) bağlı grafiği 
+aşağıda verilmiştir. 
+Grafiğe göre Ömer Bey'in 
+a) Yol boyunca yaptığı,
+b) Rize-Samsun arasındaki,
+c) 7 ile 8 saatleri arasındaki,
+ç) Çorum-Ankara arasındaki ortalama 
+değişim hızını bulunuz. 
+23. Gıda Tarım ve Hayvancılık Bakanlığının 
+verilerine göre Türkiye’deki çiftçilerin genel 
+nüfusa oranı 2002 yılında %34,2 ve 2011 
+yılında %23,2 olarak tespit edilmiştirBu yıllar arasında çiftçilerin genel nüfusa 
+oranında meydana gelen ortalama değişim 
+hızını bulunuz5,Zaman (sa.)
+Yol (km)
+kubbenin 
+alt sınırS a y ı l a r  v e  C e b i D) Aşağıdaki çoktan seçmeli soruları okuyunuz 
+ve doğru seçeneği işaretleyiniz24. 
+Yukarıda y = f(x) parabolünün grafiği verilmişti. Parabol üzerindeki  A(-3, a)  ve B(2, b) 
+noktalarından geçen kesenin eğimi aşağıdakilerde hangisidir?
+A) -2 
+B) -1 
+C) 1 
+D) 2 
+E) 25. 
+Yukarıdaki f(x) fonksiyonunun grafiğinde 
+hangi aralıktaki ortalama değişim hızı 5  
+olur?
+A) [-2, 2] 
+ B) [2, 4]  
+C) [5, 7]  
+ 
+D) [1, 3]  
+E) [3, 5]
+26. y = 3x2 - 3x + 5 parabolü üzerinde apsisi m 
+olan bir noktanın koordinatlar toplamının 
+en küçük olması için m nin  değeri kaç 
+olmalıdır?
+A) 1      B) 1         C) 
+-
+     D) 
+-
+    E) 
+-
+27.  y = x2 - 2x + a parabolüne başlangıç 
+noktasından çizilen teğetler birbirine dik 
+olduğuna göre a kaçtır?
+A) 5  
+B) 5  
+C) 5  
+D) 5  
+E) 28. f(x) fonksiyonunun  grafiği x eksenini (-2, 0) 
+ve (4, 0) noktalarında kesmektedir. Buna göre  
+f(x + 3) fonksiyonunun grafiği  x eksenini 
+hangi noktalarda keser?
+A) 1 ve 2 
+B) 1 ve 7  
+C) -5 ve 1 
+ 
+D) -4 ve 3 
+E) -3 ve 1  
+29. 
+Bir aracın gittiği yola bağlı olarak deposundaki 
+yakıtın değişim grafiği yukarıda verilmiştir. 
+Aracın deposunda kalan yakıt miktarının 
+aracın gittiği yolun bir fonksiyonu olarak 
+ifadesi aşağıdakilerden hangisidir?
+A) y = 80x + B) y = 
+-
+x + C) y = 
+-
+x + D) y = -20x + E) y = -80x - 7 
+---y = f(x)
+--yol (km)
+yakıt (lt)
+D e n k l e m  v e  E ş i t s i z l i k  S i s t e m l e r ℝ∈ w ≥ ∞ ∪∩ → ≠ ∆ ⇒ ⇔//⊥==+ ++-−
+-∞<
+ℝ∈ ≤ ≥ ∞ ∪ → ≠ ∆ ⇒ ⇔//⊥==+ ++-−-ññ11.4.1 İKİNCİ DERECEDEN BİR BİLİNMEYENLİ DENKLEM SİSTEMLER11.4.1.2 İKİNCİ DERECEDEN BİR BİLİNMEYENLİ DENKLEM SİSTEMLERİNİN ÇÖZÜM KÜMES11.4.2 İKİNCİ DERECEDEN BİR BİLİNMEYENLİ EŞİTSİZLİKLER VE EŞİTSİZLİK SİSTEMLER11.4.2.1 İKİNCİ DERECEDEN BİR BİLİNMEYENLİ EŞİTSİZLİKLERİN ÇÖZÜM KÜMES4. DENKLEM VE EŞİTSİZLİK SİSTEMLERSAYILAR VE CEBİR 
+4.1. İkinci Dereceden İki Bilinmeyenli Denklem Sistemler4.2. İkinci Dereceden Bir Bilinmeyenli Eşitsizlikler v        Eşitsizlik SistemlerBu bölümd• İkinci dereceden iki bilinmeyenli denklem sistemlerinin çözüm 
+kümesini bulmayı,
+• İkinci dereceden bir bilinmeyenli eşitsizliklerin çözüm kümesini 
+bulmayı, 
+• İkinci dereceden bir bilinmeyenli eşitsizlik sistemlerinin çözüm 
+kümesini bulmayöğreneceksinizS a y ı l a r  v e  C e b i İkinci Dereceden EşitsizlikleK A V R A M L A H A Z I R L I K  Ç A L I Ş M A S Vücut kitle endeksinin tespit edilmesi için kişinin 
+kütlesi, boyunun karesine bölünür. Sağlıklı bir yaşam 
+için vücut kitle endeksinin belirli aralıklarda olması 
+gerekirDünya Sağlık Örgütünün kriterlerine göre vücut 
+kitle endeksi 30 un üzerinde olan kişiler obez, 40 ın 
+üzerinde olanlar morbid obez, 50 nin üzerinde olanlar 
+süper obez olarak değerlendirilirYukarıda verilen bilgilere göre 180 cm uzunluğunda olan ve  obez olarak 
+değerlendirilen bir kişinin kilosu hangi aralıktadır?    

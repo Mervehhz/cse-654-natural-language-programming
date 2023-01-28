@@ -1,0 +1,400 @@
+=
+=
+=
+ olduğundan BLC ve MDE ikizkenar 
+üçgenlerdir. 
+Buradan 
+(
+)
+(
+)
+(
+)
+(
+)
+m KBm BLm KEm DME olu=
+=
+=
+%
+%
+%
+%
+ bu açıların her 
+birinin ölçüsü 
+,
+olu-
+=
+=
+(
+)
+(
+)
+(
+)
+(
+)
+(
+)
+m KMm LMm DMm KMm KMbulunu+
++
+=
++
++
+=
+=
+%
+%
+%
+%
+%
+Benzer şekilde 
+(
+)
+m KL=
+%
+ olurKLM üçgeninin iç açılarının ölçüleri toplamı 180colduğundan 
+(
+)
+(
+)
+(
+)
+(
+)
+(
+)
+m KLm KMm LKm LKm LKbulunu+
++
+=
++
++
+=
+=
+%
+%
+%
+%
+%
+Düzgün altıgenin bir dış açısının ölçüsü 
+=
+=
+c ve bir iç açısının ölçüsü ise 
+180 -
+=
+c 
+dir. Karenin iç açılarının ölçüleri 90o  olup bu açılar aşağıdaki şekilde olduğu gibi yerleştirilirYandaki şekilde ABCDE düzgün beşgeni ve DKLMNE düzgün altıgen verilmiştir. Buna göre NAE açısının ölçüsünün kaç derece olduğun bulunuzABCDE düzgün beşgeni ile DKLMNE düzgün altıgeninin DE kenarı ortak olup AE=
+ olur. 
+ABCDE düzgün beşgeninde 
+(
+)
+m AE=
+%
+ ve DKLMNE düzgün altıgeninde 
+(
+)
+m DE=
+%
+ise 
+(
+)
+m AE=
+-
+-
+=
+%
+ olur. 
+(
+)
+(
+)
+m NAm AN+
+=
+-
+=
+%
+%
+ olup AEN ikizkena üçgen olduğundan 
+(
+)
+m NA=
+=
+%
+ bulunurDörtgenler ve ÇokgenleDörtgenler ve Çokgenle1.  
+ 
+Yukarıdaki şekilde 
+,
+m m =
+=
+^
+^
+,
+m m =
++
+=
++
+^
+^
+ ve m =
+^
+ 
+olduğuna göre x in kaç derece olduğunu bulunuz2. Bir altıgen ile bir yedigenin iç açıları ölçüleri 
+toplamının kaç derece olduğunu bulunuz3. 
+Yukarıdaki şekilde 
+(
+)
+BC=
+%
+, 
+(
+)
+CD=
+%
+, 
+(
+)
+DE140=
+%
+; B?  ABC 
+açısının ve A? BAE açısının açıortayı ve 
+(
+)
+m AF=
+%
+ olduğuna göre x değerinin kaç 
+derece olduğunu bulunuz4. 
+Yukarıdaki şekilde A, B, C, D, E, F noktaları 
+bir düzgün onsekizgenin ardışık 6 köşesidir. 
+(
+)
+m BC=
+%
+ olduğuna göre x değerinin kaç 
+derece olduğunu bulunuz5. İç açılarının ölçüleri toplamı 1440c olan bir 
+çokgenin kenar sayısını bulunuz. 
+6. Bir iç açısının ölçüsü bir dış açısının ölçüsünün    
+4 katından 45c eksik olan bir düzgün çokgenin 
+kenar sayısını bulunuz7. 
+Yukarıdaki şekilde ABCDE düzgün beşgen 
+ve EFD eşkenar üçgendir. A, G, D noktaları 
+doğrusal, AE+
+=
+@
+@
+"
+,  ve 
+(
+)
+m AG=
+%
+ 
+olduğuna göre x değerinin kaç derece olduğun bulunuz8. 
+Yukarıdaki şekilde kare, düzgün beşgen ve 
+düzgün altıgen verilmiştir. Buna göre x açısının 
+ölçüsünün kaç derece olduğunu bulunuz. 
+ALIŞTIRMALADörtgenler ve ÇokgenleDörtgenler ve ÇokgenleBilgHerhangi üçü bir doğru üzerinde bulunmayan dört noktayı ardışık olarak birleştiren doğru 
+parçalarının oluşturduğu kapalı düzlemsel şekillere dörtgen denirBir dörtgenin temel elemanları köşeleri, açıları ve 
+kenarlarıdır. Yandaki şekilde ABCD dörtgeni verilmiştir. 
+Bu dörtgen için A, B, C ve D noktaları dörtgenin köşeler; 
+,
+,
+ABCve D?
+?
+?
+? dörtgenin kenarları; 
+,
+,
+BAD ABC BCD ve CD%
+%
+%
+%  ise dörtgenin açılarıdırHer bir iç açısının ölçüsü 180c den küçük olan dörtgene dışbükey dörtgen, herhangi bir iç 
+açısının ölçüsü 180c den büyük olan dörtgene içbükey dörtgen denirDışbükey dörtgeİçbükey dörtgeBu bölümde dörtgen denildiğinde aksi belirtilmedikçe dışbükey dörtgen anlaşılacaktır10.5.2. Dörtgenler ve Özellikler10.5.2.1. Dörtgenin Temel Elemanları ve ÖzelliklerTerimler ve Kavramla• Dışbükey Dörtge• İçbükey Dörtge• Köşegen 
+• Çevre 
+• Ala Sembol ve Gösterimle• 
+Ç(ABCD)
+• 
+A(ABCD)
+Dörtgenin temel elemanlarını ve özelliklerini açıklayarak problemler çözmeyi öğreneceksinizDörtgenler ve ÇokgenleDörtgenler ve ÇokgenleBir dörtgenin iç açılarının ölçüleri toplamını ve dış açılarının ölçüleri toplamını bulunuzn kenarlı bir çokgenin iç açılarının ölçüleri toplamı (
+)
+$
+-
+c dir. 
+Buradan dörtgenin iç açılarının ölçüleri toplamı (
+)
+$
+$
+=
+=
+-
+c olur. 
+Çokgenlerin dış açılarının ölçüleri toplamı 360c olduğundan dörtgenin de dış açılarının ölçüleri toplamı 
+360c dirŞekildeki ABCD dörtgeninde A, D, F ve C, B, E noktaları doğrusal 
+olmak üzere 
+(
+)
+m BA=
+%
+, 
+(
+)
+m CD=
+%
+, 
+(
+)
+m AB=
+%
+ ve 
+(
+)
+m EC=
+%
+ olduğuna göre x değerinin kaç derece olduğunu bulunuz                                                     
+Şekildeki ABCD dörtgeninde B?, ABC açısının ve C?, DCB açısının 
+açıortayıdır. Buna göre 
+(
+)
+( )
+(
+)
+m BEm m =
++
+%
+ olduğunu gösterinizA, D, F ve C, B, E noktaları doğrusal olduğundan B ve D köşelerindeki 
+iç açılarının ölçüleri, 180c den dış açıların ölçüleri çıkarılarak şekildeki 
+gibi bulunurBuradan dörtgenin iç açılarının ölçüleri toplamı 360c olduğundan 
++
+=
+=
++
++
++
+=
+ bulunurABCD dörtgenind( )
+( )
+( )
+(
+)
+( )
+( )
+(
+( )
+(
+))
+m m m m m m m m +
++
++
+=
++
+=
+-
++
+      
+Eşitliğin her iki tarafı 2 ile bölünürs( )
+( )
+(
+( )
+(
+))
+....( )
+m m m m olu+
+=
+-
++
+BEC üçgenind( )
+( )
+( )
+( )
+( )
+( )
+. ...( )
+m m m m m m oluI+
++
+=
++
+=
+-
+(I) ve (II) nolu eşitliklerden 
+( )
+(
+)
+( )
+( )
+(
+)
+( )
+(
+)
+m m m m m BEm m olu&
+-
++
+=
+-
+=
+=
++
+%
+Dörtgenler ve ÇokgenleDörtgenler ve ÇokgenleYandaki şekilde verilen ABCD dörtgeninde B, E, F noktaları doğrusal 
+olup B?, ABC açısının ve D?, ADC açısının açıortayıdır. Buna göre 
+(
+)
+( )
+( )
+m DEm m =
+-
+%
+ olduğunu gösterinizYandaki şekilde verilen ABCD dörtgeninde C, E, F noktaları 
+doğrusal; Dve C@
+ sırasıyla ADC ve BCD açılarının açıortayı; 
+(
+)
+m AB=
+%
+, 
+(
+)
+m DE=
+%
+ ve 
+(
+)
+m BA=
+%
+ olduğuna göre x 
+değerinin kaç derece olduğunu bulunuzDEC üçgeninde 
+(
+)
+m DEolu=
+-
+=
+%
+ Dve C?
+ açıortay olduğunda(
+)
+( )
+( )
+m DEm m olu&
+&
+&
+=
++
+=
++
++
+=
+=
+%
+ABCD dörtgeninde,
+( )
+( )
+( )
+(
+)
+( )
+(
+)
+(
+( )
+( ))
+m m m m m m m m +
++
++

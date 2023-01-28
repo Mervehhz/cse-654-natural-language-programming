@@ -1,0 +1,400 @@
+ 
+84 $
+$
+=
+=
+ farklı şekilde olabilir11 kişilik bir grupta 5 kişi yalnız satranç ve 6 kişi yalnız mangala 
+(Türk zeka ve strateji oyunu) oynamaktadır. Bu gruptan satranç 
+oynayan 2 kişi ve mangala oynayan 3 kişiden oluşan 5 kişilik bir 
+grubun kaç farklı şekilde seçilebileceğini bulunuzSatranç oynayan 5 kişi arasından 2 kişi, 
+!
+!
+!
+!
+!
+2 1 5 4 $
+$
+$
+$
+$
+=
+=
+=
+ farklı şekilde seçilebilirMangala oynayan 6 kişi arasından 3 kişi, 
+!
+!
+!
+!
+!
+3 2 1 6 5 4 $
+$
+$
+$
+$
+$
+$
+=
+=
+=
+ farklı şekilde seçilebilirSatranç oynayan 2 kişi ve mangala oynayan 3 kişiden oluşan 5 kişilik bir grup, çarpma yoluyla sayma kuralın göre 10 =
+$
+ farklı şekilde seçilebilirA kümesinden seçilen her dört rakam ile istenen şarta uygun yalnız bir sayı yazılabilir. Örneğin 2, 3, 4, 6 
+rakamları seçildiğinde  olduğundan uygun sayı 2346 dır. Buna göre istenen koşulları sağlaya 
+!
+!
+!
+!
+!
+farkl say yaz labili3 2 1 7 6 5 ›
+›
+›
+$
+$
+$
+$
+$
+$
+$
+=
+=
+=
+                  
+Veri, Sayma ve OlasılıVeri, Sayma ve Olasılı•  3 ü kız ve 2  si erkek öğrenciden oluşan grup sayısı, 
+!
+!
+!
+!
+!
+!
+!
+!
+olu3 2 3 2 2 1 4 3 1 $
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+=
+=
+=
+=
+• 3 ü erkek ve 2  si kız öğrenciden oluşan grup sayısı,
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+olu1 4 3 4 $
+$
+$
+$
+$
+$
+$
+$
+$
+$
+=
+=
+=
+=
+Buna göre bu seçim +
+=
+ farklı şekilde yapılabilirOdalardaki toplam boş yatak sayısı ile kişi sayısı eşit olduğundan kişileri odalara yerleştirmede hangi 
+odadan başlanacağı önemli değildir9 kişiden 4 ü 4 yataklı odaya 
+l farklı şekilde, kalan 5 kişiden 3 ü 3 yataklı odaya 
+l farklı şekilde, 
+kalan 2 si 2 yataklı odaya  
+l farklı şekilde yerleştirildiğinde odalara farklı biçimde yerleştirilme sayısı,
+!
+!
+!
+!
+!
+!
+!
+!
+!
+$
+$
+$
+$
+$
+$
+$
+=
+=
+ olurBir otelde 4, 3 ve 2 yataklı birer oda boştur. 9 kişinin bu odalara kaç farklı şekilde yerleştirilebileceğini 
+bulunuz.  
+Adana Piri Reis Anadolu Lisesi, yıl sonunda dereceye 
+giren  3 kız ve 4 erkek öğrenci arasından  2 sini İzmir’e, 
+3 ünü Ankara’ya geziye göndermek üzere aynı cinsiyetli 
+öğrencilerden oluşan biri 2, diğeri 3 kişilik iki grup 
+oluşturacaktır. Bu seçimin kaç farklı şekilde yapılabileceğini 
+bulunuz. 
+Ecem’in bulunup Fahrettin’in bulunmadığı 6 kişilik ekip sayısı, 
+!
+!
+!
+!
+!
+3 2 1 8 7 6 $
+$
+$
+$
+$
+$
+$
+=
+=
+=
+ olurFahrettin’in bulunup Ecem’in bulunmadığı 6 kişilik ekip sayısı, 
+!
+!
+!
+!
+!
+3 2 1 8 7 6 $
+$
+$
+$
+$
+$
+$
+=
+=
+=
+ olurO hâlde Ecem ve Fahrettin’in birlikte bulunmadığı (yalnız birinin bulunduğu)  ekip sayısı, +
+=
+ olurEcem ve Fahrettin’in aralarında bulunduğu 10 kişilik bir gruptan 6 kişilik bir ekip oluşturulacaktır. Ecem ve 
+Fahrettin’den yalnız birinin bulunduğu kaç farklı ekip oluşturulabileceğini bulunuzVeri, Sayma ve OlasılıVeri, Sayma ve OlasılıYandaki şekilde 5 i d1  doğrusu üzerinde, 4 ü d2 doğrusu üzerinde 9 
+nokta verilmiştir. 
+a) Köşeleri bu noktalardan herhangi üçü olan kaç farklı üçgen 
+elde edilebileceğini bulunuzb)  Köşeleri bu noktalardan herhangi üçü olan üçgenlerden kaç 
+tanesinin bir köşesinin A noktası olduğunu bulunuza) Bu sorunun çözümü aşağıdaki gibi iki farklı şekilde yapılabilir. 
+1. yoŞekildeki 9 noktadan seçilebilecek üçerli nokta gruplarının sayısı 
+l dur. 
+d1  üzerindeki 5 noktadan herhangi üçü doğrusal olup bir üçgen belirtmeyeceğinden  
+l ve d2  
+üzerindeki 4 noktadan herhangi üçü doğrusal olup bir üçgen belirtmeyeceğindel değerleri 
+l 
+değerinden çıkarılır  
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+olu3 2 9 8 7 2 1 5 4 4 $
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+-
+-
+=
+-
+-
+=
+-
+-
+=
+-
+-
+=
+2. yoKöşeleri şekildeki 9 noktadan herhangi üçü olan üçgenlerin sayısı d1  doğrusu üzerindeki 5 noktadan 2 
+si ve d2  doğrusu üzerindeki 4 noktadan 1 i veya d1  doğrusu üzerindeki 5 noktadan 1 i ve d2  doğrusu 
+üzerindeki 4 noktadan 2 si seçilerek bulunur. Buradan üçgen sayısı 
+$
+$
+=
++
+ olurb) Oluşturulacak üçgenlerin bir köşesi d1  doğrusu üzerindeki A noktasıdır. Diğer 2 noktanın seçimi ise 
+(aynı doğru üzerindeki üç nokta üçgen belirtmediğinden) iki farklı durum ile yapılır.  
+1. duruBiri d1  doğrusu üzerinde kalan 4 noktadan, diğeri d2  doğrusu üzerindeki 4 noktadan $
+l farklı 
+sayıda seçilebilir. 
+2. duru2 si de d2  doğrusu üzerindeki 4 noktadan 
+l farklı sayıda seçilebilir. Bu durumda 1. ve 2. durumdan 
+bir köşesi A noktası olan üçgen sayısı,
+  
+!
+!
+!
+!
+!
+!
+olu4 4 3 $
+$
+$
+$
+$
+$
+$
+$
++
+=
++
+=
++
+=
++
+=
+   
+Veri, Sayma ve OlasılıVeri, Sayma ve OlasılıYandaki şekilde '
+'
+'
+'
+ olduğuna göre 
+a)    Şekilde kaç farklı üçgen olduğunu bulunuzb)    Şekilde kaç farklı yamuk olduğunu bulunuza) Bu sorunun çözümü aşağıdaki gibi iki farklı şekilde yapılabilir.  
+1. yoŞekildeki her üçgenin bir köşesi A noktası olduğundan diğer 
+iki köşesi d , d , d , ,
+ doğruları ile d , d , d , 9  
+doğrularının kesim noktalarından seçilir. d1  doğrusu üzerindeki 
+4 kesim noktasından 2 si, 
+=
+ farklı şekilde seçilir. 
+Aynı şekilde 
+,
+,
+,
+ doğruları üzerindeki her 4 kesim 
+noktasından 2 si, 
+=
+ farklı şekilde seçilir. Paralel 5 doğru 
+olduğundan toplam üçgen sayısı 
+!
+!
+!
+6 $
+$
+$
+$
+=
+=
+=
+ 
+olur2. yoBir noktası A olan üçgenin diğer iki köşesini belirlemek için ,
+,
+,
+ doğrularından iki tanesi ve 
+d , d , d , d ,  doğrularından bir tanesi seçilip kesiştirilerek elde edilen ikişer nokta kullanılabilir. 
+Kesiştirilecek doğruların seçimi 
+6 $
+$
+=
+=
+ farklı biçimde yapılır. Böylece şekilde köşe 
+noktalarından biri A olan 30 adet üçgen olduğu anlaşılırb) Birbirine paralel yatay 5 doğrudan 2 sinin ve A noktasından geçen 4 doğru parçasından 2 sinin 
+seçilmesiyle yamuklar oluşur. 
+Şekildeki toplam yamuk sayısı,
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+olu4 3 5 4 6 $
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+=
+=
+=
+=
+Düzlemde köşeleri bu 5 noktadan herhangi üçü olan üçgenlerin sayısı, 
+!
+!
+!
+!
+!
+!
+5 4 $
+$
+$
+$
+=
+=
+=
+ olur. 
+Şekildeki çember üzerinde 5 farklı nokta bulunmaktadır. Köşeleri bu noktalardan 
+herhangi üçü olan kaç farklı üçgen çizilebileceğini bulunuzVeri, Sayma ve OlasılıVeri, Sayma ve OlasılıAynı düzlemdeki yarıçaplarının uzunlukları farklı olan 6 çemberin en çok kaç farklı noktada kesişebileceğin bulunuza) Yatay doğrulardan herhangi ikisi ve düşey doğrulardan herhangi ikisi seçilerek paralelkenarlar 
+oluşturulabilir. Buna göre oluşturulabilecek tüm paralelkenarların sayısı, 
+    
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+6 5 4 3 15 $
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+=
+=
+=
+=
+ olurb) Düşey paralel doğrulardan biri d1  ise diğeri d , d , d , d ,  doğruları arasından seçilir. 
+   Yatay paralel doğrulardan biri d7  ise diğeri d , d ,  doğruları arasından seçilir. Buradan 
+oluşturulabilecek tüm paralelkenarların sayısı, 
+5 $

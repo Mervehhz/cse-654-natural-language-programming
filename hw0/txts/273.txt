@@ -1,0 +1,400 @@
+küçük değeri i oluyorsa 
+,
+i noktasına f fonksiyonunun bir yerel minimum 
+noktası denir{
+{
+TüreBir fonksiyonun yerel maksimum ve yerel minimum noktalarına genel olarak ekstremum 
+noktaları denirBir fonksiyonun tanımlı olduğu aralıktaki en büyük değerini aldığı noktaya mutlak maksimu noktası, en büyük değerine ise mutlak maksimum değeri denirBir fonksiyonun tanımlı olduğu aralıktaki en küçük değerini aldığı noktaya mutlak minimu noktası, en küçük değerine ise mutlak minimum değeri denirBir fonksiyonun tanımlı olmadığı noktalarda ekstremum 
+noktası yokturYanda grafiği verilen fonksiyonun x0  apsisli noktasında 
+ekstremum noktası yokturBir fonksiyonun türevli olmadığı noktalar ekstremum noktları olabilirYanda grafiği verilen fonksiyonun x0  apsisli noktası kırılm noktası olduğundan fonksiyonun x0  noktasında türevi 
+yoktur. Ancak fonksiyonun 
+,
+i noktasında bir yere maksimumu vardırTürevlenebilir bir fonksiyonun ekstremum noktalarında çizile teğetleri x eksenine paralel olacağından bu teğetlerin 
+eğimleri sıfırdır. Bu nedenle türevlenebilir bir fonksiyonun, 
+ekstremum noktalarında türevi sıfırdırYanda grafiği verilen fonksiyonun x0  apsisli noktasında  
+bir ekstremum noktası vardır. Burada 0 =
+l olurTürevlenebilir bir fonksiyonun türevinin sıfır olduğu her nokt ekstremum noktası olmak zorunda değildirYanda grafiği verilen fonksiyonun x0  apsisli noktasında  teğetini eğimi sıfır 0 =
+_ i olmasına rağmen bu nokta 
+ekstremum noktası değildirUyar{
+{
+{
+Matematik SONUBir fonksiyonun türevinin sıfır olduğu noktanın ekstremum noktası olabilmesi için fonksiyonn türevinin o noktada işaret değiştirmesi gerekirYanda grafiği verilen f fonksiyonunun türevi, x=
+ noktasnın solunda negatif, sağında  pozitif olduğundan fonksiyonn x=
+ noktasında bir yerel minimumu vardır. 
+Bir başka ifadeyle f fonksiyonunun x=
+ noktasının solund azalan ve  sağında artan olduğu görülmektedirBir fonksiyonun azalanlıktan artanlığa geçtiği noktaya 
+yerel minimum noktası denirYanda grafiği verilen fonksiyonun türevi, x=
+ noktasnın solunda pozitif, sağında  negatif olduğundan fonksiyonn x=
+ noktasında bir yerel maksimumu vardır. 
+Bir başka ifadeyle f fonksiyonunun x=
+ noktasının solund artan ve sağında azalan olduğu görülmektedirBir fonksiyonun artanlıktan azalanlığa geçtiği noktaya 
+yerel maksimum noktası denirYanda 
+,
+6 -
+@ nda tanımlı f = ] g fonksiyonunun 
+grafiği verilmiştir. Buna göre bu fonksiyonun yerel 
+maksimum, yerel minimum, mutlak minimum ve 
+mutlak maksimum noktalarını bulunuzÖRNEÇÖZÜVerilen fonksiyonun grafiği incelendiğinde 
+,
+,
+,
+,
+v4 2 6 -
+: ^
+^
+^
+h noktaları fonksiyonun yerel maksimum noktalarıdır.  
+,
+2 ^
+h noktasında fonksiyon en büyük değerini aldığından bu nokta aynı zamanda fonksiyonun 
+mutlak maksimum noktasıdır,
+,
+,
+,
+v3 -
+-
+-
+-
+: ^
+^
+^
+h noktaları fonksiyonun yerel minimum noktalarıdır,
+-
+-
+^
+h noktasında fonksiyon en küçük değerini aldığından bu nokta aynı zamanda fonksiyoun mutlak minimum noktasıdırTüre"
+,
+f |
+=
+-
++
+]  fonksiyonunun ekstremum noktalarını bulunuzf x olu&
+=
+-
++
+=
+-
+]
+]
+f ] g polinom fonksiyonu olduğundan her x gerçek sayısı için türevlidir. O hâlde =
+l]  denklemini köklerinde l] g işaret değiştiriyorsa =
+l]  denkleminin kökleri f fonksiyonunun ekstremu noktalarının apsisleridirx veya olu&
+&
+&
+=
+-
+=
+-
+=
+=
+=
+l]
+]
+f ] g fonksiyonunun türevinin işaret tablosu incelenirse f ] g fonksiyonunun =
+ da bir maksimumu 
+ve =
+ de bir minimumu vardır=
+ maksimum noktasının apsisi olduğundan f =
+]  fonksiyonun maksimum değeridir=
+ minimum noktasının apsisi olduğundan f =-
+]  fonksiyonun minimum değeridirBu durumda 
+,
+0 ^
+h noktası fonksiyonun maksimum noktası ve 
+,
+-
+^
+h noktası fonksiyonun minimu noktasıdır. Bu iki nokta fonksiyonun ekstremum noktalarıdır"
+,
+f |
+=
++
+-
++
+]  fonksiyonunun ekstremum noktalarının apsisleri toplamını bulunuf olu&
+=
++
+-
++
+=
++
+-
+]
+]
+f ] g polinom fonksiyonu olduğundan her x gerçek sayısı için türevlidir. O hâlde =
+l]  denklemini köklerinde l] g işaret değiştiriyorsa =
+l]  denkleminin kökleri f fonksiyonunun ekstremu noktalarının apsisleridirBu denklemin diskriminantı pozitif olduğundan denklemin ve 2  gibi iki farklı gerçek kökü vardırf ] g fonksiyonunun türevinin işaret tablosu incelenirse f  fonksiyonun ekstremum noktalarının 
+apsislerinin ve 2  olduğu görülür. Bu durumda f fonksiyonunun ekstremum noktalarının apsisler toplamı 2 +
+-
+=
+ denkleminin köklerinin toplamıdır. Buna gör-
+-
+ÖRNEÖRNEÇÖZÜÇÖZÜolu&
+=
++
+-
+=
+l] &
+a+
+-
+=
+=
+-
+-
+4 $
+$
+=
+-
+=
+]
+bulunu+
+=-
+=-
+=-
+Matematik "
+,
+f |
+=
++
++
+-
+]  fonksiyonunun ekstremum noktalarının sayısını bulunuz&
+f olu=
++
++
+-
+=
++
++
+]
+]
+f ] g polinom fonksiyonu her x gerçek sayısı için türevli olduğundan f  fonksiyonunun ekstremum 
+noktaları varsa bu noktalarda türevi sıfır olmalıdırolu&
+=
++
++
+=
+l] Bu denklemin diskriminantı negatif olduğundan fonksiyonun türevinin kökü yoktur. O hâlde fonksiyonn ekstremum noktası yokturBöylece verilen fonksiyonun ekstremum noktalarının sayısı 0 olarak bulunur"
+,
+f |
+=
++
++
+-
+]  fonksiyonunun varsa ekstremum noktalarını bulunuzf olu&
+=
++
++
+-
+=
++
++
+]
+]
+f ] g polinom fonksiyonu her x gerçek sayısı için türevli olduğundan f  fonksiyonunun ekstremum 
+noktaları varsa bu noktalarda türevi sıfır olmalıdır&
+olu=
++
++
+=
+l] f ] g fonksiyonunun türevinin işaret tablosu incelenirse f ] g fonksiyonunun türevi =-
+ te işare değiştirmediğinden bu nokta ekstremum noktası değildirO hâlde fonksiyonun ekstremum noktası yokturBu denklemin diskriminantı sıfır olup =-
+ denklemin çift katlı köküdür&
+a+
++
+=
+=
+-
+olu4 3 $
+$
+=
+-
+=-
+&
+a+
++
+=
+=
+-
+4 9 $
+$
+-
+bulunu=
+=
+-
+-
+ÖRNEÖRNEÇÖZÜÇÖZÜTüreSONU=
+l]  denkleminin kökü yoksa ya da yalnızca çift katlı kökü varsa f ] g fonksiyou daima artan ya da daima azalan olur. Daima artan ya da daima azalan fonksiyonlarn ekstremum noktaları yoktur. 
+Yukarıda daima artan ve daima azalan fonksiyonların grafiklerine örnek verilmiştir. 
+Grafikler incelendiğinde ekstremum noktası olmayan yani daima artan ve daima 
+azalan fonksiyonların bire bir ve örten olduğu görülür"
+,
+f |
+] g polinom fonksiyonu olmak üzer"
+,
+f a|
+=
+-
++
++
+]  fonksiyonu bire bir ve örten olduğuna göre a nın alabileceği en 
+geniş değer aralığını bulunuzf ] g polinom fonksiyonu olduğundan her x gerçek sayısı için türevlenebilir bir fonksiyondur. 
+f  fonksiyonu bire bir örten olduğundan ekstremum noktası olmamalıdırf  fonksiyonunun ekstremum noktası olmadığından daima artan ya da daima azalan olurO hâlde =
+l]  denkleminin ya çift katlı kökü olmalıdır ya da kökü olmamalıdır. Bu durum 
+T #
+ olması hâlinde gerçekleşirf aa olu&
+=
+-
++
++
+=
+-
++
+]
+]
+olu&
+=
+-
++
+=
+l] a olu=
+-
+&
+4 $
+$
+-
++
+=
+= -
+-
+]
+a olu&
+&
+&
+T #
+#
+#
+#
+-
+ 
+Bu durumda a nın alabileceği en geniş değer aralığı 
+, :
+ olurÖRNEÇÖZÜMatematik "
+,
+f mn|
+=
++
++
++
+]  fonksiyonunun ekstremum noktalarından biri 
+,
+A 1 ^
+h olduğuna 
+göre diğer ekstremum noktasının apsisini bulunuz,
+A 1 ^
+h noktası f  fonksiyonunun grafiği üzerinde olduğundan 
+olu=
+] f mnolu&
+$
+$
+=
++
++
++
+=
++
++
++
+=
++
++
++
+=
+]
+]
+]
+,
+A 1 ^
+h noktası türevlenebilir f  fonksiyonunun bir ekstremum noktası olduğundan bu noktada 
+fonksiyonun türevi sıfırdır. 
+olu=
+l] f mnmolu3 &
+&
+$
+$
+=
++
++
++
+=
++
++
+=
++
++
+=
++
++
++
+=-
+]
+]
+]
+]
+(1) ve (2) denklemleri ortak çözülürs      
++
+olu+
+=
++
+=-
+=-
+-
+                   
+&
+olu=-
+-
++
+=
+=
+      
+moluveya olu&
+&
+&
+&
+=
++
++
+=
+-
++
+=
+-
++
+=
+-
+-
+=
+=
+=
+]
+]
+]
+]
+]
+Bu durumda f  fonksiyonunun diğer ekstremum noktasının apsisi =
+ bulunur. 
+-
+ÖRNEÇÖZÜTüre"
+,
+f ab|
+=
+-
++
+-
+]  fonksiyonunun grafiğine =
+ apsisli noktasında çizilen teğeti, 
+x ekseni ile pozitif yönde 135c lik açı yapmaktadır. f fonksiyonunun =
+ apsisli noktası bir ekstremu noktası olduğuna göre +
+ toplamını bulunuzf fonksiyonunun grafiğine =
+ apsisli noktasından çizilen teğeti x ekseni ile pozitif yönde 135c 
+lik açı yaptığından 

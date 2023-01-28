@@ -1,0 +1,400 @@
+ve f  doğrusal fonksiyon ve 
+,
+( )
+( )
+=
+=
+ olduğuna göre ( )
+f 0  
+değerini bulunuz14. Tanımlı olduğu aralıklarda f ve g fonksiyonlar; 
+1, 4 , 2, 5 ,
+,
+=
+-
+^
+^
+^
+"
+, ,
+2, 4 , 3, 3 ,
+,
+-
+= ^
+^
+^
+"
+,  biçiminde 
+veriliyor. Buna göre (
+)( )
+-
+ değerini 
+bulunuzD) Aşağıdaki çoktan seçmeli soruların 
+doğru seçeneğini işaretleyiniz15. Aşağıdakilerden hangisi tanımlanan aralıklar 
+için fonksiyon belirtirA) 
+"
+,
+:
+( )
+f =
+B) 
+"
+,
+:
+( )
+f =
+-
+C) 
+"
+,
+:
+( )
+f =
++
+D) 
+"
+,
+:
+( )
+f =
++
+E) 
+"
+,
+:
+( )
+f =
++
+16. 
+"
+,
+:
+(
+)
++
+=
+-
+ olmak üzere 
+( )
+f = -  olduğuna göre ( )
+f 5  değeri kaçtır?
+    
+    A) 
+-
+    B) 
+-        C) 
+-      D) 4        E) 17.  I. 
+"
+,
+:
+( )
+f =
++
+       II. 
+"
+,
+:
+( )
+=
+-
+       III. 
+"
+,
+:
+( )
+h 2 +
+=
+Yukarıdaki maddelerde verilen fonksiyonlarn hangisi veya hangileri bire bir ve içine 
+fonksiyondur?
+   
+    A) Yalnız I           B) Yalnız II            C) I ve II                                   
+ 
+    D) II ve III            E) I, II ve II 
+18. Bir otoparkın ücret tarifesi aşağıdaki gibi 
+belirlenmiştir. Aracın otoparkta kalma süresi 
+t  saat, bu süre için ödenecek ücret ( )
+f t  Türk 
+lirası olmak üzer      
+,
+,
+,
+,
+( )
+f isisisis#
+#
+#
+=
+[
+\
+]]]]]]]
+]]]]]]]
+    
+                                           
+biçiminde tanımlanmıştırBu otoparka sabah 08.00 de gelen 20 araçta 4 ü saat 08.30 da, 6 sı 10.30 da, kalan 
+10 araç ise 17.00 de otoparktan ayrıldığına 
+ve otoparka başka araç girmediğine göre 
+otopark işletmesinin bu araçlardan kazandığı 
+toplam para kaç Türk lirasıdır?
+       A) 144    B) 150    C) 156     D) 161    E) 19. 
+"
+"
+,
+:
+:
+R  olmak üzere   
+(
+)( )
++
+=
+-
+ ve (
+)( )
+=
+-
++  
+fonksiyonları veriliyor. Buna göre (
+)( )
++
+ 
+ifadesinin değeri aşağıdakilerden hangisidir?
+      A) 
+-        B) 
+-        C) 
+-         D) 6    E) 20. 
+"
+,
+:
+2 -
+ olmak üzere ( )
+f =
+-
+ 
+fonksiyonu veriliyor. f fonksiyonunun görüntü 
+kümesindeki elemanlardan tam sayı olanların 
+toplamı kaçtır?
+  A) 
+-
+   B) 
+-
+   C) 
+-
+  D) 
+-
+  E) 
+-
+21. 
+Yukarıdaki grafikte A ve B musluklarından 
+akan su miktarlarının zamana göre değişimi 
+gösterilmiştir. A ve B muslukları 300 litrelik 
+bir depoyu doldurmak için deponun üstün yerleştirilmiştir. İki musluk boş depoyu 
+doldurmak için aynı anda açılırsa depo kaç 
+dakikada dolar?
+      A) 15      B) 20    C) 24      D) 30      E) 22. 
+-
+Yukarıdaki grafikte ( )
+f x  fonksiyonunun grafiği 
+verilmiştir. Buna göre ( )
+f =
+ denkleminin 
+gerçek sayılar kümesindeki çözüm kümesi 
+aşağıdakilerden hangisidir?
+    
+       A) 
+,3 -
+@     B) 
+,2 -
+@     C) 
+,
+,
+3 1 -
+"
+,                                 
+ 
+           D) 
+,
+,
+2 0 -
+"
+,        E) 
+,2 -
+"
+,
+DEĞERLENDİRMCevaplarınızı cevap anahtarı ile karşılaştırını. Yanlış cevap verdiğiniz ya da cevap 
+verirken tereddüt ettiğiniz sorularla ilgili 
+konuları veya faaliyetleri geri dönerek tekrarlayını. Cevaplarınızın tümü doğru ise bir 
+sonraki öğrenme faaliyetine geçinizA) Aşağıda numaralarla verilen fonksiyolar ile harflerle verilen bu fonksiyoların terslerini eşleştirip eşleşenler alttaki kutulara yazınız1.  
+1. f(x)
+=
++
+      
+2. f(x)
+=
+-
+3. f(x)
+=
+4. f(x)
+=
+1234B) Aşağıdaki açık uçlu soruların doğru cevapların bulunuz2. Gerçek sayılar kümesinde tanımlı f fonksiyon     f(
+)
+-
+=
++
+ olduğuna göre (
+)
+1 -
+-
+ 
+değerini bulunuz   
+3. 
+"
+f :
+- -
+-
+"
+"
+,
+,  olmak üzere 
+( )
+( )
+=
+-
+-
+ ifadesi veriliyor. Buna göre 
+( )
+-
+ fonksiyonunu bulunuz4. Gerçek sayılar kümesinde  tanımlı f ve g 
+    fonksiyonları f(x)
+( )
+v=
+-
+=
+-
+ 
+biçiminde tanımlanıyor. 
+Buna göre (
+)( )
+go=
+ eşitliğini sağlayan x 
+değerlerinin toplamını bulunuz5. f fonksiyonu, tanım kümesindeki her gerçek 
+sayı için ( )
+(
+)
+f f $
+-
++
+=
+ eşitliğini sağlıyo. ( )
+f = -  olduğuna göre ( )
+f 5  değerini 
+bulunuz6.  
+"
+,
+,
+: (
+)
+-
+-
+@
+ bir fonksiyon ve 
+( )
+f =
++
++
+ olduğuna göre  
+( )
+-
+ 
+fonksiyonunu bulunuz7. Gerçek sayılar kümesinde tanımlı f fonksiyon, (
+)
+f 3 -
+=
+-   biçiminde tanımlanmıştı. 
+( )
+=
+-
+ olduğuna göre k değerini 
+bulunuzÖLÇME VE DEĞERLENDİRME a) 
+=
++
+- ^ b) 
+=
+-
+- ^ c) 
+= - +
+- ^ ç) 
+=
+- ^  
+d) 
+= -
+- ^ e) 
+=
+- ^ f) 
+= -
+- ^ 8 - 10. soruları aşağıda verilen bilgilere 
+göre cevaplandırınızUğurlu Sayılar 0yunu 
+Bu oyun 3 kişi ile oynanır. İlk olarak herkes kendi 
+uğurlu sayılarıyla yapacağı işlemleri belirler ve 
+bir diğerine söylemez. Birinci kişinin herhangi bir 
+uğurlu sayı belirlemesi ile oyun başlar. Birinci kişi 
+belirlediği uğurlu sayıyı belirlediği işlemlere tabi 
+tutarak çıkan sonucu ikinci kişiye söyler bu sayı 
+ikinci kişinin uğurlu sayısı olur. İkinci kişi de bu 
+uğurlu sayıyı belirlediği işlemlere tabi tutarak çıka sonucu üçüncü kişiye söyler bu sayı üçüncü 
+kişinin uğurlu sayısı olur. Üçüncü kişi de bu uğurl sayısını belirlediği işlemlere tabi tutarak çıkan 
+sonucu birinci kişiye söyler bu sayı birinci kişinin 
+yeni uğurlu sayısı olur ve bu işlemler tekrar eder•  Bu oyun tüm oyuncuların beşer uğurlu sayıs olduğunda son bulur. 
+• Oyun sonunda uğurlu sayılarının toplamını mutlak değeri en küçük olan kişi oyunu 
+kazanır. 
+• Eğer eşitlik durumu varsa uğurlu sayılarının 
+toplamı büyük olan kişi birinci olur. 
+• Eğer iki durumda da birinci belirlenemezse 
+oyun tekrarlanırHakan, Esra ve oğulları Kaan’ın beraber oynadığ uğurlu sayılar oyunu ile ilgili aşağıdaki bilgiler 
+veriliyor    •    Oyun Hakan ile başlayıp Kaan’ın beşinci   
+          uğurlu sayısının oluşmasıyla son bulmu          tur    •     Oyun boyunca Hakan, uğurlu sayılarını 
+          
+-  ile çarpmıştır. Esra, uğurlu sayılarını 
+          2 ile çarpıp 5 ile toplamıştır. Kaan ise uğu          lu sayılarını 1 ile  çarpmıştır    •     Hakan’ın ilk uğurlu sayısı 5 tir8. Hakan’ın herhangi bir uğurlu sayısı x olmak 
+üzere bir sonraki uğurlu sayısını veren x e 
+bağlı fonksiyonu yazınız9. Bu oyunu kimin kazandığını bulunuz10. Kaan’ın uğurlu sayılarından rastgele biri 
+seçildiğinde seçilen sayının aynı zamanda 
+Hakan’ın da uğurlu sayısı olması olasılığını 
+bulunuz. 
+C) Aşağıdaki çoktan seçmeli soruların 
+doğru seçeneğini işaretleyiniz11. Z  tam sayılar kümesi olmak üzere 
+"
+:
+Z  
+fonksiyonu ( )
+f =
+-  biçiminde tanımlanıyoBuna gör    I. f bire bir fonksiyondur    II. fo]
+g örten fonksiyondur    III. f fonksiyonunun tersi tanımlıdır. 
+ifadelerinden hangileri doğrudur?
+    
+       A) Yalnız I           B) Yalnız II          C) I ve II                                   
+ 
+ 
+      D) II ve III            E) I, II ve II12. f ve g tanımlı oldukları aralıklarda bire bir ve 
+örten fonksiyonlar olmak üzer( )
+( )
+f ve g =
++
+=
+-
+ fonksiyonu veriliyo. Buna göre (
+)
+(
+)
+fo1 -
+-
+ değeri kaçtır?
+ 
+       A) 
+-
+    B) 
+-
+    C) 
+-     D) 10     E) 13. f bire bir ve örten bir fonksiyon olmak üzere 
+( )
+f m=
++
+-
++

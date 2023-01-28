@@ -1,0 +1,348 @@
+elde edilecektir. Elde edilecek dik piramidin hacminin en çok kaç m3  olacağını bulunuzElde edilecek piramidin hacminin en büyük olması için piramidin tabanının prizmanın herhangi bir 
+tabanına eşit olması ve yüksekliğinin bu tabana dik olan prizmanın ayrıtına eşit olması gerekir. Bu şekilde 
+elde edilecek piramidin hacmi prizmanın hacminin 1  idir. Dolayısıyla bu piramidin hacmi 
+,
+colu90 60 270 0 $
+$
+=
+=
+Piramidin içine su doldurulunca su yüzeyi yukarıda verilen şekilde belirtilen KLMN dörtgeni hizasına gelir. 
+Su, kabın 3  üne kadar doldurulduğundan NT=
+ olur. Buradan NNc&
+=
+=
+ bulunur.  
+Suyun üst yüzeyi olan KLMN dörtgeni (T, KLMN) piramidinin tabanıdır. (T, KLMN) piramidi ile 
+(T, ABCD) piramidi benzer olduğundan hacimleri oranı benzerlik oranının küpüne eşittir. Buradan 
+T=
+=
+ olur. (T, KLMN) piramidinin hacmi V olursa (T, ABCD) piramidinin hacmi 64V olur. 
+Suyun hacmi ise 
+-
+=
+ olur. Buradan suyun hacminin (T, ABCD) piramidinin hacmine oranı 
+=
+ bulunurYandaki şekilde verilen (T, ABCD) piramidi biçimindeki bir kaba yüksekliğini 3  üne kadar su dolduruluyor. c=
+ olduğuna göre suyun 
+hacminin (T, ABCD) piramidinin hacmine oranını bulunuzİpucAralarında benzerlik oranı bulunan cisimlerin hacimleri oranı, benzerlik oranının küpüne eşittir1. 
+Yukarıdaki şekilde taban ayrıtının uzunluğu 
+6 cm ve yüksekliği 8 cm olan kare dik piramit 
+verilmiştir. 
+Buna göre piramidin hacminin kaç cm3  
+olduğunu bulunuz2. 
+Yukarıdaki şekilde verilen taban ayrıt uzunluğu 
+4 cm olan düzgün altıgen dik piramidin yanal 
+ayrıtının uzunluğu 12 cm dir. 
+Buna göre piramidin yanal alanının kaç cm2  
+olduğunu bulunuz3. 
+Yukarıdaki şekilde verilen bir ayrıt uzunluğu 
+6 cm olan düzgün dört yüzlünün yüksekliği olan 
+h değerinin kaç cm ve hacminin kaç cm3  
+olduğunu bulunuz. 
+4. 
+Yukarıdaki şekilde verilen kare dik piramidi taban ve yanal ayrıt uzunlukları 8 cm dir. 
+T! @ olmak üzere AE+
+ toplamının 
+en az kaç cm olduğunu bulunuz. 
+ 
+5. 
+Yukarıdaki şekilde (T, ABC) piramidinde 
+BC=
+@
+@, CT=
+@
+@; A9 c=
+, 
+Bc=
+, Tc=
+ olduğuna göre 
+piramidin hacminin kaç cm3  olduğunu 
+bulunuz. 
+6Yukarıdaki şekilde kare dik piramit biçiminde bir 
+cisim tabana paralel olan KLMN düzlemi 
+boyunca kesildikten sonra kalan parçası 
+verilmiştir. Ac=
+, Mc=
+ ve 
+ABCD ile KLMN düzlemleri arasındaki uzaklık 
+3 cm olduğuna göre verilen cismin hacminin 
+kaç cm3  olduğunu bulunuzALIŞTIRMALAA) Aşağıdaki cümlelerde boş bırakılan 
+yerlere doğru ifadeyi yazınız1. Bir küpün ayrıt sayısı ........... dir2. Bir düzgün altıgen prizmanın yüzey sayısı 
+........... dir3. Ayrıt uzunlukları a cm, b cm ve c cm olan dikdörtgenle prizmasının hacmi .................. 
+cm3  tür.   
+4. Yüksekliği taban ayrıt uzunluğunun 3 katı olan 
+kare dik prizmanın yüzey alanı 126 cm2  
+olduğuna göre prizmanın hacminin kaç cm3  
+olduğunu bulunuz. 
+ 
+5Yukarıdaki şekildeki ABCD tabanlı küpte 
+A BCl dikdörtgeninin alanı 
+c8 2  olduğuna 
+göre küpün hacminin kaç cm3  olduğunu 
+bulunuz.     
+6. 
+Yukarıdaki şekilde eş iki küp yan yana koyulara AEFD tabanlı dikdörtgenler prizması elde 
+ediliyor. 
+(
+)
+m F A=
+l%
+ olduğuna göre tana  
+değerini bulunuz. 
+7Yukarıdaki şekilde verilen yüksekliği 9 cm 
+olan ABCD tabanlı dikdörtgenler prizmasında  
+Ac=
+ ve Bc=
+ olarak veriliyorPrizmanın içinde yüksekliğinin 2  si kadar su 
+varken prizma BCC l l  yüzeyi üstüne yatırılırs suyun yüksekliğinin kaç cm olduğunu 
+bulunuz. 
+  
+8. Bir küpün tüm ayrıt uzunlukları 3 kat artırılırsa 
+hacminin kaç katına çıkacağını bulunuz. 
+ 
+ÖLÇME VE DEĞERLENDİRMB) Aşağıdaki açık uçlu soruların doğru cevabın bulunuzC) Aşağıdaki çoktan seçmeli soruların 
+doğru seçeneğini işaretleyiniz9. 
+Yukarıdaki şekilde verilen ikizkenar üçgen dik 
+prizmada ABc=
+=
+, 
+Ac=
+ ve Bc=
+ olduğuna 
+göre prizmanın yüzey alanı kaç cm2  dir?
+A) 432     B) 528     C) 540    D) 576    E) 10Dikdörtgenler prizmasının bir kısmı kesilerek 
+oluşturulan yukarıdaki şekilde Ac=
+, 
+DD c=
+=
+l , DCc=
+=
+ 
+ve Ac=
+ olduğuna göre şeklin hacmi 
+kaç cm3  tür?
+A) 840    B) 960    C) 980    D) 1120   E) 11. Bir dikdörtgenler prizmasının farklı uzunluktak ayrıtları x cm, y cm ve z cm dir. 
++
++
+=
+ ve dikdörtgenler prizmasının 
+tüm alanı 
+c2  olduğuna göre hacmi kacm3  tür?
+A) 180     B) 240     C) 300    D) 360    E) 12. 
+Yukarıdaki şekilde verilen kare dik prizmad 
+,
+CBc!
+=
+@
+ ve 
+C Ec=
+=
+ olduğuna göre 
+(
+)
+A BED&  
+kaç cm2  dir? 
+     A) 4 13                B) 4 17            C) 6 13            
+ 
+  D) 6 17       
+E) 4 13. Yan yüzleri eşkenar üçgen olan kare dik 
+piramidin yüksekliği 
+c3  olduğuna göre 
+piramidin hacmi kaç cm3  tür?
+A) 24    B) 36   C) 36 2     D) 36 3     E) 14Yukarıdaki şekilde verilen ABCD tabanlı 
+ikizkenar yamuk dik prizmada AC'
+@
+@;  
+Ac=
+, A C c=
+=
+l l  ve 
+D c=
+l  olduğuna göre prizmanın 
+hacmi kaç cm3  tür?
+A) 240     B) 320     C) 480    D) 640    E) 15Bir ayrıt uzunluğu a birim olan yukarıdaki 
+şekilde verilen küpte A D $
+ değerinin a 
+cinsinden eşiti aşağıdakilerden hangisidir?
+     A) a2                     B) 
+2                 C) 2      
+ 
+       D) 
+2                  
+E) 
+16. Tabanının bir kenar uzunluğu 12 cm olan eşkena üçgen dik prizmanın yüksekliği 18 cm 
+olduğuna göre yanal alanı kaç cm2  dir?
+A) 324     B) 432     C) 648    D) 720   E) 17Yukarıdaki şekilde verilen 
+,
+(
+)
+T ABCD  kare dik 
+piramidinde 
+(
+)
+m DB=
+%
+ ve Tc=
+ 
+olduğuna göre A(ABCD) kaç cm2  dir?
+A) 32     B) 64    C) 81   D) 64 3     E) 96 18. 
+Yukarıdaki şekilde verilen 
+,
+(
+)
+T ABCD  kare 
+dik piramidinde tüm ayrıt uzunlukları eşit olup 
+E noktası T@ ve F noktası T@ üzerindedi. T3 cF2 cv=
+=
+ olduğuna 
+göre AE+
+ en az kaç cm dir?
+A) 3 2      B) 5     C) 7    D) 5 2      E) 6 19. 
+A noktasından Al  noktasına kadar tüm 
+yüzeylerden geçen bir şerit ile kaplanan 
+yukarıdaki şekilde verilen düzgün altıgen dik 
+prizmada Ac=
+ ve Cc=
+ 
+olduğuna göre şeridin uzunluğu en az kaç 
+cm dir? 
+A) 48    B) 50    C) 56   D) 40 2     E) 50 DEĞERLENDİRMCevaplarınızı cevap anahtarı ile karşılaştırını. Yanlış cevap verdiğiniz ya da cevap 
+verirken tereddüt ettiğiniz sorularla ilgili 
+konuları veya faaliyetleri geri dönerek tekrarlayını. Cevaplarınızın tümü doğru ise bir 
+sonraki öğrenme faaliyetine geçinizA) Aşağıdaki cümlelerde boş bırakılan 
+yerlere doğru ifadeyi yazınız1. Bir ayrıt uzunluğu a birim olan küpün hacmi 
+........... birimküptür2. Bir dik prizmanın taban çevresi ile yüksekliğini çarpımı ............... alanını verir3. Bir ayrıt uzunluğu x cm olan düzgün dört 
+yüzlünün hacmi   .................. cm3  tür.   
+B) Aşağıdaki açık uçlu soruların doğru cevabın bulunuz4. Taban ayrıt uzunluğu 6 2  cm olan kare dik 
+piramidin bir yanal ayrıt uzunluğu 10 cm 
+olduğuna göre hacminin kaç cm3  olduğunu 
+bulunuz5. 
+Yukarıdaki şekilde (T, ABCD) dik piramittirYanal ayrıtlarının orta noktaları olan K, L, M, N 
+noktaları  ve ABCD dörtgeninin ağırlık merkezi 
+G noktası olmak üzere (G, KLMN) piramidi 
+oluşturuluyor. (G, KLMN) piramidinin hacminin 
+(T, ABCD) piramidinin hacmine oranını bulunu.   
+6. 
+Bir ayrıt uzunluğu 2 cm olan 5 eş küple oluşturula yukarıdaki şekilde AAl  nun kaç cm 
+olduğunu bulunuz.         
+ 
+7. 
+İçinde bir miktar su bulunan dikdörtgenler 
+prizmasının içine bir ayrıt uzunluğu 2 cm olan 
+küp atıldığında suyun yüksekliği yukarıda 
+verilen şekildeki gibi 2 cm olmuştur. Tamam suyun içerisinde bulunan küp, prizmanın 
+içinden çıkarılınca suyun yüksekliğinin kaç cm 
+olacağını bulunuz. 
+ÖLÇME VE DEĞERLENDİRMEC) Aşağıdaki çoktan seçmeli soruların 
+doğru seçeneğini işaretleyiniz8.   Bir dikdörtgenler prizmasının ayrıt uzunlukları 
+2, 3 ve 4 sayıları  ile orantılıdır. Prizmanın 
+tüm alanı 
+c2  olduğuna göre en uzak 
+iki köşesi arasındaki uzaklık kaç cm dir?
+     A) 5 3                  B) 
+79                C) 4 5        
+ 
+ D) 
+87       
+E) 3 9.  
+Yukarıdaki şekilde verilen tabanı ABCD karesi 
+olan dik prizmada ve 2  tabanların ağırlık 
+merkezidir. T A2 '
+@
+? olmak üzere 
+,
+(
+)
+E A B C l l l l  ve 
+,
+(
+)
+E ABCD  piramitlerinin 
+hacimleri toplamı kaç cm3  tür?
+A) 120     B) 180     C) 200     D) 240    E) 10Yukarıdaki şekilde gösterildiği gibi küp şeklindek pastanın bir köşesinden küp şeklinde bir 
+kısmı kesilerek çıkarılıyorPastanın son hâlinin yüzey alanının ilk hâlinin 
+yüzey alanına oranı kaçtır?
+A) 4        B) 1     C) 25      D) 24      E) 11Yukarıdaki şekilde verilen dikdörtgenler prizmasınd K noktası E@ ve L noktası B@ 
+üzerindedir. Ac=
+, Ac=
+, 
+E2 cm,
+=
+ Kc=
+ ve Lc=
+ 
+olduğuna göre KL  kaç cm dir?
+A) 12       B) 13       C) 15       D) 17       E)  
+12. Ayrıt uzunlukları 15 cm, 20 cm ve 25 cm 
+olan dikdörtgenler prizması şeklindeki içi 
+dolu tahta bloğun tamamı en az kaç eş küpe 
+ayrılabilir?
+A) 40      B) 60      C) 80       D) 100     E)   
+13Bir firma ürünlerini yukarıda verildiği gibi 
+dikdörtgenler prizması şeklindeki kutu içine 
+koymaktadır. Bu kutunun yüzeyi üzerine H 
+ile B noktaları ve A ile G noktaları arasına 
+en kısa olacak şekilde çizgiler çizilecekti. Kutuda K ve L noktaları  E@ üzerindedi. Cc=
+, Bc=
+ ve 
+Ac=
+ olduğuna göre KL  kaç cm 
+dir?
+A) 7        B) 9        C) 10        D) 12        E) 14Yukarıdaki şekilde verilen küpte 
+(
+)
+A ACc3 =
+&
+ olduğuna göre küpün 
+hacmi kaç cm3  tür?
+A) 6 6      B) 6 3     C) 6 2     D) 36   E) 15. Yüksekliği taban ayrıt uzunluğunun  2 katı 
+olan bir kare dik prizma tamamen su ile 
+doludur. Bu prizmadaki su, boyutları prizmanı taban ayrıt uzunluğunun yarısı olan eş 
+küplere doldurulacaktır. 
+      Buna göre kaç adet küp gerekir?
+A) 8        B) 12       C) 16        D) 24       E) 16Yukarıdaki şekilde üç farklı yüzey alanı 
+30 cm2 , 40 cm2  ve 48 cm2  olarak verilen 
+dikdörtgenler prizmasının hacmi kaç cm3  
+tür?
+A) 180     B) 240     C) 360     D) 420    E) 17. Boyutları 3, 4 ve 6 ile orantılı olan bir dikdörtgeler prizmasının hacmi 576 cm3  olduğuna 
+göre yüzey alanı kaç cm2  dir?
+A) 216    B) 324     C) 432    D) 576    E) 18. 
+    
+Şekil - Şekil - IŞekil - I deki ayrıt uzunlukları 4 cm, 6 cm ve    
+8 cm olarak verilen dikdörtgenler prizmasının 
+bir parçası kesilip Şekil - II deki cisim elde 
+edilmiştir. 
+Buna göre kesilen parçanın hacmi kaç cm3  
+tür?
+A) 20       B) 24       C) 30        D) 32      E) DEĞERLENDİRMCevaplarınızı cevap anahtarı ile karşılaştırını. Yanlış cevap verdiğiniz ya da cevap 
+verirken tereddüt ettiğiniz sorularla ilgili 
+konuları veya faaliyetleri geri dönerek tekrarlayını. Cevaplarınızın tümü doğru ise bir 
+sonraki öğrenme faaliyetine geçinizA) Aşağıdaki cümlelerde boş bırakılan 
+yerlere doğru ifadeyi yazınız1. Ayrıt uzunlukları birbirine eşit olan dikdörtgeler prizmasına ............ denir2. Aynı taban alanına ve eşit yüksekliklere 
+sahip olan bir dikdörtgenler prizması ile bir 
+piramit için dik piramidin hacminin, dikdörtgeler prizmasının hacmine oranı  .......    türB) Aşağıdaki açık uçlu soruların doğru cevabın bulunuz3Şekil - I         
+                                    
+                                                                                      
+Şekil - IŞekil - I de bir ayrıt uzunluğu 24 cm olan 
+küpün içerisinde x cm yüksekliğinde su vardır. 
+Bu küpün içine yüksekliği 24 cm ve taban ayrıt 
+uzunlukları da 24 cm olan kare dik piramit için su dolmadan Şekil - II deki gibi yerleştiriliyo. Böylece su seviyesi küpün yarı seviyesine 
+yükseliyor. Buna göre suyun ilk yüksekliği olan 
+x in kaç cm olduğunu bulunuz  
+4.  
+Yukarıdaki şekilde ayrıt uzunlukları 6 cm ve 
+2 cm olan iki küp verilmiştir. 
+Buna göre AB  nun kaç cm olduğunu bulunu.  
+5. 
+    
+     
+Yukarıdaki şekilde ayrıt uzunlukları cm cinsinde verilen dikdörtgenler prizması şeklindeki 
+kutunun kapağı açılarak F, G, C noktalar doğrusal duruma getiriliyor. A! ?,
+B! ?, KA'
+@
+@ olduğuna göre 
+'
+KL  
+nun kaç cm olduğunu bulunuz. 
+ 
+ÖLÇME VE DEĞERLENDİRME 

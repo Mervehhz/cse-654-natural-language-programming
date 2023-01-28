@@ -1,0 +1,400 @@
+]
+Bu durumda f ] g fonksiyonunun yerel minimum değeri 
+-  olurf x ddf x ddf f &
+&
+=
+-
++
+=
+-
++
+=
+-
+olu&
+&
+=
+-
+=
+-
+]
+^
+]
+^
+]
+#
+#
+(Verilen eşitliğin her iki 
+tarafının türevi alınır.)
+İntegraAşağıdaki integrallerin eşitini bulunuza)  
+x x d#
+                                                           b)  
+x d#
+x x dx dd$
+=
+=
++
+=
++
++
+bulunu=
++
+=
++
+=
++
+#
+#
+#
+x ddddc bulunu=
+=
+=
+=
++
++
+=
++
+=
++
+=
++
+-
++
+#
+#
+#
+#
+ve olmazer!-
+&
+F F oldugundaolux d=
++
++
+=
+=
++
++
++
++
+{
+]
+]
+#
+İntegral Alma KurallarAşağıdaki integrallerin eşitlerini bulunuzx d#
+x d#
+x d#
+d#
+a)
+b)
+c)
+ç)
+a)
+a)
+b)
+b)
+c)
+ç)
+dx d=
+=
++
++
++
+=
++
+=
++
+#
+#
+=
++
+x d=
++
++
++
+#
+x d=
++
++
+=
++
++
+#
+x dc bulunu=
++
++
+=
++
++
+#
+ÖRNEÖRNEÇÖZÜÇÖZÜMatematik x dx dc bulunu$
+$
+=
+=
++
+=
++
+#
+#
+f ve g sürekli iki fonksiyon olmak üzer 
+oluf g df x dg x df g df x dg x d+
+=
++
+-
+=
+-
+^
+^
+]
+]
+]
+]
+]
+]
+]
+]
+#
+#
+#
+#
+#
+#
+olmak zerolua f x df x d$
+$
+=
+^
+^
+#
+#
+Aşağıdaki integrallerin eşitini bulunuza) 
+x d#
+                                                           b) 
+x d#
+ÖRNEÇÖZÜx dx dc bulunu$
+$
+=
+=
++
+=
++
+#
+#
+a)
+b)
+İki fonksiyonun toplamının veya farkının integrali, bu fonksiyonların integrallerinin toplamına 
+veya farkına eşittir(1) ve (2) eşitliklerinden 
+da f x da f df x da df x da f df x df $
+$
+$
+$
+$
+=
+=
+=
+=
+`
+^
+^
+^
+`
+^
+^
+^
+^
+^
+^
+h#
+#
+#
+#
+(1) ve (2) eşitliklerinden 
+a f x df x d$
+$
+=
+^
+^
+#
+#
+ olurdf g df g df x dg x ddf x ddg x d"
+"
+"
+=
+"
+"
+=
+=
+`
+^ ]
+^
+]
+^
+]
+]
+]
+^
+]
+^
+^
+^
+g#
+#
+#
+#
+#
+f g df x dg x df g df x dg x dx olu+
+=
++
+-
+=
+-
+^
+^
+]
+]
+]
+]
+]
+]
+]
+]
+#
+#
+#
+#
+#
+#
+İntegra-
+d#
+   ifadesinin eşitini bulunuz-
+dx dx dx dx dc bulunu$
+$
+$
+$
+=
+-
+=
+-
+=
++
+-
++
+=
+-
++
+=
+-
++
+-
+44444 #
+#
+#
+#
+#
+d-
++
+#
+ ifadesinin eşitini bulunuzc bulunu=
+-
++
++
+=
++
++
++
+2 -
++
+dd-
++
+=
+-
+-
+-
+-
+#
+#
+Aşağıdaki integrallerin eşitini bulunuza) 
+d#
+                                                                  b) 
+t d#
+t dt dc bulunu$
+=
+=
++
+=
++
+#
+#
+=
++
+c bulunu=
++
+dv d=
+#
+#
+İntegral alma işlemi farklı değişkenlere göre de uygulanabilira)
+b)
+ÖRNEÖRNEÖRNEÇÖZÜÇÖZÜÇÖZÜUyarMatematik d4 -
+#
+ ifadesinin eşitini bulunuz-
+dddc bulunu-
+=
+-
+=
+=
+- -
++
+=
++
++
+-
+-
+#
+#
+#
+d-
++
+#
+ ifadesinin eşitini bulunuz-
++
+dddc bulunu-
++
+=
+=
+=
+-
++ -
++
+=
+-
+-
++
+-
+-
+-
++
+#
+#
+#
+ÖRNEÖRNEÇÖZÜÇÖZÜd-
+#
+ ifadesinin eşitini bulunuz-
+dddx c bulunu-
+=
+=
+=
+-
++
+=
+-
++
+=
+-
++
+-
+-
+#
+#
+#
+ÖRNEÇÖZÜİntegra-
+-
+d]#
+ ifadesinin eşitini bulunuzc bulunu=
+-
+-

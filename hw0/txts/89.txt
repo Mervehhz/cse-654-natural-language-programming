@@ -1,0 +1,400 @@
+$
++
+  işleminin sonucunu bulunuz( )
+( )
+f g =
+ olduğundan x değişkenlerinden üsleri aynı olanların katsayıları birbirine eşit olmalıdır&
+-
+=
+=
+&
+-
+=
+=
+(
+)
+&
+-
++
+= -
+=
+&
+-
+=
+=
+ bulunur. Buradan  a c 6 4 $
+$
+$
+$
++
+=
++
+=
++
+=
+ olurA ve B boş kümeden farklı iki küme olmak üzere 
+"
+"
+,
+:
+:
+B B  tanımlanan f ve g fonksiyonlar; 
+( )
+( )
+f g i i6 !
+=
+ şeklinde yazılabiliyor ise bu fonksiyonlara eşit fonksiyonlar denir ve 
+=
+ şeklinde gösterilir. Fonksiyonların eşit olması için tanım ve görüntü kümelerinin eşit olması, 
+tanım kümesindeki her bir eleman için bu elemanların görüntülerinin de aynı olması gerekir"
+,
+:
+{ }
+( )
+f -
+=
+-
++
+-
+ ile 
+"
+,
+:
+( )
+g =
++
+ fonksiyonlarının eşit  fonksiyonlar olup 
+olmadığını bulunuzf ve g fonksiyonlarının tanım kümeleri eşit olmadığından !
+ olurBuradan 
+( )
+( )
+olarak bulunabilirken =
++
+=
+ değeri bulunamazBilgBirim (Özdeşlik) FonksiyoA boş kümeden farklı bir küme vf, A dan A ya bir fonksiyon olmak üzere 
+( )
+A i in f 6 !
+=
+ oluyorsa f 
+fonksiyonuna birim fonksiyon denir ve I ile gösterilirÖrneğin 
+"
+:
+R , f birim fonksiyon olmak üzere 
+      • 
+( )
+f =
+                             •    (
+)
++
++
+=
+ 
+      •  (
+)
+f +
+=
++
+             •     (
+)
+f +
+=
++
+ olur.     
+"
+"
+,
+,
+:
+( )
+(
+) (
+)
+:
+( )
+(
+)
+f ve g b$
+=
+-
++
++
+=
+-
+-
++
++
+-  fonksiyonları 
+veriliyor. ( )
+( )
+f g =
+ ise +
+-
+ değerini bulunuz( )
+f x  ve 
+( )
+g x  fonksiyonları düzenlenirse 
+( )
+(
+) (
+)
+f $
+=
+-
++
++
+=
++
+-
+-
++
+=
++
++
+ olur( )
+(
+)
+(
+)
+(
+)
+g b=
+-
+-
++
++
+-
+=
+-
++ -
++
++
+-  olur( )
+( )
+f g =
+  olduğundan x değişkenlerinden üsleri aynı olanların katsayıları birbirine eşit olmalıdır. 
+Buradan 
+&
+=
+-
+=
+,
+ve &
+= -
++
+=
+=
+,
+c ve &
+=
+-
+=
+=
+,
++
+-
+=
++
+-
+=
+ olur"
+:
+R , f birim fonksiyon olmak üzere (
+)
+(
+)
+f +
++
+-
+= -
+ ise (
+)
+f 2 -
+ ifadesinin değerini bulunuzf birim fonksiyon olduğundan (
+)
++
+=
++
+ ve (
+)
+f -
+=
+-
+ olur. Bu ifadeler taraf tarafa toplanırs
+(
+)
+(
+)
+(
+)
+(
+)
+(
+)
+((
+)
+)
+(
+)
+f f a oluf i in olu&
++
+=
++
++
++
+-
+=
++
++
+-
+=
+-
+-
+=
++
+-
+=
+-
+=
+-
+= -
+-
+-
+= -
+-
+=
+Tuğba Hanım’ın cebindeki paraların oluşturduğu küme 1, 5, 10, "
+,  olup fonksiyonun tanım kümesini 
+oluşturur. Tuğba Hanım cebindeki hangi parayı makineye atarsa atsın karşılık olarak makineden aynı 
+parayı almaktadır. Bu durum bir f fonksiyonu ile 
+1, 1 , 5, 5 , 10, 10 , 20, f = ^
+^
+^
+^
+"
+,  şeklinde gösterilebili ve f fonksiyonundaki sıralı ikililerin ikinci bileşenleri görüntü kümesini oluşturur. Buradan bu fonksiyoun görüntü kümesi de 1, 5, 10, "
+,  olur. 
+Buradan her sayı, yine kendisi ile eşlendiğinden  fonksiyon ( )
+f =
+ şeklinde de gösterilebilir ve bu fonksiyo birim fonksiyondur"
+,
+:
+( )
+(
+)
+f =
+-
++
++
+ fonksiyonu birim fonksiyon olduğuna göre m $
+ değerini bulunuzf fonksiyonu birim fonksiyon olduğundan ( )
+f =
+ olmalıdır. Buna göre x in katsayısı 1 e, diğer terimler 0 
+a eşittir( )
+(
+)
+(
+)
+f =
+-
++
++
+=
+-
++
++
+1 2 444 444  
+v-
+=
++
+=
+ olduğundan ve =
+= -  olur. Buradan 
+(
+)
+m m &
+$
+$
+$
+=
+-
+= -  olur"
+:
+R , f birim fonksiyon ve (
+)
+(
+)
+m-
+=
++
++
++
+-
+-
+ olduğuna göre +
++
+ değerini 
+bulunuzf fonksiyonu birim fonksiyon olduğundan (
+)
+-
+=
+-  olur. Burada(
+)
+(
+)
+(
+)
+(
+)
+(
+)
+x -
+=
++
++
+-
+-
++
+-
++
++
+-
+- +
+=
+-
+1 2 444 ;
+=
+&
++
+=
+= -
+&
+=
+=
+-
+&
+- +
+= -
+=
+ olurBuradan 
+(
+)
++
++
+= -
++
++
+=
+ olurBir çocuk oyun merkezindeki jeton makinesi bozulmuştur. İçine atılan 
+paraya eş değer jetonların alt bölmeye düşmesi gerekirken atılan para 
+olduğu gibi alt bölmeye düşmektedir. Cebinde birer adet 1 Türk lirası, 5 
+Türk lirası, 10 Türk lirası ve 20 Türk lirası bulunan Tuğba Hanım, çocukları 
+Utku ve Mert’i bu oyun merkezine götürmüş ve jeton makinesine cebindeki 
+paralardan birini atmıştır. Paranın olduğu gibi alt bölmeye düştüğünü 
+görünce aynı işlemi cebindeki bütün paralarla tekrarlamış ve her defasında 
+attığı paranın olduğu gibi alt bölmeye düştüğünü görmüştür. Buna göre bu 
+bozuk jeton makinesinin yaptığı bu işlemi bir fonksiyonla ifade edip bu 
+fonksiyonun türünü yazınızİpucBilgSabit FonksiyoOrhan Bey’in mağazasında beş çeşit ürün satılmaktadır. Orhan Bey hesapları kontrol ederken mağazadak ürünlerin satışlarının yeterli düzeyde olmadığını görmüştür. Bunun üzerine satışları artırmak amacıyl “Her bir ürün sadece 5 Türk lirası.” sloganlı bir kampanya başlatmış ve mağazadaki her bir ürünü 
+5 Türk lirasına satmaya karar vermiştir. Kampanya sonucu satışların istediği düzeye geldiğini görünce 
+kampanyayı sürekli hâle getirmiştir.  Buna göre Orhan Bey’in yaptığı kampanyadaki satış stratejisini göstere bir fonksiyon yazarak bu fonksiyonun türünü bulunuzOrhan Bey’in mağazasındaki ürün çeşitlerinin kümesi 
+, , , ,
+a b c d = "

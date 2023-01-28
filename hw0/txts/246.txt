@@ -1,0 +1,400 @@
+olarak 
+     ( )
+(
+sif 100 =
+)fonksiyonu ile modellenebilmektedir(t, saniye olarak zamanı göstermektedir.)
+Buna göre bir elektrikli ev aleti çalıştırıldıkta kaç saniye sonra elektrik akımını voltajı ilk kez 220 volt olur?
+)
+)
+)
+)
+)
+!
+,
+k $ = -
++
+,
++
++
+= -
+k $
++
+!
+,
+,
+)
+,
+)
+)
+)
+)
+x x x x x $
+$
+$
+$
+$
+$
+$
+$
+;
+!
+;
+;
+!
+;
+!
+;
+=
++
+= -
++
+=
+=
++
+= -
++
+=
++
+= -
++
+=
+&
+&
+$
+&
+&
+Trigonometrtan a  değeri kaçtır?
+   
+   
+                                        
+tanb değeri kaçtır?
+Karınca m EA=
+-
+^
+%
+ olacak şekilde 
+doğrusal hareket ettiğinde K noktasına 
+gelmektedir. 
+Buna göre  
+K oranı kaçtır?
+Şekildeki kare dik prizmanın taban ayrıtının 
+uzunluğu yüksekliğinin iki katıdırA noktasında bulunan bir karınca ACB yolunu 
+takip ederek B noktasına en kısa yoldan gittiğind hareketine m EA=
+^
+%
+ derecelik açı 
+olacak şekilde başlamaktadırKarınca A noktasından B noktasına ADB yolun kullanarak en kısa yoldan gittiğinde hareketin m EA=
+^
+%
+ derecelik açı olacak şekilde 
+başladığına göre;
+E) 32-34. üst düzey beceri sorularını şekle      
+     ve metne göre cevaplayınızABCD bir dörtgen 
+,
+AD=
+?
+?  
+,
+,
+,
+BAAcAcEcm ve Bc=
+=
+=
+=
+=
+?
+?
+      
+olduğuna göre sin DE^
+%  değeri kaçtır?
+,
+,
+sico67 67 $c 
+ifadesinin değeri kaçtır?
+tan a =
+ 
+olduğuna göre tata2+
+ ifadesinin 
+değeri kaçtır?
+)
+)
+)
+)
+)
+-
+sico$
+=
+ 
+olduğuna göre sico+
+ ifadesinin 
+değeri kaçtır?
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+Matematik DÖNÜŞÜMLE4.1. ANALİTİK DÜZLEMDE 
+ TEMEL DÖNÜŞÜMLEHAZIRLIK ÇALIŞMALARSaatteki akrep ve yelkovanın hareketi, dönme dolabın hareketi, bilardo topunun hareketi 
+arasındaki benzerlik ve farklılıklar nelerdir?
+Ay’ın Dünya etrafındaki ve kendi ekseni etrafındaki hareketi ne tür bir harekettir?
+Analitik düzlemde uç noktalarının koordinatları bilinen bir doğru parçasının orta noktasını koordinatları nasıl bulunur?
+Eğimi ve bir noktası bilinen doğru denklemi nasıl yazılır?
+İki doğrunun kesim noktası nasıl bulunur?
+Bir cismin aynadaki görüntüsü ile cismin kendisi arasında bir fark var mıdır?
+DönüşümleHATIRLATM4.1. ANALİTİK DÜZLEMDE TEMEL DÖNÜŞÜMLE4.1.1. Analitik Düzlemde Koordinatları Verilen Bir Noktanın Öteleme,  
+          Dönme ve Simetri DönüşümlerAnalitik düzlemde temel dönüşümler öteleme, dönme ve simetri dönüşümleridir. Aşağıda 
+analitik düzlemde verilen bir dik üçgenin x eksenine göre öteleme, orijine göre negatif 
+yönde (saatin dönme yönünde) dönme ve y eksenine göre simetri dönüşümleri verilmiştir. 
+ABC üçgeninin x ekseni 
+boyunca pozitif yönde a 
+birim ötelenmesiyle şekildek A B l l l dik üçgeni 
+elde edilirABC üçgeninin orijine göre 
+negatif yönde (saatin dönm yönünde) a  açısı kada dönmesiyle şekildeki 
+A B l l l dik üçgeni elde ediliABC üçgeninin y eksenine 
+göre simetriği alınarak şekildek A B l l l dik üçgeni elde 
+edilirABCABCÖteleme DönüşümDönme DönüşümSimetri DönüşümAnalitik düzlemde verilen bir noktanın belli bir doğrultuda ve belli bir yönde yer değiştirmesin öteleme denir. Koordinat sisteminde x ekseni boyunca ötelenen nokta x eksenine 
+paralel olarak hareket eder. Bu noktanın apsisi değişirken ordinatı değişmez. Koordinat 
+düzleminde y ekseni boyunca ötelenen nokta ise y eksenine paralel olarak hareket eder. Bu 
+durumda noktanın ordinatı değişirken apsisi değişmezAnalitik düzlemde 
+,
+A x ^
+h noktası x ekseni 
+boyunca pozitif yönde (sağa doğru) a birim 
+ötelendiğinde A noktasının apsisi a birim artarke ordinatı değişmez. Böylece 
+,
+A x ^
+h 
+noktasının x ekseni boyunca pozitif yönde 
+a birim ötelenmesiyle 
+,
+a +
+l^
+h noktası 
+elde edilirABCÖteleme Dönüşüm,
+A x ^
+,
+a +
+l^
++
+444444 44444444 a =
+Matematik Analitik düzlemde 
+,
+B x ^
+h noktası x ekseni 
+boyunca negatif yönde (sola doğru) a birim 
+ötelendiğinde B noktasının apsisi a birim azalırke ordinatı değişmez. Böylece 
+,
+B x ^
+h 
+noktasının x ekseni boyunca negatif yönde 
+a birim ötelenmesiyle 
+,
+B a -
+l^
+h noktası 
+elde edilirAnalitik düzlemde 
+,
+C x ^
+h noktası y ekseni 
+boyunca pozitif yönde (yukarı doğru) b birim 
+ötelendiğinde C noktasının ordinatı b birim 
+artarken apsisi değişmez. Böylece 
+,
+C x ^
+h 
+noktasının y ekseni boyunca pozitif yönde 
+b birim ötelenmesiyle 
+,
+C x +
+l^
+h noktası 
+elde edilirAnalitik düzlemde 
+,
+D x ^
+h noktası y ekseni 
+boyunca negatif yönde (aşağı doğru) b birim 
+ötelendiğinde D noktasının ordinatı b birim 
+azalırken apsisi değişmez. Böylece 
+,
+D x ^
+h 
+noktasının y ekseni boyunca negatif yönde 
+b birim ötelenmesiyle 
+,
+D x -
+l^
+h noktası 
+elde edilir,
+x +
+l^
+,
+C x ^
+4444444 +
+4444444 -
+,
+x -
+l^
+,
+D x ^
+Analitik düzlemde 
+,
+A 2 ^
+h noktasının x ekseni boyunca pozitif yönde 2 birim ötelenmesiyle oluşan 
+B noktasının y ekseni boyunca negatif yönde 4 birim ötelenmesi ile C noktası elde ediliyor. Buna 
+göre C noktasının koordinatlarını bulunuzAnalitik düzlemde 
+,
+A 2 ^
+h noktasının x ekseni boyunca pozitif yönde 2 birim ötelenmesi ile oluşan 
+B noktası 
+,
+,
+2 4 +
+=
+^
+^
+h olarak elde edilir. Bu noktanın y ekseni boyunca negatif yönde 4 
+birim ötelenmesi ile elde edilen nokta 
+,
+,
+4 -
+=
+-
+^
+^
+h noktasıdır444444 ,
+a -
+l^
+,
+B x ^
+-
+ÇÖZÜÖRNEDönüşümle-
+-
+Yandaki şekilde, bir A noktasının x ekseni boyunca 
+negatif yönde 6 birim ve y ekseni boyunca pozitif 
+yönde 3 birim ötelenmesiyle oluşan Al noktası 
+verilmiştir. Buna göre A noktasının koordinatlarını 
+bulunuz-
+-
+-
+Yandaki şekilde, analitik düzlemde köşelerinin koordinatlar 
+,
+4 -
+^
+h, 
+,
+5 -
+^
+h ve 
+,
+1 -
+^
+h olan ABC 
+üçgeni verilmiştir. Bu üçgenin x ekseni boyunca poziti yönde 3 birim ve y ekseni boyunca negatif yönd 4 birim ötelenmesi ile oluşan  A B l l l üçgeninin 
+köşelerinin koordinatlarını bulunuz ve analitik düzlemd gösteriniz,
+4 -
+^
+h, 
+,
+5 -
+^
+h ve 
+,
+1 -
+^
+h noktaları x ekseni boyunc pozitif yönde 3 birim ve y ekseni boyunca negatif 
+yönde 4 birim ötelenirs,
+,
+3 1 -
++
+-
+=
+-
+^
+^
+h  
+,
+,
+3 -
++
+-
+=
+-
+-
+^
+^
+,
+,
+3 -
++
+-
+=
+-
+^
+^
+h 
+noktalarına dönüşürler. Bu noktalar ile A B l l l üçgeni 
+analitik düzlemde yandaki şekildeki gibi elde edilirA-
+ABC&
+&
+,
+,
+,
+A x ve ve bulunu2 &
+-
++
+=
+-
+-
+=-
++
+=
+=
+=
+^
+^
+^
+                                                 
+ÇÖZÜÇÖZÜÖRNEÖRNE-
+-
+Matematik f =
++
++
+]  parabolünün x ekseni boyunca pozitif yönde 3 birim ve y ekseni boyunca negati yönde 1 birim ötelenmesi ile oluşan 
+g] g parabolünü bulunuz ve analitik düzlemde gösterinizf ] g parabolü üzerindeki herhangi bir 
+,
+A x ^
+h noktasının ötelenmesi ile 
+g] g parabolü üzerindek 
+,
+B ^
+h noktası elde edilsin. 
+,
+A x ^
+h noktasının x ekseni boyunca pozitif yönde 3 birim ve y ekseni boyunca negatif yönde 1 
+birim ötelenmesi ile oluşan nokta 
+,
++
+-
+l^
+h olur. Buna gör&
+,
+,
+vve olu&
+&
++
+-
++
+-
+=
+=
+=

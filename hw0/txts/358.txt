@@ -1,0 +1,400 @@
+deniz suyundaki oksijen, azot gibi apolar moleküllerle etkileşmesi iyon-indüklenmiş 
+dipol etkileşimdir. Benzer şekilde soy gaz atomlarıyla iyonlar arasındaki etkileşim de 
+iyon-indüklenmiş dipol etkileşimidir. 
+Bağ enerjileri göz önünde bulundurulduğunda Van der Waals etkileşimleri 
+arasında en zayıf olanı London kuvvetleridir. Çünkü apolar molekülleri arasındaki 
+çekim kuvveti polar moleküllere göre daha zayıftır. İyon-dipol etkileşimleri de 
+genellikle dipol-dipol etkileşimlerinden daha kuvvetlidir. 
+Aşağıdaki maddeler suya eklendiklerinde tanecikler arasında 
+hangi etkileşimin gerçekleşeceğini belirtiniza) Hidrojen klorür (HCl)
+b) Lityum Florür (LiF)
+a) Su molekülleri polar yapıdadır. HCl molekülleri de polayapıda olduklarından su molekülleri ile HCl moleküllerarasında dipol-dipol etkileşim görülürb) LiF iyonik bir bileşiktir. Suya eklendiğinde Li + ve F-                 
+iyonlarına ayrılır. Bu nedenle su molekülleri ile lityum ve floiyonları arasında iyon-dipol etkileşimi görülür9. UygulamÇözü2. Hidrojen BağlarF (flor), N (azot) ve O (oksijen)  atomlarının elektronegatiflikleri diğer 
+atomlara göre oldukça yüksektir. Bu nedenle bileşiklerinde kısmî negatif yük 
+(δ-) ile yüklenirler. Bu atomlar hidrojen atomlarıyla bağ yaptıklarında, 
+hidrojen atomu kısmi pozitif yük (δ+) kazanır. Hidrojenin elektronegatiflik 
+değeri çok küçük olduğundan, bu atomlarla hidrojen atomundan oluşan 
+molekülde büyük elektronegatiflik farkı oluşur. Diğer bir ifadeyle bu tür 
+moleküllerin dipollüğü diğer moleküllere göre oldukça fazladır. 
+1.Ünite Kimyasal Türler Arası EtkileşimleHidrojen bağı F, O, N atomlarına bağlanan hidrojen atomlarının komşu 
+moleküldeki bağa katılmayan ortaklanmamış elektron çiftlerine uyguladığı 
+çekim kuvvetidir. Hidrojen bağları su molekülleri gibi aynı tanecikler arasında 
+da olabilir. Etil alkol ile su gibi farklı tanecikler arasında da oluşabilir. Hidrojen 
+bağının oluşması için biri hidrojen atomu, diğeri F, O, N atomlarından en az 
+birinin bulunması gerekmektedir. 
+Hidrojen bağı Van der Waals kuvvetlerinden daha güçlü bir etkileşimdir 
+ancak güçlü etkileşim olan kovalent bağ, iyonik bağ ve metalik bağdan daha 
+zayıftır. Buna bağlı olarak hidrojen bağı yapan bileşiklerin kaynama noktaları,  
+Van der Waals etkileşimleri yapan kimyasal türlerden daha yüksektirHidrojen bağ-----------
+δ+
+δ+
+δ+
+δ-
+δ+
+δ-
+--Kaynama noktası (0C)
+PeriyoH2VIA GrubH2HCPHSiHH2SH2TSbHHSnHAsHHBGeHHVIIA GrubNHVA GrubCHIVA GrubMoleküller arası etkileşim ne kadar güçlü olursa oluşan bağı kırmak o kadar 
+zorlaşır. H2O, HF, NH3 molekülleri kendi aralarında hidrojen bağı yaptıkları için 
+bu bileşiklerin kaynama noktaları, Van der Waals bağı yapan diğer bileşiklere 
+göre daha yüksektir (Grafik 1.1). 
+Grafik 1.1  Hidrojen bağı yapan bileşiklerin kaynama noktalarKimya Hidrojen bağı canlılar için çok büyük öneme sahiptir. Örneğin hem DNA zincirini 
+oluşturan moleküller arasında hem de DNA zincirleri arasında hidrojen bağı 
+bulunmaktadır. Bilim insanlarımızdan Prof. Dr. Aziz Sancar da DNA ile ilgili yaptığı 
+çalışmalarla ülkemize nobel ödülünü kazandırmıştırHF molekülündeki ve HF molekülleri arasındaki etkileşim 
+türünü belirtinizHF molekülleri arasında hidrojen bağı; hidrojen–flor atomları 
+arasında polar kovalent bağ bulunur10. UygulamÇözüδ+
+δPolar Kovalent BaHidrojen BağHidrojen Bağδ+
+δ-
+δ+
+δ-
+δ+
+δ-
+Prof. Dr. Aziz SancaABD'deki Kuzey Carolina Üniversitesi Biyokimya ve 
+Biyofizik Bölümü öğretim üyesi olan Prof. Dr. Aziz Sancar, 
+1946'da Mardin'in Savur ilçesinde, orta gelirli çiftçi bir ailenin 
+sekiz çocuğundan yedincisi olarak dünyaya geldi. İlkokul, 
+ortaokul ve lise eğitimini Mardin'de tamamladı. 
+1963 yılında girdiği İstanbul Üniversitesi Tıp Fakültesi'nden birincilikle mezun oldu. İki yıl 
+Savur'da bir sağlık ocağında hekimlik yaptıktan sonra NATO-TÜBİTAK bursu ile önce Johns 
+Hopkins Üniversitesi, ardından Dallas Teksas Üniversitesi'ne gitti. Ultraviyole ışınları nedeniyle 
+harap olan DNA’nın onarımı ile ilgili çalışmaları Sancar’ın önce yüksek lisans, ardından doktora 
+derecesi (1977) almasını sağladı Sancar, 1977-1982 yılları arasında Yale Üniversitesi Tıp Fakültesi'nde çalıştı. 2001 yılında 
+Amerikan Kimya Cemiyeti tarafından verilen Kuzey Carolina Seçkin Kimyager Ödülü'nü 
+almaya hak kazandı. 2005 yılında bilim dünyasının en prestijli üyelikleri arasında yer alan ABD 
+Ulusal Bilimler Akademisi’ne seçilerek bu akademiye seçilen ilk Amerikalı Türk oldu. Bu ödülü 
+aldıktan sonra, ABD'de okuyan Türk öğrencilere yardım etmek ve Türk-Amerikan ilişkilerini 
+geliştirmek amacıyla eşiyle birlikte Aziz & Gwen Sancar Vakfı'nı kurdu. 
+OKUMA PARÇAS-----------
+-----------
+1.Ünite Kimyasal Türler Arası EtkileşimleABD'nin Kuzey Carolina eyaletindeki bu vakıfla "Carolina T ü r k Evi" isimli bir öğrenci 
+misafirhanesi açtı. 2006 yılında Türkiye Bilimler Akademisi’ne asli üye olarak seçildi. DNA 
+onarımı, hücre dizilimi, kanser tedavisi ve biyolojik saat üzerinde çalışmalarını sürdüren Sancar, 
+415 bilimsel makale ve 33 kitap yayınladı. DNA onarımı ile ilgili yaptığı çalışmalardan dolayı 
+Sancar’a, İsveç Kraliyet Bilimler Akademisi tarafından Nobel Kimya Ödülü, Alfred Nobel’in 
+ölüm yıldönümü olan 10 Aralık'ta düzenlenen törende verildi. Aziz Sancar “Beni ödüle götüren 
+Atatürk’ün ve Türkiye Cumhuriyeti’nin yaptığı eğitim devrimidir. Dolayısıyla bu ödülün sahibi 
+Atatürk ve Türkiye Cumhuriyeti’ni temsil eden Anıtkabir Müzesidir” diyerek Nobel Ödülü ile 
+madalya ve sertifikasını Anıtkabir’e teslim etmiştirDNA ve KanseDNA yapımız, moleküler onarım mekanizması sayesinde yıllarca yapısı bozulmadan 
+kendini korumayı başarır. Bu mekanizmada görevli enzimler sürekli olarak DNA yapısını  
+herhangi bir hasara karşı korumakla görevlidir. Hücrelerimizin görevlerini, büyüme ve 
+bölünmelerini kontrol eden DNA da oluşacak olan hasarlar onarılmadığında, kanserli hücreler 
+ve dokular gelişir. Günümüzde yaşam koşulları (UV ışınları, hava kirliliği, sigara, kimyasal 
+maddelerle yüklü gıdalar, zihinsel ve duygusal anlamda yaşananların yarattığı stres gibi) DNA 
+üzerinde daha çok hasara neden olmaktadır. Doğal olarak onarımda görevli enzimler bu hasarı 
+telafi edememektedirProf. Dr. Aziz Sancar bu enzimlerin DNA’yı nasıl onardığına ilişkin yaptığı  çalışmalarında; 
+enzimlerin DNA zincirindeki hasarlı nükleotidleri kesip-çıkarmasını ve çıkarılan hasarlı 
+nükleotidin onarım mekanizmalarını tanımlamıştır. DNA zincirinde binlerce hidrojen bağı 
+vardır. Hasarlı nükleotidlerin kesilip çıkarılması ve tekrar çıkarılan yerin doldurulması 
+sırasında birçok hidrojen bağı enzimler sayesinde kopar ve yeniden oluşturulur. DNA onarım 
+mekanizmaları alanındaki bu buluşu,  kanserin patolojisinin daha iyi anlaşılmasını ve yeni 
+tedaviler geliştirilmesini sağlayacaktırProf. Dr. Aziz Sancar “Çoğu insan zekaya inanır, ben inanmıyorum, bizi birbirimizden 
+ayıran emektir, ben çalışmaya inanıyorum.” diyerek başarısını sabırlı, azimli ve kararlı olmasına 
+bağlamaktadır. Prof. Dr. Aziz Sancar’ın Nobel ödülü kazandıran çalışmaları hakkındaki 
+sözlerinin bir kısmı:
+ “İki önemli kanser yapan etkenlerden biri güneş ışığı, deri kanseri yapıyor ki çok önemli 
+değildir. Deri kanserinin tedavisi var. En tehlikeli olan akciğer kanseri.  Sigaranın içindeki 
+kimyasal maddeler DNA'yı tahrip ediyor. Bu da kanser yapıyor. Benim çalıştığım DNA onarım 
+mekanizması, sigara dumanının yaptığı tahribatı tamir ediyor. Tamir ediyor da; durmadan 
+sigara içerse buna DNA onarım mekanizması yetişemiyor. Dolayısı ile kanser oluşuyor. Benim 
+DNA onarımını arttırıp, bunu daha etkin yapacak durumum yok. O bakımdan kanseri önlemek 
+için en iyisi sigara içmemek. Herkes tedavi et diyor ama sigara içmezsen zaten öldürücü kanserin 
+yüzde otuzu kaybolur.” 
+Yazar tarafından düzenlenmiştirKimya 1.5. FİZİKSEL VE KİMYASAL DEĞİŞİMLER 
+Yaşantımızın birçok anında örneğin çamaşırların kuruması, yağmurun 
+yağması, camın kırılması, şekerin suda çözünmesi, yemeğin ekşimesi, doğal 
+gazın ve odunun yanması, bahçe demirlerinin paslanması, pilden elektrik 
+üretilmesi, sütten yoğurt elde edilmesi vb. fiziksel ve kimyasal değişimlere 
+tanık oluyoruz. Bu olaylar kimyasal türler arasındaki bağların kopup yeni 
+bağların oluşması esasına dayanmaktadır. Kimyasal ve fiziksel değişimleri 
+tanecik boyutunda ayırt edebilmek için önce bu değişimlerin neler olduğunu 
+hatırlayalım:
+FİZİKSEL DEĞİŞİFen Bilimleri dersinden de bildiğiniz gibi maddelerin kimliğinde, kimyasal 
+yapısında bir değişiklik olmadan sadece fiziksel özelliklerinde meydana gelen 
+değişimler fiziksel değişimlerdir. Maddenin şeklini, kütlesini, fiziksel hâlini, 
+akışkanlığını, sertliğini vb. bunlara bağlı olarak da görünüşünü değiştiren 
+özellikler fiziksel özelliklerdir. Buzun erimesi, suyun buharlaşması gibi hâl 
+değişimleri; camın kırılması, kağıdın yırtılması gibi olaylar; şekerin, tuzun 
+suda çözünmesi vb. fiziksel değişimlere örnektir. 
+Fiziksel değişimler sonucunda maddeyi oluşturan kimyasal türlerin yapısı 
+değişmez. Bu nedenle yeni bir madde oluşmazKİMYASAL DEĞİŞİMaddelerin kimliğinde, yapısında meydana gelen değişimler kimyasal 
+değişimlerdir. Kimyasal değişimler sırasında maddeyi oluşturan kimyasal 
+türlerin yapısı değiştiğinden yeni maddeler oluşur. Yemeğin pişmesi, şekerin 
+karamelize olması, yanma, paslanma, ekşime olayları vb. kimyasal değişimlerdirGörsel 1.14 Fiziksel değişim olan erime ve kırılma olayları 
+1.Ünite Kimyasal Türler Arası EtkileşimleFiziksel ve kimyasal değişimler tanecik boyutunda kimyasal türler 
+arasındaki etkileşimlerin kopması veya oluşması esasına dayanır. Bu 
+etkileşimlerin kopması veya oluşması sırasında maddenin kaybettiği ya da 
+kazandığı enerji aynı zamanda bize etkileşimin zayıf mı yoksa güçlü mü 
+olduğunu gösterir. 
+BAĞ ENERJİLERİNE GÖRE FİZİKSEL VE 
+ KİMYASAL DEĞİŞİMLESıvı hâldeki suyun buharlaşması fiziksel bir değişimdir ve bunun için ısıya 
+ihtiyaç vardır.  Su tanecikleri arasındaki zayıf etkileşimlerin kopup suyun gaz 
+hâle geçmesi için bağa verilmesi gereken enerji 40,7 kj/mol’dür. 
+H2O(s)   
++  
+40,7 kJ/mol 
+H2O(g)    
+Gaz hâle geçen suyun tekrar sıvı hâle geçebilmesi için aldığı ısı enerjisini 
+aynı miktarda geri vermesi gerekir.  Bu nedenle gaz hâldeki su, sıvı hâle 
+geçerken tanecikleri arasında zayıf etkileşimler oluşur ve bu esnada 40,7 kj/mol 
+ısı açığa çıkar.                             
+H2O(g) 
+H2O(s)  
++
+40,7 kJ/moYemek tuzunun (NaCl) oluşması sırasında sodyum ve klor iyonları arasında 
+oluşan güçlü etkileşimde ise 787 kj/mol enerji açığa çıkar. Yemek tuzunun 
+oluşması kimyasal bir değişimdirNa(g)
++  
++   
+Cl(g)
+–  
+NaCl(k)  
++
+787 kJ/mo Görsel 1.15  Yanma, yemeğin pişmesi kimyasal değişimlerdirKimya Oluşan sodyum klorür katısını tekrar kendini oluşturan iyonlara 
+dönüştürmek istediğimizde aynı miktar enerjiyi geri vermemiz gerekir. Bu 
+enerji sodyum ve klor iyonları arasında oluşan bağları kırmak için kullanılır. 
+NaCl(k)   +  
+787 kJ/mol    
+   Na(g)
++     +    Cl(g)
+–  
+Benzer şekilde, hidrojen ve oksijen elementlerinden su elde edildiğinde 242 
+kj/mol ısı açığa çıkar.  Suyun oluşumu da kimyasal bir değişimdir.                         
+H2(g) 
++
+1/2 O2 (g)
+H2O(g)    +    242 kj/mol      
+Yukarıdaki tepkimeler ve bağ enerji miktarları karşılaştırıldığında, fiziksel 
+değişimlerde oluşan ve kopan bağ enerji miktarlarının küçük olduğu, kimyasal 
+değişimlerde oluşan ve kopan bağ enerji miktarlarının büyük olduğu sonucuna 
+varabiliriz.    
+Maddeyi oluşturan temel kimyasal türler:
+• Atomla• Molekülle• İyonlardırKimyasal türleri bir arada tutan etkileşimler ikiye ayrılır1) Güçlü etkileşimler:
+•
+İyonik ba•
+Kovalent bağ (apolar kovalent ve polar kovalent bağ)
+•
+Metalik ba2) Zayıf etkileşimler:
+• Van der W     aals kuvvetleri (di   pol - dipol, iyon - dipol, London kuvvetleri, dipolindüklenmi dipol ve iyon-indüklenmiş dipol)
+• Hidrojen bağKimyasal türler arasında meydana gelen etkileşimlerin zayıf mı yoksa kuvvetli mi 
+olduğunu bağ enerjisi miktarına göre ayırt edebiliriz. Benzer şekilde, maddelerin 
+yapısında meydana gelen değişimlerin fiziksel mi yoksa kimyasal mı olduğunu anlamak 
+için de bağ enerjisi miktarlarından yararlanabiliriz. 
+ÖZE1.Ünite Kimyasal Türler Arası EtkileşimleA. Aşağıda verilen soruları cevaplandırınız1. Kimyasal tür nedir? Tanımlayınız 
+ 
+ 
+ 
+2. Kimyasal türler arası etkileşimleri sınıflandırınız 
+ 
+ 
+ 
+3. Aşağıdaki kovalent bileşikleri adlandırınızA) PCl3: B) N2O: 4. Aşağıdaki iyonik bileşikleri adlandırınızA) FeO  :   B) AlCl3 :   C) NaCN :  D) NH4Cl :  5. Aşağıdaki taneciklerin Lewis elektron nokta formüllerini çizinizA) 4Be    
+ 
+ 
+ 
+B) 15P C)  16S2-     
+D) 20Ca 2+  
+6. Fiziksel ve kimyasal değişimlere günlük hayattan üçer örnek yazınız 
+ 
+ 
+ 
+1. ÜNİTE ÖLÇME VE DEĞERLENDİRME SORULARKimya B. Aşağıda verilen çoktan seçmeli soruları cevaplayınız1. Aşağıdakilerden hangisi iyonik bileşik değildir?
+A) MgCI2 
+B) NaC) N2D) AlF2. Aşağıdakilerden hangisi diğerlerinden farklı bir kimyasal türdür?
+A) H2B) NHC) NaCD) O3. I.    Dipol-dipoII. Kovalent baIII. Hidrojen bağYukarıdaki etkileşim türlerinden hangileri zayıf etkileşim değildir?
+A) Yalnız B) Yalnız IC) I ve IID) II ve II4. Kimyasal etkileşimlerle ilgili;
+I. İyonik bağlar elektron ortaklığı ile oluşurII. Kovalent bağlar zıt yüklü iyonlar arasındaki elektrostatik çekim kuvvetiyloluşurIII. Metalik bağ güçlü bir etkileşim türüdüryargılarından hangileri doğrudur?
+A) Yalnız B) Yalnız IIC) I ve IID) I, II ve II5. Aşağıdaki moleküllerden hangisi hidrojen bağı oluşturamaz?
+A) HCB) HD) H2E) NHA) I ve I6. H2S molekülü için aşağıdakilerden hangileri doğrudur? ( 16S  ile 1H)
+I.      Molekül polar yapıdadırIIHidrojen ve kükürt atomları arasındaki bağ apolar kovalenttirIIIMoleküller arasında dipol-dipol etkileşim bulunurC) II ve IID) I, II ve IIB) I ve II1.Ünite Kimyasal Türler Arası Etkileşimle7. Aşağıda verilen element atomlarının hangisinin Lewis sembolü yanlıştır?
+(3Li, 6C, 8O, 11Na)
+A)
+ 
+B)
+      
+D)
+      
+E)
+8. Aşağıda verilen kovalent bağlı bileşiklerden hangisi yanlış adlandırılmıştır?
+A) PCl3:  Fosfor triflorüB) SO2: Kükürt dioksiC) N2O4: Diazot tetraoksiD) CO: Karbon monoksi9. Aşağıdaki kimyasal türlerden hangisi moleküldür?
+A) LiCB) FC) COD) AlF10.  
+ 
+I.  
+II 
+IIIYukarıda Lewis formülleri verilen türlerden hangilerinde apolar 
+kovalent bağ bulunur?
+A) I ve IB) I ve IIC) II ve IID) I, II ve II11. Aşağıda verilen etkileşimlerden hangisi London kuvveti değildir?
+A) H2  …….. HB) He…….HC) CH4 ……..CHD) HI …….H12. Aşağıdakilerden hangisi kimyasal değişim tepkimesidir?
+A) H2O (s)   +  40,7 kj/moB) C2H5OH (s)     +   38,6 kj/moC) MgO (k)    +    3850 kj/moD) CH4 (s)      +   8,1 kj/moH2O (g)
+C2H5OH (g) 
+Mg 2+  (g)   +     O2- (g) 
+CH4 (g)
+LN[-
+Na+ [   Cl 
+2. 1.  MADDENIN FIZIKSEL HÂLLER2. 2.  KATILA2. 3.  SIVILA2. 4.  GAZLA2. 5.  PLAZMMADDENİN 
+HÂLLER2. 
+ÜNİTNELER ÖĞRENECEKSİNİZ?
+Bu üniteyi tamamladıktan sonra; 
+• Maddelerin katı, sıvı, gaz ve plazma olmak üzere dört fiziksel hâldbulunduğunu,
+• Maddelerin bir hâlden başka bir fiziksel hâle dönüşebildiğini,
+• Her bir fiziksel hâlin özelliklerini  makroskobik ve moleküler düzeydöğreneceksinizANAHTAR KAVRAMLAgenleşme, 
+erime, 
+donma, 
+süblimleşme, 
+akışkanlık, 
+viskozite, buharlaşma, plazma, yoğuşma, nem, bağıl nem, 
+buhar basıncı, kaynama, basınç, hacim, mutlak sıcaklık, 
+mol, Avogadro sayısı, kırağılaşma (geri süblimleşme)
+Kimya 2.1. MADDENİN FİZİKSEL HÂLLEREtrafımıza baktığımızda canlı veya cansız, saf veya 
+karışım, gördüğümüz her şey maddedir.  Maddeler 
+sıcaklık ve basınç gibi fiziksel koşullara bağlı olarak katı, 
+sıvı, gaz ve plazma olmak üzere farklı fiziksel hâllerde 
+bulunmaktadır. Örneğin tencere katı, su sıvı, su buharı 
+ise gaz hâldedir. Güneş, magma, yanardağdan fışkıran 
+lavlar ise plazma hâldedir. 
+Madde katı hâldeyken tanecikler bulundukları 
+konumu değiştirmezler, oldukları yerde titreşim hareketi 
+yaparlar.  Sıvı hâlde ise tanecikler birbiri etrafında 
+dönerler. Gaz hâlde de tanecikler birbirinden bağımsız 
+hareket ederler (Görsel 2.2)Maddeler her zaman bulundukları hâlde kalmazlar. Sıcaklık ve basınç gibi 
+koşullar değiştiğinde maddelerin fiziksel hâli de değişebilir. Örneğin su; sıvı 
+hâlden katı veya gaz hâle, gaz hâlden sıvı hâle vb. geçiş yaparak her üç hâlde 
+de etrafımızda bolca bulunmaktadır. Kar, dolu, buz, suyun katı hâlini, yağmur; 
+sıvı hâlini, su buharı ise suyun gaz hâlini oluşturmaktadır. Maddeler hâl 
+değiştirdiklerinde sadece tanecikleri arasındaki mesafe değişir.  Maddelerin 
+kimyasal yapısı değişmez. 
+Maddelerin farklı hâllerde olması canlılar ve 
+çevre için çok büyük önem taşımaktadır. Örneğin, 
+sıvı hâldeki suyun yaşamsal faaliyetler için gerekli 
+olduğunu biliyoruz. Suyun katı hâli olan buz da 
+birçok canlı türünün hayatta kalmasını sağlar. 
+Görsel 2.1 Farklı hâllerde 
+bulunan maddeleGörsel 2.3 Buz tabakası 
+Görsel 2.2 Katı, sıvı ve gaz hâldeki maddelerin tanecik modelKatSıvGaKATSIVGA2.Ünite Maddenin HâllerÇünkü deniz ve göllerin üstünde oluşan buz kütleleri ısı yalıtımı sağlayarak 
+içinde yaşayan bitki ve hayvanların donmasını önler. Benzer şekilde toprağın 
+üstündeki kar tabakası da toprağın ılık ve nemli kalmasını sağlar.  
+Suyun gaz hâli de diğer gazlarla birlikte atmosferde bariyer oluşturarak 
+dünyanın aşırı ısınmasını ve aşırı soğumasını engeller. Bunun yanı sıra iklimin 
+ve hava sıcaklığının nasıl olacağı da atmosferdeki su buharına bağlıdırMaddelerin hâl değiştirebilmesi ve dolayısıyla farklı hâllerde 
+bulunabilme özelliği günlük hayatta birçok kullanım alanı 
+bulmuştur.  Örneğin mutfaklarda ve otomobillerde yakıt olarak 
+kullanılan LPG (sıvılaştırılmış petrol gazı) oda sıcaklığında gaz 
+hâlde olmasına rağmen evlerimize, otomobillerimize ulaştırılırken 
+sıvılaştırılmış hâlde taşınır. Çünkü gaz hâldeki maddeler çok 
+yer kaplar ve sıvılaştırıldıklarında çok daha küçük hacme sığar. 
+LPG, petrolün damıtılması sonucu elde edilen propan ve bütan 
+gazlarından oluşan bir karışımdır. Bu gaz karışımı yüksek basınçta 
+sıvılaştırılarak tüplere doldurulur (Görsel 2.4). 
+Evlerde, işyerlerinde ısıtma amaçlı kullanılan 
+doğal gaz da oda sıcaklığında gaz hâlde iken, bir 
+ülkeden başka bir ülkeye gemilerle taşınırken 
+tankerlere sıvılaştırılıp doldurulur (Görsel 2.5). 
+Tankerlerdeki sıvılaştırılmış doğal gaz (LNG), 
+doğalgaz boru hatlarına gaz hâlinde verilir; ev ve 
+işyerlerine de gaz hâlde ulaşır. Doğal gaz petrolün 
+damıtılması sonucu elde edilen metan gazından 
+oluşmaktadırHâl değiştirme özelliğinden yararlanılan bir diğer 
+madde de deodorantlardaki itici gazlardır. İtici gazlar 
+oda sıcaklığında gaz hâlde olup deodorant kutularına 
+pompalandıklarında sıkışarak sıvı hâle gelirler. Sıvı 
+hâldeki itici gaz ve deodorantın yapısını oluşturan sıvı, 
+kutunun içinde karışım olarak bulunur. Deodorant 
+kapağındaki düğmeye basıldığında vana açılır. Kutuda 
+sıvı hâlde bulunan itici gaz ile deodorant sıvısı vanadaki 
+küçük delikten birlikte dışarı kaçar. İtici gaz dışarı çıkar 
+çıkmaz gaz hâle geçerek havaya karışırken, deodorant 
+sıvısı da vücudumuza ulaşmış olur. İtici gaz olmasaydı 
+vana açıldığında deodorant sıvısı delikten akardı ancak 
+itici gazın ittirmesi sayesinde deodorant sıvısı havada 
+sprey hâlinde yayılır. 
+Görsel 2.6 Deodorantlardaki 
+itici gaGörsel 2.5  LNG tankı 
+Görsel 2.4 LPG tüpKimya Buzdolabı, klima vb. soğutucularda da maddenin farklı hâllere 
+dönüşebilmesinden yararlanılır. Oda sıcaklığında gaz hâlde 
+bulunan tetrafloretan gibi maddeler buzdolabının dışındaki 
+borularda sıkışarak sıvı hâle geçer. Sıvı hâle geçerken verilen ısı 
+odaya yayılır. Bu madde, dolabın içindeki borulara ulaştığında ise 
+genleşerek gaz hâle geçer. Gaz hâle geçmek yani buharlaşmak için 
+gerekli ısıyı da dolaptaki gıdalardan alır. Gıdalar ısı verdiklerinden 
+soğurAzot ve oksijen gazları da günlük hayatta birçok alanda hâl 
+değiştirme özelliğinden yararlanılan gazlardandır. Bilindiği gibi 
+azot ve oksijen gazları havanın yapısında bulunur. Bu gazlar 
+havadan elde edilirken kaynama sıcaklıklarının farklı olmasından 
+yararlanılır. Hava önce sıvı hâle gelinceye kadar soğutulur, 
+ardından sıvı hava ısıtılır. Farklı sıvılar farklı sıcaklıklarda 
+kaynamaya başlayacağından, sıvılar sırayla gaz hâle geçer. Gaz 
+hâle geçen maddeler de sırayla ayrı kaplarda toplanır. Böylece 
+oksijen ve azot gazları havadan ayrılmış olur (Görsel 2.8). 
+Havadan elde edilen oksijen gazını, dalgıçlar denizin dibine dalış 
+yaptıklarından solunum için kullanılmaktadırlar. Ayrıca hastanelerde de 
+solunum için oksijen tüpleri bulunmaktadır. Havadan elde edilen azot ise 
+soğutucu olarak kullanılmaktadır. Azot gazı sıvılaştırıldığında sıcaklığı çok 
+düşüktür, bu nedenle soğutulmak istenen madde sıvı azotla çok kısa sürede 
+soğutulabilirMaddelerin çevremizde farklı hâllerde bulunduğundan, bulundukları hâlden 
+başka hâllere dönüşebildiğinden ve bunun canlılık ve çevre için öneminden 
+bahsettik. Sonraki bölümlerde maddelerin farklı hâllerde olmasını sağlayan 
+sebepler ve her bir hâlin sahip olduğu özellikler üzerinde durulacak ayrıca katı, 
+sıvı ve gaz hâlin hangi yönleriyle birbirinden ayrıldığından bahsedilecektirGörsel 2.7 
+Buzdolabının yapısGörsel 2.8 Havadan oksijen ve azot eldesHavHava sıkıştırılırSıkıştırılan hava 
+soğutularak sıvı 
+hâle getirilirSıvı hava 
+ısıtılır-190 0C' tazot gazı elde 
+edilir-183 0C' toksijen gazelde edilir2.Ünite Maddenin Hâller2.2. KATILAMaddelere makroskobik boyutta bakıldığında hangi fiziksel hâlde olduğuna 
+karar verilebilir.  Maddenin hangi fiziksel hâlde olduğunu o maddeyi 
+oluşturan tanecikler arasındaki etkileşimin gücü belirler. Tanecikler arasındaki 
+etkileşimin gücüne göre de maddenin sabit bir şekil ve hacminin olup olmadığı, 
+akıp akmayacağı gibi makroskobik özellikler ortaya çıkarBilindiği gibi maddeler katı hâldeyken belirli bir şekli ve hacmi vardır. Ayrıca 
+sıkıştırılmaları oldukça zordur ve akışkan değildirler. Katı maddenin sahip 
+olduğu bu özellikler maddeyi oluşturan tanecikler arasındaki etkileşimlerle 
+ilgilidirBir önceki ünitede de belirtildiği gibi maddeyi oluşturan tanecikler 
+birbirlerine çekim kuvveti uygular. Mıknatısın yakınındaki maddeyi daha 
+güçlü çekmesi gibi tanecikler birbirine ne kadar yakınsa aralarındaki çekim 
+kuvveti de o kadar fazladır.  Çekim gücünden dolayı katı maddelerde tanecikler 
+birbirine çok yakın konumda bulunur. Tanecikler arasındaki boşluklar da çok 
+azdır. Dolayısıyla aralarındaki etkileşim de diğer hâllere göre en fazladır. Bu 
+nedenle maddeler katı hâldeyken sıkıştırılamazlar (Görsel 2.9). 
+Katı maddede tanecikler arasındaki etkileşim fazla olduğundan 
+tanecikler birbirlerinin etkisinden kurtulup bulundukları konumu 
+değiştiremezler ancak oldukları yerde titreşim hareketi yaparlar 
+(Görsel 2.10). Taneciklerin bulundukları konumu değiştirememesi 
+maddenin belirli bir hacminin ve şeklinin olmasını sağlar. Bu özellik 
+ayrıca katıların neden akışkan olmadığını da açıklar. 
+Bir önceki paragrafta bahsedildiği gibi katı maddede taneciklerin belirli 
+bir konumu vardır. Ancak bazı katılarda tanecikler belirli bir düzene göre 
+diziliyken, bazılarında gelişigüzel konumlanmışlardır. Bu durum tanecikler 
+arasındaki etkileşimin türüyle ilgilidir. Taneciklerinin belirli bir dizilişi olan 
+katılara kristal katı, tanecikleri gelişigüzel dizilen katılara ise amorf katı denir 
+(Görsel 2.11). Un, nişasta, tereyağı, cam, mum, plastik vb. katılar amorf katılara 
+örnektir. Metaller, tuzlar, mineraller ise kristal yapılı katılardır. 
+Görsel 2.10 Katı maddede 
+taneciklerin titreşim 
+hareket Görsel 2.9 Katı madde ve tanecik modelKimya Katı TürlerKristal Katİyonik KatAmorf KatMetalik KatMoleküler KatKovalent KatİYONİK KATILATanecikleri arasında iyonik bağ bulunan katı maddelere iyonik katı denir. 
+Bilindiği gibi iyonik bağ zıt yüklü iyonlar arasındaki çekim kuvvetidir. Tuzlar 
+(CaCO3, ZnS, MgF2, vb) iyonik katı sınıfındadır. İyonik katılarda tanecikler (+) 
+yüklü iyonun etrafına (-) yüklü iyonlar, (-) yüklü iyonun etrafına da (+) yüklü 
+iyonlar gelecek şekilde istiflenmişlerdir. Örneğin, sofra tuzu olarak bilinen 
+sodyum klorür (NaCl) iyonik bir katıdır ve her sodyum iyonunun etrafında 
+klor iyonları, her klor iyonunun etrafında da sodyum iyonları bulunmaktadır 
+(Görsel 2.12)Kristal katılar tanecikler arasındaki etkileşimin türüne gö       e iyonik, 
+metalik, moleküler ve kovalent katı olmak üzere dört sınıfa ayrılırGörsel 2.11 Kristal ve amorf katı tanecik modelKristaAmor2.Ünite Maddenin HâllerGörsel 2.12 İyonik katı tanecik modelYemek tuzu (Sodyum klorür)
+Tanecik modelGörsel 2.13 Metalik katı tanecik modelAltıTanecik modelİyonik bağ güçlü bir etkileşim türü olduğundan iyonik katılar genellikle sert 
+ve sağlam yapıdadırlar. Erime noktaları da oldukça yüksektir. 
+METALİK KATILABilindiği gibi metaller atomik yapıdadır ve metal atomlarını bir arada 
+tutan kuvvet metalik bağdır. Bu nedenle metaller katı hâldeyken metalik katı 
+sınıfındadır. Demir, gümüş, çinko, altın vb. metaller metalik katıya örnektir 
+(Görsel 2.13). Metallerde atomlar bir düzen içinde üst üste ve yan yana olacak 
+şekilde dizilidirler. Metalik bağ güçlü bir etkileşim türü olduğundan metalik 
+katılar da genellikle sağlam ve sert yapıdadırMOLEKÜLER KATILAMolekülerden oluşan katı maddelere moleküler katı denir. Molekülü 
+oluşturan atomlar arasında güçlü etkileşim türü olan kovalent bağ bulunurken 
+moleküller arasında zayıf etkileşim bulunur. Bu nedenle moleküler katıyı 
+oluşturan tanecikleri bir arada tutan kuvvetler zayıf etkileşim türü olan 
+hidrojen bağı veya Van der Waals etkileşimleridir. Örneğin su, moleküllerden 
+oluşmaktadır ve su molekülleri arasında hidrojen bağı bulunmaktadır. Bu 
+nedenle suyun katı hâli olan buz moleküler bir katıdır. Benzer şekilde iyot da 
+moleküllerden oluşmaktadır ve molekülleri arasında Van der Waals 
+etkileşimin bir türü olan London kuvvetleri bulunmaktadır. Bu durumda iyot, 
+moleküler bir katıdır (Görsel 2.14). 
+Na+
+Cl+
+AKimya Moleküller arasındaki etkileşimler zayıf etkileşim olduğundan moleküler katılar diğer 
+kristal katılara göre daha yumuşak ve kırılgandırKOVALENT KATILATanecikleri arasında kovalent bağ bulunan katılara kovalent katı denir. Kovalent bağ 
+sonucu, moleküler katıda olduğu gibi küçük, bağımsız birimler değil, atomların birbirine 

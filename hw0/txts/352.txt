@@ -1,0 +1,400 @@
+Bazı sürücüler ne yazık ki ambulans sesini 
+önemsemeyerek ambulanslara yol vermiyor ya da kulaklıkl herhangi bir cihazdan şarkı dinlediği için ambulansı sesini duymayıp bazı hastaların durumunun daha 
+da kritik hâle gelmesine neden olabiliyor 
+Bunun önüne geçmek isteyen İsveç’teki Kraliyet 
+Teknoloji Enstitüsü öğrencileri, geliştirdikleri “ENVA” 
+isimli sistemle ambulansların araçlardaki radyo frekansların sızmasını ve böylelikle her şekilde ambulansın 
+sesini çevredeki kişilere ve araçlara duyurabilmeyi amaçlıyo. Bu sistem, evrensel kablosuz veri iletim sisteminden 
+(bluetooth) radyo sinyallerine kadar pek çok alana müdahal edebiliyorİlgilenelim BilgileneliTRAFİK KÜLTÜR2. ÜNİT• Aşağıdaki şekilde yer alan ilk ifadeden başlayarak yargıları sıra ile okuyunuz. Okuduğunuz yargılar 
+doğru ise D, yanlış ise Y yönünde ilerleyiniz ve doğru rakama ulaşmaya çalışınız• Aşağıdaki resimde gördüğünüz araçları, geçme sırasındaki önceliklerine göre sıralayınız1. 2. 3. 4. 1. Trafikte geçiş üstünlüğü neyi ifade eder? Açıklayınız2. Geçiş üstünlüğüne sahip araçlara nasıl yol verilir? 
+Sıra SizdÖĞRENDİKLERİMİZİ DEĞERLENDİRELİ2. ÜNİTE TRAFİK KÜLTÜR2.3. TRAFİK GÜVENLİĞ2.3.1. TRAFİK EĞİTİMNeler Biliyoruz?
+1. Trafik eğitimi neden önemlidir? Araştırınız2. Bildiğiniz sürücü belgesi sınıflarını arkadaşlarınızla paylaşınız3. Sürücü adaylarında aranan şartlar hakkındaki fikirlerinizi arkadaşlarınız anlatınızÖğreneceklerimi1. Trafik eğitiminin önemTRAFİK KÜLTÜR2. ÜNİT2.3.1.1. Trafik Eğitiminin Önem 
+Son yıllarda yaşanan hızlı gelişim ve değişim ile beraber ülkemizd ve dünyada araç sayılarında ve sürücü sayılarında artış görülmektedir. 
+Özellikle kara yolu ağlarının standartlarının yükselmesi, fertlerin ekonomik 
+ve eğitim durumlarındaki iyileşmeyle beraber araç sahibi olmak lüks olmakta çıkıp toplumsal bir ihtiyaç hâline gelmiştir. Nüfus artışı ve trafikteki araç 
+sayısındaki bu artış, beraberinde trafik sorununun ortaya çıkmasına neden 
+olmaktadır (Tablo 2.3). Türkiye’de trafik teröründe bir akrabasını veya tanıdığın kaybetmeyen neredeyse kimse bulunmamaktadır. Bu boyutlara ulaşmış 
+ve insan hayatını büyük tehlike altına sokan trafik sorununun bir an önce 
+çözüme ulaştırılması gerekmektedir 
+Trafik güvenliği konusunda bilinçli, sorumluluk sahibi bireylerin yetişmes ancak erken yaşlarda başlaması gereken trafik eğitimiyle mümkündür. 
+Yasal koşulların belirlediği trafik ölçütlerini kişinin yaşamında doğal davranışla hâline dönüştürebilmek, kişilerin can ve mal güvenliğini sağlamak amacyla yapılması gereken çalışmaların tümüne “trafik eğitimi” denir 
+Daha güvenli bir trafik ortamının oluşturulabilmesi; insanların trafik 
+kurallarını bir yaşam biçimi olarak benimsemesi ve toplumsal bir kültür, bir 
+medeniyet göstergesi olarak kabul etmesi ile mümkündür. Bu ise ancak küçü yaşlarda başlayacak trafik eğitimi ile sağlanabilir. Elbette yeni nesillere 
+yönelik bir eğitimin yanı sıra şu an trafikte yer alan insanların da trafik kurallaına uyma konusunda bilgilendirilmesi ve bilinçlendirilmesi gerekmektedir 
+Kara yollarında artan sürücü sayısıyla beraber ortaya çıkabilecek 
+sorunların en aza indirilmesi için tüm bireylere hayatın her evresinde trafik 
+eğitimi verilmesi bir ihtiyaç hâline gelmiştir. Trafik eğitimi; sürücü, yaya, yolc, denetleyici, aile, öğretmen ve yolu kullanan tüm bireyleri kapsamalıdır. 
+Çünkü alt yapı ne kadar iyi olursa olsun yolu kullananlar iyi bir trafik eğitimi 
+almamışsa istenilen davranışın oluşması mümkün değildir. İnsan etmeninin 
+kazalara etkisi ülkemizde %99 iken Avrupa ülkelerinde bu oran %50’dir. Bu 
+açıdan bakıldığında sürücü, yaya ve yolcu olarak insan merkezli bu sorunun 
+çözülmesinde eğitimin önemi daha da artmaktadır. Bilinçli, nitelikli, sorumlulu sahibi, dürüst, trafik kültürü oluşmuş sürücü, yaya ve yolcuların yetiştirilmes önemli ölçüde eğitimle mümkündürTablo 2.3 Türkiye’de yıllara göre araç sayısı ve sürücü sayısındaki artış (trafik.gov.tr, 2017)
+40.000.30.000.20.000.10.000.Sürücü SayısMotorlu Kara Taşıt Sayıs2. ÜNİTE TRAFİK KÜLTÜR 
+Karayolları Trafik Kanunu’nun Amac 
+Karayolları Trafik Kanunu, kara yollarında can ve mal güvenliğini 
+sağlamak amacıyla trafik düzeni ve trafik güvenliğini ilgilendiren tüm konulard alınacak önlemleri kapsamaktadır 
+Karayolları Trafik Yönetmeliği’nin Amac 
+Bu Yönetmelik, 2918 sayılı Karayolları Trafik Kanunu’nda yönetmelikl düzenlenmesi işaret edilen ve ayrıca gerekli görülen bazı hükümler ile 
+bunların uygulanmasına dair esas ve usulleri  kapsamaktadır 
+İlgili Kanun ve Yönetmelik maddelerine göre trafik eğitiminden ve 
+bu alanda yapılan çalışmaların değerlendirilmesinden “Millî Eğitim Bakanlığ” ve “İçişleri Bakanlığı” sorumludur 
+Trafikle doğrudan ya da dolaylı olarak ilgili tüm kurum ve kuruluşlar 
+trafik eğitimi konusunda kendi görev ve sorumluluklarını yerine getirmektedi. İnsanların trafikte can ve mal güvenliğini sağlamak, trafik düzenini ve 
+trafik güvenliğini oluşturmak amacıyla tüm dünyada olduğu gibi ülkemizde 
+de çeşitli kurallar konulmuş ve birtakım yasal düzenlemeler yapılmıştır. Bu 
+sebeple Karayolları Trafik Kanunu ve Karayolları Trafik Yönetmeliği çıkarılmıştı1. Okul öncesi, okul içi ve okul dışı trafik eğitimini düzenleyen trafik 
+genel eğitim planını hazırlamak ve ilgili kuruluşlarla iş birliği yapara bu planı uygulama2. Motorlu araç sürücülerinin yetiştirilmesi amacıyla 123. madde 
+gereğince sürücü kursları açmak, özel sürücü kursu açılmasına 
+izin vermek ve bunları her safhada denetleme3. Özel motorlu taşıt sürücüleri kurslarında eğitilen sürücü adaylarını teorik ve uygulamalı sınavlarını yapmak ve başarılı olanlara 
+sertifika verilmesini sağlama4. Karayolları Trafik Kanunu’nun 125. maddesi uyarınca ilköğretim 
+ve ortaöğretim okullarında ders programlarına eğitim amacıyla 
+zorunlu uygulamalı trafik ve ilk yardım dersleri koyma5. Çocuk trafik eğitim parklarının yapılma, açılma, eğitim, denetim 
+ve çalışma esaslarını belirlemek (Görsel 2.50)
+ 
+Millî Eğitim Bakanlığının Trafik Eğitimi ile İlgili Görev ve YetkilerGörsel 2.Çocuk trafik eğitim parkTRAFİK KÜLTÜR2. ÜNİT 
+Özel motorlu taşıt sürücü kurslarında verilen eğitim hizmetlerinin 
+amacı, motorlu taşıt sürücüsü eğitimi vermek ve yapılan sınavlar sonucunda 
+başarılı olanlara sertifika düzenlemektir. Kurslarda trafik ve çevre, ilk yardım 
+ve araç tekniği dersleri ile trafik adabı dersi teorik; direksiyon eğitimi dersi 
+uygulamalı olarak verilir. Teorik derslerin eğitimi tamamlandıktan sonra direksiyo eğitimi dersine başlanır (Görsel 2.52) 
+ Özel motorlu taşıt sürücü kurslarında uygulanacak öğretim programlar ile kursiyerlere trafikt sürücü davranışları, trafik 
+kuralları, trafik mevzuatı vb. 
+konuları içeren trafik ve çevre 
+dersi; trafikte temel ilk yardım 
+uygulamaları ile ilgili konuları 
+içeren ilk yardım dersi; araçları teknik özellikleri ve teme bakım-onarım konularını 
+içeren araç tekniği dersi ile 
+trafik adabı dersi teorik olarak 
+verilir. Sürücü adaylarına alacaklar sertifika sınıfına göre 
+araçları sürebilmek için gerekl bilgi, beceri ve alışkanlıkları 
+kazanmalarına yönelik uygulamalar içeren direksiyon eğiti dersleri, uygulamalı olarak 
+verilir. Bu derslerin müfredatı Millî Eğitim Bakanlığı tarafından hazırlanır        İçişleri Bakanlığının Trafik Eğitimi ile İlgili 
+Görev ve Yetkiler 
+İçişleri Bakanlığı ülkenin huzur ve güvenin sağlamak için çalışmaktadır. Trafik eğitimi 
+ile ilgili görevleri olan bakanlık, kuruluş ve belediyele işlerini İçişleri Bakanlığıyla koordineli 
+olarak yürütür. Emniyet Genel Müdürlüğüne 
+bağlı olan Trafik Hizmetleri Başkanlığı, trafik 
+eğitimi ile ilgili hazırlamış olduğu kitapçık ile öğrencilern eğitimine katkıda bulunmaktadır (Görse 2.51). Bakanlık ayrıca halkın trafik konusund bilgilenmesi amacıyla radyo ve televizyonlar 
+için programlar hazırlatmaktadır 
+Trafik düzeni ve güvenliği bakımından 
+kara yolunu kullananların eğitiminin önemini 
+vurgulamak, çeşitli kurum ve kuruluşların trafik 
+eğitimine olan katkılarını artırmak amacı ile her 
+yıl mayıs ayının ilk cumartesi günü “Karayolu 
+Trafik Güvenliği Günü”, bu günü takip eden haft ise “Karayolu Trafik Haftası” olarak kutlanırT.CEMNİYET GENEL MÜDÜRLÜĞTrafik Hizmetleri Başkanlığwww.egm.gov.tr    www.trafik.gov.tTÜRKİYE’DE ARAÇLARIN UYMASI GEREKEN 
+ YASAL HIZ SINIRLAR                                   
+YERLEŞİM YERİ DIŞINDARAÇ CİNSYERLEŞİM 
+YERİ 
+İÇİND(km)
+ŞEHİRLERARASÇİFT YÖNLKARAYOLLA-
+RIND(km) 
+BÖLÜNMÜYOLLARD(km)
+OTOYOLLARDA 
+(km)
+Otomobil 
+(M1),(M1G),
+Minibüs (M2),
+Otobüs (M2-M3),
+Kamyonet (N1), (N1G),
+Panelvan (N1),
+Kamyon 
+(N2-N3),
+Çekici (N2-N3),
+Motosiklet (L3),
+Motosikle(L4, L5, L7),
+Motorlu Bisiklet 
+(L1, L2, L6),
+GiremeMotorsuz Bisikle%50               %Emniyet kemeri, ölüm riskini;
+    Sürücüler ve ön koltuktaki yolcular için %50,
+    Arka koltukta oturan yolcular için % 75 
+oranında azaltmaktadırT.CEMNİYET GENEL MÜDÜRLÜĞTrafik Hizmetleri Başkanlığwww.egm.gov.tr    www.trafik.gov.tŞEHİRLERARASI MİNİBÜS VE OTOBÜYOLCULUKLARI İLE UMUM SERVİARAÇLARINDA EMNİYET KEMERTAKILMASI ZORUNLUDUR. 
+Emniyet Kemeri 
+Hayat Kurtarır   Emniyet kemerlerini takmayanlara ve yolcularemniyet kemeri takması konusunda uyarmayayetkililere Karayolları Trafik Kanununun ilgili maddelergereğince ceza uygulanmaktadır   Şehirlerarası yolcu taşımacılığı yapan; minibüs votobüsler ile umum servis araçlarında seyahat edeyolcuların seyahat esnasında “Emniyet Kemeri”
+takmaları zorunludur   Minibüs ve otobüsler ile umum servis araçlarındseyahat eden yolcuları; oturduklarında ve araç harekeettiğinde sürücü, muavin veya grup lideri tarafındaemniyet kemerlerini takmaları konusunda görsel-işitsevasıtalarla uyarmaları zorunludur. 
+T.CEMNİYET GENEL MÜDÜRLÜĞTrafik Hizmetleri Başkanlığwww.egm.gov.tr    www.trafik.gov.tTÜRKİYE’DE ARAÇLARIN UYMASI GEREKEN 
+ YASAL HIZ SINIRLAR                                   
+YERLEŞİM YERİ DIŞINDARAÇ CİNSYERLEŞİM 
+YERİ 
+İÇİND(km)
+ŞEHİRLERARASÇİFT YÖNLKARAYOLLA-
+RIND(km) 
+BÖLÜNMÜYOLLARD(km)
+OTOYOLLARDA 
+(km)
+Otomobil 
+(M1),(M1G),
+Minibüs (M2),
+Otobüs (M2-M3),
+Kamyonet (N1), (N1G),
+Panelvan (N1),
+Kamyon 
+(N2-N3),
+Çekici (N2-N3),
+Motosiklet (L3),
+Motosikle(L4, L5, L7),
+Motorlu Bisiklet 
+(L1, L2, L6),
+GiremeMotorsuz Bisikle%50               %Emniyet kemeri, ölüm riskini;
+    Sürücüler ve ön koltuktaki yolcular için %50,
+    Arka koltukta oturan yolcular için % 75 
+oranında azaltmaktadırT.CEMNİYET GENEL MÜDÜRLÜĞTrafik Hizmetleri Başkanlığwww.egm.gov.tr    www.trafik.gov.tŞEHİRLERARASI MİNİBÜS VE OTOBÜYOLCULUKLARI İLE UMUM SERVİARAÇLARINDA EMNİYET KEMERTAKILMASI ZORUNLUDUR. 
+Emniyet Kemeri 
+Hayat Kurtarır   Emniyet kemerlerini takmayanlara ve yolcularemniyet kemeri takması konusunda uyarmayayetkililere Karayolları Trafik Kanununun ilgili maddelergereğince ceza uygulanmaktadır   Şehirlerarası yolcu taşımacılığı yapan; minibüs votobüsler ile umum servis araçlarında seyahat edeyolcuların seyahat esnasında “Emniyet Kemeri”
+takmaları zorunludur   Minibüs ve otobüsler ile umum servis araçlarındseyahat eden yolcuları; oturduklarında ve araç harekeettiğinde sürücü, muavin veya grup lideri tarafındaemniyet kemerlerini takmaları konusunda görsel-işitsevasıtalarla uyarmaları zorunludur. 
+Görsel 2.Kitapçı2.3.1.2. Sürücü KurslarGörsel 2.52 
+Sürücü adayı arac2. ÜNİTE TRAFİK KÜLTÜR  
+İlk defa sürücü belgesi alanlar ile herhangi bir sebeple sürücü belges iptal edilmiş olup yeniden sürücü belgesi alanlar, belgenin alındığı 
+tarihten itibaren iki yıl süreyle “aday sürücü” olarak kabul edilir 
+Aday sürücülük sürecinde;
+• Kırmızı ışığın üç kez ihlal edilmesi,
+• Uyuşturucu maddeyle veya alkollüyken araç kullanma ayrıca 
+ölümle sonuçlanan trafik kazalarına asli kusurlu olarak sebebiyet 
+verme nedenleri ile sürücü belgelerinin geri alınması,
+• “Hız sınırları üzerinde araç kullanmak yasaktır.” kuralının üç kez 
+ihlal edilmesi,
+• “Sürücüler, sağa ve sola dönüşlerde kurallara uygun olarak geçiş 
+yapan yayalara, varsa bisiklet yolundaki bisikletlilere ve sola dönüşlerd sağdan ve karşıdan gelen trafiğe ilk geçiş hakkını verme zorundadır.” kuralının üç kez ihlal edilmesi,
+• “Görevli bir kişi veya ışıklı trafik işaretleri bulunmayan ancak başk bir trafik işareti ile belirlenmiş yaya veya okul geçitlerine yaklaşırke bütün sürücüler araçlarını yavaşlatmak ve bu geçitlerden 
+geçen veya geçmek üzere bulunan kişilere ve öğrencilere ilk geçi hakkını vermek zorundadırlar.” kuralının üç kez ihlal edilmesi,
+• “Emniyet kemeri, kask vb. kullanılması zorunludur.” kuralının üç 
+kez ihlal edilmesi,
+• Araç cinsine bakılmaksızın 0,20 promilin üzerinde alkollü olarak 
+araç kullanıldığının tespit edilmesi,
+• Toplam 75 ceza puanının aşılması durumlarında sürücü belgesi, 
+trafik görevlilerince iptal edilir  
+Belgesi iptal edilenlerin yeniden sürücü belgesi alabilmeleri için sürüc kurslarına tekrar devam etmeleri ve yapılan sınavlarda başarılı olarak 
+motorlu taşıt sürücüsü sertifikası almaları gerekir. Bu kişilerin sürücü kurslarınd eğitime başlayabilmeleri için tabi tutulacakları psikoteknik değerlendirmede geçip psikiyatri uzmanı muayenesinden alacakları sürücülüğe 
+engel hâli bulunmadığını gösterir belgeyi sürücü kursuna ibraz etmeleri ve 
+varsa iptal nedenlerinde yer alan geri alma süreleri kadar zamanın geçmiş 
+olması zorunludur. 
+ 
+Aday Sürücülük SürecTrafikte önemli olan kuraldır, en iyi 
+sürücü kurallara uyandır!
+TRAFİK KÜLTÜR2. ÜNİT 
+Ehliyet almanın şartları “Karayolları Trafik Yönetmeliği”nin 76. maddesind belirtilmiştir. Ehliyet almak isteyen bir sürücü adayında aşağıdaki şartlar 
+aranmaktadır:
+• Ya• Deneyi• Öğreni• Sağlı• Sına• Adli sicil kayd 
+Ya• M, A1 ve B1 sınıfı sürücü belgesi alacakların 16,
+• A2, B, BE, C1, C1E, F ve G sınıfı sürücü belgesi alacakların 18,
+• A sınıfı sürücü belgesi alacakların 20, gücü 15 kilovatı aşan üç 
+tekerlekli motosikletler için 21,
+• C, CE, D1 ve D1E sınıfı sürücü belgesi alacakların 21,
+• D, DE sınıfı sürücü belgesi alacakların 24 yaşını bitirmiş olmaları 
+zorunludur 
+Deneyi• A sınıfı sürücü belgesi alacakların en az iki yıllık A2 sınıfı,
+• C1, C, D1 ve D sınıfı sürücü belgesi alacakların en az B sınıfı,
+• BE sınıfı sürücü belgesi alacakların B sınıfı,
+• CE sınıfı sürücü belgesi alacakların C sınıfı,
+• C1E sınıfı sürücü belgesi alacakların C1 sınıfı,
+• DE sınıfı sürücü belgesi alacakların D sınıfı,
+• D1E sınıfı sürücü belgesi alacakların D1 sınıfı sürücü belgesine 
+sahip olmaları zorunludur• A sınıfı sürücü belgesi alacak 24 yaşını doldurmuş adaylarda 
+deneyim şartı aranmaz 
+Öğrenim: Bütün ehliyet türleri için en az ilkokul düzeyinde eğitim şartı 
+aranmaktadır. Sürücü belgesi alacak olanlar, bunu kanıtlayan belge ya da 
+diplomayı sürücü kursuna vermek zorundadır. 
+ 
+Sağlık: Sağlık raporu, bazı rahatsızlık türü olanların ehliyet belgesi 
+alamayacakları ya da bazı ehliyet sertifika türlerini alabilecekken bazılarını 
+almaya hak kazanamayacakları durumlarda istenmektedir.  
+ 
+Sürücü adaylarının Resmî Gazete’de yayımlanan Sürücü Adayları ve 
+Sürücülerde Aranacak Sağlık Şartları ile Muayenelerine Dair Yönetmelik’te 
+belirtilen şartları taşımaları gerekmektedir.  
+ 
+Sınav: Sürücü olmak isteyen bir aday iki aşamalı sınavdan geçmek 
+zorundadır. Bu sınavların birincisi yazılı sınav (test sınavı), ikincisi yazılı 
+sınavdan geçen adayların girebildiği direksiyon sınavıdır. Sürücülerin ehliyet 
+alabilmeleri için sınavları başarı ile geçerek motorlu taşıt sürücüsü sertifikası 
+almış olmaları gerekmektedirSürücü Adaylarında Aranan Şartla2.3.1.3. Sürücü Belgeler2. ÜNİTE TRAFİK KÜLTÜR 
+Sürücü Belgelerinin Sınıfları ve Geçerlilik Süreler 
+Sürücü belgeleri, kara yollarında sürülecek  araçların cins ve gruplarına göre 
+aşağıdaki sınıflara ayrılır (Tablo 2.4)• M sınıfı sürücü belgesi: İki, üç ve dört tekerlekli motorlu bisikletleri (moped) 
+kullanacaklar için,  
+• A1 sınıfı sürücü belgesi: Silindir hacmi 125 santimetreküpü, gücü 11 kilovatı  
+geçmeyen sepetli veya sepetsiz iki tekerlekli motosikletler ile gücü 15 kilovat geçmeyen üç tekerlekli motosikletleri kullanacaklar için,
+• A2 sınıfı sürücü belgesi: Gücü 35 kilovatı geçmeyen sepetli veya sepetsiz 
+iki tekerlekli motosikletler ile gücü 15 kilovatı geçmeyen üç tekerlekli motosikletler kullanacaklar için,
+• A sınıfı sürücü belgesi: Sepetli veya sepetsiz iki tekerlekli motosikletler ile 
+gücü 15 kilovatı geçen üç tekerlekli motosikletleri kullanacaklar için,
+• B1 sınıfı sürücü belgesi: Dört tekerlekli motosikletleri kullanacaklar içi• B sınıfı sürücü belgesi: Otomobil ve kamyonetleri kullanacaklar için,
+• BE sınıfı sürücü belgesi: B sınıfı sürücü belgesiyle kullanılan araçlara takılan 
+römork veya yarı römork içeren birleşik araçları kullanacaklar için,
+• C1 sınıfı sürücü belgesi: Yüklü ağırlığı 7500 kg geçmeyen kamyon ve çekiciler kullanacaklar için,
+• C1E sınıfı sürücü belgesi: C1 sınıfı sürücü belgesiyle kullanılan araçlara 
+takılan römork veya yarı römorktan oluşan birleşik araçları kullanacaklar 
+için,
+• C sınıfı sürücü belgesi: Kamyon ve çekicileri kullanacaklar için,
+• CE sınıfı sürücü belgesi: C sınıfı sürücü belgesiyle kullanılan araçlara takılan 
+römork veya yarı römorktan oluşan birleşik araçları kullanacaklar için,
+• D1 sınıfı sürücü belgesi: Minibüsleri kullanacaklar için,
+• D1E sınıfı sürücü belgesi: D1 sınıfı sürücü belgesiyle kullanılan araçlara 
+takılan römorktan oluşan birleşik araçları kullanacaklar için,
+• D sınıfı sürücü belgesi: Minibüs ve otobüsleri kullanacaklar için,
+• DE sınıfı sürücü belgesi: D sınıfı sürücü belgesiyle kullanılan araçlara 
+takılan römorktan oluşan birleşik araçları kullanacaklar için,
+• F sınıfı sürücü belgesi: Lastik tekerlekli traktörleri kullanacaklar için,
+• G sınıfı sürücü belgesi: İş makinesi türündeki motorlu araçları kullanacaklar 
+için,
+• K sınıfı sürücü aday belgesi: Yönetmelikte belirtilen şartlar ve esaslara göre 
+araç sürmeyi öğrenen sürücü adaylarına eğitim ve sınavda kullanmaları için,
+• Uluslararası sürücü belgesi: Alındığı ülkenin sürücü belgesine dayanılarak 
+Karayolları Trafik Yönetmeliği’ndeki esas ve usullere göre sınıfına uyan 
+araçların sürülmesi için uluslararası kuruluşlarca verilen sürücü belgeleridi. 
+Sürücü belgelerinin geçerlilik süreleri ise aşağıdaki gibidir:
+• M, A1, A2, A, B1, B, BE, F ve G sınıfı sürücü belgeleri 10 yıl,
+• C1, C1E, C, CE, D1, D1E, D ve DE sınıfı sürücü belgeleri ise 5 yıl geçerlidir 
+01.01.2016 tarihinden itibaren tüm sürüc belgeleri uluslararası standartlara uygun 
+olarak yenilenecektirİlgilenelim BilgileneliSürücü Belgeleri YenileniyorTRAFİK KÜLTÜR2. ÜNİTSürücü BelgelerSınıKullanılan AraKapsaDeneyim ve 
+YaYaMotorlu bisiklet (moped) 
+(2-3-4 tekerlekli)
+— — —
+— — —
+A125 cc’ye kadar motosiklet 
+(2-3 tekerlekli)
+— — —
+A35 kW’a kadar motosikle(2-3 tekerlekli)
+M-A— — —
+35 kW ve üzeri motosiklet 
+(2-3 tekerlekli)
+M-A1-A25 yaş veya 
+2 yıllık ABMotosiklet 
+(4 tekerlekli)
+— — —
+Otomobil ve kamyoneM-B1-— — —
+BOtomobil ve kamyonet 
+(römorklu)
+M-B-B1-C7.500 kg’a kadar kamyon ve 
+çekicM-B-B1-En az C112.000 kg’a kadar kamyon 
+ve çekici (römorklu)
+M-B-BE-B1-C1-CKamyon ve çekicM-B-B1-C1-En az CKamyon ve çekici 
+(römorklu)
+M-B-BE-B1-C-C1-
+C1E-DMinibüM-B-B1-En az D1Minibüs (römorklu)
+M-B-BE-B1-D1-DOtobüs 
+M-B-B1-D1-En az DOtobüs (römorklu)
+M-B-BE-B1-D-D1-
+D1E-Traktö— — —
+İş makines— — —
+Tablo 2.4  Sürücü belgeleri (asbis.gov.tr, 2017)
+2. ÜNİTE TRAFİK KÜLTÜR1. Trafik eğitiminden sorumlu kuruluşlar hangileridir? Açıklayınız2. Sürücü kurslarında sürücü adaylarına hangi dersler verilir? Açıklayınız3. Sürücü belgesi almak isteyen sürücü adaylarında aranan şartlar nelerdir? Açıklayınız  ÖĞRENDİKLERİMİZİ DEĞERLENDİRELİ• Trafik Yönetmeliği’ndeki yeni değişikliklerle ehliyet almak zorlaştı. Bu tür uygulamaların trafik sorunlaının ve kazalarının en aza indirilmesine katkısı nedir? Arkadaşlarınızla değerlendirip tartışınız• Aşağıdaki şekilde yer alan ilk ifadeden başlayarak yargıları sıra ile okuyunuz. Okuduğunuz yargılar 
+doğru ise D, yanlış ise Y yönünde ilerleyiniz ve doğru rakama ulaşmaya çalışınızSıra Sizd 
+Ülkemizde her yıl çok sayıda trafik kazası meydana gelmektedir. 
+Trafik kazaları sonucu oluşan maddi ve manevi kayıplar, bireysel ve toplumsa anlamda büyük bir yıkıma yol açmaktadır. Zorunlu trafik sigortası, 
+Karayolları Trafik Kanunu’nda belirtildiği üzere araç sahibi tarafından yaptırılmas zorunlu olan sigortadır. Trafik sigortası, trafikte meydana gelebilece maddi hasarlı ve yaralanmalı kazalarda kusurun durumuna göre kişiyi 
+güvence altına alıp hasar ve tedavi masraflarının karşılanması amacıyl yaptırılan bir sigortadır. Zorunlu trafik sigortası olmayan araçlar, tespit 
+edildikleri anda trafikten çekilir. Bu nedenle araç sahipleri trafik sigortasını 
+yaptırmakla yükümlüdür. Bu araçların yeniden trafiğe çıkması için oldukça 
+uzun bir süre geçmesi ve ciddi tutarlardaki masrafların yerine getirilmes şarttır. Bu sebeple zorunlu trafik sigortası sahibi olmak zaman ve para 
+kayıplarını önlemek açısından da gereklidir. Gerek bir kaza durumunda 
+gerekse herhangi bir polis kontrolünde ilk dikkat edilecek unsurlardan birisi 
+trafik sigortasının yaptırılmış ve geçerli durumda olmasıdır. Araç sürücüler, ayrıca isteğe bağlı olarak kendi zararlarının ve kasko sigortasının ilgili 
+teminatları ölçüsünde uğrayacakları diğer zararların karşılanmasını sağlama için kasko sigortasını da yaptırabilirler2.3.1.4. Trafik Sigortasının ÖnemTRAFİK KÜLTÜR2. ÜNİT2.3.2. GÜVENLİ YOLCULUNeler Biliyoruz?
+1. Güvenli yolculuk için alınması gereken önlemler size ne ifade ediyor? 
+Arkadaşlarınızla paylaşınız2. Araçlarda emniyet kemeri kullanmanın önemi nedir? Araştırınız. 
+3. Çocuk güvenlik koltuğu kullanmak neden önemlidir? Araştırınız4. Trafikte bisiklet ve motosiklet kullanmadan önce alınması gereken güvenli önlemlerini sınıfta tartışınız5. Aydınlatmanın yetersiz olduğu ve hava koşullarının fark edilmeyi güçleştirdiğ durumlarda alınması gereken önlemler sizce neler olmalıdır? 
+Arkadaşlarınızla paylaşınızÖğreneceklerimi1. Güvenli yolculuk için alınması gereken önlemle2. Raylı sistemlerde güvenli yolculuk için uyulması gereken kuralla3. Deniz yolu araçlarında güvenli yolculuk için uyulması gereken kuralla4. Hava yolu araçlarında güvenli yolculuk için uyulması gereken kuralla5. Trafikte bisiklet ve motosikletin güvenli kullanım6. Trafikte aydınlatmanın yetersiz olduğu ve hava koşullarının fark edilmey güçleştirdiği durumlarda alınacak önlemle2. ÜNİTE TRAFİK KÜLTÜR2.3.2.1. Güvenli Yolculukta Alınması Gereken Önlemle 
+Trafik ortamında insanlar; sürücü, yaya ya da yolcu olarak bulunur. 
+Trafikte güvenle yolculuk yapmak için trafik ortamında bulunan tüm bireylere 
+az ya da çok birtakım sorumluluklar düşmektedir. Kara yolunda bir otomobil 
+içinde veya toplu taşıma araçlarında yolculuğun güven içinde devam etmesi, 
+öncelikle sürücünün sorumluluğundadır. Ancak araçtaki yolcuların ve araç 
+dışında bulunan yayaların da sorumluluğunda bulunan bazı yükümlülükler 
+vardır. Bunlar sürücülerin işini kolaylaştırır ve trafikteki güvenliği arttırır 
+Trafik ortamında yaya olarak bulunan kişilerin dikkat etmesi gereken 
+bazı güvenlik önlemleri vardır. Yayaların güvenlik önlemlerine dikkat etmeler, can güvenlikleri için gereklidir. Yaya kaldırımları yayaların güvenli bir 
+şekilde yürümeleri için vardır. Yayalar kesinlikle yaya kaldırımlarını kullanmal taşıt yolunda yürümemelidir. Yaya kaldırımlarında kaldırımın tamamını 
+işgal etmek, yan yana yürümek, oyun oynamak, geçişi engelleyecek şekilde 
+beklemek ayrıca bisiklet, motorsiklet gibi araçlar ile kaldırıma çıkmak doğru 
+değildir. Kaldırımlarda grup hâlinde yürürken düzenli ve sağ taraftan yürünmelidi. Grup kalabalık ise ikişerli sıra yapılmalıdır. Çocukları ile yolda yürüye anne ve babalar çocuklarının ellerinden tutmalı ve çocuklarını taşıt trafiği 
+olan tarafta değil diğer tarafta yürütmelidir. Aydınlatmanın az olduğu karanlık 
+yollarda yayalar, araç sürücüleri tarafından fark edilmek için ışıklı bir cihaz 
+taşımalı, açık renk giysiler giymelidir 
+Karşıdan karşıya geçişlerde yayalar; trafik işaretlerinin, trafik polislerini, okul ve yaya geçitlerinin, alt ve üst geçitlerin bulunduğu yerleri kullanmaldır. Bunlardan hiçbiri bulunmuyorsa kaldırımdan inilmeden yol kontrol 
+edilmeli, önce sola sonra sağa ve tekrar sola bakılmalıdır. Yol boş ise acele 
+etmeden dikkatlice, hızlı adımlarla yola inilmeli ve yolun ortasında tekrar 
+sağa bakılmalı araç yok ise karşıya geçilmelidir. Karşıdan karşıya geçerken 
+yola dik olarak yürünmeli ve zaman kaybetmeden geçiş yapılmalıdır. Yol çok 
+geniş ise yayalar karşıdan karşıya geçiş hızlarını buna göre ayarlamalıdır 
+Kırsal kesimlerdeki ve şehirler arası yollarda yaya geçitleri ve yaya 
+kaldırımları bulunmamaktadır. Bu bölgelerde yolun yanında, araçların kullanmadığ toprak bölümler yani banketler bulunmaktadır. Yayalar bu durumlard banketleri kullanmalıdır. Araçlar tarafından fark edilmek için gidiş yönüne 
+göre sol banketten yürünmelidir. Banketlerde yürürken iki kişiden fazla yan 
+yana yürünmemelidir. Ayrıca yayalar trafikte dikkatli davranmalı, trafik kurallaına uymalı, park etmiş araçların arasından 
+yola çıkmamalı, yolda oyun oynamamalıdırTrafik ortamında sürücü olarak bulunan 
+bireyler; trafiğin güvenliği için yol boyunca trafik 
+ışık, levha, işaret ve işaretçilerine, trafikteki hız 
+sınırlarına dikkat etmelidir. Trafikte sürücünün 
+cep telefonu kullanması ya da başka işlerle 
+meşgul olması; tepki verme zamanında gecikm, durma mesafesinde uzama, doğru çizgid seyredememe, stres ve gerginlikte artma, 
+etrafında olanları fark edememe vb. olumsuz 
+etkilere sebep olmaktadır. Araç hareket hâlindeyke cep telefonu ile arama yapmak, numar çevirmek, çalan telefonu açmak sürücülern dikkatinin dağılmasına neden olacağından 
+araç içinde bu davranışlardan kaçınılmalıdır (Görsel 2.53)Görsel 2.53               
+Trafikte araç sürücülerinin cep telefonu  kullanması tehlikeli ve yasaktırTRAFİK KÜLTÜR2. ÜNİT 
+Araçların güvenli biçimde yol alması, 
+öncelikle sürücülerin sorumluluğunda olduğundan 
+sürücüler, araçlarını kontrol etmelerini güçleştiren 
+durumları fark edip kaza riskini azaltmak için dikkatlerin dağıtacak bu gibi unsurlardan uzak kalmalıdı. Araç içinde cep telefonunu kapalı tutmak, bu 
+açıdan en etkili önlemdir. Dünyada olduğu gibi 
+ülkemizde de coğrafi koşulların sağlıklı kara ulaşımın izin vermediği bazı bölgelerde yerleşim yerler bulunmaktadır. Bu bölgelerde sarp patika yollar, 
+nehir ve derelerden geçmek için asma köprüler, 
+yerel halkın kendi imkânlarıyla yaptığı teleferikler, 
+karlı ve buzlu yollarda kullanılan kızaklar insanlaın ulaşım sağlamak için ürettikleri farklı çözüm 
+yollarından bazılarıdır. Ülkemizde coğrafi koşulları ulaşımı zorlaştırdığı Karadeniz Bölgesi’nd tarımsal ürünlerin taşınması için yapılan ilkel 
+teleferiklerle, kış mevsiminin sert ve uzun geçtiği 
+Doğu Anadolu Bölgesi’nde eşya ve yük taşımacılığınd kullanılan kızaklarla yine iklim koşullarının 
+ve arazi şartlarının ulaşımı zorlaştırdığı bölgelerde 
+kar motoru, ATV gibi farklı araçlarla ulaşım sağlanmaktadı (Görsel 2.54). Bu ulaşım araçları kullanılırke tüm ulaşım araçlarında olduğu gibi gerekli 
+olan araç bakımı, emniyet kemeri kullanımı, kask 
+kullanımı, gereğinden fazla yük ve yolcu taşınmaması gibi güvenlik önlemleri 
+mutlaka alınmalıdır. Kış aylarında, soğuk havaların etkili olduğu yerlerde, kar 
+ve buzlanmanın hâkim olduğu araçların kullanımını güçleştirecek iklim koşullarıda trafiğe çıkmadan önce araç sürücülerinin gerekli önlemleri almaları 
+oldukça önemlidir. Araç sürücülerinin kış lastiği takmaları, lastik basınçların kontrol etmeleri, dondurmaz su (antifriz) kullanmaları; araçlarında devamlı 
+halat, takoz, kar zinciri vb. malzemeler bulundurmaları gerekmektedi (Görsel 2.55). Sürücüler; 
+coğrafi koşulların engebeli, iniş 
+ve çıkışların fazla olduğu güzerâhlarda araç güvenlik donanımlarını (ABS, ASR, EBD vb.) 
+aktif durumda olmasına dikkat 
+etmelidir. Bu nedenle sürücülern araç kullanırken bulundukları 
+iklim koşullarını göz önüne alarak 
+araçlarını kullanmaları; yağmurl ve karlı havalarda ani fren, 
+ani kalkış gibi manevralardan 
+kaçınmaları, bulundukları coğraf koşulların ve iklim koşullarının 
+şartlarına göre araç bakımlarını 
+yapmaları hem kendi güvenlikleri 
+hem de trafik güvenliği için oldukç önemlidirGörsel 2.Kar zinciri takılan araGörsel 2.Kızak ve ilkel teleferikle 
+yolculu2. ÜNİTE TRAFİK KÜLTÜR 
+Emniyet Kemer 
+Belirli sürücü ve yolcuların, araçların sürülmesi sırasında koruyucu 
+tertibat kullanması mecburidir. 
+ 
+Özel araçlarda, şehirler arası otobüsler ile şehir içi otobüs ve minibülerde “emniyet kemeri”nin bulundurulması ve kullanılması zorunludur 
+(Görsel 2.56) 
+Anca• Yerleşim yeri içinde, servis araçları hariç, ticari amaçla yolcu taşımacılığ yapan minibüs ve otobüslerdeki yolcular, 
+• Geri giden veya park yerlerinde 25 km/sa.i geçmeyen hızla 
+seyreden sürücüler, 
+• Yakın koruma, harekât, tatbikat ve devriye görevi yürüten veya 
+olaylara müdahale eden askerî ve genel kolluk görevlilerinden 
+sürücü ve yolcu konumunda bulunanlar, 
+• Görev ya da ekip çalışması ile özel pozisyonlarda bulunduklarınd acil servis görevlileri emniyet kemeri kullanmak zorunda 
+değildir  
+ 
+Yönetmelik’te ayrıca 150 cm’den kısa ve 36 kg’ın altındaki çocukları taşınması sırasında çocukların ağırlığına uygun çocuk bağlama 
+sistemlerinin 
+kullanılması 
+zorunludur. 
+Ancak 135 cm’den uzun çocuklar, çocuk 
+bağlama sistemleri yerine ön koltukta 
+oturmamak şartıyla diğer koltuklardaki 
+emniyet kemerlerini kullanabilirler. Çocuk 
+bağlama sistemleri olmayan araçlarda 
+üç yaşın altındaki çocuklar taşınamaz. 
+Çocukların taksilerde seyahatleri sırasınd çocuk bağlama sistemleri kullanmalar, yok ise arka koltukta oturmaları 
+zorunludur. Çocuklar, araçta hava yastığı 
+devre dışı bırakılmadan, ön hava yastığı 
+ile korunan bir yolcu koltuğunda ise yüzü 
+geriye dönük çocuk bağlama sistemi 
+kullanılarak 
+taşınamazlar. 
+Araçlarda 
+seyahat eden üç ve üzeri yaştaki çocukları emniyet kemeri ya da çocuk bağlama sistemleri kullanması zorunluduGörsel 2.56 
+Emniyet kemeri kullanım 

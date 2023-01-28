@@ -1,0 +1,400 @@
+FonksiyonlaHATIRLATMÜstel fonksiyonlar başta fizik, kimya, biyoloji, astronomi vb. doğa bilimleri olmak üzere birçok bilim 
+dalında kullanılmaktadır. Bunun yanında günlük yaşamın değişik iş dalları olan sigortacılık, muhaseb, bankacılık ve finans gibi sektörlerde de üstel fonksiyonların uygulama alanı bulunmaktadırBir bakteri kültüründe bakterilerin çoğalmasını araştıran bir biyolog, dünya nüfusundaki artışı inceleye bir sosyolog, bir çözeltinin pH değerini ölçüp onun asidik veya bazik olduğunu bulmak 
+isteyen bir kimyager, ses düzeyi birimi desibel (dB) olan ses şiddetini ölçmek isteyen bir fizikçi; 
+çalışmalarını yürütürken üstel fonksiyonları kullanır. Ayrıca özel bir sismografla kaydedilmiş zemin 
+hareketi sonucu oluşan maksimum genlik ile depremin büyüklüğü arasındaki ilişkiyi inceleyen bir 
+jeolog, parasal konularda çalışan bir ekonomist ve okyanus coğrafyası (oşinografi) alanında plajı eğimi ile üzerindeki kum taneciklerinin boyutları arasındaki ilişkiyi ortaya çıkarmak isteyen bir 
+araştırmacı da çalışmalarını modellerken üstel fonksiyonlardan yararlanmaktadır!
+ ve !
++  olmak üzere n tane x gerçek sayısının çarpımx tan$
+$
+$
+=
+44444 biçiminde ifade edilir. Burada  n  ifadesine, tabanı x ve üssü n olan üslü ifade denir. 
+x,!
+ ve 
+,
+m !
++  olmak üzere üslü ifadelerle ilgili aşağıdaki özellikler vardır1 =
+*
+0 olmak üzere !
+=
+*
+0 olmak üzer ve  
+v!
+!
+=
+=
+-
+-
+*
+`
+$
+=
++
+*
+0 olmak üzere !
+=
+-
+*
+x $
+$
+=
+*
+^
+m n m =
+=
+$
+* ^
+^
+0 olmak üzer!
+=
+*
+`
+v22-
+=
+-
+=-
++
+* ^
+^
+olmazer$
+=
+=
+*
+^
+a, olmak üzere a b "
+$
+$
+"
+$
+!
+=
+*
+^
+0 ve 1 olmak üzere n &
+!
+!
+=
+=
+*
+1.1. ÜSTEL FONKSİYO1.1.1. Üstel Fonksiyon ve Üstel Fonksiyonun GrafiğMatematik $
+$
+-  işleminin sonucunu bulunuzbulunu2 $
+$
+$
+$
+$
+$
+=
+=
+=
+=
+-
+-
+-
+-
+-
+ işleminin sonucunu bulunuzPay ve payda yer değiştirdiğinde üs işaret değiştirirbulunu-
+= -
+=
+-
+= -
+= -
+=
+-
+^
+^
+^
+,
+b v=
+=
+=
+ olduğuna göre 
+,
+in a b ve  türünden eşitini bulunuz. 
+140 sayısı asal çarpanlarına ayrıldığında 
+olu5 2 $
+$
+=
+ Buradan 
+bulunu$
+$
+$
+$
+$
+-
++
+=
+-
++
+=
+-
++
+=
+-
++
+=-
+ÇÖZÜÇÖZÜÇÖZÜÇÖZÜÖRNEÖRNEÖRNEÖRNE-
++
+ işleminin sonucunu bulunuz. 
+b c bulunu5 $
+$
+$
+$
+$
+$
+=
+=
+=
+^
+Üstel ve Logaritmik 
+Fonksiyonlam =
+ olduğuna göre -
+ ifadesinin değerini bulunuzbulunu3 $
+=
+=
+=
+=
+=
+-
+^
+0,2,1,+
+-
+-
+-
+ işleminin sonucunu bulunuz-
+-
+-
+bulunu,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+0 2 1 0 2 1 0 2 2 0 +
+=
++
+=
++
+=
++
+=
++
+=
+-
+-
+-
+-
+-
+-
++
+- +
+=
++  olduğuna göre -  ifadesinin değerini bulunuz.  
+bulunu+
+= -
++
+= -
++
+=-
++
+=
+=
+=
+-
+-
+-
+- -
+^
+^
+^
+olur Bu durumdbulunu$
+$
+=
+=
+=
+=
+=
+=
++
+-
+ÇÖZÜÇÖZÜÇÖZÜÇÖZÜÖRNEÖRNEÖRNEÖRNEve =
+=-  olduğuna göre +
+-
+-  ifadesinin sonucunu bulunuzMatematik bulunu2 $
+$
+$
+$
+$
+-
+-
+-
+-
+=
+-
+-
+-
+-
+=
+-
+=
+-
+= -
+=-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+^
+^
+^
+n pozitif bir tam sayı olmak üzere 
+2 $
+$
+-
++
+-
+-
++
++
++
++
++
+ işleminin sonucunu bulunuz+
++
++
++
+-
+ ifadesinin en sade hâlini bulunuz+
++
++
++
+-
+ ifadesinin payı 3 , paydası -  parantezine alınacak olursa 
+bulunu$
+$
++
++
++
++
+=
+=
+-
++
+ÇÖZÜÇÖZÜÇÖZÜÖRNEÖRNEÖRNE2 $
+$
+-
+-
+-
+-
+-
+-
+^
+ işleminin sonucunu bulunuz(Pay ve payda n parantezine alınır.)
+2 1 bulunur6 2 6 2 $
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
++
+-
+-
+-
+=
++
+-
+-
+-
+=
++
+-
+-
+-
+=
++
+-
+-
+-
+=
++
++
++
++
++
+Üstel ve Logaritmik 
+Fonksiyonla!
+-
++
+" , olmak üzere 
+"
+f :
+, f fonksiyonun=
++
+^ , tabanı “a” olan üstel 
+fonksiyon denir. 
+"
+f :
+, f =
++
+-
++
+]  olduğuna göre ve -
+]
+]
+g değerlerini bulunuzAşağıdaki fonksiyonlardan hangilerinin üstel fonksiyon olduğunu bulunuz"
+f :
+, f =
+-
++
+^
+^
+h  fonksiyonu, bir üstel fonksiyon olduğuna göre m nin en geniş değer 
+aralığını bulunuzf ^ h bir üstel fonksiyon olduğu için üstel fonksiyonun tabanı 1 den farklı bir pozitif gerçek sayı 
+olmalıdır. Buna göre v!
+-
+-
+ olur 
+Bu durumda m nin en geniş değer aralığı 2,
+3 -
+^
+&
+0 bulunurBir fonksiyonun üstel fonksiyon olabilmesi için tabanının 1 den farklı bir pozitif gerçek sayı olması 
+gerekmektedir. Verilen fonksiyonlardan 
+,
+f g v=
+=
+=
+=
+-
+]
+]
+]
+l  fonksiyonlar bu koşulu sağladığından üstel fonksiyondur. 
+h ve k ^
+^
+h fonksiyonlarının tabanı 1 den farklı pozitif gerçek sayılar olmadığından üstel fonksiyo değildir. t ^ h fonksiyonu ise bir polinom fonksiyon ile üstel fonksiyonun toplamı biçiminde 
+olduğundan üstel fonksiyon değildir)
+)
+)
+)
+)
+)
+f g h k s t =
+=

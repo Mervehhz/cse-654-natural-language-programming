@@ -1,0 +1,400 @@
+]
++
++
+dx bulunu= ÖRNEÖRNEÖRNEÖRNEÇÖZÜÇÖZÜÇÖZÜÇÖZÜİntegraİntegral alma kuralları ile alınması zor olan bazı integraller değişken değiştirme yöntemi 
+kullanılarak daha basit integraller hâline getirildikten sonra kolayca integrali alınabilir,
+ve olmak zer!
+!-
+f x d$ ^ ]
+]
+g#
+  biçimindeki integrallerde sırasıyla aşağıdaki adımlar uygulanır      
+=
+]          ( f =
+^  dönüşümü yapılır.)
+     x dd=
+l]        (Her iki tarafın diferansiyeli alınır.)
+f x du dd$
+=
+n ^ ]
+]
+g1 2 444 4444 #
+#
+   (Dönüşüm ve diferansiyel verilen integralde yerine yazılır.)
+                          
+                            
+=
++
++
++
+          (İntegral alınır.)
+                            
+f =
++
++
++
+^ ] g    (u yerine eşiti olan f ] g yazılır.)
+d1 -
+]
+#
+ ifadesinin eşitini bulunuz-
+=
+                
+ 
+    ( -
+=
+ dönüşümü yapılır.)
+    dd=
+              
+ 
+    (Her iki tarafın diferansiyeli alınır.)
+     
+du dd-
+=
+]
+4444 4444 #
+#
+             (Dönüşüm ve diferansiyel verilen integralde yerine yazılır.)
+                                                                      
+                     
+=
++
+              (İntegral alınır.)
+                     
+1 =
+-
++
+]
+       (u yerine eşiti olan -   yazılır.)
+Değişken Değiştirme YöntemÖRNEÇÖZÜd1 -
+]
+#
+ ifadesinin eşitini bulunuz&
+dd-
+=
+=
+& dd=
+ÖRNEÇÖZÜMatematik +
+d+
+]
+#
+ ifadesinin eşitini bulunuz&
+dd2 +
+=
++
+=
+]
+d2 +
+#
+ ifadesinin eşitini bulunuz&
+&
+x ddx dd2 +
+=
+=
+=
++
++
+du dc bulunud$
++
+=
+=
++
+=
++
+]
+4444 444444 #
+#
++
+dx ddbulunudd$
+$
+$
++
+=
++
+=
+=
+=
++
+=
++
+=
++
+4444 :
+#
+#
+#
+#
+du dc bulunudd$
+$
+-
+=
+=
+=
++
+=
+-
++
+]
+]
+4444 4444 #
+#
+#
+ÖRNEÖRNEÇÖZÜÇÖZÜİntegra  
+               
+ 
+ 
+&
+f x ddu oluf df x dddf c bulunud=
+=
+=
+=
+= -
++
++
+=
+-
++
+-
+- +
+-
+$
+=
+]
+]
+]
+]
+]
+]
+]
+@
+@
+@
+444 4444 #
+#
+#
+#
+,
+,
+biçimindef ve olmazerf dde f integralle!
+!
+!
+=
+^
+]
+]
+^
+@
+#
+dönüşümü yapılırd+
+]
+#
+ ifadesinin eşitini bulunuzddc bulunud2 d$
+$
++
+=
+=
+=
+-
++
+=-
++
+=-
++
++
+=-
++
++
+-
+-
+]
+]
+44444 44444 #
+#
+#
+d-
++
+#
+ ifadesinin eşitini bulunuz-
+dd-
++
+=
+#
+#
+&
+&
+x ddx dd2 -
+=
+=
+=
+&
+&
+dddd+
+=
+=
+=
+ÖRNEÖRNEÇÖZÜÇÖZÜMatematik -
+-
+dx ddbulunud$
+$
+$
+$
+=
+=
+=
+=
+-
++
+=-
++
+=-
+-
++
+-
+-
+d44444 :
+#
+#
+#
+#
+d-
+-
+-
+#
+ ifadesinin eşitini bulunuz&
+dx =
+&
+ddd2 -
+-
+=
+-
+=
+-
+]
+]
+d$
+$
+=
+=
++
+-
+-
+ddd$
+$
+-
+-
+-
+=
+-
+-
+-
+=
+-
+=
++
+bulunu=
++
+d]
+4444444 44444 #
+#
+#
+#
+ 
+biçimindeki integrallerde g g g x d$
+=
+^ ]
+]
+^
+g#
+ 
+c olu=
++
+=
++
+&
+g g x ddg g x du dg f d$
+=
+=
+=
+]
+^ ]
+]
+]
+]
+^ ]
+]
+]
+gg4444 4444 #
+#
+dönüşümü yapılırÖRNEÇÖZÜİntegrax d$ l#
+ ifadesinin eşitini bulunuz&
+x ddd2 =
+=
+& x dx =
+x df df d$
+$
+=
+bulunu=
++
+=
++
+]
+]
+]
+1 2 444 :
+#
+#
+ÖRNEÇÖZÜ-
+g d$
+=
+:
+]
+#
+,
+ve =
+=
+=-
+:
+^
+]
+]
+olduğuna göre g ] g değerini bulunuz&
+&
+x ddx dd-
+=
+=
+=
+c olu=
++
+=
++
+-
+-
+g x ddf d$
+$
+=
+=
+^
+]
+]
+]
+44444 <
+#
+#
+=
++
+&
+-
+g =
++
+=
++
+=
++
+elde edili=
+]
+]
+]
+&
+-
+g bulunu=
++

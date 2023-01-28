@@ -1,0 +1,400 @@
+= -
+= -
+-
+-
+-
+ olur. 
+Dolayısıyla a6  lı terimin katsayısı = -
+ bulunurVeri, Sayma ve OlasılıVeri, Sayma ve Olasılı(
+)
+-
+ ifadesinin x2  nin azalan kuvvetlerine göre açılımında ortadaki terimi bulunuzy +
+^
+h  ifadesi x in azalan kuvvetlerine göre açıldığında baştan 8. terim aynı zamanda sondan 7. terim 
+oluyorsa n değerini bulunuzBaştan(
+)+
+ terim aynı zamanda sondan (
+)- +
+ terimdir. Buradan +
+=
+ ve =
+ olur. 
+- +
+=
+lu&
+&
+-
++
+=
+=
++
+m  ifadesinin açılımındaki sabit terimi bulunuz3 $
+$
++
+=
++
++
+ açılımındaki +
+ gerçek sayısını bulunuz3 +
+i  ifadesinin açılımındaki baştan(
+)
++
+. terimi A $
+$
+ olsun. 
+Buradan 
+(
+)
+(
+)
+2 3 223$
+$
+=
+-
+-
+ elde edilir. 
+Bu ifade de 
+3312 &
+&
+=
+=
+=
+ v227 olur22=
+=
+=
+=
+=
+=
+&
+&
+&
+&
+&
+-
+-
++
++
+-
+A  katsayısı, 
+(
+)
+(
+)
+olu3 $
+$
+$
+=
+=
+-
+ 
+A =
+ bulunur. 
+Buradan =
+=
++
++
+ olur&
+=
+=
+=
+ olup ortadaki terim, 
+(
+)
+(
+)
+(
+)
+x 2 $
+$
+$
+$
+-
+=
+-
+= -
+-
+ olur+
+m  ifadesinin sabit terimi a0  ın katsayısıdır. Buradan 
++
+m  ifadesinin açılımında baştan 
+(
+)
++
+. terim A a$
+ ise 
+(
+)
+(
+)
+(
+)
+(
+)
+$
+$
+=
+-
+-
+-
+ 
+olup &
+&
+$
+=
+=
+-
+=
+=
+-
+-
+-
+ olur.  
+A  katsayısı,
+(
+)
+(
+)
+(
+)
+84 2 $
+$
+$
+$
+$
+=
+=
+=
+-
+-
+-
+-
+ olurVeri, Sayma ve OlasılıVeri, Sayma ve Olasılı 
+1. -
+^
+h  ifadesinin açılımını yazınız        
+ 2. 
+-
+^
+ ifadesinin açılımındaki sabit  
+terimi bulunuz. 
+ 3. 
+-
+^
+ ifadesinin açılımındaki katsayıla toplamını bulunuz. 
+       4. !
+ olmak üzere  
+2 -
+^
+h  ifadesini açılımında 10 terim bulunduğuna 
+göre bu terimlerin katsayıları toplamını 
+bulunuz. 
+ 
+ 5. 
+2 -
+ ifadesinin açılımındaki y8  li 
+terimin katsayısını bulunuz. 
+ 6.  3 -
+^
+h  ifadesinin a2  nin azalan kuvvetlerin göre açılımında ortadaki terimi 
+bulunuz. 
+ 
+ 7. 
++
+]
+g  ifadesinin x in azalan kuvvetlerin göre açılımında baştan 6 ncı terimi 
+bulunuz. 
+     8.  +
+m  ifadesinin açılımındaki sabit 
+terimi bulunuz.  
+ 9. -
+l  ifadesinin m2  nin azalan 
+kuvvetlerine göre açılımında sondan 2 nci 
+terimi bulunuz. 
+ 10. 
+aA 2 $
++
+=
++
++
++
+^
+ 
+olduğuna göre +
+ yi bulunuz. 
+ 
+ALIŞTIRMALAVeri, Sayma ve OlasılıVeri, Sayma ve Olasılı10.1.2.1. Örnek Uzay, Deney, Çıktı, Bir Olayın Tümleyeni, Kesin Olay, 
+İmkânsız Olay, Ayrık Olay ve Ayrık Olmayan OlaSembol ve Gösterimle• E, 
+( )
+P A , 
+(
+)
+P A   Terimler ve Kavramla• Örnek Uzay, Olay, Deney, Çıkt• Kesin Olay, İmkânsız Ola• Ayrık Olay, Ayrık Olmayan Ola• Bir Olayın Tümleyen• OlasılıHayat boyunca çoğu kez sonucu tam bilinmeden birçok karar verilir. Aslında bu kararlar verilirken farkında 
+olunarak ya da olunmayarak olası sonuçlar göz önünde bulundurulur ve istenilen duruma göre gerçekleşm olasılığı yüksek olan seçimler yapılır. Örneğin liselere girişte yapılan  sınav sonucuna göre lise tercihi 
+yapılırken alınan puanla en iyi tercihin yapılabilmesi  için yerleşilebilecek okulların 
+• Üniversiteye öğrenci yerleştirme 
+başarı yüzdesi,
+• Öğrencilerine sunduğu sosyal  gelişi etkinlikleri,
+• Ulaşım imkânları,
+• Öğle yemeği hizmeti gibi kriterleriyl ilgili araştırma yapılır. İhtiyaçlar en fazla karşılama ihtimali olan 
+okul tercih edilirÇiftçiler ekme, gübreleme ve hasat zamanlarını hava 
+durumu raporuna göre belirlerlerAmeliyat olacak bir hastaya doktor tarafından ameliyatı başarı yüzdesinin söylenmesi, hastanın ameliyatı 
+kabul edip etmemesine yardımcı olurSigorta şirketleri; araç sigorta tutarlarını aracın yıl içerisind kaza yapma sayısı, marka ve modeli, yaşı ve 
+trafikte bulunma sıklığı gibi kriterleri göz önünde bulundurara belirlerGünlük hayatta yukarıda bahsedilen bu ve benzeri durumlarla ilgili karar verilirken beklenen bir olayın 
+gerçekleşme ihtimali göz önünde bulundurulmaktadır10.1.2. Basit Olayların Olasılıklar• Örnek uzay, deney, çıktı, bir olayın tümleyeni, kesin olay, imkânsız olay, ayrık olay ve ayrık 
+olmayan olay kavramlarını,
+• Olasılık kavramı ile ilgili uygulamalar yapmayı öğreneceksinizVeri, Sayma ve OlasılıVeri, Sayma ve OlasılıTekrarlanabilen, farklı tekrarında farklı sonuçlar elde edilebilen süreçlere birer deney denir. Bir deneyd elde edilen sonuçların her birine o deneye ait çıktı denir. Örneğin havaya madenî para atma 
+bir deneydir ve burada yere düşen madenî paranın üst yüzündeki “yazı” ya da “tura” sonuçları bu 
+deneye ait çıktılardır. Bir deneyin bütün çıktılarının kümesine o deneyin  örnek uzayı  denir. Örnek 
+uzay, genellikle E ile gösterilir. Örnek uzayın her bir alt kümesine olay denir. Boş kümeye imkânsız 
+olay, E örnek uzayına ise kesin olay denirA olayının çıktılarının dışında örnek uzayın bütün çıktılarını içeren olaya A olayının tümleyeni denir 
+ve Al  ile gösterilir. 
+Bir madenî paranın bir defa atılması deneyindeki basit olaylar yavtur›
+"
+"
+,
+,  olurBilgİpucTüm rakamların yazılı olduğu bilyeler bir torbaya konuluyor. Torbadan “rastgele” bir bilye çekilip 
+üzerinde yazılan sayıya bakılıyor. Bu işlem bir deneydirTorbadaki tüm bilyelerde yazan rakamlar, örnek uzayı oluşturur. Örnek uzay kümesi 
+0, 1, 2, 3, 4, 5, 6, 7, 8, 9}
+{
+E =
+ dur ve örnek uzayın eleman sayısı ( )
+s =
+ olurTorbadan çekilen bilyelerin üzerinde çift rakam yazma olayı, A ise 
+0, 2, 4, 6, 8}
+{
+A =
+  ve ( )
+s =
+ 
+olur. Torbadan çekilen bir bilyenin üzerinde 7 rakamının yazması, bir basit olaydırTorbadan çekilen bir bilyenin üzerinde asal sayı yazması olayı, 
+2, 3, 5, {
+}
+B =
+ ise B olayını tümleyeni, ‘‘torbadan çekilen bir bilyenin üzerinde asal sayı yazmaması’’ olayıdır. Bu olay, 
+, 1, 4, 6, 8,
+=
+"
+,  şeklinde yazılır. ( )
+(
+)
+( )
+s s s +
+=
+ olduğuna dikkat ediniz               Bir madenî paranın, iki madenî paranın ve üç madenî paranın atılması deneylerinin örnek uzaylarını ve bu 
+örnek uzayların eleman sayılarını bulunuzYazı “Y”, tura “T” ile gösterilmek üzerBir madenî para atılması olayının örnek uzayı, 
+,
+Y = "
+,  ve s =
+^
+ olur. 
+İki madenî para atılması olayının örnek uzayı 
+, YT ,TY ,
+YT= "
+,  ve s =
+^
+ olurÜç madenî para atılması olayının örnek uzayı, 
+, YYT, YTY, TYY, YTT, TYT, TTY,
+YYTT= "
+,  ve s =
+^
+ olurVeri, Sayma ve OlasılıVeri, Sayma ve OlasılıBilgİpucn tane madenî paranın birlikte atılması deneyi ile bir madenî paranın n defa atılması deneyini örnek uzayı aynıdır ve  2n elemanlıdırn tane zarın birlikte atılması deneyi ile bir zarın n defa atılması deneyinin örnek uzayı 
+aynıdır ve  6n  elemanlıdırBir zar ve bir madenî paranın birlikte atılması deneyinin örnek uzayını bulunuzAynı örnek uzaydaki bir olaya ait olası durumların sayısı başka bir olaya ait olası durumların 
+sayısına eşit ise bu olaylara eş olası olaylar, eşit değil ise eş olası olmayan olaylar denirİpuc2. Za1. Za(1, 1)
+(1, 2)
+(1, 3)
+(1, 4)
+(1, 5)
+(1, 6)
+(2, 1)
+(2, 2)
+(2, 3)
+(2, 4)
+(2, 5)
+(2, 6)
+(3, 1)
+(3, 2) 
+(3, 3)
+(3, 4)
+(3, 5)
+(3, 6)
+(4, 1)
+(4, 2)
+(4, 3)
+(4, 4)
+(4, 5)
+(4, 6)
+(5, 1)
+(5, 2)
+(5, 3)
+(5, 4)
+(5, 5)
+(5, 6)
+(6, 1)
+(6, 2)
+(6, 3)
+(6, 4)
+(6, 5)
+(6, 6)
+Bir zardaki 6 farklı sayının her biri diğer 
+zardaki 6 farklı sayının her biri ile 6 $
+ 
+farklı şekilde eşlenebileceğinden iki zar 
+atılması deneyinde toplam 36 farklı çıktı 
+elde edilir. 
+Bu durumda örnek uzayın elemanları 
+yanda verilen tablodaki gibi gösterilebilirİki zarın birlikte atılması deneyinin örnek uzayını bulunuz(Y, 1)
+(Y, 2)
+(Y, 3)
+(Y, 4)
+(Y, 5)
+(Y, 6)
+(T, 1)
+(T, 2)
+(T, 3)
+(T, 4)
+(T, 5)
+(T, 6)
+Zardaki her bir sayıya karşılık paranı iki farklı durumu olacağında 6 $
+=
+ farklı çıktı elde edilir. 
+Bu durumda örnek uzayın elemanları yukarıda verilen tablodaki gibi gösterilebilirVeri, Sayma ve OlasılıVeri, Sayma ve OlasılıSayı 7 basamaklı olduğundan örnek uzayın eleman sayısı ( )
+s =
+ ve ( )
+,
+( )
+,
+( )
+s s s =
+=
+=
+ olur• Buradan A olayı ile C olayının eleman sayısı yani olası durumlarının sayısı eşit ve 2 dir. Dolayısıyla A 
+olayı ile C olayı eş olası durumda olan olaylardır• A ile B olayının eleman sayıları  ve C ile B olaylarının eleman sayıları yani olası durumlarının sayıları 
+eşit olmadığından A ile B ve C ile B olayları eş olası durumda olmayan olaylardır3 doktor ve 4 mühendisin bulunduğu bir gruptan rastgele bir doktor ile rastgele bir mühendis seçilme 
+olaylarının eş olası olay olup olmadıklarını bulunuzDoktorların sayısı ile mühendislerin sayısı (olası durumların sayısı) birbirine eşit olmadığından bu iki olay 
+eş olası durumda olmayan olaylardırBir zar atma deneyinde eş olası durumda olan ve eş olası durumda olmayan olaylar belirtinizBir zar atma deneyinin örnek uzayı 1, 2, 3, 4, 5, = "
+,  olur. 
+• Tek sayı gelme olayı 
+,
+,
+1 3 = "
+,  ve çift sayı gelme olayı 
+,
+,
+2 4 = "
+,  olmak üzere her ikisinin de 
+eleman sayısı (olası durumlarının sayısı) eşittir. Buradan bir zar atma deneyindeki tek sayı gelme olayı 
+ile çift sayı gelme olayının eş olası durumda olduğu görülür• Gelen sayının 3 e bölünmesi olayı 
+,
+3 = "
+,  ve gelen sayının 3 e bölünmemesi olayı 1, 2, 4, = "
+,  
+olmak üzere bu olayların eleman sayıları (olası durumlarının sayıları) eşit değildir. Buradan gelen sayının 
+3 e bölünüp bölünmediğinin belirlendiği bir zar atma deneyindeki durumlar eş olası değildirBilg• Ortak elemanları olmayan kümeler ile temsil edilen olaylara ayrık olaylar denir. A ve B ayrık 
+iki olay ise +
+=
+ olur. 
+• İki olayın ortak elemanı varsa bu olaylara ayrık olmayan olaylar denir.  A ve B ayrık olmayan 
+iki olay ise +
+!
+ olur7 basamaklı 1 212 233 sayısının her bir basamağındaki rakam bir kağıda yazılarak bir torbaya atılıyor. 
+Torbadan bir tane kağıt çekilmesi deneyinde A olayı “kağıtta 1 yazması”, B olayı “kağıtta 2 yazması” ve 

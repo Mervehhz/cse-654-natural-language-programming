@@ -1,0 +1,148 @@
+^
+^
+^
+^
+,
+,
+ve 3 5 -
+^
+^
+h olmak üzere A? 
+çaplı çemberin standart denklemi aşağıdakilerde hangisidir?
+)
+)
+)
+)
+)
+-
++
+-
+=
+-
++
+-
+=
+-
++
+-
+=
++
++
+-
+=
+-
++
+-
+=
+]
+]
+]
+]
+]
+^
+^
+^
+^
+^
+-
++
+=
+ doğrusu, merkezi 
+,
+M 2 ^
+h 
+olan bir çemberi A ve B noktalarında kesiyorMbiri=
+ olduğuna göre 
+AB  
+kaç birimdir?
+A) 3        B) 4       C) 5       D) 6       E) 8 
+-
++
+-
+=
+]
+^
+ 
+çemberi üzerindeki bir noktanın 
+,
+3 -
+^
+h 
+noktasına olan uzaklığı en fazla kaç biridir?
+A) 5        B) 7       C) 10      D) 13       E) ,
+Matematik Şekildeki futbol sahasının merkezinde çapı 18 
+metre olan bir çember bulunmaktadır. Sahanın 
+merkezi 39 metre yatay olarak sağa ve sola 
+ötelenerek ceza sahalarındaki penaltı noktası 
+belirlenmiştir. Futbol sahası, merkezi orijin kabu edilerek analitik düzlemde 1 birim 1 metre 
+olacak şekilde modellenmiştir. Buna göre;
++
+-
++
+-
++
+=
+ 
+denklemi bir çember belirttiğine göre m nin 
+alabileceği en küçük pozitif tam sayı değeri 
+kaçtır?
+A) 3        B) 4         C) 5        D) 6        E) x+
+-
++
++
+-
++
+=
+]
+ 
+denklemi bir çember belirttiğine göre 
+bu çemberin yarıçap uzunluğu kaç 
+birimdir?
+A) 3        B) 4        C) 5        D) 6       E) m-
++
++
+-
++
+=
++
++
+-
++
++
++
+=
+]
+]
+]
+ 
+denklemleri birer çember belirtmektedirBuna göre bu çemberlerin merkezleri arasındak uzaklık kaç birimdir?
+A) 5   B) 7   C) 11   D) 2 3   E) +
+-
++
+-
++
+=
+ 
+denklemi analitik düzlemde bir nokta belirttiğin göre n değeri kaçtır?
+A) 6     B) 13      C) 7     D) 15      E) E)  30-32. üst düzey beceri sorularını şekle      
+     ve metne göre cevaplayınızCeza sahasına penaltı noktasını merkez 
+kabul eden 9 metre yarıçaplı çember yayları 
+çizilmiştir. Bu yaylara ait çemberlerin denklemler nedir?
+Bir futbolcu 
+,
+-
+-
+^
+h noktasında buluna topu 
+,
+Bl noktasında bulunan 
+takım arkadaşına atıyor. Top sahanın merkezndeki çembere teğet olacak şekilde 
+doğrusal hareket ederek B noktasına ulaşıyo. Buna göre top hareket etmeden önce 
+sahanın merkezine kaç metre uzaklıktadır?
+Bir futbolcu topu yerden takım arkadaşına 
+atıyor. Top =
++
+ doğrusu boyunca 
+hareket ediyor. Top eğer sahanın merkezindek çemberin içinden geçerse çemberi içindeki rakip futbolcu topu kapabilecekti. Atılan pası rakip futbolcu kapamadığına 
+göre n nin alabileceği en küçük pozitif tam 
+sayı değeri kaçtır?

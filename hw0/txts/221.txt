@@ -1,0 +1,400 @@
+&
+&
+&
+)
+)
+lolo=
+=
+=
+=
+=
+=
+=
+&
+bulunu=
+G rsel 1 ÇÖZÜÖRNEMatematik e Sayısı ve EuleMatematikte birçok matematiksel sabit vardır. Bu sabitlerin bazıları aşağıda yer almaktadır:
+Pi sayısı 
+             :
+3,1415926535r =
+Altın oran (Fi sayısı)   :
+,
+1 6180339887=
++
+=
+{
+Pisagor sabiti              :
+,
+1 4142135623=
+Euler sabiti (e sayısı)   :
+,
+2 718281828459=
+Pisagor sabiti olan 
+2  sayısı, dik kenarlarının uzunluğu 1 
+birim olan ikizkenar dik üçgenin hipotenüs uzunluğudur   1 
+   1 
+2r =
+Bu sayılar, virgülden sonraki ondalık basamakları sonsuza doğru tekrarı olmaksızın giden irrasyone sayılardır. Pi sayısı, altın oran ve Pisagor sabiti, geometrik bir şekilden elde edilebilmektedir. 
+Fakat e sayısı bu yönüyle diğerlerinden farklıdırAltın oran ise bir kare üzerinde çeşitli sistematik işlemler yapılara elde edilir. Fakat e sabiti böyle değildir. e sayısı artış 
+miktarıyla ilgili matematik sabitidir. Peki, bu sabit sayı nasıl 
+elde edilmiştir? 17. yüzyılın başlarında coğrafi keşiflerin de 
+etkisiyle uluslararası ticarette ve finansal işlerde büyük bir artı olmuştur. Bileşik faiz fikri, basit faiz fikrinden daha fazla 
+ilgi çekmeye başlamıştır. Bu durumu fark eden İsviçreli matematikç Jacob BERNOULLİ (Ceykıp Bernolli), bileşik faiz ile 
+ilgili hesaplamalar sonucunda e sayısının 2 ile 3 arasında bir 
+sayıya eşit olduğunu tahmin edebiliyordu fakat bu sayıyı nası bulabileceğini tam olarak çözemiyorduBernoulli’den 50 yıl sonra Leonhard EULER (Leonard Öyler) 
+bu değerin 2,718281828459… şeklinde bir irrasyonel sayı olduğunu göstererek bu sayıy0!
+1!
+2!
+3!
+4!
++
+=
++
++
++
+olarak formülleştirdi. Euler’in en önemli çalışmalarından biri de r sayısı ile e sayısı arasında bir 
+ilişki yokken bu iki sabiti ve i karmaşık sayısını kullanarak +
+=
+ eşitliğini bulmasıdırr sayısı bir çemberin çevre uzunluğunun çapına oranıdırG rsel 1 e sayısı matematikte ve diğer bilim dallarında da sıklıkla kullanılmaktadır. Örneğin matematik ve 
+ekonomide bileşik faiz hesaplamalarında, tıpta ilaçların etki süresinin hesaplanmasında, kimyada 
+buhar basıncı ve tepkime hızları hesaplamalarında, fizikte elektromotor kuvvetin hesaplanmasınd e sayısı kullanılmaktadırLeonhard EULEÜstel ve Logaritmik 
+FonksiyonlaÖZELLİK ÖZELLİK Aşağıdaki ifadelerin değerlerini bulunuzlnlnlnlna)
+b)
+c)
+)
+-
+lnç)
+&
+&
+&
+&
+&
+&
+&
+&
+lnlnlna)
+b)
+c)
+bulunu=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=-
+=
+-
+-
+log lololog loolur=
+=
+=
+=
+=
+:
+:
+:
+:
+:
+1.2.3. Logaritma Fonksiyonunun Özellikleri ve Uygulamalarve x,olmak üzer!
+!
+-
++
++
+" ,
+lox log log $
++
+=
+(
+^
+olurlolog log =
+-
+(
+Tabanı e irrasyonel sayısı olan logaritma fonksiyonuna doğal logaritma fonksiyonu denir"
+f :
+,
+log x veyln f f =
+=
++
+^
+^
+ biçiminde gösterilir ve      
+    
+   
+                       
+ln+
+=
+=
+ olurDoğal Logaritma Fonksiyonolmak üzer!
+-
++
+" ,
+log =
+(
+log olu=
+(
+ÇÖZÜÖRNE&
+log =
+=
+&
+=
+&
+lo=
+=
+=
+&
+lolon vk olsun Bu durumda ve olu=
+=
+=
+=
+&
+x x $
+$
+$
+=
+=
++
+&
+&
+lolololox x $
+$
+=
++
+=
++
+^
+^
+&
+=
+=
+-
+&
+&
+lolololo=
+-
+=
+-
+Örnek olaraMatematik ÖZELLİK lo=
+ olduğuna göre lo24  ifadesinin x türünden eşitini bulunuzlolololox bulunur=
+=
+-
+=
+-
+log log log +
+-
+ işleminin sonucunu bulunuzlo36 lololololobulunur3 $
+$
+=
+=
+=
+=
++
+=
++
+=
+^
+,
+olmak üzerolurlog log v$
+=
+!
+!
+!
+-
++
++
+" ,
+log log +
+ ifadesinin değerini bulunuzlolololololobulunu2 3 $
+$
++
+=
++
+=
++
+=
++
+=
+ÇÖZÜÇÖZÜÇÖZÜÖRNEÖRNEÖRNElolololololox tantan$
+$
+$
+$
+=
+=
++
++
++
+=
+^
+444444 4444444444444444 loglogv=
+=
+ olduğuna göre log240 ifadesinin a ve b türünden eşitini bulunuz240 sayısı asal çarpanlarına ayrılırsa 
+3 5 olur4 $
+$
+=
+ÇÖZÜÖRNElog log(3 5)
+log loglog 4log logloglog 431 bulunurlolololo$
+$
+=
++
++
++
++
++
++
++
+=
++
+=
+=
+-
+-
+=
+=
+=
+-
+Üstel ve Logaritmik 
+FonksiyonlaÖZELLİK a,ve !
+!
+-
++
++
+" ,
+ olmak üzere log log log =
+ olurBu özelliğe taban değiştirme özelliği denirlogloglog log +
+ ifadesinin değerini bulunuzlogloglog log lololo(16 9)
+lolo2lo2 bulunur$
++
+=
+=
++
+=
+=
+=
+=
+llve =
+=
+ olduğuna göre log  in x ve y  türünden eşitini bulunuzlog log log lnlnlnln3lnln3bulunur=
+=
+=
+=
+=
+ÇÖZÜÇÖZÜÖRNEÖRNElolon vk olsun Bu durumda ve olu=
+=
+=
+=
+&
+k =
+= &
+lololololololok k &
+&
+&
+$
+$
+=
+=
+=
+=
+$
+(Eşitliğin her iki tarafının n. kuvveti alınır.)
+(Eşitliğin her iki tarafı log  ile bölünür.)
+(
+)
+n =
+lob ve log =
+=
+^
+SONUa, !
+-
++
+" , olmak üzere log log lolog =
+=
+ olurv!
+!
+-
++
++
+" ,
+ olmak üzere log loglog=
+ olura, b, c, d,
+, v!
+!
+-
++
++
+" ,
+ olmak üzere 
+    
+olurlog b log c log log logloglogloglog lolololololo$
+$
+$
+$
+$
+$
+$
+$
+=
+=
+=
+Matematik lolog log log log log 27 2 $
+$
++
++
+=
++
++
+=
+=
+=
+=
+=
+olog log 3log 3 bulunur^
+ÇÖZÜÖRNElolog log +
++
+ ifadesinin değerini bulunuzlog =
+ olduğuna göre lo ifadesinin a türünden eşitini bulunuzlolog log log log (5)
+2log log log 2a bulunur$
+=
+=
++
+=
+=
++
+log 5 log 12 lo$
+$
+ çarpımının sonucunu bulunuz. 
+log 5 log 12 lolololololog log 4 bulunurlolololo$
+$
+$
+$
+=
+=
+=
+=
+=
+ÇÖZÜÇÖZÜÖRNEÖRNElo3 lo5 log $
+$
+ çarpımının sonucunu bulunuz. 
+lo3 lo5 log lololo1 lo1 lo8lo1 lololololololololobulunu$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+=
+=
+=
+=
+=
+ÇÖZÜÖRNEÜstel ve Logaritmik 
+FonksiyonlaÖZELLİK loifades5  tabanında yazılırsa 
+lololololololololoxbulunu2 3 $

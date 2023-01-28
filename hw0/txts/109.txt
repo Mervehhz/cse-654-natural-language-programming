@@ -1,0 +1,400 @@
+= -
++
+-
+-
++
+^
+^
+( )
+( )
+der P Q m ve der P Q &
++
+=
+-
+=
+^
+^
+@
+@
+ olur( )
+( )
+der P Q n ve der P Q &
++
+=
+-
+=
+^
+^
+@
+@
+ olur10.3.1.2. Polinomlarla Toplama, Çıkarma, Çarpma ve Bölme İşlemlerPolinomlarla Toplama ve Çıkarma İşlemler( )
+( )
+P ve Q = -
++
+-
++
+= -
++
++
+-
+ polinomları veriliyora) 
+( )
+( )
+P Q +
+ işleminin sonucunu bulunuzb) ( )
+( )
+P Q -
+ işleminin sonucunu bulunuzc) 
+( )
+( )
+P Q $
+$
+-
+ işleminin sonucunu bulunuz( )
+,
+( )
+( )
+( )
+P Q ve der P Q de!
+!
+!
+@
+@ olmak üzere P(x) polinomunun derecesi m, Q(x) polinomunu derecesi n olduğuna göre 
+( )
+( )
+( )
+( )
+P Q P Q v+
+-
+ polinomlarının derecesini birbiri ile büyüklük 
+ve küçüklük bakımından kıyaslayarak m ve n cinsinden bulunuzFDA+
+=
+ olduğundan FD+
+= -
++
++
++
+ metredirE=
+-
+ olduğunda 
+Emetredi=
++
+-
++
+-
+-
+-
++
++
+=
+-
+-
+-
+=
++
+^
+^
+Buradan 
+FDEmetredi+
+= -
++
++
++
+-
++
++
++
++
+=
++
+Aysel Hanım’ın ördüreceği duvarın uzunluğu 
+metredi+
++
+Aysel Hanım’ın arsasının şekli yukarıdaki gibidir. Aysel Hanım arsasının 
+,
+,
+FED@
+@
+@ 
+kenarlarına bir sıra duvar ördürmek istiyor. =
++
++
+, A-
++
++
++
+=
+ ve 
+B-
++
+=
+ metredir. Aysel Hanım’ın ördüreceği duvarın uzunluğunun kaç metre olduğunu 
+bulunuz. 
+( )
+(
+)
+P P +
++
+=
+-
++
+ eşitliğinin sağ tarafı 2. dereceden bir ifade belirtmektedir. ( )
+(
+)
+P x ve P +
+ 
+polinomları aynı dereceye sahip polinomlar olacağından 
+( )
+P ab=
++
++
+ biçiminde 2. dereceden bir 
+polinom seçilir. Buradan x yerine +  yazılırsa 
+(
+)
+P a b +
+=
++
++
++
++
+]
+]
+ elde edilir. Burada(
+)
+(
+)
+aba b abbabaabab olu$
++
++
++
++
++
++
++
+=
+-
++
++
++
++
++
++
++
++
++
+=
+-
++
++
++
++
++
++
++
++
++
+=
+-
++
++
++
++
++
++
+=
+-
++
+]
+]
+İki polinomun eşitliğinden &
+=
+=
+,
+&
+&
+$
++
+= -
++
+= -
+= -
+] , &
+&
++
++
+=
+-
++
+=
+=
+-
+ olur. 
+Böylece 
+( )
+P =
+-
++
+ bulunur. P(x) polinomunda x yerine 2 yazılırsa 
+( )
+P 2 5 $
+$
+=
+-
++
+=
+-
++
+=
+ olurP(x) bir polinom olmak üzere 
+( )
+(
+)
+P P +
++
+=
+-
++
+ olduğuna göre P(2) değerini bulunuzİpuc( )
+( )
+P ve Q !
+!
+ olmak üzer( )
+( )
+( )
+( )
+der P m ve der Q der P Q &
+$
+=
+=
+=
++
+@
+@
+@
+ olurPolinomlarla Çarpma İşlem( )
+R x olu$
+=
+-
++
+-
++
+= -
++
++
+-
+-
++
+= -
++
+-
+-
++
+^
+^
+R(x) polinomunun derecesi ise 
+( )
+der R =
+@
+ olurBilgP(x) ve Q(x) birer polinom olmak üzere 
+( )
+( )
+P Q $
+ işlemi yapılırken P(x) polinomunun her terimi 
+Q(x) polinomunun her terimiyle çarpılır ve elde edilen ifadelerin cebirsel toplamı x değişkeninin 
+azalan ya da artan kuvvetlerine göre sıralanarak yazılır. Örneğin P(x) polinomuna ait herhangi 
+bir terim a x$
+ ve Q(x) polinomuna ait herhangi bir terim b x$
+ ise a b a b $
+$
+$
+$
+$
+=
++  
+terimi 
+( )
+( )
+P Q $
+ polinomunun bir terimidir( )
+( )
+P ve Q =
+-
++
+= -
++
+ olarak veriliyor. 
+( )
+( )
+( )
+R P Q $
+=
+ olduğuna göre R(x) polinomnu ve derecesini bulunuz. 
+( )
+( )
+( )
+P P $
+=
+ olur. Burada( )
+$
+= -
++
+-
++
+-
+-
++
+-
++
+-
+^
+^
+h yazılıp bu çarpım sonucunda içinde x6  lı 
+terimler bulunduran ifadeler belirlenir. 
+$
+-
++
+-
++
+-
+-
++
+-
++
+-
+^
+^
+hçarpımından 
+elde edilecek x6  lı terim 
+$
+$
+$
+-
+-
++
+-
+-
+=
++
++
+=
+^
+^
+ olurBuradan  
+( )
+ polinomunun x6  lı teriminin katsayısı 46 dır( )
+P = -
++
+-
++
+-
+ polinomu veriliyor. 
+( )
+ polinomunun x6  lı teriminin katsayısını bulunuzBilgPolinomlarla Bölme İşlemP(x) ve Q(x) polinomları için 
+( )
+( )
+(
+)
+( )
+der Q ve der P $
+$

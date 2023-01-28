@@ -1,0 +1,400 @@
+lolo=
+-
+-
+]
+denkleminin çözüm kümesi nedir?
+ln l-
+=
+ 
+denkleminin köklerinin çarpımı nedir?
+Ölçme ve Değerlendirme Matematik lo=
+ 
+olduğuna göre loni x türünden 
+eşiti aşağıdakilerden hangisidir?
+)
+)
+)
+)
+)
+-
+-
+-
+-
+-
+log  
+sayısı hangi iki ardışık tam sayı arasında 
+değer alır?
+A) 3 ile 4            B) 4 ile 5            C) 5 ile D) 6 ile 7            E) 7 ile lo=
+ 
+olduğuna göre log25  ifadesinin x türünde eşiti aşağıdakilerden hangisidir?
+)
+)
+)
+)
+)
++
++
+-
+-
++
+lo5 =
+ 
+olduğuna göre log 500 ün x türünden eşit aşağıdakilerden hangisidir?
+)
+)
+)
+)
+)
++
++
+-
++
+loglolog A 
+ifadesinin değeri kaçtır?
+)
+)
+)
+)
+)
+lolo$
+ 
+işleminin sonucu kaçtır?
+)
+)
+)
+)
+)
+,
+=
+=
+ 
+olduğuna göre +
+-
+ ifadesinin eşiti aşağıdakilerde hangisidir?
+lololo=
+=
+=
+`
+bbbbbbbbbb 
+olduğuna göre +
++
+ toplamı kaçtır?
+)
+)
+)
+)
+)
+lolo-
+ifadesinin değeri kaçtır?
+D) 13-26. çoktan seçmeli soruları çözünüz 
+     ve doğru seçeneği işaretleyinizlo$
++
+]
+ 
+eşitsizliğini sağlayan en küçük x tam 
+sayısı aşağıdakilerden hangisidir?
+A) 1        B) 2        C) 3        D) 4        E) )
+)
+)
+)
+)
+lololololo)
+)
+)
+)
+)
+-
+Üstel ve Logaritmik 
+Fonksiyonla-
+lo 
+eşitsizliğinin çözüm kümesi aşağıdakilerde hangisidir?
+)
+,
+,
+)
+,
+,
+)
+,
+,
+)
+,
+,
+)
+,
+,
+6 3 6 3 6 3 6 3 6 3 -
+- -
+-
+- -
+-
+- -
+-
+- -
+-
+- -
+^
+^
+^
+^
+^
+^
+@
+@
+@
+@
+?
+loloa-
+=
++
+]
+]
+g 
+denkleminin kökü =
+ olduğuna göre 
+a kaçtır?
+)
+)
+)
+)
+)
+-
+lo+
+-
+=
+ 
+denklemini sağlayan x değeri aşağıdakilerde hangisidir?
+A) 1         B) 2         C) 3        D) 4        E) 24 lo+
+=
+]
+ 
+denkleminin çözüm kümesi aşağıdakilerde hangisidir?
+)
+,
+)
+,
+)
+)
+)
+,
+1 2 7 -
+"
+!
+"
+"
+!
+,
++
+,
+,
++
+Kaç ay sonra aynı seviyedeki bir matematik 
+sınavında bilgi seviyesi %40 olarak ölçülür?
+Öğrencinin matematik bilgi seviyesi ile tarih 
+bilgi seviyesi kaç gün sonra eşit olur?
+E) 27-29. üst düzey beceri sorularını metn    göre cevaplayınızİnsanların birçok davranışının modellenmesind logaritmik fonksiyonlardan yararlanılmaktadı. Bu davranışlardan bir tanesi de daha önce 
+öğrenilmiş olan bilgilerin ne kadar sürede unutulduğ ile ilgilidirÖrneğin belirli bir seviyede öğrenilmiş olan 
+bir konuya ait bilgilerin belirli aralıklarla tekrar 
+edilmemesi durumunda bu bilgilerin bir kısmı 
+zamanla unutulabilir8 ay sonra aynı seviyedeki bir tarih sınavınd bilgi seviyesi yüzde kaç olarak ölçülür?
+formülü ile t süre sonra bir bilginin hatırlanma 
+seviyesi ölçülebilir. 
+Bir öğrencinin aynı gün girmiş olduğu matemati ve tarih sınavlarında bilgi seviyesi sırasıyla 
+%80 ve %90 olarak ölçülmüştür. Bu sınavlarda 
+matematik bilgisinin unutulma katsayısı 0,25 ve 
+tarih bilgisinin unutulma katsayısı 0,5 olduğuna 
+göre;
+Bir konuya ait ölçülmüş olan ilk bilgi yüzdes (Örneğin öğrencinin matematik dersind sınava hazırlanması sonucunda 
+%90 başarı göstermesi). 
+Öğrenilmiş bir bilginin üzerinden tekrar 
+edilmeden geçen süre (ay)t ay sonra ölçülen bilgi seviyesiBir konuya ait bilginin unutulma katsayısı 
+olmak üzere 
+:
+P::
+:
+lololo$
+=
+-
++
+]
+M-
+M+
+C+
+:
+Matematik DİZİLE2.1. GERÇEK SAYI DİZİLERHAZIRLIK ÇALIŞMALARFonksiyon nedir?
+Tanım kümesi nedir?
+Bir fonksiyonun tanım kümesindeki elemanlarının görüntüleri nasıl bulunur?
+Ardışık sayılar arasında nasıl bir ilişki vardır?
+Ardışık sayıların toplamı nasıl bulunur?
+Dizile2.1. GERÇEK SAYI DİZİLER2.1.1. Dizi ve Fonksiyon Kavramları Arasındaki İlişkAşağıda tanım ve değer kümeleri verilen fonksiyonların grafiklerini inceleyiniz    
+"
+:
+,
+f =
+-
++
+]        
+"
+:
+,
+g =
+-
+]           
+"
+:
+,
+h =
+-
+] Yukarıda grafikleri verilen f, g ve h fonksiyonları incelendiğinde tanım kümesi pozitif tam 
+sayılar kümesi olan 
+f] g fonksiyonunda 
+gibi değerler almıştır. Pozitif tam sayılar kümesinden gerçek sayılar kümesine tanımlanan 
+her fonksiyona gerçek sayı dizisi ya da kısaca dizi denir. Diziler genel olarak a^
+h ile 
+gösterilir. 
+i in f !
+=
++
+]  ifadesine dizinin n. terimi veya genel terimi denir. Genel terimi 
+verilmeyen sayı grupları dizi belirtmez. 
+,
+,
+,...,
+,=
+^
+i dizisinde 
+,
+,
+, ... ,
+,a gerçek sayılarına dizinin terimler denirYukarıda verilen 
+f] g fonksiyonu genel terimi an  olan bir dizi olarak ifade edilirs:
+,
+"
+=
+-
++
+^
+^
+h biçiminde tanımlanır. 
+,
+,
+,
+,
+,
+,
+f 1 f 0 f 1 =-
+=
+=
+=
+=
+-
+]
+]
+]
+]
+]
+oluf dizinin birinci terimdizinin ikinci terimdizininterimdizinin n inci terimüç=
+=
+=
+=
+=-
+=
+=
+=
+-
+]
+]
+]
+]
+^
+^
+^
+A ve B boş olmayan iki küme olmak üzere A kümesini her bir elemanını, B kümesinin bir ve yalnız 
+bir elemanı ile eşleyen ilişkiye A dan B ye tanımlı 
+bir fonksiyon denir. f, g, h, ... harflerinden birisi ile 
+"
+:f B biçiminde gösterilir.       
+ 
+ 
+$
+$
+$
+GörüntKümesf ]  Tanım Kümesi           Değer KümesHATIRLATM-
+-
+-
+-
+-
+-
+Matematik "
+:
+,
+f =
+-
++
+]  ve 
+:
+,
+"
+-
+=
+-
++
++
+] " ,
+ fonksiyonunun bir dizi belirtip 
+belirtmediğini bulunuz"
+:
+,
+f =
+-
++
+]   fonksiyonunun tanım kümesi pozitif tam sayılar kümesi olduğundan 
+genel terimi n =
+-  olan bir dizi belirtirTanım kümesi 
+ola+
+ fonksiyonlar dizi belirtir. Oysa =
+ için 
+=
+-
++
+]  fonksiyonu 
+tanımsız olmaktadır. 
+g] g fonksiyonunun tanım kümesi 
+-
++
+! + olduğundan bu fonksiyon bir 
+dizi belirtmez. 
+,
+,
+,4 8 ^
+h ifadesinin bir dizi belirtip belirtmediğini bulunuz. 
+,
+,
+,4 8 ^
+h ifadesinde 4. terim 16 olmak zorunda değildir. Örneği$
+$
+=
+-
+-
+-
++
+]
+]
+]
+ ifadesinde 
+,
+,
+=
+=
+=
+ olmasına rağme4 =
+ olmaktadır. Bu durumda 3. terimden sonraki terimlerin ancak genel terimin verilmesi ile 
+bulunabileceği görülür. Buna göre bu ifade bir dizi belirtmez Aşağıda verilen ifadelerin bir dizinin genel terimi olup olmadığını bulunuz. 
+loç)
+=
+32a)
+b)
+c)
+d)
+-
+-

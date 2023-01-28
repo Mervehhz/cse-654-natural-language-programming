@@ -1,0 +1,400 @@
+merkezidir. Bu durumda T@ piramidin yüksekliği; ABCD dörtgen piramidin tabanı; TAB, TBC, TCD ve TD&
+&
+&
+&  ise piramidin yanal 
+yüzleridirPiramidin yanal ayrıtları ise 
+, TB , Tve TT?
+?
+?
+? olur. Bu piramit 
+,
+T ABC^
+h ile gösterilirŞekildeki altıgen dik piramitte G noktası altıgenin ağırlık merkezidir. Bu durumda 
+T@ piramidin yüksekliği; ABCDEF altıgeni piramidin tabanı; 
+TAB, TBC, TCD, TDE, TEF ve TF&
+&
+&
+&
+&
+&  ise piramidin yanal yüzleridir. Piramidin 
+yanal ayrıtları ise TA , TB , TC , TD , Tve T?
+?
+?
+?
+?
+? olur. Bu piramit 
+T, ABCDE^
+h ile gösterilir. 
+Yandaki şekilde verilen üçgen dik piramitte BA=
+@
+@; Ac=
+, 
+Ac=
+ ve piramidin yüksekliği 24 cm olduğuna göre T? ayrıtının uzunluğunu kaç cm olduğunu bulunuzPiramidin tabanı olan ABC dik üçgeninde kenarortaylar çizilsin ve kenarortayların 
+kesim noktasına G noktası denilsin.  T?, AB&  nin bulunduğu düzleme diktir. Bu 
+durumda 
+,
+TATBve TC=
+=
+=
+?
+?
+?
+?
+?
+? olur ABC  dik üçgeninde Pisagor teoremi kullanılaraBBBcm olu=
+=
+=
++
++
+=
+ABC dik üçgeninde dik açının bulunduğu köşeden hipotenüse indirilen kenarortay 
+uzunluğu hipotenüs uzunluğunun yarısına eşit olur. G noktası ağırlık merkezi 
+olduğundan Gc=
+ ve Ac=
+ olurTGA dik üçgeninde Pisagor teoremi kullanılarak 
+TATTTTTcm bulunu&
+&
+&
+&
+=
++
+=
++
+=
++
+=
+=
+BilgTabanı düzgün çokgen ve yan yüzleri eş ikizkenar üçgen olan dik piramitlere düzgün  dik pirami denir. Düzgün piramitte yanal ayrıtlar eştirTabanı ABC eşkenar üçgen ve tepe noktası T olan 
+,
+T AB&
+ düzgün dik piramidinde T=
+ cm ve 
+dik piramidin yüksekliği 10 cm olduğuna göre dik piramidin bir yan yüzeyinin yüksekliğinin kaç cm olduğun bulunuzDüzgün dik piramidin yanal ayrıtları eş olduğundan 
+ TTT=
+=
+=
+ cm olurDik piramidin yüksekliği 10 cm olduğuna göre T=
+ cm olurT?, eşkenar üçgenin düzlemine dik olduğundan TC=
+?
+?  
+olur. 
+Buradan TG&  nin dik üçgen olduğu görülür ve 
+5 birim - 12 birim - 13 birim üçgeni yardımıyla  C=
+ cm bulunu. O hâlde CA=
+=
+ cm olup G, ABC üçgeninin ağırlık 
+merkezi olduğundan G=
+ cm elde edilirSonuç olarak TG&  dik üçgendir. Pisagor teoremi ile 
+TTGTTTTcm bulunu2 =
++
+=
++
+=
++
+=
+=
+Düzgün dik piramitlerin tüm yan yüzleri eş olduğundan her bir yan yüzeyin yüksekliği 2 61  cm dirYandaki şekildeki kare dik prizmanın üst tabanının ağırlık merkezi T noktasıdı. A6 =
+ cm ve düzgün kare piramit olan 
+,
+T ABC^
+h nin bir 
+yanal ayrıtının uzunluğu 10 cm olduğuna göre prizmanın yüksekliğinin kaç 
+cm olduğunu bulunuzT noktası, A B C l l l l  karesinin ağırlık merkezi ise  A ve B l l ?
+? nın 
+kesişimi olan noktadır. Verilen şekil kare dik prizma olduğundan T? nın 
+uç noktalarından olan G noktası ABCD karesinin ağırlık merkezidir. Buradan 
+TBve TB'
+=
+?
+?
+ elde edilirABCD kare ise ABve AB=
+=
+?
+?
+ olur ve açıları 
+,
+,
+c olan 
+dik üçgen yardımıyla ABc=
+=
+ bulunurT?, ABCD karesinin düzlemine dik olduğundan TG&  dik üçgen olur ve 
+3 birim - 4 birim - 5 birim üçgeni yardımıyla Tc=
+ bulunurBuradan, verilen prizmanın yüksekliği yanal ayrıt uzunluklarına eşit olduğunda BTc=
+=
+ elde edilirBilgBir düzgün piramidin yan yüzleri olan eş üçgenlerin 
+alanları toplamına piramidin yanal alanı denirBir piramidin taban alanı ile yanal alanı toplamına 
+piramidin yüzey alanı denirToplam alan A , taban alanı  AT  , yanal alan A ,
+Y  
+taban çevresi  ÇT , yan yüz yüksekliği  hY  olmak 
+üzere  =
+$
+ ve 
+olu=
++
+Yandaki şekildeki 
+,
+T AB&
+ düzgün dik piramidinde ATc=
+=
+ 
+olduğuna göre bu dik piramidin yüzey alanının kaç cm2  olduğunu bulunuDüzgün dik piramidin tabanı düzgün çokgen olduğundan ABC  eşkenar üçgendir. Bu durumda 
+AABc=
+=
+=
+ olurDüzgün dik piramidin yanal ayrıt uzunlukları eşit olduğundan TTTc=
+=
+=
+ olurBu durumda 
+, TBA,
+ABTCA ve TB&
+&
+&
+&  kenar uzunlukları 8 cm olan eşkenar üçgenlerdir. Bir kenar uzunluğ a cm olan eşkenar üçgenin alanı c2  olduğundan dik piramidin yüzey alanı, 
+A ABA TBA TCTBcbulunu64 $
+=
++
++
++
+=
++
++
++
+=
+=
+^
+^
+^
+^
+&
+&
+&
+&
+BilgTüm yüzleri eşkenar üçgen olan üçgen piramide düzgün dört 
+yüzlü denir. Yandaki şekilde bir ayrıtı a birim olan bir düzgün dört 
+yüzlü verilmiştir. 
+GeoGebra Programı ile Düzgün Dört Yüzlü Çizimi ve AçınımGeoGebra programını açınız. “Görünüm” sekmesine ve ardından açılan “3D Grafik” sekmesine tıklayınız. 
+Araç çubuğundaki 9. kutuya ve ardından açılan “dörtyüzlü” sekmesine tıklayınız. Daha sonra “3D Grafik” 
+penceresinde bulunan düzlemdeki herhangi iki noktaya tıklayınca ekranda tepe noktası D, tabanı ABC 
+eşkenar üçgeni ve her bir ayrıt uzunluğu eşit olan düzgün dört yüzlü görülecektirCebir penceresinde ayrıt uzunluklarının eşit olduğuna dikkat edinizAraç çubuğundaki 9. kutuya ve ardından açılan “Düzleme Aç” sekmesine tıklayınız. Daha sonra “3D 
+Grafik” penceresindeki düzgün dört yüzlüye tıklayarak bu piramidin açınımını görebilirsiniz. Aynı zamanda 
+grafik penceresine bakılırsa tabanı ABC eşkenar üçgeni olan bu piramidin açınımı görülür. Ekrandaki b 
+sürgüsü hareket ettirilirse açınımın nasıl olduğu anlaşılabilir. Araç çubuğundaki 11. kutuya ve ardından 
+açılan “Açı” sekmesine tıklayınız. Grafik penceresindeki üçgenlerin iç bölgelerine tıklandığında açıların 
+60c olduğu görülür. 
+İpucBir ayrıt uzunluğu a cm olan düzgün dört yüzlünün yüksekliğini, yan yüz yüksekliğini ve yüzey alanını  
+a cinsinden bulunuzBir ayrıt uzunluğu a cm olan düzgün dört yüzlü yanda verilen şekildeki 
+gibi çizilsin ve G noktası ABC eşkenar üçgenin ağırlık merkezi olsun. 
+Bu durumda B? kenarortay olduğundaADa cm olu=
+=
+  
+TAC ve  BAC eşkenar üçgenlerinin yükseklikleri Tve B@
+@ 
+dır. Bir kenarı a cm olan bu eşkenar üçgenlerin yüksekliklerTBc=
+=
+ ve buradan bir yan yüz yüksekliği 
+c olur. G noktası ABC üçgeninin ağırlık merkezi olduğundan 
+Dc=
+ olur. 
+Düzgün dört yüzlünün yüksekliği T@ olmak üzere TGD dik üçgeninde Pisagor teoremiyl TTGT&
+=
++
+=
++
+Yüzey alanı ise dört eş eşkenar üçgenin alanı toplamından 
+colu$
+=
+Bir ayrıtının uzunluğu 6 cm olan düzgün dört yüzlünün yüksekliğinin kaç cm ve alanının kaç cm2  olduğun bulunuzBir ayrıtının uzunluğu =
+ cm olan düzgün dört yüzlünün yüksekliği 
+cm olu6 2 =
+=
+ 
+Yüzey alanı ise 36 =
+=
+ cm2  bulunurBir ayrıtının uzunluğu a birim olan düzgün dört yüzlünün 
+• Yan yüz yüksekliği a  birimdir• Yüksekliği 6  birimdir• Yüzey alanı  birimkaredirTTT&
+&
+&
+=
++
+=
+cm bulunu=
+=
+Düzgün üçgen dik piramit, kare dik piramit ve düzgün altıgen dik piramidin açınımlarını yapınız• Düzgün üçgen dik piramit aslında eşkenar üçgen dik piramittir. 
+             
+             
+Düzgün üçgen dik piramit ve açınımı yukarıdaki şekillerde verildiği gibi yapılabilir• Kare dik pirami         
+            
+     ya da      
+                            
+Kare dik piramit ve açınımları yukarıdaki şekillerde verildiği gibi yapılabilir• Düzgün altıgen dik pirami 
+                  
+ 
+                            
+Düzgün altıgen dik piramit ve açınımı yukarıdaki şekillerde verildiği gibi yapılabilir    
+Siz de açınımları farklı şekilde gösterebilirsinizAçınımı yandaki şekildeki gibi olan düzgün dik piramidin yan yüz 
+yüksekliği 17 cm ve tabandaki çokgenin bir kenarının uzunluğu 16 cm 
+olduğuna göre bu dik piramidin yüzey alanının kaç cm2  olduğunu 
+bulunuzVerilen açınım düzgün dik piramit açınımı olduğundan ABCD karedir. 
+Ayrıca KALBMCND,
+,
+,
+&
+&
+&
+&  olan ikizkenar üçgenlerdir. 
+Düzgün dik piramidin yüzey alanı eş olan bu dört ikizkenar üçgenin 
+alanı ile ABCD karesinin alanının toplamıdır. LBA üçgenin alanı 
+LAc17 $
+$
+=
+=
+ olur. Dik piramidin yanal yüzeyinin 
+alanı ise (
+)
+A LBcolu$
+$
+=
+=
+=
+&
+ 
+Dik piramidin taban alanı 
+A ABCcolu=
+=
+=
+]
+Dik piramidin yüzey alanı ise c+
++
+=
+=
+ bulunurŞekildeki bütün ayrıt uzunlukları eşit olan kare dik piramidin açınımının çevresinin 
+uzunluğu 96 cm dir. Buna göre piramidin kapalı hâldeki yüksekliğinin kaç cm olduğun bulunuzKare dik piramidin bir ayrıt uzunluğu a cm ise soruda verilen şeklin çevresi 
+=
+ cm dir. Buradan =
+ cm bulunur. Şekildeki ABCD karesinin 
+ağırlık merkezi olan K noktasına T noktasından çizilen T@ piramidin 
+yüksekliğidir. BC kenarının orta noktası olan E noktası K ve T noktasıyla 
+birleştirilirse EKT dik üçgeni elde edilir. TBC eşkenar üçgen olduğundan 
+Tc6 =
+ olur. K noktası ağırlık merkezi olduğundan Kc=
+ 
+olur. EKT üçgeninde Pisagor teoremi ile 
+TTKTTcm bulunu6 6 &
+&
+=
++
+=
++
+=
+^
+                                              Buradan piramidin yüksekliği 6 2  cm olur.  
+BilgHerhangi bir piramidin hacmi, taban alanı ile yüksekliğinin çarpımının üçte biridirŞekildeki üçgen dik prizma aşağıdaki gibi kesilerek üç tane eş üçgen piramide ayrılsın. 
+Prizmanın tabanları birbirine eş olan ABC üçgeni ile A B l l l  üçgeninden oluşmaktadır. Bu durumd 
+,
+,
+CAilC A l l &
+&
+ piramitlerinin taban alanları ve yükseklikleri eşittir. Buradan hacimlerini de eşit olduğu görülür. Yine A Al&  ile CC l &  eş olduğundan 
+,
+,
+B A AilB C A l &
+&
+ 
+piramitlerinin taban alanları ve yükseklikleri eşit dolayısıyla hacimleri de birbirine eşittir. 
+Sonuç olarak üçgen dik prizma aynı hacimli olan 3 tane üçgen piramide ayrılmış oldu. Bu durumda 
+her bir piramidin hacmi üçgen prizmanın hacminin 3  idirBu özelliğin doğruluğu aşağıdaki gibi gösterilebilirDik piramidin yüksekliği T@ olmak üzere 
+iramidin hacmA ABCDETcbulunuDik 96 3 640 $
+$
+=
+=
+=
+]
+ 
+Yandaki şekilde verilen 
+,
+T ABCDE^
+h düzgün altıgen dik piramidinin taban alanı 
+c96 2  ve yüksekliği 20 cm olduğuna göre dik piramidin hacminin kaç cm3  
+olduğunu bulunuz12 Yandaki şekilde verilen kare dik piramittTcm ve Bc12 =
+=
+ olduğuna göre 
+,
+T ABC^
+h kare dik piramidi hacminin kaç cm3  olduğunu bulunuz12 G noktası ABCD karesinin ağırlık merkezidir. Bu durumda 
+€
+TGTGoldu unda=
+?
+?
+&  dik üçgen olur. TGB dik üçgeninde 
+3 birim - 4 birim - 5 birim dik üçgeni yardımıyla piramidin yüksekliği 
+Tc=
+=
+ bulunurPiramidin hacmi A ABCc12 $
+$
+=
+=
+]
+^
+ bulunurHacmi 
+c18 3  olan düzgün dört yüzlünün tüm yüzey alanının kaç cm2  olduğunu bulunuzHacicm olu&
+&
+&
+=
+=
+=
+=
+Bu durumda bir kenarının uzunluğu 6 cm olan düzgün dört yüzlünün tüm yüzey alanı A olmak üzer 
+colu36 =
+=
+=
+BilgBir ayrıt uzunluğu a birim olan düzgün dört yüzlünün hacmi  birimküptürYandaki 
+,
+T ABC^
+h kare dik piramidinde E noktası T@ ve F noktas T@ üzerindedir. Şekildeki gibi bir yapının yangın merdiveni 
+,
+TEve F?
+?
+? boyunca yapılacaktır. 
+,
+CTTm ve E=
+=
+=
+=
+ olmak üzere bu 
+şartlarda kırmızı çizgi boyunca yapılacak bir yangın merdiveninin en 
+az kaç metre olacağını bulunuzKare dik piramidin yanal ayrıtı ile taban kenarının uzunluğu eşit olduğundan her bir yanal yüzey eşkenar 
+üçgen olur. 
+Şeklin açınımı ise yukarıdaki gibi yapılırsa merdivenin en kısa olması için Bl , F ve E noktaları doğrusal 
+olmalıdır. Yukarıdaki şekilde TB  üçgeni aşağıdaki gibi çizilsin ve E noktasından 
+'
+B T  doğrusuna dikme 
+indirilsin. 
+6 Oluşan EKT -
+-
+c özel üçgeninde K=
+ ve E6 =
+ olur. 
+Oluşan KEBl  dik üçgeninde Pisagor teoremi ile 
+B KB B B B B metre olu=
++
+=
++
+=
++
+=
+=
+^
+Sonuç olarak yangın merdiveninin uzunluğu en a  
+luTEFTB TB TB B +
++
+=
++
++
+=
++
++
+=
+444444 Ayrıtları 
+,
+ccm vc olan dikdörtgenler prizması şeklinde bir kereste yontularak dik piramit 

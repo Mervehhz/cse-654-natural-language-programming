@@ -1,0 +1,400 @@
+-
++
+-
+]  fonksiyonu veriliyor. f ] g fonksiyonunun her a gerçek sayısı için 
+lim f =
+"
+^  olduğuna göre m $
+ çarpımının değerini bulunuz,
+a ve f =
+]  sabit fonksiyon olmak üzere   
+                     
+olurlim f =
+"
+] f ] g fonksiyonunun her a gerçek sayısı için limiti 2 olduğundan f ] g fonksiyonu sabit fonksiyondur. 
+O hâlde 
+i in molu-
++
+-
+=
+&
+&
+&
+molubulunuBu durumda m olarak elde edili2 $
+$
+$
+-
++
+-
+=
+-
++
+-
+=
+-
+=
+=
+-
+=
+=
+=
+=
+]
+4444 <
+(Polinomların eşitliğinden)
+ÇÖZÜÇÖZÜÖRNEÖRNEMatematik :
+,
+f "
+=
++
+-
+]  fonksiyonu veriliyor. Buna göre lim f "
+] g değerini bulunuz ve grafik 
+üzerinde gösterinizYukarıdaki f =
++
+-
+]  fonksiyonunun grafiği incelendiğinde x, 3 e hem sağdan hem de  solda yaklaşırken f ] g in 10 a yaklaştığı görülmektedirAşağıdaki limit değerlerini bulunuzTüm seçeneklerde polinom fonksiyonların limit değerleri sorulduğundan istenen noktalardaki limit 
+değerleri fonksiyonların o noktalardaki görüntülerine eşit olacaktırf ] g bir polinom fonksiyonudur. Bu durumda fonksiyonun her noktasındaki limiti o noktadaki görüntüsün eşit olacağından 
+lim f bulunu=
+=
++
+-
+=
+"
+]
+]
+f = ^ ÇÖZÜÇÖZÜÖRNEÖRNEç)
+-
+-
++
+-
+-
++
++
++
++
+)
+)
+)
+lililili+
+"
+"
+"
+-
+"
+-
+_]
+TüreÖZELLİK -
++
+-
+-
+-
++
++
++
++
+)
+)
+)
+)
+lilililili2 $
+= -
+-
++
+=
++
+-
++
+-
+=
+=
+-
++
+-
+=
+=
+-
++
+=
++
++
+-
++
+=
++
+=
++
+"
+"
+"
+"
+"
+-
+-
+-
++
+=
+=
+=
+]
+_]
+]
+^
+^
+^]
+lim f "
+] g ve limg "
+] g limitleri mevcut olmak üzerI. Toplama kural 
+    (İki fonksiyonun toplamının limiti, limitlerinin toplamıdır.)
+II. Fark kural 
+lililif g f g -
+=
+-
+"
+"
+"
+^ ]
+]
+]
+]
+g    (İki fonksiyonun farkının limiti, limitlerinin farkıdır.)
+III. Çarpma kural 
+lililif g f g $
+$
+=
+"
+"
+"
+^ ]
+]
+]
+]
+g     (İki fonksiyonun çarpımının limiti, limitlerinin çarpımıdır.)
+IV. Sabit ile çarpma kural  
+lilik f f $
+$
+=
+"
+"
+]
+]
+]
+g     (Bir fonksiyonun bir sabitle çarpımının limiti, fonksiyonun limitinin bu sabitle çarpımıdır.)
+V. Bölme kural 
+lilililig vg olmazerg f g !
+!
+=
+"
+"
+"
+"
+]
+]
+]
+]
+]
+]
+    (İki fonksiyonun bölümünün limiti, bölen ile bölenin limitinin sıfır olmaması koşuluyla  
+    bu fonksiyonların limitlerinin bölümüdür.)
+lililif g f g +
+=
++
+"
+"
+"
+^ ]
+]
+]
+]
+g!
+^
+Matematik $
+-
++
+)
+lililif g f g bulunu$
+-
+=
+-
+=
+-
+-
+-
+=
+-
+-
+-
+-
++
+=
++
++
+- -
++
+=
+- -
+=
+"
+"
+"
+-
+-
+-
+^ ]
+]
+]
+]
+^
+]
+]
+]
+]
+]
+]
+]
+^
+]
+g$
+-
++
+)
+lililif g f g bulunu$
+$
+$
+$
+$
+$
+$
+=
+=
+-
+-
+=
+-
+-
+-
++
+=
++
++
+-
++
+=
+-
+=-
+"
+"
+"
+-
+-
+-
+^ ]
+]
+]
+]
+^
+]
+]
+]
+]
+]
+]
+]
+^
+]
+g2 $
+-
++
+) lililif g bulunu3 $
++
+=
++
++
+=
++
+=
+"
+"
+"
+=
++
+=
++
+^ ]
+]
+]
+]
+]
+]
+]
+g) lililig f g f bulunu3 2 $
+$
+=
+=
+=
++
+-
++
+=
+"
+"
+"
+]
+]
+]
+]
+]
+]
+]
+$
+2 -
++
+) lilif f bulunu$
+$
+$
+$
+$
+-
+=-
+=-
+=-
+=-
+-
++
+=-
+"
+"
+^
+]
+]
+]
+]
+g2 $
+-
++
+) lililif g f g bulunu3 5 2 $
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
++
+=
++
+=
++
+=
++
++
+=
+-
++
++
++

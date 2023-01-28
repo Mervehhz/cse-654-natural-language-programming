@@ -1,0 +1,400 @@
+^
+^
+^
+^
+^
+^
+]
+]
+^
+g)
+)
+, , , ,)
+)
+)
+)
+, , , ,)
+1 0 1 0 1 0 -
+-
+-
++
++
+]
+^
+^
+^
+^
+]
+^
+]
+]
+]
+3 $
+a=
+-
+^
+i biçiminde tanımlanan 
+a^
+h dizisi için 6  oranı kaçtır?
+=
+!
++
+-
+^
+d ]
+g n  biçiminde tanımlanan 
+a^
+h  dizisi için 2 =
++
++
+ olduğuna göre n  
+kaçtır?
+a^
+h bir aritmetik dizi olmak üzere 
++
++
+=
+ olduğuna göre +
++
+ 
+değeri kaçtır?
+İlk n teriminin toplamı =
++  olan bir 
+a^
+h geometrik dizisinde +
++
+ toplaı kaçtır?
+ 
+ 
+Bir aritmetik dizinin ilk terimi 1 dir. Bu dizini ilk 15 teriminin toplamı S15 , ilk 10 
+teriminin toplamı S10  ve -
+=
+ 
+olduğuna göre dizinin 7. terimi kaçtır?
+İlk terimi 1 =
+ ve ortak çarpanı =
+ 
+olan bir a^
+h geometrik dizisinde +
+ 
+toplamı kaçtır?
+ 
+ 
+           
+9 kişilik bir öğrenci grubunda öğrencilerin 
+ağırlıkları bir aritmetik dizi oluşturmaktadır. 
+En hafif öğrenci 50 kg dır. Tüm öğrencilerin 
+ağırlıkları toplamı 558 kg olduğuna  göre 
+en ağır öğrenci kaç kg dır?
+ 
+               
+Aşağıda numaralarla verilen dizilerin eşitlerin harf ile verilen dizilerle eşleştirinizIIIIIIIVVÖlçme ve DeğerlendirmMatematik D) 14-43. çoktan seçmeli soruları çözünü     ve doğru seçeneği işaretleyiniz)
+)
+)
+)
+)
++
+-
++
+-
+=
+=
+=
+=
+=
+]
+]
+]
+]
+/
+/
+/
+/
+/
++
++
++
++
+ 
+toplamının /  sembolü ile ifadesi aşağıdakilerde hangisidir?
++
++
++
++
+ 
+toplamının /  sembolü ile ifadesi aşağıdakilerde hangisi olamaz?
+)
+)
+)
+)
+)
++
+-
+-
+-
+=
+=
+=
+=
+=
+]
+]
+]
+]
+/
+/
+/
+/
+/
+, , , , , ,
+,
+,
+,
+,
+,
+1 1 2 3 5 21 89 -
++
+^
+h 
+dizisi Fibonacci dizisi olduğuna göre 
+a $
+ çarpımı kaçtır?
+)
+)
+)
+)
+)
+-
++
+a=
+^
+dizisinin en küçük terimi kaçtır?
+)
+)
+)
+)
+)
+-
+-
+$
+!
+=
+-
+-
+^
+]
+g i dizisi veriliyor. 
+Buna göre +
++
+ ifadesinin eşiti aşağıdakilerde hangisidir?
+)
+)
+)
+)
+)
+E -
++
++
+-
++
+!
+,
+n tek isift is$
+=
++
+-
+, ]
+]
+*
+ 
+Yukarıda a^
+h dizisinin genel terimi verilmişti. 
+Buna göre 8  oranı kaçtır?
+)
+)
+)
+)
+)
+,
+$
+!
+=
++
++
+^
+Yukarıda bir a^
+h dizisine ait indirgeme bağıntıs verilmiştir1 =
+ olduğuna göre bu dizinin 20. terii kaçtır?
+A) 384   B) 356   C) 344   D) 343   E) a^
+h bir geometrik dizi olmak üzere 
+$
+^
+ ifadesinin eşiti aşağıdakilerden 
+hangisidir?
+)
+)
+)
+)
+)
+x ve y doğal sayılardır. 6, x, y, 16 sayılarında ilk üçü sırasıyla bir aritmetik dizinin, 
+son üçü sırasıyla bir geometrik dizinin ardışı terimleridir. 
+Buna göre -
+ farkı kaçtır?
+A) 2        B) 3        C) 4        D) 5        E) Dizile,
+,
+!
+=
+=
+=
++
+-
+-
+^
+şeklinde tanımlanan tam sayılar dizisindek sayılara Fibonacci sayıları, 
+^
+h dizisine 
+ise Fibonacci dizisi denirBuna göre +
+ toplamı kaçtır?
+)
+)
+)
+)
+)
+=
++
++
+=
++
++
++
+^
+^
+dizileri eşit diziler olduğuna göre -
+ 
+farkı kaçtır?
+A) 1        B) 2        C) 3       D) 4        E) Genel terimi an  olan bir dizide 
+ve =
+=
+:
+                                  
+olduğuna göre a6  kaçtır? 
+)
+)
+)
+)
+)
+     
+Bir a^
+h dizisinde 
+,
+ve $
+$
+!
+=
+=
++
++
+^
+h 
+indirgeme bağıntısı veriliyor. 
+Buna göre bu dizinin 20. terimi kaçtır?
+)
+!
+)
+!
+)
+!
+)
+!
+)
+!
+Mehmet Bey, oğluna her hafta bir önceki 
+haftadan 5 TL fazla harçlık vermektedirOğluna ilk hafta 5 TL harçlık veren Mehme Bey, 26 haftada toplam kaç TL harçlı vermiştir?
+A) 1455             B) 1555             C) 1655      
+             D) 1755             E) ,
+,
+^
+h sonlu dizisi hem aritmetik hemde 
+geometrik dizidir. 
+Buna göre 35+
+ toplamı kaçtır?   
+   
+a^
+h bir geometrik dizi olmak üzer9$
+$
+=
++
++
++
+-  
+olduğuna göre a6  kaçtır?
+,
+$
+!
+=
+-
++
++
+:
+^
+Bir geometrik dizinin ilk terimi a, ortak çarpan 4 ve n inci terimi b dir. 
+Buna göre dizinin ilk n terim toplamının 
+a ve b türünden eşiti aşağıdakilerden 
+hangisidir?
+)
+)
+)
+)
+)
+-
+-
+-
+-
+-
+Bir a^
+h aritmetik dizisinin ardışık üç 
+terimi sırasıyla 
+,
+,
++
+ olduğun göre x sayısı aşağıdakilerden hangisidi?
+,
+,
+,
+a a v+
+ sayıları bir geometri dizinin ardışık beş terimidir. 
+Buna göre +
+ toplamı kaçtır?
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+Matematik bir aritmetik dizidive -
+=
+=
+^
+^
+olduğuna göre a15  kaçtır?
+                           
+)
+)
+)
+)
+)
+a^

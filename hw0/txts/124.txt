@@ -1,0 +1,400 @@
+b v(z )
+53Re(z )
+3b v(z )
+&
+&
+=
++
+-
+=
++
+= -
+=
++
+-
+=
+-
+=
+ olarak bulunur. 
+,
+a !
+ olmak üzere i ve =
++
+-
+=
++
+-
+ karmaşık sayıları veriliyor. 
+‹
+‹
+Re (z ) ve Re (z )
+=
+=
+]
+]
+ olduğuna göre a $
+ ifadesinin değerini bulunuz=
+-
+-
+ karmaşık sayısı veriliyor. 
+m(z)
+Re(z)
+‹
++
+ ifadesinin değerini bulunuz 
+$
+=
+-
+-
+=
+-
+-
+=
+-
+:
+ olarak bulunur.  Buradan 
+5Re(z)
+12 ve m(z)
+‹
+=
+=
+=
+&
+-
+-  değerleri 
+Re(z)
+( )
+‹
++
+ ifadesinde yerine yazılırsa 
+Re(z)
+( )
+‹
++
+=
++ -
+=
+^
+ olurBu değerler 
+‹
+‹
+Re (z ) ve Re (z )
+=
+=
+]
+]
+ ifadelerinde yerine yazılırs‹
+‹
+IRe (z )
+Re (z )
+&
+&
+=
++
+=
+=
+-
+= -
+]
+]
+^
+^
+h 
+(I) ve (II) nolu denklemler taraf taraf toplanırsa &
+=
+=
+ bulunur. Bulunan değer (I) de yerine yazılırs 
+&
++
+=
+=
+ bulunur. Buradan a 1 $
+$
+=
+=
+ olurİkinci Dereceden Denklemleİkinci Dereceden Denklemlei olur=
+=
+=
+=
+=
+=
+=
+=
+=
+-
+-
+İpuc5=
+-
+-
++
+i  karmaşık sayısı veriliyor. Re(
+)
+( )
+‹
+= -  olduğuna göre a gerçek sayısının alabileceğ değerleri bulunuz‹
+Re(z)
+v(z)
+55&
+=
+-
+=
+= -
+-
+-
++
++
+  olarak bulunur. Bu değerler 
+Re(
+)
+( )
+‹
+= -  eşitliğinde yerine yazılırsa 
+755&
+-
+= -
+-
+= -
++
+-
+-
+-
+-
+^
+h oluveya olu&
+$
+-
+-
+-
+=
+-
+-
+=
+-
++
+=
+=
+= -
+^
+^
+-
+=  sayısına sanal sayı birimi deni. i sanal sayı biriminin kuvvetleri,
+eklinde olu$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+=
+=
+-
+= -
+=
+= -
+= -
+=
+= -
+-
+=
+=
+=
+=
+=
+=
+=
+= -
+=
+= -
+= -
+=
+= -
+= -
+= -
+-
+=
+]
+]
+]
+]
+]
+]
+^
+]
+]
+ 
+Aşağıdaki işlemlerin sonucunu bulunuza)  
+$
+-
+-
+b) 
+$
+$
+-
+-
+-
+a)  
+i $
+$
+$
+$
+$ $
+$
+-
+-
+=
+-
+-
+=
+=
+= -  olurb) 
+i i 4 i 28=
+=
+$
+$
+$
+$
+$
+$
+$ $
+$ $
+$
+-
+-
+-
+=
+-
+-
+-
+=
+-
+ olurİkinci Dereceden Denklemleİkinci Dereceden Denklemle,
+a !
+ olmak üzere b=
++
+ karmaşık sayısının sanal kısmının işareti değiştirilerek oluşturula b-
+ karmaşık sayısına b+
+ karmaşık sayısının eşleniği denir ve b=
+-
+ ile gösterilirBilg, b,
+ve !
+!
+ olmak üzere ab2 +
++
+=
+ ikinci dereceden bir bilinmeyenli denkleminde 
+ ise denklemin sanal kökleri vardırKökler ve = - +
+= - -
+ olur ve bu kökler birbirinin eşleniğidir. Bir başka ifadeyle 
+,
+m !
+ olmak üzere sanal köklerden biri n+
+ ise diğeri n-
+ olur2 +
++
+=
+ denkleminin karmaşık sayılar kümesindeki çözüm kümesini bulunuza 4 1 $
+$
+$
+$
+=
+-
+=
+-
+=
+-
+= -
+ bulunur. Dolayısıyla bu denklemin sanal kökleri vardır. 
+Bu kökler;
+2 $
+$
+$
+$
+= - +
+= - +
+-
+= - +
+-
+= - +
+=
+- +
+= - +
+]
+,
+2 $
+$
+$
+$
+= - -
+= - -
+-
+= - -
+-
+= - -
+=
+- -
+= - -
+]
+ olur. 
+Buradan Çi,
+= - +
+-
+-
+"
+,  olarak bulunurBilgAşağıdaki karmaşık sayıların eşleniklerini bulunuza) 1 =
++
+               b) 2 = - +                c) 3 = - -
+               ç) i4 =
+               d) 5 = -
+a) 1 =
++
+ karmaşık sayısının eşleniği 1 =
+-
+ olurb) = - +
+ karmaşık sayısının eşleniği  = - -
+ olurc) = - -
+ karmaşık sayısının eşleniği  3 = - +
+ olurç) i=
+ karmaşık sayısının eşleniği  i= -
+ olurd) = -
+ karmaşık sayısının eşleniği = -
+ olurİkinci Dereceden Denklemleİkinci Dereceden Denklemle1. =
+-
++
+-
+ sayısını ,
+a !
+ olmak 
+üzere b=
++
+ şeklinde yazınız. 
+2. =
+-
+-
+-
+ ifadesini ,
+a !
+ olmak 
+üzere b=
++
+ şeklinde yazıp a $
+ ifadesinin 
+değerini bulunuz. 
+3. Aşağıdaki karmaşık sayıların eşleniklerini bulunua) 1 =
+-
+ 
+b) i= -
++
+ 
+c) i3 =
+ 
+ç) =
+  
+ 
+4. = - +
+ karmaşık sayısı için 

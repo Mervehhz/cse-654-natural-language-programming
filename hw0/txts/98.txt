@@ -1,0 +1,400 @@
+ için 
+olu&
+&
+=
+-
+=
+=
+"
+,
+:
+( )
+f =
++
+ ve 
+"
+,
+:
+( )
+g =
+-  fonksiyonları veriliyor.  
+Verilen bu fonksiyonlar içi( )
+( )
+fogo!
+^
+^
+ olduğunu gösteriniz(
+)( )
+( ( ))
+( )
+(
+)
+fof g g =
+=
++
+=
++
+=
+-
++
+,
+(
+)( )
+( ( ))
+( )
+gog f f $
+$
+=
+=
+-
+=
++
+-
+=
++
+-
+=
++
+^
+ olurBuradan 
+( )
+( )
+fogo!
+^
+^
+ olduğu görülür1, 2 , 2, 3 ,
+,
+2, 7 , 3, 8 , 4, ve 3 =
+=
+^
+^
+^
+^
+^
+^
+"
+"
+,
+,  ise gof  fonksiyonunun tanım kümesini ve 
+görüntü kümesini bulunuzVerilen fonksiyonlar Venn şeması ile yandaki gibi gösterilirse gof  
+fonksiyonunun tanım kümesi 
+1, 2, A = "
+,  ve görüntü kümesi 
+7, 8, C = "
+,  bulunurBu durumda 
+1, 7 , 2, 8 , 3, gof = ^
+^
+^
+"
+,  olur"
+,
+:
+( )
+f =
+-
+ ve 
+"
+,
+:
+( )
+g =
+-
+ olduğuna göre (
+)( )
+fo=
+ eşitliğini sağlayan a  
+değerini bulunuzolur(
+)( )
+( ( ))
+( )
+( )
+fof g g g &
+&
+&
+&
+&
+=
+=
+-
+=
+=
+-
+=
+=
+İpuc"
+,
+:
+( )
+f =
++
+ fonksiyonu veriliyor. (
+)( )
+foa=
++
+ olduğuna göre a  ve k  değerlerini bulunuz(
+)( )
+( ( ))
+(
+)
+(
+)
+foaf f aaaavise olu&
+&
+$
+=
++
+=
++
++
+=
++
++
++
+=
++
++
+=
++
+=
+=
+=
+ma,
+:
+a "
+,  a ve b elemanlarından büyük olan,  mi,
+:
+a "
+,  a ve b elemanlarından küçük olan olmak 
+üzere 
+"
+,
+ma,
+:
+( )
+f =
++
+&
+0  ve 
+"
+,
+mi,
+:
+( )
+g -
+=
+"
+&
+,
+0  fonksiyonları veriliyor.  
+Buna göre (
+)(
+)
+fo5  değerini bulunuzf(
+)
+=
+mamaolu=
+=
+=
+(fog)( 5 )
+f(g( 5 ))
+f(mi2 , min 4 , 1 ,
+5 ,
+)
+(
+)
+=
+=
+=
+[
+\
+]]]]
+]]]]
+*
+(
+&
+`
+bbbbbb"
+"
+"
+,
+,
+,
+:
+( )
+:
+( )
+:
+( )
+f g h =
++
+=
+=
+`
+bbbbbbbb fonksiyonları veriliyor.(
+(
+))( )
+((
+)
+)( )
+fo gofog o=
+ olduğunu gösteriniz(
+(
+))( )
+(
+( ))
+(
+)
+(
+)( )
+( ( ))
+(
+)
+(
+)
+fo gof goh gog h =
+=
+=
+=
+=
+=
+=
++
+Burada((
+)
+)( )
+(
+)( ( ))
+(
+)(
+)
+(
+)( )
+( ( ))
+(
+)
+(
+)
+(
+)
+(
+)
+fog ofoh fofof g f fo gofog oh oldu u g r l €
+ö ü =
+=
+=
+=
+=
++
+=
++
+=
++
+=
+Fonksiyonlarda bileşke işleminin birleşme özelliği vardır. Bu özellik 
+(
+)
+(
+)
+fo gofog o=
+ 
+olarak ifade edilir, 2, 3, 4,
+= "
+,  olmak üzere :f "
+ ve :"
+ bire bir fonksiyonları veriliyor. (
+)( )
+go şartını 
+sağlayan kaç farklı gof  fonksiyonu olduğunu bulunuzf ve g fonksiyonları A kümesinden A kümesine tanımlı ve bire bir olduğundan, gof fonksiyonu da A kümesinde A kümesine tanımlı ve bire bir olur(
+)( )
+go ise (
+)( )
+go=
+ olur 
+"
+:
+B  ve 
+"
+:
+C  fonksiyonları örten ise 
+"
+:
+goC  fonksiyonu da örtendirBilg"
+:
+B  ve 
+"
+:
+C  fonksiyonları bire bir ise 
+"
+:
+goC  fonksiyonu da bire birdir"
+:
+goC  olduğundan x , !
+ alınsın(gof)(x )
+(gof)(x )
+g(f(x ))
+g(f(x ))
+ndan)
+f(x )
+f(x )
+(g fonksiyonu birebir oldu€undan)
+(f fonksiyonu birebir oldu€=
+=
+&
+&
+&
+=
+=
+Bu durumda gof  fonksiyonu bire bir fonksiyondur"
+:
+B  ve 
+"
+:
+C  örten fonksiyonlar olmak üzere,
+!
+ için !
+ öyle ki ( )
+f =
+ yazılabilir6 !
+ için !
+ öyle ki 
+( )
+g =
+ yazılabilirBu durumda 
+( )
+( ( ))
+(
+)( )
+g g f go&
+&
+=
+=
+=
+ olur. O hâlde !
+ için go=
+^
+^ olacak 
+şekilde !
+ vardır ve gof örten bir fonksiyondurBilggof fonksiyonu bire bir olduğundan tanım kümesi olaA daki 1 in görüntüsü, değer kümesi olan A da 1 hariç kalan 4 tane elemandan 
+birisi olabilirA daki 2 nin görüntüsü, değer kümesi olan A da kalan 3 tane elemandan birisi 
+olabilirA daki 4 ün görüntüsü, değer kümesi olan A da kalan 2 tane elemandan birisi 
+olabilirA daki 5 in görüntüsü, değer kümesi olan A da kalan 1 tane eleman olurÇarpma yoluyla sayma prensibine göre bu şartlarda 4 3 2 $
+$
+$
+=
+ farklı gof  
+fonksiyonu yazılabilir!
+ olmak üzere A kümesi üzerinde tanımlı f ve g fonksiyonları veriliyor. 
+       I. fog fonksiyonu bire bir ise g fonksiyonu bire birdir       II. gof  fonksiyonu örten ise g fonksiyonu örtendirifadelerinin doğru olup olmadıklarını bulunuzI. 
+x , 2 !
+ olsun. 
+   
+(
+)(
+)
+(
+)(
+)
+( (
+))
+( (
+))

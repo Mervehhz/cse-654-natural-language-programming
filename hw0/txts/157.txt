@@ -1,0 +1,400 @@
+ç) (A«B)'
+2- 
+•••••••••Yukarıda verilen şemayı inceleyerek, aşağıdaki kümeleri yazınız.  
+a) K'
+b) M'
+c) (K»M)'
+ç) (K«M)'
+d) K«M'
+e) M«K'
+Matematik 2. BölüKümele3- (A'»B)'»B ifadesinin eşiti aşağıdakilerden hangisidir?
+A) A» B) C) D) ∅
+4- s(E) = 22, s(B')=7 olduğuna göre s(B) kaçtır?
+5- Aşağıda verilen eşitliklerden doğru olanın yanına "D" yanlış olanına "Y" harfi 
+yazınız(   ) C«       C' = ∅
+(   ) A»      A' = ∅
+(   ) E' = ∅
+(   ) (A')' = ∅
+(   ) s(A) + s(A') = 6- A ve B, E evrensel kümesinin iki alt kümesi olmak üzere s(E)=28, s(A«      B)=olduğuna göre s(A'»B') nin değeri aşağıdakilerden hangisidir?
+A) B) C) D) 7- BÃAÃE olmak üzere s(A) = 2 . s(B), s(B') = 20 ve s(E) = 25 olduğuna göre s(A) kaçtır?
+Küme Problemleri 
+Küme problemlerinin çözümünde Venn şemasından yararlanılır. 
+A veya B dillerini bilenler veya bu dilleri bilmeyenlerin bulunduğu bir sınıfta,
+Her iki dili bilenlerin sayısı: Bir dil bilenlerin sayısı: a + Dil bilmeyenlerin sayısı: Yalnız A dilini bilenlerin sayısı: Yalnız B dilini bilenlerin sayısı: En az bir dil bilenlerin sayısı: a + b + En çok bir dil bilenlerin sayısı: a + c + d şeklinde gösterilirMatematik 2. BölüKümeleBasketbol, voleybol ve futbol oynayanların bulunduğu bir sınıfta,
+Basketbol oynayanların sayısı: a + b + d + e,
+Voleybol oynayanların sayısı: b + c + e + f, 
+Futbol oynayanların sayısı: d + e + f + En az bir sporu yapanların sayısı: a + b + c + d + e + f + En az iki sporu yapanların sayısı: b + d + e + En çok bir sporu yapanların sayısı: a + c + g + Üç spordan yalnız birini oynayanların sayısı: a + c + Üç spordan yalnız ikisini oynayanların sayısı: b + d + f 
+ifadelerinden yararlanılarak hesaplanır. 
+BİLGİ KUTUSKümelerde "veya" bağlacı birleşim "ve" bağlacı kesişim anlamında kullanılırÖRNEKLE1- Fransızca ve Almanca dillerini bilen ve bilmeyen öğrencilerden oluşan bir sınıfta,
+a) Sadece bir dil bilenlerin kümesini,
+b) En az bir dil bilenlerin kümesini,
+c) En fazla bir dil bilenlerin kümesini,
+ç) Hiç dil bilmeyenlerin kümesini Venn şemasında gösterelimMatematik 2. BölüKümeleÇözüF: Fransızca bilenlerin kümesA: Almanca bilenlerin kümesi olsun. 
+a) Sadece bir dil bilenlere ait küme kırmızı ile boyanmış olan bölgedirb) En az bir dil bilenlere ait küme kırmızı ile boyanmış olan bölgedirc) En fazla bir dil bilenlere ait küme kırmızı ile boyanmış olan bölgedirç) Hiç dil bilmeyenlere ait küme kırmızı ile boyanmış olan bölgedir2- Yandaki Venn şemasında İngilizce ve Almanca konuşan öğrencileri kümesi ve içlerinde eleman sayıları verilmiştir. 
+Buna göre İngilizce konuşan kaç kişi vardır? Bulalım. 
+Matematik 2. BölüKümeleÇözüİngilizce konuşanlara ait bölgeyi kırmızı ile boyayalımİngilizce konuşanlar: İ = 8 +        = 12 kişidir. 
+3- 
+Yukarıdaki Venn şemasında Fransızca, İngilizce ve Almanca konuşan öğrencilerin 
+kümesi ve içlerinde eleman sayıları verilmiştir. Buna göre iki dil konuşanların sayıs kaçtır? Bulalım. 
+Çözüİki dil bilenlere ait kümeyi kırmızı ile boyayalım. 
+ İki dil konuşanlar: 4 + 3 = 7 kişidir4-  Aşağıdaki Venn şemasında voleybol, basketbol ve futbol oynayan öğrenciler ve içlerind eleman sayıları verilmiştir. Buna göre sadece bir spor yapan kaç kişidir?
+BulalımÇözüVenn şemasında verilenlere göre sadece bir spor yapan 3 + 6 + 5 = 14 kişidirMatematik 2. BölüKümele5-  İngilizce, Almanca ve Fransızca dillerinden en az birini bilenlerin bulunduğu kişilik bir sınıfta Almanca bilenlerin sayısı 20, İngilizce bilenlerin sayısı 22, Fransızc bilenlerin sayısı 18'dir. Bu sınıfta sadece iki dil bilenlerin toplam sayısı olduğuna göre her üç dili de bilenlerin sayısı kaçtır? BulalımÇözüVenn şeması çizelim. 
+d: Her üç dili de bilenleri temsil etsin. 
+s(A»İ»F) = s(A) + s(İ) + s(F) − s(A«İ)− s(A«F)− s(F«İ) + s(A«F«İ)
+       40 = 20 + 22 + 18 − (a + d) − (b + d) − (c + d) +        40 = 60 − a − d − b − d − c − d +        40 = 60 − (a + b + c)
+ − 2       2d = 60 − 40 −        2d =          d = 4  = 2     her üç dili bilen 2 kişidir. 
+6- Voleybol ve basketbol sporlarından en az birini yapan öğrencilerin bulunduğu   34 
+kişilik bir sınıfta 25 kişi voleybol, 18 kişi basketbol oynamaktadır. Buna göre bsınıfta voleybol ve basketbol oynayan kaç kişidir? BulalımÇözüVenn şeması çizelim. Verilenleri şema üzerinde gösterelim25−x 18−sadece voleybol 
+oynayanlar 
+sadece basketbol 
+oynayanlar 
+hem voleybol hem de 
+basketbol oynayanlar 
+Matematik 2. BölüKümele34 = 25 − x + x + 18 − x   ise 
+34 = 43 −    x = 43 −   x = 9              Hem voleybol hem de basketbol oynayan 9 kişidir. 
+7- 42 kişilik bir sınıfta Türkçe dersinden geçenlerin sayısı matematik dersinden geçenleri sayısına eşittir. Bu sınıfta iki dersten de geçen 10, her iki dersten kalan kişi olduğuna göre yalnız Türkçe dersinden geçen kaç kişidir? BulalımÇözüTürkçe dersinden geçenler: Matematik dersinden geçenler: M olsuVenn şeması çizelim. 
+42 = x + 10 + x + 42 = 2x + 2x = 42 − 24 = x = 9    Yalnız Türkçe dersinden geçen 9 kişi vardır. 
+8- A, B ve C gazetelerinden en az birini okuyanlardan oluşan 68 kişilik bir toplulukta,
+bu gazetelerden yalnız birini okuyanların sayıları eşittir. Bu gazetelerden herhangi 
+ikisini okuyanların sayıları eşit ve üçünü de okuyan 8 kişi olduğuna göre A 
+gazetesini okuyan en az kaç kişidir? BulalımÇözüYalnız A, B ve C gazetesini okuyanları: Herhangi ikisini okuyanları 
+        : y ile gösterelim. 
+ 3x + 3y + 8 = 3(x + y) = 60 ⇒ x + y = A gazetesini okuyanlar: x + 2y + x + y = 20, y = 0 için x = 20 (x + 2y + 8 in en az olması için)
+= 20 + 2.0 += 28 olur. 
+Matematik 2. BölüKümelePROBLEMLE1- Futbol, basketbol ve voleybol sporlarından yalnızca birini yapan sporcuların bulunduğ bir kafilede, futbol oynamayan 20, voleybol oynamayan 22, basketbol oynamaya 14 sporcu olduğuna göre bu kafilede kaç sporcu vardır?
+2- 40 kişilik bir sınıfta erkeklerin 10 u gözlüklüdür. Gözlüksüz öğrenci sayısı 18 ve kıöğrenci sayısı 24 olduğuna göre sınıfta gözlüklü kaç kız öğrenci vardır?
+3- Sarışın ve esmer öğrencilerin bulunduğu bir sınıfta, 12 kişi sarışın diğerleri esmerdi. Sınıfta 19 kız öğrenci olduğuna göre sınıftaki esmer kız öğrenci sayısı, sarışı erkek öğrenci sayısından kaç fazladır?
+4- İngilizce veya Fransızca dillerinden en az birinin konuşulduğu bir sınıfın mevcud25 tir. İngilizce ve Fransızca bilenlerin sayısı 10, sadece Fransızca bilenlerin sayıs12 olduğuna göre sadece İngilizce bilen kaç kişidir?
+5- 50 kişilik bir kafiledeki turistler İngilizce, Almanca ve Fransızca dillerinden en aikisini bilmektedir. İngilizce ve Almanca bilen 14 kişi, Fransızca ve Almanca bile16 kişi, İngilizce ve Fransızca bilen 12 kişi olduğuna göre bu üç dili de bilen kakişidir?
+Sıralı İkili 
+x ve y gibi herhangi iki eleman arasında belirli bir sıra gözetilerek oluşturulan (x, y) 
+çiftine sıralı ikili veya ikili denir. 
+(x, y) sıralı ikilisinde x e birinci bileşen, y ye ikinci bileşen denir. Sıralı ikililerde 
+elemanların yazılış sırası önemlidir. Bu nedenle (x, y) ile (y, x) ikilisi birbirinden farklıdı.  
+xπy ise (x, y) π (y, x) olur. 
+İkililerin Eşitliği 
+(x, y) = (a, b)
+birinci bileşenler 
+ikinci bileşenler 
+İkililerin eşitliğinde x = a  ve  y = b olmalıdır. 
+Matematik 2. BölüKümeleÖRNEKLE1- (4x − 2, 2y + 8) = (6, −4) olduğuna göre x ve y değerlerini bulalımÇözü(4x − 2, 2y + 8) = (6, −4) ise   
+4x − 2 = 6      ve      2y + 8 = −       4x = 6 + 2 
+       2y = −4 −        4x = 8 
+       2y = −         x = y = 
+-
+x = y = −Buna göre x = 2, y = −6 olur. 
+2- (2x − 3, 3y + 2) = (7, −7) olduğuna göre (x, y) ikilisini bulalımÇözü(2x − 3, 3y + 2) = (7, −7) ise   
+2x − 3 = 7      ve      3y + 2 = −      2x = 7 + 3 
+       3y = −7 −       2x = 10 
+       3y = −x = y = -
+x = y = −Buna göre (x, y) = (5, −3) e eşittir. 
+3- (3x − 11, y + 6) = (1, 16) olduğuna göre x + y toplamını bulalımÇözü(3x − 11, y + 6) = (1, 16) ise   
+3x − 11 = 1      
+ve       y + 6 =         3x = 1 + 11 
+        y = 16 −         3x = 12 
+y = x = Buna göre x + y toplamı 4 + 10 = 14 olur. 
+Matematik 2. BölüKümele4- (−6x, 4y − 3) = (12, 5) olduğuna göre x . y çarpımı kaçtır? BulalımÇözü(−6x, 4y − 3) = (12, 5)    ise    
+    − 6x = 12      
+ve      4y − 3 = 5 olur. 
+− 6x = 12   eşitliğinin her iki tarafını eksi ile çarpalım 4y = 5 +   4y =     y = y =    
+− (− 6x = 12)
+ 
+         6x = −12 
+ 
+x = 
+-
+ 
+x = −x . y çarpımı −2 . 2 = −4  olur. 
+5- (x − 6, 4y + 2) = (−x + 2, x + 5) olduğuna göre x − y farkı kaçtır? BulalımÇözü(x − 6, 4y + 2) = (−x + 2, x + 5)    isx− 6 = −x + 2          ve   4y +2 = x +         ↓
+x + x = 2 + 6 
+4y = 4 + 6 − 2x = 8 
+4y = x = y = x − y farkı 4 − 2 = 2  olur. 
+ALIŞTIRMALA1- Birinci bileşeni 2, ikinci bileşeni (−5) olan sıralı ikili aşağıdakilerden hangisidir?
+A) (−2, −5)
+B) (2, −5)
+C) (−5, 2)
+D) (2, 5)
+2- (x − 4, 2y + 3) = (8, −7) olduğuna göre (x, y) ikilisinin değeri kaçtır?
+3- (2x − 7, y + 4) = (1, 5) olduğuna göre x + y toplamı kaçtır?
+Matematik 2. BölüKümele4- (x−7, 2y+1) = (−x + 3, x + 6) olduğuna göre x−y  farkı kaçtır?
+5- (−4x, 3y−1) = (16, 8) olduğuna göre x . y çarpımı kaçtır?
+Kartezyen ÇarpıA ve B boş olmayan herhangi iki küme olmak üzere A x B ={(x, y): x Œ A ve y Œ B} 
+kümesine A ile B nin kartezyen çarpımı denir. 
+Örneğin;
+A= {a, b} ve B={1, 2, 3} kümeleri için,
+A x B = {(a, 1), (a, 2), (a, 3), (b, 1), (b, 2), (b, 3)}
+B x A = {(1, a), (2, a), (3, a), (1, b), (2, b), (3, b)} dir. 
+ÖRNEKLE1- A={c, d} ve B={1, 2, 3} kümeleri veriliyor. Buna göre aşağıda verilen kümelerbulalıma) A x b) B x c) A x Çözüa) A x B = {c, d} x {1, 2, 3} = {(c, 1), (c, 2), (c, 3), (d, 1), (d, 2), (d, 3)}
+b) B x A = {1, 2, 3} x {c, d} = {(1, c), (2, c), (3, c), (1, d), (2, d), (3, d)}
+c) A x A = {c, d} x {c, d} = {(c, c), (c, d), (d, c), (d, d)}
+2- A={5, 6} ve B={a, b} olduğuna göre A x B kümesini bulalımÇözüA x B = {5, 6} x {a, b}
+A x B = {(5, a), (5, b), (6, a), (6, b)}
+Matematik 2. BölüKümele3- A x B = {(2, b), (2, a), (2, 2), (3, b), (3, a), (3, 2)} olarak veriliyor. A ve B kümesinielemanlarını bulalımÇözüA x B kümesinin elemanlarının birinci bileşenleri A kümesini, ikinci bileşenleri B 
+kümesini verir. Buna göre A= {2, 3}, B={b, a, 2} dir. 
+4- A={3, 5}, B={1, 3, 7} olduğuna göre aşağıdaki ikililerden hangisi A x B nin elemalarından biri değildir?
+A) (1, 3)
+B) (3, 7)
+C) (5, 1)
+D) (5, 3)
+ÇözüÖnce A x B yi yazalım. 
+A x B={3, 5} x {1, 3, 7}
+A x B={(3,1), (3,3), (3, 7), (5,1), (5,3), (5, 7)} dir. 
+Buna göre A seçeneğinde verilen (1, 3) ikilisi AxB kümesinin elemanlarından biri 
+değildirKartezyen Çarpımın Eleman SayısA ve B boş olmayan iki küme, s(A)=m ve s(B)=n olmak üzere 
+s(A x B) = s(A) . s(B) = m . n dir. 
+Kartezyen Çarpımın Özellikler1- A π B ⇔ A x B π B x 2- A x (B x C) = (A x B) x C = A x B x C dirA x A=A2 ve A x A x A = A3 türR x R=R2; Kartezyen(analitik) düzlemdirR x R x R = R3; uzaydır3- A x (B»C) = (A x B)»(A x C)
+A x (B«C) = (A x B)«(A x C)
+A x (B−C) = (A x B)−(A x C) dirMatematik 2. BölüKümeleÖRNEKLE1- A= {a, b, c}, B= {1, 2, 3, 4, 5} ve  C= {6, 7, 8} olduğuna göra) s(A x B)
+b) s(B x C)
+c) s(C x A)
+ç) s(B x B)  değerlerini bulalımÇözüA= {a, b, c} ise s(A)=3,  B= {1, 2, 3, 4, 5} ise s(B)= 5, C= {6, 7, 8} ise s(C)=3 tür. O 
+hâlde, 
+a) s(A x B) = 3 . 5 = b) s(B x C) = 5 . 3 = c) s(C x A) = 3 . 3 = ç) s(B x B) = 5 . 5 = 25 bulunur2- s(A x B) = 42, s(A) = 6 olduğuna göre s(B) nin değeri kaçtır?
+Çözü        s(A x B) = s(A) . s(B) olduğuna göre 
+               42    =   6    .  s(B)
+. ( )
+s =
+       s(B) = 7 bulunur. 
+3- A={x: 1 ≤ x ≤ 5, x Œ Z},  B={x: 2 < x < 8, x Œ Z}   ve   C={2, 4, 7, 8} olduğuna görs((A»B) x C) değerini bulalımÇözüA={x: 1 ≤ x ≤ 5, x Œ Z} ise A= {1, 2, 3, 4, 5} 
+B={x: 2 < x < 8, x Œ Z}  ise B= {3, 4, 5, 6, 7}
+A»B={1, 2, 3, 4, 5, 6, 7}, s(A»B) = 7 ve C={2, 4, 7, 8} olduğundan s(C)=4 türBuna göre s(A»B)xC = s(A»B) . s(C)
+      = 7 . 4 
+      = 28 olur. 
+Matematik 2. BölüKümele4- s(AxB) = 48 ve s(A)=6 olduğuna göre s(BxB) kaçtır?
+Çözüs(AxB) = s(A) . s(B) olduğunda        48 = 6 . s(B)
+     s(B) = 8 olur. 
+s(BxB) = 8 . 8 = 64 bulunur. 
+5- A = {a, b, c} kümesi veriliyor. Buna göre A2 kümesinin elemanlarını yazalımÇözüA2  = (AxA) olduğundaA2  = {a, b, c} x {a, b, c}
+A2  = {(a, a), (a, b), (a, c), (b, a), (b, b), (b, c), (c, a), (c, b), (c, c),} olur6- A = {1, 6, 3} ve B={6, 8} olarak veriliyor. Buna göre aşağıdaki kümeleri yazalıma) (AxB)«(BxA)
+b) (AxB)\(BxA)
+Çözüa) (A x B)«(B x A)={(1,6), (1,8), (6,6), (6,8), (3,6), (3,8)}«{(6,1), (6,6), (6,3), (8,1), (8,6), (8,3)}
+          = {(6, 6)} olurb) (A x B)\(B x A)= {(1, 6), (1, 8), (6, 8), (3,6), (3, 8)} dirKartezyen Çarpım GrafiğA x B nin grafiğini çizerken A kümesinin bütün bileşenlerini (elemanlarını) x 
+ekseni üzerinde işaretleriz ve her elemandan x eksenine dikme çizeriz. B kümesinin 
+bütün bileşenlerini (elemanlarını) y ekseni üzerinde işaretleriz ve her elemandan y 
+eksenine dikme çizeriz. 
+Çizilen bütün dikmelerin kesim noktaları A x B kartezyen çarpımının grafiğini 
+oluşturur. 
+Matematik 2. BölüKümeleÖRNEKLE1- A= {1, 2}  ve  B={2, 3} olduğuna göre A x B nin grafiğini çizelimÇözüAxB grafiğini çizerken A kümesinin elemanlarını x eksenine, B kümesinin elemanların y eksenine yerleştirelimAxB nin grafiği 
+(Dikmelerin kesişim noktaları)
+BİLGİ KUTUSSonlu kümelerin kartezyen çarpımlarının grafiği sonlu sayıda noktalardan 
+oluşur. AxB nin elemanları da sonlu sayıda nokta olur. 
+2- A= {−2, 0, 2} ve B= {−1, 3} olduğuna göre BxA nın grafiğini çizelimÇözüA ve B kümeleri sonlu kümelerdir. B x A nın grafiğini çizerken, B kümesinin elemalarını x eksenine, A kümesinin elemanlarını y eksenine yerleştirelim. Her elemadan bulundukları eksenlere dikmeler çizelim. Dikmelerin kesim noktası Bxnın grafiği olur--Matematik 2. BölüKümeleALIŞTIRMALA1- A= {m, n, p} ve  B={1, 2} kümeleri içia) A x b) B x c) B x B çarpımını bulunuz2- A= {3, 5, 9} ve B={h, g} olduğuna göre aşağıdaki ikililerden hangisi AxB nin elemalarından biri değildir?
+A) (3, h)
+B) (5, h)
+C) (9, h)
+D) (h, h)
+3- K= {p, r, s, t},    L={3, 5, 7, 9, 11} ve    M={a, b, c} olduğuna göra)  s(K x L)
+b) s(L x M)
+c) s(K x M)
+ç) s(L x L) değerlerini bulunuz4- A= {x: 2 ≤ x ≤ 6, x Œ Z},    B={x: 3 < x < 10, x Œ Z} ve C = {4, 6, 8} olduğuna göre 
+s((A»B) x C) değerini bulunuz5- E= {1, b, c},   G={1, 3} olduğuna göra)  (E x G)«(G x E)
+b) (E x G)\(G x E) değerlerini bulunuz6- A= {1, 2, 3} ve B={−1, 1, 2} olduğuna göre A x B nin grafiğini çizinizMatematik 2. BölüKümele2. BÖLÜMÜN ÖZET•
+Varlıkların iyi tanımlanmış bir grubu küme olarak adlandırılır. Kümeler; A, B, C 
+vb. gibi büyük harflerl e gösterilir•
+x ∈ A †   x  elemanının A kümesine ait olduğunu,
+•
+x ∉ A †   x elemanının A kümesine ait olmadığını gösterir. Kümenin elemanları 
+kapalı bir eğri içinde ve soluna birer nokta konularak gösterilir• • • •
+A kümesinin eleman sayısı s(A) veya n(A) ile gösterilir•
+Kümeler; liste yöntemi, Venn şeması, ortak özellik (genelleme) olmak üzere üfarklı yöntemle gösterilir•
+Elemanları sayılabilecek sonlu çoklukta olan kümelere sonlu küme, elemanları sayılamayaca çoklukta olan kümelere sonsuz küme, hiç elemanı olmayan kümeyboş küme (∅, { }), üzerinde işlem yapılan, tüm kümeleri kapsayan ve boş kümedefarklı olan kümeye de evrensel (E) küme denir•
+Aynı elemanlardan oluşan kümelere eşit kümeler (A = B), bütün elemanları aynolmayan kümelere eşit olmayan kümeler (A ≠ B) denir•
+Bir A kümesinde bulunan her eleman (A nın tüm elemanları) bir B kümesinin delemanı ise A kümesi B kümesinin alt kümesidir denir. A⊂B ile gösterilir. AyrıcB kümesi A kümesini kapsar denir ve B⊃A sembolü ile gösterilir•
+n elemanlı bir kümenin kendisi hariç tüm alt kümelerinin sayısı 2n − 1 dir•
+A ve B kümelerinin bütün elemanlarının meydana getirdiği kümeye A birleşim denir ve A∪B şeklinde gösterilir•
+A ve B kümelerinin ortak elemanlarının meydana getirdiği kümeye A kesişim denir ve A∩B şeklinde gösterilir•
+İki kümenin birleşiminin eleman sayısı;
+s(A∪B) = s(A) + s(B) −  s(A∩B) dir. 
+Matematik 2. BölüKümele•
+Üç kümenin birleşiminin eleman sayısı;
+s(A∪B∪C) = s(A) + s(B) + s(C) −  s(A∩B) −  s(A∩C) −  s(B∩C) + s(A∩B∩C) dir• 
+A\B         B\A ve B, E evrensel kümesinin iki alt kümesi  olmak 
+üzere A kümesinde olup, B kümesinde olmayan elemaların oluşturduğu kümeye A fark B kümesi deni. A\B veya A−B şeklinde gösterilir. 
+•
+A ve B ayrık(A∩B =∅) kümeler ise A−B = A,   B−A= B dir•
+B kümesin A kümesinin alt kümesi ise B fark A boş kümedir. (B⊂A Ş B\A = ∅)
+•
+A⊂E olmak üzere E kümesinde bulunup A kümesind bulunmayan elemanların oluşturduğu 
+kümeye A kümesinin tümleyeni denir. A' veya 
+A ile gösterilir. 
+•
+x ve y gibi herhangi iki eleman arasında belli bir sıra gözetilerek oluşturulan (x, y)
+çiftine sıralı ikili veya ikili denir(x, y) = (a, b)
+birinci bileşenleikinci bileşenler 
+•
+İkililerin eşitliğinde x = a  ve  y = b olmalıdır•
+A ve B boş olmayan herhangi iki küme olmak üzere, A x B = {(x, y): x∈A ve y∈B}
+kümesine A ile B nin kartezyen çarpımı denir•
+Kartezyen çarpımın eleman sayısı; A ve boş olmayan iki küme, s(A) = m ve s(B) = olmak üzere s(A x B) = s(A) . s(B) = m . n dir•
+A x B nin grafiği çizilirken; A kümesinin bütün bileşenleri (elemanları) x eksenüzerinde işaretlenir ve her elamandan dikmeler çizilir. B kümesinin bütün bileşenler (elemanları) y ekseni üzerinde işaretlenir ve her elemandan dikmeler çizilirÇizilen bütün dikmelerin  kesim noktaları A x B kartezyen çarpımının grafiğinoluşturur•
+Sonlu kümelerin kartezyen çarpımının grafiği sonlu sayıda noktalardan oluşurA x B nin elemanları da sonlu sayıda nokta olurMatematik 2. BölüKümele2. BÖLÜM ÖLÇME ve DEĞERLENDİRME SORULAR1. A={2, 3, 7} olduğuna göre A kümesinin Venn Şeması ile gösterilişi aşağıdakilerde hangisidir?
+A) 
+• 2      ,• B) 
+• 7      ,• C) 
+•3,
+• 2,  • 7,
+D) 
+• 2      • • 2. A={x: −2<x<5, x Œ N} olduğuna göre A kümesinin eleman sayısı aşağıdakilerdehangisidir?
+A) B) C ) 6 
+D) 3. R={a, b, f, ■} olduğuna göre aşağıdakilerden hangisi R kümesinin bir alt kümesidi?
+A) K={a, b, c}
+B) L={a, c, ■}
+C) M={b, f, ■}
+D) N={b, f, z}
+4. Aşağıdaki kümelerden hangisi sonlu kümedir?
+A) A={x: x>15, x Œ N}
+B)
+B={x: x≤7, x Œ N}
+C) C={10 dan büyük gerçek sayılar}
+D) D={ x: x bir tam sayıdır}
+5. Alt küme sayısı 64 olan bir kümenin eleman sayısı kaçtır?
+A) B) C) D) 6. K={1, 2, 3, n} kümesi veriliyorBuna göre aşağıdakilerden hangisi yanlıştır?
+A) ∅ À B) ∅ ⊂ C) K ⊂ D) {1, 2}⊂7. E={1, 2, 4, 8}, G={2, 4, 6} ve A={0, 8}
+olduğuna göre E∪G∪A kümesi aşağıdakilerden hangisidir?
+A) {0, 1, 2, 4, 6, 8}
+B) {1, 2, 4}
+C) {1, 2, 6, 0}
+D) {1, 2, 4, 8}
+Matematik 2. BölüKümele8. A={x: 1<x<8, x∈N}, B={x: 2<x<9, x∈N}
+olduğuna göre A∩B kümesi aşağıdakilerden hangisidir?
+A) {2, 3, 4, 5, 6, 7}
+B) {3, 4, 6, 7}
+C) {4, 5, 6, 7, 8}
+D) {3, 4, 5, 6, 7}
+9. s(A∪B)=18, s(B)=8 ve s(A∩B) = olduğuna göre s(A) kaçtır?
+A) B) C) D) 10. A, B ve C herhangi üç küme olmak üzere s(A∪B∪C)=42, s(A)=s(C)=10, s(B)=7,
+s(A∩C)=8 ve s(A∩B)=s(B∩C)=7 olduğuna göre s(A∩B∩C) kaçtır?
+A) B) C) D) 11. A ve B iki küme olmak üzere s(A∪B)=38, s(A∩B)=11 ve s(A−B)=2.s(B−A) dırBuna göre s(A) aşağıdakilerden hangisidir?
+A) B) C) D) 12. s(A)+s(B')=16, s(A')+s(B)=10 olduğuna göre s(E) aşağıdakilerden hangisineşittir?
+A) B) C) D) 13. Bir sınıftaki öğrencilerin 22’si tango, 20’si zeybek, 10’u her iki kursa da gidiyorBuna göre bu sınıfta bu kurslara katılan öğrencilerin sayısı kaçtır?
+A) B) C) D) 14. (x−4, y+6)=(5, 8) olduğuna göre x.y değeri aşağıdakilerden hangisidir?
+A) B) C) D) 15. s(AxA)=9 ve s(B)=4 olduğuna göre AxB kümesinin eleman sayısı aşağıdakilerde hangisidir?
+A) B) C) D) DENKLEMLER 
+VE 
+EŞİTSİZLİKLER 
+3. BölüMatematik 3. BölüSayı KümelerNELER ÖĞRENECEĞİZ?
+Bu bölümü tamamladığımızda; 
+Sayı kümelerini birbiriyle ilişkilendirmeyi,
+Tam sayılarda bölünebilme kurallarıyla ilgili problemler çözmeyi,
+Tam sayılarda EBOB ve EKOK ile ilgili uygulamalar yapmayı,
+Gerçek hayatta periyodik olarak tekrar eden durumları içeren problemleri 
+çözmeyi,
+Gerçek sayılar kümesinde aralık kavramını açıklamayı,
+Birinci dereceden bir bilinmeyenli denklem ve eşitsizliklerin çözüm kümelerin bulmayı,
+Mutlak değer içeren birinci dereceden bir bilinmeyenli denklem ve eşitsizlikleri çözüm kümelerini bulmayı,
+Birinci dereceden iki bilinmeyenli denklem ve eşitsizlik sistemlerinin çözüm 
+kümelerini bulmayı,
+ 
+Üslü ve köklü ifadeleri içeren denklemleri çözmeyi öğreneceğizYukarıdaki Konuları Kavramak İçin Neler Yapmalıyız?
+Gerçek sayılarla ilgili bilgilerinizi tekrarlayınız. 
+Konuda verilen örnekleri çözerek çalışınızKonuda verilen alıştırma ve problemleri cevaplayınız. 
+Konu sonunda verilen değerlendirme sorularını cevaplayınızÖğrendiğiniz konularla ilgili bol örnek çözünüzTerimler ve KavramlaDeğişkeEşitsizliTaban, ÜDenkleMutlak değeKöklü İfadDenklemin DerecesRasyonel KuvveÜslü İfadMatematik 3. BölüSayı KümelerSAYI KÜMELERGerçek Sayıla{0, 1, 2, 3, 4, 5, 6, 7, 8, 9} kümesinin her bir elemanına rakam denir. 
+N= {0, 1, 2, 3, 4, 5, ... } kümesinin her bir elemanına doğal sayı denirN+= {1, 2, 3, 4, 5, ... } kümesinin her bir elemanına sayma sayısı denir. N+ sembolü 
+ile gösterilir. 
+Z−= {..., −3, −2, −1} kümesinin her bir elemanına negatif tam sayı denir. Z− sembol ile gösterilir. 
+Z+= {1, 2, 3, 4, ...} kümesinin her bir elemanına pozitif tam sayı denir. Z+ sembolü 
+ile gösterilir. 
+Z= Z−»{0}»Z+ negatif tam sayılar, sıfır ve pozitif tam sayılar kümelerinin 
+birleşimine  tam sayılar kümesi denir. Z sembolü ile gösterilir. 
+Q={ a    a ve b tam sayı, b π 0} kümesinin her bir elemanına rasyonel sayı denir. sembolü ile gösterilir. 
+a ve b birer tam sayı ve b π 0 olmak üzere a  şeklinde yazılabilen sayılara rasyonel 
+sayı denir. 
+Örneğin;
+,
+,
+,
+,
+,
+,
+, 5 3 −
+−
+−
+ vb sayıları birer rasyonel sayıdırHer tam sayı aynı zamanda bir rasyonel sayıdır. Zira bir a tam sayısı =
+ şeklinde 
+yazılabilir. 
+Paydası 10 un pozitif tam kuvveti olan rasyonel sayılara ondalık sayı denir. 
+Örneğin;
+,
+,
+,
+,
+,
+,
+,
+0 0 0 0 =
+=
+=
+=
+ sayıları hem rasyonel hem dondalık sayı şeklinde yazılır. 
+BİLGİ KUTUSOndalık sayılarda toplama, çıkarma ve çarpma işlemleri yapılırken virgülle alt alta gelecek şekilde yazılır. 
+Matematik 3. BölüSayı KümelerI = Q': Sayı doğrusu üzerinde a  şeklinde yazılamayan sayılara rasyonel olmayan 
+yani irrasyonel sayılar denir. 
+Örneğin;
+,
+,
++
+ , p, 3-
+,
+, ,v sayıları birer irrasyonel sayıdır. 
+R: Rasyonel sayılar kümesi ile irrasyonel sayılar kümesinin birleşiminden oluşan 
+kümeye gerçek (reel) sayılar kümesi denir. 
+R=Q»Q' ile gösterilir. 
+Örneğin;
+-3, 6, 3 , p, 2  , 
+,
+-
+ ... vb sayıları birer gerçek (reel) sayıdırSayı kümeleri arasında;
+NÃZÃQÃR bağıntısı vardır. Bu bağıntı Venn şeması ile 
+Q'
+şeklinde gösterilir. 
+Venn şemasından görüldüğü gibi 
+Q'ÃQ'«Q = ∅  ve Q'»Q=R dir. 
+Gerçek (reel) sayıların sayı doğrusunda gösterimi;
+−−−−
+şeklindedir. 
+R x R={(x, y): xŒR ve yŒR} kümesinin geometrik temsili düzlemde kartezyen koordina sistemidir. R2 ile gösterilir. 
+Matematik 3. BölüSayı KümelerBİLGİ KUTUS1 ve kendisinden başka böleni olmayan sayılara asal sayılar denir.  
+Örneğin; 2, 3, 5, 7, 11, 13... gibiÇift doğal sayılar; Ç= {2n: nŒN} ve 
+Tek doğal sayılar;  T={2n+1: nŒN} şeklinde ifade edilir. 
+Sıfırdan büyük olan gerçek sayılara pozitif reel sayılar denir. R+=(0, •) 
+şeklinde gösterilir. 
+Sıfırdan küçük olan gerçek sayılara negatif reel sayılar denir. R−=(−•, 0) 
+şeklinde gösterilir. 0 (sıfır) sayısı pozitif ya da negatif değildir. 
+ÖRNEKLE1- Kartezyen koordinat sisteminde  A(2,4), B(−2, 1), C(−1, −4), D(4, 0) noktalarıngösterelimÇözü−1−−−−−−C(−1, −4) −D(4, 0)
+A(2, 4)
+B(−2, 1)
+2- A= {−3, 1, 
+,
+5 } kümesinin elemanlarının Venn şemasındaki yerlerini göstereliÇözü••
+•−• Q'
+Matematik 3. BölüSayı Kümeler3- En büyük negatif tam sayı ile bir basamaklı en büyük doğal sayının toplamını bulalıÇözü−−9 −Sayı doğrusu üzerinde başlangıç noktası olan 0 (sıfır) dan sola doğru gittikçe sayılar 
+küçülür, sağa doğru gittikçe sayılar büyür. Buna göre en büyük negatif tam sayı −1 ve 
+bir basamaklı en büyük doğal sayı 9 dur. O hâlde 
+−1 + 9 = +8 olur4- Aşağıdaki sayılardan hangileri rasyonel, hangileri irrasyonel sayıdır? Bulalıma) b) c) −d) 2 ç) 
+ÇözüVerilen sayılardan a  şeklinde yazılabilen sayılar 3 , – 3 , 2 1  sayıları yani a, ve d seçeneklerindeki sayılar rasyonel sayıdır. b ve d seçeneklerinde verilen p ve 
+5  
+sayıları a  şeklinde yazılamayacağından irrasyonel sayılardır. 
+5- Aşağıda verilen ifadelerden hangisi yanlıştır?
+A) NÃB) Q«Q' = ∅
+C) Q»Q' = D) Q'ÃÇözüA) NÃDoğal sayılar kümesi Reel (gerçek) sayıların alt kümesidir. A seçeneği doğrudurB) Q«Q' = ∅
+Rasyonel sayılar ile irrasyonel sayıların kesişimi boş kümedir çünkü ortak elemanlar yoktur. B seçeneği doğrudur. 
+C) Q»Q'=Reel (gerçek) sayılar: Rasyonel ve irrasyonel sayıların birleşimine eşittir. seçeneği doğrudur. 
+D) Q'Ãİrrasyonel sayılar tam sayıların alt kümesidir. D seçeneği yanlıştır çünkü 
+irrasyonel sayılar tam sayıların alt kümesi değildir. 
+Matematik 3. BölüSayı KümelerALIŞTIRMALA1- Aşağıda verilen ifadelerden hangisi doğrudur?
+A) N+…B) Q'…C) NÃZÃQÃR 
+D) N…2- Aşağıda verilen sayılardan hangileri rasyonel, hangileri irrasyonel sayıdır?
+a) −b) c) 1 ç) 0,d)
+3- En büyük negatif tam sayı ile iki basamaklı en küçük doğal sayının toplamı aşağıdakilerde hangisidir?
+A) B) C) −D) −4- Aşağıdakilerden hangisi tam sayılar kümesinin gösterimidir?
+A) Z=Z+»Z−
+B) Z=Z+»C) Z−
+D) Z=Z+»{0}»Z−
+Toplama İşleminin Özellikler1- Kapalılık özelliği: Her x, yŒR için x + y ŒR dirHerhangi iki gerçek(reel) sayının toplamı yine bir gerçek sayıdır. Gerçek sayılar kümesind toplama işleminin kapalılık özelliği vardır. 
+Örneğin;
+−3, 5ŒR olmak üzere (−3) + (+5) = +2 Œ R dir2- Değişme özelliği: Her x, yŒR için x + y = y + x ŒR dirHerhangi iki gerçek(reel) sayının toplamında sayıların yer değiştirmesi toplama işlemini sonucunu değiştirmez. Gerçek sayılar kümesinde toplama işleminin değişme 
+özelliği vardır. 
+Matematik 3. BölüSayı KümelerÖrneğin;
+7, −4 ŒR olmak üzer7 + (−4) = (−4) + 7 
+3 = 3 ŒR dir. 
+3- Birleşme özelliği: Her x, y, z ŒR için x + (y + z) = (x + y) + z dirHerhangi üç gerçek(reel) sayının toplamında seçilen grupların işlem sırası sonucu 

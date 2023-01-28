@@ -1,0 +1,324 @@
+�������������������������������������������������������������
+Çözünen ve çözücü miktarları kütle, hacim veya mol türünden belirtilebilir. Dolayısıyl bir çözeltinin derişimi birçok yolla ifade edilebilir.  Derişim birimlerinden bir 
+kaçı�������������� ve ��� derişimdir. Yüzde derişim ve ppm derişimler ifade edilirke çözücü ve çözünen miktarları kütle veya hacim cinsinden belirtilir�� �������������
+İçecekler, parfümler, ilaçlar vb. birçok tüketim maddesi hazırlanırken bu çözeltileriderişimleri, pratik olması bakımından bileşenlerin yüzdesi alınarak ifade edilir. 
+�������������, kütlece veya hacimce 100 birim çözeltinin kaç biriminin çözünen 
+madde olduğunu gösterir. Yüzde derişim, çözücü veya çözünenin hacminin mi yoksa 
+kütlesinin mi ölçüldüğüne bağlı olarak kütlece yüzde, hacimce yüzde ve hacim-kütlece 
+yüzde şeklinde ifade edilirKarışımlaKarışımla2. Ünit2. ÜnitKimya Kimya �� ���������������������
+Birçok ticari çözeltinin derişimi yüzde derişim olarak etiketlenmektedir. Örneğiakü asidi olarak bilinen sülfürik asidin piyasada kütlece % 78.93,  % 98 vb. çözeltileri 
+satılmaktadır. Benzer şekilde çamaşır suları da % 5 oranında ağartıcı madde içerir. 
+Meyve sularındaki şeker veya diğer katkı maddelerinin oranı da kütlece yüzde derişim 
+ile ifade edilir. 
+Kütlece yüzde derişim, çözücü ve çözünenin kütlesi kullanılarak hesaplanan değerdi. 100 gram çözeltide bulunan çözünen maddenin gram cinsinden miktarı ��������
+������������� olarak ifade edilir. Örneğin kütlece % 30 derişime sahip bir çözeltiyle 
+ilgili, 100 gram çözeltinin 30 gramının çözünen madde, geri kalanının da çözücü 
+olduğu anlaşılmaktadır����������������������������������������������������������������×�����
+��������������������������������������������������
+Kütlenin sembolü “m” olduğundan yukarıdaki formülü sembolik olarak aşağıdaki 
+gibi gösterebiliriz:
+���������������������������������×����
+Çözeltilerdeki çözücü ve çözünen miktarları gram (g), kilogram (kg) gibi herhangi 
+bir kütle birimiyle verilebilir ancak çözücü ve çözünenin kütle birimi aynı olmalıdı. Örneğin çözücünün kütlesi kg olarak ölçülmüşse çözünenin birimi de kg olarak 
+ölçülmelidir. 
+����������������������������������������������������������������������������
+�����
+a) şekeb) su kullanılmalıdır?
+4. UygulamKarışımlaKarışımla2. Ünit2. ÜnitKimya Kimya ������
+��
+�� ���
+100 gram şerbetin 
+10 gramı şeker ise 
+ 2 katı 
+ 2 kat200 gram şerbetin 
+������������������� ���
+��
+�������������çözünen���çözelti��������
+���������şeker�����������������
+�������şeker����
+��şeker������
+200 g şerbetin 20 gramı şeker ise geriye kalanı da sudur. 
+200 g- 20 g = ��������
+��������������������������������������������������������������������������������
+�������������������������������������������������������������������������
+������
+2 kg = 2000 ��������
+��
+���çözünen���çözelti��������
+��
+����������������������
+= 
+5   
+Çözelti,  kütlece % 5’liktir5. UygulamKarışımlaKarışımla2. Ünit2. ÜnitKimya Kimya �� ���������������������
+�������� ������ �������, 100 mililitre çözeltide çözünen maddenin mililitrcinsinden değeridir. Örneğin hacimce % 36’lık çözelti denildiğinde, 100 ml çözeltinin 
+36 mililitresinin çözünen, geriye kalan miktarın ise çözücü olduğu anlaşılır. 
+Çözeltilerdeki çözücü ve çözünen miktarları mililitre (ml), litre (L), metreküp (m3) 
+gibi hacim birimleriyle verilebilir. 
+����������������������������������������������������������×����
+Genellikle çözücüsü ve çözüneni sıvı hâlde olan çözeltilerin derişimlerini hesaplanmasında hacimce yüzde derişim kullanılır. 
+Örneğin kolonya, etil alkol ve su bileşenlerinden oluşan bir çözeltidi. Piyasada satılan kolonyaların derişimi hacimce % 70 ile % 80 
+arasında değişmektedir. Buna göre %70’lik kolonyanın hacimce % 
+70’i etil alkol, % 30’u ise sudur. Yandaki görselde belirtildiği gibi 
+etikette yazan “80o ” kolonyadaki etil alkolün hacimce yüzdesini 
+ifade ederSaç boyalarının rengini açmak için kullanılan hidrojen peroksidin (oksijenli su) derişim de hacimce ifade edilir. Oksijenli suyun piyasada % 6’lik, % 10’luk vb. çözeltileri 
+bulunmaktadırSirke, hacimce % 5 oranında asetik asit içeren bir sulu çözeltidir. Buna göre 1 L 
+asetik asit ile kaç L sirke hazırlanır?
+�������
+�������������������çözünen���çözelti��×�����������������������
+������������������������1 L asetik asit����1 L asetik asit���������×�����
+���������5 / 100 =  1 L / (1 L + V su)
+5 L + 5 V su =  100 5 V su = 95 L 
+Vsu = 19 L 
+�������= 19 L su+ 1 L asetik asit = 20 6. UygulamGörsel 2.14 
+Hacimce % 80’lik 
+kolonyKarışımlaKarışımla2. Ünit2. ÜnitKimya Kimya �� ���������������������������
+Hacim-kütlece yüzde derişimde ise çözeltideki çözücü miktarı hacim cinsinden,
+çözünen miktarı kütle cinsinden ifade edilir. Tanım olarak, 100 ml çözeltide çözünmüş 
+maddenin gram cinsinden değeridir. Bu tür çözeltilerde çözünen madde miktarı çok 
+küçüktür. Bu nedenle çözünenin hacmi, çözücü hacminde bir değişikliğe yol açmaz 
+yani çözücü hacmi ile çözelti hacmi aynıdır�������������������������������������������������������������������×����
+���������������������������������) x����
+Hacim-kütlece derişim birimi daha çok tıp ve eczacılıkta kullanılır. Örneğin günlü yaşantımızda küçük rahatsızlıklar için verilen serum fizyolojik, hacimce-kütlece 
+%0.9’luk tuzlu su çözeltisidir. Yani çözeltinin her 100 mililitresi 0,9 gram sodyum klorü (NaCl) içerir. 
+Deniz sularındaki tuzluluk oranı ve içme sularındaki iyonların, minerallerin oranı 
+da bu derişim birimiyle ifade edilir. Örneğin Karadeniz suyundaki tuz oranı %1,8; 
+Akdeniz’deki ise %4,3 civarındadır.  Yani Karadeniz’de her 100 ml deniz suyunda çözünmü hâlde 1,8 gram tuz bulunurken, Akdeniz’de 4,3 gram tuz bulunur200 gram şeker ve 4 Litre su kullanarak limonata yapılıyor. Bu limonata haci-kütlece yüzde kaçlıktır?
+������
+������������çözünen�����çözelti����������
+������������������������������������������
+�������������������������
+Çözelti derişimi hacim-kütlece % 5’tirm�çözünen��200 g;
+Vçözelti=V çözücü= 4 L= 4000 m7. UygulamKarışımlaKarışımla2. Ünit2. ÜnitKimya Kimya �� �����������
+Bir çözeltideki çözünen madde oranı çok küçük olduğu durumlarda çözelti derişimppm birimiyle ifade edilir. Ppm milyonda bir oranında derişimi ifade eder. Yani ppm, 
+1 milyon (10 6) gram çözeltideki çözünen maddenin gram cinsinden değeridir���������������������������������������������������������×������
+Sembolik olarak aşağıdaki gibi ifade edilir:
+���������������������������×����
+vey���������������������������×����
+BİLGİ NOTppm, ingilizcede “milyonda bir kısım” anlamına gelen  “parts per million” 
+cümlesindeki kelimelerin baş harflerinden oluşmaktadırÇözünenin kütlesi miligram (mg) cinsinden, çözelti kütlesi ise kilogram cinsinden 
+hesaplandığında aşağıdaki bağıntı elde edilir; 
+�������������������������������� 
+Yani 1 kg veya 1 litre çözeltide çözünmüş maddenin miligram (mg) cinsinden kütles de ��� derişimi verir. Bu tür çözeltiler çok seyreltik olduğundan çözeltinin kütlesi 
+çözücünün kütlesine yaklaşık olarak eşittir. 
+KarışımlaKarışımla2. Ünit2. ÜnitKimya Kimya Çeşme sularındaki klor, sodyum, kalsiyum vb. iyonların oranı ppm ile ifade edilir. 
+Örneğin belirli bir bölgedeki çeşme suyunda sodyum (Na) derişimi 5,4 ppm; kalsiyum 
+(Ca) derişimi 32 ppm olduğunda; 1 L suda 5,4 mg Na, 32 mg Ca iyonu bulunduğu 
+anlamına gelir. Atık sulardaki yağ oranı, kandaki maddelerin oranı da ppm cinsinden 
+ifade edilir. Deterjanlar, ilaçlar, meyve suları, su, tuz gibi bazı tüketim maddelerinin 
+etiketlerinde derişime ilişkin verilere rastlamaktayızGörsel 2.15 Su, meyve suyu, yemek tuzu ve etiketleri 
+����������������������������������������
+����������������������
+Saf çözücüye çözünen bir madde eklendiğinde çözücünün kaynama noktası, donm noktası gibi bazı fiziksel özellikleri değişir. Çözücünün fiziksel özelliklerinin ne 
+kadar değişeceğini ise çözünen maddenin miktarı belirler. Diğer bir ifadeyle çözeltileri bazı fiziksel özellikleri çözücünün fiziksel özelliklerinden farklıdır. 
+Çözeltideki çözünmüş maddenin miktarına bağlı olan ancak çözünmüş maddenin 
+türüne yani kimyasal özelliğine bağlı olmayan çözelti özelliklerine ������������������
+��� denir. Diğer bir ifadeyle koligatif özellikler derişime bağlı çözelti özellikleridir. Bu 
+özelliklerden en önemlileri;
+•
+Kaynama noktası yükselmesi,
+•
+Donma noktası düşmesidirKarışımlaKarışımla2. Ünit2. ÜnitKimya Kimya �� ��������������������������
+Bildiğiniz gibi kaynama noktası sıvının buhar basıncının dış basınca eşit olduğsıcaklıktır. Sıvı maddelere, içinde çözünen ve uçucu olmayan maddeler eklendiğinde, 
+kaynama noktası yükselir. Örneğin saf su normal koşullarda 100 oC’ta kaynarken, için tuz, şeker gibi uçucu olamayan maddeler eklendiğinde daha yüksek sıcaklıklarda 
+kaynar. (Oda sıcaklığında çok fazla buharlaşan veya süblimleşen maddeler uçucu; çok 
+az buharlaşan veya süblimleşmeyen maddeler ise uçucu olmayan maddelerdir. İyot, 
+naftalin, etil alkol gibi maddeler uçucu maddelerdir. Tuz, şeker, antifriz sıvısı olan etile glikol, uçucu olmayan maddelerdir.) 
+Çözeltinin kaynama noktasının saf çözücüye göre yüksek olmasının sebebi ne olabili?
+Çözücüye çözünen madde eklendiğinde, çözünen tanecikleri çözücü tanecikleri 
+arasına girer. Dolayısıyla sıvının yüzeyinde çözücü taneciklerinin bir kısmının yerinde 
+çözünen tanecikleri bulunur. Yani saf çözücüye göre, çözelti yüzeyinde daha az sayıda 
+çözücü tanecikleri yer alır. Buharlaşma yüzeyde gerçekleştiğinden, çözeltideki çözücünü buharlaşma miktarı saf çözücüye göre daha az olur (Görsel 2.14). Bu durumd kaynama için gerekli olan buhar miktarı ancak daha yüksek sıcaklıklarda sağlanır. 
+Çözünen maddenin miktarı arttıkça çözeltinin kaynama noktası daha da artar. 
+ÇözücÇözeltGörsel 2.14  Aynı sıcaklıkta saf çözücü ile çözeltinin buharlaşma miktarının karşılaştırılmasBu özellikten dolayı makarna suyuna tuz eklendiğinde makarn daha çabuk pişer. Çünkü tuzlu su, saf suya göre daha 
+yüksek sıcaklıklarda kaynayacağından, makarnaya daha yüksek 
+miktarda ısı aktarılmış olacak, böylece makarna daha kısa süred pişecektirGörsel 2.15 
+Makarnanın pişmesKarışımlaKarışımla2. Ünit2. ÜnitKimya Kimya �� ���������������������
+Donma noktası ise sıvının katı hâle geçtiği sıcaklıktır. Sıvı maddeye içinde çözünebir madde eklendiğinde, sıvının donma noktası düşer. Örneğin normal koşullarda saf 
+su 0 oC’ ta donarken suya tuz, şeker vb. çözünen maddeler eklendiğinde su daha düşük 
+sıcaklıklarda donar. Donma sıcaklığının kaç derece düşeceği suya eklenen maddenin 
+miktarına bağlıdır ancak türüne bağlı değildir. Çözeltideki çözünen maddenin derişim arttıkça çözeltinin donma noktası daha da düşerPeki, çözeltinin donma noktasının saf çözücüye göre daha düşük olmasının sebebi 
+ne olabilir? 
+Sıvı maddenin tanecikleri belirli bir düzenli dizilime sahip olduğunda, madde katı 
+hâle geçmiş olur. Ancak sıvı maddeye, içinde çözünen bir madde eklendiğinde çözüne tanecikleri çözücü tanecikleri arasına girerek, çözücünün taneciklerinin düzenli 
+hâle geçmesini zorlaştırır. Bu nedenle çözeltinin donması ancak daha düşük sıcaklıklard gerçekleşirÇözeltinin donma noktasının saf çözücüy göre daha düşük olması birçok 
+alanda hayatımızı kolaylaştırmaktadır. 
+Örneğin otomobillerde araç radyatörlerindek ve cam suyu haznesindeki suya, 
+donma noktasını düşürecek maddeler 
+eklenerek kışın meydana gelebilecek 
+donma olaylarının önüne geçilebilmektedi. Bu tür maddelere genel olarak ���
+������� denir. En yaygın kullanılan antifiri etilen glikoldür. 
+Kış aylarında yolların buzlanmasını 
+önlemek için de donma noktası düşme 
+özelliğinden faydalanılır. Bunun için 
+karlı yollara tuz atılır. Yollar tuzlandığınd erimiş kar daha düşük sıcaklıklard donar ve buzlanma olayı belirli bir 
+sıcaklığa kadar engellenmiş olur. 
+Görsel 2.16 Arabaya antifriz konulmasGörsel 2.17 Kış aylarında yolların tuzlanmasKarışımlaKarışımla2. Ünit2. ÜnitKimya Kimya ������������������������������������������������
+Maddelerin çoğu doğada karışım hâlinde bulunmaktadır ancak birçok madde bu 
+hâliyle kullanılamamaktadır. Örneğin yer altı sularını veya deniz suyunu olduğu gibi 
+içme suyu olarak kullanamayız. Yine metaller sanayide madenlerden çıkarıldığı hâliyle 
+kullanılamamaktadırKarışımdaki istenilen maddeyi kullanabilmek için diğer bileşenlerden ayırmak gerekmektedi. Bunun için birçok yöntem geliştirilmiştir. 
+Karışımlar bileşenlerine fiziksel yöntemlerle ayrılır. Bu yöntemler karışımın türüne 
+(homojen mi, heterojen mi), bileşenlerin fiziksel hâline ve karışımı oluşturan bileşenleri özelliklerine bağlıdır. Aşağıdaki çizelgede bileşenlerin bazı özellikleri ve bu özellikler göre uygulanan ayırma yöntemleri yer almaktadır�����������������������������
+1. Mıknatıs ilAyırm6. Erime noktasFarkı ile Ayırm3. Yoğunluk Farkile Ayırma) Ayırma Hunisb) Yüzdürm5. Kaynama NoktasFarkı ile ayırma) Basit damıtmb) Ayrımsadamıtm2. Tane Boyutu Farkile Ayırma) Elemb) Süzmc) Diyali4. Çözünürlük Farkile Ayırma) Özütlemb) Kristallendirmc) AyrımsaKristallendirmKarışımlaKarışımla2. Ünit2. ÜnitKimya Kimya �� �������������������
+Bu yöntem bazı katı-katı heterojen karışımlarda yani adkarışımlarda mıknatıstan etkilenen maddeleri, mıknatıstan 
+etkilenmeyen diğer maddelerden ayırmak için kullanılır. 
+Demir, nikel ve kobalt metalleri mıknatıs tarafından çekilirke, altın, gümüş, alüminyum vb. diğer metaller mıknatısta etkilenmez. 
+Bu yöntem ile endüstride, belediye çöplüklerinde veya 
+hurdalıklarda demir içeren malzemeler diğerlerinden ayrılı. Bunun için dev mıknatıslar kullanılmaktadır. Bu malzemele daha sonra geri dönüşüme gönderilir ve farklı malzem olarak karşımıza çıkar�� �����������������������������������������
+Karışımı oluşturan bileşenlerin tane boyutu birbirinden farklı olduğunda bu farkta yararlanarak karışım bileşenlerine ayrılabilir. Tane boyutu farkından yararlanarak 
+ayırma yöntemlerinden bazıları eleme, süzme ve diyalizdir�� �����
+Tane boyutları farklı katı maddeleri birbirinden ayırmaiçin kullanılan bir yöntemdir. Bu yöntem bazı adi heterojen 
+karışımları bileşenlerine ayırır. Örneğin inşaat yapımında, 
+bahçe yapımında istenilen incelikte kum veya toprak elde 
+etmek için çeşitli gözenekteki elekler kullanılarak eleme 
+yapılır. Böylece ince toprak kalın topraktan veya ince kum 
+kalın taneli kumdan ayrılmış olur. Öğütülmüş undaki istenmeye maddeler de eleme yöntemiyle ayıklanmaktadır�� �����
+Bir sıvıda çözünmeyip o sıvıda yüzen, batan veya askıda kalan katı maddeleri sıvısında ayırmak için süzme yöntemi kullanılır. Benzer şekilde gaz maddelerdeki toz, 
+kurum gibi katı maddeleri süzmek için de süzme yönteminden yararlanılır. Diğer bir 
+ifadeyle süzme yönteminde katı-sıvı (süspansiyon) ve katı-gaz (aerosol) heterojen karışılar bileşenlerine ayrılır. Süzme yönteminde süzgeç, kevgir, filtre, filtre kâğıdı, gaz 
+maskesi vb. araçlar kullanılırGörsel 2.18 Mıknatısın 
+demir maddeleri çekmesGörsel 2.19 Un eleme 
+yöntemKarışımlaKarışımla2. Ünit2. ÜnitKimya Kimya Günlük yaşantımızda birçok alanda süzme yöntemini kullanmaktayız. Örneğimakarnayı, suyundan; çay yapraklarını, deminden; yıkanmış pirinci, suyundan süzme 
+yöntemiyle ayırırız. 
+Benzer şekilde içme sularındaki katı parçacıklar da su arıtma tesislerinde süzme 
+yöntemiyle ayrılmaktadır. Yüzme havuzlarındaki filtreler de süzme yöntemi ile havuz temizlemektedir. Benzer şekilde otomobillerdeki hava filtreleri havayı toz zerreler, kurum vb. katı maddelerden; yağ filtreleri ise motorun çalışması esnasında oluşan 
+küçük metal parçalarını süzmektedir. 
+Aşağıdaki deneyle verilen karışımı süzme yöntemiyle bileşenlerine ayıralım:
+�������������
+Süzme ile ayırm�������������� Süzme yöntemini kullanarak karışımı bileşenlerine ayırma�������������������
+• Filtre kağıd• Hun• Topra• S������������������
+• Beher, yarıya kadar su ile doldurulup içine bir miktar toprak konulur• Karışım karıştırılarak sulu çamur elde edilir• Filtre kâğıdı huniye yerleştirilerek, boş bir erlenin içine konulur• Karışımı bileşenlerine ayırmak için, karışım filtre kâğıdına dökülür• Bir süre sonra filtre kâğıdında kalan kısım kurumaya bırakılır������
+• Su, filtre kâğıdından geçerken, toprak geçemez• Su ve toprak karışımı süzme yöntemiyle ayrılabilir����������� Süzme yöntemini kullanacağınız bir karışım hazırlayınız. Ardında bu karışımı, uygun süzme aletiyle bileşenlerine ayırınızDene2KarışımlaKarışımla2. Ünit2. ÜnitKimya Kimya Süzme yönteminde sıvı ve gaz tanecikleri süzme aletlerinden geçerken, katı taneleri 
+bu aletlerden geçemeyecek kadar büyüktür. Bu nedenle süzme yöntemiyle ayırma da 
+bileşenlerin tane boyutunun farklı olmasından yararlanılır. 
+Görsel  2.20 Hava filtresi ve süzülmüş ça�� �������
+Süzme yöntemiyle ayrılamayacak kadar küçük taneler içeren karışımları ayırmaiçin kullanılan yöntemlerden birisi �������dir. Koloit karışımlar diyaliz yöntemiyle bileşenlerin ayrılır çünkü koloit karışımlarda bütün bileşenler süzme aletlerinin gözeneklerinde geçerDiyaliz yönteminde, gözenekleri süzme aletlerinin gözeneklerinden çok daha küçü olan zar kullanılır. Yarı geçirgen özelliğe sahip olan bu zar, diyaliz zarı olarak adlandırılı. Bu yöntem koloit karışımlardaki küçük moleküllerin diyaliz zarından geçip, 
+büyük moleküllerin geçememesi esasına dayanırDiyaliz yöntemi sağlık alanında, örneğin kanın zararlı maddelerden arındırılmasınd kullanılır. Kan koloit bir karışımdır ve böbreklerde diyalize uğrar. Yani böbrekler gelen kan böbrek zarından süzülürken kanın bileşeni olan protein, yağ gibi büyük 
+moleküller zardan geçemezken metabolik atık olan su, üre vb. küçük moleküller zarda geçer. Böylece istenmeyen maddeler kandan diyaliz yöntemiyle süzülmüş olur. 
+Böbrekleri çalışmayan kişilerin kanı da diyaliz makinasında, böbrek zarına benzer bir 
+zarla yani diyaliz yöntemiyle süzülür. 
+1. UygulamKarışımlaKarışımla2. Ünit2. ÜnitKimya Kimya Yarı geçirgen zaİçinde atık 
+bulunan kaAtık maddelerin 
+zardan geçişDiyaliz tüpü 
+(yarı geçirgen)
+Üre gibi maddeleri 
+içeren kullanılmış 
+diyalize çözeltisTemiz diyaliz çözeltisDiyalize uğramış 
+kanın damara girişKanın damardan 
+çıkışGörsel 2.21 Diyaliz yöntemiyle kanın süzülmesDiyaliz yöntemiyle ayırma endüstride de atık suların büyük moleküllü organik 
+maddelerden arındırılmasında kullanılır. 
+�� ��������������������������������������
+Birbiri içinde çözünmeyen maddeler, yoğunluklarının farklı olmasından yararlanılara ayrılabilir. Bunun için uygulanan yöntemlerden ikisi ayırma hunisi ve yüzdürmedi:
+�� �������������
+Birbiri içinde çözünmeyen sıvı maddelerden oluşan karışım yani emülsiyon karışı, bileşenlerine ayırma hunisi ile ayrılabilir. Karışım ayırma hunisine dökülür. Yoğunluğ büyük olan sıvı ayırma hunisinin alt kısmında bulunurken, yoğunluğu düşük 
+olan sıvı ise üst kısımda bulunur. Altta kalan bileşen, huninin musluğu açılarak başka 
+bir kaba aktarılır (Görsel 2.22) Su ve karbon tetraklorür (CCl4) karışımı, yine su-yağ ve su- benzin karışımları bu 
+yöntemle birbirinden ayrılabilirKarışımlaKarışımla2. Ünit2. ÜnitKimya Kimya Görsel 2.22 Sıvı karışımların ayırma hunisi ile ayrılmas�� ��������
+Yüzdürme, genellikle katı-katı heterojen karışımların ayrılmasında kullanılan biyöntemdir. Yüzdürme yönteminde karışımı bileşenlerine ayırmak için bileşenlerle 
+tepkimeye girmeyen bir sıvı eklenir. Eklenen sıvının yoğunluğu bileşenlerden birisini yoğunluğundan büyük, diğerinin yoğunluğundan küçük olmalı. Böylece yoğunluğ düşük olan bileşen sıvının üst kısmında, diğeri ise dipte toplanır. Sıvının üstünde 
+biriken bileşen başka bir kaba aktarıldığında, bileşenler birbirinden ayrılmış olur. Yani 
+yoğunluğu düşük olan bileşen yüzdürülerek diğer bileşenden ayrılmış olur. 
+Yüzdürme yöntemi endüstride kâğıt ve plastiklerin geri dönüşümünde, maden 
+cevherlerinin kalıntılardan ayrılmasında vb. kullanılmaktadırKullanılmış kâğıt, defter, kitap vb. kırtasiye malzemelerin üzerindeki yazılar, görseller oluşturan boyar maddeleri çıkarmak için karışıma uygun bir sıvı eklenir. Boya madde sıvının üstünde yüzerken, yazı ve renklerden arınmış kâğıt dipte toplanır. 
+Maden cevherlerinin kum, toprak gibi kalıntılardan ayrılmasında ise karışım önce toz 
+hâle getirilir. Ardından karışım suya eklenir. Çeşitli işlemler sonucunda cevher suyun 
+üstünde, kum, toprak vb. ise dipte toplanır. Çöplerdeki plastiklerin geri dönüşümünd de çöpe su eklendiğinde plastikten yapılmış malzemeler suyun üstünde, cam, topra vb. maddeler suyun dibinde toplanır. Böylece plastik malzemeler diğerlerinden 
+ayrılmış olurKarışımlaKarışımla2. Ünit2. ÜnitKimya Kimya �� ����������������������������������������
+Bir karışım, bir sıvıya eklendiğinde, bileşenlerin sıvıdaki çözünürlükleri farklı isveya farklı sıcaklıklarda çözünüyorlarsa karışım bileşenlerine ayrılabilir. Bileşenlerin 
+çözünürlüklerinin farklı olması özelliğinden yararlanarak karışımların ayrılmasında 
+özütleme, kristallendirme ve ayrımsal kristallendirme yöntemleri kullanılmaktadır�� ��������
+Herhangi bir karışımdaki istenilen maddenin uyguçözücü kullanarak karışımdan ayrılması işlemine özütlem denir. Örneğin çayın demlenmesinde çay yapraklarını renginin suya geçmesi özütlemedir. Çiçeklerden 
+parfümün, bitkilerden ilaçların elde edilmesi de özütlem yöntemiyle gerçekleştirilir. Yine çok tuzlu peynir 
+veya zeytinleri az tuzlu hâle getirmek için de özütleme 
+yönteminden yararlanılır. Karışım suda bekletildiğind, tuz suya geçer, böylece az tuzlu peynir veya zeytin 
+elde edilir. 
+Kullanılan çözücü, karışımdaki bileşenlerle tepkimeye girmemeli ancak istenilen 
+bileşeni çözmelidir. Böylece bileşen karışımdan, çözücüye aktarılmış olur. Örneğin şeke kamışından şeker elde etmek için, ezilmiş şeker kamışına su eklenir. Su, kamıştaki 
+şekeri çözerken diğer maddeler çözünmez. Böylece şeker, kamıştan ayrılarak suya geçe. Daha sonra karışımın suyu buharlaştırıldığında şeker elde edilmiş olur. 
+Aşağıdaki deneyle verilen karışım örneğini çözünürlük farkından yararlanarak bileşenlerin ayıralımDene3���������������
+Çözünürlük farkı ile ayırm��������������� Özütleme yöntemini kullanarak karışımı bileşenlerine ayırma
+�����������������������������
+• Yemek tuz• Şeke• Etil alkoGörsel 2.23 Özütleme ile çayın 
+renginin suya geçmesKarışımlaKarışımla2. Ünit2. ÜnitKimya Kimya ������������������
+• Birer tatlı kaşığı tuz ve toz şeker bir kapta karıştırılır• Bir bardak yarısına kadar etil alkol ile doldurulur• Tuz-şeker karışımı etil alkole dökülür ve karışım karıştırılır• Dibe çöken tuzu, etil alkol-şeker çözeltisinden ayırmak için çözelti başkkaba aktarılır. İlk kapta tuz kalır• Etil alkol-şeker çözeltisinden şekeri ayırmak için ise çözelti ısıtılır. Isınmsonucunda etil alkol buharlaşır ve kapta şeker kalır�����
+• Tuz ve şekerin etil alkoldeki çözünürlüklerinin farklı olmasından yararlanara karışım bileşenlerine ayrılır• Tuz etil alkolde çözünmezken, şeker çözünür. Bu nedenle tuz-şeker karışım etil alkole eklendiğinde tuz dibe çöker, şeker ise çözeltide kalır. Böylectuz ve şeker birbirinden ayrılır�� ���������������
+Sıvı çözeltilerde çözünmüş katı maddelerin sıcaklığı değiştirilere, katı parçalar hâlinde dibe çökmesi yani çözeltiden 
+ayrılmasına ���������������� denir. Örneğin sıcak çayda fazla 
+miktarda çözünmüş şeker, çay soğuduğunda dibe çöker yani 
+kristallenir. Çay başka kaba aktarıldığında şeker kristallendirme 
+yöntemiyle ayrılmış olur. Tuz da bu yöntemle kristallendirilebilir 
+(Görsel 2.24)Bu yöntem, bazı katıların belirli çözücülerde yüksek sıcaklıkta iyi çözünmeleri anca düşük sıcaklıklarda dibe çökmeleri esasına dayanmaktadır. 
+�� ������������������������
+Bir sıvıdaki çözünmüş katı maddelerin, farklı sıcaklıklarda kristalleşmelerinden yararlanara ayrı ayrı elde edilmelerine ������������������������ denir. Örneğin deniz 
+suyunda NaCl, MgCl2 gibi çok farklı tuzlar bulunmaktadır. Bu tuzlardan yemek tuzun ayırmak için karışım önce ısıtılır, ardından soğumaya bırakılır. 
+Görsel 2.24 Tuzun 
+kristallendirilmesKarışımlaKarışımla2. Ünit2. ÜnitKimya Kimya Soğuma esnasında her tuz farklı sıcaklıklarda dibe çöker. Böylece tuzlar birbirindeayrımsal kristallenme ile ayrılmış olur�� ���������������������������������������������
+Çözeltiler bileşenlerine, çözücü ve çözünenin kaynama noktalarının farklı olmasında yararlanılarak ayrılır. Bu işlem damıtma yöntemi ile gerçekleştirilir. �������, bir 
+sıvının önce buharlaştırılıp ardından yoğuşturulması işlemine denir. Damıtma yöntem ������������� ve ���������������� olmak üzere ikiye ayrılır:
+�� �������������
+İçinde katı madde çözünmüş sıvı çözeltilerin bileşenleri basit damıtma ile elde edili. Örneğin tuzlu su çözeltisindeki su ve tuz ayrı ayrı bu yöntemle ile aşağıda belirtildiğ gibi elde edilir: 
+•
+Tuzlu su çözeltisi damıtma kabına konulur ve ısıtılır. (Görsel 2.25)
+•
+Bir süre sonra çözelti kaynamaya başlar. Suyun tamamı buharlaştığında, tuz bsıcaklıkta buharlaşamayacağından, kapta yalnızca tuz kalır•
+Buharlaşan su yoğuşturucuya gelir. Yoğuşturucu içi içe 2 cam borudan oluşmaktadı. İçteki boruya sıvının buharı gelir, dıştaki boruda ise su buharını soğutmasamacıyla soğuk su bulunur•
+Yoğuşturucudaki su buharı, soğutucunun etkisiyle yoğuşur ve damlalar hâlindtoplama kabında birikir. Elde edilen su, saf sudur. Bu şekilde su ve tuz birbirindeayrı  elde edilirIsıtıcTuzlu SSu BuharYoğuşturucSaf SSu ÇıkışSu ÇıkışSoğuk Su GirişGörsel 2.25 Basit damıtma aletKarışımlaKarışımla2. Ünit2. ÜnitKimya Kimya Arabistan gibi sıcak ve kurak bölgelerde basit damıtma yöntemi ile deniz suyundan 
+içme suyu elde edilmektedir. 
+BİLGİ NOTİçinde katı madde çözünmüş sıvı çözeltilerde, sıvıyı buharlaştırılıp sadece katı 
+maddeyi elde etme işlemine ������������� denir. Örneğin tuzlu su çözeltisinde 
+sadece tuzu elde etmek için buharlaştırma; hem tuz hem suyu elde etmek için 
+basit damıtma yöntemi kullanılır�� ����������������
+Birbiri içinde çözünen sıvılar ise birbirinden kaynama sıcaklıkları farkından yararlanara ayrılır. Bunun için kullanılan yöntem ise ayrımsal damıtmadır. Ayrımsal 
+damıtma için kullanılan alet basit damıtma aletine benzer yapıdadır ancak ek olarak 
+fraksiyon kolonu bulunur. Fraksiyon kolonu kırık cam parçaları içeren bir cam tüptür. 
+Çözeltideki sıvılar farklı sıcaklıklarda kaynayacağından fraksiyon kolonu sayesinde 
+farklı zamanlarda yoğuşturulup, ayrı kaplarda toplanmaktadırÖrneğin etil alkol-su karışımı, bileşenlerine ayrımsal damıtma yöntemiyle aşağıdak gibi ayrılır:  
+(Etil alkolün kaynama sıcaklığı 78 oC, suyun kaynama sıcaklığı 100 oC’tur.)
+•
+Karışım ayrımsal damıtma aletinde ısıtılır (Görsel 2.26). Karışımın sıcaklığı oC civarında olunca, oluşan buhar çoğunlukla etil alkol, çok az oranda ise siçerir•
+Karışım ısıtılmaya devam edilir. Etil alkol ve su buharı karışımı fraksiyon kolonund yükselir. Cam parçalarına çarpan su buharı yoğuşarak tekrar aynı kabdöner•
+Ancak alkol buharı kaynama sıcaklığına ulaştığından cam parçalarına çarptığınd yoğuşmaz ve fraksiyon kolonundan geçerek soğutma kolonuna ulaşır. Soğutm kolonunda yoğuşan alkol ayrı bir kapta toplanır•
+Karışımın sıcaklığı 78 oC'u geçtiğinde bütün etil alkolün buharlaştığını, kaptsadece su kaldığını söyleyebiliriz. Bu durumda ısıtma işlemi sonlandırılır, böylec kapların birinde etil alkol, diğerinde ise su toplanmış olurKarışımlaKarışımla2. Ünit2. ÜnitKimya Kimya KarışıEtil AlkoSoğuk su 
+girişSu çıkışFraksiyon 
+kolonGörsel 2.26 Ayrımsal damıtma aletHam petrolden mazot, benzin, gaz yağı vb. yakıtlar ayrımsal damıtma yöntemiyle 
+elde edilir. Ayrıca metil alkol ve etil alkol karışımı da ayrımsal damıtma yöntemiyle 
+birbirinden ayrılır. Havadan azot, oksijen gibi gazların elde edilmesi de ayrımsal damıtm yöntemiyle gerçekleştirilir. Hava önce soğutularak sıvı hâle getirilir. Sıvılaştırılmı hava ardından ayrımsal damıtma ile bileşenlerine ayrılır. 
+�� ������������������������������
+Katı maddelerden oluşan karışımlar bileşenlerine erime noktaları farkından yararlanara ayrılabilir. Karışım yeterince ısıtıldığında erime noktası düşük olan katı önce 
+erir. Eriyen madde, başka bir kaba aktarıldığında bileşenler birbirinden ayrılmış olur. 
+Bu yöntem genellikle alaşımların ayrılmasında 
+kullanılır. Örneğin altın takılar; altın, bakır, gümüş 
+vb. metallerin homojen karışımıdır. Kullanılmış takılardak bu metalleri ayırmak için erime noktalar farkından yararlanılır. Örneğin altın ve bakırdan 
+oluşan bir takıyı bileşenlerine ayırmak için karışım 
+ısıtılır. Altının erime sıcaklığı bakırınkinden daha 
+düşüktür. Bu nedenle önce altın eriyerek sıvı hâle 
+geçer, bakır ise altının erime sıcaklığında katı hâldedi. Sıvı altın, başka bir kaba aktarılarak bakırdan 
+ayrılır. 
+Görsel 2.27 Metalin erimesKarışımlaKarışımla2. Ünit2. ÜnitKimya Kimya Lehim (kalay-kurşun) alaşımı da bileşenlerine erime noktaları farklıyla ayrılır. Karışı ısıtıldığında önce kalay eriyerek karışımdan ayrılır•
+A karışımı bileşenlerine ayrımsal damıtma ile ayrılıyor•
+B karışımının ayrılması için ayırma hunisi kullanılıyor•
+C karışımı katı ve sıvı bileşenlerden oluşuyor, ayrılmasında süzme yöntemuygulanıyor�������������������������������������������������
+������
+• Ayrımsal damıtma birbiri içinde çözünen sıvıları ayırmak için kullanılmaktadı. Bu nedenle A karışımı sıvı bileşenlerden oluşan bir çözeltidir• Ayırma hunisi birbiri içinde çözünmeyen sıvıları ayırmak için kullanılırB karışımı emülsiyondur• Karışıma süzme yöntemi uygulandığından bileşenler birbiri içinde çözünmemişlerdi. Bileşenler katı-sıvı olduğundan karışım süspansiyondur8. UygulamKum, tuz ve demir tozundan oluşan bir karışım bileşenlerine hangi yöntemlerle 
+ayrılır?
+�������
+• Karışıma mıknatıs tutulur. Mıknatıs demir tozunu çekerken kum ve tukarışımda kalır• Kum-tuz karışımına su eklenir. Suda tuz çözünür, kum çözünmez. Karışı süzülür. Böylece kum da karışımdan ayrılmış olur• Son olarak tuzlu su karışımı ısıtılır. Isıtma işlemi sonucunda su buharlaşı, tuz kapta kalır9. UygulamKarışımlaKarışımla2. Ünit2. ÜnitKimya Kimya ����������
+HomojeAdi karışıÇözeltÇözücKaynama 
+noktası 
+artaDerişiYüzde 
+derişiÇözüneKoloiMıknatıYoğunluk 
+farkErime 
+noktası 
+farkKaynama 
+noktası 
+farkTanecik 
+boyutu farkÇözünürlük 
+farkErime 
+noktası 
+azalıSeyreltippSüspansiyon EmülsiyoAerosoHeterojeÇözünmüş 
+madde oranını 
+belirten ifadeleKarışımlar 
+bileşenlerine çeşitli 
+tekniklerle ayrılırÇözünmüş madde, 
+çözücünün özelliklerini 
+değiştirir����

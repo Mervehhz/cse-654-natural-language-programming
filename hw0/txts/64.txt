@@ -1,0 +1,400 @@
+A) –B) –C) D) Kimya - 7. 
+n1 mo273 76  cmHn2 mo546 152  cmHn3 mo400 152  cmHYukarıda bir gazın eşit hacimli kaplarda farklı sıcaklık ve basınçlardaki mol sayılar verilmiştir. 
+Buna göre n1, n2 ve n3 değerleri arasındaki ilişki hangi seçenekte doğru verilmişti? 
+A) n3 > n1 = nB) n1 = n2 > nC) n1 = n2 = nD) n1 > n2 > n810 litrelik kaba 273 °C’ta 2 mol X gazı ile 4 mol Y gazı konuluyorBuna göre X gazının kısmi basıncı kaç atm’dir?
+A) 1,B) 2,C) 4,D) 8,9. 32 gram XO2 gazının 273 °C sıcaklık ve 380 mm Hg basınç altındaki hacmi 44,8 litredirX’in atom kütlesi kaçtır? (O:16)
+A) B) C) D) 10. 5 mol C2H6  gazının normal koşullarda hacmi litredir?
+A) B) C) D) 89,11. Joule – Thomson olayı ile ilgili;
+IGenleşen bir gazın sıcaklığında meydana gelen değişimi ifade ederII. Ani olarak genleşen gaz tanecikleri yavaşlar ve gazın sıcaklığı düşerIII. Gazın genleşmesi sırasındaki sıcaklık değişimi ne kadar az ise gaz o kadar ideal yakındıryargılarından hangileri doğrudur? 
+A) Yalnız B) Yalnız IC) II ve IID) I, II ve II12. I. Gerçek gazlar yüksek sıcaklık ve basınçta ideale yaklaşırIIBasınç ve sıcaklık sabit iken mol sayısı artarsa hacim artarIII. Tanecikleri arasında itme ve çekme kuvveti bulunmazİdeal gazlarla ilgili yukarıdaki yargılardan hangileri doğrudur?
+A) Yalnız B) Yalnız IC) I ve ID) II ve II2. Ünite Ölçme ve Değerlendirme Sorular3. ÜNİTE KONULAR3.1. ÇÖZÜCÜ ÇÖZÜNEN ETKİLEŞİMLER3.2. DERİŞİM BİRİMLER3.3. KOLİGATİF ÖZELLİKLE3.4. ÇÖZÜNÜRLÜ3.5. ÇÖZÜNÜRLÜĞE ETKİ EDEN FAKTÖRLENELER ÖĞRENECEKSİNİZ?
+Bu üniteyi tamamladığınızda;
+•
+Kimyasal türler arası etkileşimleri kullanarak sıvı ortamda çözünme olayını açıklayabilece,
+•
+Çözünen madde miktarı ile farklı derişim birimlerini ilişkilendirecek,
+•
+Farklı derişimlerdeçözeltileri hazırlayacak,
+•
+Çözeltilerin koligatif özellikleri ile derişimleri arasında ilişki kurabilecek,
+•
+Çözeltileri çözünürlük kavramı temelinde sınıflandıracak,
+•
+Çözünürlüğün sıcaklık ve basınçla ilişkisini açıklayabileceksiniz3. ÜNİTSIVI ÇÖZELTİLER VE ÇÖZÜNÜRLÜANAHTAR KELİME VE KAVRAMLAR 
+molaritdipol-dipol etkileşimleri 
+iyon-dipol etkileşimlermolalitiyon-indüklenmiş dipol etkileşimlerdipol - indüklenmiş dipol etkileşimlerhidrojen bağçözünürlüindüklenmiş dipol-indüklenmiş dipol etkileşimlerKimya - 3.1. ÇÖZÜCÜ - ÇÖZÜNEN ETKİLEŞİMLERGörseldeki gibi suya bırakılan bir tablet suda çözünürken naftalin suda çözünmez. 
+Acaba bu durumu nasıl açıklarsınız? Suda tabletin çözünmesi maddelerin hangi özellikler ile açıklanabilir? 
+Çözelti bileşenleri çözücü ve çözünen olmak üzere iki sınıfa ayrılır. Örneğin; su 
+içinde bir miktar tuz çözündüğünde su çözücü madde, tuz ise çözünen maddedir. 
+Çözeltide miktarı fazla olan madde genellikle çözücüdür. Bir çözeltinin sıvı olması 
+için çözelti bileşenlerinden en az birinin sıvı olması gerekir. Bu tür çözeltilere sıvı çözeltile denirÇözünme olayının nasıl gerçekleştiğini daha önceki yıllarda kimyasal türler arası 
+etkileşim konusunda öğrendiğiniz zayıf etkileşimler ile hatırlayınız. Bu etkileşimler 
+aşağıdaki şemada gösterilmiştir.  
+Güçlü EtkileşimleZayıf  Etkileşimler  
+Hidrojen 
+Bağİyonik 
+BaKovalent 
+BaMetalik 
+BaVan der Waals 
+KuvvetlerDipol - Dipol 
+Etkileşimlerİyon - Dipol 
+Etkileşimlerİndüklenmiş       
+Dipol Etkileşimlerİyon - indüklenmiş 
+dipol etkileşimDipol - 
+indüklenmiş 
+dipol etkileşimİndüklenmiş dipol 
+- indüklenmiş dipoetkileşimleri(Londokuvvetleri)
+Kimyasal Türler Arasındaki 
+Etkileşimle3. Ünite: Sıvı Çözeltiler ve ÇözünürlüBir madde başka bir maddeyle karıştığında tanecikler arasında etkileşimler olur. 
+Bu etkileşimlerin türü ve gücü çözünme olayının olup olmayacağını belirler. 
+Çözünme-nin gerçekleşmesi için; çözücü ve çözünenin kendi tanecikleri arasındaki 
+etkileşim-lerin, çözücü ile çözünenin tanecikleri arasındaki etkileşimlerden daha 
+zayıf olması gerekir. Benzer-benzeri çözer ilkesine göre genellikle polar maddeler 
+polar maddeleri, apolar maddeler apolar molekülleri çözerSu, etil alkol gibi polar kovalent bağlı bileşikleri oluşturan atomlar arasındaki 
+elektronegatiflik farkından dolayı atomlardan biri kısmi pozitif yüklü (+) diğeri de 
+kısmi negatif yüklü (–) olur. Bu durumun moleküle iki kutuplu anlamına gelen dipol 
+özellik kazandırdığını daha önceki yıllardan biliyoruz. Polar moleküller dipol özellik 
+gösterir. Bu şekilde oluşan kovalent bağlar (HCl, HF, NH3, H2O.... gibi) kalıcı 
+dipolleri oluştururlar   Kalıcı dipoller kimyasal türlerin kendi yapılarından kaynaklanan ve üzerlerinde 
+sürekli bulunan dipollerdir. Dipoller kalıcı olabileceği gibi geçici (anlık) de olabilir. 
+Molekülü oluşturan atomlar arasında elektronegati flik farkı olmayan (H2, Cl2, O2 ...) 
+apolar moleküllerde ise kalıcı dipoller oluşamaz. Bunlarda indüklenmiş (geçici, 
+anlık) dipoller oluşur. 
+Polar kovalent bağ içeren moleküllerin kalıcı dipole sahip olup olmadığını anlayabilme için molekülün yapısı bilinmelidir. CO2 ve CH4 molekülleri polar kovalent 
+bağ içermesine rağmen kalıcı dipole sahip değildir. CO2’te oksijenler üzerindeki 
+kısmi negatif yükler doğrusal ve zıt yönde olduğu için birbirini nötürler ve geçici 
+dipol oluşur. CH4 molekülü de apolar olduğundan kalıcı dipoller oluşamaz. 
+İndüklenmiş (geçici) dipol oluşur. 
+Bileşiklerin sıvı ortamda çözünmeleri kovalent ve iyonik yapılı olarak iki kısımda 
+incelenebilirKovalent Yapılı Bileşiklerin Sıvı Ortamda Çözünmesi 
+Kovalent yapılı bileşikler çözünerek aşağıdaki gibi iyonlarına ayrışırlar. H2O, HCl, 
+NH3, CH3OH vb. moleküllerin suda iyonlaşarak çözünme tepkimeleri; 
+HCl gazının suda çözünmesi;
+HCl(g) " H+
+(suda) + Cl-
+(suda)
+NH3 gazının suda çözünmesi;
+NH3(g) + H2O(s) E NH+
+(suda) + OH–
+(suda)
+Kimya - şeklinde gerçekleşir. Bu tür çözünmeler kimyasal türler arası etkileşimlerle 
+açıklanır. Etkileşim türleri daha önceki yıllarda öğrenilmişti. Şimdi kovalent yapılı 
+bileşiklerin çözünmelerini açıklayan bu etkileşimler aşağıda verilmiştir. İnceleyiniz. 
+1 - Dipol-Dipol Etkileşimleri:
+Polar moleküller arasında oluşan bir etkileşim türüdür. Polar bir molekülün pozitif 
+yüklü ( δ +) kısmı ile diğer polar molekülün negatif yüklü kısmı ( δ –) arasındaki etkileşimlerl oluşur. Su (H2O) içinde hidroklorik asitin(HCl)çözünmesi bir dipol-dipol 
+etkileşimdir. Aşağıda bu etkileşim modellenmiştir. İnceleyiniz. 
++
+-
+Polar moleküSu molekülünde 
+dipol gösterim+
+-
+Polar molekü2 - Dipol-İndüklenmiş Dipol Etkileşimleri:
+Bu etkileşim polar moleküller ile apolar moleküller arasında gerçekleşir. Apolar bir 
+molekül CH4 ile polar bir molekül H2O karıştırıldığında aralarında dipol-indüklenmiş 
+dipol etkileşimi gerçekleşir. Ancak etkileşim zayıftır CH4 ile H2O arısında çözünme 
+gerçekleşmez. Apolar bir molekül olan O2 molekülü suda az da olsa çözünür ve aralarınd dipol-indüklenmiş dipol etkileşimi gerçekleşir3 - İndüklenmiş Dipol - İndüklenmiş Dipol Etkileşimleri (London Kuvvetleri)
+Tüm maddelerde London kuvveti vardır ancak etkileşim türleri arasında en 
+zayıf etkileşim olduğundan diğerlerinin yanında göz ardı edilir. Soy gaz atomlarını ve 
+apolar molekülleri bir arada tutan tek etkin çekim kuvveti London kuvvetleridir.  
+London kuvvetleri apolar moleküller arasında gerçekleşir. Örneğin; F2, Cl2 
+molekülleri gibiİyonik Yapılı Bileşiklerin Suda Çözünmesİyonik yapılı bileşikler suda çözündüğünde iyonlarına ayrışır. Bu çözünmenin 
+temsili modeli Görsel 3.1’de verilmiştir. İnceleyiniz. 
+Görsel 3.1 Tuzun suda çözünmesÖrnek: 
+KCl (k)
+CaBr2 (k)
+K+(suda)    +   Cl- (suda) 
+Ca 2+ (suda)   +     2Br - (suda)
+İyonik bileşiklerin polar ve apolar maddelerle etkileşimleri iki türlü gerçekleşir. 
+1. İyon- Dipol EtkileşimlerBir dipol molekül ile iyonun arasındaki etkileşim türüdür.  . Örneğin; su ve yemek  
+tuzu polar yapılı maddelerdi.    . Dolayısıyla tuz, su içinde çözünü.      .  Bu çözünmenin 
+denklemi aşağıdaki gibidir:
+                  NaCl(k)                     Na+ (suda)    + Cl– (suda)
+Tuz, suda çözündüğünde Na+ ve Cl- iyonlarına ayrışır. O hâlde bu tuzu oluşturan 
+taneciklerin etkileşimi su ile tuz molekülleri arasındaki etkileşimden daha zayıftır . 
+2. İyon- İndüklenmiş Dipol Etkileşimlerİyonlar ile apolar moleküller arasında oluşan etkileşim türüdü.    . İyonik katılarıbenzen(C6H6), kloroform(CCl4) gibi apolar moleküllerde az da olsa çözünmeleri 
+iyon- indüklenmiş dipol etkileşimleridir. 
+3. Ünite: Sıvı Çözeltiler ve ÇözünürlüKimya - 3.2. DERİŞİM BİRİMLERİçtiğimiz bir meyve suyunun tadından içinde fazla miktarda şeker olup olmadığını 
+anlayabiliriz ya da yediğimiz bir yemeğin içine belli bir miktar tuz atarız. Derişimin 
+belli bir miktar çözücü içinde çözünen madde miktarının bir ölçüsü olduğunu daha 
+önceki yıllarda öğrenmiştiniz. Derişimin; 
+Derişim =  Çözünenin madde miktarı / Çözeltinin miktarşeklinde hesaplandığını daha önceki yıllarda öğrenmiştinizYaygın olarak kullanılan derişim birimleri olarak molarite ve molalitedir. 
+Molarite (molar derişim) : 1 litre çözücüde çözünen maddenin mol sayısına molarit denir.Molar derişim olarak da ifade edilir. “M” ile gösterilir. Birimi “mol/litre 
+(molar) ”dir. 
+Örneğin; 1M’lık sodyum hidroksit çözeltisi hazırlamak için 1000ml (1L) çözeltide 
+1 mol NaOH çözmemiz gerekir.  
+molarite (M) = çözünen miktarı (mol)  / çözeltinin hacmi (L)
+M = n / 1500 ml çözeltide 0,2 mol NaOH çözündüğüne göre çözeltinin derişimi kamolardır?
+Çözüm:
+M= n /  n = 0,2 mol   V= 500 ml= 0,5 L     M= ?
+M= 0,2  / 0,5 = 0,4 M(mol / L)
+2. 2L çözeltide 49 g H2SO4’in çözünmesiyle oluşan çözeltinin molar derişim kaçtır? ( H:1, O:16, S:32)  
+   
+Çözüm:  
+V= 2L       m= 49 g      M=?
+Mol kütlesi (H2SO4) = 1x2+32+16x4=98 g        
+1. UYGULAM98 g   H2SO1 mol is49 g   H2SOX mol            
+ X = 49 .1 / 98 = 0,5 mo M= n  / V  = 0,5 / 2 = 0,25 mol /L olur. 
+Molalite (Molal Derişim): 1 kg ya da 1000 g çözücüde çözünen maddenin mol 
+sayısına molalite denir. Molal derişim olarak da ifade edilir. Molalite“m” ile gösterilir. 
+Birimi “mol/kg (molal)” dır. 
+Örneğin;1molal (1 m) sülfürik asit (H2SO4) çözeltisi hazırlamak için, 1000 g (1 kg) 
+suda 1 mol H2SO4 çözmemiz gerekir. 
+molalite(m)=  çözünen miktarı (mol)  / çözücünün kütlesi (kg)
+Çözelti derişimlerinden kütlece yüzde derişim ve hacimce yüzde derişim daha 
+önceki yıllarda öğrenilmişti. Bu birimlerden birisiyle verilen çözeltilerin derişimin 
+başka bir birime çevrilmesi istenebilir. Bununla ilgili aşağıda verilen uygulamaları inceleyini1. 2 m’lık NaCl çözeltisi hazırlamak için kaç g NaCl alınmalıdır? (Na: 23,  Cl: 35,5)
+Çözüm:  molalite = 2 m         mNaCl=? 
+Molalite, 1000g çözücüde çözünen madde miktarı olduğuna göre 2 molal denildiğind 1 kg çözücüde 2 mol NaCl olmalıdır. NaCl’ün 1 molü 23+35,5= 58,5 g 
+olduğuna göre 2 mol NaCl = 2. 58,5= 117 g/mol’dür22000 g suda 87g K2SO4 çözülerek hazırlanan çözeltinin molalitesi kaçtır?
+(K:39, S: 32, O:16)
+Çözüm: m çözücü = 2000 g = 2 kMol kütlesi (K2SO4) = 39.2 + 32+ 16.4= 174 g 
+n (K2SO4) = 87 / 174 = 0,5 mom = 0,5 / 2 = 0,25 mol/kg (molal)
+2. UYGULAM3. Ünite: Sıvı Çözeltiler ve ÇözünürlüKimya - çözeltiye kaç g su ilave edilmelidir? (C6H12O6 (şeker)= 180 g/mol)
+Çözüm: 
+100 g    şekerli suda      
+ 72 g     şeker var is5 ka     5 kat 
+          500 g   şekerli suda 
+     72.5= 360 g şeker bulunur. 
+         Şekerin 1 molü  
+      180 g/mol ise  
+     360 / 180 = 2 mol  
+   360 g şeker 
+Molalite = çözünen miktarı (mol)  / çözücünün kütlesi (kg)
+2 =   2 mol / m çözücçözücünün kütlesi= 2 / 2 = 1 kg’dir. 
+•
+500 g %72’lik çözeltide 360 g şeker var ise suyun miktarı = 500-360= g’dır•
+2 molal çözeltide suyun miktarı 1000 g olmalıdır. Buna göre; 1000-140= g su ilave edilmelidir2Hacimce % 30’luk etil alkol çözeltisinin hacmi 200 ml’dir. 23 g etil alkokullanarak 0,5 M’lık etil alkol çözeltisi hazırlamak için çözeltide kaç ml etil alkol 
+bulunmalıdır? (C2H5OH mol kütlesi = 46 g/mol)
+Çözüm:
+100 ml çözeltide  30 ml etil alkol varsa 
+2  ka      2 kat    
+     200 ml  çözeltide  X ml etil alkol vardır. 
+X = 30. 2 = 60 ml olur. 
+ 46 g etil alkol 1 mol isM = n / V olduğuna gör      23 g etil alkol    X mol       
+0,5 = 0,5 / V 
+ V= 1 litre olur. 
+        X= 1 / 2 = 0,5 mol olur3. UYGULAM1. Kütlece % 72' lik 500 g şekerli su çözeltisinin derişimini 2 molal yapmak içi200 ml'd60 ml etil alkol varsa     
+5 ka  5 kat 
+     1000 ml ( 1L )’de            
+X ml etil alkol olmalı     
+X= 1000. 60 / 200 = 300 ml etil alkol olmalıdır. 
+3200 ml 3M BaCl2 çözeltisine kaç ml su eklenirse BaCl2’ün molar derişim1 olur? 
+Çözüm:
+M= n / V  3= n / 0,2 = 0,6 mol BaClM=1 olması için; 1= 0,6 / V   
+V = 0,6 L= 600 ml  
+Başlangıçta V= 200 ml idi.     600-200= 400 ml su ilave edilmelidir. 
+Mol KesrBir çözeltide herhangi bir bileşenin mol sayısının, çözeltideki bileşenlerin toplam 
+mol sayılarının oranına mol kesri denir. “X” ile gösterilir. 
+Şimdi aşağıda verilen derişim hesaplamalarıile ilgili uygulamayı inceleyiniz. 
+Kütlece % 49'luk 400 g H2SO4 çözeltisindeki;
+ 
+a)
+H2SO4'in mol kesrinb)
+Çözeltinin molalitesini hesaplayınız.(H: 1, S:32, O:16)
+4. UYGULAM3. Ünite: Sıvı Çözeltiler ve ÇözünürlüKimya - 49= mH2SO4 / 400 x 100  
+1 mol H2SO98 g/mol is         ? 
+196            ?= 196 / 98 = 2 mol H2SO4 olur. 
+mH2O = 400 g - 196 g = 204nH2O = 204 g / (18 g /mol) = 11,33 moMol kesri (X)=  n çözünen / n toplaXH2SO4= nH2SO4 / n toplam  = 2 / (2 + 11,33) = 0,Kütlece yüzde ( % m/ m)= ( m çözünen/ m çözelti) xmH2SO4= 196 g 
+Molalite (m)  = nçözünen(mol)   / mçözücü(kg)
+b)
+m= 2mol / (204x10-3 kg)
+m= 9,8 molaa)
+H2SO4 in mol kütlesi= 2.1 + 32+ 16.4 = 98 g /moH2O' yun mol kütlesi = 2 + 16= 18 g/mo1) 36 gram suda 69 gram etil alkol (C2H5OH) çözünerek bir çözelti hazırlanıyorBuna göre hazırlanan çözeltide etil alkolün mol kesri kaçtır? (C:12, H:1, O:16)
+Çözüm: MAH2O= 2 +16= 18 g su 
+MAC2H5OH = 24 + 6+ 16= 46 1 mol su    18 g is1 mol etil alkol  46 g is  2 ka    2 kat 
+   1,5 kat                1,5 ka      X mol su       36 g      
+   X mol etil alkol   69 g    
+      nsu= 36 / 18 = 2 mol                       netil alkol = 69 / 46 = 1,5 mol 
+Etil alkolün mol kesri; Xetil alkol= netil alkol / ntoplantoplam= 2 + 1,5 = 3,5 mol  iseXetil alkol= 1,5 / (2+1,5) = 1,5 / 3,5= 0,4 mo2) CaCO3 tuzu çözünerek hazırlanan 800 ml 0,05 molar derişimdeki çözeltini ppm cinsinden derişimi kaç olur? (Ca: 40, C:12, O:16)
+Çözüm: M = n / V                    MACaCO3  = 40 + 12+ (16.3)= 100 g 
+1 mol  CaCO3100 g  is 0,05 = n / 0,  n= 0,04 mo0,04   mol    CaCO3     100 x 0,04= 4 g olurppm= (mçözünen  /mçözelti) x 106 
+ppm= (mçözünen  / Vçözelti)   x     106 
+ppm= (4 / 0,8) x 106 = 5 x 5. UYGULAM3. Ünite: Sıvı Çözeltiler ve ÇözünürlüKimya - 3.3. KOLİGATİF ÖZELLİKLESaf çözücüde çözünen maddenin cinsine 
+bağlı olmayıp çözünen maddenin miktarına 
+bağlı olarak değişen özelliklere koligatif özellikle denildiğini daha önceki yıllarda öğrenmiştini. Örneğin; tuzlu su çözeltisinin donma 
+noktası, saf suyun donma noktasından daha 
+düşüktür. Yani saf su  1 atm basınçta 0oC’ ta donarke tuzlu su, çözeltideki tuz derişimi arttıkç sıfırdan daha düşük sıcaklıklarda donar. 
+Donma noktası düşmesi bir koligatif özelliktir. 
+Koligatif özellikler, çözünenin cinsinden 
+bağımsız çözünen maddenin derişimine bağlı 
+olarak değişen çözelti özellikleridir. Buhar 
+basıncı alçalması, donma noktası düşmesi, 
+kaynama noktası yükselmesi ve osmotik 
+basınçtırBuhar Basıncı AlçalmasÇözeltilerin buhar basıncı saf çözücünün buhar basıncından daha düşüktür. 
+Örneğin aynı sıcaklıkta saf suyun buhar basıncı tuzlu suyun buhar basıncından daha 
+yüksektir. Çünkü çözeltilerde sıvı daha yavaş buharlaşır. Sıvı yüzeyinde çözünen 
+tanecikler de bulunacağından sıvının gaz hâline geçmesini azaltır.  (Görsel 3.2) 
+Çözeltideki suyun buharlaşmasını belirleyen etken suyun mol kesridir. Çözeltide 
+suyun mol kesri azalır. 
+Buhar basıncı ile ilgili deneysel çalışmalar F.M. Raoult (Raul) tarafından yapılmıştır. 
+(Görsel 3.3) Raoult, saf çözücüde bir madde çözündüğünde çözünen maddenin çözücünü buhar basıncını düşürdüğünü tespit etmiştir. Aşağıdaki formülü geliştirmiştir. 
+Pçözücü= Xçözücü . PçözücPçözücü : Çözücünün kısmi buhar basıncXçözücü : Çözücünün mol kesrPçözücü : Saf çözücünün buhar basıncGörsel 3.2 Buhar basıncı alçalmassaf sıvBuhar basıncsıvı - çözüne(uçucu değil)
+Görsel 3.3 François- Marie Raoult 
+(1830-1901) 
+1 molal BaCl2 çözeltisinin 50oC’taki buhar basıncı kaç mmHg’dır? (50oC’tPsu= 100 mmHg) (H: 1, :16)
+Çözüm: 
+1 molal BaCl1000 g suda 1 mol BaCl2’dür. 
+nH2O =  1000  / 18 = 55,5 monBaCl2= 1 monT= 1 + 55,5 = 56,5 moPçözelti = Poçözücü . Xçözücü = 100. (55,5 / 56,5) = 98,2mmH6. UYGULAMDonma Noktası Alçalması (Kriyoskopi)
+Saf sıvıların belirli basınçta bir donma noktalarının olduğunu biliyoruz. Örneğin; 
+1 atm basınçta saf su 0 oC’ta donarken etil alkol sıfırın altında 117oC’ta donar. Saf 
+sıvının içine çözünen bir madde eklendiğinde oluşan çözeltinin donma noktası, 
+sıvının donma noktasından daha düşük olur. Donma noktasındaki alçalma 
+çözeltideki çözünen maddenin miktarına bağlıdır. Çözünen maddenin derişimi 
+arttıkça donma noktası daha da düşer. Kış aylarında araba radyatörlerinde ve cam 
+suyu haznelerinde 
+3. Ünite: Sıvı Çözeltiler ve ÇözünürlüKimya - bulunan suyun donma noktasını düşürecek antifriz katıldığını bilirsiniz. Karlı yollara 
+da buzlanmayı önlemek amacıyla tuz atılır. Benzer şekilde kış aylarında uçağın kanat 
+ve yüzeylerine basınçla propilen glikol ya da benzeri sıvılar püskürtülür. Bu sıvı, araba 
+radyatörlerindeki antifriz sıvısının daha seyreltilmiş halidir ve kullanılan sıvının tipine 
+göre uçakların kalkış anından itibaren buzlanma şartlarından çıkana kadar koruyabilece bir süre vardır.  
+Donma sıcaklığı düşmesinden yararlanılarak mol kütlesi belirleme yöntemine kriyoskop denir. Donma noktasındaki alçalma miktarı;
+Δtd = -Kd. m. Formülü ile hesaplanır. Bu formülde; 
+∆td= donma noktası alçalmasKd= sabit ( su için 1,86 oC m–)
+m = molaliti = çözünen maddenin ortama verdiği tanecik (iyon ya da molekül) sayısını gösterir. 
+NaCl, MgBr2 , MgBr2 gibi iyonik bileşik suda çözündüğünde iyonlarına ayrılırlar ve 
+oluşan iyon sayısı tanecik sayısını verirNaCl(k) → Na+(suda) + Cl–(suda)
+              1 tanecik        1 taneci	
+    2 taneciMgBr2(k) → Mg2 (suda) + 2Br–(suda)
+ 
+ 
+   						
+                1 tanecik        2 taneci	
+   3 taneciC6H12O6 (glikoz), CH3OH (metil alkol) gibi bileşikler suda moleküller 
+çözündüklerinden tanecik sayıları daima 1(bir) olarak alınırC6H12O6(k) → C6H12O6(suda)
+     glikoz 
+             1 taneciCH3OH(s) → CH3OH(suda)
+1 taneciBazı çözücülerin molal donma noktası sabitleri aşağıdaki tabloda verilmiştirÇözücDonma noktası (oC)
+Kd(oC/m– )
+Benze5,-5,Klorofor-63,-4,S-1,Aşağıda verilen uygulamada bir çözeltide kriyoskopi hesaplaması yapılmıştır. İnceleyini. 
+Çözüm:
+Glikoz moleküler çözündüğünden tanecik sayısı 1’dir (i=1)   ∆td      =  –Kd. m. -1,86    =  –1,86. m .       m   =  1 mola7. UYGULAM1 atm basınç altında 18 gram glikozun 100 gram suda çözünmesiyle elde 
+edilen çözeltinin donmaya başladığı sıcaklığı -1,86 oC’tur. Buna göre glikozun 
+mol kütlesi kaçtır? ( Su için Kd= -1.86 oC m–)
+Kaynama Noktası Yükselmesi (Ebülyoskopi)
+Isıtılan bir sıvı,buhar basıncının dış basınca eşit olduğu anda kaynamaya başlar. 
+Bu andaki sıcaklık sıvının kaynama sıcaklığıdır.  Saf sıvının içine çözünen bir madde 
+eklendiğinde çözelti saf sıvının kaynama noktasında kaynamaz. Şimdi aşağıda verilen 
+etkinliği inceleyiniz. 
+3. Ünite: Sıvı Çözeltiler ve Çözünürlümolalite=nçözünen/mçözüc1= (18/MA ) / 0,MA= 180 g/moKimya - Kaynama Noktaları Tayini EtkinliğDeneyin Adı: Saf Maddelerin ve Çözeltilerin Kaynama Noktaları Tayini 
+Deneyin Amacı:   Saf maddelerin ve çözeltilerin kaynama süresince  sıcaklıklarını sabit kalıp kalmadığını irdelemek 
+Kullanılan Araç ve Gereçler:
+•
+Saf s•
+Yemek tuz•
+2 adet termometr•
+2 adet cam balo•
+2 adet çift delikli tıp•
+Metal bağlama parçalar•
+2 adet ispirto ocağ•
+2 adet sacayağDeneyin Aşamaları:
+•
+İki adet cam balondan birisine yarısına kadar saf su, diğerine yarısına kadatuzlu su doldurulmuştur•
+Metal bağlama parçaları ile düzenek kurulmuştur•
+Çift delikli lastik tıpaların deliklerinden birine bir cam boru, diğerine ter-   
+mometre yerleştirilmiştir•
+İspirto ocağıyla cam balonlardaki sıvılar ısıtılmıştır•
+Sıvıların kaynama sıcaklıkları termometreden okunmuştur•
+Her iki kaptaki sıcaklıkların zamanla değişimleri kaydedilmiş ve sıcaklıkları zamana bağlı grafikleri çizilmiştirSıcaklık (°C)
+Sıcaklık (°C)
+ZamaZamaSaf STuzlu S8. UYGULAMSonuç:
+•
+Saf suyun kaynama süresince sıcaklığının değişmediği gözlemlenmiştir•
+Tuzlu suyun kaynama sıcaklığının saf suyunkinden daha yüksek olduğu gözlemlenmiştiTuzlu su gibi çözeltilerde sıcaklık, çözeltinin basıncı dış basınçla eşitleninceye kadar 
+artar ve daha sonra sabit kalır. Kaynama sıcaklığı yükselmesinden yararlanılarak mol kütles belirleme yöntemine ebülyoskopi denir. Kaynama sıcaklığındaki artma miktarı;
+Δtk = Kd. m. ∆tk = kaynama noktası yükselmesKk(Kb) = Ebülyoskopi sabiti (su için 0,52 oC m–)
+m= molaliti= çözünen maddenin ortama verdiği tanecik sayısÇözeltilerin kaynama noktasındaki yükselme çözünenin cinsine bağlıdır. Bazı 
+çözücülerin kaynama noktaları ve molal kaynama noktası yükselmesi sabitleri ( Kk ya 
+da Kb)  aşağıdaki tabloda verilmiştir. 
+ÇözücKaynama noktası (oC)
+Kk(Kb)(oC/m– )
+Benze80,3,Klorofor61,3,Etil alko1,S0,Aşağıda kaynama noktası yükselmesi ile ilgili uygulamalar verilmiştir. İnceleyiniz. 
+göre kaynama noktası kaç oC'a yükselir? ( su için Kk = 0.52 °C m–   )
+ Çözüm:
+molalite = 1kg çözücüde çözünmüş olan maddenin mol sayısıdır. NaCl’ün 
+molalitesi;   m = 2/0,5 = 4 mola9. UYGULAM1500 gr suda 2 mol NaCl tuzu çözündüğünde oluşan çözeltinin, saf suy3. Ünite: Sıvı Çözeltiler ve ÇözünürlüKimya - NaCl " Na+
+(suda)   +    Cl-
+(suda)
+2 mol      2mol                2 moOrtama 4 mol iyon veri∆tk = Kk m ∆tk = 0,52× 4 × 4= 8,32  oC      Kaynama noktası 8,32  oC yükselmiştir2. 500 gram suda bir miktar glikoz çözünerek hazırlanan çözelti 1 atm’d100,52   ͦ C’ta kaynamaya başlıyor. Buna göre glikozun kütlesi kaç g’ dır? (Glikozu mol kütlesi:180 g /mol,su için Kk: 0,52 oC/m)
+   1 mol glikoz      180 g / mo∆Tk = Tk – Tko = 100,52 – 100 = 0,52 °∆tk = Kk .m. 0,52 = 0,52 .m. m = 1 mola1 kg suda  1mol glikoz çözünmüşse 
+0,5 kg suda  Xmol glikoz    
+   0,5 mol glikoz       X g / mo    X= 0,5 mol glikoX = 0,5 . 180 = 90 g 
+Osmotik BasınUçucu olmayan maddelerin sıvılarda çözünmesiyl oluşan çözeltilerde, koligatif özelliklerde biri de osmotik basınçtır. Osmoz basıncı 
+doğuran osmoz olayıdır.  Örneğin şekerli su 
+çözeltisini ele alınız (Görsel 3.4). Bu çözeltide 
+saf su ve şekerli su arasına bir yarı geçirgen zar 
+konulur. Bu zardan su molekülleri diğer kaba 
+geçiş yaparken şeker molekülleri zarın diğer tarafına geçiş yapamaz. Bu durumda şeke çözeltisi seyrelmiş olur. Osmoz, çözücü maddelerin az yoğun ortamdan çok yoğun 
+ortama, seçici geçirgen bir zardan enerji harcanmadan geçişidir. Canlı sistemlerde çözüc madde su olduğu için, biyoloji biliminde osmoz terimi ile kastedilen, suyun az 
+Görsel 3.4 Şekerli suda osmotik basınyoğun ortamdan çok yoğun ortama seçici geçirgen bir zardan enerji harcanmadan 
+geçişidir. Suyun geçmesiyle çözelti daha seyreltik hâle gelir ve su seviyesi yükselir. Sıvı 
+yüksekliğinin oluşturduğu basınca osmatik basınç denir. Osmoz, canlıların hücrelerini yaşamsal olaylarının devamında oldukça önem taşır. Bitkilerin topraktan suyu 
+çekmeleri osmotik basınç sayesinde olur. 
+Ters Osmoz Yöntemiyle Su ArıtımOsmotik basınçta (Görsel 3.5 a) geçişosmoters osmoGörsel 3.5 a) Osmotikbasınç   
+b) Ters osmodurdurmak için derişik çözelti tarafına 
+daha büyük bir basınç uygulanarak çözücünü akış yönü değiştirilir. Bu sayede 
+seyreltik çözeltiden derişik çözeltiye geçiş 
+durur. Çözeltiden çözücüye su akışının 
+sağlandığı bu olaya ters osmoz denir 
+(Görsel 3.5 b)Gemilerde deniz suyundan içme suyu 
+elde etmek amacıyla ya da atık suların yeniden kullanılmasını sağlamak amacıyla kullanıla ters osmoz teknolojisi bilinen en hassas arıtma yöntemidir. 1970’li yıllardan 
+itibaren kullanılan bu yöntem günümüze gelindikçe daha düşük maliyetlere inmiş ve 
+evlerde dahi kullanılmaya geçilmiştir (Görsel 3.6 (a - b)). 
+Görsel 3.6  a) Ters osmoz ile çalışan ev tipi su arıtma cihazb) Ters osmoz ile çalışan su arıtma tesis(a)
+(b)
+3. Ünite: Sıvı Çözeltiler ve ÇözünürlüKimya - 3.4. ÇÖZÜNÜRLÜÇözücü ile çözünenin oluşturduğu homojen karışıma çözelti dendiğini biliyorsunu. Şekerli ve tuzlu su, maden suyu, gazlı içecekler, deniz suyu çözeltiye örnektir. 
+Şeker, tuz gibi maddeler suda çözünürler. Çözeltiler çözünen maddenin miktarına 
+göre derişik ve seyreltik olmak üzere ikiye ayrılır. Görsel 3.7'de verilen iki çözeltide 
+aynı miktar çözücüde birinci çözeltide daha az tuz çözündüğünden, birinci çözelti 
+ikincisine göre seyreltiktir. Belli bir miktar çözücüde çok miktarda çözünen madde 
+içeren çözeltilere derişik çözelti, az miktarda çözünen madde içeren çözeltilere ise 
+seyreltik çözelti denir (Görsel 3.7) 100 mL su 10 g tu 100 mL su 30 g tuGörsel 3.7 Seyreltik çözelti (I), derişik çözelti (II)
+Bazı çözeltiler çözebileceği en fazla miktarda çözünen 
+madde içerirken bazı çözeltiler çözebileceğinden daha az çözüne madde içerebilir.Örneğin; bir bardak çayın içinde bir 
+küp şekeri çözebiliriz (Görsel 3.8). Acaba aynı miktar çayın 
+içine sekiz adet küp şekeri eklediğinizde çözünebilir mi? Çözünemede kalan şeker dibe çöker mi?
+Görsel 3.8 Çay ve küp 
+şekeAşağıda verilen üç çözeltiyi inceleyiniz. 
+ 100 mL su 10 g şeke-I-
+25 o 100 mL su 210 g şeke-II-
+25 o 100 mL su 210 g şeke-III-
+10 oI. çözeltide 25oC sıcaklıkta 100 mL suda 10 g şeker çözünürken II. çözeltide 
+210 g çözünmektedir. Fakat sıcaklık düşürüldüğünde şekerin bir kısmı dibe 
+çökmektedir. 25oC’ta 100 mL suda 210 g şeker en fazla çözünen şeker 
+miktarıdır. 
+210 
+g 
+şekerden fazlası bu sıcaklıkta ve 100 ml suda 
+çözünememektedir. 
+O hâlde sabit sıcaklıkta belli bir miktar çözücünün en fazla çözebileceği madde 
+vardır. Sabit basınç ve sıcaklıkta belli bir miktar çözücünün çözebileceği en fazla 
+madde mik-tarının çözündüğü çözeltiye doymuş çözelti denir. Çözücünün 
+çözebileceğinden daha az çözünmüş madde içeren çözeltiler doymamış çözelti,  
+çözücünün çözebileceğinden fazla çözünmüş madde içeren çözeltiler de  aşırı 
+doymuş çözeltilerdir. Görselde, I. çözelti doymamış çözelti, II. çözelti doymuş 
+çözelti, III. çözelti ise aşırı doymuş çözeltidirBelli bir sıcaklık basınçta 100 gram suda çözünen en fazla madde miktarına 
+o maddenin çözünürlüğü denir. Verilen çözeltilerden  II. çözeltide şekerin 
+çözünürlüğü 25 oC ’ta 100 g suda şekerin çözünürlüğü 210g / 100 g su olarak ifade 
+edilir.  
+Çözünürlük, doymuş çözeltinin derişimidir. 
+3. Ünite: Sıvı Çözeltiler ve ÇözünürlüKimya - sıcaklıkta 300 g suda kaç g A maddesi çözünür? 
+Çözüm:
+15 oC’ta 
+100 g suda 15 g 
+A maddesi çözünüyorsa 
+3 kat 
+              3 ka15 oC’ta 
+     300 g suda X g       A maddesi çözünür  
+ X= 15.300 / 100 =15. 3 = 45 g çözünür15 oC’ta   A maddesinin çözünürlüğü;  45 g/ 300 g su olur.               
+2. 30 Co ’ta A maddesinin çözünürlüğü 25 g / 100 g sudur. 250 g doymuş A çözeltisind kaç g A maddesi çözünmüştür? 
+Çözüm:   Bu tür soruların çözümünde altı çizili kısma dikkat edilir. Çözeltideki 
+çözünen madde istendiğine göre orantı kurulurken çözelti baz alınır.  
+Çözünürlük ifadesinden çözeltinin kütlesi bulunur. 
+25 g çözünen ( A maddesi)  + 100 g çözücü( su) = 125 g çözelt125 g çözeltide 
+25 g 
+A maddesi çözünüyors2 ka2 kat 
+     250 g çözeltide 
+  X g A maddesi çözünürX= 25. 250 / 125 = 50 g A maddesi çözünür10. UYGULAM1. 
+15 oC’ta bir A maddesinin çözünürlüğü 15 g / 100 g sudur. Buna göre ayn3.5. ÇÖZÜNÜRLÜĞE ETKİ EDEN FAKTÖRLEÇözünen bir maddenin çözücü içindeki çözünürlüğü birçok faktöre bağlıdır. 
+Bunlar; çözücü ya da çözünen maddenin türü,  ortak iyon etkisi, sıcaklık ve basınçtır. 
+Çözünürlüğü tanımlarken belli sıcaklık ve basınçta belli bir miktar çözücüde en fazla 

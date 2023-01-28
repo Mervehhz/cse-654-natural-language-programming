@@ -1,0 +1,400 @@
+-
++
+"
+,
+-
+P-
+-
+Yandaki birim çembere göre sii =
+ veya sir -
+=
+^
+ 
+olur. Sinüs fonksiyonu 2r periyotlu periyodik bir fonksiyon 
+olduğundan sisik $
+=
++
+^
+h veya 
+sisik $
+-
+=
+-
++
+^
+^
+h olurBu durumda sin=
+ denkleminin köklersisi$
++
+=
+^
+ ve sisi$
+r -
++
+=
+^
+ 
+eşitliklerini sağlayan x değerleridir. Buna gör&
+sisi$
+$
++
+=
+=
++
+^
+&
+sisi$
+$
+-
++
+=
+=
+-
++
+^
+ olur. 
+Sonuç olaraMatematik tan =-
+ denkleminin çözüm kümesini bulunuztan =
+ denkleminin çözüm kümesini bulunuztan =
+ denkleminin 
+,
+0 r nda bir kökü 
+olu=
+ 
+Bu durumda çözüm kümesi 
+,
+x olarak bulunu$
+;
+!
+=
+=
++
+&
+tan =-  denkleminin çözüm kümesini bulunuztan =-  denkleminin 
+,
+0 r nda bir kökü 
+olu3=
+ 
+Bu durumda çözüm kümesi 
+,
+x olarak bulunu$
+;
+!
+=
+=
++
+&
+tan=
+ Denkleminin Çözüm KümesÇÖZÜÇÖZÜÇÖZÜÖRNEÖRNEÖRNEtan =-
+ denkleminin 
+,
+0 r nda bir kökü 
+olu5=
+ 
+Bu durumda çözüm kümesi 
+,
+x olarak bulunu$
+;
+!
+=
+=
++
+&
+Sonuç olarak !
+ olmak üzere tan =
+ denkleminin 
+,
+0 r nda bir kökü 
+!
+`
+j 
+ise denklemin çözüm kümesi 
+,
+olux $
+;
+!
+=
+=
++
+"
+,
++
+=
+P-
+-
+`
+bbbbbbbbYandaki birim çembere göre tai =
+ olur. Tanjant fonksiyon r periyotlu periyodik bir fonksiyon olduğundan 
+tatak $
+=
++
+^
+h olurBu durumda tan=
+ denkleminin köklertata$
++
+=
+^
+ eşitliğini sağlayan x değerleridir. 
+Buna gör&
+tata$
+$
++
+=
+=
++
+^
+ olur. 
+TrigonometrSONUveyisveysisicocotatacocoolmak zerf g f g f g f g f g f g $
+$
+{
+{
+{
+{
+!
+=
+=
+=
++
+=-
++
+=
+=
+isis$
+$
+$
+=
++
+=
+-
++
+=
++
+ise k $ =
++
+]
+]
+]
+]
+]
+]
+]
+]
+]
+]
+]
+]
+]
+]
+]
+]
+]
+]
+]
+]
+sisi-
+=
++
+l denkleminin çözüm kümesini bulunuzcot =
+ Denkleminin Çözüm KümesÇÖZÜÖRNEÇÖZÜÖRNEcot =
+ denkleminin çözüm kümesini bulunuzcot =
+ denkleminin 
+,
+0 ^
+h nda bir kökü 
+olu=
+ 
+Bu durumda çözüm kümesi 
+,
+x olarak bulunu$
+;
+!
+=
+=
++
+&
+&
+sisivey$
+$
+-
+=
++
+-
+=
++
++
+-
+=
+-
++
++
+!
+ olmak üzere cot =
+ denkleminin 
+,
+0 ^
+h nda bir kökü i ise denklemin çözüm 
+kümesi 
+,
+olux $
+;
+!
+=
+=
++
+"
+,
+P-
+-
+`
+bbbbbbbb+
+Yandaki birim çembere göre coi =
+ olur. Kotanjan fonksiyonu r periyotlu periyodik bir fonksiyon 
+olduğundan cocok $
+=
++
+^
+h olurBu durumda cot=
+ denkleminin köklercoco$
++
+=
+^
+ eşitliğini sağlayan x değerleridi. Buna gör&
+coco$
+$
++
+=
+=
++
+^
+ olur. 
+Sonuç olara=
+Matematik Bu durumda çözüm kümesi 
+,
+x $
+$
+;
+!
+=
+=
++
+=
++
+&
+0 olarak bulunurBu durumda çözüm kümesi 
+,
+x $
+;
+!
+=
+=
++
+&
+0 olarak bulunurcosi-
+=
++
+l denkleminin çözüm kümesini bulunuzBu durumda çözüm kümesi 
+,
+x olarak bulunu$
+$
+;
+!
+=
+=
++
+=
+&
+ 
+cosicoco&
+=
+=
+-
+-
++
+-
++
+lcocoveyveyveyveya olu&
+&
+&
+&
+&
+$
+$
+$
+$
+$
+$
+$
+$
+-
+=
+- +
+-
+=- +
++
+-
+=- - +
++
++
+=
++
++
+-
+=
+-
++
+=
++
+=
+=
++
+=
+ÇÖZÜÇÖZÜÖRNEÖRNEtaco+
+=
+-
+`
+`
+j denkleminin çözüm kümesini bulunuztacotata&
++
+=
+-
++
+=
+-
+-
+`
+`
+`
+`
+`
+jolu&
+&
+&
+&
+&
+$
+$
+$
+$
+$
++
+=
+-
+-
++
++
+=
+-
++
++
++
+=
+-
++
++
+=
++
+=
++
+`
+veyveyveyveya olu&
+$

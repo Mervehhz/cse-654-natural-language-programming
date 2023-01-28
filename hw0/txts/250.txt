@@ -1,0 +1,400 @@
+aynı zamanda yükseklik olduğundan ACAl 
+üçgeni ikizkenar dik üçgendir. Buna göre 
+AA =
+=
+-
+ bulunurBuradan 
+,
+A a ^
+h noktasının =
+ doğrusuna 
+göre simetriği 
+,
+b l^
+h noktası olarak elde 
+edilirÇÖZÜÇÖZÜÇÖZÜÖRNEÖRNEÖRNE&
+,
+,
+vve bulunu&
+&
+-
+=
+-
+-
++
+=
+-
+-
+=-
++
+=
+=
+^
+^
+ve bulunu&
+=
+=
+&
+,
+,
+ve 1 &
++
+-
+=
++
+-
++
+=
++
+-
+=
+-
+^
+^
+DönüşümleBir ,
+^
+h noktasının ab+
++
+=
+ doğrusuna göre 
+simetriğini bulmak için aşağıdaki adımlar sırasıyla uygulanır. 
+{  Doğrunun eğimi =-
+ bulunur{  Aile ab+
++
+=
+@
+ doğrusu birbirine dik 
+     olduğundan AA@ nın eğimi =
+ olur. 
+{  Eğimi =
+ olan ve ,
+^
+h noktasından geçen AAl doğrusunun denklem     b -
+=
+-
+^
+h ifadesinden elde edilir{  ab+
++
+=
+ doğrusunun denklemi ile yeni bulunan AAl doğrusunun denklemi ortak  
+     çözülerek 
+,
+K k ^
+h kesim noktası bulunur{  ,
+^
+h noktasının 
+,
+K k ^
+h noktasına göre simetriği alınarak ,
+-
+-
+l^
+h 
+     noktası elde edilirBu nokta ,
+^
+h noktasının ab+
++
+=
+ doğrusuna göre simetriği olan noktadır. 
+Bir Noktanın Bir Doğruya Göre Simetriğ,
+A ^
+ab+
++
+=
+,
+K k ^
+'
+'
+,
+-
+-
+l ^
+,
+A -
+^
+h noktasının |
++
++
+=
+ doğrusuna göre simetriği Al olduğuna göre Al noktasının 
+koordinatlarını bulunuz,
+A -
+^
+h noktasının 
+,
+K -
+^
+h noktasına göre simetriği 
+,
+,
+2 2 $
+$
+-
+-
+- -
+=
+-
+^
+]
+]
+^
+gh 
+noktası olarak bulunur. Bu durumda 
+,
+A -
+^
+h noktasının |
++
++
+=
+ doğrusuna göre 
+simetriği 
+,
+-
+l^
+h noktasıdır,
+A -
+^
+A:
+d +
++
+=
+ doğrusunun eğimi d =-
+ dirA=
+l olduğundan A$
+=-
+  olurv+
++
+=
+-
+-
+=
+ denklemleri ortak çözülürse ve =
+=-
+ bulunur. Böylece 
+K noktasının koordinatları 
+,
+K -
+^
+h olarak elde edilir,
+A -
+^
+h noktasından geçen ve eğimi 2 olan AAl 
+doğrusunun denklem|
++
++
+=
+ÇÖZÜÖRNE'
+'
+&
+bulunuAAA&
+&
+$
+$
+=-
+-
+=-
+=
+&
+&
+bulunu&
+$
+-
+=
+-
+=
+-
++
+=
+-
+-
+-
+=
+-
+-
+^
+]
+]
+Matematik Analitik düzlemde 
+,
+A -
+^
+h noktasının bir d doğrusuna göre simetriği 
+,
+6 -
+l^
+h noktası     
+olduğuna göre d doğrusunun denklemini bulunuzAA@ nın orta noktası K ise K noktasının koordinatları 
+,
+,
+2 -
+-
++
+=
+-
+^
+h olur. AAl doğrusunun 
+eğimi AA =
+-
+-
+- -
+= -
+=-
+]
+ bulunur. 
+A=
+l olduğundan eğimleri çarpımı 
+-  dir. Buna göre d doğrusunun eğimi d =
+ olur. 
+,
+2 -
+^
+h noktasından geçen ve eğimi d =
+ olan d doğrusunun denklemi 
+&
+$
+-
+=
+-
+=
++
+-
+olarak elde edili&
+&
+-
+=
++
+-
++
+=
+^
+]
+'
+,
+6 -
+l ^
+'
+,
+A -
+^
+d1  doğrusunun A noktasına göre simetriği d2  doğrusu 
+ise '
+,  AA=
+ ve AA=
+ olurd1   doğrusu üzerindeki bir  
+,
+x B^
+h noktasının 
+,
+A a ^
+h 
+noktasına göre simetriği olan 
+,
+C -
+-
+^
+h noktas d2  doğrusu üzerindedir. 
+d2  doğrusunun denklemini bulmak için d1  doğrusunu denkleminde x yerine 2 -
+ ve y yerine -
+ 
+yazılarak d1  doğrusunun A noktasına göre simetriği 
+olan d2  doğrusu elde edilirBir Doğrunun Bir Noktaya Göre Simetriğdd,
+A a ^
+'
+'
+-
++
+=
+ doğrusunun 
+,
+A -
+^
+h noktasına göre simetriği olan doğrunun denklemini bulunuz-
++
+=
+ doğrusu üzerindeki bir nokta 
+,
+B x ^
+h olsun. 
+,
+B x ^
+h noktasının 
+,
+A -
+^
+h noktasna göre simetriği 
+,
+,
+y olu2 $
+$
+-
+-
+=
+-
+-
+-
+-
+^
+]
+^
+ -
++
+=
+ doğru denklemind x yerinx ve y yerin-
+-
+-
+ yazılırsa -
++
+=
+ doğrusunun 
+,
+A -
+^
+h noktasna göre simetriği olan doğrunun denklemÇÖZÜÇÖZÜÖRNEÖRNE&
+&
+&
+olarak bulunu$
+$
+-
+-
+-
+-
++
+=
+-
++
++
++
+=
+-
++
++
+=
+-
+-
+=
+]
+^
+DönüşümleAnalitik düzlemdeki 
+,
+5 -
+^
+h noktasının  Dinamik Geometri ve Matematik Yazılımı programı 
+yardımıyla,
+:
+x ekseni boyunca pozitif yönde 9 birim ve y ekseni boyunca negatif yönde 5 birim ötelenmesi  
+     ile oluşan noktayı bulunuz. 
+:
+Orijin etrafında pozitif yönde 
+18 c döndürülmesi ile elde edilen noktayı bulunuz:
+,
+1 -
+^
+h noktasına göre simetriği olan noktayı bulunuz:
+-
++
+=
+ doğrusuna göre simetriği olan noktayı bulunuzGiriş çubuğuna 
+,
+5 -
+^

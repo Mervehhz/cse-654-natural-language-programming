@@ -1,0 +1,400 @@
+18. 112 234 sayısının rakamlarının yerleri 
+değiştirilerek elde edilen 6 basamaklı, 
+farklı sayılardan rastgele biri seçiliyor. 
+Bu sayıda 1 rakamlarının yan yana olma 
+olasılığını bulunuz 
+   
+ 
+ 
+ 
+Veri, Sayma ve OlasılıVeri, Sayma ve OlasılıA) Aşağıdaki cümlelerde boş bırakılan 
+yerlere doğru sayıyı yazınız1.  3 farklı roman ve 5 farklı şiir kitabı arasındn 1 adet roman veya şiir kitabı ...... farklı 
+şekilde seçilebilir2.  3 farklı roman ve 5 farklı şiir kitabı arasından 
+1 roman ve 1 şiir kitabı ...... farklı şekilde seçilebili. 
+3.  3 farklı kitap düz bir rafa ....... farklı şekilde 
+dizilebilir. 
+4. 123 sayısının rakamlarının yerleri değiştirilere ....... farklı sayı elde edilebilir. 
+B) Aşağıda numaralarla verilen ifadele ile harflerle verilen matematiksel 
+ifadeleri eşleştirip eşleşenleri alttaki 
+kutulara yazınız5.  (!
+)
+ 
+1. 
+( ,
+)
+P n 0                 
+a) b) c) n!
+ç) nd) e) f)  
+2. 
+( ,
+)
+P n  
+3. 
+( ,
+)
+ 
+ 
+4. 
+( ,
+)
+P 5 1. 
+2. 
+3. 
+4. 
+6.  ( ,n ve !
+$ ) 
+1.  
+,
+P n ^
+h               
+a) b) c) n!
+ç) P(5, 3)
+d) 
+!
+!
+(
+)
+-
+e) (
+)!
+!
+!
+$
+-
+ 
+2. 
+( ,
+)
+P n  
+3.  P(5, 2)
+ 
+4. !
+1. 
+2. 
+3. 
+4. 
+C) Aşağıdaki açık uçlu soruların cevabını ilgil alana yazınız7.  
+     Şekildeki her çizgi şehirler arası bir yolu temsi etmektedir. A kentinden B kentine 3 farklı 
+yol, B  kentinden C kentine 4 farklı yol, A 
+kentinden C kentine 2 farklı yol vardır. Buna 
+göre A kentinden C kentine kaç farklı yoldan 
+gidilebileceğini bulunuz. 
+                                                     
+8. 
+!
+!
+!
+$
++
++
+-
++
+=
++
+]
+]
+]
+ 
+    denklemini sağlayan n değerini bulunuz. 
+  
+                                                     
+9.  3 farklı matematik, 4 farklı fizik ve 2 farklı 
+kimya  kitabı düz bir rafa dizilecektir. Fizik 
+kitapları yan yana ve kimya kitapları yan 
+yana olmak üzere 9 kitabın bu rafa kaç değişi şekilde dizilebileceğini bulunuz.  
+ÖLÇME VE DEĞERLENDİRMVeri, Sayma ve OlasılıVeri, Sayma ve Olasılı10 -12. soruları aşağıda verilen bilgilere 
+göre cevaplandırınız 
+Ali, Ayşe ve Ahmet bir kutlama yemeği için restoran gidiyorlar. Verilen menüden aşağıda verilen 
+bilgilere göre sipariş veriyorlar• Herkes kebap, çorba ve tatlı çeşitlerinden 
+birer tane sipariş veriyor• Ali, Ayşe ve Ahmet’in siparişlerinde ortak 
+hiçbir yemek yoktur• Herkes kendi hesabını ödüyor        
+10.  Siparişi ilk veren Ali’nin kaç farklı seçeneği  
+olduğunu bulunuz. 
+11.  Ali’nin yemek siparişi  Adana kebabı, Ezo 
+Gelin çorbası ve baklava olduğuna göre Ayş’nin yemek siparişinin kaç farklı şekilde 
+olabileceğini bulunuz. 
+12. Ahmet en az hesap ödeyecek şekilde sipariş 
+verdiğine göre Ahmet’in kaç farklı sipariş 
+seçeneği olduğunu bulunuz. 
+D) Aşağıdaki çoktan seçmeli soruların 
+doğru seçeneğini işaretleyiniz13. 
+!
+!
+=
+ eşitliğini sağlayan a ve b pozitif 
+tam sayılarının toplamının alabileceği en 
+küçük değer kaçtır?
+   A) 16     B) 17     C) 142     D) 143     E) 14. 
+2, 4, 6, 8, A = "
+,  kümesinin elemanları kullanılara üç basamaklı, rakamları farklı, 600 
+den küçük kaç farklı doğal sayı yazılabilir?
+A) 48       B) 36      C) 32      D) 24       E) 15. 13 kişilik bir sınıftan bir başkan ve bir başka yardımcısı kaç farklı şekilde seçilebilir?
+  A) 66     B) 132    C) 156    D) 164     E) 16. 
+2, 3, 4, 5, 6, 7, 8, A = "
+,  kümesinin elemaları kullanılarak üç basamaklı, rakamları 
+farklı, 3 ile tam bölünen kaç farklı doğal sayı 
+yazılabilir?
+  A) 100    B) 110    C) 120     D) 130    E) 15,14,Adana KebabUrfa KebabTesti KebabCağ Kebab5,MercimeEzo GeliDomateTTTTTTTTTT      BaklavKünefKemalpaşÇORBALATATLILA MENKEBAPLAVeri, Sayma ve OlasılıVeri, Sayma ve Olasılı17. 
+  Yukarıdaki şekilde verilen çizgiler üzerinden 
+sadece sağa veya aşağıya hareket edilerek 
+A noktasından B noktasına kaç farklı yoldan 
+gidilebilir?
+A) 13       B) 14       C) 15      D) 16       E) 18. a, b, c, d, e, f harflerinin tamamı birer kez kullanılara yan yana oluşturulan sıralamalarının 
+soldan sağa okunuşlarının kaçında a harfi e 
+harfinden önce gelir?
+A) 90       B) 120      C) 180       D) 360        E) 19. 
+0, 1, 2, 4, {
+}
+A =
+ kümesinin elemanlarını 
+kullanarak rakamları farklı, 4 basamaklı, 4 ile 
+tam bölünen kaç farklı doğal sayı yazılabilir?
+A) 24           B) 26          C) 28          D) 30         E) 20.  6 kız, 4 erkek öğrenci yan yana sıralanacaktır. 
+Bu öğrenciler, başa ve sona birer kız öğrenci 
+gelmesi ve erkek öğrencilerin birbirinden ayrılmamas koşuluyla kaç farklı biçimde sıralanabilirle?
+        A) !
+!
+$
+               B) !
+!
+$
+          C) !
+!
+$
+   
+                      D) !
+!
+$
+             E) 
+!
+6 $
+ 
+21. MENEMEN kelimesinin harfleri yer değiştirilere elde edilen 7 harfli sıralanışların kaçında 
+M harfinden hemen sonra E harfi gelir?
+  A) 30       B) 60       C) 90          D) 120         E)   22. TAKATUKA kelimesindeki harflerin yerleri 
+değiştirilerek T ile başlayan fakat U ile 
+bitmeyen kaç farklı sıralanış yazılabilir?
+   A) 260   B) 360    C) 420    D) 440    E)  23. 9 998 870 sayısındaki rakamların yerleri 
+değiştirilerek birbirinden farklı, 7 basamaklı 
+kaç çift sayı yazılabilir?
+  A) 160    B) 480    C) 540   D) 600    E) 24. Hediyelik eşya satan bir mağazada, alınan 
+bir hediyeyi paketlemek için 3 farklı desende 
+hediye paketi ve bu paketlere yapıştırılmak 
+üzere 2 farklı renkte kurdele vardır. Bu 
+mağazadan 2 farklı hediye alan bir müşteri, 
+bu hediyeleri kaç farklı şekilde paketlettirip 
+üzerlerine kurdele yapıştırtabilir?
+A) 10      B) 12      C) 24       D) 36      E) DEĞERLENDİRMCevaplarınızı cevap anahtarı ile karşılaştırını. Yanlış cevap verdiğiniz ya da cevap 
+verirken tereddüt ettiğiniz sorularla ilgili konular, faaliyetleri geri dönerek tekrarlayınız. 
+Cevaplarınızın tümü doğru ise bir sonraki 
+öğrenme faaliyetine geçinizVeri, Sayma ve OlasılıVeri, Sayma ve OlasılıA) Aşağıdaki cümlelerde boş bırakılan 
+yerlere doğru sayıyı yazınız1.  5 öğrenci arasından 2 öğrenci ...... farklı şekild seçilebilir2.  20 farklı kitap arasından 19 farklı kitap ...... 
+farklı şekilde seçilebilir3.  6 elemanlı bir kümenin 2 elemanlı alt kümelerini sayısı ....... tirB) Aşağıda numaralarla verilen ifadele ile harflerle verilen matematiksel 
+ifadeleri eşleştirip eşleşenleri alttaki 
+kutulara yazınız4.  
+ 
+1. C(6,0)           
+a)  b)  c)  ç)  d)   e)   f)    
+2. C(5, )
+ 
+3. C(12,11)
+ 
+4. C(20,1)
+12345.  ( ,n ve !
+$ )       
+1. k                         a) b) (
+)!
+!
+-
+c)   ç)   
+d) (
+)!
+!
+!
+$
+-
+e)                               
+ 2. -
+k 
+3. 
+`
+ 4.  k 
+1234C) Aşağıdaki açık uçlu soruların cevabını 
+ilgili alana yazınız6.  
+›
+x x bir rakamd = #
+-  kümesinin 4 
+elemanlı alt kümelerinin kaçının elemanları 
+çarpımının tek sayı olduğunu bulunuz. 
+                                                     
+7. 1 +
+l  ifadesi x in azalan kuvvetlerine göre 
+açıldığında ortadaki terimi bulunuz.  
+  
+                                                     
+8. 
+,
+,
+(
+)
+(
+)
+C C n +
+-
+-
+=
+-
+ olduğuna       
+göre n ifadesinin değerini bulunuz. 
+9.  Çanakkale Şehitliği’ne gezi düzenleyen 20 
+kişilik bir öğrenci grubundan 3 kişi Şehitler 
+Anıtı’na çelenk koymak üzere seçilecektir. 
+Çelenk koyacak 1 öğrenci belli olduğuna 
+göre bu öğrencilerin kaç farklı şekilde seçilebileceğin bulunuz.   
+ÖLÇME VE DEĞERLENDİRMVeri, Sayma ve OlasılıVeri, Sayma ve Olasılı10-12. soruları aşağıda verilen bilgilere 
+göre cevaplandırınız 
+1, 2, 3, 4, 5, ve a, b, c, =
+=
+"
+"
+,
+,  kümeler veriliyor. 
+10.  A kümesinin 3 elemanlı alt kümelerinde 1 ve 
+2 elemanlarının birlikte bulunduğu kümelerin 
+sayısını bulunuz. 
+11.  A ve B kümelerinden ikişer eleman alınarak 
+4 haneli şifreler oluşturuluyor. Buna göre harf 
+ile başlayıp harf ile biten kaç şifre oluşturulduğun bulunuz. 
+12. A ve B kümelerini kapsayan kümelerden elema sayısı en az olan kümenin 3 elemanlı 
+alt kümelerinin kaç tanesinde en az bir harfin 
+bulunduğunu bulunuz. 
+D) Aşağıdaki çoktan seçmeli sorularındoğr seçeneğini işaretleyiniz13. Herkesin yalnız bir spor dalıyla ilgilendiği 
+bir kafilede 5 futbolcu, 6 voleybolcu ve 7 
+basketbolcu vardır. Bu sporcu kafilesinden 1 
+futbolcu, 2 voleybolcu ve 3 basketbolcudan 
+oluşan bir ekip kaç değişik biçimde oluşturulabili?
+A) 1375                B) 2420           C) 2500        
+       D) 2575             E) 2625 
+14. Aralarında Eyüp ve Adem’in de bulunduğu 
+8 kişilik bir gruptan 3 ve 5 kişilik iki ekip 
+kurulacaktır. Eyüp ve Adem’in ikisinin de 
+aynı ekipte olması koşuluyla kaç farklı ekip 
+oluşturulabilir?
+A) 26      B) 28      C) 30       D) 32       E) 15. $
+-
++
+]
+]
+g  ifadesinin açılımından elde 
+edilen x5  li terimin katsayısı kaçtır?
+A) 
+-
+   B) 
+-
+   C) 
+-
+   D) 21  E) 16. 
+1 -
+l ifadesinin açılımında sabit terim 
+kaçtır?
+ A) 48       B) 42       C) 36       D) 24       E) 17. 
+a $
+$
++
+=
++
++
+ açılımındaki a 
+gerçek sayısının değeri kaçtır?
+ A) 500    B) 560    C) 660    D) 700    E) 720 
+DEĞERLENDİRMCevaplarınızı cevap anahtarı ile karşılaştırını. Yanlış cevap verdiğiniz ya da cevap 
+verirken tereddüt ettiğiniz sorularla ilgili konular, faaliyetleri geri dönerek tekrarlayınız. 
+Cevaplarınızın tümü doğru ise bir sonraki 
+öğrenme faaliyetine geçinizVeri, Sayma ve OlasılıVeri, Sayma ve OlasılıA) Aşağıdaki cümlelerde boş bırakılan 
+yerlere doğru ifadeyi ya da sayıyı yazını1. Ortak elemanları olmayan kümeler ile temsil 
+edilen olaylara .......... olaylar denir2.  Bir deneyin bütün çıktılarının kümesine o deneyi  ...................  denir3.   Olasılığı 0 olan olaylara ..................... olay,  
+1 olan olaylara ............... olay denir. 
+4. 5 madenî para atılması deneyinde ....... tane 
+olay vardırB) Aşağıdaki açık uçlu soruların cevabını ilgil alana yazınız5. 4 madenî para birlikte atıldığında üçünün 
+yazı, birinin tura gelme olasılığını bulunuz. 
+ 
+                                                     
+6.  Aralarında Yasin ve Mete’nin bulunduğu 6 kişi 
+yan yana rastgele sıralanıyor. Yasin ve 
+     Mete’nin yan yana olma olasılığını bulunuz. 
+                                                     
+7.  İçinde yalnız kırmızı ve beyaz bilyelerin bulunduğ bir torbadaki kırmızı bilyelerin sayısı 
+beyaz bilyelerin sayısının iki katıdır.  Torbadan 
+rastgele çekilen iki bilyenin ikisinin de beyaz 
+olma olasılığı  1  olduğuna göre başlangıçta 
+torbada toplam kaç bilye olduğunu bulunuz. 
+8-10. soruları aşağıda verilen bilgilere göre 
+cevaplandırınızYukarıdaki şekilde 5 i çember üzerinde olmak 
+üzere 8 nokta verilmiştir. 
+ 
+8. Şekildeki 8 noktadan rastgele 3 ü şeçildiğinde 
+seçilen noktaların bir üçgenin köşeleri olma 
+olasılığını bulunuz9. Şekildeki 8 noktadan rastgele 2 si şeçildiğinde 
+seçilen noktalardan en az birinin çember üzerind olma olasılığını bulunuz. 
+10.  Şekildeki 8 noktadan rastgele 4 ü şeçildiğinde 
+seçilen noktaların bir dörtgenin köşeleri olma 
+olasılığını bulunuz. 
+ÖLÇME VE DEĞERLENDİRMVeri, Sayma ve OlasılıVeri, Sayma ve OlasılıC) Aşağıdaki çoktan seçmeli soruların 
+doğru seçeneğini işaretleyiniz 11. İki zar birlikte atıldığında zarların üst yüzüne  
+gelen sayılar arasındaki farkın mutlak değerinn 1 olma olasılığı kaçtır?
+ A) 5      B) 1     C) 5      D) 5      E)  12. 5 elemanlı bir kümenin alt kümelerinden 
+seçilen bir kümenin en çok iki elemanlı bir 
+küme olma olasılığı kaçtır?
+A) 3       B) 5       C) 1       D) 1       E) 13. 5 doğru parçasının uzunlukları 2, 4, 6, 8 ve 10 
+cm dir. Bu beş doğru parçasından rastgele seçile üçünün bir üçgenin kenarları olma olasılığ kaçtır?
+ A) 1       B) 3       C) 1       D) 2        E)   14. 
+,
+!
+= "
+,  kümesinin 
+elemanları kullanılarak oluşturulan üç basamakl, rakamları farklı sayılar birer kâğıda 
+yazılıp bir torbaya atılıyor. Torbadan rastgele 
+çekilen bir kâğıtta yazan sayının  
+koşulunu sağlayan abc şeklinde, üç basamakl bir tek sayı olma olasılığı kaçtır?
+A) 1        B) 1      C) 5      D) 1      E)  15. 
+1, 3, 6, 7, A = "
+,  kümesinin elemanları 
+kullanılarak oluşturulabilecek 4 basamaklı, 
+rakamları farklı doğal sayılar arasından 
+rastgele seçilen bir sayının tek sayı olma 
+olasılığı kaçtır?
+     A) 3      B) 2      C) 3     D) 1     E) 16.   
+,
+,
+, 0, 1,
+= -
+-
+-
+"
+,  kümesinin elemalarından rastgele ikisi seçiliyor. Seçilen 
+bu elemanların toplamının negatif olma 
+olasılığı kaçtır?
+A) 2       B) 1      C) 7      D) 3      E) 17.  
+5,
+!
+=
+-
+"
+,  kümesinin alt 
+kümelerinden biri rastgele seçiliyor. Seçilen 
+bu alt kümenin en az 3, en çok 4 elemanlı 
+olma olasılığı kaçtır?
+A) 15      B) 5     C) 35     D) 7     E) DEĞERLENDİRMCevaplarınızı cevap anahtarı ile karşılaştırını. Yanlış cevap verdiğiniz ya da cevap 
+verirken tereddüt ettiğiniz sorularla ilgili konular, faaliyetleri geri dönerek tekrarlayınız. 
+Cevaplarınızın tümü doğru ise bir sonraki 
+öğrenme faaliyetine geçinizVeri, Sayma ve Olasılı10.2.1. Fonksiyon Kavramı ve Gösterim10.2.2. İki Fonksiyonunun Bileşkesi ve Bir Fonksiyonun Ters10.2. FONKSİYONLAHayat dikkatle gözlemlendiğinde konu ile ilgili bilgi doğrultusund yaşanan her algının beyinlerde bir çıktısı olduğu görülür. 
+Sınıf ortamında 3 $
+ işlemi duyulduğunda öğrencilerin beyninde 
+birtakım simgeler belirir. Geçmişte öğrenilen bilgiler doğrultusund akıllarında 15 sayısı veya farklı bir sonuç oluşurCep telefonunun tuş kilidi açıldığında ekrandaki menüde yapılma istenen işlemlerden biri seçilir. Seçilen tuşa dokunulduğund ilgili bölüm gelir. Tuşa dokunulduğunda ilgili bölümünün 
+gelmesi bu telefonun bir fonksiyonudur, denirGöz kontrolü için doktora gidildiğinde göz doktoru, farklı  büyüklükt harflerin olduğu bir tablo göstererek  bunlardan bazılarının 
+okunmasını ister. Bu harfler okunurken göze gelen ışık beyne 
+görüntü olarak iletilir. Işığın görüntüye dönüştürülmesi gözün bir 
+fonksiyonudurBir çiftçi  tarafından tarlaya buğday ekilir. Uygun iklim şartlarında, 
+düzenli bir bakımla hasat mevsimi geldiğinde tarladan aynı cins 
+buğday elde edilir. Burada tarla bir dönüştürücüdür. Üretilen buğda  fabrikaya götürülür. Fabrika ileri teknoloji ile donatılmışsa 
+sistem, bilgisayara bağlıdır. Burada gerekli işlemlerden geçirildikte sonra buğdaydan ekmeklik un veya  sofralık bulgur elde 

@@ -1,0 +1,400 @@
+6. 3−2=    .Matematik 3. BölüBirinci Dereceden Denklemler ve EşitsizlikleHarezmi (780 - 850)
+Yaşamıyla ilgili bilgiler az olsa da 9.yy.da Bağdat’ta yaşadığ biliniyor. Hârezmî önemli bir gökbilimci ve büyük 
+bir matematikçidir. Hârezmî’nin en önemli çalışmaları 
+matematik alanındadır. Hârezmî, matematiğe “cebir”i kazandıra bilgindir. Hârezmî “0” (sıfır) ve bilinmeyen işaret “x”in mucidi olarak bilinir. 10 rakamdan oluşan basamakl sayı sistemi üzerine bir eser yazarak bu rakamların 
+İslam dünyası ve Batı’ da tanınıp kullanılmasını sağlamıştır.  Bulduğu pek çok çözüm 
+ve yöntem 15. yy’a kadar Batılı matematikçilerin çalışmalarına temel oluşturmuşturHindistan’ da bulunduğu sırada sayıları ifade etmek için harfler ya da heceler 
+yerine basamaklı sayı sisteminin kullanıldığını saptamış; yazdığı eserle önce İslam 
+dünyası, ardından da çeviriler yoluyla Batı dünyası, Hint rakamları ve ondalık sayı 
+sistemiyle tanışmıştırALIŞTIRMALA1- a, b ŒR olmak üzere aşağıda verilen ifadelerden hangisi birinci dereceden bibilinmeyenli denklemdir?
+A) (a − 1)x3 − (2a + 1)x = 4bx + B) 2x + 4 = 3(x − 1)
+C) (b + 3)x2 − 6 = 14x + 2D) 6x + 10 = 6(x−4)
+2-
+=
+-
+-
+denklemini sağlayan x değeri aşağıdakilerden hangisidir?
+A) B) C) D) 3- 
++
++ +
+=  denklemini sağlayan x değeri aşağıdakilerden hangisidir?
+A) B) C) D) 4- a bir reel sayı olmak üzere x değişkenine bağlı birinci dereceden bir bilinmeyenl(a + 4)x + (a − 4)y = 16 denkleminin çözüm kümesini bulunuzMatematik 3. BölüBirinci Dereceden Denklemler ve Eşitsizlikle5- -
+-
++
+=
+ denkleminin çözüm kümesi aşağıdakilerden hangisidir?
+A)
+%
+/
+B)
+%
+/
+C)
+%
+/
+D)
+%
+/
+6- a, b ŒR olmak üzere (a−1)x3 + (b+1) x2 − (2a + 1)x = 4bx + 5 ifadesi birinci derecede bir bilinmeyenli bir denklem olduğuna göre x değeri aşağıdakilerden hangisidi?
+A) 5 
+B) 6 
+C) 7 
+D) 7- m bir reel sayıdır. mx + 9 = 9x + 1 denkleminin çözüm kümesi boş küme olduğungöre m kaçtır?
+A) 12 
+ 
+B) 10 
+C) 9 
+D) Birinci Dereceden Bir Bilinmeyenli Eşitsizlikle<, >, ≤, ≥ sembolleri ile oluşturulan sayısal ifadeler eşitsizlik olarak tanımlanır. 
+a, bŒ R, aπ0 ve x bilinmeyen olmak üzere ax + b < 0, ax + b ≥ 0, ax + b ≤ 0, ax + b >0 
+şeklindeki ifadelere birinci dereceden bir bilinmeyenli eşitsizlik denir. 
+ÖrneAşağıda verilen ifadelerden hangilerinin birinci dereceden bir bilinmeyenli eşitsizli olduğunu bulalım. 
+a) 5x − 11 < b) x + y  ≥ c) x2 + 3 > ç) 3x + 4 = Çözüa) 5x − 11 < 9 ifadesi birinci dereceden bir bilinmeyenli eşitsizliktirb) x + y  ≥ 0 ifadesinde x ve y şeklinde iki farklı bilinmeyen olduğu için  birinc dereceden bir bilinmeyenli eşitsizlik değildirc) x2 + 3 > 0 ifadesinde x2 ikinci dereceden olduğu için birinci dereceden bir bilinmeyenl eşitsizlik değildir. 
+ç) 3x + 4 = 0 ifadesinde = işareti olduğu için birinci dereceden bir bilinmeyenli 
+eşitsizlik değildir. 
+Matematik 3. BölüBirinci Dereceden Denklemler ve EşitsizlikleAlıştırmAşağıdakilerden hangileri birinci dereceden bir bilinmeyenli eşitsizliktir?
+I5x − 2 ≥ IIx + y < III. y + 7 ≤ 2y − IV. 3y + 2x > Eşitsizliklerin Özellikleri 
+1- a, b, c, d ŒR içiBir eşitsizliğin her iki yanına aynı sayı eklenebilir veya çıkarılabilira < b ⇔ a ± c < b ± a > b ⇔ a ± c > b ± c dirÖrneğin;
+3 < 7   ⇔  3 + 2 < 7 +       5 < 5 > −2 ⇔  5 − 3 > −2 −        2 > −5 dir. 
+2- a) Bir eşitsizliğin her iki yanı pozitif sayıyla çarpılabilir veya bölünebilira < b   olmak üzere  a . c < b . a > b   olmak üzere  a : c > b : c dir. 
+Örneğin;
+3 < 7   
+⇔ 
+3 . 2 < 7 .      6 < −4 > −16    ⇔
+−4 : 4 > −16 : −1 > −4 türb) Bir eşitsizliğin her iki yanı aynı negatif sayıyla çarpılır veya bölünürse eşitsizliyön değiştirir. 
+a < b, c < 0  olmak üzere a . c > b . c  
+                                              a : c < b : c 
+Matematik 3. BölüBirinci Dereceden Denklemler ve EşitsizlikleÖrneğin;
+3 < 7   
+⇔ 
+3 . (−1) > 7 . (−1) ⇒ −3 > −−35 > −49   ⇔  
+−35 : (−7) < −49 : (−7) ⇒ 5 < 7 dir3- a < b ve b < c  ise  a < c dirÖrneğin;
+3 < 7 ve 7 < 10  ise  3 < 10 olur4- Eşitsizlikler aynı yönlü ise taraf tarafa toplanabilir fakat çıkarılamaza < b ve c < d   ise  a + c < b + d dirÖrneğin;
+3 < 7 ve 5 < 9 ise 3 + 5 < 5 + 9   ⇒   8 < 16 olur5- a, b, c, d ŒR+ için pozitif reel sayılardan oluşan aynı yönlü iki eşitsizlik taraf tarafçarpılabilira < b ve c < d   ise  a . c < b . d dirÖrneğin;
+3 < 7 ve 5 < 9  ise 3 . 5 < 7 . 9   ⇒    15 < 63 olurÖRNEKLE1- 4 > 0 eşitsizliğin her iki tarafına 12 ekleyip çıkaralımÇözü4 + 12 > 0 + 12    ⇒    16 > 4 − 12 > 0 − 12 
+⇒   −8 > −12 olur2- 8 ≥ 7 eşitsizliğin her iki tarafını sırasıyla 2 ve −2 ile çarpıp bölelimÇözü     8 . 2 ≥ 7 . 2 
+⇒ 
+16 ≥ 8 . (−2) ≥ 7 . (−2) ⇒ 
+−16 ≤ −8 : 2 ≥ 7: 2 
+⇒
+4 ≥ 3,8: (−2) ≥ 7:(−2) 
+⇒
+−4 ≤ −3,Matematik 3. BölüBirinci Dereceden Denklemler ve Eşitsizlikle3- a < 1,  b < −3 olduğuna göre a + b nin alabileceği en büyük tam sayı değerini bulalıÇözüa < 1 
++ b < −a + b < 1 + (−3)
+a + b < −2 olduğundan a + b nin en büyük tam sayı değeri −1 olur. 
+4- 0 < x < 10 ve 0 < y < 5 olduğuna göre x . y nin alabileceği en büyük tam saydeğerini bulalımÇözü
+ 0 < x < 10 
+0 < x  . y < 10 .  0 < y < 5 
+ 0 < x . y < 50 dir. Bu durumda x . y nin en büyük tam sayı değeri 
+49 olurALIŞTIRMALA1-  Aşağıda verilen ifadelerde noktalı yerlere ">, <" sembollerinden uygun olanınyazınıza) 0 < 7 olduğuna göre 0 . −2 ........... 7 . −2 dir. 
+b)  5 > 1 olduğuna göre 5 + 3 ........... 1 + 3  dir. 
+2-  −1 < a <    2 < b < 4  olduğuna göre a + b toplamının en geniş tanım aralığı nedir?
+3-  m ≥ 8 ve n ≥ 2 i se m . n  nin alabileceği en küçük tam sayı değeri kaçtır?
+Matematik 3. BölüBirinci Dereceden Denklemler ve EşitsizlikleEşitsizliklerin Çözüm KümesEşitsizliği sağlayan değerlere eşitsizliğin çözüm kümesi denir. Bu değerler eşitsizliği çözüm kümesinin elemanlarıdır. Çözüm kümeleri genellikle sayı aralıklarıdır. 
+Örneğin;
+x > 1 eşitsizliğin in çözüm kümesi 1 den büyük reel sayılardır. (1,   •) açık aralığı 
+ile gösterilir. 
+(1, •) açık aralığının sayı doğrusunda gösterimi 
+•  şeklindedir. 
+ÖRNEKLE1- x − 3 ≤ 7 eşitsizliğinin çözüm kümesini bulalımÇözü      x − 3 ≤ 7 eşitsizliğinde her iki tarafa 3 ekleyelim. 
+x − 3 + 3 ≤ 7 +              x ≤ 10 elde edilir. 
+10 a eşit ve 10 dan küçük reel sayılar verilen eşitsizliğin çözüm kümesidir. 
+(−•,10] yarı açık aralığı ile gösterilir. Bu yarı açık aralık sayı doğrusunda 
+-•
+  şeklinde gösterilir. 
+2- 3x < 6 eşitsizliğinin çözüm kümesini bulalımÇözü3x < 6 eşitsizliğinin her iki tarafını 3 e bölelim3  < 3 (3 sayısı pozitif reel sayı olduğundan eşitsizliğin yönü değişmez.)
+x < 2 
+Ç= (−•, 2) dir. 
+Matematik 3. BölüBirinci Dereceden Denklemler ve Eşitsizlikle3-
+#
+-
+ eşitsizliğinin çözüm kümesini bulalımÇözü(−5) . ( - 5 ) ≤ (−5) . 2    (−5 sayısı negatif reel sayı olduğu için eşitsizlik yön değiştirir.)
+x ≥−Ç= [−10, •) olur. 
+4- 2x − 3 > 7 eşitsizliğinin çözüm kümesini bulalımÇözü     2x − 3 > 7 eşitsizliğinin her iki tarafına 3 ekleyelim. 
+2x − 3 + 3 > 7 +               2x > 10 elde edilir. 
+             2x > 10    eşitsizliğinin her iki tarafını 2 ile bölelim. 
+2  > 2   (2 pozitif reel sayı olduğu için eşitsizlik yön değiştirmez.)
+               x > 5 
+   Ç = (5, •) bulunur. 
+5- 4x − 12 ≥ 0 eşitsizliğinin çözüm kümesini bulalımÇözü         4x − 12 ≥ 0      eşitsizliğinin her iki tarafına 12 ekleyelim. 
+4x − 12 + 12 ≥ 0 + 4x ≥ 12     (Eşitsizliğin her iki tarafını 4 e bölelim)
+4  ≥ 4      (4 pozitif reel sayı olduğu için eşitsizlik yön değiştirmez.)
+x ≥ 3 
+Ç= [3, •) olur. 
+Matematik 3. BölüBirinci Dereceden Denklemler ve Eşitsizlikle6- 3x − 13 < 2x + 1 eşitsizliğinin çözüm kümesini bulalımÇözü3x − 13 < 2x + 1 eşitsizliğinde bilinenleri bir tarafa bilinmeyenleri diğer tarafa alalım3x − 2x < 1 +    x < Ç= (−•, 14) olur. 
+AlıştırmAşağıda verilen eşitsizliklerin çözüm kümelerini bulunuza) x + 2 > b) 2x < c) – 3  ≥ ç)  3x + 1 ≤ d) 2x + 6 ≤ e) 4x − 8 > x + Mutlak DeğeBir gerçek (reel) sayının sayı doğrusu üzerindeki görüntüsünün sıfıra olan uzaklığın o sayının mutlak değeri denir. Bir x gerçek sayısının mutlak değeri |x| şeklinde 
+gösterilir. 
+Örneğin;
+4 sayısının mutlak değeri 
+−3   −2   −1    4 biri
+|4| = 4 tür. 
+−2 sayısının mutlak değer2 biri
+−3   −2   −1     0 
+|−2| = 2 olurÖRNEKLE1-  |−3 + 7| ifadesinin eşitini bulalımÇözü|−3 + 7| = |4|
+−−−4 biri
+|4| = 4 tür. 
+Matematik 3. BölüBirinci Dereceden Denklemler ve Eşitsizlikle2-  |−6 + 4+2| ifadesinin eşitini bulalımÇözü|−6 + 4+2| =|−6 + 6|
+          = |0|
+   |0|  = 0 dır. 
+3-  |−1| + |3| + |−2| toplamının eşitini bulalımÇözü−3   −2   −1    1 biri
+|−1|  = 1 dir−3   −2   −1     3 biri
+|3| = 3 tür. 
+2 biri−3   −2   −1     0     1     
+|−2| = 2 dir. 
+Buna göre |−1| + |3| + |−2| = 1 + 3 + 2 = 6 olurMutlak Değerin Özellikleri 
+x, y ŒR  ve a, b ŒR+ olmak üzer1- |x| ≤ a ⇔ −a ≤ x ≤ a ise çözüm kümesi Ç = [−a, a] dır−−•
++•
+Örneğin;
+|x| ≤ 3 eşitsizliğinde x in değer aralığı −3 ≤ x ≤ 3 tür. Bu kapalı aralık [−3, 3] şeklinde 
+gösterilir. Eşitsizliğin çözüm kümesi Ç= [−3, 3] tür. 
+Matematik 3. BölüBirinci Dereceden Denklemler ve Eşitsizlikle2- |x| ≥ a  ⇔  x ≥ a veya x ≤ -a ise çözüm kümesi  Ç = (-•, -a]»[a, •) dur−• −a 
+a 
++•
+Örneğin;
+|x| ≥ 3 eşitsizliğini sağlayan x reel sayılarının değer aralığı x ≥ 3 veya  x ≤ −tür. Çözüm kümesi   Ç = (−•, −3]»[3, •) olur3- a ≤ |x| ≤ b ⇔  a ≤ x ≤ b    veya    −b ≤ x ≤ −−−•
+-Ç=[−b, −a]»[a, b]
+Örneğin;
+2 ≤ |x| ≤ 5 eşitsizliğini sağlayan x reel sayıların değer aralığ2 ≤ x ≤ 5 veya −5 ≤ x ≤ -2 dir. Bu aralık sayı doğrusunda −- şeklinde gösterilirEşitsizliğin çözüm kümesi Ç = [−5, −2]»[2, 5] tir4- |x . y| = |x| . |y| (iki reel sayının çarpımının mutlak değeri, bu sayıların mutlak değerlerini çarpımına eşittir.)
+Örneğin;
+|3 . 7| = |21|    veya        |3 . 7| = |3| . |7|
+   = 21 
+                = 3 .    = 21 dir5- =
+ (y π 0)  (Bölümün mutlak değeri sayıları mutlak değerlerinin bölümün  eşittir. )
+Örneğin;
+=
+= 5  veyolu=
+=
+=
+Matematik 3. BölüBirinci Dereceden Denklemler ve Eşitsizlikle6- a ŒR− olmak üzere  |x| ≤ a  ⇒  Ç= ∆
+x in mutlak değeri negatif reel sayıdan küçük olduğunda çözüm kümesi boş kümolurÖrneğin;
+|x| ≤ −1  ⇒  Ç= ∆
+7- Herhangi iki reel sayının toplamının mutlak değeri; bu iki sayının mutlak değerlerini farkından küçük, mutlak değerlerinin toplamından da büyük olamaz. (Üçgeeşitsizliği)
+|x| −|y| ≤ |x + y| ≤ |x| + |y|
+Örneğin;
+|x| = 6 ve |y|= 8 olduğunda |x + y| nin en büyük değeri |x + y| ≤ |x| + |y| özelliğingör|x + y| ≤ 6 + |x + y| ≤ 14 olur. |x + y| nin en büyük değeri 14 tür8- |x| = |−x| (Bir reel sayının mutlak değeri, bu reel sayının ters işaretlisinin mutladeğerine eşittir.)
+Örneğin;
+2 birim 2 biri−2   −1    0      1      
+
+|−2| = 2 ve |2| = 2 yani |2| = |−2| dir. 
+9- |xn| = |x|n (Bir reel sayının kuvvetinin mutlak değeri, bu sayının mutlak değeriniaynı kuvvetine eşittir.)
+Örneğin;
+|23| = |8| = 8 veya |2|3 = 23 = 8 dirMatematik 3. BölüBirinci Dereceden Denklemler ve EşitsizlikleÖRNEKLE1- |x| ≤ 2 eşitsizliğini sağlayan kaç tane tam sayı vardır? BulalımÇözü|x| ≤ 2  ⇒  −2 ≤ x ≤ 2 aralığındaki tam sayılar {−2, −1, 0, 1, 2} dir. Buna göre verileeşitsizliği sağlayan 5 tane tam sayı vardır2- |x| > 4 eşitsizliğinin çözüm kümesini bulalımÇözü|x| > 4  ⇒  |x| < -4 veya   x > 4 tür. Bu aralıkları sayı doğrusunda gösterelim−−•
++•
+Ç= (−•, −4)»(4, •)
+3- 1 < |x − 2| < 3 eşitsizliğinin çözüm kümesini bulalımÇözü1 < |x−2| < 3   ⇒    −3 < x − 2 < −1  veya   1< x − 2 < 3 tür−3 < x − 2 < −1  eşitsizliğinin her iki tarafına 2 ekleyelim−3 + 2 < x − 2 + 2 < −1 + −1 < x < 1 < x − 2 < 3 eşitsizliğinin her iki tarafına 2 ekleyelim.  
+1 + 2 < x − 2 + 2 < 3 + 3 < x < −−Ç = (−1, 1)∪(3, 5)
+Matematik 3. BölüBirinci Dereceden Denklemler ve Eşitsizlikle4- Aşağıda verilen eşitsizliklerin doğruluğunu inceleyelima) |
+|
+|
+|
+| |
+| |
+-
+-
+=
+b) |−3| . |8| = |3 . 8|
+c) |−2| . |−6| = −|2 . 6|
+ç) 
+|
+|
+-
+-
+=
+Çözüa) |
+|
+|
+|
+di-
+-
+=
+=
+|7| = 7 
+|1| = 1 ⇒  | |
+| |
+di=
+=
+Bu durumda  |
+|
+|
+|
+| |
+| |
+-
+-
+=
+ eşitliği doğrudur. 
+b) |−3| . |8| = 3 . 8 = |3 . 8| = |24| = 24 olduğundan  |−3| . |8| = |3 . 8| eşitliği doğrudurc) |−2| . |−6| = 2 . 6 = − |2 . 6| = − |12| = −12 ve 12 π −12 dirBuna göre |−2| . |−6| π −|2 . 6| olup verilen eşitlik doğru değildirç)  
+| |
+|
+|
+-
+-
+=
+=
+=
+−|7| = −7  ve  7 π −7 dir. 
+Buna göre 
+-
+ π |−7| olup verilen eşitlik doğru değildirMatematik 3. BölüBirinci Dereceden Denklemler ve EşitsizlikleMutlak Değerli Denklemlerin ÇözümMutlak değerli bir ifade sıfır veya pozitif reel sayıya eşittir. Mutlak değerli denklemleri çözümünde mutlak değerin içi, verilen ifadenin pozitif ve negatif değerlerine 
+eşitlenir. 
+a ≥ 0 için  
+a birim a biri
+
+  olduğundan 
+                       −a            0              |x| = a ise  x = −a   veya  x = a dırÖrneğin;
+|x| = 8 ise başlangıç noktasına uzaklığı 8 birim olan sayılar hem 8 hem de −8 olduğunda x = 8 veya x = −8 dir. Buna göre Ç= {−8, 8} olur. 
+ÖRNEKLE1- |2x − 5| = 17 denkleminin çözüm kümesini bulalımÇözü       2x − 5 = −17     
+veya 
+       2x − 5 = 2x – 5 + 5 = –17 + 5 
+2x − 5 + 5 = 17 +             2x = −12 
+2x = -
+=
+=
+              x = −6 
+  x = Ç= {−6, 11} olur2- |19x − 21| = −43 denkleminin çözüm kümesini bulalımÇözü−43 negatif bir sayıdır. Bir sayının başlangıç noktasına olan uzaklığı negatif olama. Bu nedenle mutlak değerli bir ifadenin eşiti negatif olamayacağından verile|19x − 21| = −43 denkleminin çözümü yoktur. Çözüm kümesi boş kümedir. Ç = ∆
+Matematik 3. BölüBirinci Dereceden Denklemler ve Eşitsizlikle3− |x| + |−2x| + |3x| = 12 denkleminin çözüm kümesini bulalım. 
+Çözü           |x| + |−2x| + |3x| = |1| . |x| + |−2| . |x| + |3| . |x| =           1 . |x| + 2 . |x| + 3 . |x| =      6 . |x| = .|
+|
+=
+         |x| = 2     
+            x = −2    veya  x = 2   dir.      Ç = {−2 , 2} olur. 
+AlıştırmAşağıda verilen eşitliklerin çözüm kümesini bulunuz. 
+a) |2x + 1| = b) |3x| + |−2x| = c) |x| = −Mutlak Değerli EşitsizlikleMutlak değerli ifade içeren birinci dereceden bir bilinmeyenli eşitsizliklerde  
+a, b Œ R+ olmak üzer1- |x| < a  veya  |x| ≤ a ,
+2- |x| > a  veya  |x| ≥ a ,
+3- a < |x| < b  veya  a ≤ |x| ≤ b dira ve b iki pozitif reel sayı olmak üzer1- |x| < a   ise   − a < x < a,
+−  , 
+Ç= (−a, a) dır−2- |x| > a   ise   x < − a  veya x > a,                         , 
+3- a < |x| < b   ise   − b < x < −a, veya a < x < b,
+−− ,   Ç= (−b, −a) » (a, b) dir. 
+Ç= (−∞,−a) U (a,∞) veya 
+Ç= R−[−a, a] dır. 
+Matematik 3. BölüBirinci Dereceden Denklemler ve EşitsizlikleÖRNEKLE1- |x| ≤ 5   eşitsizliğinin çözüm kümesini bulalımÇözü|x| ≤ 5   ise    −5 ≤ x ≤ 5 dir−Ç= [−5, 5]
+2- |2x−1| ≤ 11   eşitsizliğinin çözüm kümesini bulalımÇözü|2x−1| ≤ 11   ise   −11 ≤ 2x − 1 ≤ 11 dir−11 ≤ 2x − 1 ≤ 11 eşitsizliğinin her iki tarafına 1 ekleyelim −11+ 1 ≤ 2x − 1 + 1 ≤ 11 + −10 ≤  2x ≤ 12 eşitsizliğin her iki tarafını 2 ye bölelim. 
+-
+ ≤ x ≤ −5 ≤ x ≤ 6 olur. 
+−Ç= [–5, 6]
+3- |x| > 7 eşitsizliğinin çözüm kümesini bulalımÇözüx > 7 ise x < −7   veya   x > 7 dir−     Ç= (−∞,−7) U (7,∞)
+4- |3x + 5| > 14 eşitsizliğinin çözüm kümesini bulalımÇözü|3x + 5| > 14  ise  3x + 5 < −14  veya 3x + 5 > 14 tür3x + 5 < −14  ve  3x + 5 > 14 eşitsizliklerinin her iki tarafından 5 çıkaralımMatematik 3. BölüBirinci Dereceden Denklemler ve Eşitsizlikle3x + 5 − 5 < −14 − 5    ve   3x + 5 − 5 > 14 −              3x < −19 
+          ve   
+  3x > 9 eşitsizliklerinin her iki tarafını 3 e bölelim. 
+3  < – 3  < x < 
+-
+           ve 
+  x < 3        bulunur-
+       Ç= 
+,
+,
+–
+–
+^
+5- 4 ≤ |x| < 8  eşitsizliğinin çözüm kümesini bulalımÇözü4 ≤ |x| < 8  ise  −8 < x ≤ −4    veya     4 ≤ x < 8 dir−8   −4       4            Ç = (−8, −4]»[4, 8) 
+AlıştırmAşağıda verilen eşitsizliklerin çözüm kümesini bulunuz. 
+a) |3x| < b) |x + 1| > c) 5 < |x| ≤ Birinci Dereceden İki Bilinmeyenli Denklemler 
+a, b, c Œ R, a ≠ 0 ve b ≠ 0 olmak üzere 
+ax + by + c = 0 biçimindeki denklemlere birinci dereceden iki bilinmeyenli 
+denklemler denir. 
+Örneğin;
+   2x − y = −5x + 2y + 3 = x + 4y − 1 = 0 denklemleri birinci dereceden iki bilinmeyenli denklemlerdirMatematik 3. BölüBirinci Dereceden Denklemler ve EşitsizlikleBirinci Dereceden İki Bilinmeyenli Denklem Sistemlerinin Çözüm Kümeleri 
+a1, b1, c1, a2, b2, c2 Œ R a π 0 ve b π 0 olmak üzere 
+a1x + b1y + c1 = a2x + b2y + c2 = 0 şeklindeki denklemlere birinci dereceden iki bilinmeyenli 
+denklem sistemi denir. Verilen iki denklemi de sağlayan (x, y) ikilileri, bu denklem 
+sisteminin çözüm kümesini oluşturur. 
+Birinci dereceden iki bilinmeyenli denklem sistemleri genellikle yok etme veya yerin koyma yöntemi ile çözülür. 
+a) Yok Etme YöntemYok etme yönteminde değişkenlerden birinin katsayıları eşitlenir. Taraf tarafa toplam ya da çıkarma işlemi yapılarak değişken yok edilir. Diğer değişken bulunur. Buluna değer, denklemlerden birinde yerine yazılarak yok edilen değişkenin değeri 
+bulunur. 
+Örneğin;
+−3x + y = x + 2y = 6    denklem sisteminde ikinci denklemin her iki yanını 3 ile çarpıp taratarafa toplayarak y değişkenini yok edelim. 
+−3x + y = +
+3.(x + 2y) = 3 . −3x + y = +
+3x+ 6y =    
+                     
+  7y = =
+          y = y = 4 değerini ilk denklemde yerine yazalım. 
+−3x + 4 = −3x + 4 −4= 10 − −3x = -
+-
+-
+=
+x = −2 bulunur. O hâlde verilen denklem sisteminin çözüm kümesi Ç = {(−2, 4)} türMatematik 3. BölüBirinci Dereceden Denklemler ve Eşitsizlikleb) Yerine Koyma YöntemYerine koyma yönteminde denklemlerin birinde değişkenlerden biri yalnız bırakılıve diğer denklemde yerine yazılır. Elde edilen tek değişkenli denklem çözülür. 
+Örneğin;
+−3x + y = x + 2y = 6  denklem sisteminin birincisinde y değişkenini yalnız bırakırsay = 10 + 3x  elde ederiz. 
+İkinci denklemde y yerine y = 10 + 3x yazarsak 
+x + 2(10 + 3x) = 6 denklemini elde ederiz. 
+Şimdi x + 2(10 + 3x) = 6 denklemini çözüp x i bulalım. 
+x + 2(10 + 3x) =      x + 20 + 6x =      7x +20 − 20 = 6 − 7x = −= -
+x = −y = 10 + 3x denkleminde x = −2 yazalım. 
+y = 10 + 3. (−2)
+y = 10 − y = 4 bulunur. 
+O hâlde Ç= {(−2, 4)} olur. 
+−
+7x = −Matematik 3. BölüBirinci Dereceden Denklemler ve EşitsizlikleÖRNEKLE1- 3x + y = x + 2y = −olduğuna göre x ve y değerlerini yok etme yöntemini kullanarak bulalımÇözü3x + y = x + 2y = –13 denklem sisteminde ilk denklemin herk iki tarafını −2 ile çarpıp taraf 
+tarafa toplayalım. 
+−2 . (3x + y) = −2 . +
+x + 2y = −−6x − 2y  = −+
+x + 2y  = −−5x = −-
+-
+-
+-
+=
+     x = x = 3 değerini verilen denklemlerin herhangi birinde yazalım. 3x + y = 1 denklemind x = 3 yazarsak;
+3 . 3 + y =      9 + y = 9 − 9 + y= 1 − y = −8 olur. O hâlde çözüm kümesi Ç = {(3, −8)} dir2- 3x + 2y = 2x − y = 8 olduğuna göre x ve y değerlerini yok etme yöntemi ile bulalımÇözü3x + 2y = 2x − y = 8 denklem sisteminde ikinci denklemin her iki tarafını 2 ile çarpıp taraf 
+tarafa toplayalım. 
+Matematik 3. BölüBirinci Dereceden Denklemler ve Eşitsizlikle    3x + 2y = 5 
++ 2. (2x − y) = 2 .     3x + 2y  = +
+4x − 2y  =              7x = =
+   x = 3 bulunur. 
+x = 3 değerini 2x − y = 8 denkleminde yerine yazalım. 
+2 . 3 − y =      6 − y =     6 − 6 − y = 8 −            y = −2 bulunur  Ç= {(3, −2)} dir3- −x + 3y = 4x + y = −denklem sisteminin çözüm kümesini yerine koyma yöntemi ile bulalımÇözü−x + 3y =   4x + y = −7 denklem sisteminin ikincisinde y değişkenini yalnız bırakalım. 
+           y = −7 −4x olur. 
+Birinci denklemde y yerine y = −7 −4x yazalım. 
+   −x + 3(−7 − 4x) =         −x − 21 −12x = −x −12x −21 + 21 = 5 + −13x = -
+-
+-
+=
+x = −2 olur. 
+Matematik 3. BölüBirinci Dereceden Denklemler ve Eşitsizliklex = −2 değerini y = −7 − 4x denkleminde yerine yazalım. 
+y = −7 −4 . (−2)
+y = −7 + y = 1 olur. 
+Ç= {(−2, 1)} dır4−  x + y = 4 
+3x + y = 6 
+denklem sisteminin çözüm kümesini yok etme yöntemi ile bulalım. 
+Çözüx + y = 4 
+3x + y = 6 denklem sisteminin birincisinde x değişkenini yalnız bırakıp ikinci denklemd yerine yazalım. 
+x = 4 − y ⇒ 3 . (4 − y) + y = 6 
+-
+-
+-
+-
+=
+  ise  y = 3 olur. 
+    12 − 3y + y =  y = 3 değerini x = 4 − y eşitliğinde yerin         12 − 12 − 3y + y = 6 − 12 
+   yazalım.    x = 4 − 3 ⇒  x = 1 dir. 
+     −2y = −6 
+    Ç = {(1, 3)} türALIŞTIRMALA1- Aşağıda verilen denklem sistemlerinin çözüm kümelerini yok etme yöntemi ilbulunuza) x + 4y = −b) 2x + y = 5x + y = 2x + 3y = 2- Aşağıda verilen denklem sistemlerinin çözüm kümelerini yerine koyma yöntem ile bulunuza) x + y = b) 2x - y = 2x + 3y = x + 2y = Matematik 3. BölüBirinci Dereceden Denklemler ve EşitsizlikleBirinci Dereceden İki Bilinmeyenli Eşitsizlik SistemlerBirinci dereceden iki bilinmeyenli denklemlerin çözümü (x, y) ikilisidir. Eşitsizlikleri çözümü ise birçok (x, y) ikilisinden oluşan bölgelerdir. 
+Birinci dereceden iki bilinmeyenli eşitsizliklerin grafikleri çizilirken aşağıdaki 
+adımlar uygulanır. 
+I. Eşitsizlik  , denklem (eşitlik) gibi düşünülür ve çözüm kümesi bulunurII. Denklemin grafiği (doğru grafiği) çizilirIII. Herhangi bir nokta seçilerek eşitsizliği sağlayıp sağlamadığı kontrol edilirIV. Seçilen nokta eşitsizliği sağlıyorsa noktanın bulunduğu taraf, sağlamıyorsdiğer taraf taranırBİLGİ KUTUSBir eşitsizlik ≥ ya da ≤ işaretlerinden biriyle verilmişse doğru üzerindeki 
+noktalar çözüm kümesine dahildir. 
+Eşitsizlik < ya da > işaretlerinden biriyle verilmişse doğru üzerindeki noktala çözüm kümesine dahil değildir. Bu durum kesikli çizgi ile belirtilir. Çözü kümesine dahil olan bölge taranır. 
+ÖRNEKLE1- 2x − y+2 ≤ 0 eşitsizliğinin çözüm kümesini bulalım. Grafiğini çizelimÇözü2x − y+2  ≤ 0 eşitsizliğini denklem gibi düşünerek çözelim2x − y+2  = 0 denkleminin koordinat eksenlerini kestiği noktaları bulalımx = 0  ise  −y + 2 = 0    
+ 
+y = 0 ise 2x + 2 = −y = −2 ⇒ y = 2             2x = −2 ⇒ x = −2x − y + 2 = 0 denklemine ait doğru, koordinat eksenlerini (0, 2) ve (−1, 0)
+noktalarında kesmektedir. Doğruyu koordinat düzleminde çizelimMatematik 3. BölüBirinci Dereceden Denklemler ve Eşitsizlikle-1-------Şimdi 2x − y + 2 ≤ 0 eşitsizliğinin çözüm kümesini belirlemek için doğru üzerinde 
+olmayan bir nokta seçip eşitsizlikte yerine yazalım. 
+O(0, 0) orijin noktasını 2x −y + 2 ≤ 0 eşitsizliğinde yerine yazalım. 
+2. 0 − 0 + 2 ≤           2 ≤ 0 olur. 
+Bu durumda seçilen nokta eşitsizliği sağlamaz. 
+O hâlde 2x − y + 2 ≤ 0 eşitsizliğinin çözüm kümesi (0, 0) noktasının dışındaki bölgedi. 
+-1-------2- x + y − 1 ≥ 2x − y < 2 eşitsizlik sisteminin çözüm kümesini bulalım. Grafiğini çizelimÇözüx + y − 1 ≥    2x − y < 2 eşitsizlik sistemini denklem sistemi gibi çözelim. Çözüm kümesini bulu grafiklerini çizelim. 
+Matematik 3. BölüBirinci Dereceden Denklemler ve Eşitsizlikleİlk eşitsizlik "≥" işareti ile verildiği için doğru üzerindeki noktalar dahil edilir. 
+İkinci eşitsizlik "<" olduğu için doğru üzerindeki noktalar dahil edilmeyip kesik 
+çizgilerle belirtilirx + y − 1 ≥ 0 
+
+ 
+x + y   = 2x − y < 2 
+    + 2x − y = 3x = 3 ⇒  x = x = 1 değerini x + y = 1 denkleminde yerine yazarsak 
+1 + y = 1  ⇒  y = 0 bulunur. 
+Verilen doğrular (1, 0) da kesişeceklerdir. 
+x + y − 1 = 0 ve 2x − y = 2 doğrularının eksenleri kesen noktalarını bulalım. 
+x + y − 1 = 0 da x = 0 ise 0 + y − 1 =            y = 1 , (0, 1)
+       y = 0 ise x + 0 − 1 =           x = 1, (1, 0) bulunur. 
+2x − y = 2 de x= 0 ise  2 . 0 − y = −y = y = −2, (0, −2)

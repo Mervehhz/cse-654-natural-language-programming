@@ -1,0 +1,400 @@
+Bir fonksiyonun sürekli olduğu bir noktada türevi olmayabilir için f fonksiyonu sürekli ve türevlidir. f fonksiyonunun  
+x =-  noktasındaki türevini bulmak 
+için f x=-
+]  seçilir&
+f =-
+=-
+]
+]
+ için f fonksiyonu sürekli ve türevlidir. f fonksiyonunun  =
+ noktasındaki türevini bulmak 
+için f x=
+]  seçilir&
+f =
+=
+]
+]
+&
+&
+olu2 $
+=
+=
+]
+]
+&
+&
+olu$
+-
+=-
+-
+-
+=
+]
+]
+^
+ÖRNEÇÖZÜMatematik (İki fonksiyonun toplamının türevi fonksiyonların türevlerinin toplamıdır.)
+(İki fonksiyonun farkının türevi fonksiyonların türevlerinin farkıdır.)
+f ve g ^
+^
+h türevlenebilir iki fonksiyon olmak üzerolu=
++
+fonksiyonununt revdf g {
++
++
+=
++
+^
+]
+^^
+]
+^ ]
+]
+]
+]
+ggolu-
+=
+fonksiyonununt revdf g {
+-
+-
+-
+=
+^
+]
+^^
+]
+^ ]
+]
+]
+]
+gg5.2.3. Türevlenebilen İki Fonksiyonun Toplamının, Farkının, 
+Çarpımının ve Bölümünün Türevlilililililif g f g f f g g f f g g f f g g g -
+=
+-
++
+-
+-
+=
++
+-
++
+-
++
+=
++
+-
+-
++
++
+=
++
+-
+-
++
+-
+=
++
+-
+-
++
+-
+"
+"
+"
+"
+"
+"
+=
+-
+^
+^
+^
+^
+^
+^
+^
+^
+^
+^
+^
+^
+^
+^
+^
+^
+^
+^
+^
+^
+^
+^
+^
+^
+^
+^
+^
+h44444444444 444444444444 lililililif g f g f f g g f f g g g +
+=
++
++
+-
++
+=
++
++
++
+-
+-
+=
++
+-
++
++
+-
+=
++
+-
++
++
+-
+"
+"
+"
+"
+"
+=
++
+^
+^
+^
+^
+^
+^
+^
+^
+^
+^
+^
+^
+^
+^
+^
+^
+^
+^
+^
+^
+^
+^
+44444444444 444444444444 f fonksiyonununt revinibulunu=
++
++
++
++
+] &
+f bulunu$
+=
++
++
++
++
+=
++
++ -
++
+=
++
+-
++
+-
+-
+-
+&
+]
+]
+]
+]
+ÖRNEÇÖZÜTüreolduğuna göre a ve b değerlerini bulunuz&
+f abag ag &
+=
++
+-
+=
++
+=
++
+=
++
+=
+-
++
+=
+=
+=
+b ve b olu&
+a ve a olu&
+]
+]
+]
+]
+]
+]
+]
+]
+&
+&
+bulunu4 $
+=
++
+=-
+=-
++
+=
+-
+&
+bulunu+
++
+=-
+-
+=-
+=
+vdenklemleri ortaz l rsçö ü ]
+]
+olu+
+=
++
+=
++
++
+=
++
+^
+^
+]
+]
+]
+olu-
+=
+-
+- =
++
+-
+- =
++
+^
+^
+]
+]
+]
+f ve g x t revlenebilir iki fonksiyon olmak zerf fonksiyonununt revdf f g $
+$
+$
+{
+=
+olu$
+$
+=
++
+]
+^
+]
+]
+^^
+]
+^ ]
+]
+]
+]
+]
+]
+gÖRNEÇÖZÜf abg a=
++
+-
+=
+-
++
+:
+:
+]
+]
++
+=
+-
+=-
+:
+:
+^
+^
+^
+^
+lilililililililililif f f f g f g f g f g g f f f g g g f f f g g g f f g g f g f g g f g $
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+=
++
+-
++
++
+-
++
++
+-
++
+-
++
++
+-
++
++
+-
++
++
+-
++
+-
+=
++
++
+-
++
++
+-
++
++
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+=
+=
+=
+=
++
+$
+$
++
+= ^
+^
+^
+^
+^
+^
+^
+^

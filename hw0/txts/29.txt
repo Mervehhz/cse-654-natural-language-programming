@@ -1,0 +1,400 @@
+=
++
+          6 6 x .36 61236 12x –636 66 3 cm olur+
+=
++
+=
+=
+=
+=
+Matematik I2. Bölü330°
+ABC üçgeninde, [BD] ve [CD], B ve C  köşelerine ait dış 
+açıortaylar ve 
+m BA30°
+=
+%
+ olduğuna görm BDC %
+ bulalımÇözü30°
+ABC üçgeninde B ve C köşelerine ait dış açıortaylaBD ve C@
+@ olduğunda90° –
+=
+BDm BAC di%
+%
+Buna gör90° –
+=
+BDbulunu°
+° –
+°
+°
+=
+=
+%
+ALIŞTIRMALA1ABC bir üçgen,
+A@dış açıortay, 
+,
+,
+Acm AcDcm ve Bx ti=
+=
+=
+=
+Yukarıda verilenlere göre |BD| = x kaç cm dir?
+A) B) C) D) 2. 
+ADC bir üçgen,
+A@dış açıortay, 
+,
+,
+Acm AcBcm ve Bx di=
+=
+=
+=
+Yukarıda verilenlere göre |BD| = x kaç cm dir?
+A) B) C) D) ÜçgenleMatematik I2. BölüÜçgenle3. 
+ABC bir dik üçge[AD] dış açıortam(AB∑C) = 30° 
+|AC| = 4 c|CD| = Yukarıda verilenlere göre |CD| = x kaç cm dir?
+A) 2 B) 4 C) 6 D) 440°
+ABC üçgeninde C ve D köşelerine ait dış açıortaylar 
+BD ve CD di@
+@
+m AB40°
+=
+%
+olduğuna göre 
+?
+m CDx ka derecedi=
+%
+A) 40°
+B) 50°
+C) 60°
+D) 70°
+KenarortaÜçgenin bir köşesi ile bu köşenin karşısındaki kenarın orta noktasını birleştiren 
+doğru parçasına o kenara ait kenarortay denir. Kenarortay V ile gösterilir. Va a 
+kenarına ait kenarortay, Vb b kenarına ait kenarortay ve Vc c kenarına ait 
+kenarortaydırV
+  
+VVV~
+~
+Kenarortayların kesinoktası G ye üçgenin 
+ağırlık merkezi denirGAGCGB=
+=
+30°
+Matematik I2. BölüDik Üçgende Kenarorta=
+=
+=
+Dik üçgende hipotenüse ait kenarortayın uzunluğ, hipotenüsün uzunluğunun yarısına eşittirAa di=
+=
+~
+~
+32Üçgenin 
+ağırlık 
+merkezi 
+ile 
+orta 
+tabanının 
+kenarortay üzerinde ayırdığı uzunluklar köşeden 
+kenara doğru  3, 1, 2 sayılarıyla orantılıdır|AK| = 3k, |KG| = k, |GF| = 2k, (k ∈ R+)
+şeklinde yazılabilirVYandaki ABC üçgenindm ( A ) = 90o  ve   BC      = a isVYandaki ABC üçgeninde 
+m ve BBC kenar na ait kenarortay uzunluga di°
+=
+^
+BC kenarına ait  kenarortay uzunluğu 
+Va =        dirisÜçgenleMatematik I2. BölüÜçgenleVYandaki ABC üçgeninde 
+m ve Ba ike90°
+=
+^
+BC kenarına ait kenarortay uzunluğa  
+ dirÖRNEKLE1. 
+Yandaki ABC üçgeninde 
+G noktası ağırlık merkezi,
+|AK| = 12 cm ve |BE| = 15 cm 
+olduğuna göre |AG| + |BG| değerini bulalımÇözü22ABC üçgeninde G ağırlık merkezi olduğundaGAGB2 dirBuna göre A34 c4 cA22 8 bulunurB35 cB222 10 cm bulunurolucm olu&
+&
+&
+&
+$
+$
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+ABcm di+
+=
++
+=
+2c=
+=
+60°
+°
+ABgenindAD kenarortam BAm ABBcü°
+=
+=
+=
+@
+%
+%
+olduğuna göre Çevre (ABC) uzunluğunu bulalım&
+Matematik I2. BölüÇözü8c=
+=
+60°
+ 
+ABgeninde AD kenarortay vm BAise ABDC diBuna g rBDBcABDcm oluü°
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+@
+%
+60°
+60°
+60°
+ABD üçgeninde tüm kenar uzunlukları 
+4 cm olduğu için ABD üçgeni eşkenar 
+üçgendirABC dik üçgeninde Pisagor teoremini uygulayalımBAAAAAA4 3 bulunur.Buna gör=
++
+=
++
+=
+=
+=
+3~
+~
+Yandaki ABC üçgeninde 
+,
+,
+ACBV kenarortayla@
+@
+@
+G ağırlık merkezi ve 
+|AL| = 12 cm 
+olduğuna göre |PG| kaç cm dir? BulalımÇevre (ABC) = 4 + 8 + 4   3 = 12 + 4   3 cm bulunur&
+ÜçgenleMatematik I2. BölüÜçgenleÇözü23~
+~
+G ağırlık merkezi olduğunda|AP| = 3k, |PG| = k, |GL| = 2k diyelim|AL| = 3k + k + 2|AL| = 6k = 12 c k = 2 cm, |PG| = 2 cm dirALIŞTIRMALA1~
+~
+Yandaki ABC üçgenindG ağırlık merkez|AK| = 6 cm ve |LC| = 9 cm 
+olduğuna göre |GK| + |GL| değeri kaç cm dir?
+A) B) C) D) 2. 
+ABC üçgenind°
+AK kenarortam BAAcAc=
+=
+=
+@
+%
+Yukarıda verilenlere göre ABC üçgeninin alanı kaç cm2 dir?
+A) B) C) D) 3. 
+~
+~
+ABC üçgeninde 
+,
+BCK ve MA kenarortaylar vBc=
+@
+@
+@
+olduğuna göre |NG|  kaç cm dir?
+A) B) C) D) Matematik I2. BölüÜçgenleÜçgenin Kenar Orta DikmelerÜçgenin herhangi bir kenarının orta noktasından geçen ve bu kenara dik olan doğru 
+parçasına kenar orta dikme denir. Bir üçgende tüm kenar orta dikmeler bir noktada kesişir~
+~
+K nokta  ı@
+@
+,
+, K @
+P kenar orta dikmelerinin 
+kesişim noktasıdırBİLGİ KUTUSBir üçgende kenarorta dikmeler köşelerden geçmeyebili Bir doğru parçasının orta dikmesi üzerinde alınan her nokta, doğru parçasının uç 
+noktalarına eşit uzaklıktadır ve bunun karşıtı da doğrudurAB doğru parçasının kenar orta dikmesi olan f doğrusunu  
+çizelim. Orta dikme üzerinde alınan her P noktası doğ- 
+ 
+ru parçasının uç noktalarına eşit uzaklıktadır.  
+PP=
+Örne1. 
+ABC üçgeninde AB kenarına ait kenar orta dikme dikme 
+K@, AC kenarına ait kenar orta dikme S@, BC kenarına 
+ait orta dikme M@ dırAAc= 4 cm v=
+olduğuna göre AA+
+değerini bulalımMatematik I2. BölüÜçgenleÇözüKR ve S@
+@  kenar orta dikme olduğundan 
+ALBK vdi=
+=
+ Buna görAcAcAcAcAAcm bulunu&
+&
+=
+=
++
+=
+=
+=
++
+=
++
+=
++
+=
+ALIŞTIRMALA1. 
+Şekildeki d doğrusu A@ nin kenar orta dikmesidir. 
+d doğrusu üzerindeki C ve D noktaları için 
+,
+Acm Kcm ve Kc=
+=
+=
+ 
+olduğuna göre ABCD dörtgeninin çevresi kaç cm dir?
+A) B) 20 
+C) 18 
+D) 2. 
+ABC üçgeninde, K@ ve M@ kenar orta dikmelerdirAcm ve Ac=
+=
+ 
+olduğuna göre |AB| + |AC| kaç cm dir?
+A) B) C) D) YüksekliÜçgende bir köşeden karşı kenara veya karşı kenarın uzantısına indirilen dik doğr parçasına yükseklik denir. Yükseklik h ile gösterilir. a kenarına ait yükseklik ha ,   
+b kenarına ait yükseklik hb , c kenarına ait yükseklik hc ile gösterilirhhhhMatematik I2. BölüBir üçgendeki yüksekliklerin kesim noktasına üçgenin diklik merkezi denirD noktası ABC 
+üçgeninin diklik 
+merkezidirDik üçgenlerde 
+diklik merkezi dik 
+açının olduğu 
+köşedir. L noktası 
+KLM üçgeninin 
+diklik merkezidirGeniş açılı 
+üçgenlerde diklik 
+merkezi, üçgenin 
+dışında  oluşur. PRS 
+üçgeninin diklik 
+merkezi T noktasıdırŞekildeki ABC ikizkenar üçgenind,
+,
+BKAAC ve D noktas diklik merkezi isKLDDDDKLAAL olu+
+=
+=
+=
+=
+=
+=
+=
+@
+@
+"
+,
+İkizkenar bir üçgenin tabanında alınan bir noktadan diğer 
+kenarlara çizilen dikmelerin uzunlukları toplamı, üçgenin 
+eş olan kenarlarına ait yüksekliklerin uzunluklarına eşittirAA=
+ olan şekildeki ikizkenar üçgende;
+EEBKC di+
+=
+=
+ABC eşkenar üçgeninin içinde alınan herhangi bir noktadan 
+kenarlara çizilen dikmelerin uzunlukları toplamı eşkenar 
+üçgenin yüksekliğine eşittir.   
+=  K+ KM   +  KÜçgenleMatematik I2. BölüÜçgenleÜçgenin bir köşesinden karşı kenara veya karşı 
+kenarın uzantısına indirilen dikmenin ayağı, 
+diğer köşelerdeki büyük açıya daha yakındırm B^
+^
+m ChikeKB 
+KC olurHerhangi bir üçgende kenar uzunlukları arasındaki sıralama ile bu kenara ait 
+yükseklikler arasındaki sıralama ters orantılıdır. Büyük kenara ait yüksekliğin 
+uzunluğu, küçük kenara ait yüksekliğin uzunluğundan küçüktürBir ABC üçgeninde 
+c ish di#
+#
+$
+$
+P 
+Bir üçgenin herhangi bir köşesine ait olan 
+yükseklik, açıortay ve kenarortay uzunlukları 
+arasında #
+# V şeklinde sıralama vardırŞekildeki ABC üçgeninde 
+,
+,
+AP AA=
+=
+=
+ olmak üzerı d #
+#
+ 
+• Bir çeşitkenar üçgende bu sıralama • 
+AA=
+ olan bir ABC üçgeninde ise bu sıralama =
+=
+ şeklindedirÖRNEKLE13 c4 cYandaki ABC üçgeninin diklik merkezi A köşesi 
+olduğuna göre   BC kaç   cm dir? BulalımÇözü3 c4 cSadece dik üçgende diklik merkezi, 90° nin olduğu 
+köşededir. Buna görAABBBBB5 cm bulunur&
+&
++
+=
++
+=
++
+=
+=
+=
+Matematik I2. Bölü2Şekildeki ABC ikizkenar üçgenindAABAKAAcm vKc=
+=
+=
+=
+=
+@
+@
+@
+@
+olduğuna göre | AL | kaç cm dir? BulalımÇözü
+
+AA=
+ olduğundaAcm diAAKAAc=
+=
++
+=
++
+=
+İkizkenar üçgende yükseklikler eşit olduğundan kenar üzerinde ayırdığı parçalar 
+|AK| = |AL| = 8 cm bulunur3. 
+Şekildeki ABC eşkenar üçgeninin yüksekliğinin kaç cm  
+olduğunu bulalımÇözüŞeklideki ABC eşkenar üçgeninde üçgenin içindeki bir noktada kenarlara dikmeler indirilmiştir. Bu durumda dikmeleri uzunlukları toplamı üçgenin yüksekliğinin uzunluğun eşittirTTTBccccm olu+
++
+=
++
++
+=
+ÜçgenleMatematik I2. BölüÜçgenleALIŞTIRMALA1. 
+Şekildeki ABC eşkenar üçgeninin yüksekliği 10 cTcTc=
+=
+olduğuna göre |TP| kaç cm dir?
+A) B) C) D) 2ABC üçgenind|AB| = |AC|
+|AB| = 15 c|PC| = 6 colduğuna göre |AP| kaç cm dir?
+A) B) C) D) Dik Üçgende Pisagor TeoremDik ÜçgeDikenaDik kenaHipotenüBir açısı 90° olan üçgen dik üçgendir. Dik açının karşısındaki kenar hipotenüs, 
+diğer kenarlar ise dik kenarlar olarak adlandırılır. Hipotenüsün uzunluğu dik kenar 
+uzunluklarından daha büyüktürMatematik I2. BölüÜçgenlePisagor TeorembcaBİLGİ KUTUSKenar uzunlukları tam sayı olan dik üçgenlerin kenarları arasındaki bağınt aşağıdaki gibidir3. 5. 4. 5. 13. 12.7. 25. 24. 8. 17. 15. 3 – 4 – 5 ve katları 
+: 6 – 8 – 10 ,  9 – 12 – 15  , 12 – 16 – 20 5 – 12 – 13 ve katları : 10 – 24 – 26   , 15 – 36 – 39    8 – 15 – 17 ve katları : 16 – 30 – 34  , 24 – 45 – 51 7 – 24 – 25 ve katları : 14 – 48 – 50 , 21 – 72 – 75 CAB üçgeninde (A) = 90o isa2 = b2 + c2 dirBir dik üçgende dik kenarların uzunluklarının 
+kareleri toplamı hipotenüsün uzunluğunun 
+karesine eşittir. 
+Matematik I2. BölüÜçgenleÖRNEKLE1. Aşağıda verilen dik üçgenlerdeki x uzunluklarını bulalımb)
+f)
+a)
+e)
+c)
+g)
+d)
+§Çözüa) 10 c+
+=
+=
+=
+b) 12 c+
+=
++
+=
+=
+=
+c) 7 c+
+=

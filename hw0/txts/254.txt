@@ -1,0 +1,400 @@
+ noktalarında 
+ise tanımlı olduğu halde grafikte kopukluk olduğu görülür. Fonksiyonun bu noktalarda sağdan ve 
+soldan limitleri incelenmelidir. 
+&
+olu=
+)
+lililif f =
+=
+"
+"
+"
+-
+-
+-
+-
++ ]
+]
+]
+`
+bbbbbb&
+)
+lililif f f x yoktu=
+=
+"
+"
+"
+-
++ ]
+]
+]
+`
+bbbbbbolu&
+=
+ç)
+lililif f =
+=
+"
+"
+"
+-
++ ]
+]
+]
+`
+bbbbbbÇÖZÜÖRNEf = ^ Yanda grafiği verilen f = ] g fonksiyonunu grafiği incelendiğinde; tanımlı olmadığı 
+=
+ noktası ile tanımlı olduğu halde kopuklu olduğu b ve =
+=
+ noktalarında 
+limit araştırılırken sağdan ve soldan limitler 
+incelenmelidir. 
+Eğer limit araştırılan nokta, tanımlı ve kopuklu olmayan bir nokta ise fonksiyonun 
+limiti, fonksiyonun o noktadaki değerine 
+eşittirTüreYanda grafiği verilen f ] g fonksiyonunun 
+,
+,
+,
+,
+,
+,
+=-
+=-
+=-
+=-
+=
+=
+ 
+ve =
+=
+noktalarında var olan 
+limitlerini bulunuzf = ^ lim f f =
+=
+"
+:
+]
+^
+lim f f =
+=
+"
+:
+]
+^
+&
+lililif f f =
+=
+=
+"
+"
+"
+-
+-
+-
+-
++
+:
+]
+]
+]
+`
+bbbbbb&
+lililif f f x yoktu=
+=
+"
+"
+"
+-
+-
+-
+-
++
+:
+]
+]
+]
+`
+bbbbbbVerilen f fonksiyonun grafiği incelendiğinde ve =-
+=-  noktasında tanımsız, 
+,
+=-
+ 
+,
+ve =-
+=
+=
+ noktalarında ise tanımlı olduğu halde grafikte kopukluk olduğu görülür. 
+Bu noktalarda fonksiyonun sağdan ve soldan limitleri incelenmelidir. 
+,
+ve =-
+=
+=
+noktlarında fonksiyon tanımlı ve bu noktalarda grafikte kopukluk olmadığından fonksiyonun bu noktlardaki limiti fonksiyonun bu noktalardaki görüntülerine eşit olacaktır1789’da Paris’te doğan Fransız matematikçidir. Bugün Cauchy Teoremi 
+adıyla bilinen  teoremi ifade ederek ispatladı. Limit, süreklilik, türev ve integra üzerinde çalışmalar yapmıştır. Bunların hesaplama yöntemleri yine 
+Cauchy tarafından verilmiştir. 
+Cauchy, türev ve integral hesaplamaları üzerine çalışmaları neticesinde matematiğ karmaşık fonksiyonlar teorisini kazandırmıştır. Cauchy’nin kendi 
+adıyla anılan Cauchy-Schwarz eşitsizliği, Cauchy-Riemann denklemleri, Cauch teoremi, Cauchy integral formülü ve Cauchy dizisi gibi çalışmaları bulunmaktadı(Cauchy, matematik.dpu.edu.tr)
+Augustin Louis Cauchy (Ogüstin Luis Koşi) (1789 - 1857)
+=
+=
+li-
+"-
+:
+]
+^
+G rsel 5 =
+&
+lililif f x yoktu=
+"
+"
+"
+-
+-
+-
+-
++
+:
+]
+]
+]
+`
+bbbbbb=-
+=
+&
+lililif x yoktu"
+"
+"
+-
++
+:
+]
+]
+]
+`
+bbbbbb=
+&
+lililif x yoktu"
+"
+"
+-
++
+:
+=
+]
+]
+]
+`
+bbbbbbÇÖZÜÖRNEMatematik , is$
+,
+f is=
++
+-
+] *
+ 
+biçiminde tanımlı f  fonksiyonunun grafiğini Dinamik Geometri ve Matematik Yazılımı programınd çizerek =
+ noktasındaki sağdan ve soldan limitini bulunuzDinamik Geometri ve Matematik Yazılımı programını açınız  1. Adım: Ekrana gelen görüntüdeki giriş kısmına Eğer yazarak 
+                 Eğer( <Şart>, <Doğruysa>, <Doğru Değilse> ) seçiniz  2. Adım: <Şart> yerine  yazınız  3. Adım: <Doğruysa> yerine 2 +  yazınız  4. Adım: <Doğru Değilse> yerine -
+ yazılarak enter tuşuna basıldığında grafik ekrana gelir  5. Adım: Giriş kısmına 
+,
+2 ^
+h yazarak enter tuşuna basınız. Tekrar giriş kısmına 
+,
+2 ^
+h   
+                 yazarak enter tuşuna basınız  6. Adım: 
+,
+2 ^
+h noktası dâhil olmadığından bu noktanın üzerine sağ tıklayarak ayarlar butonunu   
+                 ve açılan pencerede sitil butonunu seçip içi boş olarak belirleyiniz. Böylece ( )
+f x   
+                 fonksiyonun grafiği çizilmiş olur  7. Adım: 
+ butonuna tıklayarak x ekseni üzerinde rastgele bir nokta seçiniz  8. Adım: 
+ butonuna tıklayarak dik doğruyu seçiniz. x ekseni üzerindeki noktaya ve ardından  
+                 x eksenine tıklayarak x eksenine dik bir doğru çiziniz  9. Adım: 
+ butonuna tıklayarak doğrunun grafiği kestiği noktayı seçiniz10. Adım: 
+ butonuna tıklayarak doğrunun grafiği kestiği noktaya ve ardından çizilen dik  
+                 doğruya tıklayarak y eksenine dik bir doğru çiziniz11. Adım: 
+ butonuna tıklayınız. y eksenine çizilen dik doğruyu seçerek y ekseni ile doğrunun  
+                 kesiştiği noktayı seçiniz12. Adım: 
+ butonuna tıklayarak doğru parçasını seçiniz. Doğrunun grafiği kestiği noktayı ve x  
+                 ekseni üzerindeki noktayı seçerek bir doğru parçası çiziniz. Ardından doğrunun grafiği  
+                 kestiği noktayı ve y ekseni üzerindeki noktayı seçerek bir doğru parçası daha çiziniz13. Adım: Dik doğruları, cebir penceresinin sol taraflarındaki :
+ simgelerine tıklayarak görünmez  
+                 yapınız ve sol üstteki ok simgesine tıklayınızÇÖZÜÖRNETüreElde edilen grafikte,
+x ekseni üzerindeki nokta 2 ye sağdan yaklaştırıldığında f ] g in 3 e yaklaştığı gözlenir ve 
+     
+lim f olu=
+"
++ ] :
+x ekseni üzerindeki nokta 2 ye soldan yaklaştırıldığında f ] g in 5 e yaklaştığı gözlenir v     
+lim f olu=
+"
+- ] :
+Matematik x değişkeninin 5 sayısına sağdan yaklaşımını matematiksel olarak nasıl ifade edileceğin bulunuzx değişkeni 
+-  sayısına 
+-  ten küçük ve 
+artan değerlerle yaklaştığına göre bu yaklaşı biçiminin matematiksel olarak nasıl 
+ifade edileceğini bulunuz,
+,,
+,
+,
+,
+,
+,
+4 0001 4 001 4 01 4 1 4 3 4 5 Yukarıdaki tabloda verilen değerlerle yaklaşımı matematiksel olarak nasıl ifade edileceğin bulunuz. 
+ 
+f =
+]  olduğuna göre lim f "-
+] g ifadesini değerini bulunuz 
+ 
+ 
+ 
+lilif f =
+=-
+"
+"
+-
++
+:
+:
+]
+]
+ 
+ 
+olduğuna göre lim f "
+] g değerini varsa 
+bulunuz-
+lililif f f =
++
+=
+-
+=
+"
+"
++
+"
+:
+:
+:
+]
+]
+]
+eşitliklerini sağlayan f ] g fonksiyonu için 
+a $
+ çarpımını bulunuzlilililif f $
+-
+=
+"
+"
+"
+"
+-
+-
+-
+-
++
++
+-
+:
+:
+$
++
+=
+]
+]
+]
+]
+eşitliklerini sağlayan f ] g fonksiyonu için  
+lim f "- ] g ve lim f "
+] g limit değerleri birer 
+gerçek sayı olduğuna göre bu limit değerlerin bulunuzYukarıda f ] g fonksiyonunun grafiği verilmişti. Bu grafiğe göre aşağıdaki limit değerlerin bulunuzf = ^ )
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+lilililililililililililif f f f f f f f f f f f "
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+-
+-
+-
+-
++
+-
++
+-
++
+-
++
+]
+]
+]
+]
+]
+]
+]
+]
+]
+]
+]
+]
+ AlıştırmalaTüreÖZELLİK ÖZELLİK 5.1.2. Limitin Özellikleri ve Uygulamalarf a a =
++
++
++
++
+-
+-
+]  
+polinom fonksiyonu olmak üzere her c gerçek sayısı içi 
+ 
+ 
+ 
+    lim f f =
+"
+]
+]
+g 
+olurf =
+^ Gerçek sayılarda tanımlı f =
+]  fonksiyonu veriliyor. Buna göre lilif f +
+"
+"
+-
+]
+]
+g toplamını 
+bulunuzf =
+]  sabit fonksiyonunun her noktadaki limit değeri 3 olacağındalilililif vf oluf f bulunu=
+=
++
+=
+"
+"
+"
+"
+-
+-
+]
+]
+]
+]
+:
+,
+f m"
+=

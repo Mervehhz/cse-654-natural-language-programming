@@ -1,0 +1,400 @@
+-
++
+-
++
+=
+ elde edilir. Bu denklem 2 -
++
++
+=
+ denklemi ile taraf tarafa 
+toplanırs 
+-
+olu+
+=
+=
+-
++
+-
++
+=
++
+-
++
++
+=
+= -
+Bulunan = -  değeri her iki denklemin ortak köküdürİkinci Dereceden Denklemleİkinci Dereceden Denklemle1. Aşağıda verilen denklemlerin gerçek sayılar 
+kümesindeki çözüm kümesini bulunuz        a)  2 -
+=
+ 
+b)  2 -
+=
+ 
+c)  2 -
++
+=
+  
+ç)  
+-
++
+-
+=
+  
+2. 2 -
+-
+=
+ denkleminin gerçek sayı köklerinde küçük olanı bulunuz. 
+3.ve !
+!
+ olmak üzere 
+-
+-
++
+=
+]
+ denkleminin gerçek 
+kökleri olmadığına göre m nin değer aralığını 
+bulunuz. 
+4. ve !
+!
+-
+ olmak üzere 
+m+
+-
+-
++
+=
+]
+ denkleminin 
+çakışık iki kökü olduğuna göre m değerini 
+bulunuz. 
+5. !
+ olmak üzer   • 2 -
++
+=
+ denkleminin farklı iki gerçe kökü vardır      •  2 +
++
++
+=
+ denkleminin gerçek  
+         kökleri yokturYukarıda verilen bu bilgilere göre m nin kaç farkl tam sayı değeri alabileceğini bulunuz. 
+6. 
+,
+ve a !
+!
+ olmak üzere aşağıda verilen 
+denklemlerin gerçek sayılar kümesindeki çözü kümesini bulunuza) a-
+-
+=
+ 
+b) b a $
+-
++
++
+=
+]
+ 
+c) a2 -
+-
+-
+=
+]
+ 
+7. 
+,
+ve m !
+ olmak üzere 
+n m2 +
+-
+-
+=
+]
+ denkleminin gerçek 
+sayı köklerinden büyük olanı bulunuz. 
+8. !
+ olmak üzere 
+-
++
+-
++
++
+=
+]
+ denkleminin bir 
+kökü 2 olduğuna göre m ifadesinin değerini 
+bulunuz. 
+9. 
+Yukarıda şekli verilen dikdörtgen biçimindek bir kartondan kare biçimindeki 
+FGCE karton parçası kesilerek atılıyor. 
+AAG$
+$
+=
+=
+ ve kalan şeklin 
+alanı 68 santimetrekare olduğuna göre ABCD 
+dikdörtgeninin çevresinin kaç cm olduğunu 
+bulunuz. 
+ 
+10. !
+-  olmak üzer     2 +
++
+-
+=
+ ve 2 +
++
+=
+-
+]
+  
+denklemlerinin birer kökü ortak olduğuna göre 
+m değerini bulunuz. 
+ALIŞTIRMALAİkinci Dereceden Denklemleİkinci Dereceden DenklemleBilg10.4.1.3. Bir Karmaşık Sayının ia, !
++
+^
+h Biçiminde İfade EdilmesAşağıda verilen karmaşık sayıların gerçek ve sanal (imajiner) kısımlarını bulunuza) +
+=
+                       b) 2 = - -
+                         c) i=
+                              ç) =
+a) 
+Re(
+)
+5 v(
+)
+‹
+&
+=
+=
+=
++
+ olurb) 
+Re(
+)
+v(
+)
+‹
+7 &
+=
+=
+= - -
+-
+-
+ olurc) 
+Re(
+)
+v(
+)
+‹
+&
+=
+=
+=
+ olurç) 
+Re(
+)
+v(
+)
+‹
+&
+=
+=
+=
+ olurBilg, b,
+ve !
+!
+ olmak üzere ab=
++
++
+ denkleminde 
+a=
+-
+ ise bu denklemi R  de (gerçek sayılarda) çözüm kümesi yoktur. Örneğin =
++
+ denkleminin çözüm 
+kümesi, veya &
+&
++
+=
+= -
+= - -
+=
+-
+ olur. 
+-
+ olduğundan bu denklemi  R  de çözüm kümesi boş kümedirBu denklemde 
+,
+ve =
+=
+=
+ olduğundan 
+a4 1 $
+$
+=
+-
+=
+-
+= -
+ olur. Bu 
+durumda verilen denklemde 
+ ise bu denklemin gerçek sayılar kümesini de kapsayan yeni bir 
+sayı kümesine ihtiyaç vardır. Bu yeni sayı kümesine karmaşık sayılar kümesi denir ve karmaşık 
+sayıların kümesi C  ile gösterilir. 
+-
+ sayısı karmaşık sayılar kümesinin bir elemanıdır$
+$
+$
+-
+=
+-
+=
+-
+=
+-
+]
+ oluri sanal sayı birimi 
+-
+=
+^
+h olmak üzere 
+$
+-
+=
+-
+=
+ bulunurBuradan verilen denklemin çözüm kümesi, i veya &
+&
+= - -
+= -
+=
+-
+=
+ ve 
+Ç3i, 3= -
+"
+,  olurb=
++
+,
+a ve !
+ sanal sayı birimi 2 = -
+^
+h olmak üzere b=
++
+ şeklindeki sayılara karmaşık sayıla, bu sayıların oluşturduğu kümeye ise karmaşık sayılar kümesi denir ve C  sembolü ile gösterili. Karmaşık sayılar kümesi 
+,
+,
+z bi ve a !
+=
+=
++
+=
+-
+"
+,  şeklindedir. 
+                                                           
+                                                                                        
+a sayısına z karmaşık sayısının gerçek kısmı denir ve 
+( )
+Re =
+ ile gösterilir. 
+b sayısına z karmaşık sayısının imajiner (sanal) kısmı denir ve 
+( )
+‹m =
+ ile gösterilir. 
+Her gerçek sayı aynı zamanda bir karmaşık sayıdır,  olur. 
+imajiner kısım (İm(z))
+gerçek kısım (Re(z))
+İkinci Dereceden Denklemleİkinci Dereceden Denklemlei ve = - +
+=
++
+ karmaşık sayıları veriliyor. 
+Re(z)
+( )
+‹
+2 $
+-
+ ifadesinin değerini bulunuz‹
+ve Re(z)
+( )
+&
+&
+= - +
+= -
+=
++
+=
+ olarak bulunur. Bu değerler 
+Re(z)
+( )
+‹
+2 $
+-
+ ifadesind yerine yazılırsa 
+Re(z)
+( )
+‹
+2 $
+$
+-
+= - -
+= - -
+= -
+ olurm(42xi)
+Re(5i)
+‹
++
+=
++
+-
+-
+ olduğuna göre x gerçek sayısını bulunuzm(42xi)
+Re(5i)
+‹
++
+=
++
+-
+-
+ eşitliği 
+m(2x i)
+Re(5i)
+‹
++
++
+=
++
+-
+-
+^
+ şeklinde düzenlenirse 
+Re(i)
+x v(
+)
+‹
+=
++ - +
+= - +
+-
+^
+ bulunur. Bu değerler 
+Re(i)
+(
+)
+‹
++
+-
++
+=
+-
+ 
+ifadesinde yerine yazılırsa &
+&
+-
++
+=
+=
+=
+ olur,
+‹
+‹
+Re(z )

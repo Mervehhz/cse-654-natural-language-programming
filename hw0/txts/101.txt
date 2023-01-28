@@ -1,0 +1,400 @@
+(
+(
+)
+go-
+-
+  değerini bulunuz( )
+( )
+(
+)
+f &
+&
+=
++
+=
+-
+-
+= - -
+= -
+-
+-
+ olur(
+)(
+)
+(
+(
+))
+(
+)
+(
+)
+gog $
+-
+=
+-
+=
+-
+=
+-
+-
+= -
+-
+-
+ olur"
+:
+R , 
+"
+:
+R  olmak üzere ( )
+(
+)( )
+f ve go=
++
+=
+-
+ fonksiyonları veriliyor. 
+( )
+g x  fonksiyounun kuralını bulunuz( )
+g olu=
+-
+(
+)( )
+( ( ))
+(
+)
+( )
+( )
+gog f g g $
+=
+-
+=
+-
++
+=
+-
+=
+-
+-
+=
+-
+-
+$
+&
+=
++
+=
+1 2 444 (
+)
+(
+)
+goo=
+-
+-
+-
+-
+-  olduğunda(
+)
+( )
+( )
+( )
+(
+( ))
+goofof =
+=
+=
+-
+-
+-
+-
+-
+-
+-
+`^
+ olur( )
+( )
+&
+=
+-
+=
+-
+= -
+-
+-
+ olur. Bulunan bu değer (
+( ))
+f -
+ ifadesinde yerine yazılırs(
+)
+-
+= - -
+= -  olur( )
+( )
+f &
+=
+-
+-
+=
+-
+-
+-
+ olurİstenen fonksiyonda ikinci, dördüncü, altıncı, ..., yirminci f  yerine f -  yazılırs(
+)( )
+(
+)( )
+( )
+( )
+fofofo ofofo ofof oluBudurumda olu3 $
+=
+=
+=
+-
+-
+=
+-
+-
+=
+=
+-
+-
+-
+; ;
+;
+"
+"
+,
+,
+:
+( )
+:
+( )
+f vg =
+-
+=
++
+ olduğuna göre 
+)
+(
+( )
+go-
+-
+  değerini bulunuz"
+,
+:
+( )
+f -
+-
+=
+-
+-
+!
+!
++
++
+ olduğuna göre (
+)( )
+fofofo o21 tane 44444  değerini bulunuzYandaki şekilde 
+( )
+f =
+ fonksiyonunun grafiği verilmiştir. Buna gör          a)  ( )
+(
+)
++
+-
+-
+ ifadesinin değerini bulunuz          b)  (
+)( )
+fo4  ifadesinin değerini bulunuza)  ( )
+f =
+ ve ( )
+f = -  ise 
+(
+)
+1 -
+=
+-
+ olur     Buradan ( )
+(
+)
++
+-
+=
++
+=
+-
+ olurb)  (
+)( )
+( ( ))
+(
+)
+fof =
+=
+-
+=
+-
+ olur( )
+=
+-
+-
+ 
+fonksiyonunun 
+grafiğinin eksenleri 
+kestiği noktalax = 0 için = - ,
+y = 0 için x = 6 olurBu noktalardan 
+geçen doğrunun 
+grafiği yandaki 
+gibidir( )
+f =
++
+ fonksiyounun grafiğinin 
+eksenleri kestiği 
+noktalax = 0 için y = 6,
+y = 0 için = -  
+olurBu noktalardan geçe doğrunun grafiği 
+yandaki gibidir                                                                                                         
+( )
+f =
++
+ fonksiyonunun tersi 
+( )
+=
+-
+-
+ olurYandaki şekilde ( )
+( )
+f x ve -
+ fonksiyonlarının grafiklerinin 
+=
+ doğrusuna göre simetrik olduğuna dikkat ediniz)( )
+(
+)( )
+(
+(
+)( )
+(
+)
+( )
+(
+)
+( )
+( )
+( )
+( )
+golufofff f f 4 $
+$
+$
+$
+=
++
+=
++
+=
+-
++
+=
+-
++
+=
+-
++
+=
+-
+=
+-
+=
+-
+-
+1 2 444 "
+"
+,
+,
+:
+:
+(
+)( )
+( )
+( )
+fove ise =
++
+=
+-
+-
+ değerini bulunuz"
+,
+:
+( )
+f =
++
+ fonksiyonu veriliyor. f ve f -  fonksiyonlarının grafiklerini çizinizYanda grafiği verilen ( )
+f =
+ fonksiyonunun tersinin grafiğini 
+çiziniz( )
+f =
+ fonksiyonunun tersinin grafiği 
+=
+doğrusuna göre simetrik olduğundan =
+ doğrusu 
+çizilip ( )
+f =
+ in grafiğinde orijin dışındaki herhangi 
+bir A noktası seçilir. Bu noktadan =
+ dogrusuna dik 
+olacak şekilde A noktası ile =
+ doğrusu arasındaki 
+uzaklığın 2 katı uzunluğunda bir doğru parçası çizilir. 
+Bir ucu A olan bu doğru parçasının diğer ucu Al  
+olmak üzere orijin, ( )
+f =
+ ve y = x doğrusunun 
+ortak noktası olduğundan başka bir nokta belirlemeye 
+gerek kalmaz. Orijin ve Al  noktasından geçe( )
+f =
+ fonksiyonunun tersinin grafiği yandaki 
+şekilde çizilebilir( )
+=
+-
+Yandaki şekilde fog ve f fonksiyonlarının 
+grafikleri verilmiştir. f bire bir ve örtendir. 
+( )
+g =
+ olduğuna göre k nin değerini 
+bulunuzfo^
+^
+h grafiğinde (
+)( )
+( ( ))
+( )
+( )
+fof olu&
+&
+=
+=
+=
+-
+  f fonksiyonunun grafiğinde 
+( )
+=
+-
+ olur. Buradan 
+( )
+g =
+ olduğundan  
+( )
+( )
+olu&
+=
+=
+-
+ALIŞTIRMALA1. Aşağıda verilen fonksiyonların terslerinin fonksiyo olup olmadıklarını bulunuza) 
+"
+,
+:
+( )
+f =
++
+b) 
+"
+,
+:
+( )
+f =
+-

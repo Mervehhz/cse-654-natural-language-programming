@@ -1,0 +1,400 @@
+  y = 0 ise 2x − 0 = 2 
+           2x =              x = 1, (1, 0) bulunur. 
+x + y – 1 = 0 doğrusu koordinat eksenlerini (0, 1) ve (1, 0) noktalarında, 2x − y = 2 
+doğrusu ise koordinat eksenlerini (0, −2) ve (1, 0) noktalarında keser. Bu doğruları 
+koordinat düzleminde çizelim. 
+-1 -------x + y−1=2x − y = Matematik 3. BölüBirinci Dereceden Denklemler ve EşitsizlikleŞimdi x + y − 1 ≥ 0 ve 2x − y < 2 eşitsizliklerinin çözüm kümelerini bulmak için 
+doğruların üzerinde olmayan herhangi bir nokta seçip eşitsizliklerde yerine yazalım. 
+Her iki eşitsizlik içinde O(0, 0) orjin noktasını seçelim. 
+x + y − 1 = 0 için 0 + 0 − 1 ≥ 0 
+− 1 ≥ 0  olup bu eşitsizlik orjinin olduğu bölgeyi sağlama. Bu durumda koordinat düzleminde orjinin bulunduğu bölge taranmaz. 
+2x − y < 2 için 2 . 0 − 0 < 0 < 2  olup bu eşitsizlik orijinin bulunduğu bölgeyi sağlar. Bu durumda koordinat 
+düzleminde orjinin bulunduğu bölge taranır. 
+-1 -------2x - y < x + y - 1 ≥ aşağıdaki taralı bölgedir. 
+-1-------Sonuç olarak 
+x + y −1≥ 0 
+2x − y < 2 eşitsizlik sisteminin çözüm kümesi her iki grafikte de ortak olan 
+Matematik 3. BölüBirinci Dereceden Denklemler ve EşitsizlikleALIŞTIRMALA1-  x + y + 1 > 0 eşitsizliğinin çözüm kümesini aşağıdaki koordinat düzlemindgösteriniz-1-------2- x − y ≤ x + y ≥ 3 eşitsizlik sisteminin çözüm kümesini aşağıdaki koordinat düzlemindgösteriniz-1-------Matematik 3. BölüÜslü İfadeler ve DenklemleÜSLÜ İFADELER VE DENKLEMLEÜslü Sayılar 
+Pozitif n tam sayısı ve a gerçek sayısı için n tane a nın çarpımı: a . a. a ... a = an tan
+  
+şeklinde gösterilir. 
+an ifadesinde; n → üs, a → taban olarak adlandırılır. 
+Örneğin;
+2 nin 3 üncü kuvveti 23 = 2 . 2 . 2 = 8 dir. 
+Sıfırdan farklı bir reel sayının sıfırıncı kuvveti 1 e eşittir. 
+(a π 0 ve aŒR olmak üzere a0 = 1 dir.) 
+Örneğin;
+20 = 1, 
+-
+k  = 1, (2017)0 = 1, (−197)0 = Örne2 ve −2 sayılarını 5. kuvvete kadar inceleyelim. 
+Çözü20 =1 
+(−2)0 = 21 = 2 
+(−2)1 = −2 
+22 = 2.2 = 4  
+(−2)2 = (−2) . (−2) = 23 = 2.2.2 = 8 
+(−2)3 = (−2) . (−2) 
++ . (−2) = −24 = 2.2.2.2 = 16 
+(−2)4 =  (−2) . (−2) 
++ . (−2) . (−2) 
++ = 25 = 2.2.2.2.2 = 32 
+(−2)5 = (−2) . (−2) 
++. (−2) . (−2) 
++   . (−2) = −BİLGİ KUTUSÜslü sayılarda pozitif sayıların tüm kuvvetleri pozitiftir. Parantez içindeki negati sayıların çift kuvvetleri pozitif, tek kuvvetleri ise negatiftir. 00 tanımsızdır. 
+Matematik 3. BölüÜslü İfadeler ve DenklemleÖRNEKLE1- 5 . 5. 5 .5 ... 10 tan çarpımını üslü biçimde yazalımÇözü5 . 5. 5 .5 ...  5 = 10 tan
+ 
+2- Aşağıdaki üslü sayıların eşitlerini bulalıma) b) (−3)c) (−6)Çözüa) 43    = 4 . 4 . 4 = b) (−3)2 = (−3) . (−3) = c) (–6)3 = (–6).(–6).(–6) = – 3- (−2)3 + (−5)3 + (−3)2 toplamının eşitini bulalımÇözü(−2)3 =  (−2) . (−2) . (−2) = − (−5)3 =  (−5) . (−5) . (−5) = −(−3)2 = (−3) . (−3) = 9 dur. Buna gör(−2)3 + (−5)3 + (−3)2 = (−8) + (−125) +      = −124 bulunur. 
+ALIŞTIRMALA1- 62 − (−3)3 işleminin sonucu kaçtır?
+2- 12 tane 7 nin çarpımını üslü biçimde yazınız3- Aşağıdaki üslü sayıların eşitlerini bulunuza) b) (−4)c) Matematik 3. BölüÜslü İfadeler ve DenklemleÜslü İfadelerinin Özellikleri 
+Üslü İfadelerin Çarpımı 
+a, b ŒR ve x, y ŒZ+  olmak üzere,  
+1- ax . ay = a x + y  (Tabanları aynı olan üslü sayılar çarpılırken; üsler toplanır ortak taban yazılır.)
+Örneğin;
+212 . 27 = 212+7 = (−5)3 . (−5)5 . (−5)4 = (−5)3+5+4 = (−5)2- ax . bx = (a.b)x (Üsleri aynı olan üslü sayılar çarpılırken; tabalar çarpılır, çarpım 
+ortak üs olarak yazılır.)
+Örneğin;
+24 . 54 = (2 . 5)4  = (−3)2 . 22 = (−3 . 2)2 = (−6)3- a > 0 olmak üzere (ax)y = ax.y (a sayısının üssünün üssü alınırken üsler çarpılır. )
+Örneğin;
+(23)7 = 23.7 = 4- =
+- ,  a ≠ 0 (Tabanları aynı olan üslü sayılar bölünürken payın üssünden paydanı üssü çıkarılır, ortak tabanda yazılır.)
+Örneğin;
+=
+=
+-
+5- , !
+=   (Üsleri aynı olan üslü sayılar bölünürken; tabanlar bölünür, üs 
+ortak üs olarak yazılır.)
+Örneğin;
+=
+=
+=
+Matematik 3. BölüÜslü İfadeler ve Denklemle6- a π 0 olmak üzere, a0 = 1 dir. kŒZ olmak üzere a−k =   
+(Sıfırdan farklı bir reel sayının üssü sıfır ise sonuç 1 dir. Sıfırdan farklı bir reel sayını negatif üssü alınırken pay ve payda yer değiştirir ve üs pozitif olarak yazılır.)
+Örneğin;
+(1897)0 = 1 ,  (−27)0=5-3 = 1 ,
+,
+,
+=
+=
+=
+-
+-
+-
+7- n Œ Z olmak üzere 1n = 1 (1 in tam sayı kuvvetleri 1 dir.)
+(−1) in çift uvvetleri 1, tek kuvvetleri −1 dirÖrneğin;
+165 + (−1)20 + (−1)77 = 1 + 1 − 1= Üslü İfadelerin Toplam1- Üslü ifadelerde toplama işlemi yapılırken üssü ve tabanı aynı olan sayıların katsayılar toplanırx . an + y . an + z . an = (x + y + z) . aÖrneğin;
+2 . 67 + 12 . 67 − 5 . 67 = (2 + 12 − 5) . 67 = 9 . ÖRNEKLE1- 88 . 89 . 8−10 çarpımının sonucunu bulalımÇözü88 . 89 . 8-10 çarpımında tabanlar aynı olduğundan üsler toplanır ortak tabanda yazılır88 . 89 . 8−10 = 88+9-10 = 87 bulunurMatematik 3. BölüÜslü İfadeler ve Denklemle2- 52 . 22 . 32 çarpımının sonucunu bulalımÇözü52 . 22 . 32 çarpımında üsler aynı olduğundan tabanlar çarpılır, üs ortak üs olarayazılır. 
+52 . 22 . 32 = (5 . 2 . 3)         = (30)         = 30 .          = 900 
+3- (23)2 .    çarpımının sonucunu bulalımÇözü(23)2  ifadesinde üsler çarpılır 23.2 = 26 olur  bölümünde bölme yapılır, üs ortak üs olarak yazılır����
+= a �� ���6= 26 olur. O hâlde (23)2  
+  = 26 . 26 = 26+6= 4-
+-
+-
+işleminin sonucunu bulalımÇözü5–14 . 55 = 5−14+5 = 5-9 (Çarpma işleminde tabanlar aynı olduğundan üsleri toplarız.)
+olu=
+-
+-
+-
+-
+-
+-
+bölme işleminde tabanlar aynı olduğundan payın üssünden paydanın üssün çıkarırız.   
+bulunu(
+)
+=
+=
+=
+-
+-
+- - -
+- +
+-Matematik 3. BölüÜslü İfadeler ve Denklemle5-  –
+.(
+)
+–
+–
+  işleminin sonucunu bulalım. 
+Çözü– -
+  ifadesinin üssü negatif olduğundan pay ve payda yer değiştirir ve  – olur. 
+–
+– =
+ dir. Bu durumda, –
+( 1)
+-
+–
+=
+=
+-
+  bulunur. 
+AlıştırmAşağıda verilen işlemlerin sonuçlarını bulunuz. 
+a) 23 . 22 . 2−1 + 32. 52 = ?
+b) (−1)70 + (−1)75 −(22)
+2 = ?
+c) 58 . 210 . 5−6 . 2−8 = ?
+ç) 412 + 412 + 412 + 412 = ?
+d) 2−1 . 62 + 6−1 . 12 = ?
+Üslü Denklemle1- x π −1, x π 0, x π 1 ve xŒ R olmak üzere xa = xb ⇔ a = b dir. (Tabanları eşit olaifadelerin üsleri de eşittir.)
+Örneğin;
+3a = 34 ise a = 4 tür2- x, y Œ R olmak üzer x = , a tek ise 
+xa = ya   ⇒
+
+     x = y  veya  x = −y      , a çift isIÜsleri aynı olan ifadelerin üssü tek ise tabanları eşittirII. Üsler aynı olan ifadelerin üssü çift ise tabanları eşit veya tabanlardan biri diğerini ters işaretlisine eşittir. 
+Örneğin;
+x3 = 27 için x3 = 33 ise x = 3 tür. 
+x2 = 81 için x2 = 92 ise x = 9   veya  x2 = (−9)2 ise x = −9 dur. 
+( –1)
+. 
+Matematik 3. BölüÜslü İfadeler ve Denklemle3- x, y Œ R olmak üzerxa = yb ise  a&
+=
+=
+^
+&
+=
+=
+^
+Örneğin;
+5a = 7b ise  
+veya1 &
+=
+=
+^
+^
+a 1 &
+=
+=
+^
+^
+ dir. 
+4- x, y Œ R olmak üzer1is(denklemi her zama–(y nin çift oluy ( !
+=
+=
+=
+=
+[
+\
+]]]]]
+]]]]]
+doğrular.)
+olmadığına bakılır.)
+olmalıdır. )
+Örneğin;
+(x − 5)x − 1 = 1 denklemind•
+x − 5 = 1 ⇒    x  = 6 (Her zaman sağlar.)
+•
+x − 5 = −1 ⇒    x = 4  (Bu durum için x = 4 ise üssün çift ol up olmadığına bakılırx − 1 ifadesinde x  = 4 yazılırsa 4 − 1 = 3 olup üs tek sayı olmaktadır.)
+(x−5)x−1 ifadesinde x = 4 yazıldığında (−1)3 elde edilir(−1)3 = −1 olduğu için (x−5)x−1=1 denklemini x = 4 değeri sağlamamaktadı•
+x − 1 = 0 ⇒    x = 1 (Bu durum için tabanın sıfır olmamasına dikkat etmeliyiz.)
+1 − 5 = −4 olup x = 1 ise taban sıfırdan farklı olduğu için x = 1 değeri  (x−5)x−1=denklemini sağlamaktadırO hâlde (x−5)x−1=1  denkleminin çözüm kümesi {1, 6} bulunurÖRNEKLE1- 55x−1 = 625 olduğuna göre x i bulalımÇözü55x−1 =    55x−1 = 54 (Tabanlar eşit ise üsler de eşittir.)
+5x − 1 =      5x =        x = 1 dir. 
+Matematik 3. BölüÜslü İfadeler ve Denklemle2- (2x − 3)3 = 27 olduğuna göre x i bulalımÇözü(2x − 3)3 =33 (Üsler eşit ve tek olduğu için tabanlar eşittir.)
+    2x − 3 =           2x =     x = 3 bulunur. 
+3- (3x − 4)2 = 64 olduğuna göre eşitliğin çözüm kümesini bulalımÇözü(3x − 4)2 = 82 (Üsler eşit ve çift sayı olduğu için tabanları iki durumda inceleriz.)
+    3x − 4 = 8 
+3x − 4 = −          3x = 12 
+      3x = −            x = 4 
+        x = 
+-
+Ç={ 
+-
+, 4}
+4- 7a = 13b olduğuna göra ifadesinin eşitini bulalımÇözü7a = 13b ifadesinin her iki tarafının 1  üssünü alalım. 
+oluaaaaaa&
+=
+=
+=
+=
+^
+^
+Şimdi de 7a = 13b ifadesinin her iki tarafının 1  üssünü alalım. 
+13 türa=
+=
+=
+^
+^
+O hâlde  
+a=
+ bulunurMatematik 3. BölüÜslü İfadeler ve Denklemle5- (3x − 1)x+2 = 1 denkleminin çözüm kümesini bulalımÇözü(3x − 1)x+2 = 1 denkleminin çözüm kümesi bulunurke• 3x − 1 = 1,
+• 3x − 1 = −1 ⇒    x  + 2 çift mi?
+• x + 2 = 0  ⇒    3x − 1 π 0 mı? durumlarına bakılır• 3x − 1 =      3x =        x = 2 ,
+• 3x − 1 = −1 is     3x =        x = 0,
+x = 0 için x + 2 ifadesi 0 + 2 = 2 bulunur. Bu durumda x = 0 için üs çift olduğundan 
+denklem sağlanır. 
+• x + 2 = 0 ise x = −2 dirx = −2 için 3x − 1 ifadesi 3 . (– 2) − 1 = −7 bulunur. Bu durumda x = −2 için taban sı- 
+fırdan farklı olduğundan denklem sağlanır. 
+O hâlde denklemin çözüm kümesini yazarsak 
+Ç = {–2, 0, 2 } olur. 
+ALIŞTIRMALA1-  33x+3 = 243 olduğuna göre x i bulunuz2-  (4x − 1)3 = 8 olduğuna göre x i bulunuz3-  (2x+1)4 = 625 olduğuna göre x in alabileceği değerleri bulunuz4-  25x = 8 ve  4y = 125 olduğuna göre x . y çarpımının sonucu kaçtır?
+Matematik 3. BölüÜslü İfadeler ve DenklemleKöklü İfadeleri İçeren DenklemleKöklü Sayılaa, x     R, n     Z+ ve n   1 olmak üzere, xn = a eşitliğini sağlayan x sayılarına a nın 
+n. kuvvetten kökü denirxn = a eşitliğinde 
+,
+(
+) ,
+n tek isa      
+!
+$
+=
+=
+*
+n = 2 ise  
+=
+ olarak yazılır. "İkinci kuvvetten (dereceden) kök a ya da karekö a" şeklinde okunurn = 3 ise  
+ olarak yazılır. "Üçüncü kuvvetten (dereceden) kök a ya da küp kök a" 
+şeklinde okunurn = 4 ise  
+ olarak yazılır. "Dördüncü kuvvetten (dereceden) kök a" şeklinde 
+okunur ifadesi "n. kuvvetten (dereceden) kök a" şeklinde okunur. 
+BİLGİ KUTUS n      R+ ve n Œ Z+ ve olmak üzer•
+n tek ise x gerçek (reel) sayıdır•
+n çift ve a ≥ 0 ise x gerçek (reel) sayıdır•
+n çift ve  a < 0 ise x gerçek (reel) sayı değildirÖrneğin;
+,
+,
+–
+ sayıları birer gerçek sayı, 
+,
+,
+–
+–
+–
+  sayıları ise gerçek sayı 
+değildir. 
+ÖRNEKLE1- ifadesin  ifadesinin bir gerçek sayı olması için x in en küçük değeri kaçtır? BulalımÇözü–
+ ifadesinde kök derecesi 4 yani çift sayı olduğundan kökün içi 0 (sıfır)dabüyük ya da 0 a eşit olmalıdır.  
+2x − 6 ≥ 0  ⇒ 2x ≥ 6   ⇒  x ≥ 3  olur. 
+x in alabileceği en küçük değer x = 3 tür. 
+n çift is<
+Matematik 3. BölüÜslü İfadeler ve Denklemle2-
+-
+ ifadesi a nın hangi durumlarında gerçek sayı değildir? BulalımÇözü-
+ ifadesinde kök derecesi 2 yani çift ayıdır•
+3a − 9 ≥ 0  ⇒  3a ≥              a ≥ 3  olduğunda 
+-
+ ifadesi gerçek sayıdır. 
+•
+3a  −  9 < 0  ⇒  3a <              a < 3  olduğunda 
+-
+ ifadesi gerçek sayı değildirAlıştırm6 
+- 
+ ifadesinin x in hangi durumlarda gerçek sayı olup olmadığını bulunuzKöklü İfadelerin Özellikler1- x Œ R için n Œ Z+ ve n   1 olmak üzer| |,
+,
+n ift isn tek is= )
+Örneğin;
+|
+|
+|
+|
+x olu=
+=
+(
+) -
+= -
+|
+|=
+=
+=
+2- a Œ R+ için n, m Œ Z+ ve  n    1 olmak üzervnn=
+=
+ dirKöklü ifadeler gerçek sayının rasyonel üssü şeklinde yazılabilirÖrneğin;
+olu=
+=
+=
+=
+=
+<
+<
+−
+−
+Matematik 3. BölüÜslü İfadeler ve Denklemle3- aŒR+, mŒZ, n, kŒZ+  ve n ≥ 2 olmak üzerm . n . =
+=
+ dirKöklü ifadelerde kök derecesi ve kökün içindeki sayının üssü aynı sayı ile çarpılır yda bölünürse köklü ifadenin değeri değişmez. 
+Örneğin;
+a)
+=
+=
+b) 
+olu=
+=
+=
+ 
+4- a, b ŒR+, nŒZ+ ve n ≥ 2 olmak üzere  
+a b di=
+Kök dereceleri aynı olan köklü ifadeler çarpılırken kök içleri çarpılır ortak kök altınd yazılır. 
+Örneğin;
+2 3 7 =
+=
+=
+=
+=
+=
+5- a, b ŒR+, nŒZ+ ve n ≥ 2 olmak üzer=
+ dir. 
+Kök dereceleri aynı olan köklü ifadeler bölünürken kök içleri bölünür ortak kök 
+altında yazılır. 
+Örneğin;
+=
+=
+6- a ŒR+,  m, nŒZ ve n ≥ 2 olmak üzere, 
+=
+^
+ dirKöklü reel sayıların kuvveti alınırken kuvvet ile kökün içindeki sayının üssü çarpılı. Kök aynen kalır. 
+Örneğin;
+(
+)
+(
+5)
+=
+=
+=
+=
+Matematik 3. BölüÜslü İfadeler ve Denklemle7- a, b Œ R+, n Œ Z+ ve n ≥ 2 olmak üzere, 
+a . a b dir=
+Kök içindeki sayının, üssü kök derecesine  tam bölünebilen çarpanı kök dışına çıkarılı. 
+Örneğin;
+2 3 =
+=
+=
+=
+=
+=
+olarak yazılır. 
+8- a Œ R+, m, nŒZ+ , m ≥ 2 ve n ≥ 2 olmak üzere,
+m . =
+  dırİç içe köklü ifadelerde kök dereceleri çarpılır tek kök yazılırÖrneğin;
+olu. 2 3 2 4 =
+=
+=
+=
+=
+=
+ÖRNEKLE1-
+(
+)
+(
+)
+(
+)
+-
+-
+-
+-
+-
++
+ işleminin sonucunu bulalımÇözüKök derecesi çift olan ifadeleri mutlak değer olarak, kök derecesi tek olan ifadeleri 
+ise aynen dışarı çıkaralım. 
+(
+)
+(
+)
+(
+)
+-
+-
+-
+=
+=
+|
+|
+-
+=
+=-
+=
+|
+|

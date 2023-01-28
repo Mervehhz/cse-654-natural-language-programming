@@ -1,0 +1,400 @@
+-
+-
+=
++
+=
+=
+=
++
+]
+a) 
+i in !
+!
++
+ olduğundan n =
++
+ ifadesi bir gerçek sayı dizisinin genel terimidirb) 
+i in !
+!
++
+ olduğundan n =
+-
+ ifadesi bir gerçek sayı dizisinin genel terimi değildirc) i in =
+-
+ ifadesinde karekök içerisi sıfırdan küçük olmaktadır. Bu durumda 
+    n ! olduğundan n =
+-
+ ifadesi bir gerçek sayı dizisinin genel terimi değildirç) 
+love i i!
+=
+=
+-
+]
+ olduğundan 
+lon =
+-
+]
+g ifadesi bir gerçek sayı 
+    dizisinin genel terimi değildird) 
+i in !
+!
++
+ olduğundan =
++
+-  ifadesi bir gerçek sayı dizisinin genel  
+    terimidirÇÖZÜÇÖZÜÇÖZÜÖRNEÖRNEÖRNEDizile, , ,...,
+ve 1 2 !
+=
++
++
+"
+,
+ olmak üzere tanım kümesi Ak  olan her fonksiyona 
+sonlu dizi denir, ,
+1 2 3 = "
+, olmak üzere 
+-
+:
+,
+"
+=
+^
+i sonlu dizisinin terimlerinin toplamını 
+bulunuzA3 , üç elemanlı bir küme olduğundan 
+-
+a=
+^
+i dizisinin üç terimi vardır. 
+,
+,
+=
+=
+=
+ terimlerinin toplamı +
++
+=
+ olarak bulunur, , , , ,
+,
+olmazere 1 2 3 4 5 6 "
+|
+=
+=
+-
+^
+]
+"
+,
+ dizisinin pozitif olan terimlerinin 
+toplamını bulunuz&
+&
+-
+ olmalıdır. O hâlde n yerine 4, 5 ve 6 yazılabilir!
+ olmak üzere 
+!
++  için genel terimi n =
+ olan diziye sabit dizi denir ve  
+olu=
+=
+=
+=
+=
+3 3 3 $
+$
+$
+=
+-
+=
+=
+-
+=
+=
+-
+=
+`
+bbbbbbbbAşağıda verilen dizilerin sabit dizi olup olmadıklarını bulunuz3+
+-
+cos a)
+b)
+c)
+2=
+-
+=
+=
+ç)
+=
+^
+^]
+^
+]
+^
+^
+^
+^
+g hsabit diz3-
++
+sabit dizidira)
+ç)
+=
+=
+=
+=
+1, 1, 1,
+4, 4, 4,
+sabit dizidircos 1, 1,
+1, 1,
+sabit dizi degildir6, 6, 8, 12,
+degildirb)
+c)
+2-
+=
+=
+=
+= -
+-
+=
+{
+{
+^
+^
+^
+^
+^
+^
+]
+]
+^
+^
+]
+^
+^
+^
+g holduğundan pozitif terimlerin toplamı +
++
+=
+ bulunurÇÖZÜÇÖZÜÇÖZÜÖRNEÖRNEÖRNEMatematik $
+$
++
++
+=
+-
+-
+^
+`]
+^
+j dizisi sabit dizi olduğuna göre x ve y değerlerini bulunuza^
+h dizisinin sabit dizi olması için ve n ni katsayıları “0” olmalıdırn =
++
++
+^
+l dizisinin sabit dizi olması için k nin alabileceği değeri bulunuz1. Yol: a^
+h sabit dizi ise =
+ olmalıdır. k ve =
++
++
+=
++
++
+ olduğunda2. Yol: 
+f cab fonksiyonu sabit fonksiyon ise b olu=
++
++
+=
+^ a^
+h dizisi tanım 
+            kümesi +  olan bir fonksiyon olduğundan n =
++
++
+^
+k dizisi sabit dizi ise 
+=
+            olmalıdır. Bu eşitlikten 
+bulunu=
+&
+&
+bulunu-
+=
+=
+-
+=
+=
+i in !
+=
++
+ oluyorsa ve ^
+^
+h dizilerine eşit diziler denir ve =
+^
+^
+h      
+ şeklinde gösterilirsi=
+^
+lm dizisinin 
+cos 2 +
+=
+^
+]
+glm dizisine eşit olduğunu gösteriniz&
+&
+=
++
+=
++
++
+=
++
+&
+6 =
+&
+bulunu=
+ÇÖZÜÇÖZÜÇÖZÜÖRNEÖRNEÖRNEcos 2 cosicosiolu+
+=
+=
++
+=
+=
++
+=
+]
+gve ^
+^
+h  dizilerinin genel terimleri eşit olduğundan bu diziler eşit dizilerdirDizile2.1.2. Genel Terimi veya İndirgeme Bağıntısı Verilen Bir Sayı Dizisinin  
+          TerimlerHer terimi kendinden önceki bir veya birkaç terim cinsinden tanımlanabilen dizilerindirgemeli dizi, tanımlama bağıntısına da indirgeme bağıntısı denirn =
++
+^
+]
+g dizisine ait birkaç indirgeme bağıntısı bulunuz&
+=
++
+=
++
+bulunu&
+&
+=
++
+=
+&
++
++
+=
++
++
++
++
++
++
++
+]
+Bu bağıntı, a^
+h dizisine ait bir indirgeme bağıntısıdır1 =
++
++
+ indirgeme bağıntısında n yerine n ye bağlı ifadeler yazılarak yeni indirgeme 
+bağıntıları elde edilebilir1 =
++
++
+ ifadesinde n yerine +
+ yazıldığında =
++
++
++
+ biçiminde başka bir 
+indirgeme bağıntısı elde edilmiş olurAyrıca ve =
++
+=
++
++
++
++
+ bağıntıları taraf tarafa çıkarılırsa 
+Bir i in ve dizi ind!
+=
++
+=-
++
++
+^
+ olduğuna göre a10  değerini bulunuzi ii ii ii ii ii i=
+=
++
+=-
++
+=-
+=
+=
++
+=-
++
+=-
+=
+=
++
+=-
++
+=
+=
+=
++
+=
++
+=
+=
+=
++
+=
++
+=
+=
+bulunu=
++
+=
++
+=
+Buradan +
+-
++
++
++
+=
+ biçiminde sabit sayı içermeyen yeni bir indirgeme bağıntısı 
+elde edilmiş olurolu-
+=
+-
++
++
++
+=
++
+=
++
++
++
++
+-
+ÇÖZÜÇÖZÜÖRNEÖRNEMatematik ,
+$
+!
+=
+-
++
++
+^
+h indirgeme bağıntısı ile verilen bir dizide ve =
+=
+ 
+olduğuna göre a4  değerini bulunuz&
+&
+&
+&
+&
+&
+bulunu=
+=
+-
+=
+-
+=
+=
+=
+-
+=
+-

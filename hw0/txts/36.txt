@@ -1,0 +1,343 @@
+Örne118, 120, 125, 135, 137, 144, 145, Yukarıdaki veriler bir sınıftaki öğrencilerin boylarını göstermektedir.Buna göre, bu 
+veri grubunun açıklığını bulunuzÇözüVerileri küçükten büyüğe doğru sıralayalım. 
+118,120,125,135,137,144,145,En büyük değer: En küçük değer: Açıklık = En büyük değer – En küçük değeR = 160 –118 
+R = 42 olurÖRNEKLE1. 2, 3, 4, 5, 6, 7, Yukarıdaki veri grubunun açıklığını bulalımÇözüEn küçük değer 
+Ortanca 
+En büyük değe2, 
+3, 
+4, 
+5 , 
+6, 
+7, 
+Açıklık = En büyük değer – En küçük değe = 8 –2       
+= 6 olurMatematik I3. BölüVeri, Sayma ve Olasılı2. 2, 3, 5, 6, 8, 8, 10, Yukarıdaki veri grubunun ortanca değerini ve açıklığını bulalımÇözü2, 3,5, 6,8  , 8,10,ortancortanca = 
++
+=
+Açıklık = En büyük değer – En küçük değe= 12 – = 10 bulunurStandart SapmStandart sapma, verilerin aritmetik ortalamaya yakınlığını gösterir. Standart sapmanı küçük olması sapmaların ve riskin az olduğunu, büyük olması sapmaların ve 
+riskin çok olduğunu gösterirStandart sapma bulunurken; 
+•
+Veri grubunun aritmetik ortalaması bulunur•
+Her bir verinin aritmetik ortalama ile farkının kareleri toplambulunur•
+Bulunan toplam veri sayısının 1 eksiğine bölünür•
+Bölümün karekökü alınır. Elde edilen değer standart sapmadırn –x – x – x – =
++
++
++
+^
+^
+^
+h  dırÖRNEKLE1. Bir pazarlamacının hafta içinde yaptığı satış sayıları 3, 6, 7, 9, 10 dırBuna göre bu hafta içinde yapılan satış sayılarının standart sapmasının kaolduğunu bulalımMatematik I3. BölüVeri, Sayma ve OlasılıÇözüx =
++
++
++
++
+=
+=
+5–3–6–7 –9–10–=
++
++
++
++
+^
+^
+^
+^
+^
+  
+–
+–
+=
++
++
++
++
+^
+^
+  
+=
++
++
++
++
+=
+=
+ bulunur2. 
+Kişi başındüşen yatasayısİlleAmasyAydıBalıkesiÇanakkalOrdYukarıdaki tabloda 2012 yılına ait illere göre kişi başına düşen hastane yatak sayıları 
+verilmiştir. 
+Türkiye ortalaması 265 olduğuna göre bu illeri oluşturan grubun Türkiye ortalamsına göre standart sapmasını hesaplayalımÇözüS = 
+5–262–264 –266–269–270–+
++
++
++
+^
+^
+^
+^
+^
+––=
++
++
++
++
+^
+^
+  
+=
++
++
++
++
+=
+=
+ bulunur 3 bulunurMatematik I3. BölüVeri, Sayma ve Olasılı3. İki öğrencinin 5 dersten aldığı notlar aşağıdaki tabloda verilmiştirBu iki öğrencinin genel başarı durumlarını değerlendirelimTürkçe 
+İngilizcKimyTarih 
+MatematiI. ÖğrencII. ÖğrencÇözüÖnce hangi öğrencinin not ortalamasının fazla olduğunu bulalımI. Öğrencinin not ortalamas=
++
++
++
++
+=
+=
+II. Öğrencinin ortalamas=
++
++
++
++
+=
+=
+I. Öğrencinin standart sapmas–
+–
+–
+–
+–
+=
++
++
++
++
+^
+^
+^
+^
+^
+42,6,,
+=
++
++
++
++
+=
+II. Öğrencinin standart sapmas65–60 – 85 –55–65–+
++
++
++
+=
+^
+^
+^
+^
+^
+11,+
++
++
++
+=
+=
+İki öğrencinin not ortalamaları aynıdır. Ancak birinci öğrencinin standart sapması, 
+ikinci öğrenciden düşüktür. Standart sapmanın düşük olması bu öğrencinin genel başarısını daha yüksek olduğunu, daha istikrarlı olduğunu gösterirMatematik I3. BölüVeri, Sayma ve OlasılıALIŞTIRMALA1- Yaş ortalaması 28 olan 10 kişilik bir gruptan yaşları 24 ve 16 olan iki kişi ayrılıyorKalan grubun yaş ortalaması kaçtır?
+A) B) C) D) 2- Derya arabasını satmak için internet sitesine ilan vermiştir. Verdiği ilanın iki haft alı görüntülenme raporu aşağıdaki gibidirGü1 
+Oca2 
+Oca3 
+Oca4 
+Oca5 
+Oca6 
+Oca7 
+Oca8 
+Oca9 
+Oca10 
+Oca11 
+Oca12 
+Oca13 
+Oca14 
+OcaGörüntülenme 
+AdedYukarıdaki veri grubunun ortalamasının 50 olması için hangi günlerdeki görüntülenm sayısı 50 olmalıdır?
+A) 3 - 11 OcaB) 7 - 11 OcaC) 1 - 11 OcaD) 5 - 8 Oca3- ErhaİlyaHalter takımında yer alan Erhan ve İlyas’ın koparmadaki 5 günlük ağırlık skorları 
+yukarıdaki tabloda verilmiştir. 
+Buna göre standart sapmayı ve standart sapması küçük olanı bulunuzA) İlyas, æB) Erhan, æC) Erhan, D) İlyas, 
+Matematik I3. BölüVeri, Sayma ve Olasılı4 -  
+DeniGüneÖzleArdCumartesPazaYukarıdaki tabloda bir gruba ait dört kişinin hafta sonu koştuğu mesafeler km cinsinde verilmiştir. 
+Grubun hafta sonundaki ortalaması 10 olduğuna göre standart sapması en büyü olan kişi kimdir?
+A) DeniB) GüneC) ÖzleD) Ard5 - 26, 12, 30, 28, 14, 7, Yukarıdaki veriler bir markette günlük satılan gazete sayılarını göstermektedir. 
+Buna göre bu veri grubuna ait açıklık kaçtır?
+A) B) C) D) Bir Veri Grubuna Ait Histogram GrafiğVeri sayısının arttığı durumlarda grafik oluşturmak zorlaştığında veriler gruplandırılı. Gruplandırılmış verilerle oluşturulan dikdörtgen şeklindeki sütunlara histogram 
+denir. Sürekli verilerin gösteriminde genel olarak histogramdan yararlanılırGrafik Çizimi 
+1. Veriler küçükten büyüğe doğru sıralanır2. Açıklık bulunur3AçıklıGrup sayıs < Grup Genişliğeşitsizliğini sağlayan en küçük doğal sayı grup genişliği olarak belirtilirMatematik I3. BölüVeri, Sayma ve OlasılıÖrneğin; açıklığı 70 olan bir veri grubunu• Grup sayısı 10 alınırsa grup genişliği 
+= den büyük en küçük doğal sayı 8 olarak belirlenir• Grup sayısı 11 alınırsa grup genişliğ6,=
+ olur• Grup sayısı 12 alınırsa grup genişliğ5,=
+ olurÖRNEKLE1- Atletizm seçmelerinde 400 metre koşusuna katılan 23 atletin koşu sonuçları saniycinsinden aşağıda verilmiştir59, 43, 48, 57, 51, 58, 46, 45, 55, 60, 42, 49, 61, 42, 45, 55, 54, 51, 49, 57, 51, 58, Histogram oluşturmak için, bu veriler 5 grupta toplamak istenirse grup genişliğini kaç olacağını bulalımÇözüVerileri küçükten büyüğe doğru sıralayalım42, 42, 43, 45, 45, 46, 48, 49, 49, 51, 51, 51, 54, 55, 55, 57, 57, 58, 58, 59, 60, 60, Grubun açıklığı, 61 – 42 = 19 durGrup sayısı 5 olduğundan grup genişliği;
+3,=
+ sayısından büyük olan en küçük tam sayı 4 alınırBuna göre aşağıdaki tablo ve histogramı oluşturalımKoşu sürelerKişi sayıs42 - 46 - 50 - 54 - 58 - 42 - 46 - 50 - 54 - 58 - Kişi SayısKoşu SüresMatematik I3. BölüVeri, Sayma ve Olasılı2- 
+Sayfa SayısKişi SayısBir sınıftaki öğrencilerin yarıyıl tatilinde 
+okudukları kitapların sayfa sayısı sütun 
+grafiği olarak yanda verilmiştirBuna göre açıklık, ortanca, tepe değer ve aritmetik ortalama değerlerini bulalımÇözüGrafikte verileri sıralayalım125, 125, 125, 125, 150, 150, 150, 175, 175, 175, 175, 175, 200 , 200, 200, 200, 200, 
+200, 200, 225, 225, 225, 225, 225, Açıklık = 225 – 125 = 100 bulunurOrtanca, 25 tane veri olduğuna göre 13. veri yani 200 dürTepe değer, en çok tekrar eden 200 dürAritmetik ortalama is125 . 150 . 175 . 200 . 225 . +
++
++
++
+=
+4 875 1400 +
++
++
++
+=
+=
+=
+ bulunur3- 
+1-6-11-16-21-26 - Kişi SayısPuaBir yarışmaya katılan ve 1-30 arasında   
+puan 
+alan 
+gruptaki 
+kişi 
+sayılarını 
+gösteren histogramı yorumlayalımMatematik I3. BölüVeri, Sayma ve OlasılıÇözüHistogramı yorumladığımızda aşağıdaki sonuçlara ulaşabilirizYarışmaya katılanlar 1 ile 30 arasında puan almışlar5 + 10 + 10 + 15 + 15 + 20 = 75 kişi yarışmaya katılmıştır. 
+1 ile 5 puan arasında 20 kiş6 ile 10 puan arasında 15 kiş11 ile 15 puan arasında 5 kiş16 ile 20 puan arasında 10 kiş21 ile 25 puan arasında 15 kiş26 ile 30 puan arasında 10 kişi vardırVeri grubunun açıklığı 30 – 1 = 29 durVeriler 6 grupla toplanmıştırGrup genişliği 4,=
+ olurALIŞTIRMALA1- 
+36-51-66-81-86-PuaKişi sayısBir sınıfta ingilizce dersinden 30 ile 100 
+arasında puan alan öğrencilerin aldıkları 
+puanların kişi sayılarına göre dağılımları 
+yandaki histogramda gösterilmiştir. 
+Buna göra) Veri grubunun açıklığını,
+b) Sınıf mevcudunu,
+c) Grup genişliğini bulunuz2- Bir hastane personelinin aylık tuttuğu nöbet sayıları aşağıda verilmiştir10, 7, 3, 2, 5, 8, 10, 9, 7, 13, 10, 9, 11, 9, 8, 10, 11, 9, 8, 6, 5, 8, 4, Verileri beş grupta toplayacak şekilde oluşacak histogram grafiğini çizinizMatematik I3. BölüVeri, Sayma ve Olasılı3- Bir kreşte çocukların ağırlıkları 16, 18, 21, 14, 13, 17, 16, 15, 20, 19, 20, 15, 18, 15,
+19, 24 kilogramdırVeriler üç gruba ayrıldığında aşağıdaki histogram grafiklerinden hangisi oluşu?
+A) 
+13-17-21-Ağırlık (kg)
+Çocuk sayısB) 
+13-17-21-Ağırlık (kg)
+Çocuk sayısC) 
+13-17-21-Ağırlık (kg)
+Çocuk sayısD) 
+13-17-21-Ağırlık (kg)
+Çocuk sayısGerçek Hayat Durumunu Yansıtan Veri Gruplarını Uygun Grafik 
+Türlerini Çizerek YorumlamBirden çok verinin birbirine göre durumunu karşılaştırmak verilerin birbirine göre 
+konumunu anlamak için grafikler çizerizÇizgi GrafiğSürekli verilerin yatay ve düşey eksendeki değerleri 
+işaretlenerek bu noktaların düz çizgilerle birleştirilmesi 
+sonucu elde edilen grafik türüdürMatematik I3. BölüVeri, Sayma ve OlasılıÖRNEKLE1- Yeni doğan bir bebeğin aylara göre kilosundaki artış aşağıdaki tabloda verilmiştirBu verileri uygun bir grafik türü ile gösterelimAylaOcaŞubaMarNisaMayıKilo (kg)
+3,4,4,5,6,ÇözüYeni doğan bir bebeğin kilosu; 
+Ocak ayı sonunda 3,4 kg,
+Şubat ayı sonunda 4,1 kg,
+Mart ayı sonunda 4,8 kg,
+Nisan ayı sonunda 5,5 kg,
+Mayıs ayı sonunda 6,2 kg olmuştur6.5.4.4.3.OcaŞubaMarNisaMayıKilo (kg)
+AylaBebeğin kilosu aralıksız arttığına göre sürekli 
+veridir ve çizgi grafiği uygun bir gösterimdir2- Bir kitabevindeki haftalık kitap satış sayıları aşağıdaki tabloda verilmiştirBu verileri uygun bir grafik türü ile gösterelimHaftala1. Haft2. Haft3. Haft4. Haft5. HaftSatış SayısMatematik I3. BölüVeri, Sayma ve OlasılıÇözüSatılan kitapların sayısı; 
+1. Haft2. Haft3. Haft4. Haft5. HaftSatış sayısHaftala1. haftanın sonunda 375,
+2. haftanın sonunda 250,
+3. haftanın sonunda 300,
+4. haftanın sonunda 325,
+5. haftanın sonunda 275 olmuşturSatış sayısındaki değişim bir tam sayı kadar olduğu için bu veriler kesikli verilerdive noktalarla gösterilir3- 
+Boy (cm)
+DakikYanan bir mumun dakikalar içinde boyundaki 
+değişim yandaki grafikte gösterilmiştir. 
+Grafiğe göre mumun 16. dakikadaki    boyunu 
+hesaplayalımÇözüMum 40 dakikada tamamen erimiştir. Geçen süre ile eriyen miktar arasında doğru 
+orantı olduğunda40 dakikada 
+16 dakikada 
+30 cm   eriğine göre 
+x cD.O=
+40 . x = 30 . 16 
+ 
+x = 12 cm mumun eriyen kısmıdır30 – 12 = 18 cm mumun 16. dakikadaki boyudurMatematik I3. BölüVeri, Sayma ve Olasılı4- Nisan - Ağustos ayları arasında Antalya, Kayseri ve Bursa’daki harcanan elektriğikaç kW(kilowatt) olduğu aşağıdaki tabloda verilmiştirBu verileri uygun bir grafik türü ile gösterelimNisaMayıHaziraTemmuAğustoAntaly600.650.750.850.900.Kayser900.850.750.700.750.Burs950.900.900.850.800.ÇözüElektrik tüketimi sürekli olduğu için çizgi grafiği ile gösterilirNisaMayıHaziraTemmuAğusto900.950.850.800.750.700.650.600.AntalyBursKayserAylak Dünya kaynaklarının sınırlı olduğunu ve yıllardır enerji üretmek için birincil 
+olarak kullanılan fosil kaynakların iklim değişikliğinden toprak kirliliğine kadar birço olumsuz etkisinin olduğunu biliyoruz. Tüm dünyada toplam karbondioksit salınımını %80’inin enerji üretimi ve tüketiminin bir sonucu olduğu göz önüne alındığınd, tüketim alışkanlıklarımızda yapacağımız enerji verimliliği uygulamaları ile 
+karbondioksit salınımının azalmasına ve yaşam kalitesinin artmasına katkı sağlamış 
+oluruz. Tasarruf yapmak için aşağıdaki yöntemlerden yararlanabiliriz• Kullanmadığınız odaların ışığını söndürün• Led ampul kullanın• Kullanmadığınız elektrikli cihazların fişini çekin• Bulaşık ve çamaşır makinesini kapasitesini aşmadan tam doldurun• Güneş enerjisi ve rüzgar enerjisinden yararlanınMatematik I3. BölüVeri, Sayma ve OlasılıSütun GrafiğVerilerin dikdörtgensel bölgeler ile gösterildiği grafiklere sütun grafiği denir. Sütu grafiğinde; sütun genişlikleri ve sütunlar arası boşluklar eşit olmalıdır. Sütun grafiğ kesikli veriler için kullanılırÖrnek:
+Aşağıdaki tabloda bir mağazada günlere göre yapılan satış sayısı verilmiştir. 
+Bu tablodaki verileri sütun grafiği ile gösterelimGünlePazartesSalÇarşambPerşembCumSatış SayısÇözüPazartesSalÇarşamba PerşembCumSatış SayısGünleDaire GrafiğVerilerin bir dairenin dilimleri şeklinde gösterilmesiyle oluşturulan grafiğe 
+daire grafiği denir. Daire grafiği oluşturulurken;
+1. Toplam veriler 360° olacak şekilde her bir veri oranlanır2. Bu oranlar her bir verinin gösterileceği daire diliminin merkez açısı olurMatematik I3. BölüVeri, Sayma ve OlasılıÖrnek:
+Bir manav tezgahındaki meyvelerin sayısı aşağıdaki tabloda gösterilmiştir. 
+Verilen tabloyu daire grafiği ile gösterelimMeyve TürlerElmPortakaAyvMandalinArmuMeyve SayılarÇözüToplam meyve sayısı 180 + 120 + 160 + 140 + 120 = 720 dirVerileri 360° lik açıyla orantılı olarak hesaplayalımBir verinin tüm veri toplamına bölünüp 360° ile çarpılması ile bu veriye ait merkez 
+açıyı buluruzElma 
+: 180  · 360° = 90° lik merkez açıya sahiptirPortakal 
+: 120  · 360° = 60° lik merkez açıya sahiptirAyva 
+: 
+·
+°
+80°
+=
+ lik merkez açıya sahiptirMandalina : 
+°
+°
+140  · 360° = 70° lik merkez açıya sahiptirArmut 
+: 
+°
+°
+120  · 360° = 60° lik merkez açıya sahiptirElm90°
+70°
+60°
+60°
+80°
+ArmuAyvMandalinPortakaMatematik I3. BölüVeri, Sayma ve OlasılıALIŞTIRMALA1- 
+YıllaSatış sayısYandaki grafikte 2010 - 2015 yılları arasındki A ve B markalarının araba satış 
+sayıları verilmiştirBuna göra) A ve B markalarının beş yıllık süreçtek satış sayılarını bulunuzb) Hangi yıllar arasında her iki markanı da satış sayısı artmıştır? 
+2- Yangın SebeplerYüzdeleDikkatsizlik - Kaz%Nedeni Bilinmeye%Kası%Yıldırı%Bir ülkedeki yangınların çıkma sebepleri 
+yandaki tabloda verilmiştir. 
+Bu verileri  daire grafiği ile gösteriniz3- 100 kişinin katıldığı bir ankette su tasarrufu yöntemlerinden en çok hangisini terci ettiklerinin yüzdeleri verilmiştirBu tablodaki verileri sütun grafiği ile gösterizl. Bulaşıkları elde değil makinede yıkama%ll. Diş fırçalarken, tıraş olurken suyu kapatma%lll. Sifonu gereksiz yere çekmeme%lV. Duş sürelerini azaltma%V. Bozuk muslukları tamir etme%Matematik I3. BölüVeri, Sayma ve Olasılı3. BÖLÜMÜN ÖZETBir araştırmada sonuca ulaşabilmek için gözlem, deney, araştırma, sayım, ölçüm 
+yoluyla elde edilen her bilgiye veri denir. Merkezi eğilim ölçüleri veri grubunu temsil 
+edebilen ve merkez noktasına en yakın değerdir. Aritmetik ortalama, medyan (ortanc) ve mod (tepe değer) merkezi eğilim ölçüleridirVeri grubunda bulunan sayıların toplamının gruptaki veri sayısına bölümüne 
+aritmetik ortalama denir ve X ile gösterilirAritmetik ortalama  = 
+ı Veri say Verilerin topla dırKüçükten büyüğe doğru sıralanmış bir veri grubunda tam ortada bulunan 
+sayıya medyan (ortanca) denir. Bir veri grubundaki veriler küçükten büyüğe doğru 
+sıralandığında en çok tekrar eden sayı mod (tepe değer) durVerilerin ortalamaya göre veya kendi aralarında nasıl bir dağılım gösterdiklerini 
+incelemek için merkezi yayılım ölçüleri kullanılır      En büyük değer, en küçük değer, açıklık ve standart sapma merkezi yayılım ölçüleridi. Verilerin en büyük değeri ile en küçük değeri arasındaki farka  açıklık (aralık - ranj)
+denirVeri sayısının arttığı durumlarda grafik oluşturmak zorlaştığından veriler gruplandırılı. Gruplandırılmış verilerle oluşturulan dikdörtgen şeklindeki sütunlara histogram 
+denir. 
+Sürekli verilerin yatay ve düşey eksendeki değerleri işaretlenerek bu noktaların düz 
+çizgilerle birleştirilmesi sonucu elde edilen grafik türüne çizgi grafiği denirVerilerin dikdörtgensel bölgeler ile gösterildiği grafik türüne sütun grafiği denir. 
+Sütun grafiğinde; sütun genişlikleri ve sütunlar arası boşluklar eşit olmalıdır. Sütun 
+grafiği kesikli veriler için kullanılır. 
+Verilerin bir dairenin dilimleri şeklinde gösterilerek oluşturulan grafik türüne daire 
+grafiği denirDaire grafiği oluşturulurken;
+1. Toplam veriler 360° olacak şekilde her bir veri oranlanır2. Bu oranlar her bir verinin gösterileceği daire diliminin merkez açısı olurMatematik I3. BölüVeri, Sayma ve Olasılı3. BÖLÜM ÖLÇME VE DEĞERLENDİRME SORULAR1- 
+PazartesSalı 
+ÇarşambPerşembCumCumartesPazaGünleTelefon sayısElektronik ürünler satan bir mağazad bir hafta boyunca satılan telefon 
+sayısı yandaki grafikte verilmiştir. 
+Buna göre mağazanın haftalık satış ortalaması aşağıdakilerden hangisidir?
+A) B) C) D) 2- Denizin 10 günlük tatilde okuduğu kitapların sayfa sayıları 20, 30, 15, 55, 40, 65, 70,
+50, 35, 25 şeklindedirBuna göre bu veri grubunun medyan (ortanca) değerini bulunuzA) B) 32, C) D) 37,3- 
+PuanlaMatematiFiziKimyBiyolojBedeYandaki tabloda Ali’nin bazı derslerinden 
+aldığı puanlar verilmiştir. 
+Ali’nin bu derslerden puan ortalaması aşağıdakilerden hangisidir?
+A) B) C) D) Matematik I3. BölüVeri, Sayma ve Olasılı4- 13, 14, 17, 15, Yukarıdaki değerler Ankara’da belli bir saatte ölçülen 5 günlük sıcaklık değerlerin°C türünden göstermektedirBuna göre bu veri grubunun standart sapması aşağıdakilerden hangisidir?
+A)
+B)
+C) D) 5- 
+1. 
+Ma2. 
+Ma3. 
+Ma4. 
+Ma5. 
+Ma6. 
+Ma7. 
+Ma8. 
+Ma9. 
+Ma10. 
+MaKereYukarıdaki tablo Kerem’in 10 maçta attığı basket sayılarını göstermektedir. 
+Bu veri grubunun açıklığını kaçtır?
+A) B) C) D) 6- Bir okuldaki erkek öğrencilerin boylarının ortalaması 172 cm kız öğrencileriniboylarının ortalaması 164 cm dirTüm öğrencilerin boylarının ortalaması 170 cm olduğuna göre kız öğrencilerisayısının erkek öğrencilerin sayısına oranı kaçtır?
+A) 1 
+B) 2 
+C) 2 
+D) 7- Bir çiftçinin, yetiştirdiği ürünlerden elde ettiği gelirin yüzdesi aşağıdaki daire grafiğind gösterilmiştir% Üzü% Domate% 10 Kayıs% 5 BibeGrafikle ilgili;
+l. En çok gelir üzüm üretiminden elde ediliyorll. Domates üretiminden elde edilen gelirin merkez açısı 90° 
+dirlll. Kayısı üretimi biber üretiminden daha fazladırbilgileri verilmektedirBuna göre yukarıdaki bilgilerin hangisi kesinlikle doğrudur?
+A) B) l - lC) ll - llD) l - llMatematik I3. BölüVeri, Sayma ve Olasılı8- Yeni doğmuş bir kedinin beş aylık süreçteki kilo artış miktarı tabloda gösterilmiştirMarNisaMayıHaziraTemmuGraYukarıdaki verilerin gösterimi için kullanılabilecek en uygun grafik aşağıdakilerde hangisidir?
+MarNisaMayıHaziraTemmuAylaGra1100 g800 g700 g400 g200 gMarNisaMayıHaziraTemmuAylaGraMarNisaMayıHaziraTemmuAylaGraB) 
+D) 
+A) 
+C) 
+9- 3, 5, 10, 8, 5, 4, 3, 2, 4, 4, 8, 5, 3, 4, Yukarıda verilen veri grubunun tepe değerini bulunuzA) B) C) D) Matematik I3. BölüVeri, Sayma ve Olasılı10- 
+YıllaTL(x1000)
+GeliGideYukarıdaki grafikte bir şirketin kâr - zarar durumu sütun grafiği ile verilmiştir4. yılın sonunda bu şirketin kâr - zarar durumunu hesaplayınızA) 100 bin TL kâB) 50 bin TL zaraC) Kâr ya da zarar edilmemiştiD) 100 bin TL zara11- 
+30-10-20-40-KişTBir grup öğrencinin haftalık toplu taşıma harcamaların ait histogram grafiği yanda verilmiştirVerilenlere göre aşağıdakilerden hangisi doğrudur?
+A) Grubun açıklığı 40 tırB) Grubun genişliği 19 durC) 20 - 29 TL arasında harcama yapanların sayısı tüm grubun yarısıdırD) Toplam kişi sayısı 500 dür

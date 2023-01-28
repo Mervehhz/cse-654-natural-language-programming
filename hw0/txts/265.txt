@@ -1,0 +1,400 @@
+olan Rolle, çağdaşları olan Newton (Nivton) ve Leibnitz’in 
+(Leyibnitz) sistematik olarak geliştirdikleri diferansiyel ve 
+integral hesap kuramının karşıtlarından ve en çok eleştirenlerde biri olmasına rağmen polinomların köklerini 
+araştırırken bulmuş olduğu ve günümüzde kendi ismi ile 
+anılan Rolle teoremi bu kuramın temel yapı taşlarından 
+biri olmuştur. Rolle aynı zamanda bir x sayısının n inci derecede kökünü temsil etmede kullandığımız 
+ sembolün ilk kullanan kişi olarak da bilinmektedir (Zill ve Warren, 2013) 
+Michel ROLLE (Mişel ROL) (1652 - 1719)
+G rsel 5 f =
+]  olduğuna göre 
+dd f 2 ] g  ifadesinin eşitini bulunuz&
+f ddf oludd f dbulunu$
+$
+$
+$
+=
+=
+=
+=-
+=
+=
+=-
+-
+=
+=
+-
+-
+-
+-
+l]
+]
+^ ]
+]
+]
+]
+]
+gf x =
+]  fonksiyonunun ikinci mertebeden türevini bulunuz&
+$
+$
+$
+=
+=
+-
+-
+bulunu$
+=
+=
+l]
+]
+&
+f olu$
+$
+=
+=
+=
+-
+]
+]
+x $
+=
+=
+f x =
+] ÖRNEÖRNEÇÖZÜÇÖZÜTürelif af =
+-
++
+-
+-
+-
+=
+"
+:
+:
+]
+]
+]
+olduğuna göre a değerini bulunuz.         
+a=
+-
++
+: l]  
+lif -
+-
+=
+"
+:
+]
+^
+olduğuna göre a değerini bulunuz. 
+f =
+^  fonksiyonunun grafiğine =-
+ 
+apsisli noktasında çizilen teğetinin eğimini 
+bulunuzf =
+]  olduğuna göre 
+dd f 2 ] g  ifadesinin 
+eşitini bulunuzf =
+]  olduğuna göre l]
+g değerini 
+bulunuzf =
+]  fonksiyonunun grafiğine hang noktasından çizilen teğetinin eğiminin 
+-
+ olduğunu bulunuzf =
+]  fonksiyonunun grafiğine =
+ 
+apsisli noktasında çizilen teğetinin eğimi, 
+başka bir =
+ apsisli noktasında çizilen 
+teğetinin eğimine eşit olduğuna göre a değerin bulunuzf a=
+]  fonksiyonunun grafiğine 
+=-
+ apsisli noktasında çizilen teğeti, 
+g a=
+]  fonksiyonunun grafiğine =
+ 
+apsisli noktasında çizilen teğetine parale olduğuna göre a nın pozitif değerini 
+bulunuzf =
+]  olduğuna göre 
+ddf ] g  ifadesini eşitini bulunuz. 
+f 2 3$
+=
+]  fonksiyonunun türevini bulunu.    
+                
+olduğuna göre lif +
+-
+"-
+]   ifadesinin 
+değerini bulunuz.                          
+=
++
+-
+=
+:
+:
+]
+] x (metre)
+t (saniye)
+x =
++
++
+] Yukarıda doğrusal olarak hareket eden bir 
+hareketliye ait konum-zaman grafiği verilmişti.Buna göre bu hareketlinia) İlk 3 saniyedeki ortalama hızının kaç    
+    m/sn. olduğunu bulunuzb) 2. saniyedeki anlık hızının kaç m/sn.  
+    olduğunu bulunuzDoğrusal olarak hareket eden bir hareketlini saat olarak zamana bağlı yer değişim km olarak f =
++
+-
+]  fonksiyonu 
+ile tanımlandığına göre bu hareketlinin 2. 
+saatteki anlık hızını (anlık değişim oranını) 
+bulunuz AlıştırmalaMatematik 5.2.2. Bir Fonksiyonun Bir Noktada ve Bir Aralıkta Türevlenebilirliğf fonksiyonunun =
+ noktasındaki sağdan ve soldan türevleri birbirine eşit ise f fonksiyonu 
+=
+ noktasında türevlenebilirdir&
+olu{
+=
+=
+=
++
+-
+^
+^
+]
+Bir f fonksiyonu 
+,
+a ^
+h ndaki her noktada türevlenebilir ise bu fonksiyon 
+,
+a ^
+h nda türevlenebilirdi{
+Yanda verilen f = ] g fonksiyonunun 
+grafiği incelenirse a ya soldan yaklaşırke eğriye çizilen teğetin d doğrusu ve 
+a ya sağdan yaklaşırken çizilen teğetin k 
+doğrusu olduğu görülürBu durumda d doğrusunun eğimi md  ve 
+k doğrusunun eğimi mk  olarak ifade edilis       
+ve =
+=
+-
++
+ 
+olurO hâlde f fonksiyonunun =
+ noktasında türevi yoktur. f fonksiyonunun =
+ noktasında sürekl olmasına rağmen bu noktada türevi yoktur. Bu tür f fonksiyonunun 
+,
+a f ^
+^ hh noktalarına fonksiyonn kırılma noktası denirf = ^ "
+,
+:
+f ve A i in f s rekli olmak zer!
+Yanda verilen 
+R - " , kümesinde tanımlı  f ] g fonksiyonn grafiği incelendiğinde tanımlı olduğu aralıktak
+=
+ apsisli noktası fonksiyonun kırılma noktas olduğundan fonksiyonun d noktasında türevi 
+yokturb ve =
+=
+ noktalarında süreksizdir. Bir 
+fonksiyonun bir noktadaki türevi fonksiyonun 
+grafiğine o noktasında çizilen teğetinin eğimine 
+eşit olduğundan fonksiyonun b ve c noktalarınd türevi yokturf = ^ UyarTüreYanda grafiği verilen gerçek sayılar kümesinde 
+tanımlı f ] g fonksiyonunun hangi x değerleri için 
+türevinin olmadığını bulunuz,
+,
+f fonksiyonu ve =
+=
+=
+-
+-
+:
+]  noktalarında sürekli olmadığından fonksiyon bu 
+noktalarda türevli değildir=
+:
+ apsisli noktası f fonksiyonunun kırılma noktası olduğundan fonksiyonun =
+ 
+     noktasında türevi yokturO hâlde f ] g fonksiyonu 
+,
+,
+ve =-
+=-
+=
+=
+ noktalarında türevli değildirYanda grafiği verilen 
+,
+R - -
+-
+"
+, kümesinde 
+tanımlı f ] g fonksiyonunun türevlenebilir olduğu 
+en geniş kümeyi bulunuzf = ^ f = ^ Bir fonksiyon herhangi bir =
+ noktasında sürekli değilse bu =
+ noktasında 
+      türevli de değildirBir fonksiyon türevli olduğu her noktasında süreklidirBir fonksiyonun kırılma noktalarında türevi yokturSONU,
+f fonksiyonu ve =-
+=-
+:
+]  noktalarında tanımlı değildir,
+f fonksiyonu =
+:
+]  noktasında sürekli olmadığından bu noktada türevli değildir. 
+=-
+:
+ apsisli noktası f fonksiyonunun kırılma noktası olduğundan fonksiyonun =-
+     noktasında türevi yokturO hâlde f ] g fonksiyonun türevlenebilir olduğu en geniş küme 
+,
+,
+,
+1 R - -
+-
+-
+"
+, olurÖRNEÖRNEÇÖZÜÇÖZÜMatematik ,
+f is$
+=
+,
+is] [
+\
+]]]]
+]]]]]
+biçiminde tanımlı f fonksiyonunun =
+]  noktasında varsa türevini bulunuz,
+,
+f is$
+=
+-
+is] *
+biçiminde tanımlı f fonksiyonunun =
+]  noktasında varsa türevini bulunuz=
+ noktası fonksiyonun kritik noktası olduğundan önce bu noktada süreklilik incelenirs               
+f ] g fonksiyonunun =
+ noktasında sağdan ve soldan limitleri farklı olduğundan fonksiyon 
+bu noktada sürekli değildir. f ] g fonksiyonu =
+ noktasında sürekli olmadığından bu noktada 
+türevli değildirlilif olu=
+=
+-
+-
+"
+"
++
++
+:
+]
+^
+lilif =
+"
+"
+-
+-
+:
+olu=
+] =
+ noktası fonksiyonun kritik noktası olduğundan önce bu noktada sürekliliği incelenirs               
+O hâlde f ] g fonksiyonu =
+ noktasında süreklidir. 
+lilif olu=
+=
+"
+"
++
++
+:
+] lilif olu=
+=
+"
+"
+-
+-
+:
+] -
+l^
+h değerini bulmak için f =
+]  seçilir+
+l^
+h değerini bulmak için f =
+]  seçilirf fonksiyonunun =
+ noktasındaki sağdan türevi ile soldan türevi birbirine eşit olmadığından f 
+fonksiyonunun =
+ noktasında türevi yoktur:
+:
+olu=
+:
+] &
+&
+olu=
+=
+-
+& =
+f =
+-
+]
+]
+]
+-
+&
+&
+f f &
+=
+=
+=-
+=-
++
+-
++
+olu]
+]
+ÖRNEÖRNEÇÖZÜÇÖZÜTüreSONU,
+,
+f isis$
+=
+-
+] *
+biçiminde tanımlı 
+,
+f fonksiyonunun ve =
+=-
+=
+]  noktalarındaki türevini araştırınız=
+ noktası f fonksiyonunun kritik noktası olduğundan önce bu noktada süreklilik incelenirsO hâlde f ] g fonksiyonu =
+ noktasında süreklidirlilif =
+"
+"
++
++
+:
+olu=
+] -
+lilif =
+"
+"
+-
+-
+:
+olu=
+]
+-
+li değerini bulmak için f =-
+]  seçilir&
+f =-
+=-
+-
+&
+olu=
+]
+]
++
+li değerini bulmak için f =
+]  seçilir&
+&
+f =
+=
++
+olu=
+]
+]
+O hâlde f fonksiyonu =
+ noktasında sürekli olup sağdan ve soldan türevleri de birbirine eşit 
+olduğundan fonksiyonun =
+ noktasında türevi vardır  ve bu noktadaki türevi 0 =
+l]  olurolu=
+:
+] :
+:

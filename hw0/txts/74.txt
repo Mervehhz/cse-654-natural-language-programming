@@ -1,0 +1,400 @@
+=
+=
+ olur (n tane farklı elemanın yan yana diziliş sayısıdır.),
+(
+)
+!
+!
+!
+!
+P $
+=
+-
+=
+-
+-
+=
+^
+^
+^
+ v,
+(
+)
+!
+!
+!
+!
+P $
+$
+$
+=
+-
+-
+-
+=
+-
+-
+=
+=
+-
+^
+^
+^
+^
+^
+ olur. Burada,
+,
+(
+)
+(
+)
+P P bulunu+
+=
++
+-
+=
+=
+=
+Bu değer 
+, ,
+(
+)
+(
+)
+P P n +
+ ifadesinde yerine yazılırs, ,
+(
+)
+(
+)
+!
+6 +
+=
++
+=
++
+=
+ değeri bulunur !
+ ve 
+,
+,
+(
+)
+(
+)
+P P +
+=
+ olduğuna göre 
+, ,
+(
+)
+(
+)
+P P n +
+ ifadesinin değerini bulunuzVeri, Sayma ve OlasılıVeri, Sayma ve Olasılı5 kişiden üçünün 3 kişilik bir sıraya farklı biçimde dizilmelerinin sayısı, 
+5, P^
+h ile bulunur5, (
+)
+(
+)!
+!
+!
+!
+=
+-
+=
+=
+=
+ olur. 4 kişiden ikisinin 2 kişilik bir sıraya farklı biçimde dizilmelerinin 
+sayısı, 
+,
+P 4 ^
+h ile bulunur. 
+4, (
+)
+(
+)!
+!
+!
+!
+=
+-
+=
+=
+=
+ olur. 
+Buradan bulunan bu iki değerin farkı 
+(5, (4, 2)
+)
+-
+=
+-
+=
+ olur1. yoToplam 7 harften oluşan HAREZMİ kelimesinin herhangi 4 harfinin farklı sıralanışlarının sayısı,
+7, (
+)
+(
+)!
+!
+!
+!
+!
+!
+7 6 5 4 $
+$
+$
+$
+=
+-
+=
+=
+=
+ olur2. yoVerilen koşula uygun farklı sıralanışların sayısını hesaplamak için yan yana 4 adet kutu çizilir1. kutuya yazılacak harf 7 harften herhangi biri olarak 7 farklı şekilde, 2. kutuya kalan 6 harften herhangi 
+biri 6 farklı şekilde, 3. kutuya kalan 5 harften herhangi biri 5 farklı şekilde, 4. kutuya kalan 4 harften herhang biri 4 farklı şekilde yazılır. 
+ 
+  Buna göre sonuç 7 6 5 $
+$
+$
+=
+ olur5 kişiden üçünün 3 kişilik bir sıraya farklı biçimde dizilmelerinin sayısı, 4 kişiden ikisinin 2 kişilik bir sıraya 
+farklı biçimde dizilmelerinin sayısından kaç fazladır?
+HAREZMİ kelimesinin harflerinden herhangi 4 ünün kaç farklı şekilde sıralanabileceğini bulunuzElemanları iki basamaklı, birbirinden farklı, en küçük 6 tane asal sayıdan oluşan bir A kümesinia) Üçlü permütasyonlarından kaçında 11 sayısının olmadığını bulunuzb) Üçlü permütasyonlarından kaçında 11 sayısının olduğunu bulunuza) Koşula uygun asal sayılar 11, 13, 17, 19, 23 ve 29 dur. Bu durumda A kümes    11, 13, 17, 19, 23, = "
+,  olarak yazılır. 11 sayısı üçlü permütasyonların içinde olamayacağında geriye 5 eleman kalır. Böylece çözüm, P(5, 3)
+5 4 =
+=
+$
+$
+ olurb) 11 sayısının bulunduğu üçlü permütasyonların sayısını hesaplamak için A kümesinin tüm üçlü 
+permütasyonlarının sayısından 11 sayısının bulunmadığı üçlü permütasyonların sayısı çıkarılır. 
+Böylece çözüm, 
+(6, 3)
+5, 3)
+(
+6 5 5 4 $
+$
+$
+$
+-
+=
+-
+=
+-
+=
+ olurVeri, Sayma ve OlasılıVeri, Sayma ve Olasılı8, , (
+)
+(
+)
+P $
+$
+=
+ denklemini sağlayan n pozitif tam sayısını bulunuz,
+,
+(
+)
+(
+)
+(
+)!
+!
+(
+)!
+!
+!
+!
+(
+)!
+(
+) (
+)!
+P 8 8 7 6 $
+$
+$
+$
+$
+$
+$
+=
+-
+-
+-
+-
+-
+(
+)
+7 3 $
+$
+$
+$
+$
+$
+$
+$
+$
+$
+=
+=
+=
+-
+(
+)
+ve olu15 $
+$
+=
+-
+=
+    1. !
++  olmak üzer        
+, ,
+,
+(
+)
+(
+)
+(
+)
+P P P +
++
+=
+ olduğuna 
+göre 
+,
+(
+)
+P n 3  ifadesinin değerini bulunuz.  
+    2.  Aralarında Ayşe ve Çınar’ın bulunduğu a kişili bir arkadaş grubu düz bir sırada yan yana 
+sıralanacaktır. Ayşe ve Çınar’ın arasında 
+yalnız bir kişinin bulunduğu sıralama sayısı 
+(
+)!
+$
+-
+ olduğuna göre a sayısının kaç 
+olduğunu bulunuz. 
+    3.  Aralarında Elif ve Ömer’in bulunduğu 6 kişilik 
+bir arkadaş grubu yan yana sıralanarak 
+fotoğraf çektirecektir. Elif ve Ömer’in arasınd herhangi birinin bulunmadığı kaç farklı 
+sıralama olduğunu bulunuz. 
+    
+    4.  5 farklı kırmızı, 3 farklı beyaz bilyenin başa 
+ve sona birer kırmızı bilye gelmesi ve beyaz 
+bilyelerin birbirinden ayrılmaması koşuluyla 
+yan yana kaç değişik biçimde sıralanabileceğin bulunuz. 
+    5. 54 210 sayısının rakamlarının yerleri değiştirilere 5 basamaklı kaç farklı tek sayı 
+yazılabileceğini bulunuz.  
+ 
+    6.  
+a, b, c, d, e, A = "
+,  kümesinin üçlü permütasyonlarını kaç tanesinde en az bir tane 
+sesli harf olduğunu bulunuz. 
+    7. “KİTAP” kelimesinin harflerinin yer değiştirilmesiyl elde edilen sıralanışlardan kaçının K 
+ile başladığını ve P ile bitmediğini bulunuz. 
+ALIŞTIRMALAVeri, Sayma ve OlasılıVeri, Sayma ve Olasılıİpucr =
++
++
++
++
+ olmak üzere n tane nesnenin1  tanesi özdeş (aynı büyüklük ve özellikte), n2  tanesi özdeş, ..., nr  tanesi özdeş ise bu n 
+tane nesnenin farklı permütasyonlarının sayısı n ! n ! n ! ... n !
+n!
+$
+$
+$
+$
+ ile bulunur10.1.1.3. Tekrarlı PermütasyoALA kelimesinin harflerinin yerleri değiştirilerek oluşturulabilecek farklı sıralanışları yazınızKoşula uygun sıralanışlar LAA, ALA ve AAL dir (Bu yazılışların her birinde A harflerinin birbiriyle yer değiştirilmesiyl farklı sıralanışlar yazılamayacağına dikkat ediniz.)KELEBEK kelimesinin harflerinin yerleri değiştirilerek elde edilebilecek 7 harfli kaç farklı sıralanış olduğun bulunuzKELEBEK kelimesinin harfleri içinde 2 tane K, 3 tane E, 1 tane L ve 1 tane B harfi vardır. Tekrarlı permütasyonları sayısını veren formül kullanılarak yazılabilecek 7 harfli sıralanış sayısı, 
+!
+!
+!
+!
+!
+!
+!
+!
+$
+$
+$
+$
+=
+=
+ olurÖzdeş nesneler olmasaydı n adet nesne n adet sıraya n! adet sıralanacaktı. n adet nesne için 
+n1  adedi aralarında özdeş, n2  adedi aralarında özdeş, ...,  nr  adedi aralarında özdeş olsun. İlk 
+gruptaki özdeş n1  adet nesnenin kendi aralarında yer değiştirmeleri 
+!
+n1 , ikinci gruptaki özdeş n2  
+adet nesnenin kendi aralarında yer değiştirmeleri n !
+2 , ..., özdeş nr  adet nesnenin kendi aralarınd yer değiştirmeleri 
+!
+nr  olmaktadır. Saymanın çarpma ilkesine göre tüm bu yer değiştirmeler 
+!
+!
+! !
+n$
+$
+$
+$
+ adet olur. Bu yer değiştirmeler sonucu değiştirmemektedir. Özdeş nesnelerin 
+yer değiştirmelerinin sayısı olan n! in 
+!
+!
+! !
+n$
+$
+$
+$
+ sayısına bölünmesi gerekmektedir.  
+Buradan 
+!
+!
+! !
+!
+$
+$
+$
+$
+ elde edilirVeri, Sayma ve OlasılıVeri, Sayma ve OlasılıToplam +
++
+=
+ bilyeden özdeş 5 mavi, özdeş 3 kırmızı ve özdeş 2 beyaz bilye olduğundan bu 
+bilyelerin tekrarlı permütasyonlarının sayısını veren formül kullanılarak yan yana sıralanmalarının sayısı, 
+!
+!
+!
+!
+$
+$
+=
+ olurELEK kelimesinden elde edilebilecek 3 harfli sıralanışların sayısı üç farklı durumda incelenir. 
+• E harflerinden biri kullanılmazsa kalan L, E, K harfleriyle !
+=
+,
+• L harfi kullanılmazsa kalan E, E, K harfleriyle 
+!
+!
+!
+$
+=
+=
+,
+• K harfi kullanılmazsa kalan E, L, E harfleriyle 
+!
+!
+!
+$
+=
+=
+ farklı sıralanış elde edilirBuradan yazılabilecek tüm sıralanışların sayısı, +
++
+=
+ olurÖzdeş 5 mavi, özdeş 3 kırmızı ve özdeş 2 beyaz bilyenin yan yana kaç farklı şekilde sıralanabileceğini 
+bulunuzELEK kelimesinin harflerinden herhangi 3 ünün kaç farklı şekilde sıralanabileceğini bulunuz6 adet eş birim kareden oluşan yukarıdaki beyaz şeklin herhangi dördünün kırmızı renge kaç farklı biçimd boyanabileceğini bulunuzKarelerden herhangi dördünün kırmızıya boyandığı durumlardan biri aşağıdaki gibidirKırmızıya boyanan bölgeleri K, beyaz bölgeleri B ile gösterecek olursak KBKKBK ifadesinin tekrarlı 
+permütasyonlarının sayısı kadar boyama gerçekleşir. Tekrarlı permütasyonların sayısını veren formül 
+kullanılarak çözüm 
+!
+!
+!
+$
+=
+ olurVeri, Sayma ve OlasılıVeri, Sayma ve Olasılıa) 22 005 sayısını oluşturan 5 rakam 
+!
+!
+!
+!

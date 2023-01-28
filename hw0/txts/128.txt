@@ -1,0 +1,400 @@
+ 
+a) 
+-
+b) 
+-
+c) 
+-
+ç)  d) 1. 
+2. 
+3. 
+C) Aşağıdaki açık uçlu soruların doğru 
+cevabını ilgili boşluklara yazınız3. 2 -
+-
+=
++
+ denkleminin birbirinden 
+farklı iki gerçek kökü olduğuna göre m nin en 
+büyük tam sayı değerini bulunuz4. +
+=
++
+ denkleminin gerçek sayılar 
+    kümesindeki çözüm kümesini bulunuz.  
+5. 
+olmak üzera!
+-
++
++
+=
+v2 +
+-
+-
++
+=
+]
+ denklemlerinin birer 
+kökü ortak olduğuna göre a gerçek sayısının 
+değerini bulunuz.    
+6. Bir ABC üçgeniyle ilgili aşağıdaki bilgiler veriliyo •  BC kenarına ait yükseklik bu kenarın uzunluğunda 2 birim fazladır •   BC kenarının uzunluğu 2 kat artırılır ve bu 
+kenara ait yükseklik 3 birim azaltılırsa elde 
+edilen yeni üçgenin alanı ABC üçgeninin 
+alanından 6 birimkare fazladırBu bilgilere göre ABC üçgeninin alanının kaç birimkar olduğunu bulunuz. 
+İkinci Dereceden Denklemleİkinci Dereceden Denklemle7 -9. soruları aşağıda verilen bilgilere göre 
+cevaplandırınıza, b, , !
+!
+ olmak üzere ab2 +
++
+=
+ 
+denkleminin kökleri ve 2  dir. Bu kökler ve 
+denklemle ilgili aşağıdaki bilgiler veriliyor• 
++
+=
+• 
++
+= -
+• 
+a=
+-
+7. +
+^
+^
+h  işleminin sonucunu bulunuz. 
+8. -
+2  işleminin sonucunu bulunuz. 
+9.  (
+)
+ olmak üzere -
+-
+-
++
+^
+^
+ 
+     işleminin sonucunu bulunuz. 
+D) Aşağıdaki çoktan seçmeli soruların 
+doğru seçeneğini işaretleyiniz10. Aşağıda ikinci dereceden denklemler 
+ve bu denklemlere ait gerçek 
+sayılardaki çözüm kümeleri verilmiştir.                                                                                                                                     
+      I.   
+,
+is2 2 -
+-
+=
+= -
+"
+,
+            II.  
+,
+is1 2 -
+-
+=
+= "
+,
+            III. is2 -
++
+=
+= " ,
+Yukarıdaki ifadelerden hangisi ya da hangileri 
+doğrudur?
+A) Yalnız I          B) Yalnız II          C) I ve II                        
+                  D) I ve III               E) l, II ve II11. ab2 +
++
+=
+ ikinci dereceden denkleminde 
+ I.  
+ ise denklemin sanal iki kökü 
+vardırII.  ise denklemin sanal iki kökü 
+vardırIII. ve >
+ ise denklemin 
+gerçek iki kökü vardırYukarıdaki ifadelerden hangileri daima doğrudu?
+A) Yalnız I             B) Yalnız II           C) I ve III                         
+                    D) I ve II               E) II ve II 
+  
+12. 
+,
+,
+,
+,
+1 1 2 3 = -
+"
+,  kümesi veriliyor. !
+  
+olmak üzere 
+,a !
+ için  a2 +
++
+=
+ 
+şeklinde yazılabilecek denklemlerden kaç 
+tanesinin gerçek kökü yoktur?
+A) 8        B) 10       C) 12        D) 14      E) İkinci Dereceden Denklemleİkinci Dereceden Denklemle13.  a, b, !
+ olmak üzere a2 -
++
+=
+ 
+denkleminin bir kökü 1 ve b2 +
++
+=
+ 
+denkleminin bir kökü 
+-  olduğuna göre 
+4 -
+ ifadesinin değeri kaçtır?
+A) 6        B) 3        C) 2        D) 0        E) 
+-
+14. =
+-
++
+-
+ olduğuna göre z karmaşık 
+sayısının eşleniği aşağıdakilerden hangisidir?
+A) 
+- +
+            B) 
++
+            C) 
+-
+                     
+                     D) 
+- -
+          E) 
+- -
+15. 2 -
++
+=
+ denkleminin köklerinden biri 
+aşağıdakilerden hangisidir?
+A) 
+1 +             B) 
+- -             C) 
+- -
+                     
+                D) 
+3 +                E) 16. 2 2 = - +
+ denkleminin köklerinden biri 
+aşağıdakilerden hangisidir?
+A) 
+-
+-        B) 
+-
+-
+^
+h        C) 
++                     
+                  D) 
+-        E) 
+-
+^
+h   
+17.  ve !
+!
+ olmak üzere 
+m -
++
+-
++
++
+=
+]
+]
+ 
+denkleminin gerçek kökleri ve x dir. 
+=
++
+ ise x1 $
+ değeri aşağıdakilerde hangisidir?
+A) 3       B) 1      C) 
+-      D) 
+-       E) 
+-
+18. 2 -
++
+-
+=
+ denkleminin eşit 
+iki  kökü olduğuna göre a gerçek sayısının 
+değeri kaçtır?
+A) 4         B) 6       C) 8        D) 12       E) İkinci Dereceden Denklemle19.  !
+ olmak üzer2 -
++
+-
++
+=
+]
+ denkleminin 
+gerçek kökleri v dir. 1 +
+= -
+ 
+olduğuna göre bu köklerden biri aşağıdakilerde hangisidir?
+A) 
+-        B) 0         C) 1          D) 4        E) 20. İkinci dereceden bir bilinmeyenli bir denklemi kökleri ve x olmak üzer I. 
+,
+!
+ II. =
++
+ III. $
+$
++
+= -
+^
+^
+     koşullarını sağlayan ikinci dereceden bir  
+     bilinmeyenli bir denklem aşağıdakilerden 
+     hangisidir?
+A) 2 -
+-
+=
+      B) 2 +
++
+=
+                           
+C) 2 -
++
+=
+      D) 
+-
++
++
+=
+                            
+E) 
+-
++
+-
+=
+21. Aşağıda denklemler ve bu denklemlerin köklei verilmiştir I.  =
+-
++  denkleminin kökü x1  dir II. 
+-
+=
++
+]
+]
+g  denkleminin kökü x2   
+     dir III. a, !
+ olmak üzere 
+      2 -
+-
++
+=
+]
+ denkleminin kök 
+      leri  v dirVerilen bilgilere göre +
+ ifadesinin değeri 
+aşağıdakilerden hangisidir?
+A) 55        B) 30       C) 25       D) 20       E) 22.  v birer gerçek sayı olmak üzere 
+1 +
+-
+=
+ ve 1 -
++
+=
+ eşitlikleri 
+veriliyor. Buna göre kökleri v olan 
+ikinci dereceden bir bilinmeyenli bir denklem 
+aşağıdakilerden hangisidir?
+A) 2 -
+-
+=
+       B) 2 +
+-
+=
+            
+C) 2 +
++
+=
+       D) 2 -
++
+=
+                            
+E) 2 -
+-
+=
+23.  2 -
+-
+=
+ denkleminin kökleri 
+ve x olmak üzere kökleri v 
+olan ikinci dereceden bir bilinmeyenli denkle aşağıdakilerden hangisidir?
+A) -
+=
+-
+      B) 2 +
+=
++
+                           
+C) -
+=
++
+      D) 2 +
+-
+=
+                            
+E) =
+-
++
+24. 
+-
++
+-
+=
+ denkleminin kökleri 
+volmak üzere x+
+^
+^
+h  ifadesini değeri kaçtır?
+A) 
+-
+      B) 0       C) 32      D) 64     E)      
+DEĞERLENDİRMCevaplarınızı cevap anahtarı ile karşılaştırını. Yanlış cevap verdiğiniz ya da cevap 
+verirken tereddüt ettiğiniz sorularla ilgili 
+konuları veya faaliyetleri geri dönerek tekrarlayını. Cevaplarınızın tümü doğru ise bir 
+sonraki öğrenme faaliyetine geçinizGEOMETRDÖRTGENLER VE ÇOKGENLEDörtgenler ve Çokgenle10.5.1. Çokgenle10.5.2. Dörtgenler ve Özellikler10.5.3. Özel DörtgenleDörtgenler ve ÇokgenleDörtgenler ve ÇokgenleHazırlık Çalışmas1. 
+1 1 2 1 3 1 Yukarıdaki kare ve dikdörtgenlerden aşağıda verilen kurallara göre bir kare oluşturunuz• Bu parçaların her biri en az bir kere kullanılacaktır• Oluşturulan karenin alanı en küçük olacaktır         Buna göre en az kaç parça kullanılabileceğini bulunuz2. 
+Yukarıdaki özdeş 6 kibrit çöpünün tamamı kullanılarak kaç farklı düzgün çokgen oluşturulabileceğin bulunuz3En yakın iki nokta arası uzaklığın 1 birim 
+olduğu izometrik kağıt üzerindeki A, B, C,              
+ D ve E noktaları işaretleniyor. Buna göra) Köşeleri A, C, E ve B olan dörtgeni 
+oluşturunuz 
+b)  Köşeleri B, D, E olan üçgeni oluşturunu 
+c)  Köşeleri A, C, E ve B olan dörtgenin 
+çevresinin uzunluğunun köşeleri B, D, 
+E olan üçgenin çevresinin uzunluğuna 
+oranını bulunuz. 
+Dörtgenler ve ÇokgenleDörtgenler ve Çokgenleİlk çağlarda Nil Nehri’nin belirli aralıklarla taşması sonucu tarlaların su altında kalıp sınırlarının silinmesi 
+nedeniyle Mısırlılar, tarlalarının sınırlarını belirlemede sorunlar yaşıyorlardı. Tarlaların yüz ölçümünün 
+hesaplanması ile bu sorunun ortadan kaldırılması için yeni bir bilim dalı olan geometrinin ortaya çıkmasını 
+sağlayan ölçümlere başlandı. 
+Tarihe bakıldığında geometrinin birçok bilim dalıyla ilişkili olduğu ve diğer bilim dallarına katkı sağladığı 
+tartışmasızdır. Geometri, ortaya çıktığı zamandan beri medeniyetin bulunduğu noktadan daha ileri 
+seviyelere taşınmasında diğer bilimlerle beraber pay sahibi olmuştur. 
+Günümüze bakılacak olunursa 15 Temmuz Şehitler Abidesi'nde milletin darbe teşebbüsü karşısındortaya koyduğu birlik, beraberlik ve kenetlenmeye bir atıf olan, çubuk elemanlardan oluşan kubbeyoluşturan kollar; bütünüyle kâinatı ve sonsuzluğu sembolize eden kubbe geometriye dayalıdır. Ayrıca 
+77  milyon metrekarelik alanı ile dünyanın en büyük havalimanlarından biri olacak olan İstanbul üçüncü 
+havalimanının elverişli şekilde kullanılmasını sağlayacak mimari, geometri bilimine dayalıdır. Bu projeye 
+bakıldığında birçok geometrik şekli görmek mümkündür. 
+   Terimler ve Kavramla• 
+Çokgen 
+• 
+Düzgün Çokge• 
+KöşegeÇokgen kavramını açıklayarak işlemler yapmayı öğreneceksiniz10.5. DÖRTGENLER VE ÇOKGENLE10.5.1. ÇokgenleDörtgenler ve ÇokgenleDörtgenler ve ÇokgenleAşağıda verilen çokgenlerin köşelerini ve kenarlarını yazınız. Çokgenlerin herhangi bir köşesine ait iç ve 
+dış açılarını şekil üzerinde gösteriniza) 
+                                        b)                  
+Şekilde ABC açısı B köşesine ait iç açıdır. C, B ve F noktalar doğrusal olduğundan ABF açısı B köşesine ait dış 
+açıdırŞekilde A, E, F noktaları doğrusal olup AED açısı E köşesin ait iç açı, DEF açısı E köşesine ait dış açıdır. Aynı 
+köşeye ait olan iç ve dış açının ölçüleri toplamı 180c dira) Şekilde A, B, C, D noktaları çokgenin köşeleri; 
+,
+,
+ADCve B?
+?
+?
+? çokgenin kenarlarıdırb) Şekilde A, B, C, D, E çokgenin köşeleri; 
+,
+,
+,
+AEDCve B?
+?
+?
+?
+? çokgenin kenarlarıdır:
+:
+10.5.1.1. Çokgen ve Çokgende Açı KavramBilgve $

@@ -1,0 +1,400 @@
+ fonksiyonu için 
+(
+)( )
+fo=
+ olduğuna göre m değeri kaçtır?
+       A) 
+-        B) 
+-        C) 1       D) 3       E) 14. 
+"
+"
+,
+:
+:
+R  olmak üzere 
+( )
+f =
++  ve fo=
+-
+^
+^ fonksiyonlar tanımlanıyor. 
+( )
+g x  fonksiyonu aşağıdakilerde hangisidir?
+      A) -
+        B) -           C) -
+         
+               D) -
+              E) +
+15. 
+"
+:
+( )
+f R,
+=
++
+ olmak üzere 
+( )
+-
+ 
+fonksiyonunun ( )
+f x  türünden eşiti aşağıdakilerde hangisidir?
+       A) ( )
+f -
+   B) 
+( )
+f +
+    C) ( )
+f -
+         
+ 
+ 
+       D) 
+( )
+( )
+f f +
+         E) ( )
+f +
+16. 
+,
+,
+1, 0 , 1, 2 , 3, 0, 5 , 1, 3 , 3, v2 =
+-
+-
+=
+^
+^
+^
+^
+^
+^
+^
+"
+"
+,
+,
+ 
+veriliyor. Buna göre (
+)( )
+(
+)( )
++
++
+-
+ 
+ifadesinin değeri kaçtır?
+  A) 0         B) 1         C) 2          D) 3         E) 17. f, g ve h gerçek sayılar kümesinde tanıml bire bir ve örten fonksiyonlar ve 
+(
+)
+(
+)
+(
+)
+g h -
+=
++
+=
+-
+-
+ olmak 
+üzere (
+)( )
+(
+)( )
+foo+
+-
+ değeri kaçtır?
+       A) 
+-        B) 
+-          C) 3       D) 5       E) 18. 
+    
+Yukarıdaki şekilde verilen ( )
+f x  fonksiyonunun 
+grafiğine gör(
+)
+(
+)( )
+( )
+(
+)
+fo-
++
++
+-
+-
+-
+ ifadesinin 
+değeri kaçtır?
+       A) 
+-       B) 0         C) 1      D) 1         E) 19. Gerçek sayılar kümesinde tanımlı f fonksiyou, ( )
+f =
++
+ biçiminde tanımlanmıştır 
+(
+)
+!
+ (
+)( )
+fo=
++
+ olduğuna göre a nın 
+değeri kaçtır?
+      A) 2         B) 3         C) 5         D) 8         E) 20. f fonksiyonu, 
+,
+,
+( )
+isf is#
++
++
+= )
+ 
+biçiminde tanımlanmıştır. 
+( )
+f =
+ olduğuna göre k  değeri kaçtır?
+        A) 1        B) 2         C) 3           D) 4         E) DEĞERLENDİRMCevaplarınızı cevap anahtarı ile karşılaştırını. Yanlış cevap verdiğiniz ya da cevap 
+verirken tereddüt ettiğiniz sorularla ilgili 
+konuları veya faaliyetleri geri dönerek tekrarlayını. Cevaplarınızın tümü doğru ise bir 
+sonraki öğrenme faaliyetine geçinizA) Aşağıdaki açık uçlu soruların doğru cevabın bulunuz 
+1.  Gerçek sayılar kümesinde tanımlı f ve g fonksiyolarından f sabit fonksiyon, g birim fonksiyodur. ( )
+( )
+f g a$
++
+=
+-
++
+ olduğuna 
+göre ( )
+( )
++
+ değerini bulunuz.         
+2.  
+"
+:
+, ( )
+f doğrusal fonksiyondur. 
+(
+)
+(
+)
+f f -
++
++
+=
+-
+ olduğuna göre 
+( )
+f 3  değerini bulunuz.      
+3.  Gerçek sayılar kümesinde tanımlı f ve g fonksiyoları için (
+)( )
+-
+=
++
+, 
+     (
+)( )
++
+=
+-
+ olduğuna göre 
+( )
+( )
+$
++
+ değerini bulunuz.  
+4. 
+Yukarıda grafiği verilen ( )
+f x  fonksiyonunun 
+tanım ve görüntü kümelerinin kesişimindeki 
+tam sayıların toplamını bulunuz.  
+5. Gerçek sayılar kümesi üzerinde bir f fonksiyonu, 
+f : “Her bir gerçek sayıyı kendisinden büyük 
+veya eşit en küçük tam sayıya götürüyor.” 
+biçiminde tanımlanıyor. Buna göre 
+(
+)
+(
+)
+(
+)
+$
+-
+-
+ değerini bulunuz.  
+ 
+ 
+ 6. 
+,
+, 0, 1,
+= -
+-
+"
+,  olmak üzere 
+"
+:
+A  
+fonksiyonu bire birdir. 
+Buna göre 
+(
+)
+( )
+( )
+-
++
++
+@
+ toplamının 
+alabileceği en büyük değeri bulunuz. 
+7. Gerçek sayılar kümesi üzerinde f ve g fonksiyoları ( )
+( )
+f ve g =
++
+=
++
+      biçiminde tanımlanıyor      (
+)
+(
+)
+f -
+=
+ eşitliğini sağlayan x değerini 
+bulunuz.  
+ 
+8. f fonksiyonu tanımlı olduğu kümede bire bir ve 
+örten bir fonksiyondur. 
+( )
+f m=
+-
++
+ olmak üzere f nin tersi kendisin eşit olduğuna göre m değerini bulunuz.  
+ÖLÇME VE DEĞERLENDİRM( )
+f  9. 
+  
+    
+     Yukarıda grafiği verilen f ve g fonksiyonları 
+için ( )
+( )
+f g $
+-
+=
+ denklemini sağlayan x 
+gerçek sayılarının toplamını bulunuz.  
+10 - 13. soruları aşağıda verilen bilgilere 
+göre cevaplandırınızBilgi: Su içerisindeki bir cismin, su yüzeyine olan 
+uzaklığının su yüzeyinden bakıldığında cismin 
+görünen uzaklığına oranı 4  tür. Su içerisinden 
+bakıldığında ise durum tam tersidir. Örneğin 4 
+metre derinlikteki bir cisme su yüzeyinden bakıldığınd cisim 3 metre derinlikte görülür. 3 metre 
+derinlikten su yüzeyindeki bir cisme bakıldığında 
+ise cisim 4 metre uzaklıkta görülür10. x metre derinlikte bulunan bir cismin su yüzeyinde bakıldığında derinliğini veren x e bağlı 
+eşleştirme kuralını yazınız11. 8 metre derinlikte bulunan bir cismin su 
+yüzeyinden bakıldığında kaç metre derinlikte 
+görüleceğini bulunuz12. x metre derinlikte bulunan biri, su yüzeyindek bir cisme bakmaktadır. Bu kişinin cismi 
+gördüğü uzaklığı veren x e bağlı eşleştirme 
+kuralını yazınız13. 12 metre derinlikteki bir dalgıcın su yüzeyind yüzen arkadaşını kaç metre uzaklıkta 
+göreceğini bulunuzB) Aşağıdaki çoktan seçmeli soruların 
+doğru seçeneğini işaretleyiniz14.  Sabit hızlarla hareket eden iki otomobilin 
+hızları toplamı saatte 80 km dir. Aralarınd 160 km mesafe bulunan bu otomobiller 
+birbirine doğru doğrusal bir yol boyunca aynı 
+anda harekete başlıyor. Bu otomobiller karşılaştıkta sonra doğrultularını değiştirmeden 
+hızlarını yarıya düşürerek 3 saat daha yol 
+alıyor. 
+      Buna göre bu otomobillerin arasındaki mesafey, geçen zamana bağlı olarak gösteren 
+grafik aşağıdakilerden hangisidir?
+A)   
+       
+B)   
+ 
+        
+C)   
+     
+D)   
+     
+   
+E)   
+15. 
+Yukarıdaki grafikte verilen ( )
+f x  
+fonksiyonunun  tanım kümesi A, görüntü 
+kümesi B olmak üzere bu kümeler 
+aşağıdakilerden hangisinde doğru olarak 
+verilmiştir?
+                 
+           
+    
+    A)         
+,
+,
+(
+)
+(
+)
+2 3 -
+-
+    B)         
+, 3)
+(0,
+(
+)
+-
+    C)         
+,
+,
+(
+(
+)
+2 3 -
+-
+@
+    D)         
+,
+,
+(
+)
+2 2 -
+-
+@
+    E)         
+,
+,
+(
+)
+-
+-
+@
+16. 
+Yukarıda 
+(
+)
+f =
++
+ fonksiyonunun grafiği 
+verilmiştir. f bire bir örten fonksiyon olduğuna 
+göre ( )
+( )
+( )
++
++
+-
+ işleminin sonucu 
+kaçtır?
+      A) 
+-        B) 3        C) 5         D) 6        E) 17. f gerçek sayılar kümesinde tanımlı bir doğrsal fonksiyondur. ( )
+( )
+ve =
+=
+-
+ 
+olduğuna göre (
+)( )
+fo0  değeri kaçtır?
+       A) 3        B) 5         C) 9        D) 16        E) 18. 
+"
+:
+R+ , ( )
+f 3=
++  olmak üzere 
+(
+)
+-
+ değeri kaçtır?
+      A) 0       B) 1          C) 2          D) 3         E) 19. f ve g bire bir ve örten fonksiyon olmak üzere 

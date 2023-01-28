@@ -1,0 +1,400 @@
+  dönüşümü yapılırs"
+"
+&
+0                     (x a ya yaklaşıyor ise h 0 a yaklaşır.)
+&
+-
+=
+=
++
+ olur. 
+Bu durumda f fonksiyonunun =
+ noktasındaki türev 
+ 
+lim -
+=
++
+"
+l]
+]
+]
+biçiminde de ifade edilebilir:
+,
+f "
+=
+]   fonksiyonunun =
+ noktasındaki türevinin değerini türev tanımını kullanarak 
+bulunuzolu=
+=
+lililif =
+-
+-
+-
+-
+=
+"
+"
+"
+-
+-
+-
+-
+:
+:
+:
+:
+l]
+]
+lililif =
+-
+-
+-
+-
+=
+"
+"
+"
++
++
++
++
+:
+:
+:
+:
+olu=
+=
+l]
+]
+&
+bulunu=
+=
+=
+-
++
+^
+f fonksiyonu =
+ noktasında süreklidir. f fonksiyonunun bu  noktada soldan ve sağdan türevler incelenirslilililibulunu5 $
+$
+$
+=
++
+-
+=
++
+-
+=
++
++
+-
+=
++
+=
+"
+"
+"
+"
+l]
+]
+]
+]
+]
+"
+:
+,
+f =
+]   fonksiyonunun =
+ noktasındaki türevinin değerini bulunuzÖRNEÖRNEÇÖZÜÇÖZÜMatematik Bir f ] g fonksiyonunun =
+ noktasındaki türevi 
+ 
+ 
+li=
++
+-
+"
+l]
+]
+]
+olduğundan herhangi bir x noktasındaki türev 
+ 
+lif f =
++
+-
+"
+l]
+]
+]
+limiti ile bulunur. Burada 
+veyddf dd=
+=
+]
+]
+]
+  olarak gösterilebilir. 
+dd  ifadesine türev operatörü denirve "
+|
+ olmak üzer                               
+isf =
+=
+]
+]
+  olurlilililif f bulunuf c ve f =
++
+-
+=
+-
+=
+=
+=
++
+=
+=
+"
+"
+"
+"
+l]
+]
+]
+^ ]
+]
+&
+f =
+^ f =
+^ Türev Alma Kurallarf ve g =
+=
+]
+^
+ fonksiyonlarının türevini türev tanımını kullanarak bulunuzÖRNEx+
++
+lilililig x xbulunu$
+$
+=
++
+-
+=
++
+-
+=
++
++
++
+-
+=
+=
+"
+"
+"
+"
+l]
+]
+]
+]
+lilililif f bulunu=
++
+-
+=
+-
+=
+=
+=
+"
+"
+"
+"
+l]
+]
+]
+ÇÖZÜ:
+:
+Türeve  olmak üzer                                 
+isoluf a a n $
+$
+$
+=
+=
+-
+]
+]
+a $
+-
+-
+lilililililif f a a n tan$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+=
++
+-
+=
++
+-
+=
++
+=
++
+=
++
+-
++
++
++
++
++
++
++
+=
++
++
++
++
++
++
++
+=
++
++
++
++
+=
++
++
++
++
+=
+"
+"
+"
+"
+"
+"
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+l]
+]
+^
+^
+^
+^
+_^
+]
+_^
+^
+^
+^
+^
+4444444444444444444 4444444444444444444&
+f a $
+=
+^ f ab=
+-
++
++
++
+]  fonksiyonunun her x noktasındaki türevi sıfır olduğuna göre a ve b 
+değerlerini bulunuzf ve g =
+=-
+]
+^
+  fonksiyonlarının türevini bulunuzf fonksiyonunun her x noktasındaki türevi sıfır olduğundan f fonksiyonu sabit fonksiyon olmalıdır. 
+Bu durumdf ve ve bulunu&
+&
+=
+-
++
++
++
+-
+=
++
+=
+=
+=-
+]
+]
+]
+1 2 444 1 2 444 ÖRNEÖRNEÇÖZÜözdeşliği ve türev tanımı kullanılarak a n $
+$
+=
+-
+l]  eşitliği elde edilir-
+x $
+$
+$
+=
+-
++
++
++
++
++
+-
+-
+-
+-
+-
+^
+hMatematik f 5 &
+$
+=
+=
+-
+:
+:
+bulunu=
+]
+]
+bulunu=-
+g g 2 &
+$
+=-
+=-
+-
+:
+:
+]
+]
+f =
+]  ve 
+=
+]   fonksiyonlarının türevini bulunuzbulunu$
+=
+=
+:
+f &
+$
+=
+=
+=
+-
+-
+:
+:
+]

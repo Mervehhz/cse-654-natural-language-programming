@@ -1,0 +1,400 @@
+h ve 
+,
+B 6 ^
+h noktalarında kese çemberin standart denklemini bulunuz,
+A 5 ^
+h, 
+,
+B 0 ^
+h ve 
+,
+O 0 ^
+h noktalarındn geçen çemberin standart denklemini 
+bulunuzYukarıdaki şekilde merkezi 
+,
+1 -
+^
+h olan 
+çember  +
++
+=
+ doğrusuna H noktasnda teğettir. Bu çemberin standart denklemin bulunuz,
++
+-
+-
++
+=
+ denklemi bir 
+çember belirtir mi? Çember belirtiyorsa merkezni ve yarıçap uzunluğunu bulunuz+
++
+-
++
+=
+ 
+denklemi bir çember belirtir mi? Çember belirtiyors merkezini ve yarıçap uzunluğunu 
+bulunuzGenel denklemi +
+-
++
++
+=
+ 
+olan  çemberin yarıçap uzunluğu 2 =
+ 
+birim olduğuna göre k değerini bulunuzk -
++
+-
+-
++
++
+=
+]
+]
+ 
+denklemi bir çember denklemi olduğuna 
+göre bu çemberin merkezini ve yarıçap 
+uzunluğunu bulunuzMerkezi 
+,
+M -
+^
+h ve yarıçap uzunluğu 
+=
+ birim olan çemberin standart denklemii bulunuzMerkezi 
+,
+4 -
+^
+h ve yarıçap uzunluğu 
+=
+ birim olan çember üzerindeki bir nokt 
+,
+^
+h olduğuna göre k değerini bulunuMerkezi 
+,
+-
+-
+^
+h ve yarıçap uzunluğu 
+=
+ birim olan çemberin y eksenini 
+kestiği noktaların koordinatlarını bulunuzMerkezi 
+,
+M -
+^
+h olan ve 
+,
+-
+-
+^
+h noktasndan geçen çemberin standart denklemii bulunuz,
+,
+ve 3 -
+^
+^
+h olmak üzere A? nı 
+çap kabul eden çemberin standart denklemii bulunuz AlıştırmalaAnalitik Geometr7.1.2. Denklemleri Verilen Doğru ile Çemberin Birbirine 
+Göre Durumlar{ Doğru ile çemberin birbirine göre durumları, çemberin merkezinin doğruya olan 
+      uzaklığına göre değerlendirilir. Herhangi bir d doğrusu ile merkezi M ve yarıçap       
+     uzunluğu r olan çemberin birbirine göre üç durumu vardır          I.   
+   
+          II. 
+ 
+   
+          III{ Genel denklemi DE+
++
++
++
+=
+ olan çember ile m=
++
+ doğru-
+      sunun ortak çözümü yapılarak doğru ile çemberin birbirine göre durumları incelenir.  
+      Çember denkleminde y yerine m+
+ yazılarak ab2 +
++
+=
+ biçiminde ikinci  
+      dereceden bir denklem elde edilir. Bu denklemin diskriminantı 
+aD =
+-
+ olmak  
+      üzerMH  ise doğru çemberi iki noktada 
+keserMH =
+ ise doğru çembere teğettirMH  ise doğru çemberi kesmez.IIIaD =
+-
+ ise elde edilen denklemin kökü yoktur. Bu durumda doğru çemberi 
+kesmezaD =
+-
+=
+ ise elde edilen denklemin çift katlı kökü vardır. Bu durumda doğr çembere teğettir. Denklemin kökü, doğrunun çembere teğet olduğu noktanın apsisidiaD =
+-
+ ise elde edilen denklemin farklı iki kökü  vardır. Bu durumda doğru 
+çemberi iki noktada keser. Denklemin kökleri, doğru ile çemberin kesim noktalarının 
+apsisleridirMatematik ÖRNEÖRNEDenklemi =
++
+ olan doğru ile +
+-
++
+-
+=
+ çemberinin birbirine göre 
+durumunu belirleyiniz+
+-
++
+-
+=
+ çember denkleminde 
+,
+ve = -
+=
+=-
+ olup çemberimerkezi 
+ 
+ 
+ 
+                       yarıçap uzunluğ,
+,
+,
+=
+-
+=
+-
+-
+-
+-
+-
+^
+]
+                      
+birim bulunu1 $
+=
++
+-
+=
++
++
+=
+=
+Çemberin merkezinin =
++
+ doğrusuna olan uzaklığı d birim olsun=
++
+ doğrusunun denklemi -
++
+=
+ şeklinde yazılarak 
+,
+M -
+^
+h noktasının 
+-
++
+=
+ doğrusuna olan uzaklığı 
+1 5 $
+$
+=
++ -
+-
+-
++
+=
+=
+]
+]
+ birim bulunurd  olduğundan doğru çemberi iki noktada kesmektedir. 
+dogrusu ile +
++
+=
++
++
+-
++
+=
+{
+ çemberinin birbirine göre durumunu 
+belirleyiniz+
++
+-
++
+=
+ çemberinin merkez       
+,
+,
+2 -
+- -
+=
+-
+]
+^
+gh 
+yarıçap uzunluğ       
+birim olu4 $
+=
++
+-
+=
+ 
+,
+2 -
+^
+h noktasının +
++
+=
+ doğrusuna olan uzaklığı d birim olsun       
+birim bulunu3 $
+$
+=
++
+-
++
++
+=
+=
+]
+ 
+d =
+ olduğundan doğru çembere teğettirÇÖZÜÇÖZÜAnalitik GeometrÖRNEÖRNEDenklemi =
+-  olan doğru ile +
++
++
+-
+=
+ çemberinin varsa kesim noktaların bulunuz+
++
++
+-
+=
+ çember denkleminde y yerine -  yazılırs+
+-
+=
++
+-
+=
+denklemi elde edili+
+-
++
++
+-
+-
+=
++
+-
++
++
++
+-
+-
+=
+]
+]
+,
+ve =
+=
+=-
+ olur. 
+a4 $
+$
+=
+-
+=
+-
+-
+=
+]
+ olduğundan doğru 
+çemberi iki noktada kesmektedir. 
+&
+&
+veya bulunu$
++
+-
+=
++
+-
+=
+=
+=-
+]
+]
+ 
+Bu değerler kesim noktalarının apsisleri olup ordinatları is&
+=-
+=-
+-
+=-
+          
+&
+=
+=
+-
+bulunu=
+ 
+O hâlde çember ile doğrunun kesim noktaları 
+,
+,
+volu1 -
+-
+^
+^
+dogrusu ile +
++
+=
++
++
+-
++
+=
+{
+ çemberinin birbirine göre durumunu 
+belirleyiniz+
++
+-
++
+=
+ çemberinin merkezi 
+       
+,
+,
+2 -
+- -
+=
+-
+]
+^
+gh 
+yarıçap uzunluğ       
+birim olu4 $
+=
++
+-
+=
+ 
+,
+2 -
+^
+h noktasının +
++
+=
+ doğrusuna olan uzaklığı d birim olsun       
+birim bulunu3 $
+$
+=
++
+-
++
++
+=
+=
+]
+ 
+ve =
+=
+ olduğundan  olur. Bu durumda doğru çemberi kesmezÇÖZÜÇÖZÜMatematik ÖRNEÖRNEdogrusu +
++
+=
++
+-
++
++
+=
+{
+ çemberini kesmediğine göre m nin 

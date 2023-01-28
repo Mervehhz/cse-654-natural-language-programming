@@ -1,0 +1,400 @@
+= -
+]
+]
+Bulunan T ve Ç değeri T2 -
++
+=
+ denkleminde yerine yazılırs&
+$
+-
++ -
+=
+-
+-
+=
+]
+ ikinci dereceden bir bilinmeyenli denklemi elde edilirKöklerinden biri  +
+ olan rasyonel katsayılı ikinci dereceden bir bilinmeyenli denklemi bulunuzİkinci dereceden rasyonel katsayılı bir denklemin köklerinden biri +
+ ise diğer kökü -
+ tür. 
+Buradan 
+,
+1 $
+$
+=
++
+=
++
++
+-
+=
+=
+=
++
+-
+=
+-
+=
+^
+^
+^
+^
+ değerleri 
+T2 -
++
+=
+ denkleminde yerine yazılırsa 2 -
++
+=
+ ikinci dereceden bir bilinmeyenli denklemi 
+elde edilirİpuc, b,
+ve !
+!
+ olmak üzere ab2 +
++
+=
+ denkleminin 
+,
+m !
+ için bir kökü  
++
+ ise diğer kökü -
+ dir. 
+İkinci Dereceden Denklemleİkinci Dereceden Denklemle2 -
++
+=
+ denkleminin kökleri v olduğuna göre kökleri ve  olan ikinci dereceden 
+bir bilinmeyenli denklemi yazınız2 -
++
+=
+ denkleminin kökleri v olmak üzere istenilen denklemin kökleri ve  dir. 
+Buradan bu denklemin kökler toplamı   
++
+$
+=
++
+=
+^ h, 
+kökler çarpımı  
+I$
+$
+=
+=
+^ h bulunur. 
+2 -
++
+=
+ denkleminde ve 1 $
++
+= -
+= - -
+=
+=
+=
+]
+ olur. Bu değerler 
+(I) ve (II) numaralı  denklemlerde yerlerine yazılırsa 
++
+$
+=
+=
+=
+  ve 
+1 $
+=
+=
+=
+ elde 
+edilir. Buradan T ve Ç değerleri T2 -
++
+=
+ denkleminde yerine yazılırsa  2 -
++
+=
+ ikinci derecede bir bilinmeyenli denklemi elde edilirm2 -
++
+=
+ denkleminin kökleri m2 +
++
+=
+ denkleminin köklerinden üçer fazla  olduğuna 
+göre m gerçek sayısının değerini bulunuzm2 -
++
+=
+ denkleminin kökleri v olursa m2 +
++
+=
+ denkleminin kökleri, 
+v-
+-
+^
+^
+h olur. m2 -
++
+=
+ denkleminde kökler toplamı 1 +
+=
+=
+-
+=
+-
+- ]
+,
+m2 +
++
+=
+ denkleminde kökler toplamı 1 -
++
+-
+= -
+= -
+= -
+^
+^
+ olur. Buradave olu&
+&
+&
+&
+-
++
+-
+= -
++
+-
+= -
+-
+= -
+=
+=
+=
++
+^
+^
+444 2 -
++
+=
+ denkleminin kökleri v olduğuna göre kökleri v1 -
+-  olan ikinci derecede bir bilinmeyenli denklemi bulunuz2 -
++
+=
+ denkleminin kökleri v olmak üzere istenilen denklemde kökler toplamı 
+$
+=
+-
++
+-
+=
++
+-
+^
+^
+h, 
+kökler çarpımı 
+I$
+$
+$
+=
+-
+-
+=
+-
++
++
+^
+^
+^
+^
+h bulunur. 
+2 -
++
+=
+ denkleminde ve 1 $
++
+=
+=
+-
+=
+=
+=
+=
+-
+- ]
+ olur. Bu değerler 
+(I) ve (II) numaralı  denklemlerde yerlerine yazılırsa 2 $
+$
+=
++
+-
+=
+-
+=
+-
+=
+^
+44444 ,
+4 2 $
+$
+$
+$
+$
+=
+-
++
++
+=
+-
++
+=
+-
++
+=
+]
+]
+4444 4444  elde edilir. Buradan T ve Ç değerleri 
+T2 -
++
+=
+ denkleminde yerine yazılırsa 2 -
++
+=
+ ikinci dereceden bir bilinmeyenli denklemi 
+elde edilirİkinci Dereceden Denklemleİkinci Dereceden Denklemle1. 2 -
+-
+=
+  denkleminin kökleri    
+    v olduğuna göre 
+a) x1 +
+ ifadesinin değerini bulunuz. 
+b) x1 $
+ ifadesinin değerini bulunuz. 
+c) 1 +
+ ifadesinin değerini bulunuz.      
+2. 2 -
++
+-
+=
+ denkleminin kökleri 
+ve dir +
+=
+ olduğuna göre m 
+gerçek sayısının değerini bulunuz. 
+3. -
++
++
+-
++
+-
+=
+]
+]
+ ikinci 
+dereceden bir bilinmeyenli denkleminin kökleri 
+ve 2  olduğuna göre 1 +
+ ifadesinin 
+değerini bulunuz. 
+4. ab2 +
++
+=
+ denkleminin kökleri v 
+olmak üzerI.  ,
+a !
+ 
+II. 1 +
+=
+III. 1 $
+= -
+olduğuna göre a $
+ ifadesinin değerini bulunu. 
+ 
+5. a 2 -
++
+-
+=
+]
+ denkleminin kökleri 
+v dir. x= ]
+g  olduğuna göre a gerçe sayısının değerini bulunuz. 
+6. 2 -
+=
++
+ denkleminin kökleri v 
+olduğuna göre 
+x1 +
+ ifadesinin değerini 
+bulunuz. 
+7. 
+,
+m!
+-
++
+=
+ denkleminin kökleri 
+vdi$
+$
++
+=
+ olduğuna göre 
+m gerçek sayısının değerini bulunuz. 
+8. 2 -
+-
++
+=
+ denkleminin kökleri 
+ve 2  olmak üzere 1 -
+= -  olduğuna 
+göre a gerçek sayısının değerini bulunuz. 
+9. Kökleri 
+v-
+ olan ikinci dereceden bir bilinmeyenl denklemi bulunuz. 
+10. Köklerinden biri -
+ olan rasyonel katsayıl ikinci dereceden bir bilinmeyenli denklemi 
+      bulunuz11. 2 -
+-
+=
+ denkleminin kökleri ve 2  
+dir. Kökleri v+
++
+]
+]
+g olan ikinci 
+dereceden bir bilinmeyenli denklemi bulunuzALIŞTIRMALAİkinci Dereceden Denklemleİkinci Dereceden DenklemleÖLÇME VE DEĞERLENDİRMA) Aşağıdaki cümlelerde boş bırakılan 
+yerlere doğru ifadeyi yazınız1. 
+, ,
+ve a b !
+!
+ olmak üzere 
+ab2 +
++
+=
+ denkleminde,
+   a) 
+a=
+-
+ ise bu denklemin  
+     ...................   kökü vardır 
+   b) 
+a3=
+-
+=
+ ise bu denklemin 
+     ...................... vardırc) 
+a=
+-
+ denkleminin gerçek sayılardak çözüm kümesi ...................... dir. 
+                   
+                                                   
+B) Aşağıda verilen ifadelerle harflerle 
+verilen formülleri eşleştirip eşleşenler alttaki kutulara yazınız2. 
+a, b,
+v!
+!
+ olmak üzere 
+ab2 +
++
+=
+ denkleminin gerçek sayı köklei v  is1. +
+      
+2. x1 $
+ 
+3. 1 $
++

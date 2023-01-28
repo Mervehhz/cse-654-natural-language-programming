@@ -1,0 +1,400 @@
+-
+^
+^
+^
+1 2 444 444 #
+#
+&
+&
+ddddolu=
+=
+=
+Verilen integralde 3 =
+ dönüşümü yapılırs&
+&
+olu=-
+=-
+=
+=
+Yapılan dönüşüme göre sınırlar değiştirilirsmm&
++
+=
+=-
++
+m olu=-
++
+& ^ ÖRNEÇÖZÜİntegraÖZELLİK ÖZELLİK 6.2.3. Belirli İntegralin Özelliklerf ^ h fonksiyonun integrali F ^ h ve g ^ h fonksiyonunun integrali G ^ h olsun,
+a @ nda integrallenebilir f ve g fonksiyonları için belirli integralin aşağıdaki özellikleri vardırBelirli integralde alt ve üst sınırlar eşit ise belirli integralin değeri sıfırdır.              
+ÖrneğiÖrneğiBelirli integralde alt ve üst sınırlar yer değiştirirse belirli integral işaret değiştirir.              
+  olmak üzere 
+f x d^ #
+ integrali aşağıdaki gibi iki integralin toplamı olarak 
+ifade edilebilirf x d=
+] #
+f x dF F F =
+=
+-
+=
+]
+^
+^
+^
+#
+f x df x d=-
+]
+]
+#
+#
++
+dolu=
+#
+f x dF F F F F f x df x d=
+=
+-
+=-
+-
+=-
+]
+^
+^
+^
+^ ^
+^
+]
+]
+h4444444 #
+#
+#
+ddx olu-
+=-
+-
+]
+]
+#
+#
+f x df x df x d=
++
+]
+]
+]
+#
+#
+#
+f x dF F F F f x df x dF F f x df x d=
+-
+=
+-
++
+-
+=
++
+]
+^
+^
+^
+^
+]
+]
+^
+^
+^
+^
+444444 444444 #
+#
+#
+#
+#
+ÖZELLİK Matematik ÖZELLİK ÖZELLİK ÖrneğiÖrneğiÖrneğiBir fonksiyonun bir sabitle çarpımının belirli integrali, fonksiyonun belirli integralinin sabitl çarpımına eşittir.               
+-
+-
+-
+dddx olu$
+$
+=
+=
+#
+#
+#
+İki fonksiyonun toplamının ya da farkının belirli integrali, belirli integrallerin toplamına ya 
+da farkına eşit olur vb. biçimde ifade edilebilir-
+-
+-
+-
+-
+-
+dddx veyddd=
++
+=
++
+#
+#
+#
+#
+#
+#
+k f x df x d$
+$
+=
+]
+]
+#
+#
+k f x dk F k F k F F F f x df x d$
+$
+$
+$
+$
+$
+=
+=
+-
+=
+-
+=
+]
+^
+^
+^
+^
+^ ^
+^
+]
+]
+hh4444444 #
+#
+#
+f g df x dg x d-
+=
+-
+]
+]
+]
+]
+@
+#
+#
+#
+f g df x dg x d+
+=
++
+]
+]
+]
+]
+@
+#
+#
+#
+d=
++
+=
++
+f g dF G F G F G F F G G f x dg f x dg x d+
+=
++
+=
++
+-
++
+-
+-
+]
+]
+^
+^
+^
+^
+^
+^
+^
+^
+^
+]
+^ ^
+^
+]
+]
+]
+hh@
+444444 4444444 #
+#
+#
+#
+#
+d=
+-
+=
+-
+f g dF G F G F G F F G G f x dg f x dx d-
+=
+-
+=
+-
+-
+-
+-
+-
+]
+]
+^
+^
+^
+^
+^
+^
+^
+^
+^
+^
+^
+]
+^
+^
+]
+]
+]
+hhh@
+444444 44444444 #
+#
+#
+#
+#
++
+-
+dx dx dx dolu=
++
+-
+#
+#
+#
+#
+İntegraf $
+-
+d=
+^ #
+ olduğuna göre 
+6 $
+d-
+^ #
+ ifadesinin değerini bulunuza-
++
+dd+
++
++
+^]
+#
+#
+ ifadesinin değerini bulunuz3 $
++
++
+aa-
++
+-
++
++
+aa-
++
++
++
++
++
++
++
++
++
+3 $
++
++
+dddddbulunu+
++
++
+=
++
+=
+=
+=
+=
+=
+-
+=
+-
+^]
+`
+]
+#
+#
+#
+#
+#
+ 
+ddd+
++
++
++
++
+]
+]
+]
+#
+#
+#
+ ifadesinin değerini bulunuz+
++
++
+ddddbulunu+
++
++
++
++
+=
++
+=
+=
+-
+=
+-
+=
+]
+]
+]
+]
+#
+#
+#
+#
+ÖRNEÖRNEÖRNEÇÖZÜÇÖZÜÇÖZÜbulunu2 $
+=-
+=
+f x df x df x df x d2 $
+$
+$
+$
+$
+$
+=-
+=-
+=-
+-
+-
+-
+-
+-
+^
+^
+^
+^
+4444444 #
+#
+#
+#
+Matematik -
++
+dd+
++
+^
+`
+#
+#
+ ifadesinin değerini bulunuz+
+-
++

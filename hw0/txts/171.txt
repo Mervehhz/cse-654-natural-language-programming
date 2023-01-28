@@ -1,0 +1,400 @@
+= -
+]
+ olur41. Örnek 
+Buna görcos(-α) = cossin(-α) = -sintan(-α) = -tancot(-α) = -cotα 
+Herhangi bir açının trigonometrik değeri dar açı cinsinden yazılırke180° (π) veya 360°(2π) kullanılırsa trigonometrik fonksiyon isim değiştirmez,
+90° l veya 270° 
+l kullanılırsa trigonometrik fonksiyon isim değiştirirSonuç                   
+olursin135° + cos315° - tan225° ifadesinin değerini bulunuzÇözüsin(180° - 45°) +  cos(360° - 45°) - tan(180° + 45°) = sin45° + cos45° - tan45°
+ 
+ 
+ 
+ 
+ 
+ 
+    
+=
++
+-
+=
+-
+ olur42. Örnek 
+ 
+°
+taco°  ifadesinin değerini bulunuzSıra Sizdcotaco+
+ ifadesinin değerini bulunuzÇözücocococo=
+-
+=
+-
+=-
+ değeri, verilen ifadede yerine yazıldığındcotacoolu-
+=
+-
+-
+=
+=
+ 
+43. Örnek 
+(
+)
+(
+)
+cotasisi°
+°
+°
+°
+-
+-
+@
+ ifadesinin değerini bulunuzÇözüsin2240° + cos2240° = 1 olduğundan 1 - sin2240° = cos2240°
+cos240° = cos(180° + 60°) = -cos60° = 
+-
+sin790° = sin70° = cos20°
+tan1665° = tan225° = tan(180° + 45°) = tan45° = 1 olurcos(-1460°) = cos340° = cos(360° - 20°) = cos20° değerleri, verilen ifadede yerlerine 
+yazıldığındcotacosiolu°
+°
+°
+°
+=
+-
+=
+44. Örnek 
+T θ ∈ 
+, l olmak üzere cosθ =
+-
+ verildiğine göre 
+�� sico�
+�
+�
++
+-
+]
+lçarpımını 
+bulunuzÇözüα bir dar açı olsun. θ üçüncü bölgede olduğundaθ = π + α olarak yazılır. Buradacosθ = cos(π + α) = -cosα ⇒ cosθ = -cosα =
+-
+                                                   ⇒ cosα = sin(π + θ) = sin(2π + α) = sincococotaolu�
+�
+�
+�
+�
+�
+�
+-
+=
+-
++
+=
+-
+-
+= -
+b l(
+)
+m AB��
+=
+\
+ olacak şekilde ABC üçgeni çizilir. 
+Pisagor teoremi uygulandığında |AC| = 
+2 6  olursitavolu2 2 =
+=
+��
+sicositaolu2 2 �
+�
+�
+�
+�
++
+-
+=
+-
+=
+-
+= -
+]
+]
+^
+46. Örnek 
+θ ∈ 
+,
+π l olmak üzere sinθ = 3  verildiğine göre cos2θ + tan2θ toplamını bulunuzÇözü1. Yoα bir dar açı olsun. θ ikinci bölgede olduğundaθ = 180° - α olarak yazılır. Buradan 
+sinθ = sin(180° - α) ⇒ sinθ = sinα = cosθ = cos(180° - α) = -costanθ = tan(180° - α) = -tanα olur(
+)
+m AB��
+=
+\
+ olacak şekilde ABC dik üçgeni çizilir. 
+Pisagor teoremi uygulandığında |BC| = 
+5  olurBuna gör 
+�
+�
+cotacotacotavoluolu�
+�
+�
+�
+=
+=
++
+=
++
+=
++
+=
+ 
+2. Yocos2θ + sin2θ = 1 olduğundan cos2θ + 4  = 1 ⇒ cos2θ = 5  olur. 
+tacosi=
+=
+=
+ olur. Buradacotaolu+
+=
++
+=
+45. Örnek 
+523sin110° = x olduğuna göre sin20° + cos290° toplamının x cinsinden değerini bulunuzÇözüsin110° = sin(90° + 20°) = cos20° = x 
+cos290° = cos(270° + 20°) = sin20° olur. Buradasin20° + cos290° = sin20° + sin20° = 2sin20° olurcos20° = x  olacak şekilde yandaki gibi bir dik üçgen 
+çizildiğinde si°
+=
+-
+olur. Buradan 
+sin20° + cos290° = 2sin20° = 
+2 -
+ olur47. Örnek 
+20°
+-
+Yandaki ABC ikizkenar üçgeninde [BC] yedi eş 
+parçaya ayrılıyor. 
+[BC] üzerinde BB=
+ ve BB=
+ 
+olacak şekilde D ve E noktaları veriliyor. 
+(
+)
+m AD=
+\
+, 
+(
+)
+m CE=
+\
+,  lABl = lACl ve 
+tanx + tany = -8 olduğuna göre 
+(
+)
+cot AB\  
+değerini bulunuzÇözüABC ikizkenar üçgen olduğundan çizilen AH 
+yüksekliği BC tabanını iki eş parçaya böler lECl = 2k olsun. Bu durumd lHEl = 5k, lDHl = 3k olur(
+)
+(
+)
+m DAa ve m HAb olsu=
+=
+\
+\
+ 
+(
+)
+tatacoa ve b oluA°
+°
+°
+=
++
+=
++
++
+= -
+= -
+=
+(
+°
+)
+tatacoA+
+=-
+=-
+=
+  olur. Burada 
+&
+tataAAAA+
+=-
+-
+=-
++
+=
+ olur. Burada&
+A8 =
+ lAHl = 15k olurABH dik üçgeninde 
+&
+(
+)
+(
+)
+cocoABABABolu=
+=
+=
+\
+\
+48. Örnek 
+a 15222222⟔
+T Yandaki ABC dik üçgeninde [AB]⊥[AC], 
+[ED]⊥[BC], lBDl = 5 birim, lACl = 12 birim  ve 
+(
+)
+(
+)
+A ADEA BD=
+&
+ olduğuna göre cotx değerini 
+bulunuz. 
+ÇözüA.A. benzerliğinden EDAC+
+&
+&  olduğu görülür(
+)
+(
+)
+A BCA BD=
+&
+&
+ olur. 
+Benzer iki üçgenin alanlarının oranı bu iki üçgenin 
+benzerlik oranının karesine eşit olduğundabenzerlik oranı =
+ olur&
+&
+ADDD=
+=
+=
+ birim olurBED dik üçgeninde Pisagor teoremi uygulandığında |BE| = 3 ve cot=
+ olurx + y = 180° ⇒ x = 180° - y olur. Eşitliğin her iki tarafının kotanjantı alındığınd(
+°
+)
+cocococoolu&
+-
+= -
+= -
+=
+49. Örnek 
+Benzer iki üçgenin alanlarının oranı bu iki üçgenin benzerlik oranının karesine eşittirHatırlatmYandaki şekilde ABCD bir yamuktur. [DC] ∕∕ [AB], 
+|AD| = 24 birim, lDCl = 4 birim, lCBl = 7 birim, 
+lABl = 29 birim ve 
+(
+)
+m AD=
+\
+ olduğuna göre 
+tanx değerini bulunuzÇözüAD kenarına paralel olacak şekilde CE doğru parças çizildiğinde AECD dörtgeni paralelkenar olur. 
+Buradan |AD| = |EC| = 24 birim olur 7-24-25 özel dik üçgeninden 
+(
+)
+m EC90°
+=
+\
+ olur(
+)
+m BA=
+\
+ olsun. [DA] ∕∕ [CE] olduğundan 
+(
+)
+m BE=
+\
+ olur&
+(
+°
+)
+tatatatataa oluolu°
+°
+&
++
+=
+=
+-
+=
+-
+= -
+=
+= -
+50. Örnek 
+90°-8Birimkarelerden oluşan yandaki şekilde x ve y açıları 
+veriliyor. tanx + coty değerini bulunuz. 
+Çözü(
+)
+m BC=
+\
+ olsun. Buradax = 90 + tanx = tan(90 + a) = -cota = 
+-
+ = -2 olur(
+)
+m ED=
+\
+ olsun. Buraday = 90 + coty = cot(90 + b) = -tanb = 
+-
+olurtanx + coty = 
+-
++ -
+= -
+ olur51. Örnek 
+cosα = x olmak üzer(
+)
+(
+)
+cosisita-
++
++
++
+-
++
+l işleminin sonucunu x cinsinden 
+bulunuzÇözü�
+�
+�
+��
+(
+)
+(
+)
+cocosisicosisitacoolarak bulunu�
+�
+�
+�
+�
+-
+=
++
+=
++
+= -
+-
+= -
++
+= -
+Bulunan değerle(
+)
+(
+)
+(
+)
+(
+)
+cosisita-
++
++
++
+-
++
+ ifadesinde yerine yazıldığınd(
+)
+cocosicosisicocox olu-
+-
+-
+=
+=
+=
+52. Örnek 
+T Trigonometrik Fonksiyonların Açı Değerlerine Göre Sıralanmas1. Verilen açılar birim çemberin hangi bölgesinde olursa olsun bu açıların trigonometrik değeri 
+dar açı cinsinden ifade edilir2. Verilen açıların trigonometrik değerleri arasında büyüklük-küçüklük ilişkisinin belirlenebilmesi 
+için trigonometrik değerler dikey eksenlere (sinüs, tanjant) veya yatay eksenlere (kosinüs, kotanjan) taşınır1. bölgedeki açıların büyüklükleri arttıkça sinüs değerleri artar, kosinüs değerleri azalır. 
+1. bölgedeki bir açının tanjant değeri sinüs değerinden daima büyüktürSonuç                   
+a = cos64°, b = tan51°, c = cot64° açı değerlerini büyükten küçüğe doğru sıralayınızÇözücos64° = sin26°, cot64° = tan26° trigonometrik değerler birim çember yardımıyla bulunduğundan şekildek gibi tan51° > tan26° > sin26° olur. Buradan  
+b > c > a olur53. Örnek 
+sin26°
+tan26°
+tan51°
+26°
+51°
+⟔⟔

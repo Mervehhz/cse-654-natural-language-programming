@@ -1,0 +1,400 @@
+-
+=
+-
+=
+-
+=
+-
+^
+ bulunur.   
+3=
+ olduğundan +
+=
+-
+ denkleminin eşit iki kökü vardır2olu1 =
+!
+!
+= -
+= - -
+=
+^
+İkinci Dereceden Denklemleİkinci Dereceden DenklemleYürüme engeli olan Fatih, Fethiye’de düzenlenen bir doğa yürüyüşüne tekerlekli 
+sandalyesiyle katılmıştır. 
+• Doğa yürüyüşü 2 parkurdan oluşmaktadır. 1. parkur 9 km, 2. parkur ise 
+10 km uzunluğundadır• Fatih, iki parkuru toplam 5 saatte tamamlamıştır• Fatih’in 2. parkuru geçme hızı, 1. parkuru geçme hızından 2 km/sa. daha 
+fazladırVerilen bu bilgilere göra) Fatih’in 1. parkurdaki ortalama hızı x km/sa. olsun. Bu durumda 2. parkurdaki ortalama hızı  
++
+^
+h kaç km/sa. olur. Fatih’in 1. parkuru ve 2. parkuru geçerken kullandığı toplam süre 
+›
+zamah yo=
+ formülü yardımıyla yazılır ve toplanırsa +
++
+=
+ denklemi elde edilir. Buradan 
+ 
+=
+denklemi elde edili-
+-
+=
++
++
+=
++
++
++
++
++
++
++
+=
++
+=
++
+^
+^
+   
+-
+2 -
+-
+=
+ ise 
+$
++
+-
+=
+^
+^
+ dır. Buradan 
+ise veyise olu+
+=
+= -
+-
+=
+=
+                                      
+  Fatih’in hızı negatif olamayacağından 1. parkurdaki ortalama hızı 3 km/sa. olur          b) 
+Toplam s rToplam yoort =
+ formülü yardımıyla Fatih’in iki parkur boyunca ortalama hızı 
+              
+,
+3 +
+=
+=
+ km/sa. olur.                                                          
+!
+ olmak üzere 
+-
++
+=
+-
+ denkleminin farklı iki gerçek kökü olduğuna göre m nin değer aralığın bulunuz-
++
+=
+-
+ denklemi 
+-
++
+-
++
+=
+ olarak düzenlenirse katsayıları,
+,
+ve = -
+=
+= -
++
+ olur. İkinci dereceden bir bilinmeyenli bir denklemin farklı iki gerçek sayı 
+kökü varsa 
+ olmalıdır. 
+Buradan 
+a=
+-
+ ise 
+m olu$
+$
+-
+-
+-
++
+-
++
+^
+^
+^
+            
+Dolayısıyla m nin değer aralığı 
+,-
+^
+h olarak bulunura) Fatih’in 1. parkurdaki ortalama hızının kaç km/sa. olduğunu bulunuzb) Fatih’in bu iki parkur boyunca ortalama hızının kaç km/sa. olduğunu bulunuzİkinci Dereceden Denklemleİkinci Dereceden Denklemle!
+ olmak üzere m-
+= -
++
+ denkleminin çakışık iki kökü olduğuna göre m nin alabileceği 
+değerleri bulunuzm-
+= -
++
+ denklemi m&
++
+-
++
+=
++
+-
++
+=
+^
+  olarak düzenlenirse katsayılar; 1, 3 ve =
+=
+-
+=
+ olur. 
+İkinci dereceden bir bilinmeyenli bir denklemin çakışık iki kökü varsa   
+3=
+ olmalıdır. 
+Buradan 
+a3=
+-
+=
+ ise 
+-
+-
+olu&
+$
+$
+$
+-
+-
+=
+-
++
+-
+=
+-
++
+=
+-
+-
+=
+^
+^
+^
+^
+^
+            
+                                            
+                                                  
+$
+-
+-
+=
+^
+^
+ denkleminde 
+ise veya ise olu-
+=
+=
+-
+=
+=
+                                                                                              
+Güzelyalı Mahallesi sakinleri, sokak hayvanlarının içebilmes için mahallelerinden geçen doğrusal bir yolun 
+kaldırımına eşit aralıklarla noktalar belirleyip daha sonra 
+bu noktalara su kapları koymuştur. Art arda belirlenen iki 
+nokta arası mesafe, toplam kap sayısına eşit ve baştaki 
+ile sondaki nokta arası uzaklık 110 metre olduğuna göre 
+koyulan toplam kap sayısını bulunuzKoyulan toplam kap sayısına x denilirse art arda belirlenen iki nokta arası mesafe de x olur. Toplam kap 
+sayısı x ise toplam aralık sayısı -  dir. Buradan $
+-
+=
+^
+ denklemi elde edilir. Bu denklem 
+aşağıdaki gibi çözülürse       
+  
+-
+oluBuradan veya olu&
+&
+&
+$
+-
+-
+=
+-
++
+=
+-
+=
+=
++
+=
+= -
+^
+^
+Kap sayısı negatif olamayacağından toplam kap sayısı 11 dirİkinci Dereceden Denklemleİkinci Dereceden DenklemleMatematik öğretmeni üç arkadaş Taner Bey, Gülsen Hanım ve Hüseyin Bey Ankara’da “Matematik Hatıra 
+Ormanı” oluşturmaya karar veriyorlar ve temin ettikleri fidanları pazar günü dikiyorlar. Bu arkadaşlar günü sonunda dönüş yolunda arkadaşları Emrah Bey  ile karşılaşıyorlar. Emrah Bey dikilen fidanlarla ilgili 
+sorular soruyor ve aşağıdaki bilgileri elde ediyor• Taner Bey’in diktiği fidan sayısı, Hüseyin Bey’in diktiği fidan sayısının 2 katından 10 eksiktir• Gülsen Hanım’ın  diktiği fidan sayısı, Taner Bey’in diktiği fidan sayısının yarısından 20 fazladır• Hüseyin Bey’in diktiği fidan sayısının 75 katı, Taner Bey ile Gülsen Hanım’ın  diktikleri fidan sayılarınn çarpımına eşittir. 
+Emrah Bey’in elde ettiği bilgilere göra) Toplam kaç fidan dikildiğini bulunuz. 
+b) Dikilen fidanlardan rastgele biri seçildiğinde, seçilen fidanın Gülsen Hanım’ın diktiği fidanlardan 
+biri olma olasılığını bulunuzHüseyin Bey’in diktiği fidan sayısı x  olursTaner Bey’in diktiği fidan sayısı -
+,
+Gülsen Hanım’ın diktiği fidan sayısı 
+-
++
+=
++
+ olurHüseyin Bey’in diktiği fidan sayısının 75 katı, Taner Bey ile Gülsen Hanım’ın  diktikleri fidan sayılarıın çarpımına eşit olduğundan 
+$
+=
+-
++
+^
+^
+h  olur. Bu denklem düzenlenirse 
+2 -
+-
+=
+ olduğu görülür.  &
+$
+-
+-
+=
++
+-
+=
+^
+^
+ olur. Buradan 
+veya =
+= -
+ bulunur. Dikilen fidan sayısı negatif olamayacağından =
+ olura)  =
+ için  
+Hüseyin Bey’in diktiği fidan sayısı  =
+,
+Taner Bey’in diktiği fidan sayısı -
+=
+-
+=
+,
+Gülsen Hanım’ın diktiği fidan sayısı +
+=
++
+=
+ olurBuradan dikilen toplam fidan sayısı +
++
+=
+ bulunurb)  
+İstenen olayın eleman sayısÖrnek uzayın eleman sayısOlas›l›k =
+olmak üzere dikilen toplam fidan sayısı (örnek uzayın 
+eleman sayısı) 125, Gülsen Hanım’ın diktiği fidan sayısı (istenen olayın eleman sayısı) 45 olduğunda seçilen fidanın Gülsen Hanım’ın dikdiği fidan olma olasılığı 
+olu=
+İkinci Dereceden Denklemleİkinci Dereceden Denklemleve !
+!
+-
+ olmak üzere m+
++
++
+-
+=
+^
+ denkleminin bir kökü 
+-  olduğuna göre 
+diğer kökünü bulunuz-  değeri m+
++
++
+-
+=
+^
+ denkleminin bir kökü olduğundan denklemde x yerine 
+-  yazılırs denklemi sağlarolu$
+$
+$
++
++
+-
+=
+-
++
+-
++
+-
+=
++
+-
++
+-
+=
++
++
+=
+= -
+= -
+^
+^
+^
+^
+m+
++
++
+-
+=
+^
+ denkleminde m yerine 
+-  yazılırs$
+- +
+-
++
+-
+-
+=
+-
+-
+=
+^
+^
+ denklemi elde edilir. Bu denklemin kökler-
+olur Buradan veya bulunu&
+&
+&
+$
+-
+-
+=
+-
++
+=
+-
+=
+=
++
+=
+= -
+^
+^
+  
+Buradan diğer kökün 5 olduğu görülür. 
+!
+ olmak üzere v-
++
+-
+=
+-
++
++
+=
+ denklemlerinin birer kökü aynı olduğun göre bu kökün kaç olduğunu bulunuzHer iki denklemin ortak kökü x olsun. v-
++
+-
+=
+-
++
++
+=
+ denklemlerinde 
+bulunan x2  li terimleri yok etmek için 2 -
++
+-
+=
+ denkleminde eşitliğin her iki tarafı 
+-  ile 
+çarpılırsa 

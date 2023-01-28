@@ -1,0 +1,400 @@
+ olur.  O hâld= 9  ⇒ x = 15 birim olarak bulunur31. Örnek 
+Yandaki şekilde ABC dik üçgeninin iç teğet 
+çemberi verilmiştir|AB| = 6 birim ve |AC| = 8 birim olduğuna 
+göre A noktasının çembere olan uzaklığının 
+kaç birim olduğunu bulunuzSıra SizdYandaki şekilde ABC üçgeninin O merkezli iç 
+teğet çemberi bu üçgene D, E, F noktalarında 
+teğettir. |AC| = |CK| = |KB| olduğuna göre 
+(
+)
+m KB\  = x  değerinin kaç derece olduğunu 
+bulunuz. 
+Sıra SizdYandaki şekilde ABC üçgeninin  dış teğet 
+çemberlerinden biri verilmiştirÇ( AB& ) = 24 birim, |BT| = 4 birim v|TC| = 3 birim olduğuna gör|AC| = x  değerinin kaç birim olduğunu 
+bulunuzÇözüYandaki şekilde |BT| = |BD| = 4 birim,
+|TC| = |EC| = 3 birim ve 
+|AD| = |EA| ⇒ |AB| = (x - 1) birim olurÇ( AB& ) = 24 birim olduğuna görx - 1 + x + 7 = 2x + 6 = x = 9 birim olur33. Örnek 
+Şekildeki ABC üçgeninde D noktası dış teğet çemberin 
+merkezidir. 
+(
+)
+m DB\  = 30° ve 
+(
+)
+m AC\  = 50° olduğuna 
+göre 
+(
+)
+m DA\  nün kaç derece olduğunu bulunuzÇözüD noktası dış teğet çemberin merkezi olduğundan [CD] ve 
+[AD]  ABC üçgeninin dış açıortayları, [BD] iç açıortayıdır(
+)
+m AC\  = 80° ve 
+(
+)
+m BA\  = 40° olur(
+)
+m CA\  = 
+(
+)
+m DA\  = x olsun. Buna göre 
+40° + 2x = 180° ⇒ x = 70° olur32. Örnek 
+Üçgenin Dış Teğet ÇemberlerÜçgenin bir kenarına ve diğer iki kenarının uzantısına teğet 
+olan çembere bu üçgenin bir dış teğet çemberi denir. 
+Bir üçgenin herhangi bir açısının iç açıortayı ile diğer iki 
+açısının dış açıortayı aynı noktada kesişir. 
+Yandaki şekilde bu nokta (O), ABC üçgeninin dış teğet 
+çemberinin merkezidir50°
+30°
+50° 50°
+80°
+30°
+30°
+40°
+x -  
+ 
+Yandaki şekilde EBCD dörtgeninin kenarları 
+çembere teğettir. 
+ABCD paralelkenar, |EB| = 5 birim ve 
+|AE| = 7 birim olduğuna göre DAE üçgeninin 
+çevresinin uzunluğunun kaç birim olduğunu 
+bulunuzÇözüYandaki ABCD paralelkenarınd|AD| = |BC| = a birim, |DE| = b birim olsun|AB| = |DC| = 12 birim olurEBCD dörtgenind|DE| + |BC| = |EB| + |CD| = u + v + z + t  
+a + b = 5 + 12 = 17 birim olur(
+)
+ADÇ &  = |AD| + |DE| + |AE|  
+  
+        = a + b + 7 = 17 + 7 = 24 birim olur34. Örnek 
+Yandaki şekilde iki çember C, D noktalarında kesişmekt ve büyük çember O merkezli küçük çemberin 
+merkezinden geçmektedir. 
+(
+)
+m CA\  = 50° olduğuna 
+göre 
+(
+)
+m C \  = x değerini bulunuzÇözüYandaki şekilde C ve D noktalarıyla O merkezi 
+birleştirildiğinde büyük çemberde ADOC dörtgeni 
+elde edilir. Büyük çemberde COD ile CAD yaylarının 
+ölçüleri toplamı 360° olduğundan CAD ve COD çevre 
+açılarının ölçüleri toplamı 180° olur. Buradan 
+(
+)
+m C \  = 130° olurCOD açısının köşesi küçük çemberin merkezinde 
+olduğundan bu açının ölçüsü küçük çemberde 
+gördüğü yayın ölçüsüne eşittir. Böylece 
+(
+)
+m C$  = 130° v(
+)
+°
+(
+)
+m CBC1 65°
+=
+=
+=
+$
+\
+ olur35. Örnek 
+50°
+50°
+130° Dairenin ÇevresBir çemberin kendisi ile iç bölgesinin birleşimine daire denirYandaki şekilde verilen O merkezli ve r yarıçaplı bir dairenin çevre 
+uzunluğunun dairenin çap uzunluğuna (2r) oranı π  sabit sayısını 
+verirDairenin Çevre Uzunluğ=
+= π ⇒ Ç = 2πDairenin Çap Uzunluğ25.4. Dairenin Çevresi ve Alan5.4.1. Dairenin Çevre ve Alan BağıntılarMerkez ve yarıçapla çember 
+ikonuna tıklayınız. Grafik sayfasına 
+tıkladığınızda oluşan pencerede 
+yarıçap bölümüne r yazarak 
+çemberin yarıçapını gösteren 
+sürgüyü oluşturunuz. Sürgünün 
+minimum değerini 1, maksimum 
+değerini 10, artış değerini 1 
+yapınızSürgüyü r = 6 konumuna getirinizGirişe çevre yazınız. Oluşan 
+satırda konik yerine c yazınız. 
+Cebir penceresinde çevre, a olarak 
+gözükecektir. a ismini değiştirerek 
+çevre yapınız. Dairenin yarıçapının 
+uzunluğu 6 birim olduğunda 
+dairenin çevresinin uzunluğunun 
+çapın uzunluğuna oranının π ye 
+eşit olduğuna dikkat edinizSürgüyü r = 9 konumuna getirinizDairenin çevresinin çapa oranının 
+π ye eşit olduğuna dikkat ediniz. 
+r yarıçaplı bir dairenin çevresinin uzunluğunun çapa oranı π ye eşittirO hâlde 
+aevr��
+=
+ ise r yarıçaplı dairenin çevresi 
+evr��
+=
+ ⇒ çevre = 2πr olur7. Uygulama: Dairenin Çevresinin Uzunluğu 
+ 
+ 
+Yarıçap uzunluğu 25 cm olan bir araba tekerleğini etrafı zincir ile sarılmak isteniyor. Zincirin 
+uzunluğunun en az kaç cm olması gerektiğini 
+bulunuzÇözüTekerleği tam olarak sarabilmesi için zincirin uzunluğunu en az tekerleğin çevre uzunluğu kadar 
+olması gerekir. Tekerleğin yarıçap uzunluğr = 25 cm olduğundan zincirin uzunluğu en aÇ = 2πr = 2π25 = 50π cm olmalıdır36. Örnek 
+Sonuç                   
+Yandaki O merkezli, r yarıçaplı dairede AOB merkez açısının 
+gördüğü yay uzunluğu 
+|
+A|$  ile gösterilir ve aşağıdaki orantı 
+ile bulunur. Daireyi sınırlayan çember, ölçüsü 360° olan bir yay 
+olarak kabul edilebilir360° nin gördüğü yay uzunluğu   
+2πr birim olursα  nın gördüğü yay uzunluğu  
+ 
+x birim olurx.360° = 2πr.α ⇒ x = 
+|
+A|$  = 2πr . 360°   olurBir helikopterin kuyruk pervanesinin iniş ve 
+kalkışlarda güvenlik sorunu oluşturmaması 
+için  pervanenin dairesel hareketinin yere en 
+yakın olduğu mesafe hesaplanmak isteniyor. 
+Yandaki şekilde |OA| = 5 metre ve oluşan 
+çemberin çevre uzunluğu  6π metre 
+olduğuna göre AB doğru parçasının 
+uzunluğunun kaç metre olduğunu bulunuzSıra SizdArchimedes’in (Arşimet) π sayısının değerini elde etmek için kullandığı yaklaşım şu 
+gerçeğe dayanır: Bir çemberin çevre uzunluğu, n kenarlı düzgün kirişler ve teğetler 
+dörtgenlerinin çevre uzunlukları arasındadır ve n arttıkça iki çevre uzunluğu arasındaki 
+sapma azalır. Bu gösterim, çokgenler ile çemberin çevre uzunluğu arasındaki fark yavaş 
+yavaş tüketildiği için tüketme yöntemi olarak bilinirTüketme yöntemini kullanan Archimedes, π sayısının olduğu aralığı aşağıdaki gibi bulur.           
+3 + 10  < π < 3 + 10   
+3 + 10   < π < 22    
+π sayısı yaklaşık 3,14 olarak kabul edilirD. M. Burton, Matematik Tarihi – Giriş, cilt 7, Ankara: Nobel Yaşam, 2017Matematik TarihYandaki şekilde  
+(
+)
+m AB\  = 60°, 
+(
+)
+m BC\  = 40°, 
+|
+|
+AB15=
++
+|
+|
+$
+$
+ cm olduğuna göre dairenin 
+yarıçapının uzunluğunu bulunuzÇözüYanda verilen daired(
+)
+m B$
+= 2.40° = 80°, 
+(
+)
+m A$
+= 2.60° = 120° v(
+)
+m B$  + 
+(
+)
+m A$
+= 80° + 120° = 200° olur200° lik yay uzunluğu  
+ 
+15π cm olursa 
+360° lik yay uzunluğu  
+ 
+x cm olurx.200° = 15π.360° ⇒ x =
+15 °
+°
+��
+ 
+                   ⇒ x = 27π cm 
+       Ç = 2πr = 27π ⇒ r = 27 cm olur38. Örnek 
+Yandaki şekilde yarıçap uzunluğu 2 cm olan O merkezli bir 
+daire veriliyor.  
+(
+)
+m AO\  = 60° olduğuna göre 
+|
+A|$  kaç 
+cm olur?
+ÇözüYukarıda verilen dairenin yarıçap uzunluğu r = 2 cm ve 
+(
+)
+m AO\  = 60°  olduğunda|
+. A2 °
+°
+°
+�
+�
+�
+�
+=
+=
+=
+|$
+ cm olur37. Örnek 
+Şekildeki dairenin yarıçapı 4 cm  ve ABC yayının uzunluğu 
+2��
+| =
+ABc|'
+ olarak veriliyor. 
+Buna göre 
+(
+)
+m AO=
+\
+ kaç derecedir?
+Sıra Sizd60°
+4 c40°
+60°
+40°
+80°
+60°
+120°
+ 
+ 
+O merkezli iç içe 3 çemberden oluşan 
+yandaki avize görselinde A, B, C sırasıyla iç, 
+orta ve dıştaki çemberlerin üzerinde birer 
+noktadır.  |OA| = |AB| = 2 m v|OC| = 7 m olarak verilmiştir. Aydınlatma 
+için elinde 130 ampul bulunan bir kişi, 
+bu ampulleri merkezleri aynı olan iç içe 
+3 çember üzerinde eşit aralıklarla asmak 
+istiyora) Yan yana asılan iki ampul arasına çekilecek elektrik kablosu kaç metre olur?
+b) Ortadaki çembere kaç ampul asılabilir? 
+Çözüa) En içteki çemberin çevre uzunluğu = 2πr1 = 2π.2 = 4π metre,
+ortadaki çemberin çevre uzunluğu = 2πr2 = 2π.4 = 8π metre,
+dıştaki çemberin çevre uzunluğu = 2πr3 = 2π.7 = 14π metre,
+toplam çevre uzunluğu = 4π + 8π + 14π = 26π metre olurİki ampul arasına çekilecek kablo uzunluğu = Toplam çevre uzunluğAmpul sayıs 
+ 
+ 
+ 
+ 
+         = =
+metre olurb) Ortadaki çembere asılacak ampul sayısı = 
+π =
+ olur39. Örnek 
+Yandaki O merkezli çemberde ABC üçgeninin köşeleri 
+çember üzerinde, 
+(
+)
+m AB\  = 30° ve |AC| = 12 cm 
+olduğuna göre ADC yayının uzunluğunun kaç cm 
+olduğunu bulunuzSıra Sizd30°
+Yandaki O merkezli çemberde P, C, O noktaları doğrusal 
+olarak veriliyor. 
+(
+)
+m AP\  = 90° ve 
+|PB| = 5 cm olduğuna göre PC uzunluğunun kaç cm 
+olduğunu bulunuzSıra SizdDairenin AlanDüzgün çokgen ikonuna ardından 
+grafik ekranında herhangi iki 
+noktaya tıklayınız.  Açılan noktalar 
+penceresine n yazarak  sürgüyü 
+oluşturunuz. Sürgünün minimum 
+değerini 3, maksimum değerini 
+50, artış değerini 1 yapınızSürgüyü n=5 konumuna getiriniz. 
+n, çokgenin kenar sayısını gösterirDüzgün beşgen ekranda 
+görülecektir. 
+Çokgenin merkezi ile bir kenarını 
+birleştiren ve uzunluğu h olan 
+yüksekliği çiziniz. Düzgün 
+çokgenin çevre uzunluğu Ç olmak 
+üzere alanı .  olurSürgüyü n=18 konumuna 
+getirinizKenar sayısı arttıkça h yüksekliği  
+dairenin yarıçapına, çokgenin 
+çevresi dairenin çevresine 
+yaklaşır. 
+  
+Sürgüyü n=46 durumuna getirinizÇokgenin belirgin bir şekilde 
+dairesel yapıya dönüştüğüne 
+dikkat edinizn sürgüsü yeteri kadar 
+artırıldığında h yüksekliği dairenin 
+yarıçapına, düzgün çokgenin 
+çevresi dairenin çevresine, düzgün 
+çokgenin alanı dairenin alanına 
+dönüşür. Buna göre h yarıçaplı 
+dairenin alan. Ç h =
+=
+ olurO hâlde yarıçapı r olan dairenin alanı A = πr2  olur8. Uygulama: Dairenin Alanının Bulunmas 
+ 
+Çevre uzunluğu 8π cm olan dairenin alanının kaç cm2 olduğunu bulunuzSıra SizdÇevre uzunluğu 10π cm olan dairenin alanını bulunuzÇözüDairenin çevre uzunluğu = Ç = 2πr ⇒ 2πr = 10π  olduğunda 
+ 
+ 
+                          r = 5 cm olurDairenin alanı = A = πr2 ⇒ A = π52 = 25π cm2 olur40. Örnek 
+Yanda verilen O merkezli dairede 
+(
+)
+m AO\  = 120° vr = 4 cm olduğuna göre boyalı bölgenin alanının kaç 
+santimetrekare olduğunu bulunuzÇözü(
+)
+m AO\  = 120° olduğundan 
+boyalı bölgenin alanı = 
+°
+°
+c°
+�
+�
+�
+�
+=
+=
+ 
+olur41. Örnek 
+Yanda verilen O merkezli dairede 
+(
+)
+m AB\  = 60° ve r = 2 cm 
+olduğuna göre boyalı bölgenin alanının kaç cm2 olduğunu 
+bulunuzSıra SizdBir dairede herhangi bir yayın ve yayın uç noktalarını dairenin 
+merkeziyle  birleştiren iki yarıçapın sınırladığı bölgeydaire dilimi  denirYandaki şekilde boyalı alan bir daire dilimidirAOB merkez açısı α  ise daire diliminin alanı = 360° .πr2 olurDaire Diliminin Alan120°
+60°
+Yanda verilen O merkezli daired|
+°
+A�
+�
+=
+|$
+ ⇒ 
+|
+°
+A�
+�
+= |$
+ olur. 
+Boyalı bölgenin alanı = 
+°
+�
+�
+  
+ 
+                             = 
+|
+|
+AA=
+|
+|
+$
+$
+  olurSonuç                   
+Yanda verilen O merkezli dairede 
+(
+)
+m AO\  = 30° ve 
+|AO| = 3 cm olduğuna göre boyalı bölgenin alanının kaç 
+birimkare olduğunu bulunuzÇözüBoyalı bölgenin alanı, daire diliminin alanından OAB üçgeninin alanı çıkarılarak bulunurBoyalı bölgenin alanı = 
+��
+. .si°
+�
+�
+-
+                                 = 
+. °
+°
+si1 °
+��
+-
+                                 = 
+c��-
+ olur42. Örnek 
+Bir döner merdivenin daire dilimi şeklindeki 
+basamakları şekildeki gibidir. Basamakların 
+üst yüzeylerini cilalamak isteyen bir kişi 
+basamak uzunluğunu |OA| = 80 cm v|
+A|$  = 5π cm olarak ölçüyor. Döner 
+merdivende 14 basamak olduğuna göre 
+cilalanacak yüzeyin alanının kaç cm2 
+olduğunu bulunuzSıra Sizd30°
+ 
+ 
+ 
+ 
+ 

@@ -1,0 +1,400 @@
+simetri dönüşümü altındaki görüntüsünü bulunu,
+A 3 ^
+h noktasının 
+,
+B x ^
+h noktasına göre 
+simetriği  
+,
+-
+l^
+h olduğuna göre +
+ 
+toplamını bulunuz,
+3 -
+^
+h noktasının =
+ doğrusuna göre 
+simetriği olan nokta 
+,
+8 -
++
+l^
+h noktas olduğuna göre +
+ toplamını bulunuz+
+=
+-
+ doğrusunun 
+,
+A -
+^
+h noktasna göre simetriği olan doğrunun denklemii bulunuzb-
++
++
+=
+ doğrusunun 
+,
+3 -
+^
+h 
+noktasına göre simetriği +
+-
+=
+ 
+doğrusu olduğuna göre +
+ toplamını bulunu. 
+,
+1 -
+^
+h noktasının +
++
+=
+ doğrusun göre simetriğinin koordinatlarını bulunuAnalitik düzlemde 
+,
+A 3 ^
+h noktasının bir d 
+doğrusuna göre simetriği 
+,
+7 -
+l^
+h noktas olduğuna göre d doğrusunun denklemii bulunuzAnalitik düzlemde 
+,
+-
+-
+^
+h noktasının 
+x ekseni boyunca pozitif yönde 8 birim ve 
+y ekseni boyunca pozitif yönde 4 birim ötelenmes ile Al noktası oluşuyor. Bu noktanı orijin etrafında pozitif yönde 270c döndürülmesyle elde edilen nokta All ise bu 
+noktanın koordinatlarını bulunuzAnalitik düzlemde 
+,
+1 -
+^
+h noktası orijin etrafınd pozitif yönde 90c döndürülüyor. Elde 
+edilen bu nokta x ekseni boyunca negatif 
+yönde 3 birim ve y ekseni boyunca pozitif 
+yönde 4 birim ötelendiğinde oluşan noktanın 
+koordinatlarını bulunuzYukarıdaki analitik düzlemde verilen ABC 
+üçgeni orijin etrafında pozitif yönde 180c 
+döndürülüyor. Elde edilen A B l l l üçgeni 
+x ekseni boyunca pozitif yönde 7 birim ve 
+y ekseni boyunca negatif yönde 2 birim 
+ötelendiğinde A B ll ll ll üçgeni elde ediliyo. Oluşan A B ll ll ll üçgeninin köşelerini koordinatlarını bulunuzAnalitik düzlemde 
+,
+-
+-
+^
+h noktası 
+x ekseni boyunca pozitif yönde 3 biri ve y ekseni boyunca pozitif yönde 
+4 birim öteleniyor. Elde edilen noktanın 
+,
+B -
+^
+h noktasına göre simetriği olan 
+noktayı bulunuzYukarıdaki şekilde verilen ABCD dik yamuğunu x eksenine ve y eksenine göre 
+simetri dönüşümü altındaki görüntülerini 
+bularak analitik düzlemde gösteriniz AlıştırmalaMatematik ,
+-
+-
+^
+h noktası x ekseni boyunca negati yönde 2 birim ve y ekseni boyunca poziti yönde 3 birim ötelendiğinde ................ 
+noktası elde edilir,
+A 2 3 ^
+h noktasının orijin etrafında poziti yönde 60c döndürülmesi ile oluşan noktanı koordinatları ................ olur,
+A -
+^
+h noktasının 
+,
+P -
+^
+h noktasına 
+göre simetri dönüşümü altındaki görüntüsü 
+...................... olur,
+A 2 ^
+h noktasının +
+-
+=
+ doğrusuna 
+göre simetri dönüşümü altındaki görüntüsü 
+................. olur,
+-
+-
+^
+h noktasının x ekseni boyunca 
+pozitif yönde 5 birim ötelenmesi ile oluşan 
+noktanın orijin etrafında pozitif yönde 270c 
+döndürülmesi ile .................... noktası elde 
+edilirAşağıda analitik düzlemde numaralar ile 
+verilen noktaların 
+,
+P -
+^
+h noktasına 
+göre simetriğini bularak harf ile verilen 
+noktalarla eşleştiriniz.                
+IIIIIIIVV)
+,
+)
+,
+)
+,
+)
+,
+)
+,
+)
+,
+)
+,
+)
+,
+10 2 6 4 -
+-
+-
+-
+-
+-
+-
+^
+^
+^
+^
+^
+^
+^
+^
+,
+,
+,
+,
+,
+I II III IV V 3 1 7 -
+-
+-
+-
+^
+^
+^
+^
+^
+Analitik düzlemde 
+,
+4 -
+-
+^
+h noktasını orijin etrafında pozitif yönde 420c döndürülmes ile elde edilen noktanın koordinatlar çarpımı kaçtır?
+Analitik düzlemde 
+,
+-
+^
+h noktasının 
+ve =
+=-
+ doğrularına göre simetriğ olan noktaların koordinatları nedir?
+Analitik düzlemde 
+,
+A -
+^
+h noktasının 
++
++
+=
+ doğrusuna göre simetriği 
+olan noktanın koordinatları nedir?
+Analitik düzlemde 
+,
+5 -
+^
+h noktasının oriji etrafında negatif yönde 9 c döndürülmes ile elde edilen nokta Al noktasıdır. Buna 
+göre Al noktasının =
+ doğrusuna göre 
+simetriği olan noktanın koordinatları nedir?
+Analitik düzlemde 
+,
+A 1 ^
+h noktasının x eksen boyunca pozitif yönde 2 birim ve y eksen boyunca negatif yönde 1 birim ötelenmesi 
+ile elde edilen Al noktasının -
++
+=
+ 
+doğrusuna göre simetriği olan Allnoktasını koordinatları nedir?
+A) 1-5. sorularda boş bırakılan yerlere  
+     uygun ifadeleri yazınızC) 7-11. açık uçlu soruları cevaplandırınızB) 6. soruda numaralar ile verilen ifadeleri        
+     harf ile verilen ifadelerle eşleştirinizÖlçme ve DeğerlendirmDönüşümleAnalitik düzlemde 
+,
+1 -
+^
+h noktasının 
+=
+ doğrusuna göre simetriği olan nokt aşağıdakilerden hangisidir?
+)
+,
+)
+,
+)
+,
+)
+,
+)
+,
+5 1 5 -
+-
+-
+-
+^
+^
+^
+^
+^
+Analitik düzlemde 
+,
+A -
+^
+h noktasının 
+x ekseni boyunca pozitif yönde 1 birim 
+ötelemesi ile oluşan noktanın 
+,
+O 0 ^
+h 
+noktasına olan uzaklığı kaç birimdir?
+)
+)
+)
+)
+)
+Analitik düzlemde 
+,
+A 3 ^
+h noktasının, 
++
+-
+=
+ doğrusuna göre simetriği 
+olan Al noktasının apsisi kaçtır?
+)
+)
+)
+)
+)
+-
+Analitik düzlemde 
+,
+2 -
+^
+h noktasının y 
+eksenine göre simetriği olan nokta, x eksen boyunca negatif yönde 3 birim öteleniyor. 
+Buna göre oluşan noktanın koordinatlar çarpımı  kaçtır?
+)
+)
+)
+)
+)
+-
+-
+Analitik düzlemde 
+,
+A 2 -
+^
+h noktasnın orijin etrafında pozitif yönde 510c 
+döndürülmesiyle elde edilen noktanın 
+koordinatları toplamı aşağıdakilerden 
+hangisidir?
+)
+)
+)
+)
+)
+Analitik düzlemde 
+,
+4 2 3 -
++
+-
+^
+h 
+noktası x ekseni boyunca negatif yönde 2 
+birim ve y ekseni boyunca pozitif yönde 1 
+birim öteleniyor. 
+Elde edilen  noktanın orijin etrafında poziti yönde 315c döndürülmesiyle oluşa nokta aşağıdakilerden hangisidir?
+)
+,
+)
+,
+)
+,
+)
+,
+)
+,
+1 3 6 -
+-
+-
+-
+-
+-
+-
+^
+^
+^
+^
+^
+Analitik düzlemde 
+,
+3 -
+^
+h noktasını 30c] g dönme dönüşümü altındaki 
+görüntüsü olan noktanın x ekseni boyunc pozitif yönde 2 birim ötelenmesiyl oluşan nokta aşağıdakilerden hangisidi?
+)
+,
+)
+,
+)
+,
+)
+,
+)
+,
+0 2 0 3 2 -
+-
+^
+^
+^
+^
+^
+Dik koordinat sisteminde verilen ABC dik 
+üçgeni x ekseni boyunca pozitif yönde 5 
+birim öteleniyor ve A B l l l üçgeni elde 
+ediliyor. Bu üçgene =
+ doğrusuna göre 
+simetri dönüşümü uygulanıyor. 
+Bu simetri dönüşümü sonucunda oluşa üçgenin köşelerinin koordinatlarınn apsisleri toplamı kaçtır?
+)
+)
+)
+)
+)
+D) 12-23.  çoktan seçmeli soruları çözünüz       
+     ve doğru seçeneği işaretleyiniz-
+-
+Matematik Yukarıdaki boyalı şeklin AB doğrusuna 
+göre simetriği aşağıdakilerden hangisidi?
+A)
+A)
+A)
+B)
+C)
+D)
+E)
+B)
+B)
+C)
+C)
+D)
+D)
+E)
+E)
+Yandaki şekilde verile üçgeninin orijin etrafınd pozitif yönde 
+270c döndürülmesi ile 
+oluşan şekil aşağıdakilerde hangisidir?
+Yandaki şekilde 
+verilen A, B, C 
+ve D üçgenleri 
+ile ilgili aşağıdakilerde hangisi 

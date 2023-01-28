@@ -1,0 +1,400 @@
+; 
+,
+OcOc=
+=
+ olduğuna göre A(ABCD) değerinin kaç cm2  olduğunu 
+bulunuzMotor kaputu üreten bir firma aşağıda verilen maddelere göre üretim yapacaktırI. Firma dikdörtgen şeklinde metal levhaları keserek her bir levhadan ikizkenar yamuk şeklinde kaputla yapacaktırII. Dikdörtgen levhaların ölçüleri 180 cm ve 120 cm dirIII. Kaputun eşit kenarlarının uzunluğu 130 cm ve tabanlarından biri 180 cm olacaktırBuna göre 
+a) Kaputun çevresinin uzunluğunun kaç cm olduğunu bulunuzb) Kaputun alanının kaç m2  olduğunu bulunuzKaputun üretileceği dikdörtgen levhalar aşağıdaki ABCD dörtgeni gibidirİkizkenar yamuk şeklindeki kaputun eşit kenarları 130 cm ve tabanlardan biri 180 cm olacağından kesim 
+aşağıdaki gibi yapılabilirKaputun eşit kenarları EFc=
+=
+ olduğundan FDC dik üçgeninde Pisagor teoremi ilF&
+&
++
++
+=
+=
+Dc=
+ olur. Benzer şekilde Ac=
+ bulunura) Yamuğun çevresi 
+(
+)
+EBCEBCFc=
++
++
++
+=
++
++
++
+=
+ bulunurb) Yamuğun alanı 
+,
+(
+)
+(
+)
+(
+)
+A EBCBECc15 1 $
+$
+=
++
+=
++
+=
+=
+ olara bulunurDörtgenler ve ÇokgenleDörtgenler ve ÇokgenleİpucABCD dörtgeni ikizkenar yamuk olduğundan OO=
+ elde edilir. Bu durumda 
+OOD=
+=
+ ve ODC eşkenar üçgen olurİç ters açılardan 
+(
+)
+(
+)
+m CDm DB=
+=
+%
+%
+, 
+(
+)
+(
+)
+m DCm CA=
+=
+%
+%
+ ve 
+(
+)
+(
+)
+m DOm BO=
+=
+%
+%
+ olur. Bu durumda OAB eşkenar üçgendirBir kenar uzunluğu a cm olan eşkenar üçgenin alanı 
+c$
+ olduğundan 
+(
+)
+A ODc4 $
+=
+=
+&
+ ve 
+(
+)
+A OAc9 $
+=
+=
+&
+ olur(
+)
+(
+)
+A OAA OB=
+=
+&
+&
+ isvcoluS 4 3 9 6 &
+$
+$
+=
+=
+=
+Sonuç olarak 
+(
+)
+(
+)
+(
+)
+(
+)
+(
+)
+A ABCA OAA OBA ODA OAcbulunu6 6 4 9 25 =
++
++
++
+=
++
++
++
+=
+&
+&
+&
+&
+Yandaki şekilde verilen ABCD ikizkenar yamuğunda Ave B@
+@ 
+köşegenlerdir. 
+,
+,
+,
+DAADACDc=
+'
+=
+=
+?
+?
+?
+?
+ vAc=
+ olduğuna göre A(ABCD) değerinin kaç cm2  olduğunu bulunuzABCD dörtgeni ikizkenar yamuk olduğundan DO=
+ ve AO=
+ 
+olur. Bu durumda DOC ile BOA ikizkenar dik üçgendirO noktasından geçen ve D? ile A? na dik olan K? çizilsinK?, DO&  nin bir kenarortayı olduğundan DKKc=
+=
+=
+ 
+olurL?, BO&  nin bir kenarortayı olduğundan ALOc=
+=
+=
+ olurBu durumda yamuğun yüksekliği 
+KcKO=
+=
++
+=
+ olacağında 
+(
+)
+A ABCADc6 $
+$
+=
++
+=
++
+=
+=
+ bulunur4444 4444444444444 Yandaki şekilde verilen ABCD ikizkenar yamuğunda 
+'
+@
+@, AB=
+, Ave B?
+? köşegenleri dik 
+kesişmekte ve h yamuğun yüksekliğidir. Buna gör 
+∙ =
++
+ 
+∙ 
+(
+)
+A ABCh=
+ olurDörtgenler ve ÇokgenleDörtgenler ve ÇokgenleBilgDik YamuYandaki şekilde verilen ABCD ikizkenar yamuğunda 
+,
+,
+,
+DADAACDcm ve Kc=
+'
+=
+=
+=
+?
+?
+?
+?
+ 
+olduğuna göre A(ABCD) değerinin kaç cm2  olduğunu bulunuzYandaki şekilde verilen ABCD dik yamuğunda 
+,
+DA'
+?
+?  
+,
+AC=
+?
+?  AD=
+@
+@, 
+Dcm ve Ac=
+=
+ olduğuna göre CB  nun 
+kaç cm olduğunu bulunuzHerhangi bir köşesindeki açısının ölçüsü 90c olan yamuğa dik 
+yamuk denirYandaki ABCD yamuğunda A@ aynı zamanda bu yamuğun yüksekliğidiCA=
+?
+? olacak şekilde C? çizilir. Açılar şekildeki gibi yerleştirildikten 
+sonra A.K.A. eşlik teoremi ile DACB,
+&
+&  olurDACB,
+&
+&  olduğundan AB=
+=
+ denilirse K=
+-
+ olurDKLC dörtgeninde karşılıklı kenarlar eşit olduğundan DK=
+=
+-
+ olur. 
+Bu durumda 
+(
+)
+A ABCADc$
+$
+=
++
+=
++
++
+-
+=
+bulunurCA=
+?
+? olacak şekilde C? çizilir. AKCD dikdörtgenind karşılıklı kenar uzunlukları eşit olduğundaAc=
+ ve buradan Kc=
+ olurACB üçgeninde Öklid teoremi ile 
+CCCc4 &
+&
+$
+=
+=
+=
+ olur. Bu durumd CKB dik üçgeninde Pisagor teoremi ilCCKCCc8 &
+&
+=
++
+=
++
+=
+ 
+bulunurDörtgenler ve ÇokgenleDörtgenler ve ÇokgenleİpucYandaki şekilde verilen ABCD dik yamuğunda DA'
+@
+@, 
+DA=
+@
+@, A=
+@
+ ve köşegenler birbirine dik ise a $
+=
+ olurA? nın uzantısına DC'
+?
+? olacak şekilde D? çizili. Bu durumda yöndeş açılardan 
+(
+)
+(
+)
+m AOm KD=
+=
+%
+%
+ 
+olur. DCAK dörtgeni paralelkenar olduğundaDKc biri=
+=
+ olurKDB dik üçgeninde Öklid teoremi kullanılarak a $
+=
+ elde 
+edilirBu eşitliğin doğruluğu aşağıdaki gibi gösterilebilirYandaki şekilde verilen ABCD dik yamuğunda Ave B@
+@ köşegenler olup 
+;
+DA'
+?
+?  DA=
+@
+@, 
+;
+AD=
+?
+?  
+,
+Dc=
+ Ac=
+ olduğuna 
+göre 
+(
+)
+A ABCD  değerinin kaç cm2  olduğunu bulunuzABCD dik yamuğunda A=
+@
+ olsun. Yamuğun köşegenleri birbirine dik olduğunda c9 &
+&
+$
+=
+=
+=
+ olur(
+)
+A ABCADc4 $
+$
+=
++
+=
++
+=
+ bulunurDörtgenler ve ÇokgenleDörtgenler ve ÇokgenleYandaki şekilde verilen ABCD dik yamuğunda DA'
+?
+?, DA=
+@
+@, 
+Kc=
+ ve Kc=
+ olur. C? DCB açısının ve B? CBA açısının açıortaylar olduğuna göre DC  nun kaç cm olduğunu bulunuzKD'
+?
+? olacak şekilde K? çizilsin(
+)
+(
+)
+m DCm LC=
+=
+%
+%
+ denilirse ters açılardan 
+(
+)
+m CK=
+%
+ olur(
+)
+(
+)
+m ABm LB=
+=
+%
+%
+ denilirse ters açılardan 
+(
+)
+m LK=
+%
+ olurKBC üçgeninin iç açıları toplamı ile 
+&
++
+=
++
+=
+c olur. Bu durumd KBC 6 cm - 8 cm - 10 cm dik üçgenidir ve açıları 
+, x ve 90 dir. O hâlde 
+(
+)
+m DK=
+%
+ ve 
+(
+)
+m AK=
+%
+ olurA.A. benzerlik teoremi ile KDBK+
+&
+&  olduğunda,
+BKKDDDc3 &
+&
+=
+=
+=
+ bulunurALIŞTIRMALA1. 
+Yukarıdaki şekilde verilen ABCD yamuğundDA'
+?
+?; 
+(
+)
+m DC=
+%
+; 
+,
+AcBc=
+=
+ ve Cc=
+ 
+olduğuna göre 
+(
+)
+m DA%  nün kaç derece olduğun bulunuz2. 

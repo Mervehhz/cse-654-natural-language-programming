@@ -1,0 +1,400 @@
+1 mol H2 2 gram ise 
+ 0,5 mol H2 1 gramdır•
+Tepkime sonucunda 1 g H2 oluşurŞimdiye kadar verilen tepkimelerde tepkimeye giren maddelerden ne kadar ürün 
+oluşacağını denkleşmiş tepkime üzerinden hesaplama yaparak bulduk. Hesaplama sonuc bulunan değer teorik olarak oluşması beklenen değerdir. Bu değere �������������
+denir. Ancak gerçekte birçok tepkimede beklenen miktarda ürün oluşmaz. Çünkü tepkimey giren maddelerin kalıntı içermesi, asıl tepkimenin yanında başka tepkimelerin 
+gerçekleşmesi ve bu nedenle farklı ürünlerin oluşması gibi sebeplerle ürün miktarı 
+beklenenden az olur. Tepkime sonunda oluşan ürün ölçülüp elde edilen değere, yani 
+gerçek ürün miktarına ������������ denir. 
+Kimyanın Temel KanunlarKimyanın Temel Kanunlar1. Ünit1. ÜnitKimya ������������: Deneysel olarak elde edilen ürün miktar������������: Hesaplama sonucu bulunan ürün miktarGerçek verimin teorik verime oranının yüzde olarak ifade edilmesine ise 
+������
+����� denir. 
+�����������������������������������������������
+Doğalgazın yanma tepkimesinin yüzde verimini hesaplayalım:
+�������� ��
+���������
+�
+��������
+��
+��������
+(C:12, O:16, H:1)
+Başlangıçta 16 g (1 mol) CH4 ile 64 g (2 mol) O2 tepkimeye sokulduğunda teorik 
+olarak 44 g (1 mol) CO2 ve 36 g (2 mol) H2O’nun oluşmasını bekleriz. 
+�������
+�
+��������
+�������
+�
+��������
+���������:
+16 2 x 32= 64 ���������������
+-16 - 64 + 44 + 2 x 18=36 �������������
+0 0 44 36 ������������
+Kimyanın Temel KanunlarKimyanın Temel Kanunlar1. Ünit1. ÜnitKimya ������������������������������
+Ölçümler sonucu 40 g CO2 elde edildiğini varsayalım. Bu durumda;
+������������������������������
+Bu tepkimenin yüzde verimi ise;
+��������������������×�����������������
+Yüzde verim, bir tepkimenin ne ölçüde gerçekleştiğinin bir ölçüsüdür. Endüstride 
+veya laboratuvar ortamında birçok tepkime tam verimle yani yüzde yüz verimle gerçekleşme. Tepkime verimi ne kadar yüksek çıkarsa elde edilen kâr da o kadar yüksek 
+olur. 
+CaCO3 (k) 
+CaO (k) 
++ 
+CO2 (g) 
+Kireçtaşı 
+Sönmemiş kire(Ca:40, C:12, O:16)
+Yukarıda, kireçtaşının yüksek sıcaklıklarda ısıtılması sonucu sönmemiş kirecin 
+elde edilmesi tepkimesi yer almaktadır. Tepkimede 400 gram CaCO3 bileşiğinden % 
+60 verimle kaç gram CaO bileşiği elde edilmiştir?
+������
+• CaCO3 bileşiğinin mol kütlesi 100 gramdır. Buna göre 400 gram bileşi4 moldür• Teorik olarak 1 mol CaCO3’tan 1 mol CaO oluşması beklenmektedirBuna göre 4 mol CaCO3’tan 4 mol CaO elde edilmesi beklenir• CaO’in mol kütlesi 36 g ise 4 mol CaO 
+4 × 36= 144 g’dır������������������������������������
+% verim= gerçek verim / teorik verim × % 60 = gerçek verim / 144 × ��������������������������
+19. UygulamKimyanın Temel KanunlarKimyanın Temel Kanunlar1. Ünit1. ÜnitKimya ������������������������
+������������������������� Kimyasal değişimlerde maddeler başka maddeler dönüşürken toplam kütle korunur, değişme��������������������� 
+Bir bileşiği oluşturan elementlerin kütleleri arasınd sabit bir oran vardır��������������������� 
+Aynı elementlerden oluşan farklı bileşiklerde, 
+aynı elementin her iki bileşikteki kütleleri arasınd sabit bir oran vardır���
+•
+Bir bileşiğin veya bileşiği oluşturan elementlerin; molekül, atom veya iyon sayıs, kütlesi, hacmi gibi miktarları mol ile ifade edilir•
+Mol; 6,02 × 1023 tane taneciğin miktarıdır���������������������������������
+•
+Kimyasal değişimler kimyasal tepkimeler sonucu gerçekleşir•
+Kimyasal tepkimeler, element ve bileşiklerin sembol ve formüllerinden oluşakimyasal denklemler ile ifade edilir•
+Yanma, sentez, analiz, asit-baz ve çözünme-çökelme kimyasal tepkime türlerindendi*
+Yanma tepkimesinde maddeler oksijen elementiyle tepkimeye girerler*
+Sentez tepkimesinde maddeler birleşip yeni bir madde oluşturur*
+Analiz tepkimesinde bir madde başka maddelere dönüşür*
+Asit ve bazlar arasında gerçekleşen tepkimelere asit-baz tepkimeleri deni. 
+Ürün olarak tuz ve su oluşur*
+Çözünme- çökelme tepkimeleri, tuz çözeltilerinin bir araya gelmesi sonucu 
+karışımda çözünmeyen katı maddenin oluştuğu tepkimelerdir•
+Kimyasal tepkimelerde hangi ürünün, hangi miktarda oluşacağı mol hesaplamalar yapılarak bulunur•
+Kimyasal tepkimeler her zaman teoride hesaplandığı gibi yüzde yüz verimlgerçekleşmez. 
+����
+Kimyanın Temel KanunlarKimyanın Temel Kanunlar1. Ünit1. ÜnitKimya ��������������������������������
+��������������������������������������������������������������������
+���������������������������������������������������������������������������������
+�������������������������
+SO3(g) 
++ 
+H2O (g) 
+ 
+H2SO4 (s) 
+A) B) C) D) �������������������������������������������������������
+A) Ca(OH)2 + CO CaCO3 + H2B) KClO2 KCl + 3 OC) CO + 2 H 
+CH3OD) N2H4 + O 
+N2 + 2 H2O 
+��������������������������������������������������������������������������������������
+�������������������
+A) 9 mol oksijen atomu içerirB) 6,02 x 10 23 tane Ca atomu içerirC) 36 gram C elementi içerirD) Toplam 15 mol atom içerir����������������������������������������������������������������������������������
+���������������������
+P4O10 
++ 
+C 
+ 
+P4 
++ 
+CO  
+A) C ‘nin katsayısı 10’durB) CO’nun katsayısı 1’dirC) P4’ün katsayısı 4’türD) P4O10’nun katsayısı 2’dirKimyanın Temel KanunlarKimyanın Temel Kanunlar1. Ünit1. ÜnitKimya �����������������������������������������������������������������������������������
+��������������������������������������������������������
+A) B) C) D) �����������������������������������������������������������������������������������
+�������������������������������������������������������������������������������
+I. 
+21 gram demir elementi içerir. 
+II9 gram oksijen elementi içerirIII7 gram Fe elementi içerirA) Yalnız B) I ve IC) I ve IID) I, II ve II���������������������������������������������������������������������������������
+����������
+A) CH2O – C2HB) NO2  -  N2OC) NaCl - KCD) H2S - H2�������������������������������������������������
+A) Bağıl atom kütlesi C-12 izotopu referans alınarak hesaplanmaktadırB) Proton sayıları aynı, nötron sayıları farklı atomlar izotop atomlardırC) Bağıl atom kütlesinin birimi “n” harfi ile gösterilmektedirD) Bağıl atom kütlesi hesaplanırken o elementin doğada bulunma yüzdesi dikkatalınırKimyanın Temel KanunlarKimyanın Temel Kanunlar1. Ünit1. ÜnitKimya ��������
+��
+�����
+��������
+�������
+(C=12, O=16,  H=1)
+Tepkimesinde 2 mol C3H8 ile yeterince O2’nin tepkimesinden kaç mol CO2 oluşur?
+A) B) C) D) �������
+��
+�����
+�
+��������������������������������������������������
+�������������������������������������������������������������������
+A) Sınırlayıcı bileşen CO durB) O2’nin tamamı harcanırC) Tepkime sonunda 1 mol O2 artar. 
+D) 2 mol CO2 oluşur�����������������������������������������������������������������������������
+�����������������������������������������������������������
+A) B) C) D) ���������������������������������������������������������������������������������
+���������������������������������������������������������������������������
+A) 1/B) 2/C) 1/D) 1/��������
+��
+�����
+→�
+�����
+��
+����������������������������������
+���������������������������
+A) Asit-baz tepkimesidirB) Tepkime denk değildirC) 2 mol HCl harcandığında 2 mol su oluşurD) Ürün olarak tuz oluşmuştur���
+�����
+����������
+2.1. HOMOJEN VE HETEROJEN KARIŞIMLA2.2. AYIRMA VE SAFLAŞTIRMA TEKNİKLER����������������������
+���������������������������
+• 
+Karışımları niteliklerine göre sınıflandırabilecek,
+• 
+Çözünme sürecini moleküler düzeyde açıklayabilecek,
+• 
+Çözünmüş madde oranını belirten ifadeleri yorumlayabilecek,
+• 
+Çözeltilerin özelliklerini günlük hayattan örneklerle açıklayabilecek,
+• 
+Endüstri ve sağlık alanlarında kullanılan karışım ayırma tekniklerini açıklayabileceksini Homojen karışım (çözelti)
+ Damıtm Adi karışı Heterojen karışı Koloi Çözünm Koligatif özelli Pp Süspansiyo Kristallendirm Derişi Aeroso Yüzdürme (flotasyon)
+ Çözüc Süzm Özütleme (Ekstraksiyon)
+ Emülsiyo Çözüne Diyali�����������������
+�������fta ���������� ������ ������ ����� ��������� ������ ��������
+������������������������������
+KarışımlaKarışımla2. Ünit2. ÜnitKimya Kimya �����
+�������������������������������
+Önceki yıllardan hatırlayacağımız gibi maddeler saf madde ve karışım olmak üzere 
+iki sınıfta incelenmektedir. Oksijen, altın gibi elementler ile su, asit, baz, tuz gibi bileşikle saf maddedir. Saf maddeler,  aralarında kimyasal tepkime gerçekleştirmeden 
+gelişigüzel oranlarda bir araya geldiklerinde ise karışım elde edilir. Buna göre şekerli 
+su, hava gibi maddeler birden fazla sayıda saf madde içerdiğinden karışımdır. 
+�����
+Saf MaddElemenBileşiHomojen 
+KarışımlaHeterojen 
+karışımlaKarışıGörsel 2.1 Maddelerin sınıflandırılmasKarışımların bazı temel özellikleri aşağıdaki gibidir: 
+•
+Karışımlar belirli bir kimyasal formülle ifade edilemez çünkü karışımı oluşturabileşenlerin oranları sabit değildir, değişebilir. Örneğin birçok farklı tatta şekerlsu karışımı oluşturulabilir•
+Karışımdaki her bir bileşen özelliğini yitirmez, kendi kimliğini korur. Çünkkarışımı oluşturan bileşenler arasında kimyasal tepkime gerçekleşmez. Örneğişekerli su karışımında şekerle su arasında kimyasal bağ oluşmadığından şekekendi kimliğini, su kendi kimliğini korur•
+Karışımlar bileşenlerine fiziksel yöntemlerle ayrılabilirKarışımlaKarışımla2. Ünit2. ÜnitKimya Kimya Karışımlar, karışımı oluşturan bileşenlerin birbiri içinde dağılma şekline göre homoje ve heterojen karışım olmak üzere iki gruba ayrılır. Fen bilgisi dersinden de 
+hatırlayacağınız gibi tek madde görünümünde olan yani karışımın her yerinde aynı 
+özelliği gösteren karışımlara ������������������ denir. Tuzlu su, hava homojen karışımlar örnektir. Homojen karışımlar ������� olarak da adlandırılır. Her yerinde aynı 
+özelliği göstermeyen karışımlar ise ��������������������dır. Çorba, Türk kahvesi gibi 
+karışımlar heterojen karışımlara örnektirKarışımın homojen mi yoksa heterojen mi olduğunu, karışımı oluşturan bileşenleri hangi boyuta kadar parçalara ayrıldığı belirler. Karışımı oluşturan bileşenler taneciklerin  (atom, molekül, iyon) kadar ayrılmışsa karışım homojendir. Heterojen karışımlard ise bileşenler birbiri içinde dağılırken çeşitli büyüklükteki parçalara ayrılırlar 
+ancak taneciklerine (atom, iyon, molekül) kadar ayrılmazlar. 
+��������������������
+Karışımı oluşturan bileşenlerin karışımın her yerine 
+eşit olarak dağılmadığı, dolayısıyla karışımın her yerind aynı özelliğin bulunmadığı karışım türüdür. Örneği heterojen bir karışım olan sıvıyağ-su karışımınd karışımın üst tarafında yağ, dipte su bulunur. Yani 
+karışımın üst tarafıyla dibi farklı özelliklere sahiptir. 
+Bileşenler karışımın her yerine eşit olarak dağılmadığında heterojen karışımlarda farklı katmanlar oluşu. Birbirinden farklı özelliklere sahip bu katmanlara 
+faz denir. Fazlar birbirinden çoğunlukla çıplak gözle 
+görebileceğimiz sınırlarla ayrılır. Örneğin sıvıyağ-su 
+karışımında su ve sıvı yağ olmak üzere iki faz görünür.  
+Heterojen karışımları iki veya daha fazla faza sahip karışı olarak da tanımlayabilirizÇamur, süt, meyve ve sebzeler, pişirdiğimiz yemekler, oturduğumuz ev, beslediğimi hayvan vb. heterojen karışımdır. Heterojen karışımlar dağılan maddenin ve dağılm ortamının fiziksel hâline göre sonraki sayfada yer alan şemada belirtildiği gibi 
+çeşitli sınıflara ayrılır: 
+Görsel 2.2 
+Sıvıyağ-su karışımKarışımlaKarışımla2. Ünit2. ÜnitKimya Kimya ��������������������
+a) Adi karışıb) Süspansiyoc) Emülsiyoç) AerosoKatı - Katı karışıKatı - Sıvı karışıSıvı - Sıvı karışıKatı - Gaz 
+Sıvı - Gaz 
+karışıGörsel 2.2 Heterojen karışımların sınıflandırılmas�� �����������
+Adi karışım, katı bileşenlerden oluşan heterojen karışımlardır. Kuruyemiş, topra, salata, çöplük, hurdalık vb. karışımlar adi karışımlardır. Adi karışımlarda dağılan 
+madde ve dağılma ortamı ayrımı yapılmaz çünkü karışımdaki bileşenler alelade bir 
+arada durur, dağılma olayı görülmezGörsel 2.3 Adi karışım örnekleri (Kuruyemiş ve salata)
+�� �����������
+Katı hâldeki madde veya maddelerin sıvı hâldeki madde içinde asılı kalmasıyla veyçözünmeden dağılmasıyla oluşan heterojen karışımlara süspansiyon denir. Ayran, çamu, hoşaf, pişmiş Türk kahvesi vb. karışımlar süspansiyon karışımlara örnektir. Bu 
+süspansiyon karışımlarda yeterince beklendiğinde katı maddenin dibe çöktüğünü 
+gözlemlerizKarışımlaKarışımla2. Ünit2. ÜnitKimya Kimya Görsel 2.4  Süspansiyon karışım örnekleri (Türk kahvesi ve ayran)
+Süspansiyon karışımlarda dağılan madde katı hâlde, dağılma ortamı ise sıvı hâldedirTablo 2.1'de bazı süspansiyon karışım örnekleri yer almaktadır: 
+��������������������� ��������������������������� ����������������������������
+AyraYoğurt / KatSu / SıvÇamuToprak / Katı 
+Su�� SıvHoşaElma / KatSu / SıvPişmiş Türk kahvesi 
+Kahve / KatSu / SıvTablo 2.1 Süspansiyon karışımlarda dağılan madde ve dağılma ortam�� ���������
+Sıvı hâldeki maddelerin birbiri içinde çözünmededağılmasıyla oluşan heterojen karışımlara emülsiyon deni. Sıvıyağ-su, benzin-su karışımları emülsiyondur. Bu 
+tür emülsiyon karışımlarda fazları ayrı ayrı görebiliriz. 
+Emülsiyon karışımlarda hem dağılan madde hem de dağılm ortamı sıvı hâldedir. Tablo 2.2'de bazı emülsiyon 
+karışım örnekleri yer almaktadır�������������������
+��������������������������� ����������������������������
+Benzin-SBenzin / SıvSu / SıvSıvı yağ-Su 
+Sıvı yağ / SıvSu / SıvKarbon tetraklorür - SKarbon tetraklorür / SıvSu / SıvTablo 2.2 Emülsiyon karışımlarda dağılan madde ve dağılma ortamGörsel 2.5  Emülsiyon 
+karışım (Sıvıyağ- Su)
+KarışımlaKarışımla2. Ünit2. ÜnitKimya Kimya �����������
+Katı parçaçıklarının veya sıvı damlacıklarının gaz hâldeki madde boyunca dağılmas ile oluşan karışımdır. Örneğin su damlacıklarının havada dağılması ile oluşan 
+sis aerosol bir karışımdır. İs, kurum gibi parçaların havada dağılması sonucu oluşan 
+duman da aerosoldür. Bulut, spreyler, deodorantlar da  aerosol karışımlara örnektir. 
+Örneklerden de anlaşılacağı gibi aerosol karışımlarda dağılan madde katı veya sıvı 
+hâlde, dağılma ortamı ise gaz hâldedir. Tablo 2.3'te bazı aerosol karşım örnekleri yer 
+almaktadır:
+�����������������
+��������������������������� ����������������������������
+SiSu damlacıkları / SıvHava / GaDumaİs, Kurum / KatHava/ GaBulut 
+Su damlacıkları / SıvHava / GaTablo 2.3 Aerosol karışımlarda dağılan madde ve dağılma ortamAşağıda verilen karışım örneklerinin genel olarak hangi bileşenlerden oluştuğun ve karışımın türünü inceleyelim:
+�������
+�����������
+������������
+a) Demlenmiş çaÇay yaprakları - SSüspansiyon (heterojen)
+b) KolonyEtil alkol - SÇözelti (homojen)
+c) SüYağ - SEmülsiyon (heterojen)
+ç) Tozlu havToz - HavAerosol (heterojen)
+1. UygulamHeterojen karışımlarda fazları genellikle çıplak gözle ayırt edebiliriz. Örneğin emülsiyo karışım konusunda da belirtildiği gibi sıvı yağ ve suyu karıştırdığımızda yağ ve 
+su fazlarını ayrı ayrı gözlemleriz. Eğer bu karışımı bir süre hızlı bir şekilde çalkalarsak 
+yağ, damlacıklar hâlinde suya dağılır. 
+KarışımlaKarışımla2. Ünit2. ÜnitKimya Kimya Yağ damlacıkları göremeyeceğimiz kadar küçük parçalara ayrılırsa bu durumda 
+karışımı tek faz olarak görürüz ancak mikroskopla bakıldığında karışımın birden fazl faza sahip olduğu anlaşılır. Diğer bir ifadeyle, bazı heterojen karışımlarda dağılan 
+maddenin tanelerinin boyutu o kadar küçüktür ki ancak mikroskopla bakıldığında 
+fazlar görülebilir. Bu tür heterojen karışımlar ������ olarak adlandırılır. 
+Koloit karışımlarda dağılan madde diğer bileşen içinde çok küçük parçalar hâlinde 
+askıda durmaktadır. Uzun süre geçse de dağılan madde dibe çökmezBazı emülsiyon, süspansiyon ve aerosol karışımları koloittir. Örneğin yağ damlacıklarını sütteki suda dağılması ile oluşan homojenize sütler koloidal emülsiyondur. Süt, 
+çıplak gözle bakıldığında homojen karışım gibi gözükse de mikroskopla bakıldığında 
+sütteki yağ damlacıklarının karışımın üst tarafında daha yoğun olduğu görülür. Yine 
+mayonez de yağ damlacıklarının suda dağılmasıyla oluşan bir emülsiyon karışımıdır. 
+Benzer şekilde kan, sağlık sektöründe kullanılan şuruplar koloidal süspansiyondur. 
+Duman, sis vb. aerosol karışımlar da eğer dağılan maddenin boyutu yeterince küçüks, koloidal aerosoldür. Deodorant, jeller, tıraş köpükleri, jöleler, duvar boyaları, spreyle vb. koloit karışımlara örnektir. 
+Görsel 2.6 Koloit karışım örnekleri (sprey boya, süt, saç jölesi)
+Buna göre karışımlar, dağılan maddenin tane boyutu esas alınarak sınıflandırıldığınd, dağılan maddenin boyutu; 
+• 10-9 metre (1 nanometre)’den küçükse karışım homojen,
+• 10-9 metre ile 10 -6 metre arasında ise koloit,
+• 10-9 metreden büyükse karışım heterojendirKarışımlaKarışımla2. Ünit2. ÜnitKimya Kimya Çözelti 
+Koloit 
+ Heterojen karışıGörsel 2.7  Çözelti, koloit ve heterojen karışımlarda dağılan maddenin 
+tanecik boyutunun karşılaştırılmasBu nedenle karışımın türüne çıplak gözle değil mikroskopla bakılarak karar verilir. 
+Çünkü çıplak gözle homojen olarak algılanan birçok karışımın, mikroskobik boyutta 
+incelendiğinde heterojen olduğu anlaşılır.  
+Koloit karışımlarda fazları birbirinden çıplak gözle ayıramadığımızdan koloitler 
+de çözeltiler gibi tek madde görünümündedir. Koloitlerle çözeltilerin farkı aşağıdaki 
+gibidir:
+• Çözeltilerde, çözünen maddenin parçacıklarının boyutu moleküler düzeydedi çünkü her bir parçacık bireysel atom, iyon veya moleküldür• Koloitlerde, bileşenlerin parçacıkların herbiri makromoleküllerden veyküçük moleküllerin oluşturduğu yığınlardan oluşmaktadır, bu nedenle bparçaların büyüklüğü ancak mikroskopla görülecek kadar küçüktür�������������������������������
+Homojen karışımlarda bileşenler, kendisini oluşturan taneciklere (atom, molekül, 
+iyon) kadar ayrılıp karışımın her yerine eşit oranda dağılır. Bu nedenle homojen karışılar tek faza sahiptir ve karışımın her yeri aynı özellikleri gösterir. Homojen karışımla mikroskop altında bile tek madde görünümündedirHomojen karışımlar ������� olarak adlandırılır. Yani çözeltiler hayatımızın birçok 
+alanında karşımıza çıkar. Örneğin içtiğimiz su saf madde değil; kalsiyum, magnezyum 
+gibi birçok iyon içeren bir çözeltidir. Benzer şekilde soluduğumuz hava, meşrubatla, sirke, kolonya, sıvı hâldeki bazı temizlik ürünleri, alaşımlar vb. birer çözeltidir. 
+Çözeltilerde en yaygın olanı su içeren çözeltilerdir. Bu tür çözeltiler ������������ olarak 
+adlandırılırKarışımlaKarışımla2. Ünit2. ÜnitKimya Kimya Çözeltinin bileşenleri özelliklerine göre ������� ve ������ olarak iki sınıfa ayrılır. 
+Çözeltilerde genellikle miktarı çok olan bileşen çözücü, miktarı az olan bileşen de çözünendi. Örneğin şekerli su çözeltisinde şeker çözünen, su çözücüdür.  
+Su 
+Şeker 
+Şekerli s�������
+�
+��������
+�
+�������
+Yine meşrubatlarda su, çözücü; şeker, karbon dioksit gazı vb. çözünendir. Su, aslınd sıvı çözeltilerde doğal çözücüdür.  Bazı çözeltilerde ise bileşenler birbiri içinde 
+her oranda çözünür, bu tür çözeltilerde bileşenleri çözünen ve çözücü olarak ayırmak 
+anlamlı değildir. Örneğin havayı oluşturan gazlar birbiri içinde her oranda karışırlarÇözeltiler bileşenlerin birbiri içinde çözünmesi ile oluşur. Peki, çözünme nedir? 
+Nasıl gerçekleşir?
+��������
+Bir maddenin başka bir madde içinde taneciklerine (atom, molekül, iyon) kadar 
+ayrılıp dağılmasına �������� çözünme sonucu elde edilen karışıma da ������� denirİKİ AYRI MADDÇÖZÜNMÇÖZELTBİLGİ NOTGünlük hayatta bazı çözünme olayları erime olarak ifade edilmekte yani yanlı kullanılmaktadır. Örneğin suda tuz eridi, çayda şeker eridi gibi ifadeler yanlış 
+ifadelerdir. Erime ve çözünme farklı olaylardır. Erime olayında şeker veya tuz 
+basınç ve ısının etkisiyle katı hâlden sıvı hâle geçer. Çözünme de ise şeker ve tuz 
+tanecikleri su moleküllerinin etkisiyle birbirinden tamamen uzaklaşır. Yani çayd şeker erimez, çözünürKarışımlaKarışımla2. Ünit2. ÜnitKimya Kimya Peki, çözünme olayı nasıl gerçekleşir? Neden bütün karışımlarda çözünme olaygerçekleşmez? 
+Bazı maddeler birbiri içinde çözünürken bazıları çözünmez. Örneğin sıvı yağın suda 
+çözünmediğini; tuzun, şekerin ise çözündüğünü fark etmişsinizdir. Çözünme olayının 
+gerçekleşip gerçekleşmeyeceği taneciklerin birbirine uyguladıkları çekim kuvvetinin 
+büyüklüğü ile ilgilidir. Tanecikler arasındaki çekim kuvveti ise çözücü ve çözünen tanecikleri benzer yapıda olup olmaması, taneciklerin polar veya apolar olup olmaması 
+gibi özelliklere bağlıdır. Tanecikler arasındaki çekim kuvveti 2.dönem kimya dersinde 
+“Kimyasal Türler Arası Etkileşimler” ünitesinde işlenmiştir.  
+Çözünme olayının gerçekleşmesi için çözünen ve çözücü maddenin kendi tanecikleri 
+arasındaki etkileşimlerin kopup çözünen-çözücü arasında yeni etkileşimlerin oluşması 
+gerekmektedir. Bunun için çözücü ve çözünenin kendi tanecikleri arasındaki çekim 
+kuvvetinin, çözücü ve çözünen tanecikleri arasındaki çekim kuvvetinden daha küçük 
+olması gerekir. 
+Aşağıdaki deneyde bazı maddelerin neden suda çözündüğü, bazılarının neden çözünmediğin irdeleyelim:
+Dene1�������������
+Farklı Maddelerin Suda Çözünmesi 
+�������������� Sodyum klorür, etil alkol ve karbon tetraklorürün suda çözünü çözünmediğini irdeleme����������������������������
+• Sodyum klorür (yemek tuzu)
+• Etil alko• Karbon tetraklorü������������������
+• Bir bardak suya kaşığın ucuyla yemek tuzu eklenip karıştırılır• Yarım bardak suya, bardak doluncaya kadar etil alkol eklenir• Bir bardak suya bir miktar karbon tetraklorür eklenir• Elde edilen karışımlarda çözünme olup olmadığı belirtilirKarışımlaKarışımla2. Ünit2. ÜnitKimya Kimya ������
+• Sodyum klorür suya eklendiğinde bir süre sonra tuz suda göremeyeceğimi duruma gelir yani tuz suda çözünür• Etil alkol de suya eklendiğinde suyla tamamen karışır ve karışım tek faolarak görünür. Dolayısıyla etil alkol de suda çözünür• Karbon tetraklorür suya eklendiğinde ise karışımda iki ayrı faz gözleniyani karbon tetraklorür suda çözünmezMaddelerin birbiri içinde çözünmesine hangi etkileşimlerin ne şekilde katkı sağladığın bileşiklerin suda çözünmesi temelinde irdeleyelim:
+�� ����������������������������������
+Bildiğiniz gibi iyonik bileşikler pozitif (+) ve negati(-) yüklü iyonların birbirine uyguladıkları elektrostatik 
+çekim kuvveti ile oluşur. Zıt yüklü iyonlar arasındaki 
+güçlü çekim kuvvetinden dolayı iyonlar istiflenmiş şekild bir arada durur. Örneğin iyonik bir bileşik olan sodyu klorür, Na+ iyonlarıyla Cl- iyonları arasındaki çekim 
+kuvveti sayesinde oluşurBİLGİ NOTBütün iyonik bileşikler oda sıcaklığında katı hâldedirİyonik bileşiklerin suda çözünmesi zayıf etkileşimler konusunda hatırlayacağınız iyon-dipol etkileşimleri sayesinde 
+olur. Su molekülleri bildiğiniz gibi polar yapıdadır. Polar molekülle çift kutupludur yani pozitif ve negatif uçlara sahipti. Moleküldeki oksijen atomları kısmi negatif yüklü, hidroje atomları ise kısmi pozitif yüklüdür. İyonik bileşikler de 
+iyonlardan oluştuğundan su ile bir araya geldiklerinde aralarınd iyon-dipol etkileşimi gerçekleşir. 
+Na+ iyonu 
+Cl- iyonGörsel 2.8 NaCl iyonik bileşiğ�
+�
+�
+�
+�
+�
+Görsel 2.9 Su molekülKarışımlaKarışımla2. Ünit2. ÜnitKimya Kimya İyonik yapılı bir bileşik, suya eklendiğinde çözünme olup olmayacağını, bileşiğoluşturan zıt yüklü iyonlar arasındaki ve iyonlar ile su tanecikleri arasındaki çekim 
+kuvveti belirler. Eğer su ile iyonik bileşik tanecikleri arasındaki çekim kuvveti, iyonik 
+bileşiğin kendi tanecikleri arasındaki çekim kuvvetinden daha fazlaysa bileşik suda çözünü. Aksi hâlde çözünme gerçekleşmez. Örneğin katı hâldeki sodyum klorür (NaCl) 
+tuzu suya eklendiğinde, Na+ ve Cl- iyonlarıyla su molekülleri arasındaki çekim kuvvet, Na+ ve Cl- iyonları arasındaki çekim kuvvetinden daha fazla olduğundan, NaCl 
+tuzu suda çözünür. 
+��
+��
+Görsel 2.10 NaCl’nin suda çözünmesi 
+Yemek tuzu (NaCl)  suya eklendiğinde tuz kristalinin yüzeyindeki her bir iyon ile 
+su moleküllerinin kendisiyle zıt yüklü olan ucu arasında çekim kuvveti oluşur. Yani 
+su moleküllerinin negatif ucu ile iyonik bileşikteki pozitif yüklü iyonlar birbirini çekerke, su moleküllerinin pozitif ucu ile de bileşikteki negatif yüklü iyonlar birbirini 
+çeker. Diğer bir ifadeyle iyonik bileşikteki pozitif yüklü iyonların etrafı su moleküllerini oksijen taraflarıyla, negatif yüklü iyonların etrafı ise su moleküllerinin hidrojen 
+taraflarıyla sarılır. Böylece bir süre sonra tuz kristalini oluşturan iyonlar birbirinden 
+ayrılır ve her iyonun etrafı da su molekülleriyle sarılır. Buna göre iyonik bileşiklerin 
+suda çözünmesi iyonlarına ayrılma şeklinde gerçekleşir (Görsel 2.10). 
+���������
+�
+����������� ��
+�����������
+Peki, bütün iyonik bileşikler suda çözünür mü?
+KarışımlaKarışımla2. Ünit2. ÜnitKimya Kimya Su tanecikleri arasındaki etkileşim suya eklenen maddenin kendi tanecikleri arasındak etkileşimden büyük olduğunda çözünme gerçekleşmez. Benzer şekilde su tanecikler ile çözünen madde tanecikleri arasındaki etkileşim, bileşenlerin kendi tanecikler arasındaki etkileşimden küçükse yine çözünme gerçekleşmez. Örneğin kalsiyum 
+karbonat (CaCO3) tuzu suda çözünmez çünkü kalsiyum ve karbonat iyonları arasındak çekim kuvveti, bu iyonlarla su molekülleri arasındaki çekim kuvvetinden daha 
+fazladır�� ������������������������������������
+Kovalent bileşikler iyonik bileşiklerden farklı olarak moleküllerden oluşur. Oda koşullarınd katı, sıvı veya gaz hâlde bulunabilir. 
+2. dönem kimya dersi “Kimyasal Türler Arası Etkileşim” ünitesinden hatırlayacağımı gibi bazı moleküller polar yapıda, bazıları ise apolar yapıdadır. Örneğin O2, CH4, 
+CO2 gibi moleküller apolar; HCl, H2O gibi moleküller polar yapıdadır. Polar molekülle arasında dipol-dipol etkileşim gerçekleşir. Polar moleküller pozitif ve negatif uç 
+olmak üzere çift kutupludur. Polar yapıdaki kovalent bileşikler suya eklendiklerinde 
+bu moleküllerin pozitif ucu ile su moleküllerinin negatif ucu; negatif ucu ile de su 
+moleküllerinin pozitif ucu arasında çekim kuvveti oluşur. Bu etkileşimlerden dolayı 
+polar yapıdaki kovalent bileşikler, su polar yapıda olduğundan suda çözünür. Kovalent 
+bileşiklerin suda çözünmesi bileşiğin moleküllerine kadar ayrılması ve karışımın her 
+yerine dağılması şeklinde gerçekleşir. 
+Örneğin oda koşullarında sıvı hâlde olan polar yapıdaki etil alkol suya eklendiğinde, 
+etil alkol ve su molekülleri arasında güçlü bir dipol-dipol etkileşim olan hidrojen bağı 
+oluşur. Bu nedenle etil alkol suda çözünür. Kolonya, etil alkolün suda çözünmesi ile 
+elde edilen bir çözeltidir. 
+Su 
+Etil alkol 
+Etil alkol, su karışımGörsel 2.11 Etil alkolün suda çözünmesi 
+KarışımlaKarışımla2. Ünit2. ÜnitKimya Kimya Benzer şekilde polar kovalent bir bileşik olan şeker suya eklendiğinde, su molekülleriyl şeker molekülleri arasında hidrojen bağı oluşur. Bu etkileşim sonucu şeker suda 
+moleküllerine kadar ayrılır yani çözünürSu, hidrojen bağı oluşturma özelliğinden dolayı alkol, şeker, aminoasit gibi birçok 
+organik maddeleri çözer. Ancak apolar yapıya sahip olan oksijen (O2), karbondioksit 
+(CO2), karbon tetra klorür (CCl4) gibi maddeler suyla etkileştiklerinde su molekülleriyl aralarında dipol-indüklenmiş dipol etkileşimi gerçekleşir. Bu etkileşim çok zayıf 
+bir etkileşimdir. Bu nedenle apolar maddeler suda çözünmez veya çok az çözünür. 
+Özetle, polar ve iyonik yapıdaki maddeler polar çözücülerde, apolar maddeler ise 
+apolar çözücülerde daha iyi çözünür. Diğer bir ifadeyle çözücü ve çözünen maddeler 
+benzer yapıda ise çözünme olayı gerçekleşir. Bu eğilim benzer benzeri çözer olarak 
+ifade edilir. 
+�� Oksijen (O2)
+�� Hidroklorik asit (HCl)
+�� Amonyak (NH3)
+���Potasyum klorür (KCl)
+Yukarıdaki bileşiklerle su arasında hangi tür etkileşimlerin olduğunu ve hangilerini suda iyi çözündüğünü yazınız�������
+�� Oksijen apolar bir moleküldür. Su polar yapıda olduğundan oksijen suda iyçözünmez. Oksijen molekülleri ile su molekülleri arasında dipol-indüklenmidipol etkileşimi görülür�� HCl polar bir moleküldür. Su molekülleri de polar olduğundan aralarında dipo-dipol etkileşim görülür. Bu nedenle HCl suda iyi çözünür�� NH3 polar bir moleküldür. Yapısında azot (N) elementi olduğundan su ile aralarınd hidrojen bağı oluşur. NH3 suda iyi çözünür���KCl iyonik bir bileşiktir. Su molekülleriyle KCl tanecikleri arasında iyon-dipol 
+etkileşimi görülür. Suda iyi çözünür2. UygulamKarışımlaKarışımla2. Ünit2. ÜnitKimya Kimya �����������������������������������������
+Çözeltilerde çözünmüş madde miktarını belirtmek için derişik, seyreltik, derişim, 
+yüzde derişim, ppm derişim vb. çeşitli terimler kullanılmaktadır. Günlük hayatta birço üründe bu kavramlarla karşılaşmaktayız. Örneğin meyve sularının ambalajlarının 
+üzerinde, su şişelerinde, ilaçlarda vb. bu terimler kullanılmaktadır. Aşağıda bu kavramlarl ilgili açıklamalar yer almaktadır�� ����������������������������
+Çözeltiler; çözünen madde miktarı az olduğunda ���������, çok olduğunda ise �����
+��� olarak ifade edilir. Örneğin 1 küp şeker ve 3 küp şeker atılmış çayları karşılaştırdığımızd; 1 küp şeker içeren çay seyreltik, 3 küp şeker içeren çay ise derişik bir çözeltidir. 
+Görsel 2.12  Derişik ve seyreltik şekerli çay çözeltisi 
+3 küp şeker içeren çay da 4 küp şeker içeren çaya göre seyreltik bir çözeltidir yani 
+seyreltik ve derişik kavramları göreceli kavramlardır.  Şekerli çay örneğinde olduğu 
+gibi, seyreltik olarak ifade edilen bir çözelti aynı türdeki başka bir çözeltiyle karşılaştırıldığınd derişik olabilir. Bu nedenle bir çözeltiden tek başına seyreltik veya derişik 
+olarak bahsetmek her zaman anlamlı değildir. 
+BİLGİ NOTAkdeniz, Karadeniz’e göre daha derişiktir çünkü belirli miktarında daha fazla 
+oranda tuz bulunurKarışımlaKarışımla2. Ünit2. ÜnitKimya Kimya Günlük hayatta birçok çözelti seyreltik ve derişik olarak ifade edilmektedir.  Örneği baklava için hazırlanan şerbet derişik şekerli su çözeltisidir. Benzer şekilde konsantr meyve suları derişik çözeltilerdir. Bu tür meyve sularına su ilave edip seyrelterek 
+içilebilir. Konsantre ibaresini içermeyen meyve suları ise konsantre meyve sularıyla 
+karşılaştırıldığında seyreltik çözeltilerdir. 
+Görsel 2.13 Seyreltik çözelti (serum fizyolojik), 
+derişik çözelti (konsantre meyve suyu ve çamaşır yumuşatıcı)  
+Maden suyundaki minerallerle içme suyundaki mineralleri karşılaştırdığımızda 
+maden suyunun içme suyundan daha derişik olduğunu söyleyebiliriz. Hastalara takıla fizyolojik serum ise seyreltik bir tuzlu su çözeltisidir. Benzer şekilde mide asidi de 
+seyreltik HCl (Hidroklorik asit) çözeltisidirAşağıda belirtilen miktarlarda tuz ve su içeren çözeltileri derişik olandan seyreltik 
+olana doğru sıralayınıza) 
+b) 
+c)
+2 L s100 g tu1 L s75 g tu2 L s200 g tu�������
+•
+a ve c çözeltilerinin her ikisi de 2 L su içermektedir. Aynı miktardaki çözüciçin c çözeltisi daha fazla miktarda çözünen madde içerdiğinden a çözeltisingöre daha derişik bir çözeltidir3. UygulamKarışımlaKarışımla2. Ünit2. ÜnitKimya Kimya •
+a çözeltisinin yarısını başka bir kaba aktardığımızı düşünelim. Bu durumda heiki kap da 1 L su, 50 g tuz içerir. Yani çözeltinin her 1 Litresi 50 gram tuz içerirb çözeltisinin 1 litresi 75 g tuz içerdiğinden b çözeltisi de a çözeltisinden dahderişiktir•
+b ve c çözeltilerini karşılaştırdığımızda; b çözeltisinde 1 L su 75 g tuz içerdiğinde, aynı derişiklikte 2 L su 2x 75 g= 150 g tuz içerir. Yani b çözeltisinde 2 L s150 g tuz, c çözeltisinde 2 L su 200 g tuz bulunduğundan c çözeltisi b çözeltisinde daha derişiktir•
+Bu durumda c çözeltisi en derişik, a çözeltisi en seyreltiktirGünlük hayatta kullanılan birçok ürün, çözünmüş madde oranının derişik, seyrelti olarak ifade edilmesinden ziyade daha kesin ölçüm sonuçları gerektirmektedir. 
+Örneğin meyve suları, gazlı içecekler, kolonya, parfüm vb. çözeltiler gelişigüzel değil, 
+belirli oranlarda çözünmüş madde içerir. Bu nedenle çözünmüş madde oranı sayısal 
+olarak  derişim kavramıyla ifade edilir. 
+�������� belirli miktar çözücüde veya çözeltide çözünmüş hâlde bulunan madde 
+miktarının ölçüsüdür. Diğer bir ifadeyle derişim, çözünen madde miktarının çözücü 
+veya çözelti miktarına oranıdır. 

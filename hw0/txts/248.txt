@@ -1,0 +1,400 @@
+90c döndürülmesi ile oluşan A B l l l üçgeninin köşe 
+koordinatlarını bulunuz ve analitik düzlemde gösteriniz-
+-
+-
+-
+-
+-
+ABCAnalitik düzlemde 
+,
+P 4 6 ^
+h noktasının orijin etrafında negatif yönde 150c döndürülmesi ile elde 
+edilen Pl noktasını bulunuzP noktası negatif yönde 150c döndürüleceğinden 
+a =-
+c olacaktır. 
+,
+,
+,
+,
+,
+cosisicocosisicobulunu6 6 6 6 6 3 4 6 2 3 $
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+=
+=
+-
+-
+-
+-
++
+-
+=
++
+-
++
+=
+-
++
+-
++
+-
+= -
++
+-
+-
+=
+-
+-
+^
+^
+^
+^
+]
+]
+]
+]
+]
+mgDönme dönüşümü, düzlemde bir nokta dışındaki tüm noktaları değiştirir. Dönme dönüşümünü değiştirmediği bu noktaya dönme merkezi denir. Burada sadece orijin etrafında 
+dönmeden bahsedildiği için dönme merkezi orijin olarak alınacaktırDönme MerkezÇÖZÜÇÖZÜÖRNEÖRNEMatematik Analitik düzlemin II. bölgesindeki 
+,
+2 -
+^
+h noktasının orijine uzaklığı 
+birimdi2  Buna 
+göre A noktasının orijin etrafında pozitif yönde 315c döndürülmesi ile elde edilen Al noktasını 
+bulunuzAHO dik üçgeninde Pisagor teoremi uygulanırsa 
+ 
+ 
+ 
+ 
+ 
+   
+Böylece 
+,
+2 2 4 -
+^
+h olur. A noktası orijin 
+etrafında pozitif yönde 315c döndürüldüğünde 
+,
+,
+,
+,
+cosisicobulunu2 4 2 4 2 4 2 4 4 2 $
+$
+$
+$
+$
+$
+$
+$
+=
+= -
+-
+-
+= -
+-
+-
+-
+-
++
+= -
++
++
+=
++
+c]
+^
+^
+^
++
+=
+bulunu+
+=
+=
+OAA2 2 +
+=
+=
+^
+^
+Analitik düzlemde 
+,
+P x ^
+h noktasının orijin etrafında pozitif yönde 120c döndürülmesi ile oluşan 
+nokta 
+,
+-
+l^
+h noktası olduğuna göre x ve y değerlerini bulunuz-
+ÇÖZÜÇÖZÜÖRNEÖRNE,
+,
+,
+cosisico2 &
+&
+$
+$
+$
+$
+$
+$
+$
+$
+=
+=
+-
++
+-
+=
+-
+-
++
+-
+-
+-
+=-
++
+=
+-
+=
+-
+=
+-
+^
+^
+^
+]
+]
+l(1) ve (2) denklemleri ortak çözülürsolur. Bulunan x değeri ] g denkleminde yerine yazılırs&
++
+=
++
+-
+=
+=
+=
+&
+&
+&&
+bulunu+
+=
+=
+=
+DönüşümleAnalitik düzlemde 
+,
+A -
+^
+h noktası x eksen boyunca negatif yönde 4 birim ve y 
+ekseni boyunca pozitif yönde 5 birim ötelendiğind oluşan Al noktasının koordinatların bulunuzAnalitik düzlemde bir 
+,
+A x ^
+h noktası x eksen boyunca pozitif yönde 3 birim, y eksen boyunca negatif yönde 4 birim ötelendiğind oluşan Al noktasının koordinatları 
+,
+ti4 -
+l^
+ Buna göre 
+,
+A x ^
+h noktasını koordinatları çarpımı olan x $
+ değerini 
+bulunuzKöşelerinin koordinatları 
+,
+,
+,
+1 4 ^
+^
+h 
+,
+ve C 4 ^
+h olan ABC üçgeni x ekseni boyunc pozitif yönde 2 birim ve y ekseni 
+boyunca pozitif yönde 2 birim ötelenerek 
+A B l l l üçgeni elde ediliyor. Buna göre 
+A B l l l üçgeninin köşelerinin koordinatların bulunuzYandaki analitik düzlemd verilen ABC üçgen x ekseni boyunca 
+pozitif yönde 2 birim 
+ve y ekseni boyunca 
+negatif yönde 4 birim 
+ötelenerek A B l l l üçgen elde ediliyor. Buna 
+göre A B l l l üçgeninin köşelerinin koordinatların bulunuz. 
+Yanda birim kareler 
+ayrılarak 
+verilmiş 
+olan 
+analitik düzlem- 
+deki şekil x ek- 
+seni 
+boyunca 
+negatif yönde 4 
+birim ve y ekseni 
+boyunca negatif yönde 3 birim öteleniyor. 
+Buna göre oluşan şeklin köşelerinin koordinatlarnı bulunuz,
+A 3 ^
+h noktasının orijin etrafında pozitif 
+yönde 90c döndürülmesi ile oluşan noktanı koordinatlarını bulunuz,
+-
+-
+^
+h noktasının orijin etrafında poziti yönde 180c döndürülmesi ile oluşan 
+noktanın koordinatlarını bulunuz,
+C -
+^
+h noktasının orijin etrafında pozitif 
+yönde 270c döndürülmesi ile oluşan noktanı koordinatlarını bulunuz,
+2 ^
+h noktasının orijin etrafında negati yönde 315c döndürülmesi ile elde edilen 
+Dl noktasının koordinatlarının çarpımını 
+bulunuz,
+E ^
+h noktasının orijin etrafında pozitif 
+yönde 30c döndürülmesi ile elde edilen  El 
+noktasının koordinatlarını bulunuzYandaki analitik düzlemd verilen ABC üçgennin orijin etrafında 
+pozitif yönde 90c döndürülmes ile oluşan 
+A B l l l üçgeninin köşelerini koordinatların bulunuz. 
+,
+3 -
+^
+h noktasının orijin etrafında poziti yönde 60c döndürülmesi ile elde edilen 
+Al noktasının koordinatlarını bulunuz,
+2 3 -
+^
+h noktasının orijin etrafında negati yönde 120c döndürülmesi ile elde edile Bl noktasının koordinatlarını bulunuz AlıştırmalaMatematik Bir noktanın Başka bir Noktaya Göre Simetriğ,
+A 4 ^
+h noktasının 
+,
+2 -
+^
+h noktasına göre simetri dönüşümü altındaki görüntüsü olan noktanın 
+koordinatlarını bulunuz,
+A 4 ^
+h noktasının 
+,
+2 -
+^
+h noktasına göre simetriği olan nokta 
+,
+x l l ^
+h olsun. Buna gör,
+A x ^
+h noktasının 
+,
+B a ^
+h noktasına göre simetriği 
+,
+x l l ^
+h olsunB noktası AA@ nın orta noktası olduğundan 
+,
+,
+B a olu=
++
++
+^
+   
+Böylece 
+,
+A x ^
+h noktasının 
+,
+B a ^
+h noktasına göre simetri dönüşümü altındaki görüntüsü 
+olan 
+,
+x l l ^
+h noktasının koordinatları 
+,
+-
+-
+l^
+h olur,
+A x ^
+,
+B a ^
+,
+x l l '
+'
+ÇÖZÜÖRNE,
+,
+,
+,
+x bulunux ve 4 2 8 $
+$
+=
+-
+-
+=
+-
+-
+-
+=
+-
+=
+-
+=
+-
+l l ^
+^
+^
+^
+^
+,
+A 3 ^
+h noktasının 
+,
+O 0 ^
+h noktasına göre simetriği olan Al noktasının koordinatlarını bulunuz,
+A 3 ^
+h noktasının 
+,
+O 0 ^
+h noktasına göre simetriği olan 
+,
+x l l i olsun. Buna görÖRNEÇÖZÜ,
+,
+,
+,
+x bulunux ve 2 3 2 $
+$
+=
+-
+-
+=
+-
+-
+=
+-
+-
+=
+-
+=
+-
+l l ^
+^
+^
+^
+,
+&
+,
+B a a ve &
+=
++
+=
++
+=
++
++
+x ve y bulunu&
+=
+-
+=
+-
+^
+Simetri dönüşümü bir şeklin bütün noktalarının bir noktaya veya bir doğruya göre eşit 
+uzaklıkta görüntülerinin alınması ile oluşan bir dönüşümdürDüzlemde alınan bir A noktasının bir B noktasına göre simetriği Al noktası olsun. B noktasna simetri merkezi denir ve SB  ile gösterilir. 
+Eğer simetri dönüşümü bir d doğrusuna göre yapılıyor ise bu doğruya simetri ekseni denir 
+ve Sd  ile gösterilirSimetri DönüşümDönüşümle,
+A a ^

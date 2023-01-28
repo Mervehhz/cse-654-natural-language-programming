@@ -1,0 +1,400 @@
+-
++
+-
+]
+]
+ 
+fonksiyonunun daima artan olması için m nin alabileceği değer aralığını bulunuz&
+f olu=
++
+-
++
+-
+=
++
+-
++
+]
+]
+]
+]
+f fonksiyonunun daima artan olması için =
+l]  denkleminde 2  nin katsayısı pozitif ve 
+#
+ 
+olmalıdır. 2  nin katsayısı olan 3 pozitif olduğundan 
+#
+ olmalıdır&
+&
+&
+&
+&
+bulunu4 3 &
+$
+$
+#
+#
+#
+#
+#
+#
+#
+#
+#
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+&
+#
+]
+]
+]
+]
+@
+"
+:
+,
+f m =
+-
+-
+-
++
+]
+]
+ 
+fonksiyonunun daima azalan olması için m nin alabileceği değer aralığını bulunuzf fonksiyonunun daima azalan olması için =
+l]  ikinci derece denkleminde 2  nin katsayısı 
+olan  
+$
+-
+^
+h negatif ve 
+#
+ olmalıdır&
+&
+&
+&
+olu4 $
+$
+$
+#
+#
+#
+#
+#
+-
+-
+-
+-
++
+-
+]
+]
+^
+olu&
+&
+3 -
+-
+]
+^
+f m m olu&
+$
+=
+-
+-
+-
++
+=
+-
+-
+-
+]
+]
+]
+]
+vdem bulunu#
+^
+^
+ÖRNEÖRNEÇÖZÜÇÖZÜTüre"
+:f +
++ , f fonksiyonu tanımlı olduğu aralıkta daima artan olan türevlenebilir bir fonksiyondurBuna göre aşağıda verilen fonksiyonların hangilerinin artan hangilerinin azalan olduğunu bulunuz a)  2] g                     b)  f ] g                      c)  
+i                     ç)  f o ]
+]Yanda f = ] g  fonksiyonunun türevinin grafiği verilmişti. Buna göre f ] g fonksiyonunun artan ve azala olduğu en geniş aralıkları bulunuzGrafiği verilen l] g fonksiyonunun işaret tablosu yapılarak incelenirs,
+,
+,
+f fonksiyonunuv-
+]
+?
+ nda artan ve 
+,
+0 @ nda azalan olduğu görülür"
+&
+&
+:
+artave f oluolu+
++
+l]
+]
+               
+a) f $
+$
+=
++
++
+]
+]
+]
+9 ;
+ olduğundan 2] g  artandırb)  
+&
+f f f f $
+$
+=
+=-
+-
+-
+-
++
++
+]
+]
+_ ]
+]
+]
+@
+@
+@
+4444 ;
+  olduğundan f ] g  azalandırc)  
+x $
+=
++
++
+1 2 444  olduğundan 
+i artandırç)  
+&
+f o f f f f f $
+=
+=
++
++
+]
+]
+^ ]
+^ ]
+^ ]
+]
+ggg@
+444 ;
+ olduğundan f o ]
+]g artandır+@
+artaartaartaazala-
+ÖRNEÖRNEÇÖZÜÇÖZÜMatematik a)  x f f x $
+$
+=
++
++
++
+-
+^
+]
+]
+]
+g5 ;   ifadesinin sonucunun pozitif veya negatif olduğu bilinemez. 
+     Bu durumda x f $ ] g fonksiyonunun bu aralıkta artan mı azalan mı olduğu belirlenemezb)  f f $
+$
+=
++
++
+]
+]
+]
+gW  olduğundan 2] g fonksiyonu 
+,
+a ^
+h nda artandırc)  -
+$
+=
+-
++
+-
+]
+]
+g;
+ olduğundan f 2 - ] g fonksiyonu 
+,
+a ^
+h nda azalandırç) f =-
++
++
+c ^
+^
+^
+h <
+ olduğundan f ^ h  fonksiyonu 
+,
+a ^
+h nda azalandırd) 
+f f =
++
++
+^
+^
+^
+h<
+ olduğundan 
+f ^ h  fonksiyonu 
+,
+a ^
+h nda artandıre) 
++
+-
+f f $
+$
+=
+-
++
++
+?
+c ^
+^
+^
+h  olduğundan f ^ h  fonksiyonu 
+,
+a ^
+h nda azalandırYanda 
+,
+a ^
+h nda tanımlı f = ] g fonksiyonunun grafiğ verilmiştir. Buna göre aşağıda verilen fonksiyonların 
+,
+a ^
+h nda artan veya azalan olup olmadıklarını bulunuza) x f $ ] g                  b) 2] g                  c) f 2 - ] g               
+ç) ( )
+f                      d) 
+f ^ h                   e) f ^ f = ] g  fonksiyonunun grafiği incelenirse 
+,
+a ^
+h ndf ]
+]
+olduğu görülür. Buna görÖRNEÇÖZÜTüreYukarıda f = ] g fonksiyonunun grafiği 
+verilmiştirBuna göre aşağıdaki ifadelerin işaretlerini 
+bulunuza) -
+-
+]
+]
+g        b) 
+-
+-
+-
+-
++
+c) +
+]
+]
+g           ç) -
+]
+]
+d) $
+-
+l]
+]
+g          e) 
+-
+-
++
+i 
+ 
+ 
+ 
+"
+:
+,
+f =
+-
+-
+]  
+fonksiyonunun artan olduğu en geniş aralığ bulunuz 
+                       
+"
+:
+,
+f =
+-
+-
+-
+]  
+fonksiyonunun azalan olduğu en geniş aralığ bulunuz"
+:
+,
+f aa=
+-
++
+-
+]  
+fonksiyonu daima artan olduğuna göre a nın 
+alabileceği değer aralığını bulunuz 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+            
+"
+:
+,
+f =
+-
++
+-
++
+]
+^
+fonksiyonu daima azalan olduğuna göre a 
+nın alabileceği değer aralığını bulunuz. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Yukarıda 
+,
+a @ nda tanımlı f = ] g fonksiyonnun grafiği verilmiştirBuna göre aşağıda verilen fonksiyonların 
+,
+a @ nda artan veya azalan olup olmadıkların bulunuza)  
+f ] g            b)  2] g           c)  f + ]  AlıştırmalaMatematik 5.3.2. Bir Fonksiyonun Yerel Maksimum ve Yerel Minimum ile 
+Mutlak Maksimum ve Mutlak Minimum Noktalar"
+:
+,
+f ve a A olmazer^
+ bir 
+,
+a 0 ! ^
+h için fonksiyonun bu aralıktaki en 
+büyük değeri i oluyorsa 
+,
+i noktasına f fonksiyonunun bir yerel maksimum 
+noktası denirYukarıda grafiği verilen fonksiyonların 
+,
+i noktaları yerel maksimum noktalarıdırYukarıda grafiği verilen fonksiyonların 
+,
+x i noktaları yerel minimum noktalarıdır"
+:
+,
+f ve a A olmazer^
+ bir 
+,
+a 0 ! ^
+h için fonksiyonun bu aralıktaki en 

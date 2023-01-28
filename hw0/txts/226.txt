@@ -1,0 +1,400 @@
+-
++
+-
++
+-
++
+^
+]
+]
+İnsan kulağının zarar görmeden duyabileceği en büyük ses şiddeti 
+/
+watt 2  iken duyarlı olduğu en düşük ses şiddeti 
+/
+watt -
+ 
+dir. Bu yüzden insanlar karıncanın ayak seslerini, uzaydaki gezegenleri veya yıldızların hareketlerinin seslerini duyamazlarI : Kaynağın ses şiddetI0 : 
+/
+watt -
+L : Ses düzeyolmak üzere dB (desibel) türünden ses düzeyi 
+dlo$
+=
+ formülü ile hesaplanırAçık havada yapılan bir düğünde kullanılan davuldan gelen ses düzeyinin 120 dB olduğu 
+tespit edilmiştir. Buna göre davuldan gelen sesin şiddetinin kaç 
+/
+watt 2  olduğunu bulunuzwatt/=
+-
+`
+Bir radyodan gelen sesin şiddeti 4 katına çıkarsa oluşan gürültünün yaklaşık olarak kaç dB artacağın bulunuz. 
+,
+log0 ,
+^
+loglog&
+&
+&
+&
+10 log 10log log12loglog1 watt/bulunurwatt/v&
+&
+$
+=
+=
+=
+-
+=
++
+=
+=
+=
+=
+=
+-
+-
+-
+`
+G rsel 1 ÇÖZÜÇÖZÜÖRNEÖRNElolov=
+=
+nMatematik Bakteriler yaşadığı ortamda yeterli su ve besin maddesi bulduğunda 
+ve sıcaklığın uygun olduğu durumlarda hızla bölünerek çoğalırlarBir bakteri kültüründe, 
+    m: Bölünmeye başlamadan önceki bakteri sayısı 
+      t: Çoğalma için geçen süre (dakika) 
+olmak üzere çoğalma sonunda kültürdeki bakteri sayısB m 10 $
+=
+$
+-
+]  biçiminde modellenmiştirBu bakteri kültüründe başlangıçta 40 bakteri olduğuna göre 200 dakika 
+sonra ortamdaki bakteri sayısını yaklaşık olarak bulunuz. 
+,
+2 ,
+^
+P0  : Bölgenin başlangıçtaki nüfusP    : Bölgenin başlangıçtan t yıl sonraki nüfusm    : Bölgenin yıllık nüfus artış hızolmak üzere bir bölgenin nüfus                 0 $
+=
++
+]
+g  
+biçiminde modellenebilmektedirTürkiye’deki nüfus artış hızını bulmak isteyen bir sosyolog, Türkiye İstatistik Kurumunun açıkladığ verilerden yararlanmak istemektedir. Bu verilere göre 31 Aralık 2016 tarihi itibariyle 79 milyon 
+814 bin 871 olan Türkiye nüfusu 31 Aralık 2017 tarihi itibari ile 80 milyon 810 bin 525 kişi olmuştur. 
+Buna göre Türkiye’nin 1 yıl içindeki nüfus artış hızının yaklaşık olarak binde kaç olduğunu bulunuzBuna göre Türkiye’nin bir yıl içerisindeki nüfus artış hızı 1 ,,
+ (yaklaşık olarak binde 12,5) 
+olarak gerçekleşmiştir&
+$
+=
++
+=
+79 814 79 814 79 814 &
+$
+$
+=
++
+=
++
++
++
++
+=
+-
+=
+=
+=
+1,&
+$
+,
++
+=
+0,&
+$
+,
+=
+KKKKKK]
+^
+]
+]
+]
+OOOOOOG rsel 1 G rsel 1 ÇÖZÜÇÖZÜÖRNEÖRNE&
+B m ve $
+$
+=
+=
+=
+=
+$
+$
+-
+-
+]
+]
+^
+,
+bulunu2 $
+$
+,
+,
+=
+^
+M-
+M+
+C+
+:
+M-
+M+
+C+
+:
+Üstel ve Logaritmik 
+FonksiyonlaBir okulda sosyal sorumluluk projesi kapsamında 
+çalışmalar yapan bir grup öğrenciye danışman öğretme Gürkan Bey, Gıda,Tarım ve Hayvancılık 
+Bakanlığının hazırlamış olduğu bir kamu spotunu 
+izletir. Bu kamu spotuna göre 250 gramlık standart 
+ekmek üzerinden Türkiye’de ekmek israfı günde 
+1223 ton, yılda 447 bin ton, günde 4,9 milyon adet, 
+yılda 1,79 milyar adettirBir günde israf edilen 4,9 milyon adet ekmeğin;
+: 3 milyonu fırınlarda (%62,1),
+: 1,4 milyonu hanelerde (%27,7),
+: 0,5 milyonu personel ve öğrenci yemekhaneleri ile lokanta ve otellerde (%10,2) israf edilmektedir(Araştırma Sonuçları-2013, www.ekmekisrafetme.com)
+Bu kamu spotunu izleyen öğrenciler, Gürkan Öğretmen danışmanlığında bir proje hazırlar. Bu 
+proje kapsamında bir yıl içerisinde Türkiye’deki tüm fırınlara, otellere, yurtlara ve hanelere  israfın 
+azaltılması için hazırladıkları broşürleri ulaştırmayı planlamışlardır. Öğrencile1. ayın sonunda günlük ekmek israfını 1000 adet,
+2. ayın sonunda günlük ekmek israfını 2000 adet,
+3. ayın sonunda günlük ekmek israfını 4000 adet,
+4. ayın sonunda günlük ekmek israfını 8000 adet 
+olacak şekilde her ay bir önceki aya göre ekmek israfını 2 kat azaltmayı hedeflemektedirler. 
+Öğrencilerin hedeflediği şekilde israfı azaltmaları durumunda;
+a) Bir yılın sonunda Türkiye’de günlük israf edilen ekmek sayısının kaç adede düşeceğini bulunuzb) n. ayın sonunda günlük ekmek israfının azalma miktarını veren fonksiyonun grafiğini,                       
+     Dinamik Geometri ve Matematik Yazılımı programını kullanarak çiziniz. İkinci, üçüncü ve beşinci 
+    aylardaki israf edilmeyen ekmek sayısını grafik üzerinde gösteriniz1. ayın sonunda günlük $
+=
+ adet,
+2. ayın sonunda günlük $
+=
+ adet,
+3. ayın sonunda günlük $
+=
+ adet,
+4. ayın sonunda günlük $
+=
+ adet ekmek israfı önlenirx. ayın sonunda günlük  $
+-
+ adet ekmek israfını önleme çalışması yapılmış olurBu çalışma f $
+=
+-
+^  biçiminde üstel fonksiyon olarak modellenebilirO hâlde 12. ayın sonunda =
+ içif $
+=
+=
+-
+^
+ adet ekmek israfı önlenirBu durumda günlük ekmek israfı 4 900 2 048 2 852 -
+=
+ adede düşmüş olura)
+ÇÖZÜÖRNEKÖPRÜ OLUR, OKUL OLUR, YOL OLUR 
+ATTIĞIN EKMEKLE ŞEHİRLER KURULUEKMEĞİNİ İSRAF ETME!
+G rsel 1 Matematik b) Dinamik Geometri ve Matematik Yazılımı programını açınız1. Adım: 
+2. Adım: 
+3. Adım: 
+4. Adım: 
+5. Adım: 
+Giriş çubuğuna alttaki ekran klavyesini kullanarak -  yazarak enter tuşuna basıldığınd grafik ekrana gelecektirEkranda sağ tıklanarak açılan menüden en altta bulunan Grafik seçilir. Açılan pencered üstteki araç çubuğunda yEkseni tıklanır. Etiket alanına y (1000 adet) yazılır ve 
+pencere kapatılırGiriş çubuğuna 
+,^
+^ hh yazılır ve enter tuşuna basılırsa grafikte A noktası belirirken 
+giriş çubuğunda (2,2) görünecektir. 
+Giriş çubuğuna 
+,^
+^ hh yazılır ve enter tuşuna basılırsa grafikte B noktası belirirken 
+giriş çubuğunda (3,4) görünecektir. 
+Giriş çubuğuna 
+,^
+^ hh yazılır ve enter tuşuna basılırsa grafikte C noktası belirirken 
+giriş çubuğunda (5,16) görünecektiry eksenindeki değerler çarpı 1000 Adet olduğundan 
+                   2. ay 2 $
+=
+ adet ekmek israfı önlenir                   3. ay 4 $
+=
+ adet ekmek israfı önlenir                   5. ay 16 $
+=
+ adet ekmek israfı önlenirÜstel ve Logaritmik 
+FonksiyonlaAşağıdaki üstel denklemlerin çözüm kümelerin bulunuz3 $
+=
+-
++
+ denkleminin çözüm 
+kümesini bulunuzlo=
+log 3 +
+^
+ denkleminde x değerin bulunuzlolo$
+=
++
++
+ 
+denkleminde x değerini bulunuzlololo$
+=
+ 
+denkleminin çözüm kümesini bulunuzlllog =
+ 
+denkleminin çözüm kümesini bulunuz)
+)
+)
+)
+)
+)
+lolololololololololo=
+=
+=
+=
+=
+=
+-
++
+-
++
+-
++
+-
++
++
+-
+lo5 +
+]
+]
+]
+]
+]
+gAşağıdaki logaritmik denklemlerin çözüm 
+kümelerini bulunuz)
+)
+)
+)
+) 2 $
+=
+=
+=
+=
+=
++
+-
++
++
+-
+-
++
++
+-
++
++
+lolo=
+-
+^
+ 
+denkleminin çözüm kümesini bulunuz.                                                                               
+llll=
++
++
+-
+]
+ 
+denkleminin çözüm kümesini bulunuzlolo=
+-
+-
+-
+13]
+]
+ 
+denkleminde x değerini bulunuz AlıştırmalaMatematik Bir bakteri türünün sayısı her saatte 3 katına 
+çıkmaktadır. Başlangıçtaki bakteri sayısı 10 
+olduğuna göre bu bakteri türünün yaklaşık 
+kaç saat sonra başlangıçtaki sayısının 10 000 
+katı olacağını bulunuz,
+log0 ,
+^
+L ses düzeyi ve I ses şiddeti olmak üzere 
+bir insanın normal konuşma ses düzeyi  70 
+dB olduğuna göre normal konuşmanın ses 
+şiddetinin  kaç 
+/
+watt 2  olduğunu bulunuzHCl çözeltisinin pH değeri 3 olduğuna göre 
+bu çözeltideki +
+A derişiminin kaç molarit olduğunu bulunuzlopH =-
++
+/
+lodwatt =
+=
+-
+KKKKKKKOOOOOOOlo#
+#
+-
+]
+ 
+eşitsizliğini sağlayan x tam sayılarının toplamın bulunuzlolo+
+-
+]
+ 
+eşitsizliğini sağlayan kaç tane a tam sayısı 
+olduğunu bulunuzlo-
+]
+ 
+eşitsizliğini sağlayan en büyük  x tam sayısın bulunuz11 Aşağıdaki eşitsizliklerin çözüm kümelerini 
+bulunuz)
+)
+)
+)
+)
+)
+)
+)
+lolololololo$
+#
+#
+$
+#
+-
+-
+-
++
+-
++
+-
++
+-
++
++
+-
+]
+]
+]
+19 Mikron cinsinden ölçülen maksimum genliğ d ve depremin Richter ölçeğine göre 
+büyüklüğüne R denilirse 
+lo=
+ ile hesaplanı. Buna göre genliği 80 mm olarak 
+ölçülen depremin Richter ölçeğine göre 
+büyüklüğünü yaklaşık olarak bulunuz.  
+,
+lovmmikro0 ,
+=
+`
+lo-
++
+ 
+eşitsizliğinin çözüm kümesini bulunuzÜstel ve Logaritmik 
+FonksiyonlaA) 1-5. sorularda boş bırakılan yerler     uygun ifadeleri yazınızIIIIIIIVVVI Tabanı e olan logaritma fonksiyonuna         
+................. logaritma fonksiyonu denir-
+lof =
++
+]
+]
+^
+ fonksiyonunun en 
+geniş tanım kümesi .........................olurlolog =
+^
+ eşitliğinde  x basamaklı bir sayıdırlo+
+ ifadesinin eşiti ....................olurlolog +
+=
+^
+ eşitliğinde x .........olur,
+lololololololololoIIIIV0 ,
+lololo0 $
+$
+-
+-
+-
+-
+-
+)
+)

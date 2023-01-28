@@ -1,0 +1,400 @@
+aşağıdaki tabloda x değerleri için f, g ve 
+fog -  fonksiyonları altındaki görüntülerden 
+bazıları verilmiştir-
+ f(x)
+-
+g(x)
+( )
+fo-
+ 
+Yukarıda verilenlere göre +
+ ifadesinin 
+değeri kaçtır?
+        A) 3        B) 4       C) 5          D) 6          E) 20. 
+Taksimetre 
+Açılış ÜcretKilometre 
+Başına ÜcreAntaly₺ 4,00 
+₺ 3,İstanbu₺ 3,₺ 2,00 
+Yukarıdaki tabloda Antalya ve İstanbul’daki 
+taksimetre tarifeleri verilmiştir. Antalya’da 
+çalışan Polen Hanım bir toplantı için İstanbul’a 
+hava yolu ile gitmiştir.  Antalya’daki iş yerinden 
+taksiye binen Polen Hanım Antalya havaalanın gelmiş ve uçağa binip İstanbul’a ulaştıktan 
+sonra da taksi ile toplantı salonuna varmıştır. 
+Dönüşte de aynı yöntemi kullanan Polen Hanı taksi ile toplam 40 km yol gitmiş ve ₺ 101 
+taksi ücreti ödemiştir. 
+Buna göre Polen Hanım’ın Antalya’daki iş yeri 
+ile Antalya havaalanı arasında taksi ile gittiği 
+uzaklık  kaç kilometredir?
+      
+      A) 3          B) 4          C) 5          D) 6         E) DEĞERLENDİRMCevaplarınızı cevap anahtarı ile karşılaştırını. Yanlış cevap verdiğiniz ya da cevap 
+verirken tereddüt ettiğiniz sorularla ilgili 
+konuları veya faaliyetleri geri dönerek tekrarlayını. Cevaplarınızın tümü doğru ise bir 
+sonraki öğrenme faaliyetine geçiniz10.3.1. Polinom Kavramı ve Polinomlarla İşlemle10.3.2. Polinomların Çarpanlara Ayrılmas10.3. POLİNOMLAHazırlık Çalışmas23x+6x+Emekliler için belediye tarafından bir kenar uzunluğu x metre 
+olan kare şeklindeki bir parkın  dört köşesine bir kenarı y 
+metre olan kare şeklinde dinlenme ve sohbet alanları yapılmıştı. Parkın bu alanlar dışında kalan kısmının alanını veren 
+ifadeyi cebirsel olarak yazınızDikdörtgen ve karelerden oluşan yandaki şekil üzerinde 
+dikdörtgen ve karelerin kenar uzunlukları verilmiştir. Bu parçaları birleşmesiyle oluşacak dikdörtgenin alanını cebirsel 
+olarak ifade edinizMüteahhit, tatil sitesine köşeleri dik kesişen yandaki şekildki gibi bir havuz yaptırmak istiyor. Bu havuzun çevresine 
+taşan suların yeşil alanların sulanmasında değerlendirilmesi 
+amacıyla havuzun çevresi boyunca ızgara yerleştirmek 
+istiyor. Bunun için gerekli olan ızgaranın uzunluğunu veren 
+cebirsel ifadeyi yazınız (Izgaranın genişliği önemsenmeyecekti.)Bir tekstil fabrikasının üretim bölümünde A, B, C, D, E şeklinde farklı tekstil modeli üretimi yapan 5 tip 
+makine vardır. Fabrikanın üretim bölümünde A makinesinden 3, B makinesinden 4, C makinesinden 5, D 
+makinesinden 2 ve E makinesinden 6 adet vardır. x  saat olmak üzere A makinesi x  saatte x4  adet, B 
+makinesi x  saatte x3  adet, C makinesi x  saatte x2  adet, D makinesi x  saatte x  adet ve E makinesi x  
+saatte 5 adet ürün üretmektedirBu fabrikanın x  saatteki toplam 
+üretim miktarını veren ifade, 
++
++
++
++
+ şeklinde bir 
+çoklu terimdir. Bu çoklu terime P(x) 
+denilirse 
+( )
+P =
++
++
++
++
+ 
+olur. Bu ifadeye matematiksel olarak 
+polinom denir. Polinom, Türk Dil 
+Kurumunun Türkçe Sözlük’ünde “çok 
+terimli” olarak tanımlanmaktadır. 
+Niğde Valiliği bu firmayı arayarak 15 
+Temmuz’u Anma kapsamında şehirdeki 
+etkinliklerde kullanılmak üzere toplam 
+34 550 adet Türk Bayrağı ve Ömer 
+Hâlisdemir desenli bayrak siparişi veriyor. 
+Pazarlama bölümüne gelen sipariş 
+adedi, üretim bölümüne iletildiğinde bu ihtiyacın tüm makinelerin onar saatlik toplam üretim miktarına 
+karşılık geldiği hesaplanıyor. Makinelerin üretim yapmasını sağlayan sisteme 10 sayısı girildiğind(
+)
+P 3 4 5 2 34 $
+$
+$
+$
+=
++
++
++
++
+=
+ adet bayrak üretilmesi sağlanıyor. 
+10.3.1. Polinom Kavramı ve Polinomlarla İşlemle10.3.1.1. Bir Değişkenli Polinom KavramAşağıda verilen ifadelerin polinom olup olmadıklarını bulunuza) 
+( )
+P = -
++
+-
++
+b) 
+( )
+Q = -
++
+-
++
+c) 
+( )
+R =
++
++
+   • Bir değişkenli polinom kavramını,
+   •  Polinomlarla toplama, çıkarma, çarpma ve bölme işlemlerini kavramayı öğreneceksinizBilgx bir değişken, ve a , a , a , ..., !
+ birer gerçek sayı olmak üzerP(x)
+=
++
++
++
++
++
+$
+$
+$
+$
+-
+-
+biçimindeki ifadeye gerçek katsayılı ve bir değişkenli polinom (çok terimli) adı verilir. x değişkenin bağlı polinomlar 
+( ),
+( ),
+( ), P x Q x R  gibi ifadelerle gösterilira) P(x) in her x değişkeninin üssü birer doğal sayıdır. Dolayısıyla P(x) bir polinomdurb) Q(x) te v=
+-
+-
+ olduğundan Q(x) bir polinom değildirc) R(x) in her x değişkeninin üssü birer doğal sayıdır. Dolayısıyla R(x) bir polinomdurSembol ve GösterimleP(x)
+   Terimler ve Kavramla• 
+Polinom, Polinomun 
+Dereces• 
+Polinomun Katsayılar• 
+Polinomun Baş Katsayıs• 
+Polinomun Sabit Terim• 
+Sabit Polinom, Sıfır 
+Polinom• 
+Polinomun SıfırlarPolinomun Derecesi, Katsayıları ve Sabit Terima) P ^ h polinomunun derecesi 6 dır ve 
+[ ( )]
+der P =
+ olarak ifade edilirb) P ^ h polinomunun katsayıları 
+,
+,
+,
+,
+,
+,
+7 4 0 8 7 -
+-
+ tir (
+x ve x l2  terimlerinin katsayısı 0 dır.)c) P ^ h polinomunun baş katsayısı 
+7 -
+ teriminin katsayısı olan 
+-  dird) P ^ h polinomunun sabit terimi 15 tir (üssü 0 olan terimin katsayısı)P(x) ifadesinin bir polinom belirtmesi için ve !
+!
+-
+ olmalıdırolur&
+$
+$
+-
+ Buradan 
+, , ,3 4 ! "
+,  olur!
+ şartını sağlayan doğal sayılar 
+, , , , ,
+1 2 3 4 6 ! "
+,  olurHer iki koşulu da sağlayan n değerleri 3, 4, 6 ve 12 dir. Toplamları ise +
++
++
+=
+ olur( )
+P = -
++
++
+-
++
+ polinomu veriliyor. Buna göra) P(x) polinomunun derecesini bulunuzb) P(x) polinomunun katsayılarını bulunuzc) P(x) polinomunun baş katsayısını bulunuzd) P(x) polinomunun sabit terimini bulunuz( )
+P = -
+-
++
+-
+-
+ ifadesinin bir polinom belirtmesi için n nin alabileceği değerler toplamını 
+bulunuzBilg( )
+P $
+$
+$
+$
+=
++
++
++
++
++
+-
+-
+ polinomunda,
+• 
+x , , x , x , $
+$
+$
+$
+-
+-
+ ifadelerine polinomun terimleri denir• 
+a , , ..., a , a , -
+0  gerçek sayılarına polinomun katsayıları denir• x değişkeninin aldığı en büyük üsse polinomun derecesi denir ve der[P(x)] ile gösterilir• Bir polinomun en büyük dereceli teriminin katsayısına polinomun baş katsayısı denir• 
+a0  ifadesine polinomun sabit terimi denir( )
+Q = -
++
+ polinomunda x  yerine +  yazılırs(
+)
+(
+)
+olu$
++
+= -
++
++
+= -
++
+(
+)
+( )
+&
+&
+-
+-
+=
+=
+=
+ değeri 
+(
+)
+(
+)
+P x Q $
+$
+-
++
++
+-
+=
++
++
+ ifadesinde x yerine 
+yazılırs(
+)
+(
+)
+( )
+( )
+olu3 $
+$
+$
+$
+$
+-
++
++
+-
+=
++
++
+-
++
+=
+                                                 
+Elde edilen eşitlikte P(5) yerine 
+-  yazılırs(
+)
+( )
+( )
+( )
+( )
+olu$
+$
+$
+$
+-
+-
++
+=
++
+=
+=
+=
+(
+)
+-
+=
+-
++
+ olduğuna göre 
+(
+)
+-
+değerini bulunuzVerilen polinomda -
+ ifadesi 
+-  ye eşitlenirse &
+-
+= -
+= -   olur. Bu değer, 
+(
+)
+-
+=
+-
++
+ polinomunda x yerine yazılırs 
+(
+)
+(
+)
+olu$
+$
+$
+-
+-
+=
+-
+-
+-
++
+-
+=
++
++
+-
+=
+]
+^
+]
+]
+( )
+Q = -
++
+ olduğuna göre 
+(
+)
++
+ polinomunu bulunuzP(x) ve Q(x) birer polinom olmak üzere 
+(
+)
+(
+)
+P x Q $
+$
+-
++
++
+-
+=
++
++
+ ve 
+-
+( )
+P =
+ olduğuna göre 
+( )
+Q 2  değerini bulunuz( )
+P =
+-
++
+-
+ olduğuna göre 
+( )
+P 2  değerini bulunuzP(x) polinomunda x yerine 2 yazılarak P(2) değeri hesaplanır. Burada( )
+olu2 5 2 $
+$
+$
+=
+-
++
+-
+=
+-
++
+-
+= -
+ 
+İpucBir polinomun katsayıları toplamı, polinomun değişkeninin yerine 1 yazılarak bulunur• 
+( )
+P x  polinomunun katsayıları toplamı 
+( )
+P 1  dir. 
+• 
+(
+)
+P +
+ polinomunun katsayıları toplamı 
+(
+)
+( )
++
+=
+ olur• 
+(
+)
+Q 2 +
+-
+ polinomunun katsayıları toplamı 
+(
+)

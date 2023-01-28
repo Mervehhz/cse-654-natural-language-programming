@@ -1,0 +1,400 @@
+=
+=
+d) 15 c+
+=
+=
+=
+e) 49– 2 6 c+
+=
+=
+=
+=
+f) 
+4 c+
+=
+=
++
+=
+^
+^
+g) 5 c+
+=
++
+=
+=
+=
+^
+ 2. 
+ABC ve EDB dik üçgeADAEAcBc=
+=
+=
+=
+@
+@ 
+olduğuna göre 
+?
+Dx ka cm di=
+ bulalımMatematik I2. BölüÇözüABC dik üçgeninde pisagor teoremi uygularsak,
+AAA8 cm bulunur+
+=
+=
+=
+E5 cm bulunur+
+=
++
+=
+=
++
+=
+=
+EDB dik üçgeninde pisagor teoremi uygularsak,
+3. 
+5 Binanın dış cephesini boyayacak olan kişi merdivenin binaya 5 m mesafede kurabilmektedir. 
+Merdivenin yüksekliği 13 m olduğuna göre, binanı dış cephesinin en fazla kaç metreye kadar 
+boyanabileceğini bulalımÇözü5 13 Resme ait geometrik çizim yapıp verilen uzunluklar üzerine yazalım. 
+ABC üçgeninde Pisagor teoremi uygularsak,
+12 m bulunur=
++
+=
+AB  
+ EB  
+=  8 olduğundan              
+= 4 cm olurMatematik I2. BölüÜçgenle425x – Bir ABC üçgeninde !
+ olmak üzerABAx cAC 
+Bc=
+=
+=
+=
+@
+@
+olduğuna göre x değerini bulalımÇözüBC  kenarı 15 cm olduğu için ABC dik üçgeninde kenarlar arasında 8k – 15k – 17k 
+bağıntısının sağlanıp sağlanmadığına bakalım8k – 15k – 17k  ⇒ 
+15k = 15 cm  
+   8k = 2 x 
+k = 1 cm dir. 
+8 . 1 = 2 x 
+2x    15    5x – 3 
+x = 4 cm 
+  17 k = 5x –17 . 1 = 5x – 3                
+      x  = 4 cm bulunurx = 4 için ABC üçgeninin kenarları arasında 8k - 15k - 17k bağıntısı sağlanır5ABC ikizkenar üçgen, 
+AAcBcCc=
+=
+=
+=
+ 
+olduğuna göre |AD| = x kaç cm dir? BulalımÇözüABC ikizkenar üçgen olduğu için A köşesinden 
+indirilen dikme B@ kenarını iki eş parçaya 
+böler. 
+BHcm olu=
+=
+ABH üçgeninde Pisagor teoremini uygularsak,
+BAAAA8 c+
+=
++
+=
+=
+AHD üçgeninde pisagor teoremi uygularsak,
+17 cm bulunur=
++
+=
+(5x – 3) cMatematik I2. Bölü6. 
+ABC , ACD ve AED dik üçgeAcBcCcAc=
+=
+=
+=
+olduğuna göre |ED| = x kaç cm dir? BulalımÇözüABC üçgeninin kenarları arasında 3k – 4k – 5k bağıntısı sağlanır12 = 3 . 4 
+16 = 4 . 4 
+|AC| = 5 . 4  = 20 cm olurACD üçgeninin kenarları arasında 3k – 4k – 5k bağıntısı sağlanır15 = 3 . 5 
+20 = 4 . 5 
+|AD| = 5 . 5  = 25 cm olurAED üçgeninin kenarları arasında 7k –24k – 25k bağıntısı sağlanır7 = 7 . 25 = 25 . 1 
+x = 24 . 1  = 24 cm bulunurALIŞTIRMALA13 3 ABC ve BDC dik üçgeAcBcDcAx ve B3 3 =
+=
+=
+=
+=
+olduğuna göre x + y kaç cm dir?
+A) B) C) D) Matematik I2. BölüÜçgenle2. 
+ABCD dörtgen,
+ABADAcAcDc=
+=
+=
+=
+=
+@
+@
+@
+@
+olduğuna göre |BC| = x kaç cm dir?
+A) B)
+C) D)
+3. 
+ABC dik üçge,
+ABAcBcDcEcAy Ax ve A=
+=
+=
+=
+=
+=
+=
+=
+@
+@
+olduğuna göre x + y + z kaç cm dir?
+A) B) C) D) 4. 
+A ile B şehirleri arası 50 km,
+B ile C şehirleri arası 450 kC ile D şehirleri arası 190 km dirA şehrinden D şehrine gidecek olan uçağın alacağı en kısa mesafe kaç km dir?
+A) B) C) D) 5. 
+ABC bir  ikizkenar üçgeAAcBcDc=
+=
+=
+=
+olduğuna göre |AD| = x kaç cm dir?
+A) B) C) D) Matematik I2. BölüPythagoros ( Pisagor, MÖ 596 – MÖ 500)
+Pisagor M.Ö 596 ve 500 yılları arasında yaşamış olduğu tahmin edilen Yunan filozo ve matematikçisidir. Pisagor ilk eğitimini doğduğu Sisam Ada’sında almıştır. 
+Hayatı hakkında çok fazla bilgi edinilmemiştir. Babası ile farklı şehirlere giderek 
+Thales’in öğrencisi olmuştur. Thales’in isteği ile Babil ve Mısır’a giderek öğrenimine  
+devam etmiştir. Döndüğünde ülkesinin içinde bulunduğu politik baskılardan dolayı 
+İtalya’nın Kroton şehrine yerleşip ünlü felsefe okulunu kurmuştur. Pisagor ve 
+öğrencileri bu okulda yaşıyor ve kendilerine “Pisagorcular” diyorlardıPisagorcuların bilim alanında en büyük başarıları astronomide olmuştur. İlk defa 
+yeri, evrenin merkezi olmaktan çıkarmışlar onu küre şeklinde düşünmüşler ve yerin 
+evrenin ortasında görünmeyen merkezi ateşin etrafında dolandığını söylemişlerdir. 
+En iyi bilinen önermesi, kendi adıyla anılan Pisagor Teoremidir. Pisagor ve 
+öğrencileri, her şeyin matematikle ilgili olduğuna, matematik aracılığıyla her şeyin 
+ölçülebileceğine inanırlardıRaffaello’nun “Atina Okulu”tablosÖklid Teorem
+Bir dik üçgende dik açıdan hipotenüse dikme indirilere
+1)p 2)p 3) k 4)a b $
+$
+$
+$
+$
+$
+$
+=
+=
++
+=
+=
++
+=
+=
+^
+^
+eşitlikleri elde edilir. Bu eşitliklere Öklid Teoremi denirÜçgenleMatematik I2. BölüÜçgenleÖRNEKLE1. 
+ABC bir dik üçge,
+,
+,
+ABBcHcm AAx A=
+=
+=
+=
+=
+=
+@
+@
+olduğuna göre x+y+z kaç cm dir? BulalımÇözüABC üçgeninde Öklid teoremi uygularsak,
+4 2 5 c$
+=
+=
+=
+4 6 c=
++
+=
+=
+^
+5 3 5 c2=
++
+=
+=
+^
+cm bulunu2 3 5 +
++
+=
++
++
+=
++
+2. 
+3 x+ABC bir dik üçgeABAHB3 =
+= 
+c=
++
+=
+@
+@
+olduğuna göre x değerini bulalım?
+ÇözüABC üçgeninde Öklid teoremi uygularsak,
+x x x br bulunu3 3 $
+=
++
+=
++
+=
++
+=
+^
+^
+^
+^
+(         ) cx = 3 cm bulunurMatematik I2. Bölü3. 
+ABC bir dik üçgeABDAAcEcDB=
+=
+=
+=
+=
+=
+@
+@
+@
+@
+olduğuna göre x + y toplamını bulalımÇözüADC üçgeninde Öklid teoremi uygularsac2 =
++
+=
+=
+^
+ABC üçgeninde Öklid teoremi uygularsax 4 412 c2 =
++
+=
++
+=
++
+=
+^
+^
+x + y = 4 + 12 =16 cm bulunurALIŞTIRMALA1. 
+ABC bir dik üçge[AB] ^ [AC]
+AcB=
+AD 
+= 
+=
+=
+olduğuna göre x kaç cm dir?
+A) B) C) D) DcÜçgenleMatematik I2. BölüÜçgenle2. 
+ABC ikizkenar üçgen 
+|AB| = |AC|
+AABcDcm di=
+=
+=
+@
+@
+Yukarıda verilenlere göre |AD| = x kaç cm dir?
+A) B) C) D) 3. 
+ABC ve BDC dik üçgeABDBBHcKcAD=
+=
+=
+=
+=
+=
+=
+@
+@
+@
+@
+olduğuna göre x + y kaç cm dir?
+A) 2 +
+B) 8 C) 2 +
+D) 6 +
+4. 
+ABCD dikdörtge[AC] köşegeDADcAc=
+=
+=
+@
+@
+olduğuna göre |DC| = x kaç cm dir?
+A) 2 B) C) 4 D) 4 Matematik I2. BölüÜçgenle1. ÜnitÜçgenleEuclides (Öklid) ( MÖ 330 – MÖ 275)
+Öklid, çağlar boyu yalnız matematik dünyasında değil, 
+matematikle ilgili herkesin gözünde yetişkin bir kişiydi. 
+Öklid MÖ 300 sıralarında yazdığı 13 ciltlik “Elementler” 
+adlı yapıtıyla ün salmıştır. Bu yapıt, geometriyi ispat bağlamınd işleyen ilk kapsamlı çalışmadır. Eğitimini Atina'da 
+Platon'un ünlü akademisinde tamamladığı sanılmaktadır. 
+Platon'un akademisinin giriş kapısında , “Geometriyi bilmeye hiç kimse bu kapıdan içeri alınmaz” yazmaktaydıÖklid İskenderiye Kraliyet Enstitüsünde dönemin en saygın öğretmeni ve alanınd yüzyıllar boyu baş yapıt olarak kalan bir ders kitabının yazarıdır. Kendinde önceki Th ales, Pisagor, Platon, Aristoteles gibi matematikçi ve geometricileri çalışmalarını temel alan Elementler Kitabı iki bin yıl boyunca önemli bir 
+kaynak olarak kullanılmıştır. Düzlem geometrisi, aritmetik sayılar kuramı, irrasyone sayılar ve katı cisimler geometrisi ele aldığı başlıca konulardandırÖklid Elementler’in ilk cildinde beşi aksiyom dediği genel ilkeden, beşi de 
+postulat dediği geometriye özgü ilkeden oluşan on öncüle yer verilmiştirÖklid’in aksiyomları şunlardır: 
+1. İki noktadan bir ve yalnız bir doğru geçer2. Bir doğru parçası iki yöne de sınırsız bir şekilde uzatmak mümkündür3. Bir merkez ve bir yarıçap ile bir çember tanımlamak mümkündür4. Bütün dik açılar eşittir5. Bir doğruya dışında alınan bir noktadan bir ve yalnız bir paralel çizilirMatematik I2. BölüÜçgenlePisagor ve Öklid Teoremiyle İlgili Uygulamala1. 
+ABC dik üçge[AH] = [BC]
+A4 cA3 cm      di=
+=
+Yukarıda verilenlere göre AH  = h kaç cm dir? BulalımÇözüABC üçgeninde Pisagor teoremi uygularsak,
+AABBBB5 cm bulunur+
+=
++
+=
+=
++
+=
+=
+ABC üçgeninde Öklid teoremini uygularsak,
+AAAB$
+$
+=
+4 h $
+$
+=
+h= 12 = 2,4 cm bulunur2. 
+Konak SokaYıldız SokaAkdeniz CaddesAtatürk Caddes90 40 Şekildeki Yıldız Sokak ile Akdeniz Caddesi’nin kesişiminden yürümeye başlayan 
+kişi Konak Sokak’tan geçerek Akdeniz Caddesi ile Atatürk Caddesi’nin kesişimine gidecektiMatematik I2. BölüYıldız Sokak ile Akdeniz Caddesi arasında kalan Atatürk Caddesi’nin uzunluğu 
+130 m ise Bu kişinin aldığı toplam yol kaç metre olduğunu bulalımÇözüŞekle ait geometrik çizimi yapıp soruda verilen uzunlukları üzerine yazalım. [AB] 
+Yıldız Sokak, [BC] Atatürk Caddesi, [AC] Akdeniz Caddesi, [AH] Konak Sokak’ı 
+temsil etmek üzere; 
+[AH] ^ [BC] ve [AB] ^ [AC] olduğunda Öklid Teoremi uygularız. 
+x2 = |BH| . |HC|
+x2 = 40 . x2 = x = 60 Aldığı toplam yol = 60 + 90 = 150 metredir3. 
+ABC üçgenindm ABm CA=
+%
+%
+AB=
+@
+@ 
+A8 cB12 cvdi=
+=
+Yukarıda verilenlere göre AH  kaç cm dir? BulalımÇözü8 c12 c
+m ABm BA+
+=
+^
+%
+ olduğunda∑
+(
+)
+BAC =
++
+=
+c bulunurÜçgenleMatematik I2. BölüÜçgenleABC dik üçgeninde Pisagor teoremini uygurlarsak,
+AABAAAA4 cm olu+
+=
++
+=
++
+=
+=
+–64 =
+=
+ABC üçgeninde Öklid Teoremi uygularsak,
+ABAA$
+$
+=
+ olduğundaA$
+=
+¡ 
+A4 32 8 .=
+=
+=
+ bulunur4. 
+ABC bir üçge[AB] = [AC]
+A4 cB2 cD8 cdi=
+=
+=
+Yukarıda verilenlere göre A=
+ kaç cm dir? BulalımÇözüABC üçgeninde,
+ABD 2.      =
+=
+=
+olduğundan Öklid teoremi sağlanır ve [AD] ⊥ [BC] olurABD dik üçgeninde Pisagor teoremini uygularsak, 
+ABA=
++
+x2 = 22 + x2 = 4 + x2 = 20 
+&
+bulunu2 =
+Matematik I2. BölüALIŞTIRMALA1. 
+ABC dik üçgeAB=
+@
+@
+A6 cA8 cm di=

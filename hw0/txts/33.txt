@@ -1,0 +1,400 @@
+=
+=
+=
+A EBBcm bulunu$
+$
+=
+=
+=
+=
+&
+Matematik I2. BölüÜçgenle5. Bir kenar uzunluğu 8 cm olan eşkenar üçgenin alanı kaç cm2 dir?
+ÇözüBir kenarının uzunluğu a birim olan eşkenar üçgenin alanı A AB=
+&
+ türBu durumda A AB64 16 3 cm bulunur&
+=
+=
+=
+=
+&
+6. Yüksekliği 12 cm olan bir eşkenar üçgenin alanı kaç cm2 dir?
+ÇözüBir kenarının uzunluğu a birim olan eşkenar üçgenin yüksekliği a =
+ dirBuna göre h = 12 olduğundan 
+c24 8 &
+&
+=
+=
+=
+=
+=
+A AB8 64 48 3 cm bulunur$
+$
+$
+=
+=
+=
+=
+^
+&
+7ABC eşkenar üçgen,
+KccKM 
+Kc=
+=
+=
+olduğuna göre A ABC kaç br dir?
+&
+ bulalımÇözüh eşkenar üçgenin yüksekliği olmak üzer30 10 =
++
++
+=
+=
+=
+=
+=
+=
+=
+ 
+A AB10 100 b75 3  
+bulunur2 $
+$
+$
+=
+=
+=
+=
+^
+&
+cmccMatematik I2. BölüÜçgenleBİLGİ KUTUS1ABC eşkenar üçgeninin içinde alınan herhangi bir noktadan 
+kenarlara çizilen paralel doğru parçalarının uzunlukları toplam eşkenar üçgenin bir kenar uzunluğuna eşittir. 
+KKK+
++
+=
+2ABC ikizkenar üçgeninde |AB| =|AC| ise taban üzerind alınan herhangi bir noktadan eş kenarlara 
+çizilen paralel doğru parçalarının toplamı eş 
+uzunluklu kenarlara eşittirAADD=
+=
++
+8. 
+ABC eşkenar üçgenind//
+//
+//
+KBKAKAKcKcA AB36 =
+=
+=
+@
+@
+@
+@
+@
+@
+&
+olduğuna göre x kaç cm dir? BulalımÇözüA ABc36 2 $
+=
+=
+=
+&
+a = 3+7+12 = 10 +   x = 2 cm bulunurcMatematik I2. Bölü9. 
+ABC ikizkenar üçgenindABBABcAAC 
+10 c=
+=
+=
+=
+=
+@
+@
+@
+@
+olduğuna göre |BL| uzunluğu kaç cm dir? BulalımÇözüA ABABBBBcm bulunur9,&
+$
+$
+$
+8 $
+=
+=
+=
+=
+=
+&
+10x ABC ikizkenar üçgenindAADADAD8 cA=
+=
+=
+=
+=
+AB 
+=
+c@
+@
+@
+@
+A (ABC) = 60 colduğuna göre |DE| = x uzunluğu kaç cm dir? BulalımÇözü
+A AB&
+$
+=
+=
+=
+&
+h = x + 8 olduğundan  
+x = 2 cm bulunurc Acm olur.      
+=
+96 =    BL    $
+&
+BK  =  CK  = 6 cm olduğundaÜçgenleMatematik I2. BölüÜçgenleİki Kenarının Uzunluğu ve Bu Kenarlar Arasındaki Açının Ölçüsü Verilen 
+Üçgenin AlansisisiA a Bb $
+$
+$
+$
+$
+$
+$
+$
+$
+=
+=
+=
+&
+ÖRNEKLE1. 
+4 60°
+ABC üçgenindm BAAcAc4 °
+=
+=
+=
+%
+olduğuna göre  A AB&  kaçtır? BulalımÇözü°
+siA ABcm bulunur1 6 4 1 6 4 $
+$
+$
+$
+$
+$
+=
+=
+=
+&
+2. 
+ABC ve ADE üçgenlerindAcm, AcDcm, Ec=
+=
+=
+=
+olduğuna göre  
+A ABA AD&
+&
+ oranını bulalımÇözüA AD1 ·5· 2·sinA AB1 ·8· ·sin=
+=
+^
+&
+&
+sinsin5 bulunurA ABA AD8.95.2=
+=
+=
+^
+&
+&
+Matematik I2. Bölü3ABC dik üçgen, DCE üçgeB, C, E doğrusaAcm, BcDcm, Cc=
+=
+=
+=
+olduğuna göre A DC&  kaç br2 dir? BulalımÇözü°
+180 –°
+°
+sisim ACD –
+–
+=
+=
+=
+=
+^
+%
+%
+siA DC1 3 180° –
+$
+$
+$
+=
+^
+&
+1 3 5 $
+$
+$
+=
+br olu=
+4. 
+ABD ve BEC üçgenlerindAcEcBcDx cA ABA EB=
+=
+=
+=
+=
+&
+&
+olduğuna göre x uzunluğu kaç cm dir? BulalımÇözü,
+,
+sisiABEBcm bulunur8 5 9 3 $
+$
+$
+$
+$
+$
+$
+=
+=
++
++
+=
+=
+^
+^
+^
+cmcm2 olurA AB&
+&
+i =
+A EBCÜçgenleMatematik I2. BölüÜçgenleYükseklikeri Aynı Olan Üçgenlerin Alan 
+Yükseklikleri eşit olan üçgenlerin alanlarının oranı taba uzunluklarının oranına eşittirA ABy x A AD$
+$
+=
+=
+&
+&
+C 
+345A ABA A CD=
+=
+=
+&
+&
+&
+Yüksekleri aynı olan üçgenlerin alanları taban uzunlukları ile orantılı olduğundan 
+yukarıdaki eşitlik yazılır. 
+ÖRNEKLE1ABC üçgenindBDcA AD=
+=
+=
+&
+olduğuna göre 
+?
+A ABD ka br di&
+ BulalımÇözüABD ve ADC üçgenlerinin yükseklikleri eşit olduğu için alanlarının oranı taban 
+uzunlukluklarının oranına eşittirA ADA ABA ABA AB=
+=
+=
+&
+&
+&
+&
+cmcmcmMatematik I2. Bölü2ABC üçgenindBDcFAcBE=
+=
+=
+=
+=
+A A&
+BEi = 
+ 
+olduğuna göre 
+?
+A ABC ka br di&
+ BulalıÇözüA ABA AE5 b=
+=
+&
+&
+ (Tepe noktaları aynı olduğ için yükseklikleri eşittir.)
+A FBA ABA FBA FB20 bA ABA ABA FB30 b&
+&
+=
+=
+=
+=
++
+=
++
+=
+&
+&
+&
+&
+&
+&
+&
+A ABA ADA ADA ADbA ABA ABA AD&
+&
+=
+=
+=
+=
++
+=
++
+=
+&
+&
+&
+&
+&
+&
+&
+3ABC üçgenind3 E4 A5 D3 BA AB56 b=
+=
+=
+&
+olduğuna göre  
+?
+A EDC ka br di&
+ bulalımÇözü3453EADB=
+=
+;
+:
+:
+cmcmcmcmcmcmcmcm2 bulunurÜçgenleMatematik I2. BölüÜçgenleEBC Üçgeninde 
+ABC üçgeninde 
+53358634A ABbA ED3 =
+=
+=
+=
+=
+=
+&
+&
+Tabanları Aynı Olan Üçgenlerin AlanhhABC ve BDC üçgenlerinin taban uzunlukları eşittirA BDA ABBBh bulunur$
+$
+=
+=
+&
+&
+Taban uzunlukları eşit olan üçgenlerin alanları oranı yükseklikleri oranına eşittirÖRNEKLE1. 
+ABC ve BDC üçgeABC , DBA5 cm, A AB20 cA BD30 c=
+=
+=
+=
+=
+@
+@
+@
+@
+&
+&
+olduğuna göre |DL| = x kaç cm dir? BulalımÇözüABC ve BDC üçgenlerinin taban uzunlukları eşit olduğu içi,
+A BDA ABDAcm bulunu7 &
+&
+=
+=
+=
+=
+&
+&
+ 
+cm2  bulunurcmMatematik I2. BölüÜçgenleBİLGİ KUTUSA A ADBb x $
+$
+=
+&
+&
+
+
+2ABC  ve ADE üçgenlerindAcAcDcm vEc=
+=
+=
+=
+olduğuna göre 
+A ABA AD&
+&
+oranını bulalımÇözüA ABA ADbulunu5 8 $
+$
+$
+=
++
++
+=

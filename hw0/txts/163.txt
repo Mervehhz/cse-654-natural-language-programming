@@ -1,0 +1,91 @@
+=
+=
+Örne+
+=  olduğuna göre x i bulalım. 
+Çözü+
+=  eşitliğinde (
+x  =t) dönüşümünü uygulayalım. 
+olu2 &
++
+=
+=
+=
+=
+=
+^
+(Her iki tarafın karesini alalım)
+bulunu&
+=
+=
+=
+=
+^
+3-
+1 =
+-
+  olduğuna göre x kaçtır?
+4-
+9 =
+  eşitliğini sağlayan x kaçtır?
+ ALIŞTIRMALA1- 2 .    x = 2  olduğuna göre x kaçtır?
+2-
+(7x+12)3__ 47=2x  eşitliğinde x kaçtır?
+Matematik 3. BölüÜslü İfadeler ve Denklemle3. BÖLÜMÜN ÖZET• {0, 1, 2, 3, 4, 5, 6, 7, 8, 9} kümesinin her bir elemanına rakam denir• N= {0, 1, 2, 3, ...} kümesinin her bir elemanına doğal sayı denir. N sembolü ile 
+gös-terilir• N+= {1, 2, 3, …} kümesinin her bir elemanına sayma sayısı denir. N+ sembolü ile 
+gösterilir• Z–= {…, −3, −2, −1} kümesinin her bir elemanına negatif tam sayı denir. Z–
+sembolü i le gösterilir• Z+= {1, 2, 3, …} kümesinin her bir elemanına pozitif tam sayı denir.  Z+ sembolü 
+ile gösterilir• Paydası 10 un pozitif tam kuvveti olan rasyonel sayılara ondalık sayı denir• a ve b birer tam sayı ve b≠0 olmak üzere;       şeklinde yazılabilen sayılara rasyonesayı denir• Bir ve kendisinden başka tam böleni olmayan ve 1 den büyük olan doğal sayılarasal sayı denir• 2 sayısı en küçük asal sayıdır• Herhangi bir asal sayının pozitif bölenlerinin kümesi 2 elemanlıdır• Birler basamağındaki rakamı çift lan doğal sayılar 2 ile tam bölünür• Rakamları toplamı 3 ün katı olan doğal sayılar 3 e tam bölünürler• Son iki basamağının (onlar ve birler) belirttiği sayı “00” veya 4 ün katı olan doğasayılar 4 ile tam bölünürler• Birler basamağında 0 veya 5 olan doğal sayılar 5 ile tam bölünürler• Bir sayının son üç basamağındaki sayı “000” veya 8 e tam bölünüyor ise bu sayı 8 tam bölünür• Rakamları toplamı 9 ve 9 un katı olan sayılar 9 a tam bölünürler• Birler basamağındaki rakamı 0 olan her tam sayı 10 a tam bölünür• abcde… şeklindeki bir sayının 11 ile tam bölünebilmesi için sayının rakamları birle basamağından başlanarak sola doğru “+, – , +, – , +, – ….” şeklinde işaretlenive toplanır. Sonuç 0 (sıfır) veya 11 in katı ise verilen sayı 11 ile tam bölünür• Birden başka ortak böleni olmayan doğal sayılara aralarında asal sayılar denir• 1 ile her sayı aralarında asaldırMatematik 3. BölüÜslü İfadeler ve Denklemle• Ardışık sayılar aralarında asaldır• Çift lan 2 den başka asal sayı yoktur• Ardışık tek sayılar aralarında asaldır• Bir doğal sayı hem 2 ye hem de 3 e tam olarak bölünüyor ise 6 ya tam bölünür• Bir doğal sayı hem 3 e hem de 4 e tam olarak bölünüyor ise 12 ye tam bölünür• Bir doğal sayı hem 3 e hem de 5 e tam olarak bölünüyor ise 15 e tam bölünür• En az biri sıfırdan farklı olmak üzere iki veya daha fazla doğal sayıyı bölen en büyüdoğal sayıya bu sayıların en büyük ortak böleni (EBOB) denir• Hepsi sıfırdan farklı olmak üzere iki veya daha fazla doğal sayının katı olan en küçü doğal sayıya, bu sayıların ortak katlarının en küçüğü (EKOK) denir• [a, b] kapalı aralığı:        [a, b] = {x: a ≤ x ≤ b, x∈R }
+[a, b) yarı açık aralığı:    (a, b] = {x: a ≤ x < b, x∈R }
+(a, b] yarı açık aralığı:    (a, b] = {x: a < x  ≤b, x∈R }
+(a, b) açık aralığı:            (a, b) = {x: a  x < b, x∈R } şeklinde ifade edilir• Eşitsizliklerde;
+“≤” ve “≥” sembolleri yanındaki sayılarda sayı doğrusunda “ ”işareti kullanılır. Verile sayı aralığa dahil edilir“<” ve “>” sembolleri yanındaki sayılarda sayı doğrusunda “ ” işareti kullanılırVerilen sayı aralığa dahil edilmez• a, b∈R ve a≠0 olmak üzere ax+b=0 şeklindeki denklemlere birinci dereceden bibilinmeyenli denklem denir• ax + b=0 eşitliğini sağlayan x değerini bulmak denklemi çözmek demektir. x değerdenklemin kökü olarak adlandırılır. Köklerin oluşturduğu kümeye de çözüm kümes denir. Genellikle Ç ile gösterilir• Birinci dereceden bir bilinmeyenli denklemlerde yalnız bir değişken vardır. Bu değişkeni derecesi 1 dir• Bir gerçek (reel) sayının sayı doğrusu üzerindeki görüntüsünün sıfıra olan uzaklığına sayının mutlak değeri denir. Bir x gerçek sayısının mutlak değeri |x| şeklinde gösterilir• a, b, c  R ve a ≠ 0, b ≠ 0 olmak üzere; ax+by+c = 0 biçimindeki denklemlere birincdereceden iki bilinmeyenli denklem denirMatematik 3. BölüÜslü İfadeler ve Denklemle• Birinci dereceden iki bilinmeyenli denklemlerin çözümü (x, y) ikilisidir. Eşitsizlikleri çözümü ise birçok (x, y)ikilisinden oluşan bölgedir• Bir eşitsizlik “≥” ya da “≤” işaretlerinden biriyle verilmişse doğru üzerindeki noktala çözüm kümesine dahildir• Eşitsizlik “>” ya da “<” işaretlerinden biriyle verilmişse doğru üzerindeki noktalaçözüm kümesine dahil değildir. Bu durum kesikli çizgi ile belirtilir. Çözüm kümesin dahil olan bölge taranır• Pozitif n tamsayı ve a gerçek sayısı için n tane a’nın çarpımı;
+a.a.a…..a = an  şeklinde gösterilir
+n tanan  ifadesinde; n → üs, a → taban olarak adlandırılır• Üslü sayılarda pozitif sayıların tüm kuvvetleri pozitiftir. Parantez içindeki negatisayıların çift uvvetleri pozitif, tek kuvvetleri ise negatiftir. 00 tanımsızdır• n pozititf doğal sayı ve n≥2 olmak üzere,
+eşitliğini sağlayan x sayılarına  
+a’nın n. kuvvetten kökü denir, n tek isa (0 ), n çift is!
+$
+=
+=
+a &
+=
+*
+n=2 ise  
+=
+ olarak yazılır. “İkinci kuvvetten (dereceden) kök a” ya da “karekö a” şeklinde okunurn=3 ise   
+  olarak yazılır. “Üçüncü kuvvetten (dereceden) kök a” ya da “küp kök 
+a” şeklinde okunurn=4 ise   
+  olarak yazılır. “Dördüncü kuvvetten (dereceden) kök a” şeklinde okunu ifadesi "n. kuvvetten (dereceden) kök a" şeklinde okunur. 
+Matematik 3. BölüÜslü İfadeler ve Denklemle3. BÖLÜM ÖLÇME VE DEĞERLENDİRME SORULAR1. Aşağıdaki sayıların karşılarına “doğal sayı, tam sayı, rasyonel sayı, irrasyonesayı” kavramlarından uygun olanları yazınıza) 9  
+………………………………………b) ………………………………………c)
+………………………………………ç) – ………………………………………d)
+………………………………………e) 3,141592653589 ………………………………
+2. Dört basamaklı 652a sayısı 6 ile tam bölünebildiğine  göre a nın alabileceği değerle toplamı kaçtır?
+A) B) C) D) 3. x ve y iki farklı doğal sayıdır. EKOK(a, b) = 60 ve a . b = 180 olduğuna göre x ve nin EBOB u kaçtır?
+A) B) C) D) 4. Hasan bilyelerini 3 er, 4 er ve 5 er saydığında her seferinde 2 bilye artıyor. Buna görHasan'ın en az kaç bilyesi vardır?
+A) B) C) D) 5. 4x + 1 = 17 denkleminin çözüm kümesi aşağıdakilerden hangisidir?
+A) {3}
+B) {4}
+C) {5}
+D) {6}
+6. Aşağıdaki ifadelerden hangileri eşitsizlik belirtir?
+I. x+3≤II. 2x+4<III. 3x-5=A) Yalnız B) I ve IIC) Yalnız ID) I ve IMatematik 3. BölüÜslü İfadeler ve Denklemle7–Yukarıdaki sayı doğrusunu inceleyiniz. Sayı doğrusunda verilen aralık aşağıdaklerden hangisidir?
+A) [–5, 2)
+B) [–5, 2]
+C) (–∞, 5]U(2, ∞)
+D) (–5, 2)
+8. |2x |=6  denkleminin çözüm kümesi aşağıdakilerden hangisidir?
+A) {3}
+B) {–3}
+C) {–3, 3}
+D) {0}
+9. |x|<1eşitsizliğinin çözüm kümesi aşağıdakilerden hangisidir?
+A) x<B) –1<x<C) x>–D) –1≤x<10x–y=x+y=Denklem sisteminin çözüm kümesi aşağıdakilerden hangisidir?
+A) {(4, 2)}
+B) {(–4, 2)}
+C) {(–4, 4)}
+D) {(–2, 2)}
+11. Aşağıdaki noktalardan hangisi x+y>0 eşitsizliğinin çözüm kümesinin elemanıdır?
+A) (–1, 0)
+B) (–1, –2)
+C) (0, 0)
+D) (1, 0)

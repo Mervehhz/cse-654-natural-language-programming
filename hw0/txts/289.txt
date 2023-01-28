@@ -1,0 +1,400 @@
+-
+-
++
+-
++
+-
++
+-
++
+ddx ddddbulunu+
++
+=
++
+-
+=
+=
+=
+= -
++
+-
++
+=
+-
+=
+-
+^
+`
+`
+^
+`
+#
+#
+#
+#
+#
+#
+-
+dx d-
+#
+#
+ ifadesinin değerini bulunuz-
+-
+-
+-
+-
+dx ddx dx ddx dx dx dbulunu-
+=
+-
+-
+=
+-
+-
+=
+-
+-
+=-
+-
+=-
+-
+=-
+-
+=-
+`
+^
+#
+#
+#
+#
+#
+#
+#
+#
+#
+ÖRNEÖRNEÇÖZÜÇÖZÜİntegrax dx dx d+
++
++
+#
+#
+#
+#
+ ifadesinin değerini bulunuzx dx dx ddx dx dx ddddbulunu+
++
++
+=
++
++
++
+=
++
++
++
+=
++
+=
++
+=
++
+-
++
+=
+-
+=
+^
+^
+^
+^
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+ÖRNEÇÖZÜx dx dx dd+
++
++
++
+#
+#
+#
+#
+ ifadesinin değerini bulunuzx dx ddx dx ddddbulunu+
++
++
+=
++
++
++
+=
++
++
++
+=
++
+=
++
+=
++
+-
++
+=
+-
+=
+]
+]
+]
+]
+;
+<
+#
+#
+#
+#
+#
+#
+#
+#
+ÖRNEÇÖZÜMatematik g^ h ve h ^ h gerçek sayılar kümesinde integrallenebilir iki fonksiyon ve #
+#
+ olmak 
+üzer 
+                  
+,
+,
+f g h is$
+=
+is]
+]
+]
+)
+biçiminde tanımlı f ] g fonksiyonunun 
+,
+a @ ndaki integralini bulmak için integral, fonksiyoun kuralının değiştiği c noktasına göre  
+ 
+                  
+f x dg x dh x d=
++
+]
+]
+]
+#
+#
+#
+ 
+biçiminde iki integralin toplamı olarak yazılmalıdır. 
+Parçalı Fonksiyonların Belirli İntegral,
+,
+f is$
+=
+-
++
+-
+-
+is] )
+biçiminde tanımlı f ] g fonksiyonu veriliyor. Buna göre 
+-
+f x d] #
+ ifadesinin değerini bulunuz-
+-
+-
+-
+-
+-
+-
+x -
+-
++
+-
+-
+3 $
++
+3 $
++
+f x dddbulunu=
++
++
+=
++
+=
+-
+-
+-
+-
+-
++
+-
+-
+-
+=
+-
+-
+- -
+-
++
+-
+-
+= -
++
++
++
+=
++
+=
+]
+]
+]
+]
+]
+c]
+]
+]
+]
+^]
+]
+g g<
+;
+@
+#
+#
+#
+ÖRNEÇÖZÜİntegra,
+,
+,
+f isisis#
+#
+=
++
+-
+-
+-
+] [
+\
+]]]]
+]]]]
+biçiminde tanımlı f ] g fonksiyonu veriliyor. Buna göre 
+-
+f x d] #
+ ifadesinin değerini bulunuz-
+-
+-
+-
+-
+-
+-
++
+-
+-
+-
+-
+-
+f x dddx d=
++
++
+-
++
+-
++ -
+-
+-
++ -
+-
+-
+=
+-
++ -
++
+=-
+-
++
+=
++
++
+=
++
++
+bulunu=-
+]
+c ]
+]
+]
+]
+]
+]
+]
+_^
+^
+ggh<
+#
+#
+#
+#
+d-
+#
+ ifadesinin değerini bulunuzf =
+-
+]  fonksiyonu parçalı fonksiyon olarak yazılırsa 
+,
+,
+f isis$
+=
+- +
+-
+] (
+  
+olur. Bu durumd2 $
+-
++
+-
+-
++
+-
+-
+2 $
+-
+-
++
+ddd2 $
+-
+=
+- +
++
+-
+=
++
+-
++
+-
+-
+=
+-
++
++
+-
+-
+-
+=
+-
++
++
+=
++
+bulunu=
+]
+]
+]
+]
+]
+]
+=
+;
+=
+@
+#
+#
+#
+ 
+ÖRNEÖRNEÇÖZÜÇÖZÜMatematik -

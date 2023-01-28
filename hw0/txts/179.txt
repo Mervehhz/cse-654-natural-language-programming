@@ -1,0 +1,400 @@
+yerine yazıldığınd  -2x - 4y + 8 = 0 
+ 
+x + 2.3 - 4 = 0 ⇒ x = -2 olarak bulunur     2x + y + 1 = 0 
+ 
+O hâlde doğruların  kesim noktası A(-2, 3) olur  -3y = -9 ⇒ y = 3 olur50. Örnek 
++
+ d1 : x - 2y + 4 = 0  ve  d2: x + 3y - 6 = 0 doğruları ile x ekseni arasında kalan bölgenin 
+alanının kaç birimkare olduğunu bulunuz. 
+Çözüd1 doğrusunun eksenleri kestiği noktalax = 0 için y = 2, 
+y = 0 için x = -4 olur.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+d2 doğrusunun eksenleri kestiği noktalar 
+x = 0 için y = 2, 
+y = 0 için x = 6 olur. O hâld d1: x - 2y + 4 = 0  ve d2: x + 3y - 6 = 0 doğruları ilx ekseni arasında kalan bölgenin (boyalı bölge) alanı  
+10 =
+ birimkare olur53. Örnek 
+-10 biridd(a + 1)x - 2y + 1 = 0 ve -2x + (a - 2)y + 2 = 0 doğruları birbirine paralel olduğuna göre 
+a değerlerinin çarpımını bulunuzSıra Sizdx + y + 2 = 0  ve 2x - y - 11 = 0 doğrularının kesim noktasından ve  B(-1, -2)  noktasından 
+geçen doğrunun eğimini bulunuzÇözüİki doğrunun kesim noktası ortak çözüm ile bulunurx + y + 2 = 0  
+ 
+2x - y - 11 = 0 
+ 
+ 
+3x - 9 = 0 ⇒ x = 3 + y + 2 = 0 ⇒ y = -5 olarak bulunur. Bu durumda doğruların kesim noktası A(3, -5) olurA(3, -5) ve B(-1, -2) noktasından geçen doğrunun eğimi 
+(
+)
+olu=
+-
+-
+-
+- -
+=-
+52. Örnek 
++
+1. 4x + 5y - 20 = 0 doğrusunun eksenlerle 
+oluşturduğu kapalı bölgenin alanının kaç 
+birimkare olduğunu bulunuz2. 4x - 3y - 20 = 0 ve x - 2y + 15 = 0 
+doğrularının kesim noktasından geçen ve 
+y eksenine dik olan doğrunun denklemini 
+bulunuz3. Aşağıdaki şekilde y = 2x - 2 doğrusu ve d 
+doğrusunun grafiği verilmiştir. Şekilde verilen 
+boyalı bölgenin alanı 12 birimkare olduğuna 
+göre d doğrusunun x  eksenini hangi noktada 
+kestiğini bulunuz. 
+4. (m + 1 )x + y - 2 = 0 ve 
+3x + (m - 1)y + 1 = 0 doğruları paralel 
+olduğuna göre m nin alabileceği değerler 
+çarpımını bulunuz. 
+5. x = 2, x = 6 ve y = x + 2 doğruları ile x eksenarasında kalan bölgenin alanının kaç 
+birimkare olduğunu bulunuz6. Aşağıdaki şekilde doğruların eksenleri kestiği 
+noktalar verilmiştir. ABC üçgeninin alanının kaç 
+birimkare olduğunu bulunuzy = 2x -Alıştırmala A(-1, 5), B(-3, -2) ve C(1, 1) olmak üzere ABC üçgeninde [BC] kenarına ait yüksekliğin kaç 
+birim olduğunu bulunuzÇözüÖnce B ve C noktalarından geçen doğrunun denklemi yazılır. 
+BC = -
+-
+-
+-
+=
+ olurEğimi ve bir noktası bilinen BC doğrusunun denklemi 
+(
+)
+olu1 &
+&
+=
+-
+=
+-
+-
++
+=
+-
+-
+ 
+A noktasından [BC] na indirilen dikmenin ayağı H ve 
+|AH| = h olsun. Bu durumda 
+A(-1, 5) noktasının 3x - 4y + 1 = 0 doğrusuna olan uzaklığ(
+)
+(
+)
+birim olu4 $
+$
++ -
+-
+-
++
+-
+=
+=
+=
+55. Örnek 
+d: ax + by + c = A(x1, y1)
+H(x0, y0)
+A(x1, y1) noktasının d: ax + by + c = 0 doğrusuna olan 
+uzaklığü abform l ile bulunu=
++
++
++
+ 
+ 
+ 
+ 
+ 
+ 
+3x - 4y + 1 = A(-1, 5)
+A(-1, 5)
+C(1, 1)
+B(-3, -2)
+H(x, y)
+A(3, -2) noktasının 5x - 12y + k = 0 doğrusuna olan uzaklığı 2 birim olduğuna göre 
+k nin alabileceği değerleri bulunuzSıra Sizd2.1.4. Bir Noktanın Bir Doğruya UzaklığA(2, 1)  noktasının 4x - 3y + 5 = 0 doğrusuna olan uzaklığının kaç birim olduğunu bulunuzÇözü&
+(
+)
+abbirim olu4 3 $
+$
++
++
++
++ -
+-
++
+=
+=
+=
+=
+54. Örnek 
+Bir uçak gemisinin pistinde bulunan kesik çizgilerin denklemi d: 24y - 7x + 16 = 0 
+şeklindedir. Bu piste iniş yapan bir uçak, iniş takımlarını A(2, 2) konumunda açıyor. Uçak, 
+pistin B konumlu noktasına  yatayla 37° lik bir açıyla iniş yapıyor. Buna göre uçağın ilk 
+konumundaki yüksekliğinin ve havada aldığı doğrusal yolun uzunluğunun kaç birim 
+olduğunu bulunuz. (sin37° = 0,6 alınız.)
+ÇözüModelleme yandaki gibi yapıldığında A noktasının 
+d doğrusuna olan uzaklığı h olur. Burada         
+&
+sibirim oluAAbirim olu24 7 °
+$
+$
++
+-
++
+=
+=
+=
+=
+=
+=
+57. Örnek 
+Paralel İki Doğru Arasındaki UzaklıBirbirine paralel olan ax + by + c1 = 0 ve ax + by + c2 = 0 doğrularının arasındaki uzaklık aşağıdaki 
+gibi gösterilird1 doğrusu üzerinde bir A(x1, y1) noktası alınır. 
+A noktasının d2 doğrusuna olan uzaklığabolu+
++
++
+=
+d2: ax + by + c2 = d1: ax + by + c1 = A(x1, y1)
+A noktası d1 doğrusu üzerinde olduğundan bu nokta doğru denklemini sağlar. Buradaax1 + by1 + c1 = 0 ve ax1 + by1 = -c1 olur. 
+Bu denklem  ab+
++
++
+=
+ eşitliğinde yerine yazıldığında 
+paralel iki doğru arasındaki uzaklık +
+-
+=
+ olarak bulunur37°
+d: 24y - 7x + 16 = A(2, 2)
+Denklemleri d1: 4x - 3y - 5 = 0 ve d2: 6y - 8x - 20 = 0 olan d1 ve d2 doğruları arasındaki  
+uzaklığın kaç birim olduğunu bulunuzÇözü6y - 8x - 20 = 0 ⇒ -2.(-3y + 4x + 10) =  
+ 
+      ⇒ -3y + 4x + 10 = 0 
+:
+:
+-
+-
+=
+-
++
+=
+=
+=
+ olduğundan d1  ve d2 doğruları birbirine paraleldir. 
+d1 ve d2 doğruları arasındaki  uzaklık (
+)
+(
+)
++
+-
++ -
+- -
+=
+=
+=
+=
+ birim olur56. Örnek 
+Birbirine paralel doğruların arasındaki 
+uzaklık bulunurken doğru denklemlerindeki 
+x ve y lerin katsayıları eşitlenmelidir İki kenarı 5x - 12y + 10 = 0 ve 12y - 5x + 16 = 0 doğruları üzerinde bulunan bir dikdörtgenin 
+köşegen uzunluğu 2 5  birimdir. Buna göre bu dikdörtgenin çevresinin uzunluğunun kaç 
+birim olduğunu bulunuzÇözüd2: 12y - 5x + 16 = 0 doğrusu (-1) ile çarpıldığındd1: 5x - 12y + 10 = 0  ve d2: 5x - 12y - 16 = 0 doğruları elde edilir. Buradaiki doğru arasındaki uzaklık (
+)
++ -
+-
+-
+=
+ = 2 olurDCA dik üçgeninde Pisagor teoremi uygulandığınd 22 + |AD|2 = (
+)
+2 5 2  ⇒|AD| = 4 birim olurO hâlde Ç(ABCD) = 2 + 2 + 4 + 4 = 12  birim olarak bulunur59. Örnek 
+ABCD paralelkenarında [CD] kenarı d: 3x - 4y - 13 = 0 doğrusu üzerinde veriliyor. 
+Diğer iki köşesi A(-1, 1) ve B(3, b) olduğuna göre paralelkenarın alanının kaç birimkare 
+olduğunu bulunuz. 
+ÇözüA noktasının d doğrusuna uzaklığ(
+)
+birim olu4 $
+$
++
+-
+-
+-
+=
+=
+=
+ mAB = mDC  olduğundan 
+&
+olu-
+=- -
+=
+ Burada&
+(
+(
+))
+(
+)
+AAbiri=
+- -
++
+-
+=
++
+=
+ olarak bulunur(
+)
+Alan ABCAB 5 =
+=
+=
+ birimkare olur58. Örnek 
+A(-1, 1)
+B(3, b)
+2 d2: 12y - 5x + 16 = d1: 5x - 12y + 10 = A) Aşağıda verilen cümlelerde boş bırakılan yerleri uygun ifadelerle doldurunuz1. Analitik düzlemde yatay eksene .......................... denir2. Bir doğrunun x ekseni ile pozitif yönde yaptığı açıya doğrunun ..........................denir.   
+3. y eksenine .......................... doğruların eğimleri tanımsızdır. 
+4. Paralel iki doğrunun eğimleri ..........................olur5. İki bileşeni de negatif olan noktalar analitik düzlemin.......................... bölgesinde yer alır.  
+B) Aşağıda verilen numaralandırılmış ifadeleri harf ile verilen ifadelerle eşleştiriniz.  
+      
+6. a ve b sıfırdan farklı olmak üzere eksenleri (a, 0) ve (0, b) 
+          noktalarında kesen doğrunun denklemi (    )
+7. A(a, b) noktasının orijine olan uzaklığı (    ) 
+8. x = a doğrusunun eğimi (    ) 
+9. y = b doğrusunun eğimi (    ) 
+10. 2y - 3x + 1 = 0 doğrusunun eğimi (    ) 
+11. x + 2y – 6 = 0 doğrusunun y eksenini kestiği nokta (    ) 
+a) tanımsıb) c) 
++
+ç) +
+=
+d) (0, -3)
+e) f) (0, 3)
+g) 
+-
+h) -
+=
+C) Aşağıdaki soruların çözümlerini altlarındaki 
+boşluklara yazınız12. A(4 - b, 7 - b) noktası analitik düzlemin 2. 
+bölgesinde olduğuna göre A noktasının eksenler uzaklıkları toplamını bulunuz. 
+13. a, b ∈ ℝ; A(a2 - 9, 10) noktası y, B(8, b + 3) 
+noktası x ekseni üzerinde olduğuna göre a.b 
+değerlerini bulunuz.  
+14. Analitik düzlemde A(-1, 4) ve B(4, -6)
+olmak üzere AB doğru parçasını BA=
+ 
+oranında içten bölen C noktasının 
+koordinatlarının çarpımını bulunuz. 
+15. Analitik düzlemde köşelerinin 
+koordinatları A(6, -6), B(x, y), C(-1, 1) ve 
+D(3, -2) olan ABCD paralelkenarı veriliyor. 
+Buna göre x.y değerini bulunuzÖLÇME VE DEĞERLENDİRM16. Analitik düzlemde köşe noktaları A(2, 3), 
+B(4, 5) ve C(6, 1) olan ABC üçgeninin ağırlık 
+merkezinin BC kenarının orta noktasına olan 
+uzaklığının kaç birim olduğunu bulunuz. 
+   
+17. Analitik düzlemde A(1, 9), B(k, 3), C(-2, 1) ve 
+D(-2, 7) noktaları veriliyor.  AD // BC olması 
+için k değerini bulunuz.     
+18. ABC eşkenar üçgeninde [AC] kenar6x - 8y + 16 = 0 doğrusu üzerinde ve 
+B(2, -4) olduğuna göre üçgenin AC kenarına 
+ait yüksekliğin kaç birim olduğunu bulunuz. 
+19. Yandaki şekilde 
+A(-2, 4) noktası 
+BC doğrusu üzerinde  
+ve 2|OB| = |OC| 
+olduğuna göre C 
+noktasının apsisini 
+bulunuz.     
+               
+                                              
+20. Manyas Gölü’nün kuzeydoğusundak Kuş 
+Cenneti Millî Parkı’na 
+giriş ücreti 4 TL dir. 
+x adet biletin 
+maliyeti 
+m  = 0,4x + 1746 
+denklemiyle ifade edildiğine göra) x adet biletin satışından elde edilen gelir 
+denklemini,
+b) x adet biletin satışından elde edilen kâr 
+denklemini,
+c) Millî parkın 3870 TL kâr elde ettiği 
+haftadaki ziyaretçi sayısını bulunuz. 
+21. Gıda sektöründe faaliyet gösteren bir firma, 
+2017 yılında tonu 9 bin TL den x ton fındık 
+ve tonu 35 bin TL den y ton çikolata ihraç 
+ediyor. 2017 yılına ait ihracat gelir denklemi 
+35y + 9x = 24800 biçiminde olan firma, 2023 
+yılında bir ton fındığı 13 bin 500 TL den ve 
+bir ton çikolatayı 52 bin 500 TL den satmayı 
+planlamaktadır. 2023 yılına ait ihracat hedefi 
+37 milyon 200 bin TL olan bu firmanın 
+hedefine ulaşıp ulaşmayacağını yorumlayınız.            
+  
+D) Aşağıdaki çoktan seçmeli soruları okuyunuz 
+ve doğru seçeneği işaretleyiniz. 
+22. Analitik düzlemde kenarları 4x - 3y + 2 = 0   
+ve   8x - 6y + 24 = 0 doğruları üzerinde buluna karenin alanı kaç birimkaredir? 
+A) 1 
+B) 4 
+C) 9 
+D) 16 
+E) 23. Analitik düzlemde A(3, 2), B(-4, 5) ve 
+C(k, -2) noktaları veriliyor. [AB]⊥[BC] olması 
+için k değeri kaç olmalıdır? 
+A) 7 
+B) 5 
+C) 4 
+D) -7 
+E) -24. Analitik düzlemde A(-3, 5) noktasından 
+geçen ve x ekseni ile pozitif yönde 135° lik açı 
+yapan doğrunun denklemi aşağıdakilerden 
+hangisidir?
+A) x - y - 2 = 0 
+ 
+B) x + y + 2 = C) x - y + 2 = 0 
+ 
+D) x - y - 8 =  
+         E) x + y - 2 = 25. Analitik düzlemde y - 2x - 1 = 0,
+y - 3x + 2 = 0 ve mx - 2y + 5 = 0 doğruları 
+sabit bir noktada kesiştiğine göre m kaçtır?
+A) 1 
+B) 2 
+C) 3 
+D) -2 
+E) -1 
+26. Analitik düzlemde köşe koordinatları 
+A(4, 3), B(7, 3) ve C(-3, -1) olan ABC 
+üçgeninin BC kenarına ait kenarortayın 
+uzunluğu kaç birimdir?
+A) 5 2 B) 3 2 
+C) 2 2  D) 2 
+E) 
+27. Analitik düzlemde 3x - 4y - 8 = 0 v8y - 6x + 6 = 0 doğruları arasındaki uzaklık 
+kaç birimdir?
+A) 1 
+B) 2 
+C) 3 
+D) 4 
+E) 28. Yandaki şekilde 
+d1⊥d2 olduğuna 
+göre d2 doğrusunu denklemi 
+aşağıdakilerden 
+hangisidir?
+A) 3x - 5y + 30 = 0          B) 5x + 3y - 30 = 0              
+C) 3x + 5y + 30 = 0          D) 5y + 3x - 18 =                        E) 5y - 3x + 18 = 29. Yandaki şekilde 
+[AB]⊥[AC], 
+A(-3, 6), 
+B(-7, 0) olduğuna 
+göre ODC üçgenini alankaç birimkaredir?
+ A) 12 
+B) 10 
+C) 8 
+D) 4 
+E) A(-3, 6)
+B(-7, 0)
+30. Yandaki şekildd doğrusu AOBkaresinin B 
+köşesinden 
+geçmektedir. 

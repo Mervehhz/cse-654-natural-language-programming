@@ -1,0 +1,400 @@
++
++
+x - -
+-
++
+(x2 - 4x + 4).(x - 5)
+(+).(-) = -
+(+).(-) = -
+(+).(+) = +
+(x2 - 4x + 4).(x - 5) ≥ 0 eşitsizliğinin çözüm kümesi ÇK = [5, ∞) ∪ {2} olarak bulunur18. Örnek 
+ax + b veya ax2 + bx + c  Şeklindeki İfadelerin Çarpımı veya Bölümü Şeklinde Verilen Eşitsizlikleİki ifadenin çarpımı veya bölümü şeklinde verilen eşitsizliklerin çözüm kümesi bulunurken her bir 
+ifadenin kökleri işaret tablosunda gösterilir. Bölüm şeklindeki eşitsizliklerde paydanın kökü çözüm 
+kümesine dâhil edilmezS a y ı l a r  v e  C e b i (x - 3).(x2 - x - 6) < 0 eşitsizliğinin çözüm kümesini bulunuz. 
+Sıra SizdGirişe x-2 yazarak grafiği çizinizGirişe x2 -x-2  yazarak grafiği çiziniz. Çizilen grafiklerin cebirsel karşılığı cebir penceresinde 
+sırayla f(x) ve g(x) olarak gözükecektir. Girişe eğer yazınız. Oluşan satırdaki şart, doğruysa 
+yerine sırasıyla f*g≤0, 0 yazınız. Grafik ekranında bu eşitsizliğin çözüm kümesi farklı bir 
+renkte görülecektirEşitsizliğin çözüm kümesi  (-∞, -1] U {2} olur(-∞, -1] U {2} kümesindeki her x değeri için f(x).g(x) ≤ 0 olur5. Uygulama: (x - 2).(x2 - x - 2) ≤ 0 Eşitsizliğinin Çözüm Kümes(x - 2).(x2 - x - 2) ≤ 0 eşitsizliğinin çözüm kümesini bulunuz. 
+Çözü(x - 2).(x2 - x - 2) = (x + 1).(x - 2)2 = 0 denkleminin kökleri aşağıdaki gibi bulunur(x - 2)2  = 0 ⇒  x1 = x2 = 2 (çift katlı kök)
+(x + 1) = 0  ⇒ x3 = -1 olur(1.x - 2).(1.x2 - x - 2) ifadesinde 1. 1 > 0 olduğundan işaret tablosu (+) ile başlarBu durumda fonksiyonun işaret tablosu aşağıdaki gibidir. 
+-∞       
+-1     
++∞
+(x - 2).(x2 - x - 2)
+-
++
++
+(x - 2).(x2 - x - 2) ≤ 0 olduğundan eşitsizliğin çözüm kümesi  ÇK = (-∞, -1] ∪ {2} olarak 
+bulunur19. Örnek 
+D e n k l e m  v e  E ş i t s i z l i k  S i s t e m l e r -
+-
+ ≥ 0 eşitsizliğinin çözüm kümesini bulunuzÇözü 
+-
+-
+ ifadesinde pay ve paydanın kökleri 
+x - 5 = 0 ⇒ x = 3 - x = 0 ⇒ x = 3 olur.   
+-
+-
+  ifadesinde 
+-
+ = -1 < 0 olduğundan işaret tablosu (-) ile başlar. 
+ 
+-∞       
+3       
+∞
+-
+-
+-
++
+-
+İşaret tablosuna göre  
+-
+-
+ ≥ 0 eşitsizliğinin çözüm kümesi ÇK = (3, 5] olur20. Örnek 
+İçerisinde ax + b  veya  ax2 + bx + c şeklinde ifadeleri çarpım veya bölüm hâlinde 
+bulunduran eşitsizliklerde işaret incelemesini tek satırda yapmak için 
+• Eşitsizliği oluşturan çarpanların her birinin kökleri bulunur. 
+• Her bir ifadenin başkatsayısı birbiri ile çarpılır. Çıkan sonucun işareti tablodaki en sağ  
+aralığa yazılır. 
+• Aynı kökten 2 nin katı kadar sayıda bulunduğunda bu kökün sağ ve sol aralığındaki işaret 
+aynıdır. Tek katlı kökler için bu kökün sağ ve sol aralığındaki işaret farklıdır. 
+Bu işlem en soldaki aralığa kadar devam ettirilerek işaret tablosu oluşturulurNo2 -
++
+- -
+  < 0 eşitsizliğinin çözüm kümesini bulunuzÇözüBurada  - x - 7 = 0  ve  x2 - 6x + 7 = 0  denklemlerinin kökleri 
+ - x - 7 = 0 ⇒ x1 = -  x2 - 6x + 9 = (x -3)2 = 0 ⇒ x2 = x3 = 3 (paydanın çift katlı kökü) olarak bulunur. 
+Bu durumda işaret tablosu aşağıdaki gibi olur-∞ 
+-+∞
+-x - +
+-
+-
+x2 - 6x + +
++
++
+2 -
++
+- -
+ 
+(+).(+) = +
+(-).(+) = -
+(-).(+) = -
+Çözüm kümesi  ÇK = (-7, 3) ∪ (3, ∞)  olarak bulunur21. Örnek 
+S a y ı l a r  v e  C e b i +
+ ≤ 3 eşitsizliğinin çözüm kümesini bulunuzÇözü +
+ ≤ 3 eşitsizliği ( )
+f =
++
+ - 3 ≤ 0 şeklinde düzenlendiğind$
+$
+-
++
+ ≤ 0 elde edilir.  
+x2 - 3x + 2 = 0 ve x = 0 denklemlerinin kökler(x - 2).(x - 1) = 0 ⇒ x1 = 2 veya x2 = x3 = 0 (paydanın kökü)  olarak bulunur.  
+1 olduğundan işaret tablosu (+) ile başlar 
+-∞       
+0       
++∞
+        +
+ ≤ 3 
+-
++
+-
++
+İşaret tablosuna göre +
+ ≤ 3 eşitsizliğinin çözüm kümesi ÇK = (-∞, 0) ∪ [1, 2] olur22. Örnek 
+(
+) (
+)
+$
+-
+-
++
++
+  eşitsizliğinin çözüm kümesini bulunuzÇözüm  
+.(
+) (
+)
+-
+-
++
++
+ ≥ 0 eşitsizliğini oluşturan ifadelerin kökleri aşağıdaki gibi 
+bulunurx2 - 5x + 6 = 0  
+(x - 2).(x - 3 ) = 0 ⇒ x1 = 2 veya x2 = x + 1 = 0 ⇒ x3 = - 2- x = 0 ⇒ x4 = 2 (paydanın kökü)
+x1 = x4 = 2 değeri pay ve paydanın kökü olduğundan çift katlı köktür fakat bu değer, 
+paydayı tanımsız yaptığı için çözüm kümesine dâhil edilmez 
+1 1 -
+ olduğundan işaret tablosu (-) ile başlar                  -∞       
+-1      
++∞
+               
+(
+) (
+)
+$
+-
+-
++
++
+               
+-
++
++
+-
+İşaret tablosuna göre 
+(
+) (
+)
+$
+-
+-
++
++
+ eşitsizliğinin çözüm kümesi 
+ÇK = [- 1, 3] - {2} olur23. Örnek 
+D e n k l e m  v e  E ş i t s i z l i k  S i s t e m l e r x eksenini  (-2, 0),  (-1, 0) ve (2, 0) noktalarında; y eksenini 
+(0, -4) noktasında kesen y = f(x)
+fonksiyonunun grafiği yanda verilmiştira) f(x) ≥ b) x.f(x) < c) 
+( )
+f - +
+ ≤ 0 eşitsizliklerinin  çözüm kümesini bulunuzÇözüa) Grafiğin x ekseninin üst kısmında kalan bölümleri içif(x) > 0 olur. Fonksiyon, kök değerlerinde sıfıra eşittir. 
+f(x) ≥ 0 eşitsizliğinin çözüm kümesi 
+ÇK = [-2, -1] ∪ [2, ∞)  olarak bulunurb) Burada x = 0  ve  f(x) = 0 denklemlerinin kökleri  
+ 
+ 
+ 
+ 
+x1 = x2 = -2, x3 = -1,  x4 = 2 olur(2, ∞) nda f(x) > 0 olduğundan ikinci satırda tabloya (+) ile başlanır-∞       
+-2      
+-+∞
+-
+-
+-
++
++
+f(x)
+-
++
+-
+-
++
+x.f(x)
++
+-
++
+-
++
+x.f(x) < 0 eşitsizliği, kök değerlerini sağlamadığından çözüm kümesine dâhil edilmez.   
+Eşitsizliğinin çözüm kümesi ÇK = (-2, -1) ∪ (0, 2) olarak bulunurc) Burada  -x + 2 = 0 ve f(x) = 0 denklemlerinin kökleri 
+ -x + 2 = 0 ⇒ x1 = 2 vx2 = -2, x3 = -1,  x4 = 2 olur.                                                                                                                                                        
+x = 2 değeri pay ve paydanın kökü olduğundan çift katlı köktür fakat bu değer, 
+paydayı tanımsız yaptığı için çözüm kümesine dâhil edilmez. 
+ 
+ 
+ 
+(2, ∞) nda f(x) > 0 olduğundan ikinci satırda tabloya (+) ile başlanır-∞       
+-2      
+-+∞
+-x + +
++
++
+-
+f(x)
+-
++
+-
++
+( )
+f - +
+-
++
+-
+-
+( )
+f - +
+ ≤ 0 ifadesi paydanın kökü için tanımsız olduğundan 2 değeri çözüm kümesine 
+dâhil edilmez. 
+Çözüm kümesi ÇK = (-∞, -2] ∪ [-1, +∞) - {2} olarak bulunur. 
+24. Örnek 
+--y = f(x)
+-S a y ı l a r  v e  C e b i f(x) =  (1 - a )x2 - 4x - 1  fonksiyonunun daima sıfırdan küçük değerler alması içia nın  alacağı en küçük tam sayı değerini bulunuz. 
+Sıra Sizdf(x) =  x2 - 2x + m  fonksiyonu daima sıfırdan büyük değerler aldığına göre m nien küçük tam sayı değerini bulunuzÇözüax2 + bx + c  fonksiyonu daima sıfırdan büyük ise a > 0 ve ∆ < 0 olmalıdır. 
+ x2 - 2x + m fonksiyonunda a = 1 > 0 olur. ∆ < 0 olacağından fonksiyonun grafiğinin kolları 
+yukarı doğru olur ve  x eksenini kesmez. Bu durumda 
+∆ = (-2)2 - 4.1.m < 0 ⇒ 4 - 4m < 0 
+                                         ⇒ -4m < -4 ⇒ m > 1 olurm nin en küçük tam sayı değeri m = 2 olarak bulunur25. Örnek 
+(
+)
++
+-
++
+-
++
+-
+ < 0 eşitsizliği her x ∈ ℝ için sağlandığına görm nin alabileceği tam sayı değerlerini bulunuzÇözü-x2 + 4x - 5 = 0 denkleminde 
+∆ = b2 - 4ac = 42 - 4.(-1).(-5) = 16 - 20 = -4 < 0 olduğu için reel kök yoktur. 
+a < 0 olduğundan her x ∈ ℝ için -x2 + 4x - 5 < 0 olurEşitsizliğin gerçekleşmesi için 
+x2 + (m - 1)x + 1 > 0  dolayısıyla ∆ < 0 ve a > 0 olmalıdır.  
+Burada a = 1 olduğundan a > 0 şartı sağlanır. 
+∆ = (m - 1)2 - 4 < 0 ⇒ m2 - 2m - 3 < 0 olmalıdır. 
+m2 - 2m - 3 = 0 denkleminin kökler(m - 3).(m + 1) = 0 ⇒ m1 = 3 veya m2 = -1 olarak bulunur. 
+Bulunan bu köklerle ilgili işaret tablosu aşağıdaki gibidir-∞       
+ -1     
+        +∞
+m2 - 2m - +
+-
++
+∆ = m2 - 2m - 3 < 0  olduğundan kökler çözüme dâhil edilmezBu aralıktaki m tam sayı değerleri 0, 1 ve 2 olur26. Örnek 
+D e n k l e m  v e  E ş i t s i z l i k  S i s t e m l e r 1. (x - 1).(- x2 - 6x - 9) > 0 eşitsizliğinin çözüm 
+kümesini bulunuz.  
+2. (x2 - 9).(x2 -  2x  - 3) ≤ 0 eşitsizliğinin çözüm 
+kümesini bulunuz. 
+3. x > 4  eşitsizliğini sağlayan en küçük tam sayı 
+değerini bulunuz. 
+4.  x.(
+)
+-
+-
+≥ 0 eşitsizliğini sağlayan x doğal 
+sayılarının toplamını  bulunuz. 
+5. 
+(
+) (
+)
+2 -
++
+-
++
+ ≥ 0 eşitsizliğinin çözüm 
+kümesini bulunuz.  
+6. (x - 2).(2x - 1) ≤ (x - 2)2 eşitsizliğinin çözüm 
+kümesini bulunuz.  
+7. (
+).(
+)
+-
++
+-
++
+ ≥ 0 eşitsizliğinin çözüm 
+kümesini bulunuz.  
+8. 
+(
+)
+(
+) (
+)
+-
+-
+-
++
+ < 0 eşitsizliğinin çözüm 
+kümesini bulunuz. 
+AlıştırmalaS a y ı l a r  v e  C e b i İki ya da daha çok eşitsizliğin oluşturduğu sisteme eşitsizlik sistemi denir. 
+Eşitsizlik sisteminin çözüm kümesi eşitsizliklerin her birini sağlayan noktalar kümesidirİkinci dereceden bir bilinmeyenli eşitsizlik sistemleri, f(x) ve g(x) fonksiyonlarının biri 
+2. dereceden, diğeri 1 veya 2. dereceden verilmesiyle oluşan sistemlerdirBu sistemle( )
+( )
+f g >
+<
+2   ( )
+( )
+f g <
+#
+2   ( )
+( )
+f g $
+$
+2 vb. şekilde ifade edilirBu şekildeki eşitsizlik sistemlerinin çözüm kümeleri, ortak işaret tablosu oluşturularak bulunacaktır4.2.2. İkinci Dereceden Bir Bilinmeyenli Eşitsizlik Sistemlerinin Çözüm Kümes$
+-
+-
++
+                             eşitsizlik sisteminin çözüm kümesini bulunuzÇözüx2 - x - 6 = 0 ⇒ (x - 3)(x + 2) = 0 olduğundan denklemin kökleri x1 = -2 veya x2 = 3 olurx + 3 = 0 denkleminin kökü x3 = -3 olarak bulunurBulunan bu köklerle ilgili işaret tablosu aşağıdaki gibidir. 
+-∞       
+-3      
+-+∞
+x2 - x - +
++
+-
++
+x + -
++
++
++
+x2 - x - 6 ≥ 0 olan bölgeler taranır. 
+x + 3 < 0 olan bölge taranırTaralı bölgelerdeki ortak noktalar çözüm kümesini oluşturur.  
+Eşitsizlik sisteminin çözüm kümesi ÇK= (-∞, -3) olur27. Örnek 
+$
+-
++
++
+                               eşitsizlik sisteminin çözüm kümesini bulunuzÇözüx2 - 3x + 2 = 0 ⇒ (x - 2)(x - 1) = 0 denkleminin kökleri x1 = 2 veya x2 = 1 olurx2 + x = 0 ⇒ x(x + 1) = 0 denkleminin kökleri x3 = 0  ve x4 = - 1 olarak bulunurBulunan bu köklerle ilgili işaret tablosu aşağıdaki gibidir. 
+-∞       
+-1      
++∞
+x2 - 3x + +
++
++
+-
++
+x2 + +
+-
++
++
++
+x2 - 3x + 2 ≥ 0 olan bölgeler taranır. x2 + x < 0 olan bölge taranırTaralı bölgelerdeki ortak noktalar, çözüm kümesini oluşturur.  
+Eşitsizlik sisteminin çözüm kümesi ÇK = (-1, 0) olur28. Örnek 
+D e n k l e m  v e  E ş i t s i z l i k  S i s t e m l e r 2 #
+-
+-
+-
+ 
+ 
+    eşitsizlik sisteminin çözüm kümesini bulunuzSıra Sizd2 $
+-
++
+-
+                               eşitsizlik sisteminin çözüm kümesini bulunuzÇözüx2 + 3x - 4 = 0 ⇒ (x + 4)(x - 1) = 0 olduğundan denklemin kökleri x1 = -4  veya x2 = 1 olur4 - x2 = 0 ⇒ (2 + x )(2 - x) = 0 olduğundan denklemin kökleri x3 = 2 veya x4 = -2 olurBu köklerle ilgili işaret tablosu aşağıdaki gibidir-∞       
+-4      
+-+∞
+x2 + 3x - +
+-
+-
++
++
+4 - x-
+-
++
++
+-
+4 - x2 ifadesinin negatif, x2 + 3x - 4 ifadesinin pozitif veya sıfıra eşit olduğu  aralıklar 
+tabloda gösterilmiştir. Ortak taranmış aralıklar eşitsizlik sisteminin çözüm kümesini 
+oluştururEşitsizlik sisteminin çözüm kümesi ÇK = (-∞, -4] ∪ (2, ∞) olur29. Örnek 
+$
+-
+-
++
+                               eşitsizlik sisteminin çözüm kümesini bulunuzÇözüx2 - 2x - 3 = 0 ⇒ (x -  3)(x + 1) = 0 olduğundan denklemin kökleri x1 = 3  veya x2 = -1 olurx + 4 = 0 olduğundan denklemin kökü x3 = -4 olurBu köklerle ilgili işaret tablosu aşağıdaki gibidir-∞       
+-4      
+-+∞
+x2 - 2x - +
++
+-
++
+       x + -
++
++
++
+x + 4 ifadesinin negatif, x2 - 2x - 3 ifadesinin pozitif veya sıfıra eşit olduğu  aralıklar 
+tabloda gösterilmiştir. Ortak taranmış aralıklar eşitsizlik sisteminin çözüm kümesini 
+oluştururEşitsizlik sisteminin çözüm kümesi ÇK = (-∞, -4) olur30. Örnek 
+S a y ı l a r  v e  C e b i A) Aşağıda verilen cümlelerde boş bırakılan yerleri uygun ifadelerle doldurunuz1. Karesi kendisinden küçük olan sayıların değer aralığı …………… olur. 
+2. ax2 + bx + c  üç terimlisinin daima pozitif değerler alması için ………… ve ………… olmalıdır. 
+3. ax2 + bx + c = 0 denkleminin kökleri x1, x2 olmak üzere  ∆ = 0 ise ……………olur. 
+B) Aşağıda verilen numaralandırılmış ifadeleri harf ile verilen ifadelerle eşleştiriniz.  
+4. (a > 0), f(x) = ax + b > 0  eşitsizliğinin çözüm kümesi (    ) olur5. x2 – 1 < 0 eşitsizliğinin çözüm kümesi (    ) olur. 
+6. x2 + 8x + 15 ≤ 0 eşitsizliğinin çözüm kümesi (    ) olur. 
+7. x2 .(x2 - x + 1) < 0 eşitsizliğinin çözüm kümesi (    ) olur. 
+a) { }
+b) (-1, 1)
+c) 
+,

@@ -1,0 +1,400 @@
+( )
+( )
+( )
+( )
+( )
+P P P P P P olu&
+&
+&
+$
+$
++
+=
++
+=
+=
+=
+ 
+( )
+( )
+Buradan P P $
+=
+=
+ olur. 
+Yazı ve tura gelme olasılıkları eşit olmadığından eş olası olmayan durum söz konusudurBir torbadaki kırmızı, mavi ve sarı bilyelerle ilgili aşağıdaki bilgiler verilmiştir  I. Torbadan çekilen bir bilyenin mavi olması olasılığı 2  dir  II.  Kırmızı bilye sayısı, mavi ve sarı bilyelerin sayıları toplamına eşittir  III. Torbadaki sarı bilye sayısı 1 ile 5 arasındadırBu bilgilere göra) Torbada  en az kaç mavi bilye olduğunu bulunuzb) Torbadaki mavi ve sarı bilye sayısı arasındaki farkın en az kaç olduğunu bulunuzc) Torbada en çok kaç bilye olduğunu bulunuz, 2, 3, 4, 5}
+{
+=
+ kümesi veriliyor. #
+ kümesinden rastgele seçilen bir sıralı ikilinin bileşenlerinin 
+birbirinden farklı olma olasılığını bulunuzKırmızı bilye sayısına k, mavi bilye sayısına m ve sarı bilye sayısına s denilirse toplam bilye sayısı 
++
++
+ dir. Kırmızı bilye sayısı, mavi ve sarı bilyelerin sayıları toplamına eşit olduğundan =
++
+ olura) Mavi bilye çekme olasılığı, 2  olduğundan 
+   
+(
+)
+k olu&
+&
+&
++
++
+=
++
++
+=
+=
+=
+=
+ Burada=
+ için ve =
+=
+ olur. Fakat 
+ olduğundan =
+ olamaz=
+ için ve =
+=
+ olur.  olduğundan mavi bilye sayısı en az 8 dirb) Mavi bilye sayısı en az 8 olduğunda sarı bilye sayısı 2 dir. Dolayısıyla aradaki fark en az 6 dırc) =
+ için ve =
+=
+ olur. Buradan torbadaki bilye sayısı, en çok 
++
++
+=
++
++
+=
+ olur. 
+(
+)
+( )
+( )
+s s s 5 #
+$
+$
+=
+=
+=
+ olduğundan örnek uzayın eleman sayısı 25 tir#
+ kümesinde birinci ve ikinci bileşeni aynı olan elemanlardan oluşan ikililerin kümesi B ile gösterilirs1, 1), (2, 2), (3, 3), (4, 4), (5, 5)}
+{(
+B =
+ ve ( )
+s =
+ olur. Bu durumda bileşenlerin birbirinden farklı olma 
+olayı B olayının tümleyenidir. Burada(
+)
+( )
+(
+)
+( )
+( )
+(
+)
+(
+)
+(
+)
+P P P s s P P P &
+&
+&
+&
+=
+-
+=
+-
+=
+-
+=
+-
+=
+ olurVeri, Sayma ve OlasılıVeri, Sayma ve Olasılı6 madenî para aynı anda atılıyor. Bu paralardan en az birinin diğerlerinden farklı gelme olasılığını bulunuzİçinde yalnızca 4 sarı ve 5 kırmızı bilye bulunan bir torbadan rastgele seçilen 3 bilyeden en az birinin sarı 
+olma olasılığını bulunuzy, e, l, k, o, v, a, A = "
+,  kümesinin üç elemanlı alt kümelerinden rastgele biri seçiliyor. Seçilen bu alt 
+kümenin elemanlarından en az birinin sesli harf olması olasılığını bulunuz6 madenî para atılması deneyinin örnek uzayının eleman sayısı ( )
+s E = 6 =
+ olur. 
+6 sının da aynı gelme olayı, 
+Y, Y, Y, Y, Y, Y), (T, T, T, T, T, {(
+)}
+A =
+ ve ( )
+s =
+ olur6 sının da aynı gelmeme olayına Al denilirs( )
+(
+)
+(
+)
+( )
+(
+)
+( )
+( )
+(
+)
+(
+)
+(
+)
+P P P P P s s P P P lu&
+&
+&
+&
+&
++
+=
+=
+-
+=
+-
+=
+-
+=
+=
+Örnek uzayın eleman sayısı, 3 bilye çekme deneyinin çıkabilecek tüm sonuçlarının sayısı olan 
+lu=
+ Tüm 3 bilye çekilmesi olayının eleman sayısından üçünün de kırmızı bilye çekilmesi 
+olayının eleman sayısı çıkarılırsa elde edilen sayı, istenen olayın eleman sayısıdır3 bilyenin 3 ünün de kırmızı olması için kırmızı bilyeler arasından seçim yapılmıştır. Bu durumun eleman 
+sayısı 
+=
+ olur. Bu durumda rastgele seçilen 3 bilyenin en az birinin sarı olma olasılığı,
+-
+=
+-
+=
+=
+ olurEn az bir sesli harf bulunan üç elemanlı alt kümelerin sayısı; bir tane sesli harf bulunduranlar, iki tane 
+sesli harf bulunduranlar ve üç tane sesli harf bulunduranlar olarak hesaplanabilir. Bu işlemler yerine  tüm 
+üç elemanlı alt küme sayısından herhangi bir sesli harfin bulunmadığı üç elemanlı alt küme sayısı çıkarılırs işlem daha kolay olacaktır. 
+Herhangi bir sesli harfin bulunmadığı üç elemanlı alt küme sayısı 
+=
+ olur.  
+A kümesinin üç elemanlı alt küme sayısı 
+=
+ olurDolayısıyla istenen durumun olasılık değeri 
+-
+=
+=
+ olurVeri, Sayma ve OlasılıVeri, Sayma ve OlasılıA, B, C  ikişer ikişer ayrık olayları E örnek uzayının alt kümeleridir. 
+,
+,
+( )
+( )
+( )
+( )
+C P P P P ,
+,
+=
++
+=
++
+=
+ olduğuna göre P(A) değerini bulunuzALADAĞLAR kelimesinin harflerinden rastgele seçilen bir harfin A veya L olması olasılığını bulunuz,
+, B,
+( )
+( )
+( )
+( )
+( )
+( )
+( )
+( )
+( )
+( )
+( )
+( )
+( )
+P P P P P P P P C olaylar ayr k oldu undaolay n n olas dir P P P P P olu›
+›
+€
+› ›
+› ›€›
+&
+,
+,
++
+=
++
+=
++
++
++
+=
++
++
++
+=
++
+=
+=
+-
+=
+(
+)
+((
+) )
+(
+)
+›
+P De Morgan kural nda+
+,
+=
+=
+  
+(
+)
+P ,
+=
+=
+-
+ olur. A ve B ayrık olaylar olduğundan 
+(
+)
+( )
+( )
+P P P ,
+=
++
+ olur. Burada(
+( )
+( )
+( )
+)
+( )
+P P P P P &
+&
+,
+=
++
+=
++
+=
+-
+=
+ olur1. yoSeçilen harfin A olması olasılığı 
+( )
+P A  ile, seçilen harfin L olması olasılığı 
+( )
+P L  ile gösterilsin. Bir harf 
+aynı anda hem A hem L olamayacağından bu olaylar ayrık olaylardır. 
+ALADAĞLAR kelimesinin 9 harfinden 4 ü A harfi olduğu için 
+( )
+P =
+, 2 si L olduğu için 
+( )
+P =
+ olur. 
+(
+)
+( )
+( )
+P A veya P P =
++
+=
++
+=
+=
+ olur2. yoBu  deneyde seçilebilecek 9 harf olduğundan örnek uzayın eleman sayısı 9 dur. Seçilen harfin A veya L  
+olması olayı içinde 4 tane A ve 2 tane L vardır. Yani seçilen olayın eleman sayısı 6 dır. Buna göre A veya 
+L olayının olasılığı =
+ olurA ve B aynı örnek uzaya ait ayrık iki olaydır. 
+(
+)
+P +
+=
+ve 
+( )
+P =
+ olduğuna göre 
+( )
+P B  değerini 
+bulunuzVeri, Sayma ve OlasılıVeri, Sayma ve OlasılıALIŞTIRMALAToplam 5 kişinin sıralanma sayısı !
+=
+ olduğundan örnek uzayın eleman sayısı 120 dirAnne ile babanın yan yana olduğu düşünülsün. Bu durumda anne ile baba 1 kişi gibi düşünülerek 3 çocukl birlikte toplamda 4 kişi varmış gibi işlem yapılabilir ve tüm sıralanma sayısı !
+!
+24 $
+$
+=
+=
+ olur48 durumda anne ile baba yan yana ise -
+=
+ durumda anne ile baba yan yana değildir. Bu 
+durumda çekilen fotoğrafta anne ile babanın yan yana olmama olasılığı =
+ olurAnne, baba ve 3 çocuğu yan yana rastgele oturarak fotoğraf çektireceklerdi. Çekilen fotoğrafta anne ile babanın yan yana olmama 
+olasılığını bulunuz1. Bir zar atılması deneyinde zarın üst yüzüne 
+gelen sayının asal sayı veya tek sayı olması 
+olasılığını bulunuz.  
+  2. 20 kişilik bir sınıftaki öğrencilerin 9 u erkekti. Bu sınıfta erkeklerin 2 si, kızların ise 4 ü 
+esmerdir. Sınıftan rastgele seçilen birinin kız 
+veya esmer olması olasılığını bulunuz. 
+3. 30 kişilik bir grupta futbol oynayan 15, basketbo oynayan 10 ve her ikisini de oynayan 
+6 kişidir. Bu gruptan rastgele seçilen  birinin 
+futbol veya basketbol oynama olasılığını 
+bulunuz. 
+4. Bir vazoda 6 tane beyaz ve x tane kırmızı 
+gül vardır. Vazodan bir kırmızı gül çekilme 
+olasılığı 2  ise x değerini bulunuz.  
+  5.  Bir zar atıldığında görülebilen yüzeylerine 
+1 veya 2 sayısının gelme olasılığını bulunu.                      
+    6.  İki zar birlikte atıldığında üst yüze gelen 
+sayılar toplamınıa) 6 olma olasılığını bulunuz. 
+b) En az 6 olma olasılığını bulunuz.       
+                                                     
+c) 4 olmama olasılığını bulunuz                                                    
+    7.  n tane madenî paranın atılması deneyinde 
+hepsinin aynı gelmeme olasılığı 127  ise n 
+değerini bulunuz.  
+   8.   3 doktor, 2 hemşire arasından iki kişilik bir 
+sağlık ekibi kurulacaktır. Bu ekipte en az bir 
+doktorun bulunma olasılığını bulunuz 
+                                                               
+Veri, Sayma ve OlasılıVeri, Sayma ve Olasılı   9.  
+4, 5, 6, 7, A = "
+,  kümesinin elemanlarında rastgele seçilen iki sayının çarpım 
+sonucunun bir çift sayı olması olasılığını 
+bulunuz.                                                
+  10.  n +
+]
+g  açılımındaki terimlerden herhang biri seçiliyor. Seçilen terimin katsayısını 7 den büyük bir sayı olma olasılığını 
+bulunuz.                                                
+ 
+  11. Bir torbada bulunan 2 farklı sarı, 3 farklıkırmız ve 4 farklı mavi boncuk arasından 
+rastgele biri çekiliyor. Çekilen boncuğun 
+sarı olmama olasılığını bulunuz.          
+ 12. Bir torbada 1 den 10 a kadar numaralandırılmı 10 top vardır. Buna göre bu torbada çekilen bir topun numarasının tek 
+veya 4 ten küçük bir sayı olma olasılığını 
+bulunuz                                                                    
+ 13. 4 madenî para birlikte atılıyor. Madenî  paralarda en az birinin yazı gelme olasılığın bulunuz                                                                 
+ 14. 24 öğrencinin bulunduğu bir sınıfta 10 
+kız öğrenciden 3 ü yeşil, 7 si kahverengi 
+gözlü; 14 erkek öğrenciden 4 ü yeşil, 10 u 
+kahverengi gözlüdür. Buna göre bu sınıfta rastgele seçilen bir öğrencinin kız veya 
+yeşil gözlü olması olasılığını bulunuz                                                                    
+    
+   15. Bir örnek uzayın ikişer ikişer ayrık olayları 
+A, B ve C dir. E bu deneye ait örnek uzay 
+olmak üzere ,
+,
+=
+ v( )
+( )
+P P +
+=
+ olduğuna göre 
+(
+)
+(
+)
+P P +
+l  değerini bulunuz                 
+                                                 
+   16. 12a6 rakamları birbirinden farklı dört basamakl bir doğal sayıdır. Bu şartı sağlaya tüm 12a6 sayıları arasından rastgele 
+seçilen bir sayının 4 ile tam bölünen bir 
+sayı olmama olasılığını bulunuz                                                                
+   17. Beyza, marketten rastgele bir şişe su 
+alacaktır. Marketteki bir rafta 18 tane A, 
+12  tane B ve 15 tane C marka su şişesi 
+vardır. Beyza’nın A veya B marka su şişesinde alma olasılığını bulunuz                    
+ 
+                        

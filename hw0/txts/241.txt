@@ -1,0 +1,400 @@
+$
+$
+$
+$
+=
+=
+a)
+b) coAAAA&
+&
+a =
+=
+=
+A noktasının yerden yüksekliği 
+AAHm olu=
++
+=
++
+=
+c)
+F noktasının yerden yüksekliği 
+EFKm olu=
++
+=
++
+=
+&
+&
+&
+cocoGFFFFF&
+$
+=
+-
+=
+-
+=
+=
+=
+25 m/sn50 m/sn2        125 200 2ÇÖZÜÖRNETrigonometr=
+Ax m olsuBu durumda Ex m oluADED=
+=
+-
+-
+taAED digenindüa =
+taDEC digenindüa =
+=
+^
+Yandaki Şekil 1 de deniz yüzeyinde buluna bir sürat teknesi yine deniz yüzeyi 
+üzerinde bulunan deniz paraşütüne bir 
+ip ile bağlıdır. Sürat teknesi B noktasında AB doğrultusunda şekildeki yönde 
+hareket etmeye başladığında paraşüt de 
+yükselmeye başlıyor. 
+Yandaki Şekil 2 de sürat teknesi A noktasında 165 metre uzaklıktaki C noktasına 
+ulaştığı anda deniz paraşütü yerden 60 
+metre yükseklikteki D noktasında bulunuyo. m DA=
+^
+%
+,  m DC2=
+^
+%
+ ve 
+DA=
+@
+@ olduğuna göre AE  nun 
+kaç metre olduğunu bulunuztatata2 &
+$
+=
+-
+-
+=
+-m bulunu&
+&
+&
+&
+&
+&
+&
+&
+$
+$
+$
+-
+=
+-
+-
+=
+-
+-
+=
+-
+-
+=
+-
+-
+-
+=
+-
+-
+=
+-
++
+=
+=
+]
+]
+]
+Şekil Şekil Şekil :
+:
+2:
+:
+:
+44444444444444444444444 2:
+:
+:
+165-
+4444444 44444444444444 ÇÖZÜÖRNE:
+:
+:
+:
+Matematik ,
+cov0 !
+a =
+ olduğuna göre 
+sin a  değerini bulunuzcoa =
+ olduğuna göre sin 2a  değerini 
+bulunuzsisicoco$
+$
+c  ifadesinin 
+değerini bulunuz,
+!
+l olmak üzere 
+sisico$
++
++
+ ifadesinin en 
+sade hâlini bulunuzcosicoco-
++
+ ifadesinin en sade 
+hâlini bulunuzsisico+
+-
+]
+ ifadesinin en sade 
+hâlini bulunuzsico+
+=
+ olduğuna göre sin 2  
+değerini bulunuzcosi-
+c ifadesinin değerini 
+bulunuzcot =
+ olduğuna göre cos 2  değerini 
+bulunuzco36 =
+ olduğuna göre sin18c nin m 
+türünden eşitini bulunuzcocosisi+
+c  ifadesinin en sade hâlin bulunuz,
+tav!
+a =
+ olduğuna 
+göre tan a  değerini bulunuzsi80 =
+ olduğuna göre sin70c nin m 
+türünden eşitini bulunuzta380 =
+ olduğuna göre cot 770c nin 
+a türünden eşitini bulunuz AlıştırmalaTrigonometrABCD bir kare 
+olduğuna göre tandeğerini bulunuzEF=
+BA3 $
+=
+m FA=
+^
+%
+,
+cosiv0 -
+=
+`
+olduğuna göre tan 2  değerini bulunuz,
+sicov0 -
+=
+`
+olduğuna göre tan x  değerini bulunuzolduğuna göre cot a  değerini bulunuzABCD bir d rtgeDAAcAcDcCc=
+=
+=
+=
+=
+@
+@
+AD2=
+^
+%
+2 ,
+0 !
+l ve cot =
+ olduğuna göre 
+sico+
+ toplamını bulunuztaABC ikizkenagenindAAC vü=
+=
+olduğuna göre tan AW  değerini bulunuzcoco-
++
+c  
+ifadesinin en sade hâlini bulunuzsico-
+c  
+ifadesinin eşitini bulunuzŞekilde O merkezli yarım çember verilmiştircos AD=
+^
+%
+AB=
+B, C ve D doğrusal olduğuna göre 
+sin AB^
+%  değerini bulunuzŞekilde bir bölgedeki sıradağlar verilmiştir. 
+A noktası en yüksek dağın zirvesinde, B ve 
+C noktaları yer düzleminde birer noktadır. 
+, sim ABve A=
+=
+=
+^
+%
+ 
+olduğuna göre bu dağın yerden yüksekliğini kaç metre olduğunu bulunuz. 
+Matematik 3.2. TRİGONOMETRİK DENKLEMLE3.2.1. Trigonometrik Denklemlerin Çözüm Kümelercos =
+ Denkleminin Çözüm Kümescos =
+ denkleminin çözüm kümesini bulunuzcos =
+ denkleminin 
+,
+0 2r nda bir kökü =
+ olur. 
+Bu durumda çözüm kümesi 
+,
+x olarak bulunu$
+$
+;
+!
+=
+=
++
+=-
++
+&
+cos =-
+ denkleminin çözüm kümesini bulunuzcos =-
+ denkleminin 
+,
+0 2r nda bir kökü 
+olu3=
+ 
+Bu durumda çözüm kümesi 
+,
+x olarak bulunu$
+$
+;
+!
+=
+=
++
+=-
++
+&
+ÇÖZÜÇÖZÜÖRNEÖRNE#
+#
+-
+ olmak üzere cos =
+ denkleminin 
+,
+0 2r nda bir kökü i ise 
+denklemin çözüm kümesi 
+olur,
+x $
+$
+;
+!
+=
+=
++
+=-
++
+"
+,
+-
+P-
+-
+Yandaki birim çembere göre coi =
+ veya co-
+=
+^
+ 
+olur. Kosinüs fonksiyonu 2r periyotlu periyodik bir fonksiyo olduğundan 
+cocok $
++
+=
+^
+h veya 
+cocok $
+-
+=
++
+-
+^
+^
+h olurBu durumda cos=
+ denkleminin köklercoco$
++
+=
+^
+ ve coco$
+- +
+=
+^
+ 
+eşitliklerini sağlayan x değerleridir. Buna gör&
+coco$
+$
++
+=
++
+=
+^
+&
+coco$
+$
+- +
+=
+= - +
+^
+ olur. 
+Sonuç olaraİçinde bilinmeyenin trigonometrik fonksiyonları bulunan, bilinmeyenin bazı değerleri için 
+doğru olan eşitliklere trigonometrik denklem denir. Denklemi sağlayan değerlere denklemi kökleri, köklerin oluşturduğu kümeye çözüm kümesi denirTrigonometrsin =
+ denkleminin çözüm kümesini bulunuzsin =
+  denkleminin 
+,
+0 2r nda bir kökü 
+olu=
+ 
+Bu durumda çözüm kümesi 
+,
+x $
+$
+;
+!
+=
+=
++
+=
+-
++
+&
+sin =-
+ denkleminin çözüm kümesini bulunuzsin =-
+ denkleminin 
+,
+0 2r nda bir kökü 
+=
++
+=
+ olur. 
+Bu durumda çözüm kümesi 
+,
+x $
+$
+;
+!
+=
+=
++
+=
+-
++
+&
+,
+x olarak bulunu$
+$
+;
+!
+=
+=
++
+=
++
+&
+,
+x olarak bulunu$
+$
+;
+!
+=
+=
++
+=-
++
+&
+sin=
+ Denkleminin Çözüm KümesÇÖZÜÇÖZÜÖRNEÖRNE#
+#
+-
+ olmak üzere sin =
+ denkleminin 
+,
+0 2r nda bir kökü i ise denklemin 
+çözüm kümesi 
+,
+olux $
+$
+;
+!
+=
+=
++
+=

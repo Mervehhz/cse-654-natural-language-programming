@@ -1,0 +1,400 @@
+^
+^
+^
+^
+^
+^
+^
+^
+^
+^
+^
+^
+^
+^
+^
+^
+^
+^
+^
+^
+^
+^
+^
+^
+^
+^
+^
+^
+^
+^
+^
+^
+^
+^
+^
+^
+hh @
+@
+@
+@
+@
+@
+44444444444 4444444444 Matematik g g g f bulunu2 $
+$
+$
+$
+=
+-
+=
+-
+-
+=
+-
++
+=
++
+=
++
+]
+^
+^
+^
+^
+^
+^
+^
+^
+h1. Yol:
+1. yolda ^h bölüm fonksiyonu bulundu. Ardından türev alındı2. yolda iki fonksiyonun bölümünün türevi kuralı uygulandı-
+bulunu=
+-
+=
+-
+=
+=
++
+=
++
+-
+-
+]
+^
+2. Yol:
+=
+c^
+f x ve g =
+-
+=
++
+]
+]
+ olduğuna göre 
+]
+g değerini bulunuzf =
++
++
+]  fonksiyonunun =
+ noktasındaki türevinin değerini bulunuz&
+bulunu-
+=
+=
+f 2 &
+$
+$
+$
+$
+=
+=
+=
++
++
++
++
+-
++
++
++
+-
++
+-
+]
+]
+]
+]
+]
+]
+]
+^
+^
+ÖRNEÖRNEÇÖZÜÇÖZÜÇÖZÜ&
+bulunu3 3 3 2 1 &
+&
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+=
+-
++
+=
+-
+-
++
+=
+-
+-
+-
++
+-
+-
++
+-
++
+=
+-
+-
+-
+= -
+-
+=-
+=
+=
+=
+]
+]
+]
+^
+^
+^
+^
+^
+^
+^
+^
+^
+^
+^
+^
+Türe5.2.4. İki Fonksiyonun Bileşkesinin Türevf ve g türevlenebilir iki fonksiyon olmak üzere f o g = ^
+]g bileşke fonksiyonu içif o g f g &
+=
+=
+^
+]
+^ ]
+gh olur. 
+Bu ifadede g =
+] g dönüşümü yapılırsa 
+g ve f olu=
+=
+]
+]
+#
+&
+&
+=
+f ddddddddg ddg g oluddg &
+$
+$
+$
+=
+=
+=
+=
+= ]
+]
+]
+]
+]
+]
+^ ]
+]
+^ ]
+gg`
+bbbbbbbb4444 ;
+ifadeleri taraf tarafa çarpılırsO hâlde f o g = ^
+]g bileşke fonksiyonunun türevi g g $
+=
+^ ]
+]
+gg olarak elde edilirdddddd$
+=
+ ifadesine ise zincir kuralı denirf ve g =
+=
++
+]
+]
+ fonksiyonları veriliyor. Buna göre f o g ^
+]g fonksiyonunun türevini 
+bulunuz1. Yol:
++
++
++
++
+f o f g oluf o bulunu$
+=
+=
+=
+=
+=
++
++
+=
++
+^
+^
+]
+]
+^
+]
+g+
++
+f o g g bulunu$
+$
+$
+=
+=
+=
+=
++
+^
+]
+^
+]
+]
+gf g g &
+&
+=
+=
+=
++
+=
+]
+]
+]
+]
+2. Yol:
+f o g f g =
+^
+]
+^ ]
+gh ifadesinde g =
+]  dönüşümü yapılırsa f = ] g olur                                                   ddy ve ddu  değerleri zincir kuralında yerlerine yazılırs&
++
+ddddddddbulunu$
+$
+$
+=
+=
+=
+=
++
+3. Yol:
+f ddg ddolu&
+&
+=
+=
+=
+=
+=
++
+=
+&
+&
+]
+]
+1. yolda önce f o g ^
+]g bileşke fonksiyonu bulundu. Ardından türev alındı2. yolda bileşke fonksiyonun türevinin kuralı kullanıldı3. yolda zincir kuralı kullanıldıÖRNEÇÖZÜMatematik SONU-
++
+=
+i  olduğuna göre ddy  ifadesinin eşitini bulunuz=
+-
++  dönüşümü yapılarak zincir kuralı uygulanırsddy ve ddu   değerleri zincir kuralında yerlerine yazılırsddddolu&
+&
+=
+=
+=
+-
++
+=
+-
+-
++
+-
+&
+-
+ddddddddolarak bulunu$
+$
+$
+=
+=
+=
+-
+f =
+]
+i  fonksiyonunun türevini bulunuz-
+-
+-
+-
+-
+f 2 &
+$
+$
+$
+=
+=
+-
+bulunu10 $
+$
+=
+]
+]
+f =
++
+]  fonksiyonunun türevini bulunuz 
+,
+ve f !
+!
+] g sıfırdan farklı türevlenebilir bir fonksiyon olmak üzere 
+             
+&
+oluf a f $
+$
+$
+$
+=
+=
+-
+]
+]
+]
+@
+@
++
++
+f f &
+=
++
+=
++
++
++
+-
+bulunu&
+$
+=
+=
+]
+]
+]
+]
+ÖRNEÖRNEÖRNEÇÖZÜÇÖZÜÇÖZÜTüref =
++
+]  olduğuna göre l] g değerini bulunuz&

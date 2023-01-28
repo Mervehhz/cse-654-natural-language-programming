@@ -1,0 +1,400 @@
+h bir aritmetik dizi olmak üzere 
++
++
+=
++
++
++
++
+ 
+olduğuna göre a12  kaçtır?
+)
+)
+)
+)
+)
+14 
+=
++
+=
++
+=
++
+^
+^
+^
+^
+^
+^
+olduğuna göre 
+,
+v^
+^
+^
+h dizilerini 100 ile 480 arasında kaç tane orta terimi vardır?
+    
+)
+)
+)
+)
+)
+a^
+h aritmetik dizisinin ilk n teriminin   
+toplamı Sn  dir. ve =
+=
+olduğuna göre a10  kaçtır?
+)
+)
+)
+)
+)
+37 İlk n teriminin toplamı =
++
+ 
+olan bir a^
+h aritmetik dizisi veriliyor. 
+Buna göre +
+ toplamı kaçtır?
+a^
+h aritmetik dizisinin ilk n teriminin toplamı 
+dive =
+=
+ 
+olduğuna göre bu dizinin 3. terimi 
+kaçtır?
+)
+)
+)
+)
+)
+a^
+h aritmetik dizisi için 
++
++
++
+=
+ 
+olduğuna göre bu aritmetik dizinin ilk 13 
+teriminin toplamı aşağıdakilerden hangisidi?
+,
+,
+,
+,
+,
+^
+h                               
+sonlu geometrik dizisi veriliyor. 
+Buna göre 
+x y z $
+$
+$
+ değeri kaçtır?
+)
+)
+)
+)
+)
+a^
+h bir geometrik dizi olmak üzere 
+1 =
+ve 9 =
+ 
+olduğuna göre $
+$
+$
+$
+$
+$
+ 
+çarpımı kaçtır?
+          
+a^
+h geometik dizisi için 4 =
++
++
+ 
+olduğuna göre 17  oranı kaçtır?
+      
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
++
+, ,
+Fibonacci dizisi ve a b !
+^
+ 
+olmak üzerolduğuna göre +
+-
+ işleminin sonuc kaçtır?
+)
+)
+)
+)
+)
+-
+-
+)
+)
+)
+)
+)
+12 =
+:
+$
+-
+=
+:
++
+=
+:
+)
+)
+)
+)
+)
+DizileEce mavi kalemle, Cemre kırmızı kalemle ve 
+Emre siyah kalemle bir yazı tahtasına sırasıyla 
+birer sayı yazarak bir oyun oynuyorlar. Sırası gele kişi tahtaya kendisinin en son yazdığı sayının 
+2 katını yazıyor. Ece ile başlayan bu oyunun ilk 
+altı adımı aşagıdaki gibidir1. adımda Ece tahtaya 1 sayısını yazıyor2. adımda Cemre tahtaya 2 sayısını yazıyor3. adımda Emre tahtaya 3 sayısını yazıyor4. adımda Ece tahtaya 2 sayısını yazıyor5. adımda Cemre tahtaya 4 sayısını yazıyor6. adımda Emre tahtaya 6 sayısını yazıyorOyuna bu şekilde devam edildiğine göre;
+47 19. adımda kim, hangi sayıyı yazmıştır?
+48 23. adımda tahtaya yazı yazan kişinin bu      
+       adımla beraber yazdığı tüm sayıların         
+       toplamı kaçtır?
+49 32. adımın sonunda tahtada yazan tüm        
+       sayıların toplamı kaçtır?  
+50 Ece 2048 sayısını kaçıncı adımda yazar?
+ 
+?
+51 Cemre 1024 sayısını yazdıktan sonra Emr       hangi sayıyı yazar?
+E) 44-46. üst düzey beceri sorularını şekle      
+     ve metne göre cevaplayınızBurak, Ahmet ve Mert bir kutuda bulunan bilyelerde sırasıyla bir miktar bilye alarak paylaşacaklardı1. sırada Burak kutudan 1 bilye alıyor2. sırada Ahmet kutudan 2 bilye alıyor3. sırada Mert kutudan 3 bilye alıyorBurak sırası tekrar geldiğinde her seferinde bir 
+önceki adımında aldığı bilye sayısından 1 fazla 
+bilye, Ahmet sırası tekrar geldiğinde her seferind bir önceki adımında aldığı bilye sayısında 2 fazla bilye, Mert ise sırası tekrar geldiğind her seferinde bir önceki adımında aldığı 
+bilye sayısından 3 fazla bilye alıyor4. sırada ikinci kez sırası gelen Burak kutudan  
+2 bilye alıyor. 5. sırada ikinci kez sırası gelen 
+Ahmet kutudan 4 bilye alıyor. 6. sırada ikinci 
+kez sırası gelen Mert kutudan 6 bilye alıyorİlk 6 adımı bu şekilde olan paylaşımda Burak, 
+Ahmet ve Mert kutudaki bilyeler bitene kadar 
+aynı düzende kutudan bilye almaya devam ediyorla. Buna göre;
+25. sırada kim kutudan kaç bilye almıştır?
+Ahmet sıra kendisindeyken kutudan almas gereken bilye sayısı 64 olduğunda, kutudak son 64 bilyeyi alıyor. Buna göre bu 
+paylaşım kaç adımda bitmiştir ve kutuda 
+başlangıçta kaç bilye vardır?
+Herkes kutudan beşer kez bilye aldığında 
+kutudaki bilye sayısı kaç azalmış olur? 
+    47-51. üst düzey beceri sorularını şekle      
+     ve metne göre cevaplayınızG rsel 2 G rsel 2 Matematik TRİGONOMETR3.1. TOPLAM-FARK VE İKİ KAT AÇI 
+FORMÜLLER3.2. TRİGONOMETRİK DENKLEMLEHAZIRLIK ÇALIŞMALARDerece ile radyan arasındaki ilişki nedir?
+Bir açının esas ölçüsü nasıl bulunur?
+Trigonometrik fonksiyonlar nasıl elde edilir?
+Bir dik üçgende dar açıların trigonometrik oranları nasıl bulunur?
+Birim çember nedir?
+Özel üçgenler yardımıyla hangi açıların trigonometrik oranları bulunabilir?
+TrigonometrHATIRLATM3.1. TOPLAM-FARK VE İKİ KAT AÇI FORMÜLLER3.1.1. Toplam ve Fark FormüllerTrigonometrik OranlaABC dik üçgeninde ABve m BC=
+=
+^
+?
+?
+%
+  olmak üzere 
+cos a =
+tan a =
+cot a =
+=
+Karşı Dik Kenar Uzunluğu     
+Hipotenüs UzunluğKomşu Dik Kenar UzunluğHipotenüs UzunluğKarşı Dik Kenar Uzunluğu  
+Komşu Dik Kenar UzunluğKomşu Dik Kenar UzunluğKarşı Dik Kenar Uzunluğ=
+=
+a olu=
+HipotenücococobaaC olu=
++
+-
+=
++
+-
+=
++
+-
+Kosinüs Teoremi 
+a Aşağıdaki ABC üçgeninde AW  na göre kosinüs teoremi uygulanırssina =
+Karşı Dik KenaKomşu Dik Kenax-
+BAA2 AAcos2 t z cos 2tz cos 2tz cos 2tz cos 2tz cos cos tcos cos cos cocosisixxxttttxb bulunucosi$
+$
+$ $
+$
+$
+$
+$
+$
++
+-
++
++
++
++
++
+=
++
+=
++
+-
++
++
+=
++
+-
++
++
+=
++
+-
+-
+-
++
+=
+-
++
+-
+-
+=
+-
+=
+=
+-
+=
+-
+=
+-
+sincos^
+]
+]
+]
+]
+]
+]
+]
+]
+`
+^
+]
+444 444 ,
+,
+cosicosiAHB digenindAHC digenindoluoluüü=
+=
+=
+=
+a ve b gibi iki açının toplamının kosinüs 
+cos a cossina sincos $
+$
++
+=
+-
+]
+  olurMatematik SONUYÖNERGsisicocosisisicocosi$
+$
+$
+$
++
+=
++
+-
+=
+-
+]
+]
+cococosisicococosisi$
+$
+$
+$
++
+=
+-
+-
+=
++
+]
+]
+cococosisi$
+$
++
+=
+-
+]
+ formülünde a yerine 
+-
+ yazarak         
+     formülünü elde ediniz. 
+Elde ettiğiniz formülde b yerine 
+-  yazarasisicocosi$
+$
++
+=
++
+]
+  formülünü oluşturunuzcos105c ifadesinin değerini bulunuzcocococosisi$
+$
+-
++
+=
+=
+]
+bulunu$
+$
+-
+-
+=
+=
+cos15c ifadesinin değerini bulunuzcocococosisi$
+$
+-
++
+=
+=
+]
+bulunu$
+$
++
++
+=
+=
+:
+:
+ÇÖZÜÇÖZÜÖRNEÖRNEsin sina coscos a sin$
+$
+=
+-
+-
+]
+a ve b gibi iki açının farkının kosinüs 
+cos a cossina sincos $
+$
+=
+-
++
+]
+  olurcos a cossina sincos $
+$
++
+=
+-
+]
+ formülünde b yerine 
+-  yazılırscococosisicococosisib bulunucosi$
+$
+$
+$
++ -
+=
+-
+-
+-
+-
+=

@@ -1,0 +1,400 @@
+ÇÖZÜÇÖZÜÖRNEÖRNE&
+log c)
+=
++
+=
++
+&
+log =-
++
+&
+log b)
+=
+=
+&
+bulunur=
+=
+log d) f loh g =
+^
+^
+^
+ fonksiyonunun tanımlı olabilmesi için aşağıdaki koşullar sağlanmalıdırUyarh ^ g ^ g !
+^ Üstel ve Logaritmik 
+Fonksiyonlaf lo=
+-
+-
+^
+^
+^
+ fonksiyonunun en geniş tanım kümesini bulunuzm-
++
+lof fonksiyon6 !
+=
+]
+ için tanımlı bir fonksiyon olduğuna göre m nin 
+alabileceği tam sayı değerlerini bulunuzm-
++
+lofonksiyon6 !
+=
+]
+ için tanımlı ise 
+6 !
+ için 
+m-
++
+ olmalıdırab+
++
+ eşitsizliğinin daima sağlanması için va=
+-
+ olmalıdır=
+ olduğundan  sağlanır&
+&
+&
+&
+&
+&
+4 1 42 bulunur$
+$
+-
+-
+-
+-
+-
+^
+Böylece m nin alabileceği tam sayı değerleri 
+,
+,
+1 0 -
+ olarak elde edilirf lo=
+-
++
+^  fonksiyonunun en geniş tanım kümesini bulunuz. 
+$
+-
+-
+^
+^
+ eşitsizliğinde kökler ve =
+=
+ bulunur. İşaret tablosu aşağıdaki 
+gibidirBu durumda f ^ h fonksiyonunun en geniş tanım kümesi 
+,
+3,
+2 ,
+-
+^
+^
+h bulunur52 -
++
+-
++
+-
++
+Logaritma fonksiyonu pozitif gerçek sayılarda tanımlı olduğundan -
++
+ olmalıdır. 
+Bu durumda f ^ h fonksiyonunun en geniş tanım kümesi 3,-
+^
+" , bulunurLogaritma fonksiyonunun tanımı gereğ!
+-
+-
+-
+`
+bbbbbbbbolmalıdır&
+&
+&
+oluoluolu!
+!
+-
+-
+-
+ÇÖZÜÇÖZÜÇÖZÜÖRNEÖRNEÖRNEMatematik f lo=
+-
+-
+-
+^
+^
+ fonksiyonunun en geniş tanım kümesini bulunuz. 
+!
+-
+-
+-
+-
+`
+bbbbbbbb Eşitsizlik sisteminin sağlandığı aralığı bulmak için işaret tablosu oluşturulur. 
+İşaret tablosu incelendiğinde her iki fonksiyonun birlikte pozitif olduğu aralığın 
+3,
+-
+-
+^
+h olduğu görülü. 
+ise !
+!
+-
+ olur. Buna göre 
+lof =
+-
+-
+-
+^
+^
+ fonksiyonunun en geniş 
+tanım kümesi 
+3,
+-
+-
+^
+h bulunurv2 -
+-
+=
+-
+=
+ denklemlerinin kökleri bulunmalıdır-
+-
+2 -
+-
+3 -
++
++
++
++
+-
+-
+-
+-
+"
+:
+, f =
++
++
+^  olduğuna göre - ^ h fonksiyonunu bulunuz-
+-
+lolo&
+=
++
+-
+=
+-
+-
+-
+-
+-
+-
+bulunu&
+&
++
+-
+=
+=
+^
+^
+^
+^
+-
++
+lolof olu=
+-
++
+=
++
+-
+^
+^
+^
+f lo=
+-
++
+^
+^
+ olduğuna göre - ^ h fonksiyonunu bulunuzf =
++
+^  fonksiyonu bire bir ve örten olduğundan tersi vardır. Verilen fonksiyonda f ^ h yerin x ve x yerine de - ^ h yazıldıktan sonra - ^ h yalnız bırakılarak fonksiyonun tersi bulunur&
+lo=
++
+=
++
+-
+-
+^
+^
+&
+lox bulunu=-
++
+- ^ loi in +
+!
+-
+=
+=
++
+`
+" ,
+ÇÖZÜÇÖZÜÇÖZÜÖRNEÖRNEÖRNE&
+&
+$
+-
+-
+=
+-
++
+=
+:
+veya &
+=
+=-
+^
+^
+&
+olu-
+=
+=
+:
+Üstel ve Logaritmik 
+Fonksiyonla"
+f :+ , 1 için f =
+^  fonksiyonunun tersi 
+"
+:+
+-
+, log =
+- ^  
+fonksiyonudur. Birbirinin tersi olan iki fonksiyonun grafiği =
+ doğrusuna göre simetrik 
+olduğundan önce =
+ doğrusu çizilir. Daha sonra f =
+^  fonksiyonunun grafiğinin 
+=
+ doğrusuna göre simetriği alınarak log =
+- ^  fonksiyonunun grafiği oluşturulur"
+:f + , 1 için f =
+^   üstel fonksiyonunun grafiği aşağıdaki gibidirLogaritma Fonksiyonunun Grafiğ'
+'
+Matematik "
+:
+,
+loolmazere f !
+-
+=
++
++
+" ,
+^  logaritma fonksiyonu,
+ için artan olup grafiği aşağıdaki gibidir"
+:
+,
+,
+loolmazere f logaritma fonksiyon!
+-
+=
++
++
+^ " ,
+ 
+ için azalan olup grafiği aşağıdaki gibidirlof =
+^ lof =
+^ Üstel ve Logaritmik 
+Fonksiyonlalog f =
+^  fonksiyonunun grafiğini çiziniz. Artan veya azalan olduğunu bulunuz-
+-
+lo=
+^ log f =
+^  fonksiyonunun tabanı 0 ile 1 arasında olduğundan f fonksiyonu, azalan bir fonksiyondurf log =
+^  fonksiyonunun grafiğini çiziniz. Artan veya azalan olduğunu bulunuz-
+4 log =
+^ f log =
+^  fonksiyonunun tabanı 1 den büyük olduğundan f fonksiyonu, artan bir fonksiyondurÇÖZÜÇÖZÜÖRNEÖRNEMatematik "
+f :
+, f log =
++
+^  fonksiyonunun grafiğini, Dinamik Geometri ve Matematik Yazılımı 
+programından yararlanarak çiziniz ve a nın değişimine göre grafiği yorumlayınızDinamik Geometri ve Matematik Yazılımı programını açınızLogaritma fonksiyonunun tanımı gereği a, 1 den farklı pozitif bir gerçek sayı olmalıdır. Sürgüde 
+=
+ ve =
+ için grafik aşağıdaki gibi görünecek ve bir logaritma fonksiyonu grafiği olmayacaktırÇÖZÜÖRNE1. Adım: Üstteki araç çubuğunda 
+ butonuna tıklayınız. Sağdaki koordinat sistemi üzerinde 
+herhangi bir noktaya sol tıklayınız. Açılan sürgü butonunda, minimum çubuğuna 0, maksimu çubuğuna 10 ve artış çubuğuna 0.1 yazarak Tamam butonuna tıklayınız. a sürgü 
+çubuğu elde edilecektir2. Adım: Giriş çubuğuna log yazarak log( <b> , <x> ) ifadesini tıklayınız. Bu ifadeyi log(a,x) biçimind yazınız ve enter tuşuna basınız. Fonksiyonun grafiği çizilecektirÜstel ve Logaritmik 
+Fonksiyonlalof =
+^  logaritma fonksiyonunun grafiği 
+ için incelendiğinde fonksiyonun azalan olduğ ve a değerlerinin 1 e yaklaştıkça grafiğin y ekseninin pozitif tarafından uzaklaştığı görülüra sürgüsü 0.1 e getirilerek bir logaritma fonksiyonu grafiği elde edilir. Grafiğin üzerine sağ tıklanarak izi 
+göster butonuna tıklanır. Benzer şekilde A noktasının da izi açılır. Daha sonra a sürgüsü 0 ile 1 arasınd artırıldığında grafikteki değişim ekranda gözlenira sürgüsü 1.1 e getirilerek bir logaritma fonksiyonu grafiği elde edilir. Grafiğin üzerine sağ tıklanarak izi 
+göster butonuna tıklanır. Benzer şekilde A noktasının da izi açılır. Daha sonra a sürgüsü artırıldığında 
+grafikteki değişim ekranda gözlenirlof =
+^  logaritma fonksiyonunun  grafiği  için incelendiğinde fonksiyonun artan 
+olduğu ve a değerlerinin büyüdükçe grafiğin y ekseninin negatif tarafına yaklaştığı görülür3. Adım:Giriş çubuğuna (a,log(a,a)) yazınız ve enter tuşuna basınız. Fonksiyonun görüntüsünün 
+1 olduğu A noktası grafikte belirecektirMatematik Gelenbevi İsmail Efendi (1730-1790)  
+John NAPIER (Con Nepyer) (1550-1617)
+Logaritmayı bulan İskoçyalı matematikçidi. Sayısal hesaplamaları kolaylaştıraca bir yol ararken önce Napier’in 
+kemikleri olarak bilinen üzerlerine rakamla yazılmış küçük değnekler yardımıyl yapılan bir çarpma veya bölme 
+metodu buldu. 1614’te yazdığı “Logaritm Kurallarının Tanımı” adlı eserinde 
+aritmetik dizi ile geometrik diziyi karşılaştırara matematiğe logaritma kavramın kazandırmıştır. 1, 2, 3, ... biçimindek aritmetik dizi ile buna karşılık gelen  
+10, 100, 1000, ... biçimindeki geometrik 
+dizi arasındaki ilişkiyi fark etmiştirNapier logaritma sözcüğünü orantıların 
+sayısı ya da algoritmik hesap anlamına 
+gelen logos ve aritmos sözcüklerinden 
+oluşturarak “logaritm” adını vermiştir                                                                                
+(Meydan Larousse Büyük Lügat ve Ansiklopedisi,1992)
+Daha çok matematik ve mantık alanındak çalışmalarıyla tanınan Osmanlı 
+âlimidir. 1730 yılında Manisa’nın Kırkağa ilçesine bağlı Gelenbe’de doğd. Asıl adı İsmail olmasına rağmen 
+Gelenbevi olarak anılır. Gelenbevi, 
+matematik konusundaki dehasını ve 
+bu alanda meydana gelen yenilik ve 
+gelişmeleri takip ettiğini, 1787 yılında 
+İstanbul’a gelen bir Fransız mühendisini Babıali’ye (Osmanlı Hükûmetin) sunduğu, ancak dönemin ilim 
+adamlarınca pek anlaşılmayan bazı 
+logaritma cetvellerinin nasıl kullanılacağ hususunda yazdığı, “Logaritma 
+Şerhi” adıyla da tanınan “Şerh-i Ceâvili’l-ensâb” adlı Türkçe eseriyle ortay koymuştur. Bu eser iki bölümden 
+meydana gelmektedir. Birinci bölümd sayı sistemleri ve bunların özellikleri üzerinde durulurken ikinci bölümde logaritma cetvellerinin nasıl oluştuğu ve 
+bunların dayandıkları esaslar açıklanmıştır. Klasik İslam cebirinin Osmanlı dünyasındaki son temsilcisi olan Gelenbev’nin matematik ve astronomi çalışmalarını içeren birçok eseri bulunmaktadır. “Mesail-i Sitte” ile klasik geleneğe 
+bağlı cebir bilgilerini ele aldığı Türkçe cebir kitabı hakkında en ayrıntılı tanıtım Salih Zeki tarafından yapılmıştır  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+      (Gölcük ve Yurdagür, 1996)
+G rsel 1 G rsel 1 Üstel ve Logaritmik 
+FonksiyonlaBİLGİ NOTRichter (Rihter) ÖlçeğHer yıl çok sayıda deprem oluyor. Bu depremlerin bir kısmı insanlar 
+tarafından hissedilmeyecek kadar düşük şiddette olurken bazıları, sebe oldukları tahribatlar ile felaketlere yol açıyor. 
+Richter büyüklük ölçeği ya da kısaca “Richter ölçeği” depremlerin şiddetin ölçmekte kullanılan adı sıkça duyulan bir ölçektir. Peki, Richter 
+ölçeği tam olarak nedir ve insanlara depremler hakkında hangi bilgileri 
+verir?
+Richter ölçeği, 1935 yılında California (Kaliforniya) Teknoloji Enstitüsü’nde çalışan Charles  Francis 
+Richter (Çarls Frensis Rihter) ve Beno Gutenberg (Bino Gutenberg) adlı iki araştırmacı tarafından 
+geliştirilmiştir. 
+Logaritmik bir ölçek olan Richter ölçeğine göre bir depremin şiddeti şu şekilde hesaplanır: Dış merkezde 100 km uzaklıkta ve sert zemine yerleştirilmiş bir sismografla kaydedilmiş zemin hareketinin 
+mikron cinsinden ölçülen maksimum genliğe d, depremin Richter ölçeğine göre büyüklüğüne R denilirs 
+lo=
+ dir (Richter Ölçeği, www.bilimgenc.tubitak.gov.tr)
+1.2.2. 10 ve e Tabanında Logaritma FonksiyonOnluk Logaritma FonksiyonTabanı 10 olan logaritma fonksiyonuna onluk logaritma fonksiyonu veya bayağı logaritma 
+fonksiyonu denir  
+"
+f :
+, f lox veya f log =
+=
++
+^
+^
+ biçiminde gösterilirAşağıdaki logaritmaların değerlerini bulunuzlogloglog loa)
+b)
+c)
+ç)
+&
+)
+)
+lolo&
+&
+&
+=
+=
+=
+=
+=
+=-
+-
+&
+=
+&
+&

@@ -1,0 +1,400 @@
+$
+$
+=
+=
+ farklı şekilde yer değiştirir. Bu 30 sayıdn 0 ile başlayan 
+!
+!
+!
+$
+=
+ tane sayı olduğundan 5 basamaklı -
+=
+ tane sayı yazılabilirb) Elde edilecek 5 basamaklı çift sayılar, 0 ile bitenler ve 2 ile bitenler olarak iki grupta incelenir    0 ile bitenler, örneğin 
+sabi22 0505  sayısı için bu sayının birler basamağındaki 0 rakamı hariç rakamlar yer değiştirilerek 
+!
+!
+!
+!
+$
+$
+=
+=
+ farklı sayı elde edilebilir. Sayının on binler basamağına 
+0 gelen durum sayısı,  
+" ,
+" ,
+   
+!
+!
+=
+ olur. 
+     2 ile bitenler, örneğin 
+sabi20  sayısı için bu sayının birler basamağındaki 2 rakamı hariç rakamlar yer değiştirilerek 
+!
+!
+!
+!
+$
+$
+=
+=
+ farklı sayı elde edilebilir. Sayının on binler basamağına 
+0 gelen durum sayısı, 
+" ,
+" ,
+   !
+=
+ olur. 
+Bu durumda yazılabilecek 5 basamaklı çift sayıların sayısı tüm durumlar toplamından on binler 
+basamağının 0 olduğu durumlar çıkarılarak 
+6 =
++
+-
+-
+ olur22 005 sayısı veriliyora) Verilen sayının rakamları yer değiştirilerek 5 basamaklı kaç farklı doğal sayı yazılabileceğini bulunuzb) Verilen sayının rakamları yer değiştirilerek 5 basamaklı kaç farklı çift doğal sayı yazılabileceğini 
+bulunuzYukarıdaki şekilde verilen çizgiler bir mahallenin birbirini dik kesen sokaklarını temsil etmektedir. A köşesindek  evinden yola çıkan Merve’nin anneannesine ekmek almak için B köşesindeki markete  uğramak 
+koşuluyla en kısa yollardan kaç farklı biçimde C köşesindeki anneannesinin evine ulaşabileceğini bulunuzVeri, Sayma ve OlasılıVeri, Sayma ve Olasılı      1.  4 özdeş sarı, 3 özdeş turuncu ve 2 özdeş 
+mavi top yan yana sıralanacaktır. Aynı 
+renkteki topların yan yana bulunduğu kaç 
+farklı sıralama olduğunu bulunuz. 
+ 
+2. 366 300 sayısının rakamlarının yerleri 
+değiştirilerek 6 basamaklı kaç tek sayı 
+yazılabileceğini bulunuz. 
+     3. Bir hakem, yönettiği  futbol maçında 
+oyunculara toplam 5 tane sarı veya kırmızı 
+kart göstermiştir. Bu maçta gösterdiği sarı 
+kart sayısı kırmızı kart sayısından fazladır 
+ve birden fazla kart gören oyuncu yoktur. 
+Buna göre hakemin kart gösterme işlemini 
+toplam kaç farklı şekilde gerçekleştirebileceğin bulunuz. 
+ 
+     
+       4. 
+ 
+ 
+      
+        Şekilde eş karelerden oluşan telin A 
+noktasından hareket eden bir karıncanın 
+B noktasına uğramak koşuluyla en kısa 
+yollardan giderek C noktasına kaç farklı 
+şekilde gidebileceğini bulunuz. 
+        5. Esra’nın aynı özellikte 3 ü mavi, 4 ü 
+siyah ve  2 si kırmızı olmak üzere toplam 9 
+kalemi vardır. Esra’nın kalemlerini başa ve 
+sona birer kırmızı kalem getirmesi ve mavi 
+kalemleri birbirinden ayırmaması koşuluyl yan yana kaç farklı biçimde sıralayabileceğin bulunuz. 
+Merve’nin önce A ile B arasında kullanacağı yol sayısı bulunur. 
+A ile B arasını en kısa yollardan gidecek olan Merve’nin 3 sokak sağa (S) ve 2 sokak yukarı (Y) yürümesi 
+gerekir. SYSSY, SSYSY bu duruma uygun yollardan ikisidir. Buna göre Merve A dan B y!
+!
+!
+$
+=
+=
+ farklı şekilde ulaşır. 
+Merve’nin B ile C arasında kullanacağı yol sayısı ise 
+2 sokak sağa ve 2 sokak yukarı olacak şekilde 
+!
+!
+!
+$
+=
+=
+ farklı şekildedir. 
+Saymanın temel ilkesine göre Merve, A dan C ye 10 $
+=
+ farklı şekilde ulaşırALIŞTIRMALAVeri, Sayma ve OlasılıVeri, Sayma ve Olasılıİpuc n, r ! N , $
+ olmak üzere n elemanlı bir A kümesinin r elemanlı  permütasyonlarının sayısı 
+ile r elemanlı kombinasyonlarının sayısı arasında 
+,
+,
+(
+)
+(
+)
+!
+P n C n r$
+=
+ eşitliği vardır. 
+10.1.1.4. Kombinasyon (Seçim)
+a, b, A = "
+,  kümesinin 2 elemanlı dizilişleri ve 2 elemanlı alt kümeleri aşağıdaki gibi düzenlenirs2 elemanlı dizilişleri “ab, ba, ac, ca, bc, cb ” dir.  2 elemanlı alt kümeleri ise  “ a, b ,
+a, c ,
+b, "
+"
+"
+,
+,
+, ” şeklindedi. Nesnelerin dizilişi permütasyon ile r elemanlı alt kümelerinin (gruplamalarının) her biri kombinasyo ile ifade edilir( )
+s =
+ olup 2 elemanlı alt küme sayısı,
+! (
+)!
+!
+!
+!
+!
+!
+!
+2 1 6 5 $
+$
+$
+$
+$
+$
+=
+-
+=
+=
+=
+ olur 
+a, b, c, d, 1, A = "
+,  kümesinin 2 elemanlı alt kümelerinin sayısını bulunuzBu eşitliğin doğruluğu aşağıdaki gibi gösterilebilirBilgA kümesinin r elemanlı alt kümelerinin her birine A kümesinin r li kombinasyonu denir. 
+n, r ! N , $
+ olmak üzere n elemanlı bir A kümesinin r elemanlı (kısaca r li)
+kombinasyonlarının sayısı C(n, r) ya da 
+l ile gösterilir. C(n, r) =
+l =
+! (
+)!
+!
+$
+-
+ olurKombinasyon sayısı ile farklı gruplamaların sayısı kastedilirKombinasyon sayısının hesaplanmasında kümenin elemanlarının sıralama sayısı değil bu 
+elemanların seçilebilme sayısı önemlidir,
+,
+,
+n, ,
+n, (
+)
+!
+!
+(
+)
+!
+!
+!
+!
+(
+)
+!
+(
+)
+!
+P n P n P n P n $
+$
+$
+$
+=
+-
+=
+-
+=
+=
+^
+^
+^
+^
+Veri, Sayma ve OlasılıVeri, Sayma ve Olasılıİpuc(
+)
+ve !
+$
+! (
+)!
+!
+!
+!
+(
+)
+! (
+)!
+!
+!
+!
+(
+)
+! (
+)!
+!
+(
+)!
+(
+)!
+$
+$
+$
+$
+$
+!
+!
+=
+-
+=
+=
+=
+-
+=
+=
+=
+-
+=
+-
+-
+=
+n elemanlı bir kümenin 1 elemanlı alt küme sayısı,
+n elemanlı bir kümenin 0 elemanlı alt küme sayısı,
+n elemanlı bir kümenin n elemanlı alt küme sayısı,
+! (
+)!
+!
+!
+!
+!
+!
+!
+2 1 5 4 $
+$
+$
+$
+$
+$
+=
+-
+=
+=
+=
+ olur! (
+)!
+!
+!
+!
+!
+!
+!
+2 1 6 5 $
+$
+$
+$
+$
+$
+=
+-
+=
+=
+=
+ olur! (
+)!
+!
+!
+!
+!
+!
+!
+3 2 1 7 6 5 $
+$
+$
+$
+$
+$
+$
+$
+=
+-
+=
+=
+=
+ olurBurada+
++
+=
++
++
+=
+ olurSosyal sorumluluk projesi kapsamında 10-A sınıfının sınıf öğretmeni Elif Hanım’ın huzurevine yapacaklar ziyaret için sınıfında bulunan 20 öğrenciden 3 ünü kaç farklı şekilde seçebileceğini bulunuz. 
+ 
++
++
+l işleminin sonucunu bulunuzSınıftaki 20 kişiden 3 kişi 
+l farklı biçimde seçilebilir. Bu durumda 
+! (
+)!
+!
+!
+!
+!
+!
+!
+!
+20 19 18 $
+$
+$
+$
+$
+$
+=
+-
+=
+=
+=
+ bulunur 
++
++
+=
++
++
+=
+ olur. 
++
++
+l  işleminin sonucunu bulunuzVeri, Sayma ve OlasılıVeri, Sayma ve Olasılın, r ! N , $
+ olmak üzere 
+(n, r)
+, (
+)
+C =
+-
+ eşitliği vardır. 
+ 
+(
+,
+)
+(
+,
+)
+20 20 +
+ işleminin sonucunu bulunuz+
++
++
++
++
+=
+ olduğuna göre n değerini bulunuz. 
+İpuc&
+&
+&
+&
++
++
+=
+-
++
++
+=
+-
++
+=
+-
+=
+=
+ olur. 
+n elemanlı bir kümenin 0, 1 ve n elemanlı alt küme sayıları toplamı 
+18 -
+ olduğuna göre n nin değerini 
+bulunuzBu eşitliğin doğruluğu aşağıdaki gibi gösterilebilir( , )
+! (
+)!
+!
+( , )
+(
+)! (

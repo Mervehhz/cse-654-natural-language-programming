@@ -1,0 +1,400 @@
+-
+=
+=
+-
++
+-
+=
+-
++
++
+-
+=
++
++
+-
+=
+=
+-
+]
+]
+]
+]
+]
+]
+]
+]
+]
+]
+]
+]
+]
+]
+#
+#
+Sonuç olarak f ] g fonksiyonunun integrali  F ] g olmak üzere 
+,
+a @ nda f ] g fonksiyonunun grafiğnin altında kalan alan F F -
+]
+]
+g olurf ] g fonksiyonu 
+,
+a @ nda sürekli ve F f =
+l]
+]
+g olmak üzere 
+f x dF =
++
+]
+^ ]
+#
+F F F F F F =
++
+-
++
+=
++
+-
+-
+=
+-
+^
+]
+]
+]
+]
+]
+^ ]
+6.2.2. Bir Fonksiyonun Belirli İntegrali ile Belirsiz İntegrali Arasındakİlişkolu$
+$
+=
+=
+f f mmm +
+-
++
++
++
+-
++
++
+-
+$
+=
+]
+]
+]
+]
+]
+(Bu işlemde c sabitleri sadeleştiğinden belirli integralde c sabiti bulunmaz.)
+f x dF F =
+-
+]
+]
+]
+#
+ olurİntegraYanda f = ] g fonksiyonunun grafiği verilmiştir. Buna göre 
+boyalı bölgenin alanının integral yardımıyla nasıl ifade edileceğin bulunuzYukarıda,  
+,
+2 @ nda f ] g fonksiyonunun grafiği ile x ekseni arasında kalan sınırlı bölgenin alanı 
+gösterilmiştir. Bu alan 
+f x d] #
+ integrali ile hesaplanırd+
+]
+#
+ ifadesinin değerini bulunuz+
++
++
+d+
+=
+=
+-
+olu=
+-
+=
+]
+#
+-
+d#
+ ifadesinin değerini bulunuz2 2 $
+$
+-
+-
+-
+-
+d=
+=
+-
+-
+olu=
+-
+=
+]
+#
+dx -
+#
+ ifadesinin değerini bulunuzÖRNEÖRNEÖRNEÖRNEÇÖZÜÇÖZÜÇÖZÜMatematik -
+d-
+-
+]
+#
+ ifadesinin değerini bulunuz-
+bulunu=
+-
+=
+-
+dd2 2 -
+=
+=
+-
+=
+-
+-
+-
+KKKKKKOOOOOO#
+#
+x dv=
++
+=
+l]
+]
+]
+#
+ olduğuna göre $
+]
+]
+g çarpımının sonucunu bulunuzolu&
+-
+=
+x df &
+=
+=
+l]
+]
+]
+]
+#
++
+=
++
+-
+=
+&
+olu=
+=
+]
+]
+]
+]
+]
+]
+&
+&
+olu+
+=
++
+=
+=
+]
+]
+]
+]
+Budurumda bulunu1 $
+$
+=
+=
+]
+]
+Verilen integralde 2 -
+=
+ dönüşümü yapılırsa 
+ddu olu&
+-
+=
+-
+=
+]
+Yapılan dönüşüme göre belirli integralin sınırları değiştirilirsolu&
+&
+=-
+= -
+- -
+=
+=
+=
+-
+=
+]
+]
+Yapılan dönüşüm ve yeni sınırlar verilen belirli integrale uygulanırs-
+-
+ddu dbulunud-
+=
+-
+=
+=
+=
+-
+=
+-
+-
+]
+]
+?
+4444 444444 #
+#
+#
+ÖRNEÖRNEÇÖZÜÇÖZÜÇÖZÜİntegraYanda f = ] g fonksiyonunun grafiği verilmiştir. Buna 
+göre 
+ifadesinin değerini bulunuzx dx d+
+-
+-
+]
+]
+#
+#
+f fonksiyonunun grafiği incelendiğinde 
+,
+,
+ve -
+=
+-
+=
+=
+=
+]
+]
+]
+]
+olduğu görülür-
+-
+bulunu=
++
+=
+x dx df f +
+=
++
+-
+-
+-
+-
+=
+-
++
+-
+-
+-
+]
+]
+]
+]
+]
+]
+]
+]
+]
+]
+@
+@
+#
+#
+ÖRNEÇÖZÜYanda f = ] g fonksiyonunun grafiği verilmiştir. f ] g fonksiyonnun grafiğine =
+ noktasında çizilen teğeti x eksen ile pozitif yönde 45c açı yaptığına gör 
+ 
+ 
+ifadesinin değerini bulunuzd$
++
+-
+ll]
+]
+]
+@
+#
+f fonksiyonunun grafiği incelendiğinde -
+=
+l]
+ ve 
+ta=
+=
+]  olduğu görülürVerilen integralde =
+l]  dönüşümü yapılır ve diferansiyel alınırs&
+x ddu olu=
+=
+l]
+]
+Yapılan dönüşüme göre belirli integralin sınırları değiştirilirs+
+dx du dbulunud$
+$
++
+=
++
+=
++
+=
++
+=
++
+-
+=
+-
+-
++
+lll]
+]
+]
+^
+]
+]
+]
+g@
+44444 4444 #
+#
+#
+&
+olu=-
+=
+-
+=
+l]
+&
+olu=
+=
+=
+l] Dönüşüm ve yeni sınırlar verilen belirli integrale uygulanırsÖRNEÇÖZÜMatematik HATIRLATMYanda doğrusal f ^ h fonksiyonunun grafiği verilmiştir      
+x d=
+-
+l^
+#
+olduğuna göre m değerini bulunuzDoğrusal bir fonksiyonun grafiği eksenleri 
+=
+ ve =
+ de kesiyors                      
+olu+
+=
+-
+u df bulunu&
+&
+&
+&
+&
+=
+=
+-
+-
+=
+-
+-
+=
+=-
+-
+^
+^
+^
+^
+#
+Verilen f ^ h fonksiyonun grafiği x eksenini =
+ ve y eksenini =
+ de kestiğinden 
+&
+x du df d=
+=
+-

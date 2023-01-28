@@ -1,0 +1,400 @@
+‹
+Re(z)
+(z)
+-
+ 
+ifadesinin değerini bulunuz. 
+5. 2 -
++
+=
+ denkleminin karmaşık sayılar 
+kümesindeki çözüm kümesini bulunuz. 
+6. 2 -
++
+=
+ denklemi ile ilgilI. İki farklı sanal kökü vardırII. Sanal köklerinden birisi 
+- -
+ dirIII. Kökler birbirinin eşleniğidirifadelerinden hangisi ya da hangilerinin doğru 
+olduğunu bulunuz. 
+7. =
+-
+-
+-
+ karmaşık sayısının eşleneğini sanal kısmı 3 olduğuna göre z karmaşık 
+sayısını bulunuz. 
+ 8. x, y birer gerçek sayı olmak üzere  
+     x =
++
++
++
+^
+^
+h  karmaşık sayısının 
+     gerçek kısmı 5, sanal kısmı 8 olduğuna göre y 
+     nin alabileceği değerlerin çarpımını bulunuzALIŞTIRMALAİkinci Dereceden Denklemleİkinci Dereceden Denklemle, b,
+ve !
+!
+ olmak üzere ab2 +
++
+=
+ denkleminin kökleri, 
+ve = - +
+= - -
+ olduğunda+
+= - +
++ - -
+= - +
++ - -
+= -
+= -
+^
+ bulunuraaa a c bulunua$
+$
+3 $
+$
+^
+=
+- +
+- -
+=
+- +
+- -
+=
+-
+=
+-
+-
+=
+-
++
+=
+=
+=
+-
+^
+^
+^
+İpuc10.4.1.4. İkinci Dereceden Bir Bilinmeyenli Denklemin Kökleri ile Katsayıları  
+Arasındaki İlişka, b,
+v!
+!
+ olmak üzere ab2 +
++
+=
+ denkleminin kökleri v is+
+= -
+ ve 1 $
+=
+ olur. 
+2 -
++
+=
+ denkleminin kökleri ve 2  isa) x1 +
+ ifadesinin değerini bulunuzb) x1 $
+ ifadesinin değerini bulunuz2 -
++
+=
+ denkleminde 
+,
+ve =
+= -
+=
+ olur. Burada1 +
+=
+=
+-
+=
+-
+- ]
+,
+1 $
+=
+=
+=
+ olurİkinci Dereceden Denklemleİkinci Dereceden Denklemle2 +
+-
+=
+ denkleminde 
+,
+ve =
+=
+= -  olur. 
+Buradan 1 +
+=
+=
+-
+-
+ ve 1 $
+=
+= -
+ değerleri 1 $
++
++
+ ifadesinde yerine yazılırsa 
+1 $
++
++
+= -
++ -
+= -
+ olur2 +
+=
+-
+ denkleminin kökleri v olduğuna göre 1 $
++
++
+ ifadesinin değerini bulunuz2 -
++
+=
+ denkleminin kökleri v olmak üzere (
+)
+(
+)
+1 $
+$
++
+ işleminin sonucunu 
+bulunuz(
+)
+(
+)
+$
+$
++
+ ifadesi x1 $
+ parantezine alınırsa (
+)
+(
+)
+olu$
+$
+$
+$
++
+=
++
+]
++
+=
+-
+ denkleminde 
+ve olu1 $
++
+= - -
+=
+=
+=
+^
+ 
+Buradan (
+)
+(
+)
+12 $
+$
+$
+$
+$
++
+=
++
+=
+=
+]
+4444 =
+ olur2 -
++
+=
+ denkleminin kökleri v olmak üzere 
+1 +
+2  ifadesinin değerini bulunuz+
+ ifadesi A olsun. =
++
+2  ifadesinde her iki tarafın karesi alınırs  
+olu$
+$
+$
+$
+$
+$
+=
++
+=
++
++
+=
++
++
+=
++
++
+^
+^
+^
+2 -
++
+=
+ denkleminden ve 1 $
++
+= - -
+=
+=
+=
+^
+ bulunurBu değerler $
+$
+=
++
++
+ eşitliğinde yerine yazılırs   
+olu&
+&
+$
+$
+"
+=
++
++
+=
++
+=
+=
+=
+444 1 2 444  
+Buradan A ifadesi pozitif olduğundan 2 =
++
+=
+=
+ olurİkinci Dereceden Denklemleİkinci Dereceden Denklemlem gerçek sayı olmak üzere m2 +
++
+=
+ denkleminin kökleri 
+,
+x dir. = -
++
+ olduğuna göre 
+m değerini bulunuzm2 +
++
+=
+ denkleminde 
+,
+m ve =
+=
+=
+ olur. Buradan 1 +
+=
+=
+=
+-
+-
+-
+ 
+bulunur. 1 +
+= -  olduğundan 
+&
+= -
+=
+-
+ olurm sıfırdan farklı gerçek sayı ve 2 -
+-
++ -
++
+=
+]
+ denkleminin kökleri 
+,
+x olmak üzere 
+1 +
+=
+ olduğuna göre x1 $
+  ifadesinin değerini bulunuz2 -
++
+=
+ denkleminin kökleri v olmak üzera)  (
+)
+(
+)
++
+ işleminin sonucunu bulunuzb)  (
+)
+(
+)
+x+
+ işleminin sonucunu bulunuzve 1 $
++
+ değerleri 2 -
++
+=
+ denkleminden bulunursa 
+ve 1 $
++
+= - -
+=
+=
+=
+^
+ olura) ve 1 $
++
+=
+=
+ değerleri (
+)
+(
+)
+$
+$
++
+=
+-
++
+^
+ eşitliğinde yerine yazılırs (
+)
+(
+)
+2 $
++
+=
+-
+=
+-
+=
+ olurb) ve 1 $
++
+=
+=
+ değerleri (
+)
+(
+)
+$
+$
+$
++
+=
++
+-
++
+^
+^
+h eşitliğinde yerin yazılırsa 
+(
+)
+(
+)
+olu$
+$
++
+=
+-
+=
+2 -
+-
++ -
++
+=
+]
+ denklemindbulunu&
+&
++
+= - -

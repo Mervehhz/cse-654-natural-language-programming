@@ -1,0 +1,400 @@
+=
++
+=-
++
+=
+]
+]
+]
+ÖRNEÇÖZÜMatematik f =
+-
+]  olduğuna göre f ] g fonksiyonnun diferansiyelini bulunuz                                                                                                      
+d+
+]
+#
+ ifadesinin eşitini bulunuz                                                                                                      
+-
+d#
+ ifadesinin eşitini bulunuz                                                                                                      
++
++
+d-
+]
+#
+ ifadesinin 
+eşitini bulunuz                                                                                            
+d+
+#
+ ifadesinin eşitini bulunuz                                                                                                      
+d+
+]
+#
+ ifadesinin eşitini bulunuz                                                                                                      
+d-
+]
+#
+ ifadesinin eşitini bulunuz                                                                                                      
+d2 -
++
+#
+ ifadesinin eşitini bulunuz                                                                                                      
+d+
+#
+ ifadesinin eşitini bulunuz                                                                                                      
+d+
++
++
+]
+#
+ ifadesinin eşitini 
+bulunuzd+
+#
+ ifadesinin eşitini bulunuz                                                                                                      
+dl#
+ ifadesinin eşitini bulunuz                                                                                                   
+ AlıştırmalaİntegraYanda 
+,
+a @ nda tanımlı f = ] g fonksiyonunun grafiğ verilmiştir,
+a @ nda f = ] g eğrisi ile x ekseni arasında kalan 
+bölgenin alanı Alman matematikçi Bernhard Riemann 
+(Bernard Riman) tarafından hesaplanmıştır       
+,
+a @ nda  olmak üzere x=
+  ve 
+x=
+ seçilerek oluşturulan 
+,
+,
+,
+= #
+- kümesne 
+,
+a @ nın bir bölüntüsü denir. (Bu bölüntü eşit 
+aralıklarla olmak zorunda değildir.)
+    
+-
+=
+-
+=
+-
+=
+`
+bbbbbbbb alt aralıkların genişlikleridirEğer 
+,
+a @, n tane eşit alt aralığa bölünecek olursa ortak genişlik 
+=
+-
+ olurRiemann  Toplam,
+i in {
+,
+,
+^
+A nın  görüntü 
+       
+      kümesinin bir elemanı, 
+,
+i in {
+,
+,
+^
+A nın görüntü           
+      kümesinin bir elemanı, 
+,
+i in {
+,
+,
+A nın görüntü        
+      kümesinin bir elemanı olmak üzere 
+6.2. BELİRLİ İNTEGRAL VE UYGULAMALAR6.2.1. Bir Fonksiyonun Grafiği ile x Ekseni Arasında Kalan Sınırlı 
+Bölgenin Alanının Riemann Toplamı Yardımıyla Yaklaşık 
+Olarak HesaplanmasMatematik Riemann Alt Toplam,
+,
+i in {
+,
+^
+A nın görüntü  
+      kümesinin en küçük elemanı, 
+,
+i in {
+,
+,
+^
+A nın görüntü  
+      kümesinin en küçük elemanı, 
+,
+i in {
+,
+,
+A nın görüntü    
+      kümesinin en küçük elemanı olmak üzere 
+Grafikteki eğrinin altında oluşan boyalı dikdörtgenlerin toplam alanını veren 
+$
+$
+$
++
++
+^
+^
+^
+    
+                                                  
+toplamına f ] g fonksiyonunun 
+,
+a @ na ait bir Riemann alt toplamı denir. Burada 
+,
+a @ 3 alt 
+aralığa ayrılmıştır. Eğer 
+,
+a @ daha fazla alt aralığa ayrılırsa bulunan Riemann alt toplamının 
+değeri, eğrinin altında kalan alanın değerine daha yakın olur 
+Riemann Üst Toplam,
+i in {
+,
+,
+^
+A nın görüntü 
+kümesinin en büyük elemanı, 
+,
+i in {
+,
+,
+^
+A nın görüntü 
+      kümesinin en büyük elemanı, 
+,
+i in {
+,
+,
+A nın görüntü  
+      kümesinin en büyük elemanı olmak üzere 
+Grafikteki eğrinin üzerinde oluşan boyalı dikdörtgenlerin toplam alanını veren    
+                                                                                     
+toplamına f ] g fonksiyonunun 
+,
+a @ na ait bir Riemann üst toplamı denir. Burada 
+,
+a @ 3 alt 
+aralığa ayrılmıştır. Eğer 
+,
+a @ daha fazla alt aralığa ayrılırsa bulunan Riemann üst toplamının 
+değeri, eğrinin altında kalan alanın değerine daha yakın olurGrafikte oluşan boyalı dikdörtgenlerin toplam alanını veren       
+toplamına f ] g fonksiyonunun 
+,
+a @ na ait bir Riemann toplamı denir. Burada 
+,
+a @ 3 alt aralığa 
+ayrılmıştır. Eğer 
+,
+a @ daha fazla alt aralığa ayrılırsa bulunan Riemann toplamının değeri, eğrinin 
+altında kalan alanın değerine daha yakın olur$
+$
+$
++
++
+^
+^
+^
+$
+$
+$
++
++
+^
+^
+^
+İntegra3 alt aralığa göre Riemann alt toplam,
+a @ nda f ^  ise 
+,
+a @ nda f fonksiyonunun grafiğinin altında kalan alanın değeri Riemann 
+alt ve üst toplamlarının arasında bir değer olurAşağıda 
+,
+a @ 3 ve 6 alt aralığa ayrılarak Riemann toplamları gösterilmiştir. 
+Grafiklere dikkat edilirse aralık sayısı arttıkça eğrinin altında kalan boşlukların veya eğrinin üzerind kalan fazla alanların küçüldüğü görülür. Buna göre aralık sayısı arttıkça hesaplanan Riemann 
+toplamlarının, eğrinin altında kalan alana daha yakın sonuçlar verdiği görülür6 alt aralığa göre Riemann alt toplam3 alt aralığa göre Riemann üst toplam6 alt aralığa göre Riemann üst toplam3 alt aralığa göre Riemann toplam6 alt aralığa göre Riemann toplamMatematik Yanda 
+,
+1 @ nda tanımlı f =
++
+]  fonksiyonunun grafiği 
+verilmiştir. 
+,
+1 @ nı 4 eşit alt aralığa bölerea) Riemann alt toplamını bulunuzb) Riemann üst toplamını bulunuzc) Her alt aralığın orta noktasına göre hesaplanan Riemann  
+    toplamını bulunuzAlt aralıklar eşit olduğundan ortak genişlik 
+D =
+-
+=
+-
+=
+ olurYandaki grafikte gösterilen Riemann alt toplamı A isx x x x bulunu1 1 1 1 $
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+=
++
++
++
+=
++
++
++
+=
++
++
++
+=
++
++
++
+=
+]
+]
+]
+]
+]
+]
+]
+]
+Yandaki grafikte gösterilen Riemann üst toplamı B is      
+    
+a)
+b)
+c)
+Yandaki grafikte gösterilen Riemann toplamı C isx x x x bulunu$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+=
++
++
++
+=
++
++
++
+=
++
++
++
+=
++
++
++
+=
+      
+    
+     
+    
+x x x x bulunu1 1 1 1 $
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+=
++
++
++
+=
++
++
++
+=
++
++
++
+=
++
++
++
+=
+]
+]
+]
+]
+]
+]
+]
+]
+f f f f ÖRNEÇÖZÜİntegraa)
+b)
+Yanda 
+,
+2 @ nda tanımlı f =-
++
+]  fonksiyonunun 
+grafiği verilmiştir. Bu eğri ile x ekseni arasında kalan boyal bölgenin alanını, 
+,
+2 @ nı 5 eşit alt aralığa bölerea) Riemann alt toplamı yardımıyla yaklaşık olarak        
+    hesaplayınızb) Riemann üst toplamı yardımıyla yaklaşık olarak     
+    hesaplayınızc) Alt aralıkların orta noktalarına göre Riemann  toplamı  
+    yardımıyla  hesaplayınız,
+2 @ 5 eşit alt aralığa ayrılacağından ortak genişlik 
+oluD =
+-
+=
+f = ] g fonksiyonunun 
+,
+2 @ 5 eşit alt aralığa ayrılarak 
+hesaplanan Riemann alt toplamı A is 
+x x x x x olu$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+=
++
++
++
++
+=
+-
++
+-
++
+-
++
+-
++
+-
+=-
+-
+-
+-
+-
+=-
+]
+]
+]
+]
+]
+]
+]
+]
+]
+]

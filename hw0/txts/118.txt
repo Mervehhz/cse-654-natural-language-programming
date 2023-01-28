@@ -1,0 +1,400 @@
++
++
+-
+ rasyonel ifadesinin en sade hâlini bulunuz1. |
+-
+-
++
+-
+-
+-
+-
+ ifadesinin en sade 
+hâlini bulunuz. 
+2. 2 -
++
+-
+-
+ ifadesinin en sade hâlini bulunuz. 
+3. 
+$
+-
+-
++
+]
+g  ifadesinin en sade hâlini bulunuz 
+4. 
+|
+-
++
+-
+-
++
++
+ ifadesinin en sade 
+hâlini bulunuz. 
+5. a ve b birer gerçek sayıdır. +
++
+-
++
+ 
+ifadesinin en sade şekli +
++
+ olduğuna göre  
+a $
+ ifadesinin değerini bulunuz. 
+6. |
++
++
+-
+-
+ ifadesinin en sade hâlini 
+    bulunuz.  
+ALIŞTIRMALAA) Aşağıdaki cümlelerde boş bırakılan 
+yerlere doğru ifadeyi yazınız1. 
+( )
+P n n +
++
++
++
+$
+$
+$
+=
+-
+-
+ 
+polinomunda,
+a) x , ,
+, x , x , n n $
+$
+$
+$
+-
+-
+ ifadlerine polinomun ................... denir                                  
+b) a , , ..., a , a , -
+ gerçek sayılarına 
+polinomun ...................... denir                      
+c) x değişkeninin aldığı en büyük üsse polinomn .................... denir ve der[P(x)] ile gösterili. 
+ç) En büyük dereceli terimin katsayısına polinomn ............................ denir                        
+d) a0  ifadesine polinomun ...................... denir.                                                                               
+                                                    
+                                                                     
+B) Aşağıdaki numaralarla verilen  polinolar ile harflerle verilen bu polinolara ait dereceleri eşleştirip eşleşenler alttaki kutulara yazınız2  1. 
+( )
+P 5 =
++
+-
+       
+  2. 
+( )
+Q =
+-
+  3. 
+( )
+R =
++
++
+a) b) c) ç)  4 
+d) 1. 
+2. 
+3. 
+C) Aşağıdaki açık uçlu soruların doğru 
+cevabını ilgili boşluklara yazınız3. 
+( )
+( )
+P ave Q a=
+-
++
+=
++
++
+ 
+polinomları veriliyor. 
+( )
+(
+)
+x P Q $
+$
++
++
+ 
+polinomunun katsayıları toplamı 72 olduğuna 
+göre a gerçek sayısının değerini bulunuz. 
+4. 
+( )
+P x  sabit terimi 0 olmayan  2. dereceden bir 
+polinomdur. 
+( )
+P x  polinomunun katsayıları toplamnın sabit terimden farkı 0 olduğuna göre 
+( )
+( )
+1 ifadesinin  değerini bulunuz.  
+5. 
+( )
+( )
+P ve Q =
+-
++
+=
++
++  
+polinomları veriliyor. 
+( )
+( )
+Q $
+çarpımından 
+elde edilecek x7  li terimin katsayısını bulunu.      
+                                                                     
+6. P ] g bir polinomdur   P a $
+=
++
+-
++
+-
+-
++
+^
+]
+]
+ 
+olduğuna göre P ] g polinomunun çift dereceli 
+terimlerinin katsayıları toplamını bulunuz.  
+ÖLÇME VE DEĞERLENDİRM7.   a gerçek sayı olmak üzere 
+      P aa=
++
++
++
+]  polinomunuQ =
++
+]  polinomu ile bölümünden elde    
+edilen bölüm ve kalan polinomlarının toplamın bulunuz.         
+ 8. P ] g bir polinom, a ve b gerçek sayıdır     P ab$
+-
+=
+-
++
+-
+^
+]
+            
+olduğuna göre -
+ ifadesinin değerini bulunuz.  
+ 9. a gerçek sayı olmak üzere 
+a$
+-
+= -
++
+]
+ polinomu veriliyor. 
+Buna göre 
+(
+)
+P 2 +
++
+ polinomunun 2x 
+ile bölümünden kalan 
+-
+ ise a ifadesinin 
+değerini bulunuz    
+     
+10. 2. dereceden bir P ] g polinomunun sıfırlar
+-  ve 6 dır. P ] g polinomunun -
+ 
+ile bölümünden kalan 
+-
+ olduğuna göre 
+(
+)
+P +
+ polinomunun sabit terimini bulunu11 - 13. soruları aşağıda verilen bilgilere 
+göre cevaplandırınızBir telefon ve tablet bilgisayar uygulaması 
+geliştirmek isteyen Taykut Bey, bu uygulamayı 
+aşağıdaki kurallara göre oluşturuyor• VERİ sayısına 1 ekleyip karesini alıyor. Bu 
+sonucu 2 ile çarpıp 1 numaralı işlem olarak 
+adlandırıyor• VERİ sayısının 1 eksiğinin karesini alıyor. 
+Bu sonucu 2 numaralı işlem olarak adlandırıyo• 2 numaralı işlemden 1 numaralı işlemin çıkarılmasında elde edilen sonucu ÜRÜN 
+olarak adlandırıyor11. VERİ x olmak üzere x e bağlı ÜRÜN formülün oluşturunuz. 
+12. VERİ 5 olduğunda ÜRÜN ün kaç olacağını 
+bulunuz. 
+13. Uygulamada yanlışlıkla 1. işlemde VERİ nin 
+1 fazlası yerine 2 fazlasının karesi alınmıştır. 
+Buna göre VERİ 5 olduğunda ÜRÜN ün olmas gerektiğinden ne kadar az hesaplanacağın bulunuz.   
+ 
+D) Aşağıdaki çoktan seçmeli soruların 
+doğru seçeneğini işaretleyiniz14. Bir 
+( )
+P x  polinomunun 
+( )
+Q x  polinomu ile 
+bölümünden elde edilen bölüm polinomu 
+( )
+B =
+-
+-
+ ve kalan polinomu ise 
+( )
+K =
+-
+ olarak veriliyor. Bu bilgilere 
+göre 
+( )
+P x  polinomunun +  ile bölümünde kalan aşağıdakilerden hangisine eşittir?
+A) 6         B) 4       C) 0        D)
+-          E)
+-                   
+15. 
+( )
+( )
+P ve Q x  birer polinom, a gerçek sayı 
+olmak üzere 
+     
+(
+)
+(
+)
+(
+)
+Q $
+-
++
+-
++
+=
++
++
+-
+      eşitliği veriliyor.  
+    • 
+( )
+P x  polinomunun -
+ ile bölümünde kalan 38 dir    • 
+( )
+Q x  polinomunun -
+ ile bölümünde kalan 3 türVerilen bu bilgilere göre 
+( )
+P x  polinomunun 
++
+ ile bölümünden kalan  aşağıdakilerden 
+hangisine eşittir?
+A) 15         B) 13       C) 11        D) 9         E) 16. 
+( )
+P x  bir polinomdur. 
+( )
+der P =
+@
+ olduğun göre 
+(
+)
+deP $
++
++
+^
+B 
+ifadesinin değeri aşağıdakilerden hangisine 
+eşittir?
+A) 14       B) 18      C) 38      D) 40        E) 17. 
+( )
+P x  3. dereceden bir polinom olmak  üzer(
+)
+( )
+( )
+-
+=
+=
+= -
+ ve 
+( )
+P x  polinomnun katsayıları toplamı 21 olduğuna göre 
+(
+)
+P -
+ polinomunun sabit terimi kaçtır?
+   
+A) 51       B) 50       C) 48       D) 44      E) 18. 
+( )
+P = -
++
+-  polinomu veriliyor. 
+(
+)
+P -
+@ polinomunun -
+ ile bölüünden kalan aşağıdakilerden hangisine 
+eşittir?
+A)
+-
+       B)
+-        C) 1       D) 8         E) 19. 
+( )
+P $
+=
++
+-
+]
+]
+g  olarak veriliyor. 
+( )
+P x  polinomunun x3  lü teriminin katsayısı 
+aşağıdakilerden hangisine eşittir?
+    
+A)
+-            B)
+-        C) 4     D) 8      E) DEĞERLENDİRMCevaplarınızı cevap anahtarı ile karşılaştırını. Yanlış cevap verdiğiniz ya da cevap 
+verirken tereddüt ettiğiniz sorularla ilgili 
+konuları veya faaliyetleri geri dönerek tekrarlayını. Cevaplarınızın tümü doğru ise bir 
+sonraki öğrenme faaliyetine geçinizÖLÇME VE DEĞERLENDİRMA) Aşağıda numaralarla verilen  polinomla ile harflerle verilen polinomların 
+eşit olanlarını eşleştirip eşleşenleri 
+alttaki kutulara yazınız11. 
+2. 
+3. 
+B) Aşağıdaki açık uçlu soruların doğru 
+cevabını ilgili boşluklara yazınız2. -
+^
+^
+h  ifadesinin kaç basamaklı 
+olduğunu bulunuz. 
+       
+3. 
+|
++
+-
+-
+l ifadesinin en sade hâlini 
+bulunuz4. 
+$
++
++
++
+-
+-
++
+  ifadesinin en sade hâlini 
+bulunuz. 
+ 
+5. a ve b gerçek sayılar olmak üzere ba-
+-
+-
+-
+ 
+ifadesinin en sade hâli -
+-
+ olduğuna göra $
+ ifadesinin değerini bulunuz. 
+6.  
+ABCD ve FKNC birer karedir. Şeklin tüm 
+alanc2  ve ABCNKE çokgeninin çevresi 
+c olduğuna göre EDCF dikdörtgeninin 
+alanının kaç cm2  olduğunu bulunuz.  
+1. 
+( )
+P 2 -
+=
+       
+ 2. ( )
+Q =
+-
++
+ 3( )
+T +

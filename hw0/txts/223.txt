@@ -1,0 +1,400 @@
+&
+&
+$
+$
+-
++
+=
+-
++
+=
+-
++
+=
+-
+-
+=
+=
+=
+=
+=
+=
+=
+^
+^
+^
+(
+x =  dönüşümü yapılır.)
+Matematik İçinde bilinmeyenin logaritmasını bulunduran denklemlere logaritmik denklemler denir. 
+Bu tür denklemlerin çözüm kümelerinin bulunmasında logaritma fonksiyonunun özelliklerinde yararlanılır. Logaritmik denklemlerde logaritması alınan ifadelerin pozitif olması şartının 
+yanı sıra taban x e bağlı bir fonksiyon ise tabanın da pozitif ve 1 den farklı olması şartı aranı. Bulunan x değerlerinin bu şartları sağlamasına göre çözüm kümesi oluşturulur+
+lolove olmazerf g f g f f {
+!
+!
+-
+=
+=
++
++
++
+lolo{
+{
+=
+=
+=
+=
+]
+]
+]
+]
+]
+]
+]
+^ ]
+]
+]
+g! +
+lo5-
+=
+]
+ denkleminin çözüm kümesini bulunuzAyrıca logaritmanın tanımı gereği -
+ olmalıdır. 
+&
+-
+ olur. 
+Bulunan x değeri bu koşulu sağladığından bulunur= ! +
+553 olur&
+&
+&
+-
+=
+=
+=
+lo55&
+-
+=
+-
+=
+]
+,
+,
+f f g f g ve f !
+^
+^
+^
+]
+]
+]
+]
+]
+]
+Logaritmik DenklemleÇÖZÜÖRNE2=
+-
++  denkleminin kökünü bulunuz(Her iki tarafın e tabanında logaritması alınır.)
+ÇÖZÜÖRNE&
+llllllllllllbulunu2&
+&
+&
+&
+&
+&
+&
+&
+&
+&
+$
+$
+=
+=
+-
+=
++
+-
+=
++
+-
+=
++
+-
+=
++
+=
+-
++
++
+-
++
+-
+^
+^
+^
+Üstel ve Logaritmik 
+Fonksiyonlalog log +
+-
+-
+=
+]
+]
+ denkleminin çözüm kümesini bulunuz&
+&
+&
+&
+109olur=
+-
++
++
+=
+-
+=
+=
+Ayrıca logaritmanın tanımı gereği ve +
+-
+  olmalıdır. 
+&
+&
++
+-
+-
+3  olur. Bulunan x değeri bu koşulları sağladığından bulunu= &
+log log log &
++
+-
+-
+=
+-
++
+=
+]
+]
+log log log +
+-
+=
+ denkleminin çözüm kümesini bulunuzlog log log 8 olur&
+&
+&
+&
+&
+$
+$
++
+-
+=
+=
+=
+=
+=
+Ayrıca logaritmanın tanımı gereği  olmalıdır. 
+Bulunan x değeri sıfırdan büyük olduğundan = " , bulunurlog log log log log log &
++
+-
+=
++
+-
+=
+log log 9-
+=
+  denkleminin çözüm kümesini bulunuzÇÖZÜÇÖZÜÇÖZÜÖRNEÖRNEÖRNEAyrıca logaritmanın tanımı gereği  olmalıdır. 
+Bulunan x değerleri sıfırdan büyük olduğundan 
+,Ç = &
+0 bulunur&
+log lolog lolololoveya vey&
+&
+&
+&
+&
+&
+&
+-
+-
++
+=
+-
++
+=
+=
+=-
+=
+=-
+=
+veya olu&
+&
+&
+- -
+=
+=
+=
+^
+^
+^
+^
+^(log =  dönüşümü yapılır.)
+Matematik lo+
+=
+]
+ denkleminin çözüm kümesini bulunuzAyrıca logaritmanın tanımı gereği 
+,
+ve !
++
+  olmalıdır. 
+Bulunan x değerlerinden 6 sayısı bu koşulları sağladığından = ! + bulunurlo&
++
+=
+=
++
+]
+6 6 veya olu&
+&
+&
+-
+-
+=
+-
++
+=
+=
+=-
+]
+]lolo+
++
+-
+=
+lo]
+gi denkleminin çözüm kümesini bulunuzAyrıca logaritmanın tanımı gereği 
+,
+lov+
+-
+-
+-
+lolo+
++
+]
+]
+g olmalıdır. 
+Bulunan x değeri bu koşulları sağladığından 
+bulunuÇ = " ,
+ 
+lololoolu&
+&
+&
+&
+&
++
+-
+=
++
+-
+=
+-
+=
+-
+=
+=
+lo]
+]
+]
+g&
+lololo=
++
+-
+=
++
+-
+lo+
+lo+
+]
+]
+gigÇÖZÜÇÖZÜÖRNEÖRNElolo$
++
++
+=
+x+
+^
+^
+ denkleminin çözüm kümesini bulunuzAyrıca logaritmanın tanımı gereği ve !
++
++
+ olmalıdır. 
+Bulunan x değeri bu koşulları sağladığından 
+,
+bulunu0 Ç = "
+,
+ÇÖZÜÖRNE&
+lolololoveya veyveyveya &
+&
+&
+&
+&
+&
+&
+&
+&
+&
+&
+&
+$
++
++
+=
++
++
++
+=
++
+=
+-
++
+=
+-
+-
+=
+=
+=
+=
+=
++
+=
+=
+=
+x+
+^
+^
+^
+^
+^
+^
+(
+lo+
+=
+^
+ dönüşümü yapılır.)
+Üstel ve Logaritmik 
+Fonksiyonlalog log +
+=
+-
+ denkleminin çözüm kümesini bulunuzAyrıca logaritmanın tanımı gereği  olmalıdır. Bulunan x değerleri sıfırdan büyük 
+olduğundan 1, = "
+, bulunurlog 4log +
+=
+ denkleminin çözüm kümesini bulunuzAyrıca logaritmanın tanımı gereği  olması gerektiğinden = &
+0 bulunurlog 4log log 4lo&
++
+=
++
+=
+log 4log lo4x 43 veya 3 olur&
+&
+&
+&
+&
+$
++
+=
+=
+=
+=
+=
+=-
+]
+ln ln ln ln +
+=
++

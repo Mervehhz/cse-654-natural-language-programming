@@ -1,0 +1,400 @@
+h ndaki her noktada türevi 
+sıfırdır"
+:
+,
+a @
+ ve 
+,
+a ^
+h nda sürekli olmak üzere 
+,
+,
+a ! ^
+h için 
+=
+^
+^
+h olduğundag fonksiyonu 
+,
+a ^
+h nda sabit fonksiyondurg fonksiyonunun 
+,
+a ^
+h ndaki her noktada türevi 
+sıfırdır"
+:
+,
+a @
+ ve f , 
+,
+a @ nda sürekli, 
+,
+a ^
+h nda türevlenebilir bir fonksiyon olmak üzere 
+   
+,
+a _ ! ^
+h için 
+&
+,
+f fonksiyonu a l] @ nda artandır   
+,
+a _ ! ^
+h için 
+&
+,
+f fonksiyonu a l] @ nda azalandır   
+,
+a _ ! ^
+h için 
++
+,
+f fonksiyonu a =
+l] @ nda sabit fonksiyondur"
+:
+,
+a @
+ ve f , 
+,
+a ^
+h nda sürekli, 
+,
+a ^
+h nda türevlenebilir bir fonksiyon olmak üzere 
+   
+,
+a _ ! ^
+h için 
+&
+,
+f fonksiyonu a l]
+^
+h nda artandır   
+,
+a _ ! ^
+h için 
+&
+,
+f fonksiyonu a l]
+^
+h nda azalandır   
+,
+a _ ! ^
+h için 
++
+,
+f fonksiyonu a =
+l]
+^
+h nda sabit fonksiyondur"
+:
+,
+f =
+-
++
+]  fonksiyonunun artan ve azalan olduğu en geniş aralıkları bulunuzTürevlenebilir bir fonksiyon; türevinin pozitif olduğu aralıkta artan, negatif olduğu aralıkta azalan 
+olduğundan fonksiyonun artan ve azalan olduğu aralıklar türevinin işaret tablosu incelenerek belirlenif =
+l]  denkleminin kökü bulunup işaret 
+tablosu yapılarak incelenirsBu durumda f fonksiyonunun, 
+3 ,-
+]
+h nda türevi negatif olduğundan fonksiyon 
+3 , -
+]
+? nda 
+azalan ve 
+,
+2 ^
+h nda türevi pozitif olduğundan fonksiyon 
+,
+ nda artandır-
+&
+f olu=
+-
++
+=
+-
+]
+]
+&
+&
+bulunu=
+-
+=
+=
+l] ÖRNEÇÖZÜMatematik "
+:
+,
+f =
+-
+-
++
+]   fonksiyonunun artan ve azalan olduğu en geniş aralıkları bulunuz                                                                                      
+=
+l]  denkleminin kökleri bulunup işaret tablosu yapılarak incelenirs-
+-
+&
+&
+&
+&
+veya olu=
+-
+-
+=
+=
+-
++
+=
+=
+=-
+l]
+]
+]
+&
+f olu=
+-
+-
++
+=
+-
+-
+]
+]
+Bu durumda f fonksiyonu 
+,
+,
+v-
+-
+]
+?
+ nda artan ve 
+,
+1 -
+@ nda azalandır-
+-
+Yanda f = ] g fonksiyonunun grafiği verilmiştir. Buna 
+göre aşağıda verilen ifadelerin hangilerinin pozitif hanglerinin negatif olacağını bulunuz) -
+-
+)
+)
+)
+$
+$
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+)
+) -
+]
+]
+]
+]
+]
+]
+]
+]
+]
+]
+,
+f fonksiyon3,
+-
+-
+: ]
+? nda azalan olduğundan 
+3 ,
+-
+-
+^
+h için l]  olur,
+2 -
+: @ nda artan olduğundan 
+,
+2 -
+^
+h için l]  olur,
+1 :
+ nda sabit fonksiyon olduğundan 
+,
+^
+h için =
+l]  olur. Bu durumd-
+,
+,
+,
+,
+,
+ve negatif pozitif oluv-
+-
+-
+-
+=
+=
+-
+-
+]
+]
+]
+]
+]
+]
+]
+ 
+a)  ve =
+-
+]
+]
+  olduğundan $
+-
+=
++
+]
+]
+1 2 444 ;
+ olup pozitif ya da negatif değildirb)  ve -
+]
+]
+  olduğundan 
+olu$
+-
+-
++
+]
+]
+1 2 444 ;
+c)  ve -
+-
+]
+]
+  olduğundan 
+olu-
+-
+-
+-
++
+]
+]
+1 2 444 1 2 444 ç)  ve =
+-
+]
+]
+  olduğundan 
+olu-
+-
+-
+]
+]
+1 2 444 ;
+d)  ve -
+-
+]
+]
+  olduğundan 
+olu-
+-
+-
++
+l]
+]
+6 7 444 1 2 444 e)  
+-
+ve <
+-
+-
+  olduğundan 
+-
+olu<
+-
+-
++
+-
+-
+4444 1 2 444 ÖRNEÖRNEÇÖZÜÇÖZÜTüreSONU"
+:
+,
+f =
+-
+-
++
+]   fonksiyonunun artan olmadığı en geniş aralığı bulunuz&
+f olu=
+-
+-
++
+=
+-
+-
+]
+]
+ 
+=
+l]  denkleminin kökleri bulunup işaret tablosu incelenecek olurs&
+veya olu&
+&
+=
+-
+-
+=
++
+-
+=
+=-
+=
+l]
+]
+]
+Bu durumda f ] g fonksiyonunun artan olmadığı en geniş aralık 
+,
+5 -
+:
+D dırGerçek sayılar kümesinde tanımlı bir f ] g fonksiyonu için ab=
++
++
+l]  olmak 
+üzere 
+denklemindab2 +
++
+=
+0 v0 ise f fonksiyonu daim#
+artandır0 v0 ise f fonksiyonu daim#
+azalandır-
+"
+:
+,
+f =
+-
++
++
+^  fonksiyonunun artan olduğu en geniş aralığı bulunuz&
+f olu=
+-
++
++
+=
+-
++
+^
+^
+=
+l]  denkleminin kökleri bulunup işaret tablosu yapılarak incelenirs&
+=
+-
++
+=
+l^               & =
+2 -
+^
+              & =
+ çift katlı kökü olurartaartaBu durumda f fonksiyonu R  de artandır. Bir başka ifadeyle bu fonksiyon daima artandır-
+-
+ÖRNEÖRNEÇÖZÜÇÖZÜMatematik "
+:
+,
+f =
++

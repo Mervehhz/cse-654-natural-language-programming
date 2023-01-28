@@ -1,0 +1,400 @@
+=
+ olup buradan =
+ olur=
+ için ( )
+$
+=
++
+=
+ olup buradan = -  olura ve b değerleri fonksiyonda yerine yazılırsa ( )
+f = -
++
+ bulunur. Depodaki yakıtın tamamen bitmesi 
+için ( )
+f =
+ olmalıdır. ( )
+f = -
++
+=
+ denkleminin çözümünden =
+  ve =
+ olur. Buna 
+göre 10. saatin sonunda aracın yakıtı biter. Bulunan bu verilere göre bu aracın deposunda kalan yakıt 
+miktarının zamana bağlı grafiği aşağıdaki gibidirDepodaki Yakıt (litre)
+hekta2010 yılı ölçümlerine göre Çiçekli ve Yeniyayla beldelerine ait aşağıdaki bilgiler verilmektedir• Çiçekli beldesinin ekili tarım arazisi 250 hektardır ve bu alan her yıl 20 hektar artmaktadır•  Yeniyayla beldesinin ekili tarım arazisi 330 hektardır ve bu alan her yıl 10 hektar artmaktadırYukarıda verilen bilgilerden hareketle yıllara göre bu beldelerdeki ekili tarım arazisini veren birer fonksiyo yazıp aşağıdaki soruları cevaplayınıza) Bu beldelerin ekili tarım arazilerinin alanlarının hangi yılda eşit olacağını bulunuzb) Bu iki beldeye ait ekili tarım arazilerinin alanlarının yıllara göre değişim grafiğini çizinizÇiçekli beldesinin ekili tarım arazisi bir yılda 20 hektar arttığından x yılda 20x hektar artar. 2010 yılındaki 
+250 hektarlık ekili tarım arazisine 20x eklenerek Çiçekli beldesinin ekili tarım arazisinin alanını geçen 
+yıllara göre veren fonksiyon ( )
+f =
++
+ olur. Aynı şekilde Yeniyayla beldesinin ekili tarım arazisini 
+veren fonksiyon ise 
+( )
+g =
++
+ olura) 2010 yılından t yıl sonra beldelerin ekili tarım arazilerinin alanlarının eşit olduğu düşünülürse ( )
+( )
+f g =
+ 
+olmalıdır. Buradan 
+&
+&
+&
++
+=
++
+-
+=
+-
+=
+=
+ olur. Buradan 8 
+yıl sonra yani +
+=
+ yılında beldelerin ekili tarım arazilerinin alanları eşit olacaktırb) Verilen bilgilere göre bu iki beldenin yıllara göre ekili tarım arazilerini veren grafik aşağıdaki gibidirALIŞTIRMALA1. Bilgi: Hava sıcaklığı, deniz seviyesinden yukarıy doğru çıkıldığında her 200 metrede 1 oC 
+azalmaktadır. 
+ 
+    Hava sıcaklığının 30 oC olduğu Nevşehir’e 
+turistik amaçla giden Çağrı, çevreyi daha iyi 
+gözlemleyebilmek için bir balon turuna katılıyo. Çağrı’nın bindiği balon dikey bir şekilde 
+800 metre yukarıya doğru havalanarak duruyo. Buna göre bu balonunun yüksekliğine 
+bağlı hava sıcaklığını veren fonksiyon yazarak 
+yükseklik-hava sıcaklığı grafiğini çiziniz2. Boyları 15 ve 20 cm olan iki farklı mumdan 
+uzun olan 40, kısa olan 60 dakikada yanmaktadı. Verilen bu bilgiye göra) Bu iki mumun her birine ait zamana bağlı 
+boylarını veren birer fonksiyon yazınızb) Aynı anda yakılan bu mumların boylarının kaçınc dakikada eşit olacağını bulunuzc) Bu mumların boylarındaki değişimin zamana 
+bağlı grafiğini çizinizSembol ve Gösterimle• fog, f -
+   Terimler ve Kavramla• Fonksiyonların Bileşkes• Fonksiyonun Ters• Yatay Doğru Testi 
+10.2.2. İki Fonksiyonun Bileşkesi ve Bir  Fonksiyonun Ters10.2.2.1. Bire Bir ve Örten Fonksiyonlarla İlgili Uygulamala"
+,
+:
+( )
+f =
++
+ fonksiyonunun bire bir ve örtenliğini inceleyiniz ve fonksiyonu eşleştirme kuralını 
+yazınız• Bire bir ve örten fonksiyonlarla ilgili uygulama yapabilmeyi,
+• Fonksiyonlarda bileşke işlemi ile ilgili işlem yapabilmeyi,
+• Bir fonksiyonun tersini bulabilmeyi öğreneceksiniz( )
+f =
++
+ fonksiyonu, tanım ve görüntü kümesine göre 
+yanda verilen şekildeki gibi çizilebilir. Daha sonra y eksenin dik olacak şekilde yatay doğrular çizilir. Bu doğruların her 
+biri grafiği tek bir noktada kestiği için ( )
+f =
++
+ fonksiyou bire birdir. 
+Fonksiyonun örtenliği ile ilgili bu durum aşağıdaki gibi gösterilebili=
++
+-
+=
+=
+-
+`
+bbbbbbbbbb6 !
+ için =
+-
+ şeklinde 
+7 !
+ 
+elde edilebilir. Buradan değer kümesinden 
+her y gerçek sayısına karşılık tanım 
+kümesinden bu kuralla bir x seçilebilir. 
+Öyleyse değer kümesinde eşlenmemiş eleman kalmaz, 
+dolayısıyla f örtendirBilgVerilen fonksiyonun grafiğini kesecek şekilde x eksenine paralel doğrular çizilir. Çizilen bu 
+paralel doğrular grafiği bir noktada kesiyorsa fonksiyon bire bir fonksiyondur denir. Yapılan 
+bu işleme yatay doğru testi denirYatay doğru testinde,değer kümesindeki her elemana tanım kümesinde bir eleman karşılık 
+geliyorsa fonksiyon örten fonksiyon, karşılık gelmiyorsa içine fonksiyondur"
+,
+:
+( )
+f =
+-
+ fonksiyonunun bire bir ve örten olup olmadığını GeoGebra programı yardımıyla 
+inceleyinizGeoGebra programını açınızCebir penceresinin alt kısmında yer 
+alan ‘‘Giriş’’  ekranına =
+-
+ yazını ve Enter tuşuna basınız. Böylece 
+ekranda ( )
+f =
+-
+ grafiği oluşacaktır‘‘Giriş’’ ekranına =
+ yazınız ve 
+Enter tuşuna basınız. Ekranda beliren 
+kutuda ‘‘Sürgüler Oluşturulsun mu?’’ 
+butonuna basınız. Sürgüyü sağa sola 
+oynatınca =
+ doğrusunun bazı 
+durumlarda grafiği 2 farklı noktada 
+kestiği görülür. Örneğin yandaki 
+şekilde a sürgüsü 1 in üzerindeyken  
+=
+ doğrusunun farklı iki  noktada 
+grafiği kestiği görülmektedir. Bu 
+durumda ( )
+f =
+-
+ fonksiyonu bire 
+bir değildirSürgüyü 
+-  ten küçük olan herhangi bir 
+değere getirince =
+ doğrusunun 
+( )
+f =
+-
+ grafiğini kesmediği görülür. 
+Bu durumda fonksiyon, y ekseni üzerindek 
+-  ten küçük değerleri alamamaktadır 
+( görüntü kümesi R  olmamakta). 
+Buradan 
+"
+,
+:
+( )
+f =
+-
+ fonksiyounun örten fonksiyon olmadığı görülür"
+,
+:
+( )
+f =
+ fonksiyon grafiği yanda verilmiştir. Yatay doğr testi ile bu fonksiyonun bire bir ve örtenliğini inceleyinizy eksenine dik olacak şekilde çizilen yatay doğrulardan bazıları 
+grafiği birden fazla noktada kestiği için bu fonksiyon bire bir değildiÇizilen yatay doğrular fonksiyonun grafiğini en az bir noktada 
+kestiği için bu fonksiyon örtendir1. 
+"
+,
+:
+( )
+f =
+-
+ fonksiyonunun grafiğin çizerek bire bir ve örtenliğini yatay doğru 
+testi ile inceleyiniz2. 
+"
+,
+:
+( )
+f =
++
+ fonksiyonunun bire bir 
+ve örtenliğini GeoGebra programında sürgüler 
+oluşturarak yatay doğru testi ile inceleyiniz3. 
+"
+,
+:
+( )
+f =
++
+ fonksiyonunun grafiğini 
+çizerek bire bir ve örtenliğini yatay doğru testi 
+ile inceleyiniz4. 
+     Yukarıda verilen fonksiyon grafiği için 
+"
+,
+,
+: (
+5 -
+-
+@
+@ fonksiyonunun bire bir 
+ve örtenliğini yatay doğru testi ile inceleyinizALIŞTIRMALAA, B, C boş kümeden farklı birer küme olmak üzere 
+"
+"
+,
+:
+:
+B C  fonksiyonları verilsin. 
+A kümesinin elemanlarını f ve g fonksiyonları yardımıyla C kümesinin elemanları ile eşleştiren 
+fonksiyona f ile g fonksiyonlarının bileşke fonksiyonu denir ve (
+)( )
+gox  şeklinde gösterilirBurada f fonksiyonunun görüntü kümesi ile g fonksiyonunun tanım kümesi eşittirgof fonksiyonu f nin tanım kümesindeki herhang bir x değerini, g nin değer kümesindek g(f(x)) biçimindeki bir z ile eşler. Bu ifade 
+sembollerle 
+"
+"
+,
+:
+:
+B C  olmak üzere 
+,
+gox A ve g f !
+!
+=
+=
+^
+^ ^
+h#
+-  
+biçiminde gösterilebilirBilg10.2.2.2. Fonksiyonlarda Bileşke İşlem"
+,
+:
+( )
+f =
++
+ ve 
+"
+,
+:
+( )
+g =
++  olduğuna göre 
+a) (
+)( )
+fox  ve (
+)( )
+fo2  değerini bulunuzb) (
+)( )
+go2  değerini bulunuza)(
+)( )
+( ( ))
+(
+)
+fof g =
+=
++
+=
++
++
+=
++
+ olur   Bu durumda (
+)( )
+fo2 $
+=
++
+=
+ olurb) 1.yo    (
+)( )
+( ( ))
+(
+)
+(
+)
+gog f g $
+=
+=
++
+=
++
++
+=
++
+ olur. Bu durumda (
+)( )
+go2 $
+=
++
+=
+ olur    2.yo(gof)(x) bulunmadan (
+)( )
+( ( ))
+gog =
+ ile de sonuca ulaşılabilir. Buradan ( )
+f =
++
+=
+ olur. Buluna değer g de yerine yazılarak 
+( ( ))
+( )
+g 2 $
+=
+=
++
+=
+ bulunurİki fonksiyonun bileşkesi birbiriyle bağlantılı, arka arkaya 
+yapılan iki işlem gibidir. 
+Örneğin x  Türk lirasına üretilen bir otomobilin bayilere geliş 
+fiyatı 
+( )
+f =
+ fonksiyonu şeklinde, bu otomobilin kullanıcılar satış fiyatı 
+( )
+g =
+ fonksiyonu şeklinde ifade edilirse x  
+Türk lirasına üretilen bir otomobilin kullanıcıya maliyetini göstere fonksiyon, 
+( )
+( ( ))
+g g f =
+=
+ ile tanımlanabilir• Fonksiyonlarda bileşke işleminin değişme özelliği yoktur. Yani herhangi iki f ve g fonksiyonu 
+için fogo=
+ olmak zorunda değildir• Bir f fonksiyonun birim fonksiyon ile bileşkesi yine f fonksiyonudur        f o =
+=  olurİpuc"
+,
+:
+( )
+f =
+-  ve 
+"
+,
+:
+( )
+g =
++
+ ise 
+a) (
+)( )
+fox  i bulup grafiğini çizinizb) (
+)( )
+gox  i bulup grafiğini çiziniza)(
+)( )
+( ( ))
+(
+)
+(
+)
+fof g $
+=
+=
++
+=
++
+-
+=
++
+ olur(
+)( )
+fo=
++
+ eşitliği =
++
+ şeklinde ifade edilirs=
+ için 
+olu6 &
+$
+=
++
+=
+ 
+=
+ için 
+olu&
+&
+=
++
+-
+=
+= -
+   
+b) (
+)( )
+( ( ))
+(
+)
+(
+)
+gog f $
+=
+=
+-
+=
+-
++
+=
+-  olur(
+)( )
+go=
+-  eşitliği =
+-  şeklinde ifade edilirse 
+=
+ için 6 1 olur&
+$
+=
+-
+= -
+=

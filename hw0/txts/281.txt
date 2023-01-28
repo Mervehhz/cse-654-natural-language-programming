@@ -1,0 +1,400 @@
+]
+*
+*
+biçiminde tanımlı f ve g ]
+]
+g fonksiyonlar veriliyorlim f g -
+=
+" ^ ]
+]
+g olduğuna göre 
+a $
+ çarpımı kaçtır?
+)
+)
+)
+)
+)
+-
+-
+Yukarıda f ve g +
++
+]
+]
+ fonksiyonlarnın grafikleri verilmiştirBuna göre 
+li+
+"
++ ^ ^
+]
+gh ifadesinin 
+değeri kaçtır?
+)
+)
+)
+)
+)
+-
+-
+lisicococosisi$
+$
+$
+-
+" ifadesinin değeri kaçtır?
+)
+)
+)
+)
+)
+2 2 -
+-
+f =
++
+^
+g =
++
+^ Matematik f a=
+-
++
+:
+] =
+-
+: lolduğuna göre a kaçtır?
+)
+)
+)
+)
+)
+Yukarıda f = ] g fonksiyonunun grafiği 
+verilmiştir. 
+f g -
+]
+]
+g fonksiyonu =
+ noktasnda sürekli olduğuna göre 
+lili"
+"
+-
++
+-
+]
+]
+g farkı kaçtır?
+)
+)
+)
+)
+)
+-
+-
+Yukarıda 
+,
+4 -
+ nda tanımlı f = ] g 
+fonksiyonunun grafiği verilmiştirBuna göre aşağıdaki ifadelerin hangiler yanlıştır?
+If  fonksiyonunun 4 tane ekstremum  
+      noktası vardırII. f ] g  fonksiyonunun mutlak minimum 
+      değeri 1 dirIII] g  fonksiyonunun mutlak maksimum 
+      değeri 6 dırIV] g  fonksiyonunun yerel maksimum                                
+      değerleri toplamı 14 türV] g  fonksiyonunun yerel minimum           
+      değerleri toplamı 5 tir)
+)
+)
+)
+)
+A I ve IIB I ve IC II ve ID II ve E IV ve f g =
+-
+=
++
+:
+:
+]
+]
+olduğuna göre aşağıdakilerden hangisi 
+yanlıştır?
+)
+)
+)
+)
+)
+f fo$
++
+=
+-
+=
+=
+=-
+=
+^
+^
+]
+]
+^
+]
+^
+]
+]
+23 Yarıçap uzunluğu r cm olan bir bilyenin üreti maliyeti hacim üzerinden c3  başına 2 
+kuruş ve satış fiyatı yüzey alanı üzerinden 
+c2  başına 3 kuruş olarak hesaplanmaktadıBuna göre 100 tane bilyenin satışından 
+elde edilebilecek maksimum kâr kar  TL olur?
+)
+)
+)
+)
+)
+f g m=
+-
++
+=-
++
+-
+]
+]
+parabolleri 
+,
+1 -
+^
+h noktasında birbirlerin teğet olduklarına göre +
++
+ 
+toplamı kaçtır?
+)
+)
+)
+)
+)
+-
+-
+TüreYukarıda f = ] g fonksiyonunun grafiği 
+verilmiştirBuna göre aşağıdakilerden hangisi 
+yanlıştır?
+)
+,
+a ^
+h nda  f ] g artandır)
+,
+b ^
+h nda 2^ h azalandır)
+,
+^
+h nda 3] g azalandır)
+,
+b ^
+h nda f 2 $ ] g  azalandır)
+,
+^
+h nda f 2 - ] g artandır. 
+28 Aşağıda türevlenebilir bir f ] g fonksiyonunu türevinin işaret tablosu verilmiştirBuna göre aşağıdakilerden hangisi yanlıştı?
+)
+-
+-
+]
+]
+)
+,
+f fonksiyon3 -
+] @ nda azalandır)
+,
+C f fonksiyon-
+-
+]
+^
+? nda artandır)
+D f fonksiyonunun 2 tane ekstremum  
+      noktası vardır)
+-
+]
+]
+g 
+Bir belediye çevresinin uzunluğu 720 metre 
+olan şekildeki gibi ABCD dikdörtgeni biçiminde 
+yeşil alana, oyun alanına, havuza ve futbol sahasın sahip bir park planı yapmıştırOyun alanı, havuz ve futbol sahası dikdörtgen 
+biçiminde ve şekildeki oranlara uygun olarak 
+yapılacaktır. 
+Park, futbol sahası en büyük alana sahip olaca şekilde yapılacağına göre;
+x uzunluğu kaç metre olur?
+Parkın tamamının alanı kaç metrekare olur?
+Parkın yeşil alanı kaç metrekare olur?
+E) 30-32. üst düzey beceri sorularını şekle      
+     ve metne göre cevaplayınızf a=
+-
++
+]  eğrisine =-  apsisli 
+noktasından çizilen teğeti,  =
+ apsisli 
+noktasından çizilen teğetine diktir.  
+Buna göre a nın alabileceği değerlerin 
+toplamı kaçtır?
+)
+)
+)
+)
+)
+-
+-
+-
+-
+futbosahasoyualanhavuyeşil alaMatematik İNTEGRA6.1. BELİRSİZ İNTEGRA6.2. BELİRLİ İNTEGRAL VE 
+UYGULAMALARHAZIRLIK ÇALIŞMALARTürevi bilinen bir fonksiyonun kendisi bulunabilir mi?
+Günlük hayatta karşılaşılan ve bilinen geometrik şekillere benzemeyen bir bölgenin alanı 
+nasıl hesaplanabilir?
+İntegraSONUBir fonksiyonun türevi f ve f nin tüm ters türevlerinin ailesi F ] g olsun. 
+dd=
+=
+l]
+]
+]
+g 
+olacak şekilde bir F ] g fonksiyonu varsa F +
+]  fonksiyonuna f ] g in ters türevi veya 
+belirsiz integrali denir ve 
+f x d=
++
+]
+]
+#
+ şeklinde gösterilirBu eşitlik f ] g fonksiyonunun belirsiz integralinin F +
+]  olduğunu gösterir. #
+sembolüne 
+integral işareti ve c gerçek sayısına da integral sabiti denir. f ] g fonksiyonu da integrali 
+alınan fonksiyonu göstermektedir. Bu durumdTürevi =
+l]  olan f ] g fonksiyonu,
+     
+f =
+^  
+     f =
++
+^      f =
+-
+^ vb. bir fonksiyondur. Bu fonksiyonların grafikler incelenirse, herhangi bir a apsisli noktada 
+her üç fonksiyona çizilen d, k ve n teğet doğrularını eğim     =
+=
+=
+=
+l^  
+olup doğruların birbirine paralel olduğu görülürBu durum c bir gerçek sayı olmak üzere 
+f =
++
+]  biçimindeki tüm fonksiyonlar için 
+geçerlidir. 
+O hâlde türevi =
+l]  olan f ] g fonksiyonu, f =
++
+] , (c sabit)  olarak ifade edilebilir6.1. BELİRSİZ İNTEGRA6.1.1. Belirsiz İntegral ve İntegral Alma Kurallar=
+=
+-
+=
++
+oluF f f x dF +
+=
+=
++
+l]
+]
+]
+]
+#
+integraltürevf x dF =
++
+]
+]
+#
+&
+&
+f x dF df x ddF oludf x df f =
++
+=
++
+=
+]
+]
+]
+^ ]
+]
+^
+^
+4444444 #
+#
+#
+(Eşitliğin her iki tarafının türevi alınır.)
+Matematik f x d=
+-
++
++
+] #
+ olduğuna göre f ] g fonksiyonunu bulunuzVerilen eşitliğe göre f ] g fonksiyonunun integrali -
++
++
+ olduğundan -
++
++
+ 
+ifadesinin türevi f ] g olur&
+-
++
++
+f f bulunu=
+=
+-
++
+]
+]
++ +
+dx f $
+=
+_ ^
+^
+#
+ olduğuna göre f fonksiyonunun türevini bulunuzVerilen eşitliğe göre f +
++
+]  ifadesinin integrali x f $ ^ h olduğundan x f $ ^ h  ifadesinin türevi 
+f +
++
+]  olurx f f f x f &
+$
+$
+$
+=
++
++
++
+=
++
++
+^
+^
+]
+^
+^
+^
+hx bulunu&
+&
+$
+=
++
+=
++
+l^
+^
+^
+-
+ÖRNEÖRNEÖRNEÇÖZÜÇÖZÜÇÖZÜf x d=
+-
++
+] #
+ olduğuna göre f ] g fonksiyonunun yerel minimum değerini bulunuz&
+&
+elde edili=
+-
+=
+=
+l] &
+f 6 $
+=
+-
+=
+-
+&
+bulunu=-
+]
+]

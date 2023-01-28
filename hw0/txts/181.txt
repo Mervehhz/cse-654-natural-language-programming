@@ -1,0 +1,400 @@
+katkının kaç hafta sonra haftalık kazancının 
+3 katı olacağını bulunuz. 
+2. Bir balıkçının belli bir zamana kadar tuttuğu 
+balıkların sayısı aşağıdaki tabloda verilmiştir. 
+Balıkçı 1. saatin sonuna kadar 3 balık, 2. saatin 
+sonuna kadar 8 balık tutmuşturZaman (saat)
+Balık sayısTabloya göre, 2 ile 5. saatler arasında 
+(2 ile 5. saatler dâhil) tutulan  balık sayısındaki 
+ortalama değişim hızını bulunuz3. 
+20 cm uzunluğundaki bir mumun yakıldıktan 
+sonraki boyunun grafiği şekildeki gibi doğrusal 
+verilmiştira) Mumun boyunun zamana göre değişimini 
+gösteren f(x) fonksiyonunu bulunuzb) Yakıldıktan kaç saat sonra mumun tamamen 
+eriyeceğini bulunuz. 
+4. 
+Yukarıda f: [-5, 7] → ℝ olacak şekilde 
+y = f(x) fonksiyonu verilmiştir. Buna göre 
+f(x) ≤ 0 eşitsizliğini sağlayan x tam sayılarının 
+toplamını bulunuz. 
+---y = f(x) 
+boy (cm)
+f (x)
+zaman (saat)
+AlıştırmalaF o n k s i y o n l a r d a  U y g u l a m a l a a, b, c ∈ ℝ ve a ≠ 0 olmak üzere 
+f: ℝ → ℝ, f(x) = ax2 + bx + c biçimindeki fonksiyonlara ikinci dereceden bir değişkenli fonksiyonlar 
+denir. 
+Bu fonksiyonları sağlayan (x, y) nin analitik düzlemde oluşturduğu noktalar kümesinikinci dereceden bir değişkenli fonksiyonların grafiği denir. 
+Bu fonksiyonların grafiği paraboldür. Parabolde fonksiyonun artan olduğu aralıktan azalan 
+olduğu aralığa geçtiği noktaya veya azalan olduğu aralıktan artan olduğu aralığa geçtiği noktaya 
+tepe noktası denir. Tepe noktası T ile gösterilir. f: ℝ → ℝ olmak üzere fonksiyon en küçük ya da 
+en büyük değerini tepe noktasında alıry = ax2 + bx + c parabolünün tepe noktasından geçen ve x eksenine dik olan doğruysimetri ekseni denirf: ℝ → ℝ, f(x) = ax2 Fonksiyonunun GrafiğGrafik GeoGebra programı ile çizilip yorumlanacaktırsimetri ekseni 
+artaazalasimetri ekseni 
+artaazala3.2. İkinci Dereceden Fonksiyonlar ve Grafikler3.2.1. İkinci Dereceden Bir Değişkenli Fonksiyon Grafiğinin Çizimi     
+a sürgüsünü oluşturunuz. Sürgünün minimum değerini 0.01, maksimum değerini 1, artış 
+değerini 0.01  konumuna getirinizGirişe dizi yazdıktan sonra oluşan satırdaki  ifade, değişken, başlangıç, bitiş, artış yerlerine 
+sırasıyla (i, i2), i,-10, 10, a yazınız.  
+Sürgüyü a = 1 konumuna getirdiğinizde y = x2 parabolünün bazı noktaları belirir. Bu 
+noktaların hepsini cebir penceresinde yazılı olan liste1 de görebilirsiniz2. Uygulama: y = x2 ParabolS a y ı l a r  v e  C e b i Sürgüyü a = 0.08 durumuna getirdiğinizde noktaların sıklaştığını ve y = x2 parabolünün 
+belirginleştiğini görebilirsinizParabollerin grafiğini çizerken parabolün denklemini sağlayan sonsuz noktayı analitik 
+düzlemde göstermek mümkün değildir. El ile çizimlerde fonksiyonu sağlayan birkaç (x, y) 
+noktası bulunur ve  bu noktalar ardışık olarak uygun şekilde birleştirilerek çizim yapılır. 
+f: ℝ → ℝ, f(x) = x2  fonksiyonunun grafiğini çizinizÇözüf(x) = x2 fonksiyonunda x in bazı değerlerine karşılık 
+y nin aldığı değerler aşağıdaki tabloda verilmiştir--f(x)
+(x, f(x)) noktalarının analitik düzlemde 
+birleştirilmesi ile yandaki parabol elde edilirFonksiyon en küçük değerini x = 0 noktasında alır. Bu değer 0 dır. Böylece O(0, 0) noktası 
+parabolün minimum noktası olur. Bu nokta aynı zamanda tepe noktasıdırx ve -x noktalarında fonksiyon aynı değeri aldığı için y ekseni parabolün simetri eksenidir15. Örnek 
+-(-2, 4)
+(2, 4)
+(1, 1)
+(-1, 1)
+-y = f(x) = xF o n k s i y o n l a r d a  U y g u l a m a l a a, b, c sürgülerini oluşturunuz. Sürgülerin minimum değerini -5, maksimum değerini 5, artış 
+değerini 0.1 durumuna getiriniz. 
+Girişe ax2 yazıp Enter tuşuna basınız. 
+Girişe bx2 yazıp Enter  tuşuna basınız. 
+Girişe cx2 yazıp Enter tuşuna basınız. 
+Ekranda parabollerin grafikleri belirecektir. 
+Sürgüleri a = 0.2, b = 5, c = 1.8 konumuna getiriniz. Cebir penceresinde grafiklerin işaret 
+ettiği fonksiyonlar f(x) = 0.2x2, g(x) = 5x2, h(x) = 1.8x2 olarak görülecektirSürgüleri a = -0.3, b = -0.9, c = -4  konumuna getiriniz. Cebir penceresinde grafiklerin 
+işaret ettiği fonksiyonlar f(x) = -0.3x2, g(x) = -0.9x2, h(x) = -4x2 olarak görülecektiry = ax2 parabollerinda > 0 ise parabolün kolları yukarı,
+a < 0 ise parabolün kolları aşağı doğrudurx2 nin katsayısı mutlak değer olarak büyüdükçe parabolün kolları birbirine yaklaşırx2 nin katsayısı mutlak değer olarak küçüldükçe parabolün kolları birbirinden uzaklaşır. 
+Bu parabollerde tepe noktası orijin, simetri ekseni y ekseni olurSürgülere sağ tıklayarak açılan pencereden canlandırma seçeneği ile simülasyon 
+oluşturabilirsiniz. Sürgülerin minimum, maksimum ve artış değerlerinin farklı durumları için 
+gözlem yapabilirsiniz3. Uygulama: y = ax2 Parabollerinin ÇizimS a y ı l a r  v e  C e b i f: ℝ →ℝ, f(x) = -2x2 fonksiyonunun grafiğini çizinizÇözü--    f(x)
+----(x, f(x)) noktalarının analitik düzlemde 
+birleştirilmesi ile yandaki parabol elde edilirFonksiyon en büyük değerini x = 0 noktasında alır. 
+Bu değer 0 dır.  Böylece O(0, 0) noktası parabolün 
+maksimum noktası olurx = 0 doğrusu parabolün simetri eksenidir16. Örnek 
+O ----f(x) = -2x(-1, -2)
+(1, -2)
+(2, -8)
+(-2, -8)
+f(x) = ax2 + bx + c  Fonksiyonunun Grafiğf: ℝ → ℝ, f(x) = ax2 + bx + c biçimindeki fonksiyonun grafiğini (parabol) çizebilmek için 
+parabolün eksenleri kestiği noktalar ve parabolün tepe noktası bulunur. Bu noktalar ardışık 
+birleştirilerek parabolün grafiği çizilira > 0 ise parabolün kolları yukarı, a < 0 ise parabolün kolları aşağı doğrudur• Parabolün eksenleri kestiği noktalax = 0 ⇒ f(0) = c olduğundan parabol, y eksenini (0, c) noktasında keser. 
+y = 0 ⇒ ax2 + bx + c = 0 olur. Bu durumda 
+∆ > 0  ise parabol x eksenini farklı iki noktada keser∆ < 0  ise parabol x eksenini kesmez∆ = 0  ise parabol x eksenine teğettir. 
+• Parabolün tepe noktasy = ax2 + bx + c fonksiyonunun grafiğinin tepe noktasının koordinatları T(r, k) olmak üzer=-
+ ve 
+( )
+f a=
+=
+-
+=
+-
+ olurf: ℝ →ℝ, f(x) = x2 - 2x + 3 fonksiyonunun grafiğinin tepe noktasını bulunuzÇözü1. YoFonksiyonun grafiğinin tepe noktasının apsisi 
+2 - -
+=
+=
+ vordinatı 
+( )
+( )
+f f 2 =
+=
+=
+-
++
+=
+ olurO hâlde tepe noktasının koordinatları T(r, k) = T(1, 2) olur.                                                      
+2. Yof(x) = x2 - 2x + 3  fonksiyonunun grafiğinin tepe noktası aynı zamanda fonksiyonun 
+maksimum veya minimum noktasıdır. f fonksiyonunda a = 1 > 0 olduğundan parabolün kolları 
+yukarı doğru olup minimum noktası vardır. f fonksiyonunun alacağı minimum değer, ardından 
+minimum noktası bulunur. Bunun için fonksiyonu tam kareye dönüştürmek gerekirf(x) = x2 - 2x + 3  = (x - 1)2 + 2 fonksiyonunun x - 1 = 0 ⇒ x = 1 için 
+minimum değeri f(1) = 2, minimum noktası (1, 2) olur. Bu nokta aynı zamanda fonksiyonun 
+grafiğinin tepe noktasıdır. Bu durumda T(1, 2) olur17. Örnek 
+F o n k s i y o n l a r d a  U y g u l a m a l a ( )
+(
+)
+f a 2 +
+-
+=
+ fonksiyonu için -
+=
+=
+ doğrusu 
+fonksiyonun simetri eksenidirf(x) = ax2 + bx + c fonksiyonu için f(x) = 0 denkleminin  kökleri 
+x1 ve x2 ise tepe noktasının apsisi =
+=
++
+-
+ olurf: ℝ →ℝ, f(x) = -4x2 + 8x - 5 fonksiyonunun grafiğinin tepe noktasını bulunuzÇözüf fonksiyonunda a = -4 < 0 olduğundan parabolün kolları aşağı doğru olup fonksiyonun 
+maksimum noktası vardır( )
+f =-
+-
++
+=-
+-
++
+=-
+-
+-
+]
+]
+:
+  fonksiyonunux - 1 = 0 ⇒ x = 1 için maksimum değeri f(1) = -1, 
+maksimum noktası (1, -1) olur. Bu nokta aynı zamanda fonksiyonun grafiğinin tepe 
+noktasıdır. Bu durumda T(1, -1)  olur18. Örnek 
+f: ℝ → ℝ, f(x) = ax2 + bx + c fonksiyonunun tepe noktası T(r, k) olmak üzere fonksiyon 
+( )
+(
+)
+f a 2 +
+-
+=
+ biçiminde ifade edilirSonuç                   
+xx=-
+=
+T(r, k)
+simetri ekseni 
+f: ℝ →ℝ, f(x) = (x - 3)2 + 2 fonksiyonunun grafiğini çizinizÇözüf fonksiyonu f(x) = (x - 3)2 + 2 olarak verildiğinden 
+parabolün tepe noktası T(3, 2) olur. 
+Simetri ekseni x = r = 3 doğrusudurx = 0 için parabolün y  eksenini kestiği nokty = (0 - 3)2 + 2 ⇒ y = 11 olur. 
+Analitik düzlemde parabolün tepe noktası ve y eksenini  
+kestiği nokta işaretlenirParabolün kolları yukarıya doğru ve parabol x = 3 doğrusuna 
+göre simetrik olacaktır. İşaretlenen noktalar birleştirilerek 
+yandaki parabol çizilir19. Örnek 
+x = simetri ekseni 
+T(3,2)
+S a y ı l a r  v e  C e b i f: ℝ →ℝ, f(x) = 2x2 + 5x - 3 fonksiyonunun grafiğini çizinizÇözüParabolün y eksenini kestiği nokta x = 0 için y = -3 olurParabolün x eksenini kestiği noktalar  y = 0 için 2x2 + 5x - 3 = (
+)(
+)
+ve olu-
++
+=
+=
+= -
+                                                         
+Tepe noktasının koordinatlar =-
+ ⇒ 
+2 =
+=
+-
+-
+=
+=
++
+-
+-
+-
+-
+=
+2 =
+-
+-
+=
+-
+-
+ 
+,
+-
+-
+l olurParabolün tepe noktası ve eksenleri kestiği noktbirleştirilerek grafik yandaki gibi çizilir. 
+20. Örnek 
+--y = 2x2 + 5x - -
+-
+,
+-
+-
+f: ℝ →ℝ, f(x) = (x + 2)2 - 3 fonksiyonunun grafiğini çizinizSıra SizdHer x ∈ ℝ için y = -x2 + x - 2 fonksiyonunun grafiğini çizinizÇözüParabolün eksenleri kestiği noktalar ve tepe 
+noktası aşağıdaki gibi bulunurx = 0 için y = -y = 0 için -x2 + x - 2 = 0 denklemind∆ = b2 - 4a   = 1 - 4(-1).(-2) = -7 < 0 olduğundan 
+reel kök yoktur. Dolayısıyla grafik x eksenini 
+kesmez. Tepe noktas,
+(
+)
+olarak bulunu&
+=-
+=-
+-
+=
+=
+=-
++
+-
+=-
+-
+=-
+-
+Parabolün tepe noktası ve y eksenini kestiği nokta birleştirilerek grafik yandaki gibi çizilir. 
+21. Örnek 
+-y = -x2 + x - -
+,
+T -
+F o n k s i y o n l a r d a  U y g u l a m a l a f: ℝ →ℝ, f(x) = x2 - 2x + 4 fonksiyonunun minimum değerini bulunuz. 
+Çözü1. Yof(x) = x2 - 2x + 4 = (x - 1)2 + 3  olduğundan fonksiyonun en küçük değerini alması için 
+x - 1 = 0 ⇒ x = 1 olmalıdır. 
+Bu durumda f(1) = 3 minimum değerdir2. Yol 
+Parabolün kolları yukarı doğru olduğundan parabolün 
+tepe noktası aynı zamanda minimum noktasıdır= -
+ ⇒ -
+=
+=
+-
+ olur. Buradak = f(r) ⇒ k = f(1) = 12 - 2.1 + 4 = 3 
+en küçük değer olarak bulunurYandaki grafikte fonksiyonun minimum değeri ve 
+minimum noktası görülmektedir23. Örnek 
+f: ℝ →ℝ, f(x) = x2 + 4x + 4 fonksiyonunun grafiğini çizinizÇözüFonksiyonun grafiğinin eksenleri kestiği noktalax = 0 için y = 4 ve 
+y = 0 için x2 + 4x + 4 = 0 ⇒ (x + 2).(x + 2) = 0 olurBuradan x1 = -2 ve x2 = -2 olarak bulunur. 
+Fonksiyonun eşit (çakışık) iki kökü vardırTepe noktas,
+olu2 2 $
+$
+=
+=-
+=
+-
+= -
++
+-
++
+=
+-
+-
+^
+]
+]
+]
+Parabolün tepe noktası ve y eksenini kestiği nokta birleştirilerek yukarıdaki grafik elde 
+edilir. 
+f(x) = ax2 + bx + c fonksiyonunun çift katlı kökü varsa kökün olduğu nokta fonksiyonun 
+grafiğinin tepe noktasıdır22. Örnek 
+-y = x2 + 4x +y = x2 - 2x +(1, 3)
+S a y ı l a r  v e  C e b i Parabolün Denklemini YazmParabolün grafiğine bağlı olarak denklem üç farklı duruma göre yazılabilir1. Biri y ekseni üzerinde olmak üzere parabolün herhangi üç noktası f(x) = ax2 + bx + c 
+fonksiyonunda yerine yazılarak a, b, c katsayıları bulunur ve parabol denklemi elde edilir2. f(x) = ax2 + bx + c  fonksiyonu için f(x) = 0 denkleminin kökleri  x1 ve x2 olsun. Bu durumda 
+parabol denklemi 
+y = a.(x - x1).(x - x2)  şeklinde yazılır(x1, 0),  (x2, 0) noktaları dışında parabol üzerinde verilen üçüncü bir nokta yardımıyla a değeri 
+bulunur ve parabol denklemi elde edilir3. Tepe noktasının koordinatları T(r, k) olsun. Parabolün üzerinde tepe noktası dışında ikinci 
+bir nokta bilindiğinde bu noktalar y = a.(x - r)2 + k   denkleminde yerine yazılarak a değeri 
+bulunur ve parabol denklemi elde edilirf: ℝ →ℝ, f(x) = (3m - 1)x2 - 4mx + 2 fonksiyonunun grafiğinin tepe noktasının apsisi 2 
+olduğuna göre fonksiyonun minimum değerini bulunuzÇözüTepe noktasının apsisi 
+.(
+)
+2 =
+=
+-
+-
+-
+-
+= m = 3m - 1 ⇒ 3m - m = 1 ⇒ 2m = 1 ⇒=
+ olur. 
+Minimum değer,  fonksiyonda =
+ ve x = 2 yazıldığında 
+k  = f(r) = f(2) = 1 2 $
+$
+-
++
+=
+ olarak bulunur24. Örnek 
+f: ℝ →ℝ, f(x) = (m - 1)x2 - (2m - 1)x - 1 fonksiyonunun grafiğinin tepe noktası x ekseni 
+üzerinde olduğuna göre m nin alabileceği değerleri bulunuz ÇözüTepe noktası x ekseni üzerinde olduğuna göre grafik x eksenine teğettir. 
+Bu durumda ∆ = b2 - 4ac =  0 olur(-(2m - 1))2 - 4(m - 1).(-1) = 0 
+4m2 - 4m + 1 + 4m - 4 = 4m2 - 3 = 0 olur. Burada2 =
+ ⇒ m = 3  veya m =
+-
+ olur25. Örnek 
+F o n k s i y o n l a r d a  U y g u l a m a l a Tepe noktası T(1, -4) olan ve (0, -5) noktasından geçen parabolün denklemini yazınızSıra SizdTepe noktası T(2, -5) olan ve A(1, -4) noktasından geçen parabolün denklemini yazınızÇözüT (r, k) = T(2, -5)  ve  A (x, y)  = A(1, -4) noktalary = a.(x - r)2 + k  denkleminde yerine yazıldığında  
+-4 = a.(1 - 2)2 - 5 ⇒ -4 = a.(-1)2 -  
+ 
+         ⇒ a - 5 = -4 ⇒ a = 1 olur. Buradan parabol denklemi 
+y = 1.(x - 2)2 - 5    ⇒ y = (x - 2)2 -  
+ 
+         ⇒ y = x2 - 4x - 1 olarak bulunur26. Örnek 
+x eksenini (-1, 0), (4, 0) noktalarında kesen ve (0, 4) noktasından geçen parabolün 
+denklemini yazınızÇözüx eksenini kestiği noktaların apsisleri x1  ve  x2 olan parabolün denklemi 
+y = a.(x - x1).(x - x2) olur-1 ve 4 noktaları parabolün x eksenini kestiği noktaların apsisleridir. 
+Bu durumda parabolün denklemi y = a.(x + 1).(x - 4) şeklinde olur. 
+(0, 4) noktası parabol üzerinde olduğundan denklemi sağlar4 = a.(0 + 1).(0 - 4) ⇒ 4 = -4a ⇒ a = -1 olarak bulunur. 
+Parabolün denklemy = -1.(x + 1).(x - 4) ⇒ y = -x2 + 3x + 4 olur27. Örnek 
+(-2, -3), (0, 2) ve (3, 2) noktalarından geçen parabolün denklemini yazınızÇözüVerilen noktalar y = ax2 + bx + c parabol denkleminde yerine yazıldığınd(0, 2) noktası için 2 = a.02 + b.0 + c ⇒ c = 2 olur. Buradan y = ax2 + bx + 2 olur(3, 2) noktası için 2 = a.32 + b.3 + 2 = 9a + 3b + 2 ⇒ 9a + 3b = 0 ⇒ 3a + b = 0 olur(-2, -3) noktası için -3 = a.(-2)2 + b.(-2) + 2 = 4a - 2b + 2 ⇒ 4a - 2b = -5 olur3a + b = 4a - 2b = -5  denklem sistemi çözüldüğünde 
+,
+=
+=
+-
+ olurBuna göre parabolün denklemi y = ax2 + bx + c ⇒  =
++
++
+-
+ olur28. Örnek 
+S a y ı l a r  v e  C e b i Yandaki şekilde =
+-
++
+-
+ 
+fonksiyonunun grafiği verilmiştir. |AB| = 4 
+birim olduğuna göre m değerini bulunuzÇözüGrafikte A noktasının koordinatları A(t, 0) olsun|AB| = 4 birim olduğuna göre B(t + 4, 0) olurKökler toplamı +
+=-
+  olur. 
+t + t + 4 = 
+-
+-
+-
+⇒ 2t + 4 = -2 ⇒ t = -3 olur. Buradan 
+A(-3, 0) ve B(1, 0) noktaları elde edilirKökler çarpımı x1.x2 = c  ⇒  -3.1 =
+-
+ 
+ 
+ 
+    ⇒ 3 = 4m ⇒ m = 3  olur30. Örnek 
+Yandaki şekilde y = x2 - 2x - m + 4 parabolünün grafiği 
+verilmiştir. |AO| = 3|OB| olduğuna göre m değerini bulunuzÇözüGrafikte |AO| = 3|OB| olduğunda|OB| = t ise |AO| = 3t,  A(3t, 0) olur. 
+B noktası x ekseninin negatif tarafında olduğundan B(-t, 0) olurKökler toplamı +
+=-
+  olduğunda 3t + (-t) =
+- -
+ = 2 ⇒ 2t = 2 ⇒ t = 1 ve  A(3, 0), B(-1, 0) olurA(3, 0) noktası y = x2 - 2x - m + 4 denkleminde yerine yazıldığında 
+0 = 32 - 2.3 - m + 4 ⇒ m = 7 olarak bulunurAyrıca B(-1, 0) noktası parabol denkleminde yerine yazılarak m değeri elde edilebilir29. Örnek 
+ F o n k s i y o n l a r d a  U y g u l a m a l a Bir Doğru ile Bir Parabolün Durumy = ax2 + bx + c parabolü ile y = mx + n doğrusunun durumları incelenirken denklemlerin ortak 
+çözümü yapılır. Bunun için her iki denklemde y değerleri birbirine eşitlenir. 
+ax2 + bx + c = mx + n ⇒ ax2 + (b - m)x + c  - n = 0 
+İki denklemin ortak çözümüyle ulaşılan denkleme ortak çözüm denklemi denirBulunan ortak çözüm denkleminin diskriminantı (∆) için 
+1.  ∆ < 0 ise 
+Ortak çözüm denkleminin kökü yokturO hâlde parabol ile doğru kesişmez2.  ∆ = 0 ise 
+Ortak çözüm denkleminin birbirine eşit iki 
+kökü vardır. 
+O hâlde doğru, parabole teğettir3.  ∆ > 0  isOrtak çözüm denkleminin farklı iki reel kökü vardır. 
+O hâlde parabol ile doğru farklı iki noktada kesişir. 
+y = x2 + x parabolü ile y = 3x + n doğrusu kesişmediğine göre n nin en geniş değer aralığını 
+bulunuz. 
+Çözüx2 + x = 3x + n ⇒ x2 - 2x - n = 0  ortak çözüm denklemidir. 
+Doğrular kesişmediğinden ortak çözüm denkleminin kökü yoktur. ∆ < 0 olmalıdır∆ = b2 - 4a∆ = (-2)2 - 4.1.(-n) < 4 + 4n < 0 ⇒ 4n < -4 ⇒ n < -1 olur. 
+En geniş değer aralığı (-∞, -1)  olur31. Örnek 
+S a y ı l a r  v e  C e b i Yandaki şekilde parabol x eksenini (-2, 0) ve (2, 0) 
+noktalarında, y eksenini (0, 4) noktasında kesmektedir. 
+y  eksenini (0, 5) noktasında kesen doğrunun parabole 
+değdiği nokta A(u, v) olduğuna göre u + v değerini  
+bulunuzÇözüParabolün denklemi y = a.(x - x1).(x - x2) şeklindedir. Buraday = a.(x - (-2)).(x - 2) = a.(x + 2).(x - 2) ve parabol (0, 4) noktasından geçtiği için 
+4 = a.2.(-2) ⇒ a = -1 olur. Buradan 
+y = -(x2 - 4) = -x2 + 4 olarak bulunurEğimi m ve y eksenini kestiği noktanın ordinatı 5 olan doğru denklemy = mx + 5 olarak yazılırOrtak çözüm denklemi  -x2 + 4 = mx + x2 + mx + 1 = 0  olarak bulunur. Bu denklemde doğru, parabole teğet olduğundan 
+∆ = b2 - 4ac = 0  olmalıdırm2 - 4 = 0 ⇒ m = 2 veya  m = -2 olur. Doğrunun eğim açısı geniş açı olduğundan m = -2 
+olur. Ortak çözüm denkleminde m = -2 yazıldığında 
+x2 - 2x + 1 = 0 ⇒ (x - 1)2 = 0 ⇒ x = 1 olur. Bu değer, doğrunun parabole değdiği A noktasını apsisidir. Buna göre u = 1 olur. 
+Bu değer, parabol veya doğru denkleminde yerine yazıldığında 
+y = -2.1 + 5 = 3, v = 3 elde edilir. Buradan  u + v = 4 olur33. Örnek 
+(-2, 0)
+(2, 0)
+(0, 4)
+(0, 5)
+A(u, v)
+ax + y = 1 doğrusu y = 2x2 + x + 3 parabolüne teğet olduğuna göre a nın alabileceği 
+değerler toplamını bulunuzÇözüax + y = 1 ⇒ y = 1 - ax  şeklinde yazılır. Parabol ile doğrunun ortak çözüm denklem2x2 + x + 3 = 1 - ax  ⇒ 2x2 + x + ax + 2 = 2x2 + (1 + a)x + 2 = 0 olarak bulunur. 
+Doğru, parabole teğet olduğundan bu denklemde ∆ = 0 olmalıdır∆ = (1 + a)2 - 4.2.2 = 0 ⇒ (1 + a)2 =  
+ 
+                ⇒ 1 + a = 4  veya 1 + a = - 
+ 
+                ⇒ a = 3 veya a = -5  
+a nın alabileceği değerler toplamı -5 + 3 = -2 olur32. Örnek 
+F o n k s i y o n l a r d a  U y g u l a m a l a f(x) = -x2 + 3x fonksiyonunun grafiğinin x - y = -2 doğrusuna en yakın noktasını bulunuzÇözüDoğru denklemi düzenlendiğinde y = x + 2 olury = x + 2 doğrusuna paralel ve fonksiyonun grafiğine 
+(parabol) teğet olan doğru çizilir. 
+Bu doğrunun parabole değdiği nokta y = x + 2 doğrusuna 
+en yakın olan noktadıry = x + 2 doğrusuna paralel ve parabole teğet olan doğru 
+y = x + k olsun. Bu doğru denklemi ile parabol denklemi 
+ortak çözülür. 
+-x2 + 3x = x + k ⇒ x2 - 2x + k = 0 
+Doğru, parabole teğet olduğu içi∆ = b2 - 4ac = (- 2)2 - 4.1.k = 0 olmalıdır. 
+Buradan 4 - 4k = 0 ⇒ k = 1 olur. Ortak çözüm denkleminde k = 1 yazıldığındx2 - 2x + 1 = 0 ⇒ (x-1)2 = 0 ⇒ x = 1 elde edilirx = 1 için y = 1 + 1 = 2 olur. İstenen nokta (1, 2) olarak bulunur34. Örnek 
+y = -x2 + 3y = x +  y = x + y = x2 + ax + 2 parabolüne orijinden çizilen teğetler birbirine dik olduğuna göre a nın 
+pozitif değerini bulunuzÇözüOrijinden geçen eğimi m olan teğetlerden birinin denklemi y = mx olsuny = mx doğru denklemi ile parabolün denkleminin ortak çözümü yapılırx2 + ax + 2 = mx ⇒ x2 + (a - m)x + 2 = Bu denklemde ∆ = (a - m)2 - 4.1.2 = 0 olmalıdır(a - m)2 - 8 = 0 ⇒ a - m = 2 2  veya  a - m = 
+2 -
+ olur. m nin iki değeri vardır.  
+Teğetlerden birinin eğimi m1 , diğerinin eğimi m2 olsun. Buradan 
+m1 = a - 2 2  ve m2 = a + 2 2 olarak bulunur. 
+Teğetler birbirine dik olduğundan eğimleri çarpımı m1.m2 = -1 olur(a - 2 2 ).(a + 2 2 ) = -1 ⇒ a2 - 8 = -1 ⇒ a2 = 7 
+ 
